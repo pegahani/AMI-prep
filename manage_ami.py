@@ -18,17 +18,38 @@ class manage_ami:
         if self.file != None:
             self.tree_resource = ET.parse(self.file)
             self.root_resources = self.tree_resource.getroot()
+            self.num_meetings = len(self.root_resources.getchildren())
 
         else:
             raise ValueError('entered corpus type not exist')
 
     def get_meeting_list(self):
 
-        return self.root_resources[0].attrib
+        self.meeting_list = []
+
+        for i in range(self.num_meetings):
+            self.meeting_list.append(self.root_resources[i].attrib['{http://nite.sourceforge.net/}id'])
+
+        return self.meeting_list
+
+    def get_participants(self, _meeting):
+
+        participant = {}
+        _meeting_id = self.meeting_list.index(_meeting)
+
+        print self.root_resources[_meeting_id][0]
+
+        for child in self.root_resources[_meeting_id].findall('speaker'):
+            participant[child.attrib['nxt_agent']] = child.attrib["global_name"]
+
+        return participant
+
 
 ex = manage_ami("MAN")
 ex.initializations()
 print ex.get_meeting_list()
+
+print ex.get_participants('meet_1')
 
 
 
