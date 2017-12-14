@@ -1,0 +1,663 @@
+A :  I'm proud of it .
+C :  Okay . This is our final meeting , the detailed design meeting .
+C :  And again I'll take minutes . The what we have to get through in this meeting is firstly the prototype presentation from you two , so you can show us what you've been working on so diligently .
+D :  Yeah .
+C :  Um then
+B :  It does look very cool .
+C :  then Cat's going to present the evaluation criteria that we're going to be evaluating this against . Then I need to say some st a few things about finance , 'cause we have to check that it's within the finance criteria . Um and then we'll be making sure that our product fits both the evaluation criteria from Cat and the financial limits . Um and then we uh will have a brief evaluation of the whole process of production and design that we've been through . So we've got forty minutes . S
+B :  And then do we get to make a remote control ?
+C :  'Cause we missed out .
+B :  Yeah .
+C :  it's now I guess that we're supposed to start at fifteen thirty five , so we've got until four
+C :  fifteen .
+A :  Uh-huh . How how much do we have , forty minutes ? Yeah .
+C :  Is that right ?
+D :  Yeah , about four fifteen , yeah .
+C :  Yeah , until about four fifteen . So yeah .
+B :  Yeah .
+A :  Okay , so .
+C :  Go for it . Do you want
+D :  So , you said um are are we starting with the the so will you maybe start with like the mm the shape and things and and then I will explain the the user interface th uh things , like the buttons and the scrolling things and
+C :  Yes .
+A :  Presentation .
+A :  Okay . Okay . So um basically going with our trend of vegetables and we selected the colour and approximate shape of banana . Um
+B :  You think bananas are a safe thing to use ? It's a bit um phallic .
+A :  Yeah . Um
+D :  Well , but it's it's just an a approximation .
+C :  Dual use , perfect . Dual use , perfect . Does it vibrate when you press the buttons ? Sorry , sorry .
+A :  Yeah .
+B :  Oh , your remote control ? Oh that's just bad .
+A :  Um so basically it's the it's the flip open thing again . So now we we have the okay , so Ma Maarika will explain you the user interface there . And it flips open on the side , so it opens like that . And we have the user interface o in here and uh the the L_C_D_ and and the scroll are inside . Um
+C :  Mm-hmm .
+C :  Mm-hmm .
+C :  Wow .
+A :  well , everything else is probably user interface , so . Yeah , yeah .
+C :  And it's the whole thing's made of rubber , is that
+D :  Uh yeah .
+A :  Oh yeah . Yeah , it has , yeah .
+D :  Rubber .
+B :  Is it to scale , or do you think you can make it a bit smaller ?
+D :  Yeah , .
+D :  Um it could be made a bit smaller , and and of course it would be and yeah , but um one thing we actually kind of um forgot while designing , that one side was supposed to be rounder , so we said the back side round , yeah .
+B :  Yeah .
+A :  Yeah , well , but i since it's made of rubber anyway . I I think it's it's uh
+C :  Mm-hmm .
+D :  Yeah .
+B :  It l does look like the curvy and then the whole shape's curvy , so I would say that this curvy does look quite like a vegetable .
+A :  Yeah .
+C :  Yeah .
+D :  Yeah . And it's spongy as well . So so uh the user interface as as we discussed last time uh mm on on the on the cover we just have the very basic things . So we have that n uh channels here starting from um uh one two three there would be numbers in in the on the actual one . So it's four , up to four , up to seven , up to nine and zero , z zero here .
+A :  Mm . Hmm .
+B :  I wasn't very keen on that , but yeah .
+C :  Huh .
+C :  Mm-hmm .
+C :  Yeah .
+C :  Six seven eight nine . I like that .
+D :  Yeah . And then , well this is on off button . It's it's quite standard mm place for it and and also the colour is quite often red , so it's it's kind of user friendly . And then these ones would be for flipping the channels back and like the previous one and the next one . And and we would also have a l little um thing saying here , previous and ne prevon prevon next .
+C :  Yeah .
+C :  Uh-huh .
+B :  So where's the volume ?
+C :  Yeah .
+D :  The volume is is scrolling . On the side , this one . Yeah you just do it like this . And and and it's it's on the back is mm cover or back lid , because if you flip it open , you can still do the scrolling here .
+A :  It's on the side .
+B :  Ah , you did get that in then , mm-hmm .
+B :  Oh okay , .
+C :  Mm-hmm .
+D :  See ? So the volume is you just scroll , but then once you flip it open , okay , there there you have the screen and and you have the mm spinning wheel with options to choose . You can move back and forth and then if you need to m choose something on the screen , you just push the cen mm the middle button .
+C :  Yeah .
+C :  Mm-hmm .
+C :  Mm-hmm .
+B :  Cool . Oh , the thing we forgot was like a mute button .
+A :  Uh no , we we'd not put so on on the cover we have the the bare essentials .
+D :  A mute button .
+B :  Yeah .
+D :  Well , we'll have this on the screen , on the display .
+C :  Y or you could have it so you on the wheel if you
+B :  On the wheel , like if you hold the wheel down then it will mute .
+C :  .
+A :  Uh on the L_C_D_ we r you know , the main menu will have various options .
+D :  Well , but the but the mute yeah , the scrolling is kind of you have to scroll all the way to make it mute , right ?
+C :  But if you hold it in , if it's a scroll and click so you hold it in ?
+B :  Yeah , but it's a scroll and click , isn't it ?
+A :  Mm .
+D :  Okay , yeah , okay .
+B :  Okay , cool . So that that solves the whole mute issue .
+A :  Mm .
+D :  Yeah .
+D :  And okay , so i so the the voice recognition is also just part of it . You can't really see it in the interface .
+C :  no .
+A :  Yeah , it's hidden in there somewhere .
+D :  Yeah . And we do have the logo on it as well .
+C :  Mm-hmm , very good .
+D :  So I think it
+C :  And it's with the the black and yellow you're even in the right colours .
+D :  Yeah .
+B :  .
+D :  Yeah , I think um we could do l the logo in grey , as it is on the website .
+A :  Cool .
+C :  Mm-hmm .
+B :  Yeah .
+A :  We ran out of resources here , so .
+D :  In the actual one .
+D :  Yeah . So if you have questions .
+A :  You can have a look .
+C :  Very good , let's have a look . Test it out .
+B :  .
+C :  Uh it's a sort of intermediate colour , I guess .
+B :  Yeah , oh , we hold the remote . Oh , but it it does feel all cold and slimy . I hate Play-Do , it's just minging . But yeah , uh that's cool , cool .
+C :  Very good . Okay , so maybe if we go on to evaluation cri criteria and then we'll there I suspect we're gonna have a couple of minor finance issues , but um we'll se I'm sure we can get around them somehow .
+B :  Mm-hmm .
+B :  Okay .
+A :  Yeah , see the budget .
+B : 
+C :  We'll just send all of our manufacturing to
+C :  some nice poor country and
+C :  cut some of the prices that way .
+B :  Wales .
+C :  Wales , for example .
+B :  Mm . Cool , okay . Right , okay .
+B :  Fabulous , yeah . Okay , cool . So what we're gonna do is prefer prepare the evaluation of the new design . Um so we're gonna be using a seven point scale , so one is , you know , yes , it totally meets with that requirement and seven is , no , it really doesn't , we need to go back and start again . Um , you know .
+C :  Marketing Expert .
+C :  Mm-hmm .
+B :  Basically , what I did was I went through all the like user requirements and things that we've done and we've worked on and like made a list of them . Um you know , so that we can evaluate each one and like so it was about going back to the start and saying oh yeah , we did manage to do that , or oh no , we really forgot about that . Okay ? Cool , so these are what they are . Oh
+D :  Yeah .
+C :  Mm-hmm .
+C :  So for each of these we need to give it a one to seven . Is that right ?
+B :  Yes , I did have A_ , B_ , C_ , and D_ down here , but it seems to have turned into like just bullet points . Okay . But if you can imagine that they say A_ , B_ , C_ , and D_ , then that would be really good .
+C :  Mm dots , never mind .
+A :  I guess we'll give it maximum points in everything .
+D :  Yeah , the yeah , it's definitely attractive .
+C :  Yeah , I agree .
+D :  Oh , the locatable thing we actually forgot .
+B :  Well , I thought we'd um kinda said that you'd have a little thing to stick on the T_V_ ?
+D :  Yeah . Shall I just prepare it now ?
+C :  Yeah , just prepare one now .
+B :  Yeah .
+D :  It will be red , too .
+B :  Cool . Okay . So , be attractive to look at .
+B :  That's this one . What do you all say ?
+D :  S seven was th the maximum , yeah ? I I go for seven .
+A :  So ?
+C :  I reckon it
+C :  Yeah .
+B :  Yeah .
+C :  Seven , yeah , it's terribly sexy . Yeah .
+B :  Oh we're all so proud of the . Okay , so that'll be a seven for A_ . Could oh no , you can't whilst that's up there . Okay um uh what I've done on the next page is I've set it up so we just put the marks in .
+A :  Yes .
+C :  Ah , okay .
+A :  Okay .
+C :  Excellent . Except we can't uh we can if we then yeah , I'll take a note , it's fine .
+B :  Yeah . But that's alright . If you take a note of them , and then I'll put them in in a minute . Okay , so we're all agreeing on seven for A_ ? Cool , okay . Does it match the operating behaviour of the user ?
+A :  But we can we can I can I can take note uh uh
+C :  Yeah .
+D :  I would think yes , yeah .
+C :  I think it does .
+A :  Um the the only thing that we were considering was that uh this thing is kind of more for right-handed people than for left-handed people , so if you're left-handed you're kind of left uh scrolling with your finger .
+B :  Yeah . I mean
+D :  Yeah , so y so we we might do we might want to do like a uh another m model another another version , which is like exactly the mirror image of this one .
+C :  Alright .
+C :  But that's gonna be a problem , 'cause you don't always have all left-handers or all right-handers in a family .
+B :  Yeah .
+A :  But then yeah .
+A :  Yeah . So bu it's it's not a huge problem , because i i it is operatable .
+D :  Yeah .
+B :  I th I think it's not it's not like it's a pen .
+D :  But then then I think left-handed people are already used to discrimination anyway , so they just
+C :  Yeah .
+B :  Yeah , but I mean because it's not like it's a pen , you know , left-handed people can't normally write right-handed , but they can normally do most things right-handed , so I would say it's not such a big issue .
+D :  Yeah .
+C :  Yeah .
+A :  Right .
+D :  Yeah , because I mean anyway , right-handed people would be able to scroll with it , so i if the majority are right-handed , it's uh
+C :  Mm-hmm .
+B :  Yeah . I mean you can you can use your finger to to scroll rather than your thumb . So I mean that does kind of negate the whole R_S_I_ issue . So maybe we need to put that needs a little bit of investigation , maybe give it a five , I would say ? What do you what do you all think ?
+A :  Yeah .
+C :  Yeah .
+C :  Mm-hmm .
+A :  Yep .
+C :  Yeah .
+A :  Mm .
+C :  Um
+C :  Six .
+A :  Mm .
+D :  Or maybe six , because it's just one one i one among the issues , I mean . Yeah .
+C :  Yeah , I think I think for um I mean most people are right-handed , so in in terms of our greatest target group , I think it's pretty good , but we might want to flag it for management , they want might want to um
+D :  Yeah .
+A :  One more thing is that i
+B :  Okay .
+C :  They
+A :  It might be a little clumsy when when it opens up , right , so it opens on the side . So
+C :  Mm-hmm .
+D :  No , yeah , but mm but we have it nicely with the hinges here yeah . So it won't be a problem , it will be and it will be it won't be heavy .
+A :  Yeah yeah yeah , I mean yeah . So you guys can decide wh whether
+C :  Yeah .
+B :  Yeah . Yeah .
+A :  Oops .
+B :  I th I think the alternative is flipping from the top .
+D :  Yeah well yeah , but it's it's a bit long . It's a little bit long . Well , I mean it can be opened like this of course and yeah .
+A :  Yeah , but we which makes it kind of really big , yeah .
+C :  The length is gonna be difficu
+B :  Yeah um
+B :  But you were thinking about making it smaller , yeah ?
+A :  Uh this this kind of uh makes it more and two , it might interfere with the I_R_ channel .
+C :  Mm .
+B :  Because
+D :  S uh slightly smaller .
+B :  So you have to keep that side flat .
+D :  Yeah , but if we flip it open only as much as that .
+A :  Okay .
+B :  So it works like a mobile phone flipping , but y you know , as long as that side's flat , than that will work .
+A :  Right .
+B :  Okay . Um okay , so C_ . Are are we admitting defeat on C_ or are we saying we're gonna stick a locator on the T_V_ ? There's a locator . Cool , so that means you need a that does mean you need a little speaker on it though , doesn't it ? To make it beep . Or a buzzer .
+A :  Okay .
+C :  No , we're gonna put it like we've got th there's the locator dot .
+A :  No , we have a locator .
+D :  Mm that you stick on T_V_ .
+C :  Mm .
+D :  Yeah well w but l but the speak sample speaker is included , so it it has some capacity to mm to do some to make some sounds , so yeah .
+A :  Yeah .
+C :  Yeah .
+B :  Okay .
+A :  Yeah .
+B :  So that's two , so that's seven , yeah . It's locatable ? Fabulous . D_ .
+D :  Yep .
+A :  Intuitive , completely intuitive .
+D :  Yeah . If uh uh if this means intuitive , if it means the way people kind of are used to finding things and it's I th I think it's
+C :  Yeah .
+C :  I'd say six , 'cause the I mean the the standard layout for numbers is three three three and one , rather than the way you've got it . I really like the way you have it , but it's not the immediate thing that you're used to .
+B :  Yeah .
+A :  Intuitive .
+B :  Yeah , and I mean d
+C :  So
+A :  And uh even the scroll , it's a it's a new technology so m m might be a little more difficult for people to get used to in the beginni so it is kind of not very intuitive but uh it's a good technology , I mean once they get used to it .
+C :  Might be
+C :  But it and it's something that they will be experiencing in a lot of different places soon .
+D :  Yeah .
+A :  Yeah .
+B :  So , should we maybe say f a five and say it is intuitive , but it's different , so , do you know , I mean it's obvious how to use it , but you might have to think about it first . So we give that one a five , you think ? Yep .
+A :  So l
+C :  Five ?
+C :  Yeah .
+A :  Yeah , okay . I'm gonna give a seven in everything , so .
+C :  I'm happy with five ? Yeah .
+D :  Yeah .
+B :  I'm glad you're accepting this . It has taken a little while , hasn't it ? Um intuitive
+B :  but
+B :  Sorry , it's really hard to write on those . I just went a bit mad , didn't I ? Um okay , cool , E_ , okay .
+A :  Mm .
+B :  Um I would guess this comes back from this whole B_ thing links in here , so possibly for left-handed .
+B :  Investigate .
+C :  Yep . But otherwise it's superb .
+B :  So , should we give it a six ? Six ?
+C :  Six .
+D :  Um uh the ergonom ergonomic design well mm I mean I d uh I dunno , I mean the the repetitive stress things , but then who would be really pushing the buttons so much on the on the remote control anyway , yeah ? See .
+C :  Yeah .
+A :  .
+A :  Yeah . Yeah , unless you are a all the time sitting .
+D :  Yeah , so it's kinda
+A :  Yeah .
+C :  Well we've banned them from
+A :  Yeah , I I think it is ergonomic .
+B :  I used to send fifty texts a day , you know , and I never got repetitive strain injury from that , so I find it quite hard to believe to be honest .
+A :  Mm yeah .
+C :  Yeah .
+A :  And moreover it it has um L_C_D_ and everything , so that uh you know uh we minimise the pressing of the buttons anyway .
+D :  Yeah .
+C :  Yeah , it's varied .
+C :  Yeah . Six ?
+B :  Okay , so we give that a six , yeah . Okay , F_ .
+D :  Yeah , it does have yeah .
+A :  Absolutely .
+C :  Voice control have seven .
+B :  Hang on , how come it's showing up with the things there but it only had bullet points there ? That's just
+C :  Ah , that's the second one . So you must have changed it on this one where it's got score , but not on the previous slide .
+B :  Oh okay , cool . Um right , so .
+A :  So it has voice control .
+B :  Yes , so that's a seven then . Um , cool .
+A :  Yep .
+C :  G_ technologically innovative .
+A :  Anyway it ha yeah , it's the most sophisticated remote that I ever seen .
+D :  Technologi well
+C :  But in terms of the actual technology , none of it is actually new .
+D :  Yeah .
+D :  Well mm we have we have the sample speaker as well , which is yeah , it's kind of new .
+C :  Yeah .
+B :  Yeah , but I mean you don't
+C :  All of the components have been used in other things before . But do yeah , yeah .
+A :  Yeah , but they've been brought together in a remote .
+B :  They're never been used i they've never been using remote remote control before I don't think .
+D :  But at the same time they are all they are all relatively new .
+C :  Yeah . What do you reckon , five , six ?
+B :  .
+B :  Yeah , what do you all think ? Six ?
+D :  Six .
+A :  Yeah .
+D :  I mean how how far can you go with a remote control , really ? It still has to do what i what it has to do .
+C :  Yeah .
+B :  Well , that's it , I mean
+B :  Yeah , but I mean everything has been used in space before it gets to anyone else really , hasn't it ? So , I don't think many peop
+C :  Space remote .
+B :  That's it , they can take it with them .
+C :  Put fashion in electronics .
+A :  Absolutely . The carrot banana remote .
+D :  Yeah , isn't it fashionable ? Yeah , sure .
+D :  It's the maximum fashion . Fruit fruit and vegetables are fashionable these days , so .
+B :  So , we give it seven , and we write
+B :  There we go .
+D :  So I think we've done very well , but
+A :  I think that's a .
+B :  Cool . So , we need the average here , so we got
+C :  Very good .
+D :  What's the assessment ?
+A :  Yeah .
+D :  The average is about six and something . A little bit over six .
+C :  Yeah , one .
+B :  Seven
+C :  Or a seven .
+A :  There are how many sixes ? One , two , three . Three .
+D :  No , wait , a little bit under six . No , wait .
+B :  So we've got four sevens , so that's twenty eight , three sixes , eighteen .
+A :  And one five .
+D :  Oh , three sixes , okay , yeah .
+C :  Fifty one , one , two , three , four , five , six , seven , eight .
+A :  Okay , twenty eight , thirty eight , fo forty six . Forty six and five , fifty one . Fifty one divided by
+D :  Four sevens .
+C :  Six point point about six point five . Close enough .
+D :  Six point something , yeah .
+B :  Two three four
+D :  Six point five , yeah .
+B :  Seven eight .
+B :  Okay , that's pretty good , I think .
+C :  Now wait until we get to finance and then we'll see if we can afford it .
+C :  That's all you've got at the moment , or did you have anything more ?
+B :  Um no , that's it , yeah .
+C :  That's it ? Alright . So , finance .
+C :  And we'll see if we can
+C :  unscrew this first .
+C :  Sorry , this is I'm just um
+B :  Cool , there we go .
+B :  .
+B :  There we go and there are the marks .
+C :  Beautiful . Not anymore .
+D :  Yeah .
+C :  Computer no signal ?
+A :  Mm I guess it'll have to wait for a bit .
+C :  Adjusting .
+C :  There we go .
+C :  Okay , so we've looked at the prototype presentation and the evaluation criteria .
+C :  And now we have to calculate the production costs . So I've got an Excel spreadsheet to help us do that .
+C :  Can you read that ? Almost .
+C :  More or less . Um I started filling it in , but of course these are provisional , so we have to go down . No hand dynamo , right ? One simple battery . No kinetic energy , no solar .
+B :  Yeah .
+D :  Yeah .
+A :  Mm .
+C :  The chip , we're going for an advanced chip on print . We also said the sample sensor and sample speaker .
+A :  Advanced , yeah .
+D :  Yep .
+C :  Um single-curved surface , so that we can fold it .
+D :  Yeah , yes .
+C :  Case material we said rubber . I don't know what special colour means .
+D :  Rubber .
+A :  Yep .
+A :  Mm anything uh I think which is not more .
+D :  I think something coloured , yeah , probably . So I think this is probably special co no ?
+C :  It could be
+A :  Yeah .
+B :  Yeah , but rubber comes coloured , doesn't it ? You know .
+C :  Rub rubber comes coloured , it's I would maybe it's like if you want titanium coloured or wood coloured , it's different .
+D :  Yeah .
+D :  Or maybe maybe if you want some kind of pattern thing on it , yeah yeah , okay .
+C :  Yeah , let's leave it as zero , 'cause it's easy .
+D :  Yeah .
+B :  Yeah , you might end up having to take off the
+C :  We we're definitely going to have to so we've got pushbutton , and then we've
+D :  We have pushbuttons ,
+B :  sample sensor .
+A :  Mm .
+D :  scro we have scroll wheel as well .
+C :  Scroll wheel with pushbutton we had , no ? S for the muting .
+D :  S yeah , yeah , we had , for muting , yeah . And we have L_C_ display and yeah .
+A :  No uh we we have uh yeah .
+C :  Yeah .
+C :  And button supplements .
+D :  Um
+A :  Mm no .
+B :  .
+B :  No .
+A :  We don't have we're not using any of that .
+C :  No .
+C :  No ?
+D :  Yeah , but what do we ha we have L_C_ display , but but the wh but the s spinning wheel
+C :  But the the spinning wheel's not there . I have think maybe it's integrated with the L_C_ display ?
+D :  Yeah .
+D :  Okay , let's yeah .
+B :  We've got more than one pushbutton though , haven't we ?
+C :  I think the pushbutton oh .
+B :  'Cause then you have
+C :  I don't know if that's one
+B :  That means you can only have twenty five push buttons in total doesn't it ? Not counting anything , we'd still be in budget .
+C :  Yeah .
+C :  That seems unlikely .
+C :  Push what uh whether whether pushbutton means that p count by button or do we I don't think that makes sense .
+A :  Huh ? Wh wh what is the limit ? Uh .
+B :  Twelve point five .
+D :  We have to count all of them , or yeah .
+A :  Mm I don't think so , no . No it says what what is the kind of interface , if it is pushbutton then you got a zero point five , it's a scroll wheel so we we've put it's pushbutton and scroll wheel and L_C_D_ display , so that's that's the three kind of interfaces that we have .
+B :  No . Well it doesn't , but it uh
+C :  No .
+C :  Yeah .
+C :  Yeah .
+B :  And L_C_ display .
+C :  Yeah .
+C :  Yeah .
+C :  So , as we can see , that's way too expensive down here .
+A :  Wh wh what's our criteria ?
+B :  This sample sensor .
+C :  Our budget's twelve point five .
+A :  Uh okay .
+B :  Yeah , the sample sensor will have to go , 'cause that's the most expensive thing on there .
+C :  Yeah , so that has implications though for the .
+A :  Uh it does not have for voice recognition , but it does have for the feedback speaker . when you say when you press one it says one or it says hello .
+B :  Yeah .
+C :  For the locator .
+B :  But that's a bit of a gimmick anyway really , isn't it ? We can afford to get rid of it .
+C :  Yeah .
+A :  Mm and the locator also goes away .
+D :  But it was very no innovative innovativeness . Well um yeah .
+C :  Yeah .
+B :  So that means no locator , does it ?
+B :  I mean does
+C :  What else does it need ?
+D :  Well the speaker uh the sample speaker is is expensive , but we could just have some some very very easy device that just beeps .
+C :  Yeah , 'cause the sample speaker was , I think , more complicated then just a beeping thing .
+D :  This would be
+D :  Yeah , yeah yeah there you record your samples your speech samples and
+B :  Yeah .
+B :  Yeah .
+C :  Yeah , okay , so we
+A :  A also i in the case I'm not sure that you will evaluate this as a curved surface , because it's just rubber , so it's probably a flat surface rubber . Uh I mean uh um yeah .
+C :  Uh-huh .
+B :  Okay , yeah .
+A :  Um
+C :  Right , so we need one fifty off .
+B :  See , I was gonna say the scroll wheel pushbutton thing , 'cause
+C :  Take it down to just a scroll wheel .
+C :  We could do
+A :  So tha that mean that we cannot press how do we how do we make a selection in uh in the L_C_D_ ? If in the L_C_D_ we can scroll , right ? But how do we make a selection if we d cannot push the button .
+D :  Yeah , then then we would be in the b budget .
+D :  Yeah b no no , you can push this one , but we don't have a pushbutton uh we ca we don't have this muting mechanism for this scrolling thing .
+C :  Yeah .
+B :  But that's well you would just have to to spin it down .
+C :  You can have to scroll it straight r roll it straight down for for mute .
+D :  Mm-hmm .
+B :  So that's point three .
+A :  No w w w but ha it's it's the scroll wheel and I thought we were referring to this as a scroll spinning wheel and pushbutton thing .
+D :  But I mean we can put an additional mute button on the top as well .
+D :  If you
+B :  Yeah , I mean that wouldn't actually cost any more . That's the spin wheel though , isn't it ? Didn't that come with the L_C_
+C :  That's with the L_C_
+A :  That comes with the L_C_D_ ?
+B :  Yeah .
+C :  We decided , 'cause it's not on our list .
+B :  Yeah .
+A :  Oh so so the the this is
+D :  Mm .
+C :  The scroll wheel is on the side .
+A :  . So we're adding costs for right , okay uh I mean I think this is good .
+D :  So
+B :  S so we're point three over .
+C :  We're point three over at the moment .
+C :  It's nothing n
+B :  Unless we just take off the scroll wheel altogether and just have pushbuttons for the volume .
+B :  Could b still put them on the side .
+B :  But yeah . I mean the scroll wheel's pretty cool , but
+C :  Yeah , I have
+A :  Instead of scrolling here we have two buttons here , up for up and down . On the side . Mm uh it sounds good actually , yeah .
+B :  Yeah .
+D :  Mm-hmm .
+B :  Yeah .
+C :  Yeah .
+D :  Okay , yeah .
+C :  Rather than having three different things that people have to do .
+A :  .
+D :  Okay .
+C :  There we go . Oh look , we're way under budget and we'll make huge profits and we'll all get bonuses .
+B :  Yeah , well we could admit to the single curve , couldn't we ?
+C :  Or or that we have to have some sort of special colour .
+B :  Yeah , but
+C :  So that's alright . We we'll leave it at that and then I'll take I can send it back to management and say we weren't quite sure about the colour , if that costs extra then we've still got some space for it , yeah . Excellent . Alright . So did we lose um on our evaluation criteria , as a result of doing that ?
+B :  Yeah .
+A :  We have , yeah .
+D :  Yeah .
+B :  Yeah .
+B :  No . No , I don't think so .
+A :  Not really , no . Because we keep all the features , we keep voice recognition , we keep L_C_D_ display . We instead of having scrolling we we just push the buttons . Um yeah .
+C :  Mm .
+B :  Yeah .
+C :  Yeah .
+B :  We just got rid of a gimmick that was never anyway , and the scroll wheel is I mean essentially the two buttons that was it's not a great difference I don't think .
+C :  Yeah .
+A :  Yeah .
+C :  Yeah . Alright then .
+A :  But we lose the locator .
+D :  Well we're going to have a beeping thing . But yeah , it's it's not like sample speaker , but it will just beep , so we still have the locate .
+B :  Really ?
+C :  We're gonna have a beep .
+A :  So instead of speaker , .
+C :  Yeah .
+C :  Yeah .
+A :  'Kay .
+B :  Cool .
+B :  That's not a very exciting colour . I think you should make it more vegetable-like .
+C :  Tha
+D :  Which colour , the the colour of the phone or the colour of the
+B :  Oh the the beeper thing .
+C :  .
+B :  It
+D :  But it can be yellow as well . It can come in the same colour as the the case .
+C :  'Cause we we won't have run out of our pot of Play-Doh .
+B :  Yeah , I think Jen wants it to vibrate .
+C :  Yeah , I know I know , my pen vibrates . But only for a very short time . Um
+B :  You know , your pen vibrates ? Yeah .
+C :  okay .
+C :  looks like we've designed a
+C :  banana . Well done , team . Um we need we've just got about ten minutes or so left of the meeting , so it would be good if we could just have a little talk about the project itself and how it went , um so that we can feed back to the management for next time they're designing a product .
+A :  I think it mm
+B :  Cool .
+C :  Feedback ? Ideas ?
+D :  Yeah mm , as far as creativity is concerned , yeah I think there was there was room for creativity . The only the only problem being that at the end we had to cut some things down because of the the budget we had .
+C :  Mm-hmm .
+A :  I think uh n one thing that was lacking uh was that we did not know what the various things cost to begin with . Um we kap kept a adding things randomly . So , had we known
+C :  Mm-hmm .
+B :  Yeah .
+C :  Yeah .
+B :  If we'd had that sheet at the beginning should've been like , okay , so we can have that lot , let's just throw it together and do what we can .
+A :  Yeah , that or not , yeah .
+C :  Mm-hmm .
+D :  Yeah , yeah , yeah .
+A :  Yeah . So d all the random decisions at the end could have been prevented .
+B :  Yeah .
+A :  Mm .
+C :  But in terms of the process of um going and working individually and then coming back to a meeting , that that worked in terms of .
+A :  Yeah , mm .
+B :  I think 'cause the meetings were so regular , you know . It wasn't like we were alone for very long , so you didn't st go off and think , wouldn't it be great to have a vibrating remote control shaped like a banana , and then , you know , come back three days later and Jen's going look , look , it vibrates and it looks like a banana . Um yeah , so yeah .
+C :  Mm-hmm .
+C :  Mm-hmm . Banana .
+D :  Yeah .
+D :  Yeah , the m the means were very very good , the means we used .
+C :  Mm-hmm , the whiteboard digital pens . We like the pens .
+D :  And the pens .
+B :  Uh I like the pens . I want one . That would just be so cool , to d do all your notes and s
+C :  Yeah , you could take it to lectures and just write stuff down and have it printed out when you got back to the office . They great ?
+A :  Yeah yeah yeah , that's it's it's I wonder what one of these costs .
+D :  Yeah , yeah .
+C :  Do you think they'd notice if one went ?
+B :  I don't think you should say that was the recording . Okay , cover up the microphone . Alright , let's take it . Okay .
+C :  Oh okay .
+C :  Yep . Shh . Yep . But that worked well having having a whiteboard that we could draw on as well as having the PowerPoint , 'cause the I find that the problem with PowerPoint often is that it's so static and you can't change it once you're in there , yep .
+B :  It is a bit limiting , isn't it ? Yeah .
+D :  Yeah .
+A :  Yeah .
+D :  Yeah , and and and this time also the time limits but actually preparing the
+B :  Yeah .
+C :  Mm-hmm .
+B :  The thing flew in , you didn't have the whole whooshing thing , 'cause there wasn't time for that , so yeah .
+D :  Yeah .
+C :  Yeah . That's alright , that always irritates me anyway , yeah .
+B :  Not that you can do that on the board , either . We could make some little
+D :  But yeah , but I mean already just just preparing the slides before before the meeting , yeah .
+B :  Yeah , totally , I mean that was fairly tight anyway , I mean especially with that last-minute alteration . back it , this is just had to be changed . And yeah , so cool .
+C :  Mm .
+D :  Yeah .
+C :  Yeah .
+A :  Mm yeah .
+C :  Yeah .
+B :  Are we supposed to say nice things about Jen now ?
+C :  And presumably you don't you can say nasty things as well .
+D :  Yeah . I was I was satisfied with with the leadership , yeah .
+C :  I have no stake in it .
+B :  Yeah , definitely . You weren't like a a dictating leader , so that was always good .
+A :  Yeah .
+C :  You have to say that , 'cause I'm taking the notes . I'll leave the room and you can have another go .
+D :  Mm-hmm .
+B :  I know you've got the pen , you might attack me with it .
+C :  Better than that than the banana .
+D :  And then the teamwork I think I think it worked quite quite nicely , yeah .
+C :  I think it worked quite well . Did anyone feel that they were getting sort of covered up and not being able to
+B :  Yeah .
+A :  Yeah .
+C :  say their bit ?
+D :  To express them mm mm no .
+A :  Mm . I guess it was a fairly small group , so all of us got to express our opinions , yeah .
+C :  Yeah .
+B :  Yeah .
+C :  .
+C :  New ideas found . Not quite sure what about . Yeah .
+D :  Well it's it's it's pretty new , pretty novel solution for a for a remote control really , all this flipping open thing and
+A :  Mm .
+C :  Yeah .
+B :  I don't know , I don't go shopping for remote controls that often , maybe somebody's already though of it .
+D :  Yeah , neither neither do I , but I've never seen anything and and none of my examples were was was like this , actually , so .
+C :  Mm-hmm .
+B :  Yeah .
+A :  Hmm .
+B :  Yeah .
+B :  I'll be looking out next time I need to write an essay . That looks boring , I'll see if anyone's made a remote control .
+C :  Yeah , that's right .
+D :  Yeah maybe w maybe we could have a patent on this one .
+B :  Yeah , yeah .
+A :  Yeah .
+D :  Patent patent patent . Mm .
+C :  Banana remote .
+B :  I think we'd like to think the ideas were new , but we've got no way of finding out .
+C :  Yeah . Or you can always go to Google and type in banana remote control . Flip . Vibrate . And uh yeah .
+D :  Mm-hmm .
+B :  That vibrates
+B :  Yeah , but that would just come up with like other things really wouldn't it .
+C :  Nothing that you really want . True . Yeah .
+C :  Okay . So , costs are within budget , well within budget , including a little what have we got ? One Euro left over for bits that we didn't foresee .
+D :  Yes .
+B :  Yes .
+C :  Um we've evaluated
+D :  Yes .
+C :  the project . You've got the scores . Can you put that in the project documents file ? It's in there already . And the process wheel didn't really have any major problems with . Were there any was there anything that you found difficult , or anything
+B :  And it's fabulous .
+B :  It's in the project documents .
+C :  that didn't go as smoothly as you'd hope ?
+D :  And my main difficulty was the the time pressure . Otherwise it's it's all fine .
+C :  Yeah .
+B :  Yeah , yeah , sometimes it's like a little bit rushed .
+A :  Mm-hmm .
+A :  I thought that was good though , because if you're given too much time then you got nothing to do with your time and um yeah . Although we could have made the R_s better had we had five more minute .
+D :  Yeah , yeah , yeah .
+D :  Yeah .
+C :  Okay then . Um I think we're still well within our
+B :  Yeah , we've got like five minutes left .
+C :  time . We've got about five minutes left , but if we've finished , then we've finished . We're just too too efficient and you should never drag a meeting on just because you have extra time .
+D :  Yeah .
+A :  We certainly are , mm . Yeah .
+B :  Yeah .
+D :  Yes .
+C :  So I would say that's the end of that meeting .
+D :  Yeah , it was a pleasure working with you .
+B :  'Kay .
+C :  Thank you , team . It was very productive day and
+A :  Yeah , same here .
+B :  We could draw animals on the board again .
+C :  Mm uh no .
+A :  Mm uh no . I don't think so .
+D :  You can make some animals . Oh , you don't like anim
+B :  I don't like Play-Doh , no . It's just minging . It smells so bad .
+D :  It doesn't ? Smells quite nice . Smells very sweet .
+B :  It does .
+B :  Mm .
+C :  Right , so we have to complete the final questionnaire and meeting summary when they send it . I don't know if it's already sent or not . Um presumably I have to
+A :  Was there a questionnaire already sent ?
+B :  No , it hasn't been .
+B :  Do we have to go back into the other room or can we stay in here now ?
+C :  I don't see why you can't stay here , really .
+B :  Okay , so the other way .
+C :  Did I save this one ? Production costs .
+D :  I made your animal for you .
+C :  It was supposed to be pink . But it was blue on the board .
+D :  Yeah , that's the one

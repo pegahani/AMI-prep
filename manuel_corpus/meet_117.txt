@@ -1,0 +1,571 @@
+A :  I just forgot their name , so uh you're i sorry , I just forgot them all . So I have to write it down .
+D :  Okay .
+A :  So
+D :  Fine .
+A :  Do you know them or
+D :  The names ?
+A :  Yeah .
+D :  For for for my sur um Jens .
+A :  Yeah .
+A :  Yeah , no , but your b your surname .
+D :  Uh Damman .
+D :  D_ A_ W_ .
+D :  Uh uh M_ M_ . I mean M_ . Double M_ .
+A :  W_O_ da . Okay .
+A :  Okay .
+A :  And what's your name ?
+B :  Paul Wiezer . Paul Wiezer .
+A :  W_I_E_S_ z Z_ or S_ ? Uh uh zee . Okay . What's your name ?
+B :  A_ E_ Z_ zee zee
+B :  E_ R_ .
+C :  Uh Martijn .
+A :  Yeah , but your surname .
+C :  What ?
+A :  Your surname .
+C :  Uh Abbing . A_ B_ B_ I_ N_ G_ .
+A :  Okay , thanks .
+B :  Uh .
+C :  I was a little short on time , but
+A :  Yeah , me too , so that's not No no no , I just fi first my
+B :  Yeah , same here .
+D :  Oh . Sorry .
+B :  Uh let's see . Which one was mine ?
+A :  So let's have a look , we have forty minutes , so it's it's more than enough .
+A :  Okay , perfect . So we have Oh no , what's that ?
+A :  So so we have uh forty minutes for this uh for this second meeting , and we have to make uh sure that we going t that we are sure , that we are ,
+B :  Good .
+A :  that we know what we're going to make uh th what the product is going to like look like . Uh first I have the notes of the last meeting , so I showed uh show them to you .
+A :  Oh , sorry about that , I just escape this one .
+A :  How do I escape this ?
+C :  What ?
+A :  How do I I escape this s uh presentation ?
+B :  Uh left . So
+C :  Uh
+A :  Ah okay . And show , sorry . Okay , so let's have a look s at this one .
+C :  Just Yeah .
+A :  Okay , so the f the f the points we had last meeting was the um Should be a univ uh universal remote control No , that's I uh s I just got a email from the from the personal coach and it should be a T_V_ remote control only . So have you changed that part ? Um so yeah , it still has to be uh f a r a remote control for kids and elderly . It's it's still the same . Um
+B :  Okay .
+D :  Okay .
+A :  All these points uh we have to
+A :  look at . You all know them . But uh there's another point . The um uh the main
+A :  uh people of interest of this company are forty plus people . So they're old and not younger people . So we have to look at that as well . 'Specially old people , maybe bi bigger buttons or something , I dunno .
+B :  Yeah , okay .
+A :  Uh so
+A :  So yeah , that's it , so just you can do your presentation for uh
+B :  Which one first ?
+D :  Okay .
+A :  Oh it doesn't matter , just start with the
+B :  Okay .
+D :  Mm .
+D :  Uh
+B :  Functional requirements , yeah .
+D :  Okay . Well my name is Jens Damman , but we're in a group , and I I will start it . Wait . Um I've
+D :  used a marketing report on uh the site . Uh I think you've uh read it too . Uh and uh f and furthermore I uh surfed the o the other site .
+A :  I I didn't read i read it , so it's not for me , I didn't get it uh anyway . It's only for you .
+D :  You didn't read it ?
+B :  No , I didn don't thing we got it . Yes .
+D :  Oh okay , I I was the only one who get it . Okay it was uh uh uh um um a report about uh an experiment with uh a lot of users .
+A :  Yeah .
+D :  And uh they had a lot of findings in their report uh with statistical uh uh uh thing uh with statistical uh proof .
+D :  So I um I had three pages with findings and sev a lot of uh a lot of findings . So we can use this uh to uh create our own remote control . Uh seventy five percent of the users find uh most remote controls ugly .
+D :  Yeah , I think uh uh that's a lot , so we have to make a beautiful remote control . Uh eighty percent of users would spend when uh a remote control will l uh look fancy .
+D :  I think this fits uh at the uh what what uh Michael said about uh older people . Older people will uh spend more money uh for uh something uh uh what's good . Because younger people are more critical uh about uh uh where they spend their money money at .
+D :  Uh seventy five percent uh seventy five percent of the users say they zap a lot . Well okay , that's uh normal . I think uh we we have to make uh good zap buttons . But that's one of our requirements .
+A :  The last point is quite an interesting
+D :  Yes , fifty percent of users say they only use ten percent of the buttons . Um Martijn alr already said it . And uh maybe our uh fold open system is is a good one , but
+A :  So if we
+A :  Yeah .
+D :  I don't think it's uh
+A :  Yeah , we should have the ten percent on the on the top , then you're you're
+D :  reachable .
+D :  Yeah , the ten percent on the top , yeah . That that's a good one . Um uh page two . Remote controls are often lost somewhere in the room . That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something .
+C :  Yeah .
+D :  Uh I thought mo maybe we could make a clap system , so when you clap your hands it will beep or something . Uh you must find it uh quickly .
+B :  Uh .
+B :  Maybe just a button on the home station . So remote control beeps when you click that button on the home station .
+D :  Okay , yeah . Yeah , we can uh combine that . Uh it takes too much time to learn how to use a r new remote control . Uh I think we must t uh take a look at this .
+D :  It's only uh th thirty four of the thirty four percent . But it's uh a tough one . Because if we make a ha whole new product , our own style , we we c uh this is so difficult , uh a difficulty I think .
+D :  Uh next , remote controls are bad for R_S_I_ . Yeah , but only if they zap a lot , and they watch over five hours T_V_ or something . I don't We we haven't Uh we mustn't look too much at uh the last point .
+D :  Okay , last page . Uh the last uh experiment uh was about gadgets , like uh speech recognition . We didn't uh think about that already . And uh an L_C_D_ on the remote control . We already thought about that .
+D :  Um uh they finally had a conclusion that younger people um uh under an age of f forty five are uh more interested in new features . And but they're more critical .
+D :  And older people uh want to spend uh more money . But uh they uh they don't want to uh have a lot of uh new features , because they're in their old uh thinking way . And they want to keep the old uh things the old things .
+A :  So we have uh a new uh age of forty plus .
+D :  But y But you but you already said that the uh company was about uh forty plus uh clients ?
+A :  People . So yeah , so we just can skip the L_C_D_ r on the remote control , because
+D :  I I think we can speak , uh we can skip speech recognition uh directly , because it's not reachable for twenty five Euros . Um then
+B :  Yeah .
+A :  Yeah . It's too Okay .
+C :  Yeah .
+D :  I have my personal uh preference . Okay , that's not very good , because I thought about television , D_V_D_ player , stereo and V_C_R_ . I had a question about . But it's already out of the question , this .
+D :  Um my point is , well , I If we ma uh make a a remote uh control for only television , I think it's hard to uh sell it for twenty five Euros . But it's the exercise .
+A :  Because it's too expensive . Yeah , probably .
+D :  Yeah , only only for television uh On the market you can now buy for twenty Euros a remote control for everything . And we only make it for television , so we mi mm we m must made it make it uh very special .
+B :  Yeah , but good usability , so you can use it .
+D :  Okay , I told about the home station . Uh it must be simple , because uh our the the elderly people uh needs to use it .
+D :  And I I found a motto . And we put the fashion in electronics . And that's uh the motto we are uh referenced to uh for our uh our style . We we have to make a a new product . We have to be um Yeah .
+D :  One of a kind , I think .
+A :  So it has to look uh uh uh unique , but
+B :  Unique .
+D :  The company is about our uh th th their own fashion , their own style .
+B :  Yeah , I reckon
+A :  Yeah .
+A :  But old people are not looking for that .
+B :  Uh I think mm
+A :  Not really .
+C :  Yeah . I think the main thing is the usability , that's where we can uh make it a special product . Yeah .
+B :  Uh
+B :  Yeah .
+D :  Yeah , to k to keep it simple when you Sorry I thought about it , yes .
+A :  Okay . Yeah .
+B :  But uh we also have to stand out , 'cause there are already , like you said , so many controls out that support lot of stuff . But we have to make sure that we're better usability , and stand out by just looks of it . So make it just a different colour or different shape , so
+A :  Yeah . Okay .
+D :  Okay , this was uh my presentation .
+A :  Thanks .
+C :  Okay .
+D :  I don't Yeah . You can ask some questions or something .
+A :  So Paul , you can do the next one if you want .
+B :  Okay . Yeah well
+B :  Uh .
+A :  It's on the on the uh net net uh thing , isn't it ?
+B :  There it is .
+B :  Okay . Technical functions design .
+B :  Okay , well , so we have s mm uh broad audience . Isn't that isn't true anymore . But um we have elderly people , so we need to keep it simple . Uh the way I want to keep it simple is to use the sen uh standard .
+B :  So standardised uh methods like uh on all uh remote controls . Not too full , like uh Jens already said , only ten percent is being used .
+A :  So what do you think of only the numbers and the on-off button or
+B :  Yeah , I have it on the next page . But yes uh basic functions like numbers and that sort of stuff . Um so the options that we put on there should be easy to use , and 'cause you have more room then , and for elderly people big buttons . Uh an icon on it or text on it , so it's very clear what that buttons does . So it doesn't take much time to figure out uh how to use it .
+A :  Okay .
+B :  Um a way to find out uh what people use is maybe just to use uh questionnaires on the internet or
+B :  just ask some random people , elderly people what they use , what they want on a remote control
+A :  Yeah .
+B :  to find out . But there is already in a
+B :  one done . Of functions I could think of . Uh volume , channels , the the basic according to .
+B :  Just one two three etcetera . Uh text service options .
+B :  Um basic on-off . And I found an uh Could I think of favourites ? I always look up the same um pages on text and always have to click the number . But if you could make a new option , that you just have to press one button and you get on your
+A :  Okay .
+C :  Yeah , but then you have to remember what favourite is what channel . So you might as well remember the number .
+C :  Or not ?
+A :  Maybe i maybe it's too complicated , but not sure . It's a good idea , but
+B :  No y
+B :  Well it's It was just a thought . So I'm , I u I would find it handy , I think , when you just press one button and you get on six six six .
+C :  Yeah , okay . But um how can you remember what uh channel uh connects to what favourite button ?
+B :  Well uh what I was reading on the page . Uh a remote control just sends commands , basics commands to uh the television . So switch to channel six . So uh button six says says six . And if you make favourites , it can say six six six in a row . Just numbers . That can be in the in the
+A :  Uh
+C :  Yeah ?
+C :  Yeah okay . But uh uh for a user to to remember , if I press that button it goes to that channel .
+B :  Well if you said a favourite
+C :  Yeah , but isn't it hard to remember ? Like favourite one and
+A :  Uh mayb for me it's If I use my telephone , I never use those buttons to to to call sh Never .
+B :  Well i
+C :  Mm as as hard as
+B :  Never ? Oh .
+C :  No , neither do I .
+B :  Oh are you ?
+A :  So And
+B :  Okay now , m maybe not .
+A :  If I don't do it , maybe old people
+B :  No , maybe elderly people uh . Right . They don't like new features . So maybe not .
+C :  Yeah , I dunno .
+D :  Mm-hmm .
+B :  Um well play , pause . I dunno if that's usable when
+A :  It's not , it's still not It's not anymore n uh
+B :  Not anymore for T_V_ . Right , on off . I dunno , miss Did I miss any other buttons , basic buttons ?
+D :  Um
+B :  I couldn't think of any other , 'specially not for T_V_ .
+A :  Just on the front as well . No , that's the only th the only thing you need .
+B :  Is
+C :  Uh uh the p uh next and previous . Previous I know , but next channel ? I don't thi
+B :  Just the channel um uh What I mean is uh
+D :  Forward .
+C :  Li like a web browser , so Oh , okay . But uh um there's also a button to uh go to the channel you've been before .
+B :  Six seven eight or five .
+A :  Just very simple .
+C :  Like a web browser back button .
+B :  Um I dunno . I don't have Uh I did
+A :  Uh Yeah , I know what it is , but I think it's all too difficult for old people .
+D :  No . Uh
+B :  Yeah , I don't think you use that . Y only when you want to go to
+C :  Yeah , okay .
+B :  Yeah , just use uh when you wanna switch between channels all the time .
+A :  And how do you want to uh do it , like if you have a channel above ten ? Normally you can press one , zero or
+C :  Yeah .
+B :  Yeah , I think um f Especially for older peo elderly people use standard buttons . So you have that uh
+A :  A ten plus or
+B :  Yeah , the ten plus button . Just uh one one pressing , or quickly after each other .
+A :  Okay .
+B :  To just keep it simple and standard uh features .
+C :  Yeah , w wouldn't it be a problem to uh Because you h have to be fast enough . Maybe the elderly people
+B :  Uh yeah mayb But I think that's in the T_V_ as well . That's how the uh the T_V_ T_V_ handles it . But you can have a button that says um
+D :  It gets some seconds .
+B :  two two st two stripes . So you have uh like a five seconds period to press those two buttons .
+C :  Oh okay . Yeah .
+D :  Yeah , it's it's no it's not a
+C :  Yeah , but that's th mm
+D :  It's what Paul says . It's not a remote control uh uh that um uh makes the T_V_ um do one two . It's the T_V_ who depends that it must be two seconds or three seconds or one second that you must uh type one or two .
+C :  Okay .
+B :  So if you have a universal T_V_ controller , you needed one button that has two uh stripes . So we have a a period of , I dunno , five seconds to press those buttons , and that And not for elderly people to look , one two uh press and aim and
+C :  Yeah .
+C :  Yeah .
+C :  Yeah .
+A :  But do we still need a two level remote control ? Because if we only have that l only f No .
+D :  It's only for television now .
+B :  So I I don't think so . Uh I just thought of another one . Most things in modern T_V_s are also on the menu . So you also need a menu button . And then uh navigation uh
+D :  No .
+A :  Yeah .
+B :  But we can integrate that with volume and previous and next , so you have
+C :  Yeah .
+C :  I I think you ha really have to divide between functions you often use , like um uh m maybe uh switch channels and uh volume and k that kind of things , and uh the menu button . Because you n almost never use menu button . So
+B :  four arrows .
+B :  Yeah , okay , but um
+A :  Maybe it's still still a good idea , I'm not sure . You'll also have to use a mute button to to
+B :  Yeah , a mute button . Yes . Don't think so .
+A :  Maybe , not I don't know where where you have to put it .
+B :  Yeah well , that's that's I think that's the layers that produce . Now I have to figure out what's uh what to put on . What we're gonna use . And later we can d uh do the design .
+A :  Okay . Yeah . Yeah . That's right .
+C :  Okay .
+B :  Okay , uh now my personal preferences . Uh using the standards , basic
+B :  Um I think that we should stand out uh unique , being unique with the design .
+B :  So we have to , I dunno , uh make a different shape than usual . So when you are in the shop and you see our T_V_ controller hanging , that it stands out . Not just in in the row when you see
+B :  all the same uh remote controls .
+A :  Yeah . Does it have to be Uh it has to be uh with different colours or
+B :  Um
+B :  I dunno . Different colours um
+D :  Maybe we can give it out in different colours . You can choose blue or yellow or
+A :  It's like a iMac or something . Just to make it
+C :  Mm-hmm .
+B :  Yeah . Well why not ? Or Yeah .
+D :  That's fa That's fancy . That's uh fashion .
+A :  But it looks cheap as well , because it's a small thing . It's only twenty five Euros . It looks very cheap if you make it
+B :  Well , maybe you can look at uh mobile phones . Oh .
+A :  Oh , you just I dunno what happened .
+B :  Who ?
+A :  Yeah , we have to look at mobile phones , that's right . Just
+B :  They they're uh designed very well . And well basically are the same , just a bit smaller . You think you can't make a T_V_ controller too small , 'cause then you will always lo always lose it .
+A :  Yeah .
+A :  Yeah .
+B :  But uh well , I think that's a good example .
+D :  Okay .
+A :  Okay , we hurry up a bit , because otherwise we won't make it . Is it fin Are you finished ? Okay .
+B :  Okay , sorry . Well uh Yeah , I I'm finished . I think we discussed everything .
+C :  Okay .
+C :  Well , the working design .
+C :  The method I used is uh search the web . Just the web page provided .
+C :  Um
+C :  Basically I'm I'm not very technical uh uh educated , but uh I could figure it out . Um basically what happens is you press a button , uh then a circuit gets closed by pressing the button , uh like a switch .
+C :  And by closing that certain circuit , the chip knows uh what bu button is pressed . So like you press a one , that circuit is closed and uh Then the chip produces a pattern .
+C :  Like a Morse code to uh And and sends that to the uh L_E_D_ . That's the uh light emitting diode , I think . Um and the light emitting diode is uh producing infrared light . That's un uh invisible
+C :  to the human eye . And uh transmit that uh to the T_V_ .
+C :  However it has also an uh a visible uh diode that's uh blinking red if you look in it . And that's uh another diode , I believe . Because infrared is not visible . So that's er uh do two different things but
+D :  Mm-hmm .
+A :  So we we also have to have a LED li LED light on it ?
+C :  Yeah . I I think so . I I'm not sure if it's the same thing .
+B :  Uh j Is Ain't it just to to indicate that it's transmitting ?
+A :  Yeah , it's I think it's usable .
+D :  Yeah , that's active .
+A :  Yeah . Or just a green one , because it's If you use it , it's green or the red , it's r green .
+C :  Yeah .
+B :  So
+B :  Yeah . Maybe uh
+D :  I I think it's in the case that it's active . It's not uh
+C :  Yeah , when you press it . So
+A :  Yeah , that's right . But if you
+D :  I it's it's just uh the the
+C :  Two ?
+A :  Red's l shows up like something's wrong , and green is like it's okay , you press the button .
+D :  Mm .
+C :  Yeah , I dunno . Ma on on most on most uh uh remote controls it's red . So
+B :  Maybe depends on uh
+A :  Yeah , I know . Okay , we make it red .
+D :  Yeah .
+B :  Yes .
+C :  So I know .
+B :  But maybe Well we don't have to make it red . Maybe integrate it in the design as well .
+A :  You have to The whole the whole uh remote control becomes uh green if you press the buttons . Uh that's cool .
+C :  I I think uh the batteries will be uh a little Yeah , okay . Uh maybe .
+B :  Uh Oh , maybe it's it is would an e No . Just uh
+D :  Empty .
+A :  No , we have a recharger in it , so
+B :  Oh .
+A :  If we can still make that then
+B :  Yeah , but it doesn't have to be red . It's just to indicate something's on .
+D :  Yeah .
+C :  Yeah . That it's working . That it's not not the batteries are low .
+B :  Yeah . It's it's not very important , so yeah .
+A :  But it's cool if it was green . Green or red or whatever , it is cool .
+C :  Yeah , I know . Just to indicate it's working .
+B :  So mm
+C :  And uh the receptor in the T_V_ senses the pattern . So we have to understand what patterns are used to , you know , to make it universal . So that it can be used with all the T_V_s . We have to really understand what patterns are used , so we can uh o On the Otherwise it won't work .
+B :  So we have to uh make buttons for that as well , to make it uh
+C :  No . I I uh The chip um uh is producing the pattern . So we have to make a chip that produces patterns to , y you know , to Yeah . That are working .
+B :  Okay .
+D :  An automatically search function for each television , or something .
+C :  Yeah , or I dunno how it's uh exactly how it works . It wasn't explained there .
+D :  Uh I kno
+B :  Well , I I use a universal uh remote control , and list of all the T_V_s you have , etcetera . And you have to put in a number , so it works on your T_V_ .
+C :  Yeah ?
+C :  Okay .
+D :  Oh , I have a modern one . And the modern one you you uh you type uh search , and the LED began to blink blink blink . And uh uh uh after uh a short time the television turns off . And then you know , oh it it's the right one . And you can stop it , and then it's okay .
+C :  Ah okay .
+D :  So you don't have to search for your television or your code . It uh search uh the pattern for itself .
+C :  Okay .
+B :  Okay , so we use that .
+C :  Okay , yeah . So it uh We have to make a a s a bit more intelligent chip than the standard one . Because you have to Yeah .
+D :  Yes .
+B :  Yep .
+A :  I just say Can you s just say it again , because I was just looking There's just a short
+C :  Uh okay . Well uh y you have this chip . That's uh when the circuit is closed , it produces the pattern . But uh ma basically for uh brands of T_V_ these patterns are different .
+A :  Yeah .
+A :  Mm-hmm .
+C :  So like when you press a one on one T_V_ it go go to one . And on the other T_V_ it won't work , basically .
+C :  So uh basically what you have to do is uh get these patterns right . And uh by d uh that can be done by uh just uh cha yeah , changing this pattern all the time . And um
+A :  Yeah .
+D :  Changing the signal .
+C :  What he's doing when he's configuring this pattern , this chip , uh is trying to switch off the television . And when it's uh switched off , you can push a button as uh it's working now , so And then he saves that setting and then um it's working .
+A :  Okay . Yeah .
+D :  Yeah , that's the right uh option .
+C :  Okay .
+C :  Well uh the components . Yeah , that's a bit technical , and I hadn't I w I was a little short on time .
+C :  Um but I think I understand it . Um the energy source is uh the battery , basically . Um that's connecting to all the components .
+A :  Yeah .
+C :  Because it has to be fed with energy . Okay . Uh the subcomponent is uh w
+C :  I I think it is uh the button pressed . So basically when you press a button , a switch get closed .
+C :  Um that's connecting to a chip . So the chip knows what button you pressed .
+C :  And the chip sends out uh the pattern to the infrared bulb . I didn didn't put the description by this one . Th this is a normal bulb . So the normal flashing light .
+A :  Okay . So that's the LED , L_E_D_ .
+C :  Yeah . Yeah , and this is a LED too . But this one is producing infrared light that's invisible . And this one is producing normal light .
+A :  Yeah , okay .
+A :  So we can make the normal one also a normal light . Not a LED light , but as a normal one .
+C :  Yeah
+A :  To flash up your
+D :  Uh if you if you use the buttons , uh both of them works . But one you can't see and one indicates that you use a button .
+A :  Yeah .
+C :  Yeah , presu Yeah yeah yeah . Because uh when you button press a button and it doesn't work , it can Basically if the battery is low , it won't work . So you have to indicate that it's
+D :  Yeah . Yeah , and
+A :  Maybe you have to uh put uh a small light around the button you push . So you see green if you push that button .
+C :  Huh , that's a good idea .
+D :  Mm I think it's unnecessary power uh you use then .
+A :  Yeah , but if you u if you do that , you know that you're uh sending a signal . And it's you also know which button you p
+B :  No , y Yeah .
+D :  Okay . But then have to be on the in the all uh remote control have to be LEDs .
+A :  Yeah , that's right . But it
+D :  Everywhere in the r
+A :  But does it make any difference for the energy you use ? You got still one LED .
+B :  No I don't think so , but Yeah , i it it will look different , and I think we need to find something else . Yeah .
+A :  That looks different , yeah .
+C :  Hmm .
+B :  'Cause otherwise we will just make another standard , and our uh motto also is
+D :  Is LEDs uh beneath the the buttons ?
+B :  Yeah , w around the buttons , or in the buttons even .
+D :  Yeah , okay .
+C :  Yeah , but mm like when you push it n n Yeah . You have your finger over the button . So you can see Yeah . Or or m maybe on top of the A green light is flashing or
+B :  Yeah , then then won't Then you won't see it .
+D :  It must be around it then .
+D :  Yeah , then Yeah . Not not not not here , but here .
+C :  Yeah . There . Yeah .
+D :  Maybe uh
+A :  The same as a telephone , or a mobile phone , or what do you mean ? If you push
+B :  Yeah , we're thinking about it . Uh on a mobile phone , in the dark uh
+A :  It lights up . Everything lights up . That's a good idea .
+B :  everything lights up . Why ain't that on a remote control ?
+C :  Yeah .
+A :  It it only takes a l a little energy and it's not that much .
+B :  Yeah , if uh a mobile phone a phone can do it , it's
+D :  Okay .
+C :  Yeah .
+A :  It's f Yeah . Maybe that's a good idea for old people as well .
+B :  Yeah , i if you're in the dark , you can't see the remote .
+C :  Mm-hmm .
+C :  Yeah .
+A :  It's only few LEDs . Only four or something . Four LED .
+B :  No , I dunno . But if we use a battery station , which I think we will use
+D :  Yeah , I uh
+A :  Yeah , that's a good idea , okay .
+C :  Yeah . We'll have enough power to
+A :  Everything agre Everyone agrees with that , or Okay .
+D :  Yeah .
+C :  Yeah .
+B :  Yep .
+D :  Maybe what Paul said , uh under the on the on the home station , uh a button to uh to call your uh remote control , that it beeps .
+A :  Yeah , and then you
+A :  Okay , yeah .
+B :  And also it's
+A :  But you have to make a sound device in it then .
+D :  Yeah , there must be sound in it .
+C :  Hmm .
+A :  But Yeah .
+D :  I dunno .
+B :  Okay , it shouldn't take much
+C :  Yeah . B maybe it's that that's a little too hard to make .
+C :  Especially for that kind of money . Because it's i it has to be Yeah . Production cost is uh t uh twelve and a half .
+D :  Mm uh , twenty five Euros , I think we can make it . Bec
+B :  Uh I th
+D :  Twelve and a half , okay . But but we only have to make it for television , and um we must have something special . So
+C :  Yeah , okay .
+B :  I think uh you also have uh remote controls with a lot of options . But we lose about ninety percent of those options . So I think you can uh
+D :  Uh .
+D :  We have to give our customers some extras .
+B :  Yeah . I think we will save money with that .
+C :  Yeah , okay .
+A :  Okay . Are you almost finished or just
+C :  Yeah , the the personal preference , I didn't fill it out . Because I was short on time . But um
+A :  Okay . Okay . No worry .
+C :  Basically what we could do too is uh have a Bluetooth uh integration .
+A :  Yeah , I just want to talk some about some more . So maybe you have to Yeah ? Okay .
+C :  Yeah ? Okay .
+A :  So this Oh , sorry . Wh what's that ?
+A :  So uh Oh , sorry . We have some new uh project requirements . We have to have a look what they are . They're still in um
+A :  Uh teletext has become outdated since the popularity of internet . So a teletext option , maybe we have to skip that one . I'm not sure . I don't think so , but
+C :  No , and I I think a lot of people use uh teletext , still use .
+D :  No .
+A :  Yeah , and it's it's on your comp it's on your television . It's only one button . So I don't think it is We definitely should use it . Um
+D :  Uh .
+B :  Yeah .
+C :  Hmm .
+A :  Yeah , that's uh what I told you . The remote control should only be used for a television . So that's maybe easier .
+A :  And um the the forty plus people , I already told you .
+A :  Oh no , sorry . Oh , this is a problem . Oh sorry about that . The new product should reach a new market with customers are the younger than forty . So it should be flashy or just more interesting . I'm sorry about that . I just I just didn't read it well .
+D :  Okay .
+C :  Oh . Mm .
+B :  Okay , that's It changes things .
+A :  So does it make some decision about that ?
+D :  Changes .
+C :  Yeah . That kinda changes the whole situation .
+B :  Um
+D :  Uh
+B :  Well yeah , then we have to make some nice features . I think uh the thing in the dark is a good way , to make it more like a mobile phone . More modern .
+A :  That still stays .
+A :  Yeah .
+C :  Yeah .
+B :  That's important I think and
+D :  L_C_D_ doesn't work for uh twelve and a half Euros I think .
+B :  And I d I don't don't think it's very usable in a remote control , especially when you only have T_V_ functions on it .
+D :  Oh .
+A :  Yeah .
+C :  Mm ah I I don't y you'll use it often , because you can see on the television wh what channel you
+B :  So
+D :  Oh , I'm watching uh the channel one . Okay . No , it's not
+B :  Yeah , I tho I think that's not usable . So , but uh Yeah . What other features can we put in ?
+C :  No .
+C :  Yeah . I think you you have to make it a bit flashy and and popular . And uh then the usability is not that required , because the Like in the mobile phones , usability is not that good I think .
+D :  But uh some of you had uh something to read about um uh speech uh recognition . About you said one and the television turns on one . Is that reachable maybe ? That's very That's fancy . That's cool . Twelve and you've got twelve .
+C :  I didn't read
+B :  It's very fashion .
+C :  I didn't read any b Yeah . Yeah okay .
+D :  Only the numbers , only numbers . Uh furthermore nothing . But only the numbers , one to twenty or something . That should be cool .
+B :  Mm .
+C :  I I know .
+C :  Mm .
+A :  Yeah , maybe we have to integrate that as well .
+A :  If it's possible . But
+D :  If it's possible , I dunno . I didn't read it .
+C :  Yeah , I don't know .
+A :  I don't think it's very expensive actually . Why should it ? You only have a microphone in it .
+B :  Mm .
+D :  Uh if i if i I didn't have information about that .
+B :  Yeah , I think it's
+C :  Yeah . But it has to work . And and and does it have to work only in English , or in Dutch too or
+A :  Nah , maybe
+D :  Ah that's a problem , but
+C :  And and uh w Yeah ?
+D :  Uh only in English . Only in English I think .
+B :  What But uh I dunno how that works then . Uh does your uh Does it lie in the centre of the room and can you scream from wherever
+C :  Yeah , it's probably my job to figure that out , but
+D :  No , that
+B :  uh one to have in channel one ?
+D :  Yeah , then th we have to think about that . But do do we do it ? It's more if we if we do it .
+B :  Yeah , I dunno . So , is it very usable ? That's what I'm looking at .
+C :  And and do you have to speak in in like in a thing or
+D :  Yeah .
+B :  Is
+A :  Maybe maybe it's too hard to uh to realise that . It We have short time to to put it on the market , so that
+C :  Yeah , I dunno .
+D :  Okay .
+A :  We have to do a lot of testing before we can do that .
+B :  Mm Yeah well
+C :  Yeah , I think so .
+D :  Yeah , and uh and uh
+A :  We make uh make uh , we can make th th the new remote control very flashy .
+B :  It's
+D :  In uh indeed uh the languages are a difficult thing . Uh because we we have a lot of languages .
+A :  Yeah .
+B :  I d Yeah . I don't think it's uh useful enough to take the effort to design something with uh speech recognition .
+C :  And and
+A :  Yeah . I think so .
+C :  Yeah , and also if if you have a good speech uh speech recognition , you can just throw the uh
+D :  Yeah .
+D :  A uh someone says that uh give me one Coke , and the T_V_ turns uh to one . Yeah , it's not uh
+C :  the remote away .
+C :  Mm . Hmm . Mm . Yeah , okay .
+B :  Yeah . Well yeah , that's the right command . And then you have to say uh T_V_ channel one , or something . Not just one , but
+C :  But
+C :  Hmm yeah ,
+C :  T_V_ one .
+D :  Okay , but th that becomes your f Uh uh because that's very hard for uh speech recognition .
+C :  Yeah .
+B :  Well I dunno . But I don't think , it just ain't useful enough .
+D :  Mm-hmm .
+A :  So we have to make some decisions . So you can see on the uh So we have to know what we're going to put on . Do we , do we make uh a light under the under the n under the numbers and everything ? Do If you press something , it lights up for a few seconds , so you can see what other but buttons there are , okay ?
+D :  Okay , no speech recognition .
+B :  Yeah , I think so .
+C :  Yeah , that's good .
+B :  Yep .
+A :  Okay , we just take that one . And what else , we have
+B :  Also the one in the dark . So uh
+B :  It lights up when it's dark ? I didn't
+A :  Yeah , but it's Oh th I thought would , that that would be the same . If you push something , it it all lights up .
+B :  Okay .
+D :  Yeah . Yeah yeah , it it mustn't work all the time . It uh uh it have to work only when you use it . So if you No , if you use one button , it must turn uh on for twenty seconds , and then it must turn off .
+B :  Yeah , but um
+B :  Yes , that's what I mean .
+A :  Or you can switch it on or something .
+B :  Or maybe when you yeah .
+B :  It lights up all .
+A :  Yeah , that's right . You have to Yeah , that's right . That's what I said . It's the same as the telephone . Yeah .
+B :  Okay yeah . D Yeah , alright . Yeah .
+A :  And do we use a a Uh what's it called ? Like a iMac , if you can look through it . Or just a normal remote control .
+C :  Mm , maybe it's a good idea .
+B :  Maybe just as an option , w like we discussed , like iPod . Different colours , uh maybe use even different fonts .
+A :  Yeah .
+D :  Oh yeah .
+B :  Like uh phones .
+A :  Different colours . Okay , so y you just make it th through You look through it ? Okay .
+C :  Hmm .
+D :  A see-through . Mm , that's cool .
+B :  Yeah . Uh as an option maybe .
+A :  And so the buttons we have , this is , yeah , this is normal . We put in the the simple buttons on the top , and probably the the the more complicated buttons down there .
+B :  It's the standard
+B :  Yeah , uh
+D :  But you have You had a lot of different buttons .
+B :  Yeah , we but we don't We don't really have any complicated buttons .
+C :  Hmm .
+A :  Yeah , maybe you have you have to Uh when you use teletec teletext , you can press a green or a red button to go to the next one , or to go to the previous one .
+B :  Yeah okay , but
+B :  Yeah , well w I think the buttons are very easy . With just uh standard buttons we just have so little
+A :  O but maybe you can put um the g the options of teletext on the second level of the remote control . Because you ne almost never use it .
+B :  No , I don't need don't need Uh teletext options are only four buttons or something .
+C :  Yeah , but younger people I think um more often use the internet and elderly people often use teletext . So uh
+A :  Yeah , that's right .
+B :  I use teletext as well .
+D :  No , I use te teletext every day , I think .
+C :  Hmm . Okay .
+A :  Yeah . For me too , it is . So we just keep it one level then ? Okay .
+B :  Yeah yeah , one level . And I think , uh 'cause um we don't have that many buttons , I think the design is most important . You can d uh integrate the buttons in the design very much .
+D :  Mm .
+C :  Yeah .
+A :  Yeah .
+B :  'Cause simple buttons . If you put one above it , it's clear .
+A :  Okay .
+A :  Okay .
+A :  So that's it for toda for We're going to have a lunch lunch break . Um
+B :  How long is lunch break ?
+A :  So yeah , you know what you have to do . This is uh this is it .
+A :  You get your meal and everything , so
+D :  Trendwatching . Okay . That's fine .
+A :  Yeah .
+D :  Yo .
+A :  So , we're finished for t for this time . We're going to have some lunch .
+B :  Okay .
+B :  Bye .
+C :  Yeah .
+A :  Yeah .
+D :  Mm . Uh .
+D : 

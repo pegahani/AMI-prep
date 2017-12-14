@@ -1,0 +1,492 @@
+C :  No .
+D :  No .
+B :  Okay .
+A :  Okay . Who wants to take notes today ?
+D :  Oh .
+D :  Channel .
+A :  Okay .
+B :  Okay .
+D :  Mm 'kay . L I could take notes this time , I guess . I'll takes notes this time , I guess .
+C :  Yeah .
+A :  What ? Th okay . Yeah .
+D :  Actually , I suppose I'll use this .
+A :  I'll make funny drawings .
+D :  Um actually first thing I just sorta did a really sorta brief um , yeah , version of what we have to do . Um actually I can just take that if you want .
+A :  Yep .
+A :  Thank you .
+A :  Very interesting start of the meeting . Everyone's looking down reading .
+B :  Yeah .
+C :  Okay .
+B :  Yeah .
+C :  I like the timeline .
+D :  Actually for that I was just copying the one straight out of the other documents . So it's all , whatever inaccurate and well
+B :  Okay , yeah . Basically that's fine , yeah .
+D :  But yeah . Okay . Um
+C :  Uh , b Let me see it . Oh , that's the same . Oh . Very good .
+D :  Oh she has . She has her own . Yeah .
+A :  . Yep .
+C :  Um I'm not sure uh if we need the outline of the prototype . I mean what what are we gonna put into that ?
+D :  Okay .
+D :  Yeah . Well , just sorta well the thing is , yeah , we're gonna be touching on all that during the other part for the progress and putting screen-shots and all the rest yeah , exact yeah . Well it's something that he had mentioned in the um in the previous like just to sort of have a prototype together , and so I was just saying that , you know , we could potentially do that . I don't know . It's not something we have to
+C :  Yeah , because I mean that's basically what we're doing here , isn't it ? The whole
+B :  Yeah , we could because this could be just some uh a little just just describe some screen-shots or something .
+D :  Alter .
+D :  Yeah ,
+D :  Yeah , sure . Like the thing is I was thinking even in the stuff that I was doing , I mean , just throw the screen-shots in there when you talk about what you're doing , right . It kinda makes sense . So yeah . Oh yes , oh actually I have a I have that at the very end screen-shots . But that didn't show up on this page . So it's not even relevant . So
+B :  Yeah , you can either have and we can just ignore that bit . Or you can have
+B :  Yeah .
+B :  Yeah , you can either have the Yeah , it says screen-shot there and stuff . But th you can either have screen-shots by the thing , each one , or um have just a bunch of 'em in one session . It doesn't
+D :  Yeah .
+D :  Yeah . Anyways , so um so yeah , this just very general structure um , I guess from this we can just pop in our little blurbs and and uh .
+B :  Yeah . I've written the topic segmentation one .
+D :  Oh yeah ? Cool .
+A : 
+C :  Yeah .
+D :  I guess . Um so I don't know if there's other stuff that you think should be done to this , I could do that before I mail it to you guys . Um otherwise yeah . Um did someone else wanna throw it togeth Actually I can probably still throw it together if you want , um put your parts into into this one .
+B :  Uh it should be alright . Do we d
+B :  I think Pernilla should do it , yeah . Yeah . Uh yeah , exactly . She's only gonna tell us we got it wrong anyway . So I'm only joking .
+A :  Hmm she never said that . And I'm being like I don't know not a native speaker of English . I think is But what whatever .
+D :  I'm the perfectionist , right . Yeah .
+C :  Yeah . Yes . Yeah .
+D :  Yeah . That's a good idea . Let's just cut out the middle man , you know . Just yeah .
+C :  Um
+D :  Yeah .
+A :  Oh . We'll see .
+C :  Yeah well , I mean it's up to you if you wanna keep going with that . I'm happy to do some as well . I have lots of time tonight .
+D :  Hmm .
+C :  Um and then uh we'll send it to you and you can do the final revisions . I'm sure
+B :  Th you can you can perfect it and
+A :  Yeah . I'll uh look at it like when my usual working hours are like from twelve o'clock till three o'clock or something , so if you can work on it that and then like No , actually not . But I'm never online on the morning . So Yeah . Yep .
+D :  Yeah .
+D :  Oh yeah . Yeah .
+C :  I know , you're always online . You always make me feel bad , because uh when I go to bed at like one , you're still online . You never go to bed .
+B :  Sleep , sleep , food , sleep .
+D :  Yeah .
+D :  Or you just leave your computer on maybe . Logged in . Yeah .
+C :  Yeah , you pretend . Always busy . Yeah , right . Yeah , so maybe
+D :  Yeah .
+C :  Yeah . So
+D :  Yeah . Actually I noticed that no one is . Anyways , alright .
+D :  Okay . So I'll send it off to you . Then um
+A :  Well
+A :  Yeah , do what you wanna do with it first , and then I'll will look at Yeah , uh yeah . And I'll send it out to you again tomorrow or whatever . Yeah .
+D :  Yep .
+D :  Okay .
+B :  Sabotage it . Yeah .
+D :  Right .
+C :  Yeah .
+D :  Actually d um
+D :  Yeah . Was there anything else we wanted to add to the time-line ? I mean essentially it was what like f um you can't see it right there . Here , I'll s here's the old one . Well , that's that's the orig this the original one . Yeah , yeah , which just copied straight out . Um
+C :  Yeah .
+C :  Oh , there's more . Oh , I see . Oh , this is the one that okay .
+A :  Probably wanna think about if we wanna change our goals and stuff . I think it um one thing that we could probably skip uh totally is the removing things from the audio files .
+D :  Mm-hmm .
+C :  That's what I thought as well , I mean do we are we are we actually gonna attempt that ?
+D :  Yeah .
+B :  Yeah .
+A :  That's no , I don't th that's that's too big , yeah .
+B :  Nah .
+C :  I don't think so either , yeah . I think that's gonna be a b we don't even know how to approach that at the moment , I think .
+D :  Yeah .
+A :  No .
+D :  Yeah .
+B :  It's a good thing to have , to say we cou what we could have done if we had more time . A good future work thing , isn't it ? Stick in the conclusion of the final report . Should if we had more time , this is what we would have done . Yeah .
+D :  Yeah .
+A :  Yeah .
+D :  Yeah . Unless we d unless we discover some sorta time-warp thing , it's not gonna happen . Yeah .
+C :  Yeah , yeah . Yeah , yeah , that's right . Um um so maybe I mean we we should we should definitely well we could probably not put it under this heading , but put it under changes since the initial specification . And say , you know , we didn't we decided the the r time is too short , whatever .
+B :  Yeah , if Yeah if
+A :  Yeah , but that's definitely one thing we could just remove .
+D :  Yeah . Yeah , sure . Yep .
+A :  Yeah .
+B :  We don't think there's enough time .
+B :  Or we felt there were more important things to do with our time than
+C :  Yes , .
+D :  Mm-hmm .
+B :  than worry about
+C :  Yeah . We would prefer to concentrate on the main
+A :  Yeah .
+C :  And I think we should probably uh comment explicitly on the milestones here as well and say we managed to do
+D :  Yeah .
+D :  Yeah . This , this , and this . Or some of them were later , some were yeah . We could even
+C :  M m meet these milestones at Yeah .
+B :  Yeah , that's a good idea . You have should have a section probably .
+A :  I mean we haven't really yeah .
+C :  Like , you know , develop prototype GUI . We t you know , ah yeah we managed that nicely . Uh
+D :  Yeah .
+D :  Yeah .
+A :  Yeah .
+D :  Exactly . Yeah .
+B :  The best file on target or something .
+D :  Yeah . More or less . Yeah . Search , yeah . P plus plus or minus three days to yeah . Yeah , that's that that's true too . That's true , yeah .
+C :  Yeah , yeah . Yeah , put it put it good .
+A :  He he d he doesn't have to know exactly what I mean , yeah m I mean it's hot finished , but it doesn't really say
+B :  Or t Well
+C :  Conceptually .
+B :  And so I've only got six days to do the topic segmentation as well . Jesus .
+D :  Ah that's plenty . You don't have any uh S_P_N_L_P_ assignments , do you ?
+B :  Yeah . Uh
+C :  And you can say yeah . We uh say we are still aiming for the development to be complete on the or something . M .
+B :  Speaker characterisation .
+B :  Jesus .
+B :  Speaker characterisation's supposed to be done already . Yeah , two days ago .
+D :  Yeah .
+D :  Oh really ? Oh Jeez . H Um is are one of those something that you wanna change and delete from our list of expectations ?
+C :  Whoa .
+B :  Give me a week and I'll tell you the answer to that .
+D :  Yeah . Okay . Alright . Like should we put i a hint that something like that might happen into the document ?
+C :  I yeah , I
+B :  Or maybe the speaker characterisation might get slimmer .
+C :  Yeah , that's right . I I really wanna do it . I mean it's not it's not gonna be difficult . If at least have all the information pop up that is already in the meta-data file . That's gonna be no work at all . So it's definitely gonna be something there .
+D :  Okay . Alright . Okay . Yeah , I know . Yeah .
+B :  Probably we won't disappear it , yeah .
+B :  Yeah . Yeah . Yep .
+D :  Mm-hmm . Yeah , okay . Yeah , true . Yeah .
+B :  Yeah , we won't make it disappear , but we might thin it down a bit .
+D :  Okay , sounds good .
+A :  Yeah .
+D :  Yeah .
+B :  Um but we might not , you know , but we might have time . Depends how how how how things m
+C :  Yeah , it might turn out easier than thought .
+B :  .
+C :  Um
+B :  The topic segmentation with the L_C_ seg and text tiles basically done . It just needs to be done because you know what I mean , the co yeah , tuned , yeah . A search through the parameters or something . Let's see what happens .
+D :  Okay . Tuned I guess or yeah . Yeah .
+D :  Cool .
+D :  Mm .
+C :  Yeah , sounds good .
+C :  What else ?
+D :  Okay .
+A :  Hmm .
+A :  I don't know . Shall we change the deadlines ?
+C :  We should probably d sorry , we should probably do another responsibility of packages as well . That's what he hinted that we should also um indicate who who is responsible for what from now on .
+D :  Right . Yeah . Well I could probably just copy that straight out of the other one as well . That's essentially the same as it was . Maybe more detailed specifically .
+B :  Yeah , pretty much .
+C :  Well you could put , you know yeah , I don't know .
+D :  Mm .
+A :  Yeah . Should we , I don't know , do you think , Mike , about our things that we had together ? Should we I mean now , yeah . I mean we have it now like inverted and you have the other But what about the m
+D :  Split those apart ? Yeah . I think so , yeah , like , yeah , inverted file . Yeah , exactly .
+A :  Removing disfluencies ? Shall we just
+D :  Oh . Well if we're skipping the audio one , and then things got easier . Um
+A :  Yeah , we just keep it together on the the pap there right now and just see what what ?
+D :  Yeah . Yeah . Have you taken any more of a look at it ? Have you taken any more of a look at it ? At the disfluenc okay . Yeah . Okay . We could probably
+A :  No , not the disfluencies . No , haven't .
+D :  I know if we'll have time to look at that before tomorrow . We could just make it up . Like I'll claim one , you'll claim the other for the search things , and then we could leave that one as a a joint one .
+A :  Yeah . Yeah , might be yeah .
+C :  So um
+A :  Yeah .
+D :  And that'd be good ? 'Kay .
+A :  Something
+C :  Have you managed any further on the search thing ?
+D :  Um I found finally today something that I can build it in and it uh I should have something for tomorrow . I should uh , you know , at least very least have uh um a GUI and uh wire I'll be wiring that in hopefully tomorrow morning . So I wanna get something I wanna see this , I wanna get it together . Have an image in my mind and I just wanna see it on the thing and then get a nice screen-shot . So
+C :  Alright .
+C :  That's nice .
+C :  Yeah yeah yeah .
+A :  Yeah .
+D :  Um
+A :  Yeah , my intent is to work on these things tomorrow a bit more . So also , I don't know if we send it in on the afternoon , maybe I can add a few sentences too when I'm done .
+D :  Mm-hmm .
+D :  Well . W well well it doesn't really matter , I mean you could write the sentences first as well . I mean with the intention that this is done . I mean and also some sometimes it's a bit of a motivating factor too . I mean you write down the words and the ideas as , oh , okay , well I'll do this , I'll do that , you know , it just all falls together .
+B :  Yeah yeah yeah . Certainly .
+A :  Then it's done . And if it's not , Hopefully it won't be . Oh yep .
+A :  Yeah . Yeah . We'll see .
+B :  How about the underlying data for it ? For the d inverted file . How's that coming along ?
+D :  Hmm .
+D :  Oh .
+A :  Well , I was still like struggling with Java stuff . But yeah but I'll work on it . Um I think uh I was wondering about that is uh , I haven't looked at it so much , but if m any of you guys know how we could do the like from the uh extract words that you did , like also in uh in this extract t time stamps on stuff , so we can is it
+D :  Oh yeah .
+B :  Yeah .
+B :  Coming along .
+B :  Easy , yeah . Just yeah , well it just um when he pulls up the segments um part of that , one of the f one of the attributes you do get attributes . get attributes , it returns a list of attributes . Search through those and and then it just you can that will tell you what attributes it's got . And then you can either do it automatically or you can just hard-code and say , look , get me the time stamps . So you just say um get attribute and put I think it's I think the method's called get attribute and just it's called start time and end time . And that will tell you the start times and end times . I think it returns it double .
+A :  Yeah .
+A :  Okay .
+A :  Okay .
+A :  Okay .
+A :  Okay .
+A :  Okay .
+A :  Okay .
+A :  Yeah . So now I could just put it in some
+B :  Yeah , that's on the um the n the the NOM right elements . The the the uh the object is a NOM right element , I think .
+A :  Tuple or something , yeah .
+A :  What , on the
+A :  Okay .
+A :  Mm .
+B :  That should uh tell you what it is .
+A :  Yeah . I'll take a look at that .
+C :  So w is there um did you have you made uh another M_ browser ? Is there something that I should
+D :  Um there is , but I w I haven't made a lot of changes to it , so I might just um delete what I've done and copy again from yours . 'Cause I'm sure you've probably made some changes already . Oh really ? Since Friday , ? Okay . I thought you said okay . Oh right , I see . Okay . I thought you said that you had written some things that maybe have caused some bugs and that you were gonna fix those on the weekend or something . No , okay . Alright . Alright , yeah , okay . Right . Okay , cool . Um yeah , so if you although there's stuff out there that actually I'm gonna try and minimise the amount of changes I make to M_ browser anyways . Shouldn't um
+C :  Not since you looked at it last , no . But I will tonight , that's the point .
+C :  No . After the weekend . Weekend was out .
+D :  shouldn't be an issue . Actually just to clarify last week when we were talking about our search results , um like if we have topics as well as transcripts as well as what was the other ? Summaries . Um do we want separate result panes uh for each of those ? Or do we want them all in one pane with like an icon or a different colour or something to indicate what type of result they are ? So that when they , you know , click on that , it's gonna go to the relevant thing . Like just if they check all three say topics , summaries , blah blah blah , have three different windows come up ?
+C :  Mm-hmm , yeah , yeah .
+D :  Or three like sub sub-panes sort of .
+C :  Well at the moment is there at the moment is there a window that comes up ? Or is that a r a second results pane ? Or is there , you know does the window get larger ? What's there kind of what are you thinking ?
+D :  Um
+D :  What um I thought what we sorta discussed last week was to have it sort um the same window , um so it'll be on the search window , bottom half of the search window . Um I don't know if we still wanna keep it that way , but that's uh that's what I was gonna be working . So so it's just like you click those and it's just loads up . You know , splits that thing into like two or three or whatever that is . One , two or three , depending on which ones you check . And then um so if we wanna do it that way , you know like it probably doesn't matter too much . Just trying to think if there's gonna be any other issues down the road um depending on
+C :  Mm-hmm .
+C :  Yeah .
+C :  Yeah . Yeah .
+C :  Um
+C :  Yeah .
+B :  What , have th th uh you confuse me . Do you have um three separate windows for the three separate different types of results ?
+D :  No , just just panes , just result panes for each of the three no no no , no No . No , no . So so it's just when we click , you know , topics and summaries for what we wanna search , then it'll uh You know , there'll be two result panes . So for one for topics , one for I don't not really tabs . Um But then you can't see all of them at the same time , and it's just like
+B :  Okay , not not three different okay , okay , cool . Yeah . Okay . Right , yep .
+A :  Pop-ups .
+B :  Yeah .
+B :  Yeah . Or tabs or something .
+C :  Yeah , I quite like the idea of a tab in that case .
+A :  All of them , no .
+C :  But you wouldn't want to compare the result the topic one topic result with one summary result , would you ?
+D :  Well it's no , but the thing is if you're looking if you could check them both um you wanna see all the results .
+C :  Actually mm , yeah . Especially if you get if you get results for the same meeting .
+B :  Yeah yeah , it's three panes .
+D :  Yeah , exactly . Yeah , so the summary and the topic and the transcript are um So Um or we could just put them all into one result pane on that same window and just indicate
+C :  Maybe yeah , yeah . Yeah , yeah , it's true .
+C :  Yeah . I mean we could we could order them by meeting , for example .
+D :  Yeah . Yeah . Oh yeah , I guess that was the other thing whether we wanna have this reorder by columns and all that . But that's a hassle too . It's a lot of work .
+C :  How to order it . Yeah well , I mean uh if , you know , that's uh you even a second step , the first question is do we want to order them . How do we wanna order them in the first place .
+D :  .
+D :  Yeah . I think , yeah , probably by meeting makes most sense . I mean essentially they're tem you know , in time order . So yeah , that kinda makes most sense .
+C :  Yeah .
+C :  Yeah , maybe we should do that .
+D :  Least uh
+D :  Yeah . Yeah . Should be an easy no , I don't know actually . Should be fairly easy , I guess .
+C :  Yeah , m why don't you just um
+C :  colour-code those .
+D :  Yeah .
+C :  The results to three different colours .
+D :  Thinking sometimes in a case like that , like a run across um in other languages , just that it's hard to tell what kind of object it was originally , once it's put into like a list-box or something . It's hard to tell whether it was a a transcript or whatever . And then if we're highlighting something in a transcript window , it may be difficult to get that information back once it's just in a list-box , an item in a list-box . So let's there's yeah . Whereas if it's coming from
+C :  No , but if you
+C :  If you if you do it straight from you know , you get th you get the result , and then there's some if statement saying s straight on the , you know , rock bottom lev level saying if th if you found a segment , then colour it print it in red or whatever , and
+D :  Yeah .
+D :  Right .
+D :  Yeah . Yeah . It's just silly .
+C :  As opposed to
+D :  Yeah . Um yeah , it's just like from past experience I've there's goofy little things that happen , and it just doesn't let you save certain things , and it's just kinda um trying to to do a different kind of to go to a different window . So if you wanna go to the actual highlight the transcript or highlight the topic or highlight the summary . At that point , that's sorta where it starts getting a little bit tricky , 'cause you're working with an event handler within the one panel or list-box or whatever it is . And uh
+C :  Oh right .
+C :  Ah . Well , have a look .
+C :  Oh , mm-hmm .
+C :  Yeah , yeah , I can imagine .
+C :  Oh , oh , I see , yeah .
+D :  So Um there are ways around it , but you know , whether I'll be able to figure something out like that till before tomorrow yeah , I know . Or delegates or whatever the all that stuff . So Anyways
+C :  You you have to use actions .
+C :  Um yeah , I mean um at the moment it works it works with highlighting in in the transcript window , doesn't it ?
+D :  Right . I think so .
+C :  So
+D :  I think he was saying that as long as we implement that um interface um it should work with anything that we do . Like highlighting the yeah . I think that was um who is saying that ? Um wasn't Jonathan saying something about that . I think it was just like as long as we implement one of these interfaces for this particular type of window , we should be able to have that highlighting happen . I don't know . I don't
+C :  What do you mean it should work with anything ?
+C :  Mm-hmm .
+D :  Anyways
+D :  Okay .
+C :  Yeah , I mean the whole um the m what fills the transcription box and all of these boxes is a special sort of pane made by NITE . So I am not sure what it's called now . Um
+D :  Okay .
+C :  Um some
+C :  Um no , but I know what it's called . And that comes with a whole load of highlighting extras as well . As I said , you know , if you if you left-click on something for example , it highlights automatically . So maybe it comes with something clever as well .
+D :  Okay . Okay . Alright .
+D :  Okay .
+D :  Okay , maybe I should maybe I should use that as well in my Yeah , okay .
+C :  Yeah .
+B :  It's called a NITE text pane or something , isn't it ? Is it ?
+C :  No , I'm sure it hasn't got pane in it . NITE
+C :  I don't know , text text yeah , something like that . Might yep . NOM text there is alright . Yeah , why what's NOM anyway ? NITE Oh .
+B :  Text area or something something like that , yeah .
+D :  Hmm .
+B :  NOM text , yeah . Mostly things are called NOM . Yeah .
+D :  Yeah , why . Yeah .
+B :  NITE object model , I think . NITE object model , I think that's what
+D :  Okay , that makes sense .
+A :  What do you say ?
+A :  Okay .
+D :  Mm .
+B :  With the um
+B :  The removing the disfluencies , have you done anything with that yet ? Anybody . 'Cause um I was wondering how we're gonna write it back to H_T_M_L_ I mean X_M_L_ , if we take if we did the processing .
+D :  No .
+A :  No , we haven't .
+D :  Um
+B :  Writing it back to X_M_L_
+D :  It's I thought we were just going to have that as words . Like not ev not as X_M_L_ , just sort of as a Was that What was that um What transcripts recent oh no , transcript no , 'cause then we need all the other data if we wanna keep it a transcript , right .
+B :  Seems
+B :  There's a blop of text .
+B :  Text file .
+B :  You will very much limit what you can do with it if it's not in X_M_L_ format . There is some bizarre method that puts things back into X_M_L_ format . But
+D :  Yeah .
+A :  Yeah , that's true .
+D :  Yeah , that's true , yeah . Good point .
+C :  Why do you why do we want it in X_M_L_ there ? I mean I thought we'd we'd just selectively selectively write the X_M_L_ that we've got .
+B :  What
+C :  So as as opposed to
+A :  Yeah .
+B :  Oh , select what we want , just take bits of the X_M_L_ and take only it takes certain segments . Yeah .
+C :  Yeah t
+D :  Hmm .
+C :  Yeah , only only print out certain um certain segments , the segments that we want just selectively . At the moment it prints out all of them . We'll just put an if loop in it that leaves out some of the print statements . Not not store it at all whatsoever .
+A :  Yeah , like
+B :  Yeah . Yeah , yeah . Yeah , yeah . Certain segments . Okay , yeah , yeah . Alright .
+A :  Yeah .
+A :  Yeah .
+B :  Okay . That
+D :  Oh yeah ? Okay , then that's then that's not yeah . Yeah , I know . That's sorta what we were thinking before . Actually , but this makes more sense .
+A :  Yeah , that's what and that's what I think we like
+C :  Because
+B :  It says something different there . That's what
+A :  Okay .
+C :  Oh right .
+B :  Then written to a written to a file . I kinda doubt just that it would ever be done . But that will mean that you can only do things on actually no uh , 'cause you need to do things on word level . So yeah , that's fine .
+D :  Yeah .
+D :  Yeah , if we're gonna do the X_M_L_ , then fine , that's that probably makes it easier .
+B :  Yeah .
+A :  I mean , we're not really uh well , I mean
+A :  we're not gonna do much more than just look at the
+A :  the rem like the text problem with disfluencies , 'cause we're not gonna search it and we're not gonna like listen to it .
+C :  Yeah .
+D :  Mm-hmm .
+A :  Since we're not doing the audio thing .
+B :  Yeah .
+A :  So I guess just to displaying it is a alright . But , well anyway , yeah .
+C :  So what ?
+B :  It's fine . Yeah .
+D :  As text , you mean ?
+C :  Yeah , yeah , you don't really need to do much more with it . Yeah , that's right .
+A :  No .
+B :  Yeah , but it would
+D :  The thing is like well how would we display the like if we do take disfluencies out and just c you know , create a text file , take the disfluencies out of the text file and then yeah .
+B :  It would just be blurb like a summary . It won't look like it won't say , speaker X_ says this , speaker Y_ says that , speaker Z_ says this . And
+A :  Well that is true .
+D :  Unless we extract that out of the file when we create the text file . Yeah . That's true too .
+B :  Yeah . Then it will look ugly probably , 'cause it will look just black and white . Unless you want as dark colouring .
+A :  It's probably best and do as you said . Like just like yeah . No . No .
+C :  I don't think it's gonna take long to to produce anyway . It's just another um I mean these meetings are not endlessly long , it's just words , and to print all of them out selectively
+B :  No no , I don't think that's I think it's true .
+D :  Yeah .
+B :  It does it on the fly anyway , didn't it . So
+C :  Yeah .
+B :  So then just goes through it and says if this word equals that then print .
+D :  Yeah .
+A :  Yeah .
+C :  Yeah .
+C :  Um
+B :  Just a bunch of if statements is
+C :  You could nearly do it together with with uh the transcription with the original transcription , have them run parallel .
+D :  Yeah .
+C :  So if certain , you know if it's a proper word , print it on both both panes , and if it's not a proper word , then print it only on one . But I mean that's that's , you know , fancy , but
+D :  Mm-hmm .
+C :  But um
+B :  Yeah , you probably could actually . This is probably and that's probably not that much more difficult . You just fatten the code out a bit . I It would be the same thing .
+C :  Yeah .
+C :  Yeah . But then
+C :  you know , the the b the good way of doing it um not together is that you if someone doesn't wanna look at the the , you know , the chop file , then you don't ever have to produce it .
+B :  And they can't yeah , exactly .
+C :  . So But I mean you can , you know , you can write we can write something like um we'll try and do it on the fly and and observe if if that gonna is gonna take too long . If it's gonna take too long , we'll think about writing it to a file and doing it off-line .
+D :  Right .
+B :  Shouldn't , no . It's just uh they'd just be if statements when they fast if statements , aren't they . This is loads of if statements .
+D :  Yeah .
+C :  Yeah , i um .
+D :  Yeah . Or I don't know . I was just thinking as well , I mean we could probably even use like X_S_L_T_ to kinda just transform it and , you know , flip it into uh yeah , just uh transforms um like um style sheet , the um X_M_L_ style sheet . And then it's kinda like there's usually things built in to well should be built into Java , I mean to process X_M_L_ into like in just creates whatever file it's gonna be in . Uh it's been a f couple of years since I've looked into anything like this . But uh that might even be an easier way . And then that way we could even pre-process that before hand . I don't know , do well we don't wanna have to do that , right ? Although on the fly it's typic it's it's typically pretty fun .
+B :  Well is that
+C :  Oh right .
+B :  I wouldn't wanna have to put it take to put it back into X_M_L_ with Java . Even trying to read it in X_M_L_ with Java was complicated enough . I gave up doing that completely and just defaulted back to n uh NITE stuff , 'cause it was much much much easier .
+D :  Oh right ? Oh really ? Okay . Yeah .
+D :  Yeah .
+C :  Yeah .
+B :  So if we can do it with NITE stuff , do it with NITE stuff , I think . Otherwise , you're gonna be s Java , trying to do s it was just so complicated it was ridiculous .
+D :  Yeah , okay . Yeah .
+D :  Okay . Yeah .
+B :  Don't believe it . You have to d start defining object models like the NITE thing and getting all bizarre w weird things . It was mad .
+D :  Yeah , okay . Are you serious ?
+D :  It's insane .
+D :  Actually I was thinking I might try and talk to who is it , Jonathan and Jean ? Like just to see h what they what system they used to develop this stuff . 'Cause it would be nice to have all the tools there and just like have the object model and just kind of like plug and play with everything and just to actually use the system , you know , at a higher level rather than kinda , you know , playing around with a little bit of code and modifying their code and doing this and that . It'd be nice to just sorta see what they're doing . So I might uh try and contact them , see if there's , I don't know ,
+C :  Hmm . Mm .
+D :  any other hints they could give us . Just to get things , I don't know , moving at a higher level I guess .
+D :  It seems it'd be more interesting to use it as a a real developer would .
+D :  'Cause just seems like a little tinkering here and there and just adding couple things and , I don't know . So
+C :  That's what programming is all about , I'm afraid .
+B :  Yeah .
+D :  A channel .
+D :  N no no , it shouldn't be , no . It should be higher level . It should be conceptual and , you know , coming up with the the brilliant ideas and then just , yeah , bringing those to reality . Yeah . I don't know .
+C :  Yeah . Maybe . That's the higher people .
+A :  I have a friend there too .
+C :  Well , I mean
+C :  yeah , why don't you put both of both of those ideas in into that that paragraph and say you'll have a look at both or something , if you wanna do it . I I personally don't wanna mess with uh writing files or anything the moment . I wanna do it superficially .
+D :  Hmm .
+D :  Hmm .
+D :  Yeah .
+D :  Like the thing that I was thinking there is well is that once it's done for a f you know , one meeting , it's done and it's there . It's file . Text file or X_M_L_ or whatever it is . But yeah , just , I don't know , just it doesn't make any difference really either way to me . It's like hmm if it's fast enough on the fly , then sure . Um that's about the only issue I have with on the fly , whether it's fast enough .
+C :  Yeah .
+C :  Yeah .
+B :  I spoke to .
+D :  Hmm .
+D :  Especially with Java and all this other crap . it's just if it's loading the file and doing all the rest and processing the p
+C :  Well it has already learned it anyway .
+D :  Yeah .
+B :  Yeah , it's always it's , is it .
+D :  Right .
+B :  It's just a it's just a for loop , really . Should be fine , yeah .
+C :  Yep . Yep .
+D :  Yeah . Whether it runs out of memory . Hmm .
+B :  Yeah .
+D :  Um
+C :  So should we all write um a letter or two about future work as well ?
+B :  Yeah , I included a future work in my own section . But
+C :  A word or two .
+D :  Yeah yeah .
+C :  Oh right .
+B :  I just said I said what I've done so far and what I'm gonna do , and some pro some issues .
+C :  Yeah , well maybe you could
+D :  Right . Actually yeah , that makes sense .
+C :  Maybe you could split that up and
+D :  Um oh like into each separate I know yeah .
+C :  Yeah , like here is what we've done already , and then , you know , down here
+B :  I think you lose the
+B :  You might lose a bit of continuity if you do that , though . That's what I was thinking . But sometimes it's easier to have the top it in its own its sections , if you see what I mean . So you talk about speaker characterisation , you say what you've done and
+A :  Yeah .
+D :  Yeah , act
+C :  Mm .
+D :  Okay . I think that does make sense . But maybe at the end , maybe just uh a point form of , you know , things that we're still working on , things that we'll do . Yeah , yeah yeah . Yeah .
+C :  Maybe .
+B :  Goals or something . Something bullet pr bullet bullet points . Yeah . Because if you have a discursive thing here and then another discursive thing there , if they're not together you lose a lot of the um the continuity , I think .
+C :  Yeah , that's right . Yeah . Yeah , maybe . Maybe .
+D :  Yeah .
+D :  Yeah , I know what you mean .
+C :  Mm yeah , maybe you're right . No .
+D :  Yep . Yeah . Actually I'll just
+B :  But um
+D :  Oh that's true .
+C :  Sounds good . Anything else anyone wants to talk about ? We're all half-asleep , aren't we ?
+D :  Hmm 'kay .
+B :  So apart from that yeah .
+A :  Yeah .
+C :  Burnt out .
+A :  .
+A :  Yeah , maybe asleep . Yeah um
+C :  What . Huh . Maybe asleep . But uh So we're all still writing our um summaries , sending them to you , you send it on to Pernilla .
+D :  Yeah . Snore . Okay .
+B :  Yeah .
+D :  Or or she'll just take she can take it from now . Doesn't matter . Or do you want to or no ? Uh okay I c I can yeah sure , if you wanna send them to me that's fine . Yeah , okay , actually no no n actually that's a good idea , I'll take one quick look over , try and get it as good as I think that we yeah .
+C :  How kind .
+A :  What ?
+A :  . I don't know . It doesn't matter for me either . But
+A :  Yeah . I mean if we both yeah .
+C :  Yeah .
+B :  You stick it together . She'll shine it .
+D :  Okay .
+C :  Yeah . And then send it on to us so we can nod .
+A :  Yeah . Yeah . And correct back any he like things that I thought was wrong in English or whatever . It like no . That's not that or whatever .
+B :  Yeah .
+D :  Purely a formality .
+B :  Yeah .
+C :  Okay . Sounds good . I haven't used my pen .
+D :  Right . Okay , we're changing dialogue back to hello Jean . No . Okay .
+B :  Yeah .
+B :  Yeah .
+A :  Yeah .
+D :  Oh .
+A :  Oh . It's sad . I write wrote like four lines of whatever . Um yeah , twelve thirty tomorrow with
+D :  I have .
+D :  Okay .
+D :  Oh , oh , right , okay .
+B :  S Steve-O_ .
+A :  Steve .
+C :  Oh God .
+A :  Yeah . Yeah .
+D :  Well , I thought you had tomorrow off .
+B :  Twelve days and write , yeah . Not much without any of us

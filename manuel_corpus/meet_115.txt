@@ -1,0 +1,704 @@
+A :  So
+A :  Hello .
+D :  Good afternoon . Sorry I'm a little late . Got stuck in the traffic .
+A :  No problem .
+A :  Okay . That's possible on uh this time of day . Starts at three o'clock . Uh Uh , let me see . Our fourth and last meeting .
+D :  Yeah .
+A :  There he is .
+A :  Yes .
+A :  Okay this our last meeting . In this meeting we will discuss our final design . And we will do some evaluation about the , not only the product , but also the project . And then we're going to close the project today as well . So after this you will be uh free to go and uh spend all your money .
+A :  And this uh design , detailed design meeting uh we will discuss uh the look-and-feel of the design , the usability interface design , and we will do the product evaluation . Um , in order to do that we have this agenda .
+A :  We'll have the prototype presentation first . Then we will set up some evaluation cri um criteria . Then we will look at the finance . Uh we will have to see if everything we wanna do is also possible within our budget . Because everything costs money , and the more functions you wanna have the more money it will cost . So we have to see if it fits within the twelve and a half Euro per remote .
+A :  But we will see that later . Then we will do the project uh evaluation , and the closing after that . We've got forty minutes . So we will be finished at half past three . But first um
+A :  we will do the this is prototype presentation . So , if some yeah if somebody wants step forward .
+C :  Okay .
+C :  Well this is what me and Richard came up with . The default spot for the on-off button . The mute button just below that . Then there's the volume and channel selectors .
+C :  Simple plus-minus button . Uh we thought of a help button . If you hold it and you press another button , uh the help goes to the L_C_D_ screen .
+C :  Then there's the zero to one to zero buttons . A button for teletext . A button for the subtitles . And the company logo .
+C :  So it's rather simple prototype . And uh we'll have to see from testing uh how the users take it .
+A :  Okay .
+D :  Um , is this the moment where we ask or can ask questions about the functionality ?
+B :  So
+C :  Sure uh just pop in at any time .
+B :  Yeah . Yeah .
+D :  Um , when you're in teletext there usually are buttons where you just you just press it and you g go to the next teletext page .
+B :  Uh , that's just uh the normal uh as th as the normal uh remote controls uh So um
+B :  You put it uh you um came in uh page uh one hundred . Now you can use the normal uh one to zero buttons . And you But you can also uh use the um button th for uh changing the the channel .
+D :  Mm-hmm .
+B :  S so uh the shifting uh button . Uh for uh yeah shif shifting up in uh on t on t uh teletext , and shifting uh down . So
+D :  Okay .
+D :  Okay . Um
+D :  Yeah .
+A :  Okay . Uh but um I thought in a few meetings earlier we uh uh tried to keep it uh simple . Uh just a few buttons and large buttons . But uh I think these are altogether quite a quite a few buttons .
+B :  Oh yeah ?
+A :  So I'm wondering if we if we neely really need all of those buttons .
+C :  I think if you look at
+C :  most controls , they've got more buttons than this . And well the on-off button , it's it's a necessity . You can't drop that one . The volume and channel buttons , you need you obviously need those those .
+A :  That's right .
+B :  Yeah .
+A :  Yeah .
+B :  Yeah .
+A :  Yeah .
+C :  The mute button could be replaced uh by pressing the volume-down button twice . So we could cancel that one . I think the help button really is necessary because there's no other way to know when someone wants to know what a button does .
+B :  Yeah yeah .
+A :  Mm .
+B :  Uh , or you can build in uh when you press uh one button uh uh Yeah . But m Yeah . We disc discuss that already . But uh we think uh old people uh don't know that uh option . So uh they just put in uh put press uh the button and uh
+A :  Long time . Yeah . If you put
+A :  Yeah . Okay .
+C :  Well , you can't
+C :  leave out the number buttons I guess .
+B :  And uh
+A :  Yeah . Uh teletext and subtitles are yeah necessary . Okay .
+C :  And
+C :  Yeah . So it's rather basic already .
+B :  Oh .
+D :  Yeah .
+D :  Yeah . Think so . That's what I pointed out earlier . If you just make a control for just the T_V_ there's just not much to gain here .
+B :  Yeah .
+A :  Yep .
+A :  Okay . So we had somebody about th interfa Something about the design of the buttons there ?
+C :  Yeah , they're It's rather hard to draw on the white-board . But they're supposed to be equal sized , round , with a with a little logo on it for the for the volume , the the triangle and stuff . Just for recognition .
+B :  Yeah . Yeah , it
+A :  Just n normal plain buttons .
+B :  Yeah yeah . Just to recognise it , so uh
+A :  Yeah . 'Kay .
+B :  Uh yeah and now we don't need uh LEDs or um
+A :  No .
+B :  Y uh s some uh remote controls uh do it also , but um uh because we use the little display we don't uh have to use it . Uh so
+A :  No .
+A :  Yeah . Okay .
+C :  So and for the materials we've just chosen for rubber buttons . With a a different colour than the case . So they jump out .
+B :  Nay .
+A :  Yep .
+A :  Okay . That's nice . Then because we only have thirty minutes left , I will move on to the finance part , which is pretty exciting , to see if it's all possible what we wanna do . And I can tell you
+C :  And uh that's about it .
+A :  that we're going to have a pretty hard time producing this for twelve and a half Euros .
+B :  Mm .
+A :  If we see I don't know if I've filled in correctly , so just correct me if you see uh something wrong . I counted two batteries . But maybe we can also use one . I don't know if it's possible .
+D :  Since it rechargeable .
+A :  It's rechargeable . That's right .
+B :  Yeah we can u just uh
+A :  Okay . That's two Euros off . We need the advanced chip . So there's not much to uh
+B :  'Kay .
+C :  Yep .
+A :  to save there . Here we have the single curves . Uh we can see that the difference between uncurved and the single curved is one Euro . Um ,
+B :  Mm .
+A :  I don't know , but I think the single curved is good for design , and also for the display to have a prominent place on the remote control . I think we have to keep that .
+B :  Yeah .
+C :  Yes .
+B :  Yeah .
+A :  Then we have the case material supplements . It's plastic . It's the cheapest one we need . So that's uh not much to save either . But then the biggest costs are the buttons .
+A :  So maybe we really should try to discard some buttons to uh keep our costs low . Because you have to we will have to get the twelve and a half Euros at the end . Um ,
+B :  Okay .
+B :  Yeah .
+A :  so if we Let's fir first count the buttons we have now . Because I Sixteen . Nah , that will be even more then . Eighteen Euros .
+B :  Uh
+B :  Sixteen , I believe so .
+A :  So ,
+B :  Uh seventeen .
+A :  seventeen .
+D :  Um
+B :  Uh with the help button .
+C :  Yep .
+A :  Okay , including the help ? Yeah . Uh seventeen . I think we can uh discard the help and the mute button
+D :  Damn .
+B :  Yeah .
+A :  uh by pressing down volume long , or pressing down a a number
+B :  .
+C :  Yep .
+A :  long . That saves us uh one Euro already . 'Cause then we have got fifteen I think ?
+C :  Yeah .
+D :  Wouldn't Yeah . No . That wouldn't be an option .
+A :  Fifteen buttons .
+A :  And this is
+D :  Uh , d I assume you'd count the volume and channel thingies for two buttons each , right ?
+A :  No those are one , I think .
+B :  Yeah .
+D :  Well , think actually there're two buttons , aren't they ?
+B :  Where did uh
+B :  Uh , it's just one button . But , um
+B :  Yeah . There were uh two uh for one big button . But they are uh more expensive than the small ones . Uh , yeah . So
+A :  Yeah but th it's not stated in this files . So maybe we can we can even make one button with the volume and the channel in one , by pressing
+B :  It's just a .
+D :  Well I was thinking , maybe you could just integrate three of those numbers to one button .
+A :  That's possibility as well .
+D :  That would cut the cost .
+A :  So And it's good for the design as well . So you can make
+A :  Uh let's see . If you make this
+A :  Looks a bit like uh
+A :  a cross .
+A :  Plus . Min .
+B :  But I don't don't know if if it's cheaper . So uh , we've still got four buttons , but just um So
+A :  Uh s yeah channel . Yeah w
+A :  Yeah th I think they count uh the materials .
+B :  You got uh not not a butt button itself , but uh on the um
+A :  Yeah on the chip there . Yeah .
+B :  Yeah . On the chip you've got still uh four uh four buttons . So
+C :  Yeah .
+D :  Mm-hmm .
+A :  That's right . That's right .
+D :  Yeah .
+A :  But I think because we have the advanced chip we can just count this as one button . But No but I think
+B :  Yeah , but
+D :  But , I think this really is four buttons anyhow .
+C :  Yes .
+A :  Yeah . Maybe it is , but then it seems to me that it's impossible to get the twelve and a half Euros . Also the L_C_ display , I think it's , I think it's too expensive for the display we use . I think they uh try t
+D :  Yes .
+C :  Uh that's that's a big cost .
+C :  If we leave out the display we can also save money on the chip .
+A :  That's right , but what's the big advantage of our remote then ?
+D :  Only the docking station , I guess .
+A :  Yeah .
+C :  Which isn't the the docking station isn't even in this c s schematic .
+A :  No . That's extra . That's extra . That's right .
+C :  So it's not even taken into the price .
+D :  Maybe we should to a different supplier .
+A :  That's an option . Poland . Something . Polish supplier . Don't you think we can , if we can count this as v as one button , and integrate th uh these buttons in three , then we save a lot of money as well .
+D :  Yeah .
+C :  We we could save money on it . But would it make the remote more usable for elderly people ?
+B :  .
+D :  Yeah , that's what I'm wondering .
+C :  My mother can't even send send an S_M_S_ message .
+C :  So
+A :  Yeah . That's a point .
+D :  Um
+B :  Are we gonna buy a um a remote control uh when you can uh use it ? So um
+B :  Yeah .
+B :  We m uh we must um stay below the um below um twelve uh fifty or Can't uh go um
+A :  Yep .
+C :  Yeah .
+A :  No .
+D :  Well , since the market research
+D :  indicated that older people spend their money easier , more easy , maybe it's feasible to just put the price of the remote up a little . Especially since we have those nice features .
+B :  Nay .
+A :  Yeah but uh we have to stick to the twelve and a half Euros . We don't have any more budget to develop it . Yeah . So
+C :  The margin will get too small . Yeah .
+B :  Is it impossible to
+B :  But it is possible to make one uh for uh twelve fifty .
+B :  I don't think so .
+A :  It is . If you leave out the L_C_ display . And if you use less buttons .
+D :  It would be a be a pretty rigid one .
+B :  Yeah .
+A :  Say Or you can take the single chip .
+C :  Ten .
+B :  But , you can't use uh
+A :  There it is .
+B :  Yeah .
+B :  But we want to make a
+B :  uh so uh uh fancy and a good uh Yeah .
+A :  But then w
+A :  Good looking .
+B :  Uh , wi with n Oh , with uh
+A :  Yeah .
+B :  attractive uh o options . So uh , you can stay uh below uh twelve fifty . So
+A :  I think it's uh difficult as well , but
+D :  Or b
+D :  Basically becoming a choice between like either a good remote and a higher production cost , or just any other remote control .
+C :  No remote .
+A :  Or we can leave out the ten buttons and take one scroll wheel for the programme numbers .
+B :  Scroll-wheel's one .
+A :  Then w
+C :  That's
+A :  Because then we save ten buttons . Then we have five and one . And and see . If we have this one and we've got the advanced
+B :  No , it
+B :  Yeah .
+A :  W uh , we're getting close .
+C :  We're getting closer .
+B :  Yeah .
+D :  But how does scroll-wheel work here ?
+A :  Then you will
+A :  Or maybe you can
+A :  um scroll . If you scroll you will see the numbers on the L_C_D_ display . Until you've got the right number , then you push it .
+C :  Yeah .
+D :  That would bring up the price of the scroll-wheel also .
+A :  Alright . It's gotta scroll and push . Okay but then you you can push uh some other button as well .
+D :  Integrated scroll-wheel push-button . But Yeah .
+B :  Mm .
+C :  You could just not scroll for a half a second .
+A :  Yeah . That's right . So if you scroll to a number and then you wait a half second , then it g turns to that channel .
+C :  So you won't need a button .
+D :  I think that would be like the end of our usability .
+A :  But it would definitely crop cost , a lot . And we need the battery .
+B :  D yeah .
+D :  Yeah , but
+A :  And the regular chip is not possible ? It has to be advanced ?
+C :  If you want to use an L_C_D_ screen you you need an advanced chip , yes .
+A :  It has to be advanced . Yeah . Okay . And we can save a Euro by a flat design .
+B :  Hmm .
+A :  That's an option we can Then we're almost there .
+C :  Yep .
+B :  Ja ja .
+C :  Yeah if you v could just leave out one more button .
+A :  Yeah . So if we
+B :  Yeah , or we have to uh skip the subtitle uh button .
+C :  Yeah .
+A :  Yeah but I think that's That is a big advantage , if we're
+B :  So Yeah
+B :  Yeah it's a big advantage . But um , it's
+A :  But
+A :  Can we use can't we integrate the teletext and the subtitles in one button ?
+C :  I think so . Yeah .
+B :  Uh , yeah .
+A :  If you push it three times ?
+D :  Well , think it's pretty much the teletext subtitles are right now you just push the teletext button , go to page eight eight eight , and teletext disappears . But the subtitles stay there .
+B :  Yeah .
+A :  Yeah .
+B :  Yeah .
+B : 
+B :  But if you push the teletext button twice
+D :  I think that's the case on most
+C :  What if you have to scroll to page eighty eight ? Eight hundred eighty eight .
+B :  It's uh
+B :  One m uh one b uh , a few buttons .
+A :  Ah that's not really that
+D :  Well , that could be just uh like the scroll to eight , click , scroll to eight , click , scroll to eight , click .
+C :  Yeah . Okay .
+D :  But then again that would be d j just pretty much not an option for older people , who don't even know what a scroll-wheel is .
+C :  No .
+B :  Yeah .
+D :  Holding a
+A :  No .
+D :  remote with which they expect to have like ten buttons for the numbers one to zero .
+D :  With only five buttons on it .
+D :  And a scroll-wheel .
+A :  I think if you make a good advertisement uh on television and in the in the guide , you can explain to the people how to use the scroll wheel .
+A :  If you just make it real simple .
+A :  Because it saves it saves a lot of money . And we can keep our L_C_D_ screen , which can provide extra information . How to use the scroll wheel . How to use the other bu buttons as subtitles .
+D :  True . True .
+B :  Hmm .
+A :  And it's good for the innovative design as well . If you would erase these .
+A :  Mm eraser ?
+A :  And we put uh
+A :  Looks a bit odd maybe .
+D :  That's a pretty big scroll wheel .
+A :  That is
+A :  Something like that . Then , yeah . We've got the scroll-wheel . One , two , three , four , five buttons , if we erase this one .
+A :  And these are two buttons then .
+C :  We could make two buttons out of that . And just um
+C :  If you press the volume button you can control the volume with the scroll-wheel .
+A :  Yeah .
+C :  So that would save two buttons . If you do the same for the channel .
+A :  Yeah .
+A :  That's really a good good idea , I think .
+A :  And it will make the use of the scroll wheel uh more obvious indeed .
+C :  More obvious .
+A :  So we make one for the volume , one for the channel .
+A :  Plus scroll . That's right . So we've got one , two , three . Yeah , we can leave the teletext in if we want .
+C :  So if we
+C :  Yeah . So
+B :  Yeah .
+A :  That's m that's better .
+D :  So this is five buttons .
+C :  If we leave out all those buttons , perhaps you can go with the flat flat case . And make it smaller overall .
+C :  So if you put the the volume and channel buttons on the same height as the on-off button , the screen right behi under that , than the scroll button
+A :  Y yeah .
+A :  Mm yeah .
+A :  Uh yeah , and then you can
+C :  you get a a much smaller remote .
+B :  Uh yeah .
+A :  That's right .
+C :  And it
+A :  So we can
+A :  decrease this one to four buttons .
+C :  Yeah ?
+D :  Right now we have five .
+B :  But uh , you can make a f quite a big uh remote remote control for uh just the same price as a small one . Just uh you only have to pay for the double curved or single curved . It uh it's a bit uh
+A :  Yeah . That's no problem .
+A :  Yeah .
+A :  Yeah . It's uh it's more the moulds in which they are being made , I think . Single curved is really easy to just fill in . And cases come right out of the machine . And single curved you have to have a different uh different machine , than a flat one .
+D :  Mm .
+B :  .
+A :  I think this is a really easy one . Um ,
+A :  what does everybody think about a flat or a single curved design ? Freek , what do you think ?
+D :  Well , I still think we should go for the single curve design . But then again ,
+C :  Yeah .
+B :  .
+C :  Richard's argument was very good . Yeah .
+B :  Yeah .
+D :  all these changes are not really okay with me . But since
+A :  Yeah .
+A :  Yep .
+A :  We have to cut costs . Yeah . Yeah I'm ag
+D :  we just have to .
+B :  Yeah .
+D :  I'd rather just go to the board and
+A :  Ask for more money .
+D :  get us to spend eighteen dollars a a remote .
+A :  Yeah .
+A :  Yeah . I am agreeing with the usability . Yeah .
+D :  Or do some market research and see what the options are .
+A :  Yeah . But th um I think we can then keep the single curved one . Just to express our L_C_D_ screen a bit more . So people will use it more , and especially for the help functions , it will be good if we have scroll bar , scroll button . It will be necessary to have good help function , as well .
+C :  Yep .
+D :  Yeah .
+B :  Yeah .
+A :  So this is scroll .
+A :  I think it was better to have this price list a bit earlier . Before we went on to the to the whole design .
+D :  Yes . Definitely .
+B :  The th
+A :  But
+A :  I'm glad we could make a bit .
+D :  Yeah .
+A :  It's pretty different , if you saw the last one than this one .
+D :  It's pretty different . But this is not really like for the group we were making our remote . This will really require a lot of marketing
+B :  No .
+A :  Yeah . It will .
+D :  to get this to sell .
+A :  Yeah .
+B :  But um
+D :  'Cause if older people like familiar forms and familiar stuff . This is not familiar for them .
+A :  No , but I think
+D :  So we're gonna have to do a lotta convincing them .
+A :  I think the most
+B :  But they know the scroll-buttons from uh old radios . Uh they cal also uh buttons like that for uh changing uh channels . So maybe it's uh
+A :  That's right . We can let l We can stick it out , a bit . Like a old old buttons . Maybe that's recognisable for them as well . Yeah . That's a good one .
+D :  Yeah .
+B :  Yeah . Yeah .
+B :  Yeah .
+A :  So , I'm afraid we have to move on . And it's uh it's b uh less frightening , I think . If they see this design they think oh , there are only five buttons , and uh But we will see .
+B :  Yeah .
+D :  That's true . Might uh might be confusing too .
+A :  Yeah . That's definitely right .
+D :  They'd be like , what ? Only five buttons ?
+B :  Mm-hmm .
+A :  Yeah .
+B :  But very special , so uh
+A :  I would buy it .
+D :  Yeah . But you're not sixty .
+A :  That's right . I would buy it if I was six . No I don't know . What it costs under twelve and a half Euros ? No ?
+A :  Uh , yes they are .
+B :  No .
+A :  No . But we can go on with the project evaluation .
+D :  Mm-hmm .
+A :  Let's see . I can sit down I think . We still have fifteen minutes left , so we're nice on schedule .
+C :  Yeah .
+A :  Um , the project process .
+D :  So um , I like set up all these criteria .
+A :  Evaluation criteria . That's right . That was the the point I forgot .
+D :  And evaluation of the
+D :  thingy .
+A :  I should
+A :  There we are . Evaluation criteria . Go ahead . We've got five minutes I think for those criteria . No we've got fifteen minutes but
+D :  Thank you .
+D :  Five more minutes ?
+D :  Okay .
+A :  Uh yes . What ?
+D :  'Kay so I did some literature study study , and analysis of the requirements we set up earlier .
+A :  Uh yeah .
+D :  Translated it into criteria , which would be these . Um , is the remote fancy ? The shape , look and feel . Innovative ? What new functions are there ? Uh , easy to use ?
+D :  Uh , learnability is a very important factor here . Uh , is it functional ? Are there not too many functions uh among the functions ? And are the those functions that are there , are they useful ? And the cost .
+D :  The target group . Is the remote really for the group we're making it for ? And recognability . If our company is If it is easily recognisable that our company made it ?
+D :  And
+D :  So we're supposed to evaluate it right now .
+A :  Okay .
+D :  Let's see .
+D :  Oh I have to say this was a little hard , because the minutes of our last meeting
+D :  were not here .
+A :  Yeah , that's because my pen failed to upload his data . I tried to but it's uh it's giving errors by downloading the software .
+B :  Mm .
+D :  Okay .
+B :  Yeah ?
+D :  Interesting .
+D :  So
+B :  Mm . 'Kay .
+D :  Is the design fancy , on a scale of one to seven ?
+A :  I think it's fancy .
+C :  Six .
+A :  Yeah .
+B :  Uh six . Yeah .
+D :  We all go for six ? Good .
+A :  Six .
+D :  Um , is the design innovative ?
+B :  Mm . Sh
+A :  Very . Subtitles , buttons . Yeah . Seven . Yeah . So we've got twenty cents for our docking station , huh ?
+D :  I think so , with our L_C_D_ screen , docking station , scroll-buttons .
+C :  Yeah .
+D :  Seven ?
+B :  Yeah .
+D :  Should be do-able . Is the design easy to use ?
+A :  Yeah . That's right .
+B :  Mm . Not really .
+A :  That's a bit dodgy .
+D :  Well
+D :  Would be for us . But
+B :  For old people I I
+A :  I would say four . Four or five between . Between four or five .
+C :  Four or five . Yes .
+B :  W Yeah . Four .
+D :  I'd go for four , too .
+B :  Yeah .
+A :  Yeah .
+A :  Is it functional ?
+D :  Is the design functional ? Um , do we have all functions that we want to include ?
+A :  Yes .
+B :  N Yeah .
+D :  I think we do . Do we have too many functions ? I don't think so . It's pretty slim .
+C :  No .
+B :  No .
+A :  No .
+A :  Think it's uh seven .
+D :  Seven .
+D :  Oh , and do we um
+D :  take care of the biggest frustrations of the remote control ? Like it getting lost and
+B :  Mm m
+D :  R_S_I_ influences ? Think we do .
+C :  Mm , we haven't thought of that one .
+A :  It was . I had them worked out .
+A :  Mm . They are ugly , not very functional , and getting lost .
+B :  Yeah .
+D :  Are the production costs within the preset limits ? Well they are now .
+A :  Yeah .
+D :  Does the design fit the group of focus ?
+C :  I think that's a three .
+B :  Mm , th yeah .
+D :  Yeah . I think it doesn't .
+A :  No I think with our new radio button , I think it's uh
+B :  Yeah .
+B :  Uh
+A :  I think it's better .
+B :  We have to test it s But
+D :  I don't know .
+C :  I still I think it's too m too fancy . Too too flashy .
+D :  I think
+A :  I think it
+D :  I think a radio button is not exactly what older people expect to have a remote control .
+B :  Uh , yeah , true .
+A :  Yeah .
+A :  I would give it a four .
+D :  I'm not sure . I think I'd go for two .
+B :  I go for three . So
+A :  Then we have to do the three . It's the
+D :  'Kay .
+D :  Is the company company recognisable ? Well , we have the logo there .
+A :  Yes it is . Yeah .
+B :  Yeah yeah .
+D :  So
+A :  And they wanna put fashion in their products . Uh in the slogan of the company . And we have the removable front cases . So , I think it's very recognisable . Yep .
+B :  Yeah .
+D :  Yeah .
+D :  So that will be this .
+D :  I was also supposed to calculate the score , but
+D :  thought we would have another private thingy after this .
+A :  We've got a calculate it .
+A :  Mm ?
+C :  Twendag sieven an twendag .
+D :  Is this Like after this , are we done ? Or
+A :  N We've gonna We're going to evaluate it .
+D :  We're gonna go to our other room again .
+D :  Well , anyhow . These are seven factors times seven is forty
+D :  something . Two ?
+D :  No . Nine ?
+A :  Forty nine .
+D :  Uh , minus one .
+D :  Minus three , minus four .
+D :  Minus four .
+D :  So that would be minus eight .
+D :  Forty one out of forty nine .
+A :  Forty one .
+A :  That's
+A :  Around eighty percent . What is it ?
+D :  Okay .
+D :  Guess I'll just type that in on the bottom here .
+A :  That's eighty four percent .
+B :  Hmm .
+A :  I think that's a pretty nice score .
+C :  Yeah .
+B :  Yeah .
+D :  Hmm . 'Kay . So that will be the evaluation .
+A :  Okay . Thank you .
+A :  So ,
+A :  that brings us to the project evaluation .
+A :  Yep .
+A :  Thank you . Project process . Did we move through the right phases , you think ? Along the process ?
+C :  Yes .
+B :  Yeah . But it
+D :  Think we should have a should have had the finance thingy a lot earlier .
+B :  Yeah .
+A :  That's right .
+D :  In the design phase .
+A :  So lack of information about prices .
+D :  Yeah .
+C :  Yeah . That's true .
+B :  Yeah .
+D :  Definitely .
+A :  Okay .
+A :  Uh
+A :  Okay . Satisfaction . Was there room for creativity ?
+D :  No .
+A :  No ? It's because of the finance sheet . Yeah .
+D :  Not too much . No .
+B :  Yeah .
+C :  Yeah , there w there was enough room , but the finance uh
+D :  Yeah , true . But
+A :  The room was Yeah .
+B :  Yeah .
+D :  And I would've liked to go for the
+D :  younger users also .
+B :  .
+D :  And just to be able to access internet and
+D :  get something of your own .
+B :  Mm .
+A :  Restrictions .
+A :  Internet access .
+A :  'Kay . Leadership . Was it clear what everybody had to do uh according to their roles and functions ?
+C :  Yes .
+D :  Yeah .
+A :  Yeah ?
+B :  Yeah .
+A :  Teamwork ? Did it work out ? Working together ? Also , you two of you with the uh last phase ?
+B :  So
+C :  Yes , was okay .
+B :  Yeah .
+A :  Nice .
+C :  The tasks are very structured , so you can just do step by step and it's very easy .
+B :  Mm-hmm .
+D :  Mm-hmm .
+A :  tasks .
+A :  Okay .
+A :  Were the means sufficient for the tasks uh we had to do ? Or were they too much ?
+C :  Well , the smart-board , the d d drawing is just a pain in the ass , but
+B :  Mm .
+C :  The digital the digital pen is very nice .
+A :  Smart-board .
+B :  Yeah .
+A :  If it wants to download its uh data .
+D :  Yeah . Yeah .
+B :  But
+C :  Yes . Yeah .
+B :  Uh
+A :  Failed download .
+A :  Smart-board was irritating .
+A :  So you rather wanted to have a flip-over ? Or something else ?
+C :  A flip-over or a more precise uh
+B :  Yeah . A flipper's uh easier , so
+B :  Yeah .
+D :  Yeah .
+A :  Faster as well , I think . Yeah .
+C :  digit Yes .
+A :  Flip-over .
+B :  But if you want to share uh of uh when you make um a picture like this uh on the presentation , it's easier to uh share it with uh other people . Uh so uh you can sh save it uh and uh put it on the internet , or uh uh in shared f uh folder or uh sh uh shared directory . So
+A :  Yeah .
+D :  Yeah , I tried to open the file on my laptop , but
+B :  So Yeah ? No ?
+C :  No . Didn't work .
+D :  not possible .
+A :  Uh you need a smart board uh application I think .
+D :  Yeah .
+B :  T can uh can you export it uh like a Yeah .
+A :  But I think you can Yeah . Should be possible . Yeah you can export it as image .
+D :  no .
+A :  Must Yeah must be
+D :  Should've done that then .
+A :  So the sharing of the information was uh was okay ?
+B :  .
+D :  Pen is here .
+C :  Yes .
+A :  Uh , network . Yeah , pen is here on the table .
+B :  Uh .
+B :  Uh , yeah .
+B :  So you can Uh
+A :  Yeah . It's possible .
+D :  Mm . Yeah .
+B :  It's possible .
+A :  Okay .
+B :  Okay .
+A :  That's nice . Have we found new ideas for
+A :  having this kind of meetings ? Or
+B :  Um , yeah maybe um uh when we n uh just uh give the numbers of of uh
+B :  Uh uh o one of uh out of s uh sev Um it's uh easier to uh to do the th things that are like that on a computer . Uh , so uh just l uh like uh at u university uh
+A :  Yeah .
+A :  Yeah .
+A :  So
+A :  Yeah . So everybody puts his own score . And then it mediates the score , and you can get one Yeah . That's better . So that's uh
+B :  So
+D :  Mm-hmm .
+B :  Yeah .
+D :  Yeah .
+B :  Yeah .
+C :  Yeah .
+A :  How do we call ?
+A :  criteria .
+A :  Okay .
+A :  Mm , any more ideas ? Or questions about the project ? Or about the product ?
+B :  Mm .
+A :  Because I think
+A :  then that we get to our last sheet .
+A :  Are the costs within the budget ?
+B :  Mm yeah .
+A :  Yeah .
+D :  They are .
+C :  Considering we are not going to make a docking station .
+A :  Do we
+A :  Docking station . That's a good point . But maybe because of the docking station the price of the remote can also be a little bit higher ?
+B :  .
+D :  Yeah .
+C :  Perhaps .
+A :  Uh and I think you can compensate that as well .
+B :  Mm .
+A :  So I think that shouldn't be the biggest problem , because it's very cheap to make as well .
+C :  Mm-hmm .
+B :  Yeah .
+A :  Do we think we gonna get the twelve and a half million ? Or what was it ? Fifteen fifteen million . I think we will . If we gonna export this product . It's innovative . Especially in America . People are pretty decadent .
+D :  Fifty grand .
+D :  Yeah .
+B :  Yeah . Mm .
+A :  Sometimes .
+D :  Yeah , still I think I mean if we're n gonna make a scroll-button anyway
+B :  Yeah .
+A :  You can do more .
+D :  it'd be more for the younger people than for the older people . So maybe we should just re-focus .
+B :  Ah .
+A :  Yeah .
+A :  Just put it on the market for everybody . You can you can change markets where by changing the front covers . That's one thing you can change it with . So you can also try to uh reach the younger people by uh putting fancy covers on on the market . Just as a test . See how it works . That's I think a good advantage .
+D :  Or specifically for younger people .
+B :  Ah .
+B :  Ah .
+D :  That's true .
+D :  Yeah , I think then it would be way more uh popular with younger people than it is , than would be with
+D :  older people .
+A :  Yeah .
+D :  Even if it were their covers .
+B :  Hmm .
+A :  Uh , uh then I think we can have our little celebration , right now .
+D :  But
+B : 
+D :  Party party .
+A :  That's it . Yeah . I think we still have to fit in one more questionnaire . I think . I don't know . I didn't get a message
+B :  Where's the champagne ?
+D :  'Kay .
+A :  from the from ending of the Oh I think I have one now . Five more minutes ? Oh that's nice .
+B :  Uh , I believe y uh
+D :  Oh you did .
+B :  Okay .
+A :  Then we still have some questions . If somebody has some questions they can ask them now . Or we can put these in the project folder as well . Maybe that's
+D :  Mm-hmm .
+B :  Yeah .
+A :  Export as picture , I think .
+D :  Yeah .
+B :  Yeah .
+A :  Hmm . This is another network , I guess .
+A :  Does somebody see the project folder ? I don't .
+A :  Hmm .
+A :  My Documents .
+B :  Uh maybe uh they will save it . So uh
+A :  Yeah , I'll just put it in My Documents and uh That's okay .
+D :  Yeah , it probably will .
+A :  Okay .
+A :  I think I'm going to make our final presentation now .
+D :  Oh yeah , you're supposed to make a final
+A :  And then I will be back in about ten minutes to show you the final presentation .
+B :  Okay .
+C :  Okay .
+A :  Summary of the project .
+D :  Are we supposed to go into our own rooms again ?
+B :  Uh maybe we have to fill uh another questionnaire . So uh
+A :  Yeah . Questionnaire . I think you all get a questionnaire in in your room . And then I'll meet you in I think about ten minutes , or something . Okay . Thank you .
+D :  Yeah .
+B :  Yeah .
+B :  Yeah .
+C :  Okay .
+B :  Okay .
+A :  Hopefully my pen will download its software .
+D :  Yeah .
+A :  Oh .
+A :  Or data .
+D :  That'd be nice .

@@ -1,0 +1,781 @@
+B :  Mm-hmm . So , ready ?
+D :  No not really . Just
+C :  'Kay .
+D :  Crap .
+B :  Sorry , I I um I'm afraid
+D :  Okay .
+C :  It's perfect .
+A :  Your judgement it's is biased .
+B :  Uh thi this remote control will stay a prototype .
+D :  'Kay , so whe where is the remote control ?
+A :  So , we are So
+C :  Where ? It's here .
+B :  Okay .
+A :  let's go for our detailed design meeting .
+D :  Yep .
+A :  So I will still play the role of the secretary , and we'll have um first the project presentation by our User Interface Designer , David Jordan , and our Industrial Designer , Baba .
+C :  Okay .
+C :  Yeah .
+B :  Yeah .
+B :  Yeah .
+A :  So we'll have to evaluate the uh your proposed remote control , and um have an idea of the price that uh this thing will cost .
+C :  'Kay .
+B : 
+A :  And in case if we're we all agree on the fabrica of um building of this remote control , we'll evaluate the um production . So maybe I will let the our two designers talk about so their You have s oh , sorry . Oops .
+C :  I have slides .
+B :  Okay .
+C :  Ah , that is three .
+B :  Effectively one slide and maybe we can discuss everything .
+C :  Product prod
+D :  What slides ?
+C :  Yep .
+C :  Okay .
+C :  Okay .
+C :  So , this is our product or prototype .
+C :  This is made by clay .
+A :  Looks strange .
+C :  Yeah . Uh the basic colour is uh yellow and red . Yellow is uh our company colour , uh red it's uh is more attractive . So we used two basic colour , yellow and red . And the shape , there's two basic shape . The first is a circle and the second is a triangle s piece . It's we call it a mushroom design . It's looks like some mushroom , so we call it mushroom design . So this is a introduction of our product . Next a mo
+A :  Okay .
+B :  Okay .
+B :  Yeah .
+B :  Uh
+A :  Genetically modified mushroom I will say , but keep on speaking .
+D :  Yeah .
+C :  Okay , yeah , so next slide . So there are several key features of our pr prototype . The first is that it is fuzzy . I'm sure this would be the unique design the market . Yeah , so it's a fuzzy design , and a unique design . Um , and uh
+A :  Oh . Maybe , I hope so .
+B :  Yeah , yeah I'm sure .
+B :  Yeah , that's true .
+C :  the second key feature is that uh s circle channel um selection . In the traditional key uh traditional controller use button to to select the channel but now we have a s circle , so we can turn this ball to t to select channel . So it's quite convenient for user to use it .
+A :  Yeah , okay , but don't touch don't destroy your prototype .
+C :  Yeah , s okay . Uh the third feature is a stable triangle base . Uh this sta uh this triangle base is very stable , so
+C :  uh so it's it's um it's unlikely you cannot found it . So it's v Um , you can put it in the table so you can turn the the ball to cha to select the channel
+C :  and there's some cute button . You c can can you can see the the shape of the buttons n is a mushroom , so
+A :  Everything's mushroom . So we can call our remote control the mushroom .
+B :  Yeah .
+C :  Yeah , everything's mushroom . Mush
+B :  Yeah but it's not like really mushroom because you have uh you know uh like lemon shape , you know , centre is yellow and t d
+C :  Mushroom design , yeah .
+C :  Yeah .
+A :  Okay .
+C :  Yeah , th that's why if you put it in the table , be careful , somebody will eat it .
+B :  To integrate , you know yeah .
+B :  I don't think I hope nobody will eat it . You know , to integrate the fruit aspect , you know the the in
+C :  Yeah .
+A :  Oh .
+D :  Yeah , because mushroom was not in the trends . I mean there was fruits yeah . Yeah .
+B :  Really ? But
+A :  Fruits and vegetables .
+B :  Fruit and vegetable , so mushroom was a kind of you know uh
+A :  Vegetables . Mushroom is a vegetable .
+C :  Yeah .
+D :  I don't think it is .
+A :  It's vegetable .
+C :  Yeah .
+B :  Mushroom ? Oh , uh I'm not sure . We can it's a veg a kind of vegetable , but you know we we integrated them with different colour .
+D :  Mm-hmm .
+A :  So th it's something eatable .
+D :  Yeah .
+C :  Yeah .
+D :  But anyway this is not a mushroom anyway , so it's fine .
+C :  Yeah .
+B :  I I think we take into account what you said about fruit and vegetable you know . This , you know , very enlighted colours , you know .
+D :  No , I mean , yeah yeah . Inspira inspiration is
+B :  And inspired colour and and very sophisticated material , so .
+D :  True .
+B :  And so
+C :  Yeah .
+A :  Next slide .
+C :  Uh , no this our only two slides .
+B :  So what we w what I can add is that , you know he talk about what is outside , so what is inside is what we dis what we talked before about , you know , the chip , it is a low level chip , and
+C :  Yeah .
+C :  So we cut it to see .
+B :  You know , we don't need to k . You know wi the low level chips inside and you know the L_C_D_ button and the i
+A :  Mm-hmm .
+C :  Okay . So where's the battery battery ?
+B :  The battery it is under . It is in th in in the base , yeah .
+A :  In the base . In the basement . In the basement . And where is the solar solar cell ?
+C :  Base . Here ?
+D :  But we say uh we sa we said solar .
+A :  Where is the solar cell ?
+B :  In fact this this this this is a kind of you know revolutionary solar receptor that we can put outside and I don't think so , but it it's might be okay , so . I it might be okay . So
+A :  Oh . Do you think it won't be It won't cris increase the price ?
+C :  Okay .
+A :  Okay , we'll see after . We will have first to so , mister money , what's your opinion according to this remote control ?
+C :  Okay .
+D :  Yeah .
+D :  I mean , we gonna try to measure how
+D :  good it is instead of just talking about uh we had three keys key points to uh for this remote control design , and first one was uh
+A :  Mm-hmm .
+D :  look and feel .
+B :  Yeah .
+C :  Yeah .
+D :  So w we'll try to judge this feature uh with a one to seven scale , one being uh no , I think . Uh just let me check .
+B :  So , four point three point five , it means it's acceptable .
+D :  One one being true , and seven being false . Okay . Ouch .
+B :  Oops .
+C :  Okay .
+D :  Do we have a fancy look and feel , according to you ?
+C :  Yeah , I think so .
+B :  I think you have nice colours . I don't The sha the bowl shape people like .
+D :  But is it
+C :  Yeah , the shape is unique , and the colour
+D :  Uh I'll agree it's unique , but is it really
+B :  Is it really fancy ?
+C :  So it depend on how d do you define fancy .
+D :  Yeah I mean , fancy was was defined by s fruit and vegetable look .
+B :  But it's you have the lemon aspect of this th this this thing .
+D :  Yeah .
+A :  Maybe if you change if you take the buttons out , and maybe do things like that
+B :  Do Don't do that , please .
+D :  I dunno where the lemon is , but I mean it's not obvious .
+B :  I it's it's i this shape is a lemon like , so
+A :  It would be bet more like a lemon ?
+B :  Yeah .
+D :  If
+B :  Because i
+D :  I dunno , maybe improving the texture of like having it less smooth or
+A :  Yeah .
+B :  Less button .
+C :  so , my mush .
+A :  Looks like more fruit . Maybe a pineapple ?
+C :  Mm .
+B :  Yeah , but you don't have any button now .
+D :  Yeah . I dunno .
+A :  And you know , you have the
+A :  finger here , with the buttons ?
+C :  Yeah .
+C :  Hmm .
+B :  That's uh yeah , is that that's a good idea . So that's great . That's great .
+D :  Yeah , it's getting
+A :  It looks more like a pineapple . Sorry . What's the use for that ?
+C :  Uh , for turn turn the ball . If you want to turn the ball , it's very it's very convenient for you to to to turn the ball to change the channel .
+B :  I have no idea , so .
+B :  I have no idea what
+A :  And where is the voice recognition ?
+D :  Okay .
+C :  Uh .
+C :  Ah , it's embedded , your microphone . Th this th th there's two two functions . This is microphone array
+D :  Yeah , that's
+A :  Okay .
+D :  Wait th that's the second point . First one is we have to judge the fancy look and feel .
+B :  If it is fancy or not .
+A :  Okay . Is it better like that ? Looks okay , let's say it's a pineapple now .
+D :  I mean
+B :  So we can we can say t
+B :  The colour , is the colour acceptable ?
+D :  No , the colour is okay , that's fine . I mean it's but I would say there is more too much red .
+B :  So the shape now .
+A :  It looks like a now you took it .
+B :  It's too much red ? In the basement ?
+D :  Um if
+A :  It looks like a pineapple with cherry on top . Mm uh
+C :  Okay .
+D :  Right . So , from one to seven ?
+B :  I will give I will
+A :  Seven is the ma the maximum ?
+B :  I'll gi
+D :  No , seven is false and one is true .
+B :  I'll give two or three . Three , it's okay . Three , three . Three is fine for me .
+A :  Three , I will say three .
+D :  Three ?
+D :  Okay .
+C :  'Kay .
+D :  Three .
+A :  Isn't it bitter like that ?
+C :  Yeah yeah yeah .
+D :  Then uh let me
+B :  What other
+D :  The other criterion is is it technologically uh technologically in innovative .
+B :  Is it easy to use ?
+A :  Feasible ?
+B :  Ye uh
+A :  You said previously that you there's um microphone inside an
+B :  Embedded .
+C :  Yeah , this is microphone array , in fact . There four microphone . So they they they they there's a microphone array .
+B :  It's a micro array , okay .
+A :  Oh . Okay , and you have the there's the technology inside that recognise simple vocal comments ? And you can turn it so maybe it's techno technologically innov innovative ?
+C :  Yeah , yeah . So you can capture voice yeah , you c
+B :  Oh yeah , yeah .
+C :  Yeah , so you can capture s voice from different directions . Yeah .
+B :  And I think you you've never seen a rou a round remote control , so it is
+D :  Yeah bu but when you say technologically it's more uh I dunno , in the core , or single .
+B :  W Yeah , but
+A :  We have tactile buttons .
+D :  Mm-hmm .
+B :  I see , you have microphone array embedded . You have That's good . And you have , you know this ki this solar receptor that , you know Yes . Yeah .
+D :  No , that's good . Yeah .
+A :  Oh , yeah .
+D :  Yeah , th that's another really good point . Maybe okay .
+B :  I think technically it's acceptable , so
+A :  Maybe two ?
+D :  So using the same scale , two ?
+B :  Yeah .
+A :  Two ? I would say two . You agree ?
+B :  Two , yeah , two . It's it's fine , so .
+D :  Okay . Now maybe the most critical one .
+C :  Yeah , I agree .
+A :  It's better like that , isn't it ?
+C : 
+B :  Most
+A :  Okay .
+D :  L last one w I would like to judge is
+D :  is it easy to use ?
+B :  Eh , for th the vocal command yes , it's might be easy . But it's just speaking . You just need the command .
+C :  Yeah , it's very easy .
+D :  Yeah but this this turning can you can you just re explain me the
+C :  You can use this in this way .
+B :  As a principle .
+D :  Please .
+C :  Yeah .
+C :  Th this is the base . So you can turn to change the channel .
+D :  Yeah .
+D :  Yeah but how how intuitive is it to turn things to change channels ?
+C :  You just tu turn d d
+B :  I think maybe if you he
+D :  Like if you want to go from
+A :  Oh , ok I understand . You take take the remote , so and you can turn like that to change the channel ? I think it's quite easy to so s zapping , but maybe it will be too fast .
+B :  If you hear some click
+C :  Yeah .
+C :  Yeah .
+D :  Yeah but imagine you y
+B :  Yeah , it would
+D :  Yeah I'm I'm no I'm not definitely convinced it's it's the best way to if you wanna jump from , I dunno , one to twenty ?
+B :  Oh yeah , that's difficult . That's dif that's difficult .
+C :  Yeah .
+D :  How can you go directly to twenty , for example ?
+C :  No , no , no . I if y uh if it depend on the the angle you turn the
+D :  Yeah .
+D :  Yeah . I agree . I agree . But I mean if you're fro from two ?
+B :  Yeah but y how you need to know I
+C :  I if if this is a channel one . So it c it could be channel two , channel three , channel four , channel five . So change . Yeah .
+B :  I think something that Yeah .
+A :  Yeah , you have a , like that , and so on .
+B :  And you you can
+D :  Yeah ju just imagine you have fifty fifty channels uh
+A :  Oh yeah .
+C :  Y uh fifth channel divided by the num by the by three hundred thirteen degree . So you got how many degree you you it
+D :  We're not talking
+D :  Yeah .
+A :  Yeah but y but you have to go through all the channels if you want to go
+B :  I think you can if you have a scale , so
+C :  No no , you don't have to y no it's uh when you when you stop t uh when you stop , the
+C :  the turn ,
+A :  Mm-hmm .
+C :  then the angle you stop is the angle you is the channel you
+D :  Yeah . How d how do you know this angle is th is the correct one ?
+C :  It's it's very easy , because you kn you know how many channel are there in the
+D :  So you you count one degree , two degrees , no .
+C :  Yeah , yeah , yeah . You can do it .
+D :  I don't think so .
+B :  Yeah , it's a bit difficult .
+C :  I think so I think so you can do it . I think so , you can just change .
+B :  I think b but the the vocal command is easy too . You can say fifty and fifty it's okay , so
+D :  Yeah voc vocal command is okay . But w we've said previously that maybe it's not going to be th l the main
+C :  There's uh also a number , you know .
+A :  Yeah , but when you're zapping you're changing from one channel to the other , so you're passing through all the channels . So , when you say I want to go to the channel number twenty that's you've decided to go to channel twenty , so you can say channel twenty , or channel four , because you really want to go on this channel . But if you really want to to do zapping you you don't really know what you want to do , you can turn it . Just go through all the channels and maybe stop if there is something interesting ?
+B :  Uh , yeah , and y that's yeah .
+D :  And this would be more for browsing , ah .
+D :  Yeah .
+B :  Yeah .
+B :  To see uh yeah uh
+C :  Mm-hmm . Yeah . Yeah .
+B :  Yeah .
+D :  Mm-hmm .
+A :  Seems to be good .
+C :  Yeah .
+A :  Good choice , mister David Jordan .
+B : 
+C :  Yeah .
+D :  Yeah , I mean you're famous . You .
+B :  And but I'd
+C :  And also you can , if you i
+A :  yeah , what's what's this cherry ?
+C :  You ca you can turn this . Or you ca you can you can also turn this . For this you can tune it's for tune . You you if you want to skip from channel one to channel two , you you skip this . If you want to from uh skip from channel one to channel ten you tune this . It's like fine , from coarse to fine . This is coarse , this is fine .
+B :  It is a turn off t turn off button , maybe .
+B : 
+D :  Mm .
+B :  Yeah , yeah yeah . That's
+A :  Okay .
+C :  So it's coarse to fine design .
+B :  that's very technologic , so . Yeah .
+C :  Yeah .
+D :  Okay the uh th this looks better . Yeah .
+C :  Yeah is is this is , from one channel to maybe to ten channel . This is from one channel to
+B :  S But I di I didn't see where the t f the turn off t turn on turn off button so much activates maybe one of the
+C :  Yeah . Yeah .
+A :  Yeah , th you have the vocal commands .
+B :  Uh it's k on off , yeah .
+C :  Yeah .
+A :  On off .
+D :  Yeah , but it has to be on to recognise fas
+A :  Most of the time you have the yeah it's a sleeping remote control .
+B :  Yeah , sleeping .
+D :  Ah , that's not the ecological part , yeah .
+A :  That's true . W that why we have the solar ti yeah . So three .
+D :  Solar .
+B :  To compensate . Yeah .
+C :  Okay .
+D :  So , which number ?
+B :  Easy to use , it's very relative but three it's fine , I think , it's reasonable three .
+A :  Do you agree ? Three ?
+C :  Mm-hmm .
+C :  Yeah , agree , agree .
+D :  So reasonably , is four , is one ?
+B :  Three f three for me , it's o it's okay . Four or three . Maybe you can vote to see how many everybody gives and no and just take the mean .
+D :  So , three .
+A :  And what's your opinion ?
+D :  Uh we wouldn't say , I mean , those are sort of agreed but this one would be more five to me . I'd like I mean this is the just a prototype . I'm not really convinced it's so easy to use , but I don't know .
+B :  Will you give
+B :  four ?
+B :  Five ?
+B :  Yeah , so maybe if
+C :  Uh w w what do y what uh you compare with traditional uh um tr traditional controller ? I think it's easier than traditional controller . If you use traditional controller you have to put a button , but now you don't have to put button , you have you just turn the turn the ball . There's two kind of balls , the smaller the the the so you can c you can c you can control the scale . But in the traditional controller , how do how can you control the scale ?
+D :  Yeah .
+B :  Yeah but y you know
+D :  So you have yeah .
+D :  Uh by pushing zero after after the first one .
+B :  You just push two button , zero and and one . And that's
+C :  Yeah , yeah , yeah , y you you can do it , but you can also do it in the b if you you do not wa if you do not want to browsing all the channel you can just p there's also a button here .
+D :  Yeah .
+B :  Are there some buttons ? Okay .
+C :  Yeah , this function is just for your browsing , from one channel to th the next one , the next s sn s , the th the third one .
+A :  It's not what you said previously . Previously you said that turning this was the fine
+D :  Mm-hmm .
+D :  Yeah , if you're changing your mind .
+D :  Fine to coarse .
+A :  Fine to coarse . And from ten to ten channels here .
+C :  Yeah , yeah .
+C :  Y one to ten , ten to twelve , uh ten to t uh twenty . Ten to twenty and this one , t one two three four five six , like this .
+A :  Okay .
+C :  Uh there's different scale , so you can you can choose how much do you want to sc
+D :  Okay . But this this has to stay on the table , right ? This has to stay on the table .
+C :  Mm-hmm .
+B :  In fact on a flat place
+C :  I i this is just a base . You can just
+B :  You can
+D :  Yeah but then uh when you turn turn it
+C :  Yeah .
+A :  Oh
+B :  Oh ye yes , that's right .
+A :  Yeah , no no , no . You can't put it out . It's just your turning from the base . You need to have everything in hand . If you want to turn , you can't use it and turn . It's impossible . You need to put it on and turn .
+D :  Just
+D :  It's
+B :  Oh my God .
+D :  Yeah .
+D :  You know tha that's the weak point , because with a traditional one you just have one hand .
+C :  You use your y
+A :  Yeah , but nobody would be able to take it in the pocket and bring it in the kitchen and say I've lost the remote control . Nobody would take it . So nobody w will lost lose it .
+B : 
+C :  So th this is a d next generation controller . Yeah .
+D :  Sure . Yeah , you would never you would never lose this one , yeah .
+D :  Yeah .
+B :  yeah maybe , maybe may it's the next prototype , maybe we cou
+C :  Okay okay , okay .
+A :  S maybe we can change from th
+B :  Four . Maybe four , it's okay . I'll put four .
+C :  Four . Okay .
+A :  Four ? Easy to use , four . Gonna say four .
+D :  Four . Uh it's even easier to maybe .
+B :  Yeah , four it's more reasonable .
+B :  You can you can erase with this er yeah .
+C :  Okay .
+D :  Mm .
+B :  Yeah , four it's more reasonable , so .
+D :  So , average ?
+B :  So it's nine , nine over three . Oh yeah , it's .
+D :  Three ?
+C :  Three ?
+A :  Trois . Three .
+C :  Trois .
+D :  Okay , so
+B :  It need maybe some wo further work , but it's
+D :  Yeah , especially on the easy to use
+B :  Yeah , uh s yeah .
+C :  Yeah .
+D :  target .
+B :  Might it might be fine .
+A :  So , th the project is accepted ?
+D :  Okay .
+C :  Yeah .
+B :  Yeah , b I think
+A :  But I d m I think that it will be good to do some more work to transform this into a pineapple . If you re we really want to have a fruitful remote control .
+C :  Yeah .
+B :  Yeah , yeah .
+C :  Yeah .
+C :  Okay .
+A :  So uh mm mm . Mm .
+B :  That's the finance .
+A :  Okay and we we had a project prototype presentation with the
+A :  evaluation . So as we all agree to accept , under certain conditions , the prototype , we'll have look to the final sh financial view .
+B :  Yeah .
+C :  Mm .
+C :  Okay .
+A :  So we need to calculate the production cost . As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros . And if not if it's not the case y you would have to redesign it . So , just have a look at the okay here is the
+D :  Mm-hmm .
+C :  Mm-hmm .
+C :  Mm-hmm .
+B :  Oh yeah .
+C :  Yeah .
+A :  sheet , so so it has the energy source . We have hand dynamo . No , we don't use that . We have battery , right ? Kinetic , we don't have it , I suppose , but we have solar cells . Um , how many do y do you need , solar cells ? Do you think one would be enough , or such as
+D :  No .
+B :  Yeah , we have battery .
+B :  No , um solar cells , yeah .
+B :  Uh I think in each ball you have three three uh yeah , three , yeah . Three three solar cells .
+A :  as number of branches ? Three ? So , electronic .
+A :  Single simple chip on print ? Just one would be necessary ? One ?
+B :  S s simple , simple , yeah . Yeah .
+A :  Zero for the others .
+A :  And sample sensor , sample speaker .
+B :  Mm . One maybe , yeah .
+A :  One ?
+A :  As we have voice recognition , I think .
+B :  Yeah yeah yeah .
+B :  Is it
+A :  So the case .
+D : 
+B :  Is sh it
+D :  So we are all already nineteen .
+B :  Wooden .
+A :  Okay , just keep on going , just to have an idea .
+C :  The solar cell is too expensive .
+D :  Yeah .
+B :  Is Yes a wooden pl I and that's There's no wood , so plastic just only , I think .
+A :  Well uh yeah , but what what about case ? Uncurved , flat , single curved , double curved . I think it's more like double curved .
+D :  That's gonna be double curved , yeah .
+B :  Double curve , yeah , double curve .
+A :  One ?
+B :  One , you have .
+A :  Uh wood ?
+B :  But it's yeah , a a rubber uh
+D :  Rather four buttons . Oh no , interface .
+A :  Uh do we need special colour ? Y maybe , two ? We have two special colours . Push button .
+B :  Yeah , yeah . Y y yeah , yeah .
+D :  Yeah , yeah that's special colours , sure .
+C :  Mm . Yeah , we have four .
+C :  Five .
+B :  Five ?
+A :  Okay .
+A :  Scroll wheel . We don no .
+C :  No .
+A :  It it's more like integrated scor .
+B :  I think that this will be like a scroll wheel , actually . Y you tu you turn you turn it , so
+C :  No no .
+D :  Yeah tha that's wheel .
+C :  No no no , it
+C :  Okay .
+A :  Yeah , maybe two scroll wheel , as we have the coarse coarse to fine scroll wheel .
+D :  Yeah .
+B :  Yeah , true . Yeah , yeah . Yeah .
+B :  Okay , yeah , yeah . Scr
+A :  So , no button supplements ?
+D :  I think the price is okay .
+C :  No .
+D :  Um , no .
+A :  Okay .
+A :  Okay we I think we have problem .
+B :  L_C_ display , maybe . Interface .
+A :  I think we s if we keep on adding things so we have to
+B :  It's okay . fine .
+D :  Yeah w one of the m key point is solar cells .
+A :  Maybe if w t if suppose if we change and we g put just one ?
+D :  Yeah .
+A :  Has it changed .
+B :  Yeah , it was stage one , so .
+D :  No y i it did change , but just imagine we have
+A :  Okay .
+C :  We have change the electronics to from from the the the sample sensor to regular chip . Oh .
+B :  So
+C :  We have to delete the the sample sensor , I think .
+D :  Yeah .
+A :  Yeah , but we have you the the voice recognition , no ?
+D :  Yeah but this one one of the feature we were not really
+C :  Yeah it's the one it's m maybe we ha we have two versions , the first version , the basic version . Advanced version we have speak .
+A :  Okay .
+B :  I think you can transform the wood into plastic , maybe . Because uh it seems that this can be yeah , wood into plastic and it it should be fine .
+D :  Yeah .
+D :  Yeah , if
+A :  Or it would be better .
+C :  Plastic is free .
+D :  Yeah .
+A :  So , do we need special colour ?
+D :  Yeah , that's one of the requirement .
+A :  Because we have red .
+B :  Yeah , red and yellow . Fancy .
+C :  Wait .
+A :  Red and yellow .
+D :  We could turn we could turn everything in either yellow or black . Black then is a regular colour , so .
+C :  We we can we can we c yellow .
+A :  I think so we need if we try to have a kind of
+D :  Yeah , one .
+A :  pineapple bee .
+D :  Yeah .
+D :  So push button then it's it's the next expensive one .
+A :  Yeah . An but we have integrated scroll wheel with push dut button . And I think this is one . Integrated scroll wheel push button . So we'll we have only one ?
+D :  Yeah , thi this might be .
+A :  And push button . So if we have all integrated i in the scroll wheel and push button , it's uh
+D :  Close to .
+B :  One .
+B :  I can remove maybe f you have five with push buttons , so we can just , I dunno , try to modify some of them to have yeah .
+D :  Okay , so what's the bottleneck ?
+C :  How about we change the sale ?
+D :  Double curved .
+B :  Double curve . We can transform the double curve into single c yeah . F some
+A :  Something flat .
+D :  Yeah , but flat
+A :  S uncurved . Yeah , maybe not .
+B :  Single curve . Single curve should be fine , so .
+D :  Case , what's the ca
+A :  Yeah .
+B :  Oh , what
+A :  Mm . Nearly .
+D :  And then one Euro left .
+C :  Ah we have one
+D :  Um .
+A :  Maybe don't bat no battery , only solar cells . I think there's a problem with the push push button . We only need maybe just one . Just one . Yeah . So yeah , you will have So one button , and s
+B :  It's it's a bad idea , so .
+D :  Um
+B :  Two ? One . That's fine . That's fine . One s one scroll wheel , so And the vocal chord , it's fine . It I th it's fine .
+C :  Okay . Okay . Agree .
+D :  So we have one button ,
+D :  one wheel .
+A :  scroll wheel with push button on it .
+A :  So
+D :  It's good they're not charging anything for that .
+A :  So , yeah . It think we we've done good job , as the cost is
+C :  Cou could we have look
+A :  twelve fifty e
+C :  Could we have look at the p the the prod the p the cost ?
+D :  Yeah y actually it's wrong . We're not under twelve Euros and a half .
+A :  Yeah , but it's under or equal . It's not written . Sometimes it's under or equal .
+B :  It's fine .
+B :  It's under or equal . It's fine , so
+D :  Okay . Okay .
+C :  Okay . So let's say
+A :  Twelve fifty .
+C :  Wha what yeah .
+B :  It's fine , twelve fifty uh
+C :  Which part is the most expensive part ?
+D :  Solar cells .
+B :  The solar cells , r is i is it ?
+A :  Yeah , I think .
+C :  Yeah , I think it's not t t
+A :  I think , yeah . But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be
+B :  Yeah , to be able to si to sell it .
+D :  Yeah .
+C :  Cheaper .
+D :  That's nice argument , but if it's it's still four our of twelve .
+B :  Yeah , with mi
+B :  It's it is really really uh really very very expensive , though .
+D :  Yeah .
+B :  Maybe if uh okay .
+A :  Yeah but it will be technologically innova innovative , so . So it's easy to use and powerful , as the remote control a has only one button .
+C :  Okay .
+B :  Yeah , yeah .
+D :  Yeah but we just have one button .
+D :  Easy . I don't know about powerful . Yeah .
+B :  It's easy to use . It's very easy to use .
+A :  Easy , powerful .
+D :  Mm .
+A :  So I don't think we need to redesign the p the product .
+D :  Uh that's what we've just done .
+B :  No .
+B :  We've done it with it is under the if it was low , high or so .
+A :  Yeah .
+D :  Yeah .
+A :  So
+D :  okay .
+A :  Now
+B :  So
+B :  So what are we going to do with this project evaluation ?
+D :  Well I think we have just have to discuss if
+A :  So
+B :  Okay , okay , it's fine .
+D :  I dunno .
+A :  So did you enjoy your clay modelling ?
+C :  Yes . Of course . This is my job .
+A :  Yeah ? Was it a nice way to create your remote control ?
+C :  Yeah , it's uh
+C :  it's good , to
+C :  to create a control instead of a computer .
+B :  Yeah , I think I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .
+B :  And designing , looking at the chips , the solar cells and uh and it was very informative for .
+C :  Yeah .
+A :  And for the marketing guy ?
+D :  Uh tha that was good but we should have more brainstorming like meetings , maybe . 'Cause we just presenting one is presenting his stuff
+B :  Yep .
+D :  next one his stuff and then we try to combine afterwards , so it um .
+C :  Okay .
+B :  Okay , okay .
+A :  And new ideas about new products , maybe , wi which would be fashion and uh
+A :  and yellow .
+B :  Yellow . I think you can think about a yellow T_V_ now after a fruit T_V_ or I dunno . It can be an interesting I don't know
+A :  Yes , just lemon .
+B :  Yeah , just a lemon T_V_ it'd be yellow lemon .
+C :  Yeah , but y you know the traditional T_V_ it's um
+B :  It's flat , uh
+C :  Yeah yeah it's flat , yeah the shape is very boring . Could we come up with new T_V_ with such as this kind of T_V_ ? So you can you have base , triangle base so you the T_V_ you can
+A :  Squared ?
+B :  Yeah , that's right . It's really boring , yeah .
+B :  Yeah .
+A :  Ah , the lemon T_V_ with the pineapple remote control .
+B :  Yeah , that's that would be really interesting , actually .
+C :  Yeah .
+C :  Yeah . Because the T_V_ you also
+A :  Oh , that's interesting . You could f we could do a kind of fruit collection of electronics things . Electronic device .
+B :  Device devi
+C :  Yeah .
+D :  Yeah , but just don't trust too much the trends . 'Cause fruit and vegetables it won't last for ten years uh . Maybe two years it's dead .
+C :  Yeah .
+B :  The fruit ? Yeah .
+A :  Maybe
+A :  Yeah , maybe la next year it will be insects .
+B :  Yeah , it's
+D :  Yeah .
+B :  But I think it's good to follow the f flow and you know make it now and after , you know , if the people change their mind you change also the product .
+D :  Yeah .
+C :  Mm .
+D :  Yeah , but this is good because it's not a long long life product .
+B :  Yeah .
+D :  T_V_ is more like fifteen years , maybe , so .
+D :  If you have a lemon lemon T_V_ for
+B :  Yeah , yeah . That's a yeah , yeah .
+B :  We can think about T_V_ with you know where you can change you know the aspects o like for the cell phones , you know .
+D :  fifteen years
+A :  Customable T_V_ .
+B :  Yeah , you customise it every ti so every ti if people change , you just change the appearance , and y y you can keep
+D :  Yeah , yeah .
+A :  Ah such yeah . You've already said mobile phones . Yeah , and following
+D :  Tha that would that would make it . Yeah .
+C :  Okay .
+B :  Yeah , you can keep the global appearan
+B :  The mood of persons , the fashions uh
+A :  Mm .
+C :  Yeah .
+B :  We int
+A :  It's interesting , maybe we can create a a line of uh T_V_ with uh a a tr
+B :  Yeah , T_V_ , yeah .
+C :  Yeah .
+B :  A T_V_ for autumn and a T_V_ for winter , you know , so it's
+C :  Yeah .
+B :  So what i and do w is it Okay .
+A :  So I think the costs are within the budget . We're just at twelve fifty Euros . So do you think you can celebrate your creation ?
+B :  Yeah , the pr at
+C :  Yep .
+D :  Yeah .
+C :  And you can celebrate your leadership .
+A :  Oh , thanks a lot . Thank you , mister David Jordan .
+B :  Yeah but I think f it's really a celebrating object . So it's yellow and very a very ha it's very happy , so . Uh it's it's a pr it's like yeah .
+C :  Yeah .
+D :  Hmm .
+D :  Yeah . It's party party remote control .
+A :  The thing now is to to sell it .
+C :  Yeah , it's your job . Sell it . Yeah .
+B :  Yeah , right , go and sell it . Goo and good luck , so
+D :  Yeah .
+C :  Okay and the twelve fifty twelve uh twelve
+D :  Uh-huh . Twenty five Euros . Yeah , I think it's
+C :  Twenty five Euros , yeah . Twenty five Euros . No , it's not so expensive .
+B :  It should be fine .
+A :  It's maybe a little bit expensive .
+D :  It's cheap , yeah .
+D :  No , I
+D :  I'm not so happy about the fruit shape , you know .
+B :  Wh really ? It should be it should be fine , you know , actually . S
+C :  Okay .
+A :  Maybe what you can do a test . Put it outside , and if bees come , it's really fruit .
+D :  Yeah .
+C :  Okay .
+B :  I I think I like the the colour a the colour are very good , so actually so
+A :  But don't put sugar in it , it's not working .
+D :  No , the colours are uh it's perfect , yeah .
+B :  It's perfect , and
+D :  True . Uh yeah , another thing is the logo is missing still .
+B :  I p is th y the the yellow ball thing that
+A :  Yeah , but the colour , I think the colour is more is most important , because I I don't think you have ever seen something like that before for a remote control .
+D :  Uh
+D :  Still that was one of the requirements we had . It's yeah but it I don't think it's such a problem just putting the logo somewhere .
+B :  Uh f like y we can we can put some uh double R_
+A :  Yeah , but we decided to have something yellow and red , for the costs .
+D :  Yeah .
+A :  So maybe we can just integrate it on th on one side , the double R_ .
+D :  Mm .
+B :  Okay yeah , yeah . That's actually good idea , so
+D :  Yeah .
+C :  Mm .
+A :  So we have the logo , we have the colour , and we have the fashion in electronics , so we have the slogan too .
+C :  So we have to give a
+C :  So we have give him give it a cute name .
+D :  Cute na
+A :  Yeah th no , it's the it's the pineapple control remote control . It's a pineapple now , it has changed . It's a pineapple . Pineapple .
+C :  Mush mushroom controller .
+D :  You cannot say mushroom because it's not the trend . It's not the trend .
+B :  It's not a mushroom . It's a pineapple remote controls .
+C :  Pine apple .
+B :  Yeah , pineapple remote remote control .
+D :  Yeah , but just flying saucer , or
+A :  With cherry on top .
+B :  Oh , that
+C :  Okay .
+D :  I would say flying saucer .
+B :  Oh unid uh unidentified remote control , so
+D :  It's more appropriate , somehow .
+C :  Okay .
+C :  Okay .
+B :  That's that's pineapple remote control . I think it's fine .
+D :  Mm .
+C :  Okay .
+A :  Will you buy one ?
+B :  Yeah . Yeah I will try I'll try . I can hel I will try versions so to see how easy easy to manage
+A :  Try to . Okay uh
+C :  Twenty five Euro .
+C :  Okay .
+C :  Yeah you told me you h you d you d you lost your control your T_V_ so so you need to buy one .
+B :  Yeah I always lose my Yeah , so so i if it is a universal one I can use it with my T_V_ , so it would be
+C :  Okay .
+A :  One thing I like is the shape , because you know it's not like the uh the remote controls you can put in your pocket , on uh in your jacket .
+D :  Mm .
+C :  Traditional one ? Yeah .
+C :  So this one and this one . What do you choose ? What do you choose ?
+A :  I prefer the laser remote control . No .
+B :  I think I would choose this one because of the colour . It's
+C :  Okay .
+B :  it's will enlight your house , your home and your T_V_ , so .
+C :  Okay .
+B :  Yeah .
+A :  Oh . Maybe next if we decide to do something we'd can put light inside .
+B :  Yeah , yeah that would be uh an idea .
+D :  Yeah but that's going to be expensive , you know . We had some problems going to twelve Euros and uh I dunno .
+A :  Yeah .
+B :  .
+A :  I think it it would be interesting to just to see if we can if people will buy this one , and maybe add some features to it after yeah .
+D :  Yeah , afterwards , if
+C :  Yeah . Yeah .
+D :  if it's a new trend .
+D :  Okay .
+B :  Yeah that's that fine . So we can celebrate now . That's our new product .
+A :  So
+A :  Champagne , mister Baba .
+D :  We should celebrate .
+B :  Yes . It's it's fine . It's
+B :  I like it .
+B :  Next time . Well , I'll buy one here .
+C :  So buy one .
+C :  Yeah .
+A :  So
+D :  Mm .
+A :  Okay , I will close this . Mm .
+B :  Yeah . No ?
+A :  So I think we have finished the designing and the evaluation of our remote control
+B :  Okay .
+B :  Okay .
+D :  Yeah .
+A :  and we have a nearly final product .
+D :  Our final prototype which yeah .
+B :  Final prototype , yeah , ye yeah .
+A :  Final prototype , right . So , thank you very much . Very productive .
+C :  Prototype , yeah .
+C :  Okay .
+B :  Okay . Okay .
+C :  Okay .
+C :  Okay . Thanks .
+B :  S so who is going to take the remote control ?

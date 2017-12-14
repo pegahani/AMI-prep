@@ -1,0 +1,273 @@
+B :  Okay .
+C :  Okay .
+D :  So b maybe I'll go back to your questions . Um
+C :  Yes .
+B :  Mm-hmm .
+C :  So you were talking about the two first question ? Okay . And a little bit about same people moving , with the clustering .
+D :  Yeah .
+D :  Um
+D :  Yeah .
+D :  And this also um allows you to separate people .
+C :  Uh-huh .
+D :  Um and the questions I did not talk about was uh going from location to uh identity of the person . Um
+D :  That is quite different , you you need to use a signal you have separated and uh do the type of analysis I mentioned . Um from the spectrum you can transform the the magnitude spectrum and um um build model of the person .
+A :  Mm-hmm .
+D :  Um
+B :  Or actually look at the pitch , no ? Don't ask me how it's done I I know the theory , so , yeah .
+C :  So this one .
+D :  Yeah , pitch at least . But pitch is
+D :  Pitch isn't is not enough sometimes .
+A :  Actually uh you can t perhaps just uh just
+B :  Isn't it the pitch and the frequency ? The base frequency of the
+D :  I it's a frequency , yeah , yeah . It's a frequency of your vibration here . Uh
+A :  Th there is one frequency that is the base from for uh
+D :  Yeah . And then it's transformed through the mouth , that's the usual model .
+B :  And if you have both you can um well , you can compare this to to one stored and so get out uh which person it is . Pardon ?
+A :  Okay .
+A :  Both . Mm the pitch and uh and the freque
+C :  What ?
+B :  And uh well , the things that make the sou the voice .
+A :  Okay , s and you can measure measure that ? Or
+D :  Yeah .
+D :  I yeah , um it's not necessarily done explicitly , but it's equivalent to that , yeah . So again , F_F_T_ is useful to do this type of analysis . Um
+B :  Yeah .
+C :  I'm sorry , I didn't really get the point of comparing the pitch the pitch is the is the frequency that is okay . And the way you transform it uh v by the mouth ? You were comparing what with what ?
+D :  Yeah , but it's quite personal . Uh
+D :  Yeah .
+B :  And and the the holes in your head , everything , the the nose and so on , and that's that's really uh unique for ev well almost unique for every person , so .
+C :  Uh-huh , okay , okay .
+D :  Yeah .
+C :  So uh
+C :  And you were talking about comparing what with what ?
+B :  Well once you get this information , your frequency and uh your vocal contract or how it's called , uh y you can use this information to compare to to to the frames here .
+D :  Yeah , yeah .
+C :  Okay .
+C :  But you want to have the information because the the mouth , you move it .
+D :  It it's an information equivalent to that . It's maybe n you don't need to do the whole uh complicated modelling , but
+B :  No , but
+C :  To scan t all the user .
+B :  No no no no . That that that everything is done through through the voice here , you take a voice of someone , and then you can get out this information , it's it's not p it's clear it's not perfect , but s it's enough to to to use it for for different purposes and uh
+D :  No , no .
+C :  Okay .
+C :  Okay , so you have the p the pitch and you have information about the voice dynamic or
+D :  Yeah , rate of speech is also possibility . Um how fast you speak , that's quite personal also . But it varies over time , um depending on emotion . That also might be interesting for you , detecting emotion .
+A :  Okay .
+C :  Mm mm mm .
+C :  Emotion , the involvement in a discussion . If you are saying oh yeah yeah we should
+D :  Yeah , yeah .
+D :  And us yeah , yeah , so these measures are a way to quantify that .
+C :  Okay .
+A :  And i is it uh expensive to do ,
+C :  In C_P_U_ you mean ?
+B :  Um not not that , well uh as far as I know . Actual
+D :  Uh p no . No , no it's not .
+A :  But in fact if y you speak of uh a lot of things that are not expensive , at the end you have uh something that is .
+D :  What w w what is m what is more expensive is to um take the decision finally . So your decision can be for example uh who is it , or if the person moved , which is probably the most complicated thing , like the person goes away , then comes back ten minutes later , sits at a different place . Uh you will need to build statistical models of um the person identity using these measures . So the ones um he mentioned um
+D :  I don't know if you're familiar with that .
+B :  Is it called P_C_M_ ? I thi um well it's it's not a technology s yeah . It's more or less used this to compress audio . I have to I want to check it , I can show it you afterwards .
+D :  Yeah .
+D :  Yeah .
+D :  So um
+C :  Not really familiar .
+B :  well I did a course about it , but uh I shouldn't say it too loud , because um the professor is working here at IDIAP . I should reread what I signed there so .
+D :  No .
+C :  Hmm . Okay , so you are the expert .
+A :  Hmm .
+D :  Yeah .
+C :  Careful , you are recorded .
+C :  Okay .
+C :  Okay , so all this stuff is done from the F_F_T_ .
+D :  Yeah .
+A :  So you have to do F_F_T_ , because otherwise
+C :  Also location to identity . Uh
+D :  All I was saying is that these different measures are a way to uh evaluate the identity of the person . So if with location all you can do is extract segments of speech , for example , but it will not tell you that these are the same person . It's just a location .
+C :  Mm-hmm .
+C :  Okay .
+A :  Mm-hmm .
+C :  Mm-hmm .
+C :  But to get a cluster the location that is uh a place where uh noise is regularly coming from .
+D :  Yeah .
+D :  Yeah .
+D :  Yeah , so that might be good for example for ten minutes , but then the person might move , or a different person might come .
+C :  Mm-hmm .
+C :  Mm mm mm .
+C :  But for instance for a setting like uh here it would be enough , because we are not moving .
+D :  Yeah .
+D :  It is . Well , unless sometimes somebody goes there or yeah .
+C :  Okay , right . But we are uh targeting a place where we don't know i where it will be more flexible , so we need more than just uh location if we want to uh
+A :  Yes .
+D :  Yeah .
+A :  Yes , but it
+B :  Well uh it I'm even not sure if it's that important to know which person is talking , because uh if uh if it I think about a table , or so something uh physical , uh you just want to know in in which corner of the table uh speech is coming and not uh which person produced the speech , so .
+D :  Mm-hmm .
+C :  Mm-mm .
+D :  Yeah .
+C :  I agree . Maybe just
+A :  I it it is im
+D :  Yeah .
+A :  It i it yes , it is important for detecting patterns . Because uh if you say uh let's say uh w how much the person um have spoken over the the five last minutes , uh
+D :  Yeah .
+B :  Yeah , but it's not really related to the ah , yeah , I see it's uh you need a bit both uh
+D :  So it hmm .
+A :  Uh if someone come and yes .
+D :  But that you can do with location , if it's only on the short term .
+A :  Yes , yes . Y
+C :  I think it may it may be okay , but it depends how long
+D :  On on the off-line yeah . I would say you might use these measures in a simple way if you do it uh on-line . Like um to give feedback . But uh you you mentioned that another side of your project is also to analyse off-line . So there you might want to use a
+C :  Hmm .
+A :  This is uh mm .
+D :  We had a student here , he finished uh one or two years ago , but he left his software , and his software is precisely to do that to um cluster at uh another level , to cluster these small clusters of speech , uh group them by person automatically . Y no , from the these measures , pitch , etcetera .
+C :  From th from the location .
+C :  Oh .
+A :  Okay . So i uh this is only based on uh you give uh the spectrum and uh uh okay .
+D :  So um
+B :  Sound .
+D :  Yeah , exactly . So I would say from location at the lower level you can get small parts of speech , and then at the next level , possibly off-line , you can uh group them into um a speech segment . I'm hoping to have enough time to try um doing that before I finish my thesis . Um so if I manage to do some um uh practically usable software , I'll tell you .
+A :  Mm-hmm .
+A :  Yes .
+C :  Mm-hmm . When are you planning to finish your
+D :  Uh in five , six months , abou approximately .
+C :  Okay .
+A :  But uh the last ones are always the
+C :  More extensible .
+A :  Mm not really .
+D :  More busy I would say .
+C :  Mm .
+A :  Mm yes .
+D :  Yeah .
+D :  So you said you want to do separation , um but ex exactly , yeah .
+C :  I don't know how mu maybe we would be more interested to know that it's not the same people , more than knowing that it's the same people . Or to detect that someone is more that was not talking before is talking now .
+D :  Yeah .
+D :  Okay .
+D :  Okay .
+A :  Hmm uh I I said uh we want t to know to um to do separation just because of the voice recognition . I mm this is not the yes . Yes , no , but but in fact we have uh yes , we are designing uh a noise sensitive table just f from your ring , but we are also designing uh a prototype um to analyse the conversations . So uh we might add there a lot of uh features .
+D :  Ah , you want to do voice recognition .
+D :  You might want . Okay .
+B :  You might might want to do .
+C :  Yes .
+D :  Okay .
+D :  Yeah .
+D :  So yeah , once you have locations it's not a big problem . Um
+A :  Okay . And uh I don't know , perhaps uh perhaps if you have two people speaking uh speaking uh at the same time , uh I don't know if uh voice recognition of an uh such a stream is uh real . Okay .
+D :  Mm-hmm .
+D :  No no , you should separate them first , yeah , yeah .
+D :  So
+A :  Yes , so that's fine .
+D :  So the type of things I presented can lead to separation .
+A :  Mm-hmm .
+A :  Sure .
+D :  Um it's only a very small step to add .
+A :  Yes , it's not um every important feature for now , but
+D :  Yeah , yeah .
+D :  Although it might be , if you want to um ex extract these features like pitch and uh rate of speech , or energy simply , from each person . Um you might have to do some ba basic separation . 'Cause quite often people uh don't realise that they talk at the same time , um interrupt each other . So even if you don't want to recognise a speech fully , at least um you need yeah .
+C :  Mm .
+A :  Mm-hmm .
+C :  Mm .
+A :  Yes .
+B :  You need to separate it .
+A :  And uh uh another what uh . Um I don't remember .
+D :  It's okay . You can email later . Yeah . Um
+D :  So
+C :  Okay .
+A :  Yes , also uh to to extract the context .
+D :  Yeah .
+A :  Mm because if you know the words that are spoken , you can let's say uh someone say uh he's angry uh about the word he's seen . Yes .
+D :  Uh
+D :  Okay . A semantic context , yeah . Yeah . Yeah , then mm .
+A :  You mi you might want to add uh this kind of this is not in uh my project , but
+C :  That are further directions .
+B :  No , but I think once you have the voice for a person , you can start to do this and uh once uh people have speech recognition or uh far enough to t
+A :  Yes . Um
+D :  Hmm .
+C :  Professor was interested to know when people were talking about him . Ah , someone is talking about me , let's listen .
+B :  Mm uh .
+D :  So it's uh
+D :  Yeah , you could detect one word , yeah . Keyword spotting , yeah .
+A :  Yes .
+A :  And have a special events trigger if
+C :  And lighting a on his office .
+D :  So um
+C :  Okay , so are you done w with what you wanted to presented us uh in regards with these questions ?
+D :  Yeah . Yeah , I I'll just say uh if you want I can point to um three papers , um but no , I think it's better if I just send you the link , it's probably simpler .
+B :  I think so .
+A :  Sure .
+B :  The link . Mm .
+A :  Sure .
+C :  Mm mm . three papers about ?
+D :  Uh one im is about this um sector based stuff , like uh the localisation and detection .
+C :  Mm-hmm .
+C :  Okay .
+D :  One is about how to take the decision , that somebody's active or not . Um it sounds simple at first , you think you just put the threshold and that's it , but um the problem is uh the
+C :  It's n no problem . No more time for problems . Okay .
+A :  No , it's it doesn't sound simple , but yes , you can yes .
+D :  It no , you can do that . There's no problem , but i if you want your your system to work in different conditions , like cafeteria , library , um the environment will be quite different , so a single fixed threshold value might be a problem . S
+C :  Uh uh .
+A :  Sure .
+A :  Yes , in fact uh for now we are using uh a kind of calibration , but uh it's still um
+D :  Yeah .
+D :  So you can do that automatically , this kind of things . Um I don't know if you're doing that already , but uh
+A :  Yes .
+B :  Okay .
+A :  Yes , um uh but in fact you have to sit in front of the microphone , and it's uh yeah , people one speak and people two and people three and you are just uh subtracting the the level that you you kept in the other microphones .
+D :  Okay .
+D :  So uh I have another paper which might be interesting for that for a single channel uh calibration . And I've code on-line , so for this particular one .
+A :  Okay .
+A :  Okay .
+D :  And the last one I would say is um the clustering um to um yeah , the clustering of the different locations over time , so that you can get small clusters of speech . Um there are other ways to do it , but uh I think it's it's important because um in spontaneous speech all these words are quite small . So you need to do that uh adequately , yeah . But otherwise yeah , I'm done .
+A :  Mm-hmm .
+A :  Mm-hmm .
+C :  Mm mm mm .
+A :  Okay , just uh a last question , um when you mentioned it . Um if I'm speaking very uh , how do you say it , um yes , I'm just speaking one word every uh every one second . Yes a . Uh is the the event that is detected is um will be uh a sum of uh small parts ? There won't be uh okay . So you yes , you have to to reprocess to uh to say let's say yes . There is a very small um interval . You have to consider it uh .
+D :  Hmm .
+C :  Slowly .
+D :  Yeah , yeah . Many small events basically , yeah .
+D :  Yeah , basically uh I mean it depends uh
+A :  Because this is yes , this is one this can be considered as one interv intervention .
+D :  Yeah , even if somebody says just yes .
+D :  I don't know if it's important for you or not . It might be .
+A :  It might be .
+C :  Might .
+A :  This is not a very uh easy problem .
+C :  For the first application we will do with uh prototypes , it will be more about quantity uh of speech or how long , how much someone speak , but when we will go to final uh details , if I'm talking and someone say yes yes yes from time to time , it show that he's participating , and obviously it makes different that if someone is talking and one is replying never uh nor moving or nor having eyes open
+D :  Yeah .
+D :  Yeah .
+D :  Hmm .
+D :  Yeah .
+D :  Y Yeah .
+D :  Yes . Um
+D :  So I I'll send you links some of the papers are long , but you can just um briefly look , yeah .
+C :  Okay .
+C :  Go through them .
+C :  Okay .
+D :  Um we can go and see Olivier , unless you want to talk about something else .
+C :  No , I think uh I think we has already have plenty to read .
+B :  No , I think does this work , email ?
+A :  I'm done .
+D :  Huh ?
+B :  Does it work if I put in my email and uh
+D :  Well , we can try . But uh
+C :  Try .
+B :  No , if it's not uh I guess you would have to install it and so on .
+D :  We have yeah , we have O_C_R_ , but maybe not on this computer . Yeah .
+B :  Uh no no no , you see uh I thought you can put in here your email address and and just uh do this and then it mails me . Yeah , you see I want too much .
+D :  That is good idea , yeah . It's a good idea .
+C :  And the application you are using , all of them uh y every time you are using Matlab , or you are programming everything is based based on Matlab ?
+D :  Yeah , yeah .
+D :  Yeah . Once I I um coded the most expensive part in C_ just to see so you can have a mix of both . From Matlab you call C_ and back .
+C :  Mm .
+A :  Sure , yes . And you can code Java .
+B :  And after all Matlab is also programming , so it
+D :  But the day you want to do uh on-line real time stuff nah , I wouldn't wouldn't trust it .
+A :  You can choose Matlab .
+C :  Mm mm mm .
+B :  Mm-hmm .
+A :  Yes , sure . You have to code it uh directly to the machine .
+C :  Okay .
+B :  So .
+B :  Thank you for the information .
+A :  Hmm .
+A :  My sheet is very uh filled up .
+A :  I will take yours .
+C :  I'm writing so only me can read .
+C :  It's uh a kind of secret language .
+C :  Okay .

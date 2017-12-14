@@ -1,0 +1,385 @@
+C :  Okay .
+D :  Or you get it . Okay .
+C :  No I don't think so it has to be like that yeah and you have to adjust the length .
+C :  Okay , and then .
+B :  So we uh we will wait for Anna , a few minutes .
+C :  Yeah , s yeah , um .
+D :  Mm . Yours is well
+C :  I think you can put anywhere you want , actually .
+D :  Yeah but the the mic should not
+C :  I thin
+C :  It's not a directional mic , anyway .
+B :  I think it should work like this . So I will try to get my presentation running .
+C :  Uh .
+D :  Yeah .
+C :  Yeah .
+B :  Mm .
+D :  Mm . Can't help you with that .
+C :  Last .
+D :  Okay , it's y yeah .
+B :  It's no matter .
+B :  No problem .
+B :  Ah yes .
+D :  Right .
+C :  Okay .
+D :  Then press uh al
+C :  Okay .
+D :  This . You know ?
+B :  I don't know . Just try .
+C :  'Kay .
+B :  On this normal
+D :  Oh oh .
+C :  Alt F_ five .
+B :  Good . Doesn't appear on the screen here .
+D :  Right well
+B :  Oh .
+D :  Wow . Amazing . It's working .
+B :  Okay . Thank you . Uh .
+A :  Hold that .
+B :  Yes and you can put can clip it uh on your
+A :  Okay .
+B :  Somewhere .
+A :  Okay . Mm .
+B :  So , good morning , everyone .
+B :  Um
+B :  Welcome at uh at the kick off meeting of our uh latest project . I hope you all have been uh updated about it .
+D :  Yeah .
+B :  Good .
+C :  So . Yes .
+B :  So w we will try to structure this uh meeting with an a with an agenda uh as presented here . Um after the opening we will tr get acquainted to each other . See what our roles are in this project .
+B :  So , um
+B :  We have been provided with uh some uh w technical tools to uh
+B :  to communicate and to well , learn from each other's plans uh as I can say um so w
+B :  we will also try to uh
+B :  to get acquainted to this tools so they are also new to me I don't know whether you worked with them before . Um then we will come to the uh to the to the actual project plan . You all know I hope how it's about uh the uh new r remote control we are going going to design .
+A :  Mm-hmm .
+C :  Total .
+B :  Uh then we will uh discuss uh , well , how it should be and uh
+B :  wh what uh what our new product should look lite like . And uh well then uh after some twenty five minutes I hope uh we can end this meeting .
+B :  So . Um basically this is about a uh a new c remote control . Um
+B :  We When you design a new product you of uh you of course want it to be original . Be uh we want to be distinguished , mm ? People uh want to uh when they look at the shelf want to think , well that's the product I I need . So it needs to be trendy . I mean trendy is what people want , so then I w they will buy our product .
+B :  But then , uh , it also should work uh user friendly and uh otherwise people uh uh well it will not be uh
+B :  be rated very well in consumer uh articles and like that .
+B :  So , the general outline of uh new project will be we first uh go through a functional design phase . Um
+B :  You all get uh um certain task uh in this uh in this phase and uh
+B :  then we will meet again and uh discuss this functional design . And the same holds for the uh
+B :  ph two phases uh after this , the conceptual design
+B :  and after that a a more detailed design in which the the final project should get its definite shape .
+B :  Alright , but first we will do some uh tool training .
+B :  In all in front of you uh you see uh the uh
+B :  notebooks and w uh n note blocks and we have here a
+B :  a a a white-board .
+A :  Mm-hmm .
+B :  And um well it should work uh I've read it from my uh from some colleague that it should work with some kind of toolbar . I didn't find out yet how it work , but maybe one of you did , so
+B :  Um
+D :  Under documents in the shared folder . Okay .
+B :  Yes . Do Do we have to say something about that ? I I I'm not fully updated about this shared folder uh .
+D :  Yeah , I guess we'll have a shared folder uh with documents that we can share . And uh , yeah .
+B :  Yes well we will then find out ho how it works .
+D :  Yes .
+B :  Um .
+B :  Well , this seems to me , yes , some computer program but I didn't find it yet .
+B :  So , we'll come to that later .
+B :  So , uh now we will try out the white-board we have here .
+B :  So ,
+B :  I would suggest uh
+D :  Each of us is going .
+B :  Well , yes , um we uh we should try to t to draw on it and then well it should be smart some way . I I'm not really sure how this works , but
+D :  Okay , shall I start ?
+A :  Mm . Yeah .
+C :  Yeah , you can start it you know .
+B :  Yes , a good idea Mael .
+A :  I think for us it's just like a normal whiteboard , but they'll be recording what we write down .
+D :  So , i
+C :  No they will record through that . There's a sensor over there which is going to record the strokes that you make .
+A :  Mm . Mm .
+A :  But for us it's just like a normal whiteboard .
+B :  Okay .
+C :  Yeah .
+B :  'Kay .
+D :  But it's
+D :  Actually , I think I cannot go with uh
+B :  You you
+B :  D doesn't it work ?
+B :  Maybe someo Maybe maybe Anna , maybe you can start . Then he can maybe find out to get his cord right .
+A :  Mm-hmm .
+D :  Yeah .
+A :  I have to draw .
+B :  So um
+B :  L Why don't you draw uh your favourite animal on on th on the white-board .
+A :  M my my favourite animal . Sorry this is all tangled up here .
+B :  Oh , I see uh
+A :  That's better .
+C :  Yeah .
+B :  Yeah .
+B :  Yes . Mm .
+B :  So draw it . We will try to guess what it is .
+A :  Mm-hmm . I'm a very bad drawer .
+A :  Weird .
+A :  Um . You're not gonna be able to guess from my drawing . I'm a bad drawer . Okay .
+B :  Mm .
+A :  They're ears , by the way . No . Um close though .
+C :  's a cat .
+A :  Okay so like a pet animal .
+D :  Okay .
+A :  Like a cat .
+C :  Yeah .
+B :  It's like a cat , so I guess it's a cat .
+A :  No , not a cat though .
+B :  What is this now ?
+C :  Ah you forget about it .
+D :  You're on the knife .
+C :  Yeah , uh I think it's fine . I just don't want to carry it off .
+C :  Man , this wires , eh ? We need a wireless microphone .
+C :  You know ? Pro specially we should next project we should take l like that .
+B :  So , that's the cat . Oh .
+A :  Okay . So . It's not a cat , it's a dog . Yes .
+D :  Mael .
+C :  So .
+B :  It's a dog .
+B :  So but that's also kind of cat , isn't it ?
+C :  Oh the dog doesn't have a tail ?
+A :  It's got a tail then .
+B :  B bo both predators .
+C :  Yeah , sure , yeah . I thought so . The dogs have a tail .
+A :  Yeah yeah .
+A :  So do cats . And you guessed cats without a tail .
+B :  So , thank you . Uh d did you uh work out cord ?
+C :  Yeah .
+D :  Yeah , I think I will go without without it , right ?
+A :  Okay .
+B :  Okay .
+C :  It'll still not extend , right ? It's not up to that .
+A :  Okay , there you go . So what favourite characteristics . Uh . Dogs are always friendly and loyal and fun .
+A :  A horse ?
+C :  It's a horse .
+A :  This is why you're the designer . And I'm marketing .
+B :  Yes . Yes , yes this is Yes definitely a horse . Yes . Oh very good . So
+A :  Ah
+B :  I suppose it
+C :  Ah I think you can put that .
+A :  Mm-hmm . That's it .
+A :  A blue and black zebra .
+B :  Yes .
+B :  Can you can meet them in Africa , I think . Yes . Very good . So
+A :  The very rare blue zebras . Yes .
+C :  I'll tell to get it off my
+B :  Ma Matthew ?
+C :  Uh ?
+C :  Mm-hmm .
+B :  So
+A :  You got a lot of room here . You can probably reach .
+B :  Maybe
+C :  Oh y it's not for that .
+A :  No ?
+C :  No .
+B :  I hope you have some space in your uh the horse of uh Mael .
+C :  Okay . Yeah .
+C :  So what should I draw ? Mm .
+C :  He has already to do cat .
+A :  I took a dog .
+A :  Um .
+A :  A mouse ?
+B :  This looks likes a cat who has been driven over .
+A :  Okay .
+D :  Yeah . And we should sum up its favourite charas characteristics , right ?
+A :  Mm-hmm .
+B :  Yes , the moustache .
+D :  So
+B :  That's that's definitely a cat .
+A :  Mm-hmm .
+D :  Uh yeah . And i Th They like to sleep , that's why you said you they are like this .
+B :  It's quite , you know relaxed situation . Yes .
+D :  Yeah .
+A :  Mm-hmm .
+B :  Yes , okay .
+D :  She has the small legs .
+B :  Th thank you , Matthew .
+D :  Yeah .
+D :  Thank you , Matthew . Perfect .
+A :  It's a very big rat . Or a very small cat .
+D :  Oh a rat , okay .
+B :  Yes , this is certain uh
+B :  some contribution to our project . So . Let's see . Which animal has not been drawn yet .
+D :  And you ,
+A :  Mm 'kay .
+A :  Your turn .
+B :  So you've all drawn land animals , so why not draw an animal from the water .
+D :  A bird . Okay , in the water .
+A :  Ah I don't know what that is . It's a bit
+D :  Mm .
+B :  Mm .
+A :  It's a bit hard to guess .
+D :  Yeah . Put it colours . Maybe it would help us .
+C :  So
+A :  Yeah .
+B :  Yes .
+C :  The cat is going to eat the fish or the rat ?
+D :  With different pen widths .
+A :  Mm-hmm
+B :  So
+A :  Oh , it's a shark now .
+D :  Ah it's a shark , yeah .
+B :  Oh , yes , why not ? Good idea .
+C :  Ah it's a baby shark , it looks to me , you know it's going to eat the cat rather than the cat eating the fish , no ?
+A :  Mm .
+D :  Oh .
+A :  Now it's a swordfish .
+B :  Why not . A swordfish .
+D :  You have some in in Australia , right ? Yeah . I dunno .
+A :  Swordfish . Um , maybe .
+A :  I've never seen one , no .
+D :  Oh well .
+D :  Yeah .
+B :  I hope it still works . So
+D :  Perfect . So I dunno if we need to spend time on that , actually But uh
+C :  You should go for the next one it seems to me .
+B :  W Well , this uh this tool seemed to work . Let's continue to uh to the real stuff .
+A :  Mm-hmm .
+D :  Yeah , exactly , yeah .
+D :  Wow .
+B :  Um our project uh finance uh
+B :  thing . Uh when we are and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros , so when
+C :  Twenty four .
+B :  designing a project uh I also look at you uh Mael , keep in mind uh uh uh People uh
+D :  Yeah .
+B :  want to get the feeling this is a twenty five Euro project uh pr um
+D :  Per remote control , yeah ? Per project .
+B :  product .
+A :  Mm .
+B :  Yes . Okay . Um more interesting for our company of course , p uh profit aim , about fifty million Euro . So we have to sell uh quite a lot of this uh um things . Uh we will try to uh
+B :  to get at a international market uh so um it will be I think mainly Europe and uh Northern America ,
+C :  Ah yeah , the sale man , four million .
+B :  maybe some uh Asian countries .
+B :  Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .
+D :  So it's half of the selling price , if I am good in mathematics .
+B :  Yes , of course . Uh um I mean we still have to uh to make a profit , huh ?
+C :  They have to sell at least four million to make a profit
+D :  Of course .
+A :  Mm .
+B :  You all have to be paid .
+A :  Mm .
+B :  Excuse me ?
+C :  Ah we have to make we have to sell at least four million to make our own profit . Fifty mill
+D :  Oh you're g very good in mathematics . Four million .
+A :  Yes .
+B :  Yes , indeed .
+B :  So uh well I think w when we are working on the international market , uh in principle it has enough customers uh so when we have a good product we uh we could uh meet this this aim , I think .
+D :  Yeah .
+B :  So , that about finance .
+B :  And uh now just let have some discussion about what is a good remote control and uh well keep in mind this this first point , it has to be original , it has to be trendy , it has to be user friendly .
+B :  Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+A :  Mm-hmm .
+C :  Of course it should have a on off button .
+A :  Mm-hmm .
+B :  Yes , well i it should have the the the the expected functionality uh of a remote control .
+A :  Mm .
+C :  Yeah , s and it depends what application you are using it for . You might need uh
+A :  Yeah .
+A :  Mm .
+B :  We wer we were thinking television . Uh .
+A :  Mm .
+C :  We are targ targeting the television set . So , you need to record the channels . You need to browse the browse the channels in upward downward way ,
+A :  Mm .
+A :  Yeah .
+B :  Mm-hmm .
+B :  Yes , yes . Th th that's very handy I I always miss it and on some remote controls that you can go channel up or down ins instead of retyping the number , especially when you have a lot of channels .
+A :  Mm .
+C :  Uh
+C :  And
+A :  Mm .
+A :  Mm .
+C :  Uh , and
+D :  And uh just before starting the detailed discussion , maybe we You are the marketing guy ? Or th So you are the marketing . And you are in the u use user interface uh design . So just yeah I wanted to to be sure . And I I'm the the industrial designer okay . Because I I don't know you very well , actually , but yeah . Okay . Mael . Happy to meet you . Okay . It's very uh
+A :  I'm marketing .
+C :  Marketing .
+A :  Yep .
+C :  Yeah .
+B :  Yes .
+C :  Yeah .
+C :  Sure .
+A :  Mm-hmm .
+B :  Yes .
+C :  Oh .
+C :  I'm Matthew . You know . Matth s uh Anna . And um uh Matthew , yeah . I thi think you know me , yeah ? right yeah .
+A :  Anna .
+B :  A and I'm Nanne .
+B :  So
+D :  Uh so yeah uh Just uh on your web page but uh yeah not uh not face to face .
+B :  Yes .
+B :  So . Um
+D :  So mm
+C :  So .
+B :  S s
+A :  Mm .
+B :  Are there some other very important things to to do well ,
+D :  So I
+C :  So
+B :  to specify in this first phase of of the project . So the browse function , as you m mentioned .
+A :  Mm . Yeah . Oth yeah .
+C :  And uh ,
+C :  you'd need the usual ones , like the changing the volume , changing the the channel and then you uh Today we have uh um teletext and all those things . Tomorrow you might have a some more functions which might come through that , so
+B :  Yes . Yeah .
+B :  Yes .
+A :  Mm .
+D :  Like what ? Like internet on the on T_V_ ?
+C :  Yeah I_P_O_ or . Now we are looking for
+A :  Mm .
+C :  television things or I_P_ . For example personal video recorder and all those stuffs are coming up .
+D :  Yeah .
+A :  Mm .
+A :  But we can't really design for something that hasn't been invented yet .
+C :  Yeah .
+C :  Ah it's it's it's it's coming up , actually . The personal video recorder and all those things it is coming up .
+B :  Mm , well uh I I think
+D :  Actually , yeah w
+B :  Uh w y you two should should , I think , think this over uh w espec what , what functionality .
+C :  Let's Let's take
+D :  Of course , and first before um designing the func well thinking about the functionalities , we need to know what are the user requirements . Um then if they need internet , then we would be able to to p to propose something with uh uh T_V_ over I_P_ . But before
+A :  Mm . Yeah .
+B :  Mm-hmm .
+A :  Yeah .
+A :  Mm .
+A :  Yeah .
+A :  But
+A :  Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels , so we can have all the fancy things as well but the main controls need to be very obvious and very easy to use .
+B :  Mm mm mm . Keep k keep in mind i it's a it's a twenty five Euro unit , so uh uh the the very fancy stuff uh
+B :  w we can leave that out , I think . So twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+A :  Mm .
+A :  Mm .
+C :  Oh in that case you can you always hook up with uh someone who is providing that and you know , you you sell their product as well as your product with them , you know .
+A :  Mm .
+A :  So try and get T_V_ manufacturers to
+D :  Yeah , but w w we want to design a new one . Mm .
+C :  Yeah . No , it's okay , yeah I understand . So we need some numbering buttons , some teletext things and then um
+D :  Yeah .
+D :  The Yeah , the main is browsing . Yeah .
+B :  Yes , but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+C :  Yeah .
+C :  Yeah .
+B :  Uh I would like to get this wrapped up and go to an end of this meeting .
+C :  Okay .
+B :  So
+C :  Okay , we are alread mm . Mm .
+D :  Okay .
+B :  So you know now the basic the basic things . And
+C :  Yeah .
+A :  Mm-hmm .
+B :  well just just for the next meeting , um
+B :  well , uh , you wor yes , work on a design , keep it general , I mean so w we will be still fle flexible with maybe adding some functions . So
+D :  Mm-hmm .
+B :  you will be working on on
+B :  technical function design , so
+C :  Yeah , sure .
+B :  And uh you and you and uh uh uh well , think about requirements , eh ? Does it need internet , or or do do we stay at
+A :  Mm-hmm .
+B :  basic basic television uh interface .
+C :  Stam .
+A :  Yeah .
+B :  So , uh
+B :  I think we should now all go work uh uh at this and uh you will be informed via email and other kind of communication .
+A :  Mm-hmm .
+A :  Yeah .
+C :  Okay .
+D :  Perfect .
+B :  So next meeting will be in uh in thirty minutes uh . K keep it in mind .

@@ -1,0 +1,691 @@
+A :  Forget every time that the
+B :  Oh dear , this doesn't stick at all .
+B :  What Rena . What , this bit or this b
+B :  Like this ?
+A :  Where did my oh , it's it's stuck here .
+D :  wanna go today .
+D :  Ooh .
+B :  I sabotaged it .
+A :  Yeah .
+A :  Okay . Keep an eye if I'm dropping this 'cause just seem ah , as I said , it doesn't seem very s Perhaps sweater , or maybe if I set it here on the this brand thing . Are they on , yeah . On .
+C :  Ooh , there you go . Doesn't wanna stay .
+B :  Yeah , mine doesn't stick today either .
+D :  Yeah , seems slippery .
+C :  Yeah .
+A :  Okay .
+D :  What day is it ?
+D :  Okay .
+B :  Who wants to write summary ?
+D :  Summary .
+A :  What ? Was that a answer ? . Well Okay . I was just about to
+D :  Um no . No , just the summary . No , that was just summary . No . Um no um okay .
+B :  Oh .
+B :  I'll do it .
+C :  No it won't .
+D :  Oh , write the sum okay , right .
+D :  Yeah , okay .
+B :  Um have you changed the the file yet ?
+D :  I did I was trying to I didn't have privileges to get in to update your file . I w I actually meant to I meant to send the email and then I was just c didn't get around to it .
+B :  Oh .
+B :  Yeah . Yeah , I forgot that actually .
+B :  Yeah . No , when we um when you said at the beginning I thought must check the read-write and then I never did it .
+D :  Yeah , I had yeah , 'cause I forget mine as well , and it's just like , you know , every time put something in there . Um so yeah , I was j yeah . That was the main thing , so um as soon as that's in it'll be right out . I was making a couple of little change as well . So so those will be able to play with . Still working on the um trying to get the topics and summary search implemented as well . So that's that's sorta tonight as well . So Um yeah . Other than that it's sorta coming along . Um getting a better feel for all these NITE objects .
+B :  No ? Alright .
+B :  Mm-hmm .
+B :  Mm g yeah . Uh .
+C :  Yeah . The fun and games . Yeah .
+D :  It's just I don't know , it seems a little chaos . I don't know , it's just it's um I don't know , it's it's like if you're gonna use this stuff later on in your life , then you t spend the time to invest and learn all about them , but it's like okay , wow . What's the minimum I can get away with that that will get me what we need . So it's like , I don't know , unless I wanna do something with this in the future
+B :  Yeah .
+B :  Yeah , yeah , exactly , yeah . Yeah .
+C :  Yeah . Yeah .
+B :  Make browsers for the rest of the night .
+A :  You could change your project . Do a P_H_D_ or uh yeah .
+C :  Seems unlikely .
+D :  Yeah , right . Yeah , mm . I don't know . Anyways , so um yeah , that's my bad .
+B :  There is a file in the directory called disful .
+B :  I ho what is it ?
+D :  I th
+C :  It's an Excel s S_X_ dot X_S_L_ .
+D :  I think I yeah . I I saw that and I'm just trying to remember if I did create it , 'cause I think I was 'cause I was trying some stuff uh a couple weeks ago , uh so that may be mine . Um
+A :  I haven't created it .
+C :  Doesn't st have anything in it , Oh , it does , it has about three lines of X_M_L_ that didn't do much , I think . Yeah . What's that ?
+D :  Oh really ? Okay .
+B :  Oh right . Yeah , that's right , yeah , yeah .
+D :  Oh yeah ? Okay okay . Yeah , 'cause I saw it again today and I was just won Was that me . Yeah , I think that was me , I think so . Um but yeah , I'll yeah that was that was and sure .
+B :  Oh right . Well
+B :  j do you want remo move that just n just for nicety .
+C :  It just seems to be occupied . The place is alright , doesn't matter really . There's plenty in there .
+D :  No . G
+D :  Give you false impressions of what's hap s something's going on .
+C :  I had lots of stuff in there yesterday that Did you see ? Loads of stuff . Oh no , they live there , but there's I had even more stuff there yesterday . I was unzipping all this kind of crazy huge things that were enormous . I needed them , they were for this though . It's alright , but uh
+D :  Yeah , I know it . Tons , tons . All those objects , yeah .
+A :  I I do
+B :  Yeah , yeah . And really .
+D :  Right . How's our quota on that ? What's what do actually do you know how much we have ? Yeah , okay . So we probably won't have to worry about that . Yeah . Yeah . Okay .
+B :  Oh it's huge , several gig I think .
+A :  Yeah . Shoulda run the I_L_ in that directory . Yeah .
+C :  Yeah , it's uh it's about yeah , it's so I think there's about eight gigs on there . So yeah , it's no problem . It's just much bigger than all of our home directories combined , isn't it ? .
+B :  Yeah , something like that , yeah .
+D :  Yeah , exac exactly .
+B : 
+D :  Um I don't know . How's everything else going ?
+A :  Sounds good .
+B :  Has anyone had time to to play with it ?
+C :  Yeah . I had a play with it um yesterday . Uh no , it was good really . Yeah , I liked it . Um
+A :  Oh .
+A :  .
+B :  Any comments ?
+C :  it uh generated a lot of exceptions in the background . But they didn't cause any problems , but it just
+D :  Oh , yeah . Actually
+B :  Um
+D :  Do we wanna keep that ? Like are we keeping that how that happens ? It just prints everything out in the in the shell as well , like as it does everything , it just kinda I guess that's its default behaviour anyway . So it's just kinda doesn't really do anything . So , okay .
+B :  Oh right .
+B :  Might as well , yeah . I mean yeah . The thing is that , yeah , there is as I said a while ago , there is still this one error which is a bug in in N_X_T_ um that r r always generates these . I think when you when you left-click or right-click or something , I can't remember now .
+D :  Oh , right .
+D :  Yeah .
+B :  Um but if it's a real error , then it it stops , so you can't do any any more . Good . Good . Good .
+C :  Uh yeah , I didn't discover any of those , yeah . I did have a look . I prodded it to see if it'd break , but it didn't break too m I didn't play that long , but um it seemed alright really , yeah . And it the the th the start-up's great , looks quite good , looks alright . And so yeah , yeah .
+A :  It's good thing . Yeah . .
+D :  'Kay . Right .
+D :  Yeah .
+B :  Yeah .
+D :  Yeah . I was more or less just playing with the things that had to do directly with what I was doing , so I didn't didn't take it for a full test drive yet . But uh I can do that . That's well , right after this , yeah .
+B :  Okay .
+B :  Yeah , be good . Is there any any comments you have about just like wording and or some sort of minor things ?
+A :  Yeah . I'll do it .
+C :  No , looked alright . The only the only thing is the it's not the start-up screen is not too pretty . But uh the the s It doesn't matter too much .
+B :  Hmm .
+D :  A lot of this Java stuff isn't though .
+B :  Yeah , I know . At the moment as well the whole windows that pop up are not pretty at all . But um , you know , I would make them a bit nice if I had more time , but at the moment it doesn't look like that . So I will if
+D :  Mm-hmm .
+C :  No , it's not it's not it's not a um it's not the top priority , is it .
+D :  If you if you ch if you change your window manager , it might look a little bit nicer . Just yeah . Oh yeah ? Okay , right .
+C :  Yeah . I think it'd look better on Windows as well actually . 'Cause um it Java uses the native Windows , doesn't it ? So
+D :  Yeah .
+C :  Yeah .
+D :  Yeah . Actually can we run it on Windows .
+C :  But we don't
+A :  Hey Zoe .
+C :  No .
+B :  But that took me so long to do this bloody start window . Nasty . So I'm quite glad that it looks , you know , ni nice on one or this kind of thing .
+C :  Do they ? Yeah .
+D :  Oh yeah ? Okay .
+D :  Were you using like a GUI builder or just all from code ?
+B :  No , this is just yeah .
+D :  Okay , and that's
+C :  .
+D :  That's nasty .
+C :  Well the um the um speaker characterisation is finished .
+D :  Oh yeah ? Wow . Okay .
+B :  Alright .
+C :  I haven't done it , I haven't updated all those object files though 'cause it takes ages on these computers . So I do it it's faster for some bizarre reason if I log in at home and then run the code . It runs it much faster than if I do it here . But
+A :  It's good .
+B :  That's odd , yeah .
+D :  Hmm .
+C :  But that's why I just can't to sit in the lab and wait half an hour or whatever it takes
+D :  Well well can you can you connect to your home machine from here and then start it from there ? Just yeah . I don't know . I've done stuff like that before , it's insane , it's insane . Yeah . Yeah . Yeah .
+C :  Yeah . No , I tried that , but l yeah . It'll really speed it up . Yeah . Yeah .
+B :  Try that a few times . Yeah , I started I started using your um um the speak I don't know if you've seen that in the yeah .
+C :  I saw that , yeah . I saw that it it doe it's tells tells you what speakers uh are in which meeting and then you can see which topics which topics yeah , something like that , yeah .
+B :  Yeah yeah yeah . But it's good , your your stuff is really coo good . It's got a good interface and easy to use . It's nice .
+C :  Yeah . The um th the dialogue acts are all done , and they're quite amusing some of them . But there's some of them some of th the thing actually what I wanted to talk about dialogue acts was um there are some that occur all the time that I just and I don't know how interesting there are . So the fir one statement is that it will b I'd removed it 'cause w it was like everything is prefixed by statement . Every single dialogue act starts with statement and um so everybody's top statement . So it
+D :  Mm .
+B :  Right .
+D :  Right .
+B :  Well wouldn't won't we include that then ? Yeah .
+A :  Who ?
+C :  So I got rid of that . And then everybody the next one seems to mostly be back-channel . Well I don't know what that means . Who knows what back-channel .
+D :  What was it ?
+A :  What ?
+B :  It's when they say mm , uh-huh , yeah .
+C :  Is that what that means ? Oh , keep that then . Um and then the others are quite
+B :  Yeah .
+A :  Okay .
+B :  I don't know if that's very useful , because everyone does it . It's very
+D :  Well , it's kinda boring , yeah . Exactly .
+C :  Yeah . Some people don't though . There are some people who don't do that . Actually yeah , you can see that they don't do that and it's the bottom of their list . Yeah . I know . Some people have and acknowledgement is a big one that comes up all the time , yes no questions . Um uh what else comes up ?
+B :  Really ?
+D :  Hmm .
+B :  They're asleep , I think .
+A :  It's just very quiet .
+D :  Right .
+B :  So which you know , suggest maybe you can suggest a few that which which would be interesting to list . Like three or four or something .
+C :  Yeah . But that's the thing and so I wanted to know whether or not we 'cause at the moment you can get there's a method that will just give you the top five for or the top X_ . You give it any number and it will give you the top whatever for each person . And then each meeting knows about all the different dialogue acts for each person in the meeting , and the amount that that occurred , and will give you that in top order as well , or will give you or you can just search for each specific dialogue act . Do you have to search on in B_s and K_s rather than real words right at the moment . But I can change that . Um so I don't know what we want to display . That's what I m That's what I'm asking you really .
+B :  Mm-hmm .
+D :  Oh yeah , cool .
+B :  Very nice .
+B :  Mm-hmm .
+D :  Okay , right . Or I don't know , if we have like uh a choice , so they can filter those out f the the top most common , just say okay all show all or show , you know , only the im interesting ones .
+C :  All's a lot , all's like twenty five
+D :  Yeah .
+B :  But
+C :  Dialogue acts per b
+B :  I mean do we do we care if , you know why not w I think , you know , it'd be it'd be difficult
+D :  Yeah . I don't know , yeah , it doesn't really matter . Well , if we just automatically filter these out .
+B :  But it would be difficult if , you know , if in the um speaker characterisation window we had a heading , you know , top five dialogue acts . And then then the little brackets , but they're not actually the top five , but top five minus the most common ones , which are , you know
+C :  Yeah . I think we should have the global top five that cause it each speaker's got top a top whatever , and so just say one of the boxes just explains does this is my top five dialogue acts for the speaker , and then in the meeting you have what you could either have the most commonly occurring ones or you could have a list of each speaker's top dialogue acts .
+D :  They're boring . .
+B :  Because
+B :  For the speaker . Yeah .
+C :  Either of those would do you . But it would start take a lot of space if you have it
+B :  No , I wouldn't yeah .
+C :  Or you could have no , you don't need that . So you s 'cause it's 'cause it's a speaker window , the speaker characterisation window comes up . So you've got the global one there , and then here you can just have the top five in this meeting . And then then the top five in that meet in global , the top five this meeting , and then the rest is r obvious , isn't it . Yeah .
+B :  Exactly , yeah .
+B :  Yep . Yeah .
+D :  Mm .
+B :  Yeah yeah , yeah . Yeah .
+D :  Right .
+D :  Yeah .
+B :  Yeah , just do top five , both local and global , and then have another
+B :  Um but then we want a selection of three or four maybe interesting ones , and then
+C :  That occur .
+C :  But you th some often the interesting ones don't occur , things like joke don't occur very often . Well they do sometimes , but they're not that common . One guy has top five joke . One of them is joke . He's an undergrad . That's quite funny . Yeah . Yeah , it's interesting , isn't it ? Yeah . He's the joker .
+A :  Oh .
+B :  You followed all this up .
+D :  Okay . Actually yeah . This is good for browsing though . It's perfect . I mean that's sorta exactly what you wanna do and look at these things . And so Yeah , who's doing what .
+A :  Yeah .
+B :  Yeah , see , and that's what speaker characterisation gives you .
+D :  Exactly . It's fun .
+C :  Yeah .
+A :  It's like I'm only interested in this guy , 'cause he seems to be funny . So what is it .
+B :  Who's the one who dr
+C :  Yeah , exactly . Yeah . That'd be quite good , wouldn't it ?
+D :  Right . Yeah . Let's take 'em to the next joke . Yeah .
+B :  Yeah .
+B :  Yeah . Um so is is this percentage then um if you say like um joke for this speaker is percentage , I don't know , twenty , is that the ho what percentage of his speech is joke , or w how what percentage of the jokes
+C :  Yeah .
+C :  What percentage of the dialogue acts that he makes are jokes , in the meeting and globally separately , so once globally . Yeah .
+B :  Are jokes . Yeah . Yeah .
+B :  Okay .
+C :  Um I think most things are coded with a dialogue act . A lot of them are coded with Z_ , which means no label . So I just ignored that as well . 'Cause that's boring .
+B :  Yeah .
+C :  And statement , which is boring . And also the other thing that they have is um if somebody quotes something , so if I quote a joke to you they separate that . So they put they put the the dialogue act and then they put a double a colon and they put that aside . Just ignored anyth any quoted material , 'cause it's got nothing to do with I just scrapped it . Yeah yeah yeah , somebody else's joke . So yeah , you have to be original about your material . Otherwise we don't credit it to you .
+D :  Hmm . Right , okay . Yeah . Well it's not a real joke anyways .
+B :  Yeah .
+B :  Yeah . Yeah , I mean just keep it simple as
+D :  .
+D :  Yeah .
+C :  Yeah . Yeah .
+B :  Um
+D :  Okay , that sounds real so that's sort of implemented now or is that or is it close ? Wow . Super . Okay . Like to test that .
+C :  Yeah , that's all done , yeah . All done , yeah .
+C :  Um yeah , I just have to I'll just finish there might be some polishing . I can't remember . But I think it's pretty much complete done . So I'll do that tonight . Just put it up there . So you can us start using that whenever .
+D :  Mm . Actually
+D :  Yeah . And when I update my N_L_ , just uh recompile the M_ browsers and then just uh get that . Yeah . Well , so it'll use as my part as well , my um the M_ search . It w actually do we have like naming convention for s our sorts files ? Just prefix 'em with an M_ and Or
+B :  You will , yeah .
+B :  Yeah .
+B :  Sounds good .
+B :  Yeah , I was thinking that um it sort of turned out that way a bit , didn't it ?
+D :  Yeah . Yeah . Well that's sorta what I was doing . It Like for your stuff do you have no .
+C :  No , I just well it's called meeting and speaker . Well , I can judge it if you want .
+D :  Oh okay , alright .
+D :  It doesn't really ma no , it doesn't matter at this point . No , I was just kinda curious . I'm thinking about future stuff maybe , if
+B :  I don't know . Does it matter ?
+C :  Yeah .
+B :  Oh , I was
+C :  We could put it in a sep in a p package .
+D :  Yeah , that's true too .
+C :  If you can be bothered .
+D :  Yeah , yeah , doesn't matter .
+C :  Well it doesn't seem to make any differ I've never ever used Java packages . Doesn't even make any difference . As long as in the same directory it works . So sod it . Right .
+D :  Yeah , exactly . 'Cause
+D :  Yeah .
+B :  Mm .
+D :  Okay .
+B :  I have one one m one little question that I reckon we should have a little icon for our browser .
+C :  Well then you can double-click on and it oh , oh . No .
+B :  Well no , the thing is um in , yeah , in the the top left . At the moment they've got an X_ , which is , you know , N_X_T_ and it's sort of a bit cheeky to use that . So
+A :  Like instead of the
+D :  Oh yeah . Yeah .
+C :  Yeah , it will have something else . Just borrow a little Microsoft GIF like that .
+D :  Hmm .
+D :  Mm yeah right .
+B :  No , we want something original . What do you suggest ? We could the only thing I could think of was an M_ . But
+C : 
+A :  Oh .
+D :  Yeah , I know , yeah . Same here .
+C :  M_B_ .
+A :  We have the g big yellow one maybe . No Huh ? Yeah . Yeah , that would be good . Ah no .
+C :  Where have I seen that before .
+B :  We'd be sued for that , I think .
+D :  Oh right .
+D :  Super-size meeting browser . . Well , it's . I don't know .
+C :  Yeah .
+B :  Yeah .
+D :  Um
+D :  Just probably basic just text font , and just something nice , something solid maybe . Be a good
+B :  Yeah um
+C :  Yeah , anything you like , yeah .
+B :  I mean it's tiny , so we can't really put more than one character really or one sort of simple GIF .
+D :  Yeah , exactly .
+D :  I know . Anybody have any um artistic talent ? No ? No ? Ok
+B :  No . Well , I can dr
+C :  Do you think we'd be doing uh M_S_C_s in Informatics if we did ? Some people do , yeah . Yeah .
+A :  Oh .
+D :  Yeah . Oh it's possib some people are balanced . Some people are No , I know some balanced people . no . Maybe I'll check see if I can find anyone . Um
+B :  Yeah .
+B :  Well if you find anything , then send it to me .
+D :  Okay .
+B :  Otherwise I'll I'll make up some M_ .
+D :  How do you s add that to the to the Java programme ? Is it just basic little Okay . Uh-huh , yeah .
+B :  I'm not sure actually . I'm thinking yeah .
+C :  That's really easy . You do it in um one of the w whatever the main is it you set w GIF or some Set f set set picture or something . It's really simple .
+D :  Oh .
+B :  Yeah , yeah yeah , I I know yeah , I know how to how to put it there . But I'll have to import it somehow . I'm not quite sure . But
+D :  So just in the main frame . Okay . Okay , right .
+D :  Right , okay .
+C :  Yeah , I think you just give it a file-name and it tells it it knows
+B :  Yeah , yeah , probably .
+D :  Oh , so it'll do the automatic scrunching down if it's bigger ? Oh cool . Nice . Super .
+C :  Yeah , yeah , it just sticks it in the corner . Yeah , yeah . Yeah .
+A :  Yeah .
+A :  We have to remember to include that in our evaluation , how they did the GIF improve your browsing experie
+B :  Yes .
+D :  They know it's a distincting di distinctive experience , I guess . Yeah .
+C :  Yeah .
+A :  Sorry .
+B :  Oh yes .
+C :  It could even have some sound when it comes on . It go welcome to the meeting browser . No , that's problem . Have to do it in the
+B :  No . No uh
+D :  Can we g
+D :  Can we get sound on these machines ? Yeah . I wish Actually have you ever managed N oh yeah , you must have , yeah , got play any sort of music on the DICE machines ? Right , okay .
+C :  Not no , but I think if you put headphones in , it will just play just normally .
+D :  Oh right right . They have them on the front too , I think . Yeah .
+B :  If
+B :  if the sound-card is registered to your name , which it usually is not , and you have to re-boot , and sometimes it still doesn't work , then yeah .
+D :  Mm . Okay , right .
+C :  Yeah . Yeah .
+D :  Right .
+C :  Sometimes it works , yeah .
+A :  I guess that's why we have a separate speech lab . Yeah . Yeah , um
+D :  Damn .
+C :  Yeah .
+D :  Yes . Yeah . Get a lot of audio . No . Okay . Um okay , well this this looks good .
+A :  'Kay . Yeah . Yeah .
+A :  I ran in some troubles with the indexing , but uh f found another package I instead of writing it from um the scratch , 'cause it well , I don't know um just now , but I haven't played around it that much . But
+B :  Um
+D :  .
+A :  We'll see what happens in the next few days .
+D :  Yeah .
+D :  Are we gonna be uh trying to get the output from that and I don't know , still haven't found out if it's um
+D :  feasible to open up more than one well , as many mm NOM objects as we can for each meeting to do like we were gonna need like figure that the ranking did make sense , like to be looking through the highest ranked ones first . So if we are gonna look through only five of them , just pick the top five to to do the the search and Since that's probably what we're looking for anyways . So
+A :  Yeah we'll think about that .
+B :  Mm-hmm .
+A :  I can send you right now . Like
+D :  Yeah .
+A :  Um
+C :  I still can't make it run T_N_T_ from Java . Yeah , you try it . If you can make it work , then I'll be well chuffed .
+A :  C_ .
+D :  Are you serious ? Maybe I'll try . Yeah ? Okay . S Yeah , I'd That'd be a surprise 'cause I'm bad at Java . Yes . Um
+A :  Yeah .
+A :  Yeah . I didn't expect this course to be so much about Java . But uh feels like it's it's a Java course more than anything else . It's just like
+D :  Yeah , seriously .
+B :  .
+C :  It's a Java course .
+B :  Yeah .
+D :  Mm yeah . Practical Java .
+B :  In fact it's a N_X_T_ package .
+A :  Yeah .
+D :  Yeah . How do you guys find the documentation for N_X_T_ and
+C :  Course , yeah .
+A :  .
+C :  Right .
+B :  Yeah .
+D :  Yeah , okay , good . That's my belief as well .
+B :  I mean sometimes they have methods that don't have any explanation to them at all . So you just like right , I'll try this then and see what it gives me .
+D :  Yeah .
+C :  Yeah , I think it was
+C :  So what does . Yeah . And it uh it's was apparently generated by going to d generate JavaDoc and it just went Spat it all out and they never bothered to uh d comment anything .
+D :  Yeah . Yeah .
+D :  Yeah , exactly . Well it's still I guess research platform . Uh
+C :  Yeah . At least get to know what methods are there . So without having to look at the source codes . Yeah , yeah .
+D :  Yeah .
+D :  Yeah , that's true . Okay . I was just curious . Well
+C :  What ?
+B :  Hmm .
+C :  Yes , that's it right here .
+A :  So
+D :  So c did we have a date for when we actually want the system done ? I thought I thought we said th I thought we ch yeah , I thought we change it to the tenth or something . Um 'cause the thing is I mean we can keep working on little things f you know and sh Oh , well we should do this or do this . Should we Um
+B :  Friday ?
+C :  Today , wasn't it ? It's the eighth .
+A :  We change it to Friday . Yeah .
+B :  I thought it was Friday .
+C :  Okay .
+A :  I guess that's not
+D :  so I don't know , do we want to set an actual hard deadline for like did when exactly were we gonna start the evaluation ?
+B :  Yeah , I think we both should , yeah .
+B :  Well that's the problem , because Steve hasn't given us any details , has he ?
+D :  Mm 'kay . Well we yeah , I guess well we can still come up with like test cases or whatever for for the people and just yeah , come up with scenarios , that sort of thing . I mean that's that's fairly straight-forward . And could actually be fun . Yeah , exactly . That's true , just brain-storm , yeah . Yeah .
+B :  That's true .
+B :  I I'm sure we could do that in like a meeting
+B :  and make it up together . Yeah .
+D :  .
+B :  the thing is yeah , we had the the deadline last Friday , but we won't be able to do any evaluation during the weekend anyway , so I think we could set Monday .
+A :  Yeah .
+A :  No . So we
+D :  Yeah , that's true , yeah .
+A :  Yeah , that would be more reasonable . 'Cause the I_L_ is Friday .
+D :  Yeah .
+D :  Right .
+B :  And that would give us the whole weekend .
+D :  To work on it as well . Yeah . . No , I've I've got my D_N_L_G_ presentation on Monday . I have to read the paper . Yeah .
+A :  What ? Oh yeah , you have your presenta Right , whatever . It's too much now . Well but yeah , Monday
+D :  Mm-hmm .
+A :  we'll try and do Monday . Um I mean we could
+D :  Yeah , I think so .
+A :  Should we meet up Monday ?
+A :  Or
+D :  We'll probably have to talk to Steve at some point as well I guess . But um
+A :  Should we
+A :  Yeah .
+A :  Just sh like w
+D :  I'll probably just have a regular Tuesday meeting with him . Like we can send him an email , but I don't know if he's around even . He's not around this week , is he or that's why I think that's why we didn't have the the meeting .
+A :  Yeah . Just
+B :  I don't know . I think it was .
+C :  Don't know . Maybe it's just a day , I don't know .
+B :  Yeah .
+D :  Yeah , 'kay .
+A :  Yeah .
+C :  Send him an email . He'll probably re-do it anyway . So
+D :  Yeah , it's true . Although do we really want the answer . S s So if we don't ask we can push it off and
+A :  Okay .
+A :  Okay . Yeah .
+B :  Yeah . Exactly , yeah . At the end we'll say , yeah but you never gave us any test subjects .
+A :  Yeah .
+D :  Yeah .
+C :  Yeah w
+A :  Well so he's supposed to give us test subject . Did he say that or what ?
+B :  Well sort of , that's how I understood it . He would he would make something up . Ha yeah , find some people , that's how I understood it . Um the thing is , you know
+C :  He said he might he would try .
+A :  Okay .
+D :  Yeah . Yeah . Yeah , that's
+C :  Yeah .
+A :  'Cause we're gonna get an email on our uh M_S_C_ list saying from Steve , we need volunt yeah .
+D :  You're right , yeah . We're looking for volunteers .
+B :  Yes . Um I think if we if we don't get anything from him , then we should just do our friends basically .
+D :  Yeah .
+A :  Yeah .
+D :  Yeah , if they have time . It's hard finding people .
+A :  Well th they gonna u need us . They're gonna need us for like perception projects and things like that . So yeah . We need to use each other for those
+C :  Hmm .
+B :  Well they're your friends , so they should
+D :  Yeah yeah I know , but
+D :  Yeah . Yeah , that's true . Yeah , that's true . Yeah . Yeah .
+B :  But it's not gonna take long . It's only only gonna be half an hour maybe .
+B :  Um
+D :  Yeah . Actually some other friends of mine in different programmes might might be more willing . Have more of a break . So that might be an idea , get a range of types of people as well . Like not like highly computer lit like not , you know , Linux literate or yeah . I think that might be good , as well . Set a wider range of people .
+A :  Yeah , that's true .
+B :  Maybe , yeah . Well it will be . Yeah . It'll have to be , yeah .
+B :  Hmm .
+B :  So
+C :  So how many people do we uh try and 'cause it
+D :  Uh no , I think like three or four maybe . Bet that would be a good yeah , I think that d No , that's that's a lot . No . Yeah , exactly . Like the thing like did an H_C_I_ course a while ago and it's just that's what these yeah , there's three people . Yeah . And that was fine . Then you can do a massive amount of analysis on three people . Yeah . Yeah . Oh yeah . S We don't want to .
+C :  Yeah . Yeah , yeah .
+B :  Really ? I was thinking of like ten . Fifteen .
+C :  No , it'll take forever , and then you gotta analyse the results . No no no no no , forget it .
+B :  Uh
+B :  Really ?
+B :  Really ?
+A :  Yeah .
+B :  How can you get a range of people if you have three ?
+C :  Yeah , but one computer scientist one l and one dude off the street .
+A :  Yeah . Yeah . Yeah , yeah . And then one's supposed to be a woman . And one's supposed be a man . And one , I don't know . Oh yeah .
+B :  One art student .
+D :  Yeah , exact exact Mm visible minorities . yeah . Three or four . Oh God . Um but yeah , if he finds them , then that's cool . If he finds the people . M um
+B :  Yeah .
+B :  Yeah . And hen we should just have two . Yeah . Oh dear . Um
+C :  Yeah , one man , one woman , yeah .
+A :  Yeah , okay .
+C :  Yeah .
+B :  Another thing , um , we have the we have the um the presentation on like in one and a half weeks or something , whatever it is . Or nearly two weeks .
+A :  Should we just yeah .
+D :  Oh , writing up .
+A :  Yeah .
+D :  Looks brilliant .
+A :  Yeah , it's Tuesday the twenty second .
+C :  Two weeks . Two two two weeks today .
+B :  Oh is Tu yeah , it is two weeks then . Do we have to have done the evaluation by then ?
+A :  Yeah .
+D :  Okay .
+C :  Yeah .
+A :  I think so .
+D :  Um I thought the evaluation maybe for the report . So th and that's due on the twenty fifth . Twenty fifth is is it ? I is it ? That's what I understood .
+A :  Well uh
+C :  When's the report hand-in ? Is oh right , is that th is that the Friday ?
+A :  What ? Oh , it's a Thursday . Yeah . So it's not the yeah .
+B :  It's the Thursday . No , the Thursday , I think . I think it's the Thursday .
+C :  The twenty fourth then .
+D :  I thought it said twen I thought he said twenty fifth . Even though it's Good Friday , I thought okay . Yeah . Oh yeah . Easter two days yeah . No . Well it wasn't originally either . So Um Yeah , okay . Okay . So that gives us two days to do the uh evaluation . No evaluation I was gonna say . And report .
+C :  Yeah .
+A :  It's not a good Friday if if that's
+B :  Is that Good Friday already ?
+C :  Yeah yeah , that's Good Friday .
+B :  Wow .
+A :  It's not a good Friday if it's a deadline .
+C :  Yeah .
+B :  No .
+B :  Well it I'm sure on the web-site it says Thursday . Hmm .
+A :  No .
+A :  Can have a look .
+A :  The report , yeah . No , okay . Oh . No , we p
+B :  Well , you know , the the question is , i do we need the evaluation for the presentation .
+D :  I didn't think so necessarily . I wouldn't I wouldn't assume . But we should ask him .
+B :  We should definitely ask him . Because if not , then
+A :  I thought we would .
+C :  Mm . oh we should have it we should try and have at it done by then anyway , I think . Otherwise it will start to getting b bit tight otherwise .
+D :  Yeah , that's probably c Like , it's a good target . It's a good Yeah .
+A :  Oh .
+B :  Yeah , you might be right .
+C :  We should aim to be finished by Monday , this Monday coming . A week no yeah well , basically for Tuesday . Start the evaluation t pretty much straight-away and then get
+D :  Mm , right .
+C :  Get s yeah , and then get um
+B :  Because we need to write a presentation as well .
+C :  We have to write the report , yeah , and everything . We have to write everything .
+D :  Yeah .
+D :  Actually it's fun No . No , it's it just funny that , you know , have it finish by Monday . 'Cause after Monday I'm pretty much free for about a week or so . It's like it's like if we had , you know , a bit more time . Yeah .
+B :  Exactly , me too . That's the point .
+C :  Yeah .
+B :  Yeah . Yeah . Well , I'm not free after this Monday , but I'm free at like after the eighteenth .
+D :  Okay .
+D :  Oh the next one , okay . See , I'm yeah I'm free this after this Monday , and it's well , why ? What else uh that's that's easy compared to the other stuff . I mean I'm not even worried about that . Yeah . Yeah , okay . Yeah , okay .
+A :  Yeah . Oh we have three ? S_P_ two .
+C :  S_P_ two .
+B :  Because because I don't have anything after the eighteenth apart from this .
+A :  Aren't you ?
+A :  Oh yeah .
+C :  And you must have your research proposal . Is that in on the eighteenth ? Shit . I've not done at all , yeah .
+D :  Oh .
+B :  Well that's in on the eighteenth . Mm-hmm .
+D :  You didn't know that ? Oh yeah . How's yours ?
+A :  Oh yeah .
+D :  Thank God .
+B :  Ooh .
+B :  So um
+A :  In our uh timeline we r put in twenty fifth and that's the Friday I think .
+D :  Okay . Maybe that was us then , not him . No actually I might have this stuff here .
+A :  Yeah . I'm just that's why I'm trying to find his his dates . Whatever .
+D :  Schedule . Yeah , Thursday twenty fourth .
+A :  We're planning on having a big party on the twenty fourth . So
+D :  Deadline for submission of final report .
+D :  Oh . Well now you can . Yeah .
+A :  End of lectures .
+B :  So
+D :  So twenty fourth so it we sh
+B :  Anyone fancy writing him an email ?
+A :  Oh , it's actually twenty fourth .
+D :  Yep . Um just to ask whether we need to have the evaluation done for the demonstration ? Or
+B :  That , yep . And
+D :  We should have it done anyways . But okay , yeah . Sure .
+D :  Hopefully , but yeah . Is is that is that a part of the demonstration , did they want that information , the evaluation as part of yep .
+B :  But it's still important to know . So we would def
+B :  Yeah , yeah yeah . I mean we need to know that anyway to prepare the presentation in the first place . And um
+D :  Right .
+B :  What was the other one .
+B :  Basically , how is how is it going with your evaluation proposal . Have you got people yet for us , or what are you thinking , and when ?
+A :  Yeah .
+D :  Oh right .
+A :  Did he say anything about like h what he expects of the final report and stuff ? Like length or
+B :  No .
+D :  Um there are a f a few little things . Um just made some comments the last meeting . Just general , like how it all integrates , blah blah blah , all this kind of stuff . But yeah .
+B :  Do we know did he ever say how long it was supposed to be ?
+A :  Only
+D :  No . I'd expect somewhere ten to fifteen pages .
+B :  Mm it's gonna be a lot .
+A :  I mean how long we're this
+D :  Although it's fifty percent of the mark I think , is it ? I think .
+A :  One , two
+B :  But we can write a lot . I mean I think we should we should write everything .
+D :  yeah .
+D :  Exactly . Well we have a bit of time to do the writing up .
+A :  Yeah . 'Cause this I mean We have interim report of seven pages , and that's we can y yeah . We could p probably just expand that .
+D :  So that'll be good .
+B :  Seven pages ? Oh .
+A :  I mean 'cause it I mean a lot of it's gonna be the same thing .
+D :  Yeah . Just a fine-tuned or detailed and yeah .
+B :  True .
+A :  Yeah . And then I mean write about the evala evaluation and stuff . That's gonna be quite a few pages . But
+D :  More stuff .
+B :  Yeah , we can n
+D :  Yeah , that could be yeah , that could easily be five or six pages .
+A :  So I don't think
+B :  Yeah , should be good .
+A :  page is gonna be problem .
+D :  Okay .
+A :  But uh
+B :  So do you wanna write him an email then ? That'd be good .
+D :  Sure .
+B :  Um
+B :  And uh when I get home today , which will be before
+B :  before half past six , I will make that file readable , writable , everything .
+D :  Oh yeah , sure . Yeah , no no big rush .
+B :  Uh-uh . Well I I will
+D :  Although just to get it out of the way . So I'll try and remember to do that to my own s
+B :  Well I will I will need your snippets of code or it'd be good if I had them by tomorrow evening .
+D :  Yeah .
+D :  Yeah .
+D :  Yep .
+B :  Oh , I was gonna ask um
+B :  at the moment your search window ,
+B :  how is it organised ?
+D :  Just basic um pretty much like the interim do you wanna do you have the interim stuff ? Just um sorta like Google type thing and just um Oh .
+B :  But at the beginning , it when you haven't searched yet , is it is it just is it still divided into two and the bottom half is just just empty ? Okay .
+D :  Yeah . Yeah .
+D :  Then as these come up it'll just pop 'em in there .
+B :  And then if you , I don't know , double-click on one
+D :  It doesn't do anything yet . S like that's that's the other big part . I mean how to get that that communication between the two different kinds of windows .
+B :  Okay .
+B :  Yeah .
+D :  Because the thing is if we have different things in here , like transcripts versus summaries versus topics , um that was why it was sorta deciding to get the three panes in there instead of just the one . Um
+B :  Yeah yeah yeah .
+B :  Hmm .
+D :  Yeah , so so there's a couple of those little things as we Yeah , exact It's beautiful . Yeah , m M_ makes more sense .
+B :  Well y y this this is the icon by the way .
+C :  Hmm .
+B :  Um , yeah , maybe you wanna do um left-handed um yeah , one left-click um highlights the the result in whatever you've got open .
+D :  Okay . Is that how it works in the other ones ? In like the other windows like the various like um if we're in the topic . Or
+B :  Which other ones ?
+B :  Um yeah . Usually one left click , it's highlights it cross-highlights everything , I think . Yeah .
+D :  If you have like a particular w window that you want me to mimic its behaviour , then like just find it in the programme and just say , okay , just how this one does it . So if it's like the topic window or the whatever .
+B :  Mm well it's difficult , because
+D :  So then I can just sorta trace back and figure out what objects they are and bring 'em into here . So
+B :  Well you could look up
+B :  Mm no , that's difficult . Because it the transcription window does cross-highlighting .
+B :  In a very awkward way , because it has to find the topic first . That was that was a pain .
+D :  Hmm .
+D :  Okay .
+B :  And um when you when you g um right-click on a topic , it pops open the list of meetings that contain that pop po topic . And um and that works when you when you left-double-click on a topic oh , on a meeting , sorry , then it loads it .
+D :  Okay .
+B :  So you could
+B :  you could take that for loading .
+D :  Right .
+B :  So if we have that um the same on this one , at least that you if you double-left-lick , then it loads .
+D :  Okay .
+A :  Mm .
+B :  Mm .
+D :  So one left click just highlights Is that ?
+B :  Highlights um yeah . I mean a hi obviously highlights whatever you've clicked on here , but also highlights um
+D :  Oh just the item in
+D :  The transcript or whatever it is .
+B :  Actually it's difficult , because
+D :  The
+A :  Can I have it ?
+D :  If even if we could just
+B :  Because you n you don't you only ever have one meeting open and those results will be op I well I suppose if you have a if you have a local search , then it could cross-highlight .
+A :  Well , the one meeting .
+D :  Yeah . That should be possible .
+B :  Because you know , if you get back several different meetings here and you've only got one meeting open , then you can't cross out anything .
+D :  Right .
+D :  Oh yeah .
+D :  Although , yeah , this this will uh this is actually different from how we print it up here . Like if we're doing a global search , then we are gonna do it like how we said before and pop up a list of the various meetings that found those terms . And then we'll either , you know , multi-select or , you know , choose the one we wanna actually do this wi I think multi-select would make the most sense . Well just um if there's like three of the top meetings , like like we said before , language , we're looking for the l word language and get the highest-rated ones . To actually look for the terms we're not loading it on a val of seventy six I mean or seventy five , whatever it is . Um so the r the results from that will , you know , narrow down what we're gonna use for the local search . Then we'll just do the local search on those ones that are chosen . And if we can yeah . So it it will be a bit different from from how that is right now when when we do the global search at least . Yep .
+B :  Okay .
+B :  What do you mean by multi-select ?
+B :  Mm-hmm . Oh , okay .
+B :  Oh , I see what you mean , yeah . Okay .
+B :  Well i i i in any case , if you left-click on on a result that is contained in the meeting that is currently open , then it should cross-highlight . If not , it can't . So
+D :  Yes , yes . Exactly , yep .
+A :  Um it should be fairly simple to just get the topics and the summaries fro using that text extractor thingy you wrote , Ray .
+D :  Okay .
+C :  Yeah , you have to start again . It's just do topics instead of seg yeah , you have to get the topics out instead of the segments . Uh yeah .
+A :  You just like or
+A :  Yeah .
+A :  Excuse me . I just realised I haven't done that part yet .
+D :  Hmm .
+B :  Can you make
+B :  Is it d very difficult to make another another GUI , but only for a global search ?
+D :  Um so that we search two different
+B :  Just just take that away , the the local check-box . Because um hmm ?
+D :  Right . Yeah . That's actually fairly
+A :  To have for the start-up . Oh . To have for the start-up . Uh-huh .
+B :  Yeah , because in the start-up screen you can't have a
+D :  You know , local anyways , yeah . No , that's easy . Sure , yep . That's that's quite t straight-forward .
+B :  Yeah , would you make that ? That'd be really handy . Everything else can just stay the same , you know . In fact you can just leave everything as it is and just remove the check-box .
+D :  Yeah .
+D :  Mm-hmm .
+B :  Radio button .
+D :  Yeah .
+C :  To you're gonna be able to do a global search for topics ?
+A :  Yeah g uh that was li like yeah , if I'll make a just index
+C :  Is that what you mean , yeah ? Yeah . Okay . Yeah , yeah . Okay . Yeah , I didn't think you'd bother with that , but yeah , cool . I didn't think we're gonna bother with that . But yeah . Yeah , it does , isn't it . Yeah .
+D :  Yeah . Exactly .
+A :  What ?
+D :  Well it it kinda makes sense . It would be kinda cool
+A :  Well I I mean I I'm f it's not first priority maybe , but don't know . But uh
+D :  Actually , are we bothering with our topic stuff still ? Or is that sorta gone like our own topic segment . Like since we can't do the labelling and all the rest . We are still doing our topic segment ? Well you are you are , I guess .
+C :  Yeah .
+C :  What ? With
+C :  Well we'll certainly do it enough to make it so we can do some numerical analysis on the Yeah , but at at the very least .
+D :  Okay . But we're not gonna be we won't be l doing a global search on the topics for our topics , since they don't have labels . Probably ? Okay . La label all the label ones I'll open 'em . Yeah , all the label twos , yeah . I don't know . Okay . Mm .
+B :  Mm .
+C :  No . Exactly . Yeah . Uh yeah . No , we won't be doing that . Well yeah , even if even if I happen to manage to make it decent keywords , I don't think we can expect you to also come up with the search thing for it as well . So
+A :  Yeah .
+D :  Yeah , okay . Yeah , okay . Well no , it will be kind of straight-forward . Like if you're creating if you're creating X_M_L_ files of this
+C :  Would , yeah . But if I collate yeah . Yeah , if I create X_M_L_ files , but if I m I'm not gonna do that . Um I did have a look at trying to create X_M_L_ files . It did look like a quite a a mission really . I suppose it's not it's it's as straightforward as writing in X_M_L_ files . But it's but it's organising the segment data though . It would just looks so complicated to get it from
+D :  Yeah .
+C :  the um from a plain text file back into organise it by who which speaker speaks what and how n doing the segment I think that was the stupidest way they could ever have organised the whole thing if you ask me . But Organise it by time not by speaker . But yeah . But
+A :  Yeah .
+D :  Hmm .
+D :  Hmm .
+C :  So I don't know really what we're gonna do about that .
+B :  Okay .
+A :  Yeah . Yeah . I guess we just
+B :  Are we done ?
+A :  see what Steve says about the re-evaluation and then like we'll keep in touch by email if we need
+D :  Yeah .
+D :  Yep .
+D :  Right .
+A :  anything . I guess we will see you on Thursday .
+D :  Mm .
+A :  And Monday .
+D :  Mm-hmm .
+A :  D_N_L_G_ .
+C :  Yeah , we don't . Do we need another meeting this week ?
+D :  Hmm . Probably not . I mean just get work done . I think that's what I've gotta do .
+A :  We can just email if we need other
+C :  Mm .
+D :  Yeah .
+C :  Mm .
+B :  Hmm .
+A :  I guess .
+B :  Okay .
+A :  Hooray .
+A :  Okay .

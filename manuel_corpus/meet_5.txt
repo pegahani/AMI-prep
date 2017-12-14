@@ -1,0 +1,183 @@
+B :  How do you wear this thing ?
+A :  Hmm . Mm mm mm .
+B :  Not too many cables and stuff .
+B :  Original .
+A :  Is recorded ? Okay ? Okay so welcome everyone . So we are here for the kickoff meeting of uh the process of designing a new remote control .
+A :  So I will first start with a warm welcome opening stuff , then uh we will uh see what will be uh our product and what will be the different step we will have to design it .
+A :  And uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process .
+A :  So
+B :  Uh . Just one thing . Uh , you said twenty-five minutes , but I have something else to do uh , so gotta have another meeting uh soon , so maybe you could hurry up a bit
+A :  sorry ?
+B :  It's true . I have another meeting so if you could uh
+A :  You have another meeting soon ?
+B :  Yeah .
+A :  So you have to be quick .
+B :  Yeah , for the lawnmower project .
+A :  Okay . So the the goal is to have a remote control so to have an advantage over our competitors we have to be original , we have to be trendy and we have to also try to be user-friendly .
+B :  Okay .
+A :  So uh the design step will be divided in three uh main points . First it will be the functional design .
+A :  Third is the conceptual design and then is the desired design . So the functional design is to identify the main user needs , the technical function the remote control should fulfil .
+A :  And then we will move to f conceptual design where we'll specify the different component involved , what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that .
+A :  And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point .
+A :  So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board .
+B :  What an original idea .
+A :  Do you have any idea of which animal you want to show us ?
+B :  Orangutan .
+A :  Okay that's good . n n
+C :  No no n
+B :  Can I give you the no ? But I don't have to say anything .
+A :  You should
+B :  When I'm drawing the orangutan .
+A :  If you want to react uh about this wonderful drawing uh I'll let you uh comment .
+B :  It's an abstract drawing of an orangutan .
+A :  Okay it's an abstract drawing .
+B :  Yes .
+A :  I think it's nice and original .
+C :  You should write y the name I think .
+B :  I don't have a red colour . Usually orangutans have red hair so this is a very important but I don't have red pen , so
+A :  Okay .
+B :  Yes .
+A :  You want to draw something Christine ?
+D : 
+D :  Okay uh sorry . You have to imagine a little bit um .
+D :  This
+A :  Of course your animal is recorded so it's not lost .
+D :  Sorry too uh .
+B :  Yes . I know .
+B :  Wha what is this strange beast ?
+A :  Is this uh
+D :  Is it beautiful ?
+B :  Is it a monster ?
+D :  Do you know ? It's a cat . Isn't it ?
+B :  It's a cat ?
+B :  I thought these things did not exist .
+D :  Yes yes is it like that . Is it better ? Okay . It's my cat . Yeah . The name is Caramel .
+C :  Me Ah yeah . Yeah .
+B :  Ah yeah
+A :  Ah okay it's pretty .
+A :  Okay it's your cat .
+B :  Does have a name ?
+B :  Caramel . Ah-ha .
+C :  Caramel . And you I think I'm too short for the cables .
+D :  Yeah .
+A :  Okay . Olivier , do you want to
+A :  Okay I go , but next time you'll do something I'm sure .
+B :  Next time I concentrate .
+A :  I'm a bit short on cable . Okay . So what could I draw ? Maybe I can draw like
+A :  a very simplified cow . I don't know if it looks like a cow
+B :  He looks like a bong .
+A :  Like a what ?
+B :  Okay . Sorry . No .
+C :  Quite squarey .
+B :  Scary ?
+A :  I dunno it it looks more like a donkey in fact I would say . Okay so I hope that it helps you uh in the process of designing a remote control .
+C :  He also .
+B :  I I think we will be finished this uh
+C :  Mm .
+B :  Is it for uh for putting a for logos , no .
+A :  Okay .
+B :  That's
+A :  Let's move on . So
+A :  Here the uh financial objective of our project . That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros .
+B :  I is there a matter for a new remote control ?
+A :  Yeah if it's trendy , original I d fulfil the user needs .
+B :  Is it uh a single device remote control or is it a multi-device remote control ?
+A :  We have to discuss that point . On yeah you you can suggest points like this . So what what so we have to decide for example if it can control one device or multiple .
+B :  Ah this is not defined at all ?
+B :  Ah , okay .
+A :  So what's what are your ideas about that ? Maybe I can have the your opinion from the marketing side ?
+B :  Well uh do we sell other stuff ?
+B :  Uh if if we bundle the remote control with something uh to sell then it could be a single device , otherwise it could be programmable one otherwise who would buy a remote control from us .
+A :  Okay , so if it selled uh by its own i it it would rather be for multiple device .
+B :  Yeah .
+A :  Do you agree ?
+C :  Mm-hmm .
+A :  Yeah . So maybe it should be for multiple devices .
+A :  And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil ?
+C :  I think we shouldn't have too many b for my part . I think
+B :  No , I couldn I cannot fi think of any requirements right now .
+C :  If we don't have so many buttons could be nice .
+A :  Few buttons . Okay . And do you have it also to be to be lighted in order to be used in the dark ? Might be a good idea .
+C :  Yeah .
+A :  Okay . And do you have any um any uh idea of the trend the trend in domain , what it shouldn't it should look like , or things like that ?
+C :  Something which is not squarey maybe uh , not a box .
+B :  Mm .
+A :  With rou okay . Like for okay .
+B :  Something like that , least fits in your hand .
+C :  Yeah .
+B :  Yeah . The basic requirement .
+A :  Okay .
+A :  So . Fit in your hand , yeah .
+B :  Only a buck .
+A :  And also it have , i it may be it may be important for the remote control to be uh
+A :  To , to resist to various shocks that can happen if it fall . Water-proof as well . Maybe it is original because you can uh use it in your uh in your bath whereas the others can't .
+C :  Mm-hmm .
+B :  Waterproof .
+C :  And I think we should have a device
+A :  Maybe water-proof would be very original .
+C :  Sorry .
+A :  Havin having a water-proof remote control so that the people can uh use it in their bath .
+B :  Mm .
+B :  B it seems uh so , but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of f
+A :  That could be uh
+A :  Yeah but , it is still something uh you have to buy and that is um not maybe very
+B :  And , and that's one of the that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it . That's people they actually do it themselves .
+A :  Yeah , mayb
+A :  But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well .
+C :  Yeah .
+C :  directly .
+B :  I it will look a bulky in that case .
+A :  Yeah . Maybe we can sell uh all that together , so so plastic protection
+C :  Yeah .
+A :  and uh and a waterproof box as well .
+A :  That might be good uh track to follow .
+B :  Like as an optional thing .
+A :  Optional or selled with it ?
+C :  And I I think we should have something , most of the time I I lose my remote control . We should have s uh special bu button on the T_V_ to make the remote control beeping .
+A :  Yeah .
+A :  Maybe we can have uh
+A :  But we don't design the T_V_ . Maybe we can have uh something you whistle and uh the remote control uh beep .
+C :  Ah yeah .
+C :  Yeah .
+B :  Barks .
+C :  Barks .
+A :  Yeah , barks , yeah . So we can uh have a whistle uh remote control ?
+C :  Yeah .
+C :  Yeah whistle .
+A :  I don't know , whistle-able ?
+C :  Whistle tracking .
+A :  Whistle tracking yeah . Whistle tracking remote control . That's a good idea , that's very original and that's can uh improve .
+B :  That's that's quite cool , but uh of course we you don't normally need uh any audio uh recording stuff on your remote control right ?
+A :  Yeah d d uh .
+B :  So i it's just going to add t to the cost .
+A :  Yeah but s still we have to mm we have to have an advantage over our competitors . I think this is a good advantage .
+B :  It's cool . I think I like the idea , but I'm not sure about the what you , who is giving who's giving who's giving our budget . Who's
+A :  Yeah . We have to ask
+A :  Yeah . We have to ask the quest of that's uh design to the uh Industrial um Designer .
+B :  Yeah . Yeah .
+C :  Yeah . yeah
+A :  Which is you . Okay so try to find that for next meeting .
+B :  'Kay .
+C :  Okay .
+A :  Okay . So next meeting is in thirty minutes or so uh . Don't pani . So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed .
+C :  Don't panic .
+C :  Mm-hmm .
+A :  So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons , the the fact that is lighted or not , things like that , and what would be convenient for the user .
+B :  Mm-hmm .
+A :  And also um I will ask the Market Expert to uh try to find out what are the absolute requirements , what is absolutely needed in a remote control uh for the user .
+A :  So . And then uh I will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon .
+B :  Mm .
+A :  So .
+A :  Thank you I think that's all for this point .
+B :  Good .
+C :  Mm-hmm .
+D :  Thank you
+B :  Uh , so we come back in five minutes ?
+B :  Half an hour .
+A :  Anyway you will receive some messages .
+A :  Be careful .
+A :  You eat it ?
+A :  Does it move uh ?
+A :  Okay , but I don't know if it uh is still correctly uh
+A :  We'll see .
+C :  Ah .

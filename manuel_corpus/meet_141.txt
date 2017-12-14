@@ -1,0 +1,311 @@
+A :  Okay . So welcome back . What do do we have to do ?
+D :  .
+A :  So first . I want to say I'm the secretary , so I make the minutes . You find them in your in the map in the
+A :  From the group . There's the minutes from the first meeting . You'll find the next minutes also there .
+A :  Then
+A :  I wanna hear from you , what you've done .
+A :  And after that I have some new product requirements . So And after that we have to make decisions , what we will do . And then we're ready . We have forty minutes for this meeting . After that we'll have lunch . So first I wanna ask the
+A :  Industrial Designer to tell what he did . So
+C :  That's my task . Okay . Uh I've
+C :  Where have I put it ? My Documents or not ?
+C :  Hmm .
+C :  I've save it on my computer , my presentation .
+A :  Yeah on your computer , or the
+C :  But where ?
+A :  What's the name ?
+C :  Uh uh uh
+A :  What's the name of it ?
+C :  It was about the working of the remote control .
+A :  It's the technical function or the functional requirements .
+C :  Nope .
+C :  Not a of
+C :  Wait .
+C :  The working design . But I've saved it .
+A :  Working design .
+C :  But now I don't know where it is .
+C :  Hmm .
+A :  Working design . What is this ? Product documents .
+C :  Yeah .
+C :  And I import this until
+A :  On the desktop .
+A :  Up .
+A :  up .
+C :  One more .
+A :  Up . Up .
+A :  Up . Yes . My Documents .
+A :  Nope .
+C :  What the fuck is this ?
+A :  Gone . Well you Um Nah . Nah , nah , nah .
+A :  PowerPoint . Working design .
+C :  Yeah that's the empty one .
+A :  And
+C :  I had one .
+C :  Uh-huh .
+A :  of working design .
+C :  Open it .
+C :  Okay here it is .
+A :  Save as .
+A :  Uh it's
+D :  Desktop .
+C :  Project .
+A :  Project .
+D :  Yeah . Okay . Well .
+A :  Save .
+C :  Okay .
+A :  Very good .
+C :  A little later but here it is .
+A :  Okay .
+A :  So
+C :  So okay . It's a little difficult what I'm gonna tell you . It's about the working of the remote control . I just had an half an hour j to study it and I don't get it .
+D :  Make it .
+A :  Now have ten minutes to tell it .
+C :  Ten minutes to tell it . Okay . I think it will be a few minutes and First uh I will tell you something about the findings , what I discovered about the remote control . The working bout it uh of it .
+A :  Okay .
+C :  Uh then I'll have uh some kind of map , and it's the top of the remote control . With a little bit of science , uh you I will show that uh in in a few minutes . And then uh what I'll think about it .
+C :  First , the findings . The remote control is a very difficult uh thing to uh to explain to just all of you wh who haven't seen a remote control uh inside . Uh there's a lot of uh plastic on it , um because its uh not so expensive .
+C :  And there are uh a lot of uh wires , uh which um connect the components in it , the battery , and there are um switches and things like that . There's a lot of small uh electronics . So it won't be um uh too expensive to build it . Only twelve Euro fifty I think uh we will make it .
+C :  Now And here I have the top of the remote control . Uh here's some kind of chip . Uh on top of this , there are uh the numbers . Uh you have all on your remote control . And uh the teletext uh button . And uh here's the battery .
+C :  And when you push the button , it will uh will be sent to the chip . And the chip will um send it to all kind of sub-components . That's what I said , it's very difficult . And after that it will be sent to the infrared . And that will send it to your television .
+C :  That's a short h uh how it works . Uh I think I can uh make it uh difficult , but we all
+C :  we all don't get it .
+C :  My preferences ? It's uh it won't be uh We shouldn't make it too big .
+C :  Uh also for the cost , uh we should only put one battery on it . A long-lasting battery . Uh also for the cost , uh use only plastic . Not other materials . Also because of the cost , uh not too much buttons on it .
+C :  We can also make uh a button uh with a menu uh button . And then um that that you will see it on the T_V_ . And on the T_V_ you can uh switch into the menu . That's I think it's easier .
+B :  Mm-hmm .
+C :  And the bleep signal , y uh you told us . Uh but we can also use it uh a bleep like something , when the battery's empty , then there is a bleep . Then you'll have to change it in a in a week or something . And also the bleep , when what I told you about uh when you lost it , and you push a button , and then you hear bleep bleep , and we will find it .
+C :  This is uh just uh Yeah . Yeah .
+A :  Oh oh . Two questions . The battery . You say one battery is cheaper . Why ?
+C :  If we w if we use only just one uh small pen-light , then it will be cheaper than when we use two .
+A :  Yeah but when you use two , you can use it two times longer .
+C :  Yeah but then we'll have to make the um remote control uh long lasting . Just
+A :  Okay so it's the size of the remote control . Okay and the buttons . When you use it on the television , you've you need the television , wh which can use it .
+C :  Yeah .
+C :  Yeah .
+C :  But uh I think this our remote control is for the televisions we uh we sell in our company ? Or is it also for other company uh for other televisions ?
+A :  Okay .
+A :  I think we have to use it also on other televisions though .
+C :  Then this is an option . Maybe just a menu button to use it on our televisions . And then we make it easier uh for our televisions . And on the other tele televisions , you can also use it , but then we won't use the
+A :  So
+A :  Yeah but I don't I think it They are two different things though . We have to choose one .
+A :  It has to work on o uh all televisions .
+B :  Mm .
+C :  Yeah ? Okay . Then I think uh the menu button uh will only work on the newer televisions .
+C :  And we will uh look forward and don't make a remote control which for the older televisions .
+D :  Hmm .
+A :  Okay .
+C :  And I just uh have one more idea . Uh maybe it's one of your tasks . But Uh , to have a trendy remote control , we can also um make something like the Nokia um mobile phones . To change covers .
+C :  So if you have uh a trendy half with all red , uh yellow and something . And then you can put a red cover on it . And also different things .
+D :  Hmm .
+A :  Yeah . Good idea .
+C :  Yes .
+D :  Will this will this add to the cost ?
+C :  Uh then it won't be uh will have just one cover on the uh original one . And then you can buy the covers .
+D :  Yes but you have to m uh be able to change it . D does it make it more difficult to design ?
+C :  I think it will be a little more difficult , but not too much .
+A :  Mm-hmm .
+D :  Not much . 'Kay .
+C :  Just like with the Nokia uh mobile phones . Just one .
+A :  Yeah but there are much more Nokia telephones than um these ones .
+C :  Yeah but then we'll have to to just um put five covers on it , and see if it works . If it won't works then we'll get something else . Then we uh won't g uh go further with it .
+A :  Yeah but are their
+A :  profits bigger than their cost ?
+C :  Uh a p a a cover made in uh in China , it it won't be I guess so expensive I think .
+A :  Yeah but there are also design cost .
+A :  I don't think When you have a remote control , do you change the cover ?
+C :  Maybe . I wi I won't . But maybe I think trendy people or like children where you can paint on it , and uh the the children think , oh this is my remote control , uh I made a picture on it . Uh
+A :  Would you change the cover ?
+A :  No .
+A :  N yeah but
+A :  I think that too less people would change it for good profit . So
+C :  Yeah .
+C :  Okay .
+C :  And the other people ? What do you think about it ?
+D :  Um
+B :  Yeah it's a good idea . But
+B :  If if it Yeah , I don't I'm not sure if it will make profit enough to uh But it's uh yeah it's uh original idea .
+C :  Okay .
+A :  Yes it is but I don't think we have to do it .
+C :  Okay . You're the Project Manager . Yes . That's it .
+B :  No .
+D :  Mm .
+A :  Okay .
+A :  That's clear . Okay thank you . So now the User Interface Designer .
+B :  Oh . That's me .
+B :  Uh
+B :  Come on . .
+B :  Ah .
+D :  Yeah .
+B :  Yes well uh uh I shall give a short talk about the the technical function design . Um I thought the the the technical function design was uh to uh for a remote control to to to have some influence on the T_V_ set .
+B :  Uh both audio and vide video uh in a cordless way . No cords attached . And uh well , it all by pushing a button on the remote . That was from my own experience and uh and uh the previous meeting .
+B :  Uh I find some uh some interesting quotes on the web . Uh well the same idea here . Uh message to the television .
+B :  And uh and and and well basic uh operations like on and off , and uh switching channels , and uh and maybe uh teletext or something like that .
+B :  Uh well these are two uh remotes , and that's our uh our dilemma I think . Uh
+B :  We just heard from the Industrial Designer how uh difficult it is . But uh shall we make a basic remote control , uh just uh swapping channels and volume and uh power button and well nothing much more .
+B :  Or uh uh more functions on the remote . Uh maybe more devices you can influence . Uh a radio or a v a video recorder , uh V_C_R_ .
+B :  Yeah well that's our dilemma . Um any ideas about that ?
+B :  Basic or multifunctional ?
+A :  We'll got back on that later .
+B :  Okay yeah . Yeah well the that was just on my mind . So uh I didn't know what uh
+D :  Yes .
+B :  what way we would go .
+B :  Mm yeah well that was my uh functional uh talk .
+C :  'Kay .
+A :  'Kay , thank you .
+A :  Then it's your turn , the marketing expert .
+D :  Okay .
+D :  Uh um m
+D :  Yeah .
+D :  Um yeah okay . This bit too far .
+D :  So
+D :  So I'm uh gonna have a presentation about um the market , about um yeah what people think . Uh we did a usability lab-test with a hundred persons . And we looked at uh several um things . Uh among them design , uh d d how d did they like the use of it , uh what frustrations they had while using remote controls .
+D :  Uh well what what will be our market . And uh we asked them if we had some new featu features . If um that would be a good idea or not .
+D :  Well our findings . Uh our users , they disliked the look and feel of current remote controls .
+D :  Um uh they especially found found them very ugly . And um th they also found them hard to to learn how to use it . Uh well they also zap a lot . So uh zapping uh should be very easy .
+D :  And uh fifty percent of the users only use ten percent of the buttons . So a lot of unused buttons . There is more findings .
+D :  Uh on the buttons . Which uh buttons find users uh very important and which which not ? And how much would they use them ? Well uh the most used button is the channel selection .
+D :  And uh we asked them how uh relevant they think uh the buttons are . The power , volume and channel selections are very relevant . Uh teletext is uh less relevant but also important .
+D :  Uh not important they found the audio , uh that's not the volume but uh specific the the pitch , or the left or right . Uh the screen and the brightness . And uh channel settings .
+D :  Uh th and they also are not used very often . Then we have a few um graphs about the market . Uh here we can see what the market share is of uh several groups .
+D :  Um as you can see , most users are uh between thirty six and forty five . Um the the the younger group between sixteen and twenty five is not very big . And to come back on the the swapping uh things , uh I don't think uh , I I think the younger will be most interest in it .
+D :  But uh they are not a very big group . Um in the we asked them , uh how would you like a s a new feature . If you have an L_C_D_ on the remote control , what would you think of it .
+D :  Now you can clearly see young users say . I will that would very nice . And older user think uh they will be scared of change I think . And they won't like it . And another thing , how would you like to have a speech recognition on it .
+D :  Well here we see the same . Young users uh think that's an interesting idea . And old users not . Uh well we uh found out that there are two several markets at which we can aim . Uh the first are the younger , the age between sixteen and forty five . Uh they are highly interested in the features , as you can see uh here .
+D :  And um they are more critical on their money spending .
+D :  Uh the second group is the older group . Aged between forty six and sixty five . They are less interested in uh new features . But uh they spend their money more easily . Now if we look back at this graph , we can see that among the first group is about um sixty percent . And the second group about forty percent .
+D :  So the the first group is bigger . Well then I come to my uh personal preferences . Uh yeah the first question is uh also we have to ask is at the which market do we aim at .
+D :  Uh of course n uh saying we aim at the young group doesn't say that old people won't buy it . But less of them will buy it . Um well I uh Okay . What I thought , um even young people say it's hard to use ,
+D :  remote control . So if you make a remote control that is uh very easy to use , that's especially aimed at this group , even uh the young group will also be more interested .
+D :  And um we can make special features . But uh I think it looks nice in the first time . But when use it , uh I don't know what's uh good thing of speech recognition .
+B :  Mm-hmm .
+D :  Um well th uh that's my second point . Uh less important functions should be discarded from the remote control . It's about discussion we had earlier . Um
+D :  You can find most functions on a T_V_ set .
+D :  So uh you don't have to have a lot of audio options , or screen options to change the brightness .
+D :  And such things . Um well the design is very important . One thing I did not say I think , is that a lot of users also said then I would uh buy a good looking uh remote control if there will be one .
+D :  But they found most remote controls very ugly . So the design of our remote control is very important . And uh yeah it should be very zap friendly , as most users use it for that .
+D :  That were my findings .
+A :  Okay thank you . Yes .
+C :  Yeah . I have uh one question . If we aim for the younger people , um and there will be uh a lot of features like L_C_D_ or the the the speech uh f recognising , uh the cost will be a lot of h uh a lot higher . Uh I think we don't have that in our budget . Do you think ? Like
+D :  Yes .
+B :  Mm-hmm .
+B :  No .
+D :  No .
+B :  And I don't uh I don't think twenty five Euros for a remote is really cheap or something . So it's
+C :  No . No .
+B :  Yeah , it's hard to uh
+B :  get the younger
+C :  Uh-huh .
+B :  group .
+A :  I think uh the L_C_D_ is cheaper than speech recognition . So I think that can be an d good option . L_C_D_ .
+B :  Mm-hmm .
+B :  Just the L_C_D_ ? Mm-hmm .
+A :  Yes . Only the L_C_D_ .
+A :  So But we'll come back on that .
+D :  Okay .
+A :  Now
+A :  Oh , go on .
+A :  What d d d um
+A :  Um
+A :  Uh we go back on the decisions later . Now we have a few new product requirements . First , teletext . We have internet now so we don't need the teletext anymore . So
+A :  not necessary . Next .
+A :  Only for the television . So we don't look at the other things like the radio or something . Only the television . Third .
+A :  We look at the age group of forty plus . Uh no , younger than forty . Is a g big group , and like you showed , n not very much people buy our stuff .
+A :  Fourth point .
+A :  Our corporate colour and slogan must be used . Very important for the design . So you can see it on our site .
+A :  Next .
+A :  Um no .
+A :  We have to make our decisions , what we want to do . So like
+A :  you said , we need the . Maybe it's good to put it in a document .
+A :  Now we have to decide what controls do we need . So maybe you can tell us .
+D :  Yeah maybe we can first have a discussion uh on the the product requirements you just uh said .
+A :  Sorry ?
+D :  The the requirements you just said , maybe we should first have a discussion about that . I uh personally think uh teletext is a good option . Uh not everyone um who is looking T_V_ can go to internet when they want to see the latest news .
+A :  Yes .
+A :  Yes , it's okay .
+A :  Yeah but we don't use it . It's a new requirement . So , it's not my requirement .
+C :  'Kay , we'll just have to do that . Okay .
+A :  We have to do this .
+D :  Okay . Okay sorry . Then uh
+C :  No discussion about it . Okay . Unfortunately .
+A :  No .
+A :  what controls do we need ?
+A :  Who first ?
+B :  Well a power button ?
+A :  Okay .
+A :  Uh power .
+B :  Uh the well um I think separate channels . So
+A :  Uh mm channel .
+B :  But then both the the separate channels . So so uh zero to nine or something .
+A :  Channel
+A :  Zero to nine .
+B :  Uh volume .
+A :  Volume .
+A :  Maybe it's easy to pick . What was w your one ?
+D :  Mine ? It's the functional requirements .
+A :  Okay .
+A :  We had w uh no no no no .
+A :  Where was that example of the
+B :  Oh mine .
+A :  Johan . That was the the the the the technical
+B :  Technical .
+A :  Hallo .
+A :  Okay . What do we need ?
+A :  On-off . Zero to nine .
+C :  To change to the next channel , just one button . To move up , move down .
+A :  Yeah that's the channel .
+D :  D Yeah . Do we make a menu ?
+A :  Menu ? Uh yes the n newer televisions ha do have menus .
+A :  Uh
+D :  Uh
+A :  M Menu . I think um
+A :  only one or
+A :  two numbers .
+B :  Mm yes .
+A :  And
+A :  Hello ?
+A :  That's ch
+D :  I think it will be um q quite easy to use , to have uh uh four arrows . Up-down for channel selection , and left-right uh for volume . And uh a menu uh button . And if you press the menu button you get into the menu , and you can use the same buttons . But the then to scroll through the menu and to change the options .
+A :  Yes .
+A :  On the L_C_D_ screen ,
+A :  you mean ?
+D :  Uh well yeah that depends on if you have uh the menu on the T_V_ . Or you get the menu on the L_C_D_ screen on the remote control .
+A :  Think it's better to have it on the remote control , 'cause it it has to work on all televisions .
+D :  Yes .
+C :  But then we come to the costs .
+A :  we need
+A :  N Yes . But if we
+A :  have this
+D :  'Kay .
+D :  But well if you aim at the younger market , um a as they as uh s uh as we seen in the usability uh lab , uh they will buy a nice looking um
+D :  remote control .
+D :  And also to find the easy to use uh part very important . So if we have a L_C_D_ sh uh screen , and uh not too many buttons , I think that will incre uh uh even when it's a bit more cost , it will still sell .
+A :  So now we don't have a lot of buttons .
+A :  Is this enough ?
+B :  Mute .
+A :  Mute .
+A :  Maybe in the menu ?
+B :  Um
+D :  Mm .
+B :  Yeah but then it's always uh more than one uh
+A :  Mute . Mm-hmm . Okay .
+B :  thing to do .
+D :  Yeah .
+A :  Maybe more ?
+A :  No .
+A :  Well . Then that's all . This will be the buttons .
+A :  And
+A :  I think that's enough for the next phase . So we can go on to
+C :  But now we have only the buttons . And uh we don't yet have to decide what the remote control would look like ? Or
+A :  Yes .
+A :  No that's for the next phase . Um
+C :  Okay .
+A :  Phase two is the conceptual design . So then we'll have the concepts .
+C :  Okay .
+C :  Okay .
+A :  That's for the So uh next point .
+A :  Now we have lunch-break .
+A :  After that we have t thirty minutes for work . And you can find the minutes in the Project Documents folder inclusive the uh buttons . No .
+A :  Your individual action , you can find them in the email .
+A :  So now it's time for lunch .
+C :  Okay .
+D :  Okay . Good idea .
+A :  Thanks for coming .

@@ -1,0 +1,351 @@
+D :  It's Play-Doh .
+A :  Play-Doh's edible . Did you know that ? It's definitely
+D :  Because kids yeah .
+C :  I've , I've definitely eaten it before . I didn't know was edible . .
+B :  I used to eat it .
+A :  Yeah .
+D :  But um , it's it's made edible 'cause , yeah .
+A :  It's it's chew proof .
+D :  It's made edible 'cause kids eat it , and if it's wasn't edible then
+A :  Yeah .
+D :  Well , normal babies .
+C :  Actually that makes sense , because I remember like , peopl I dunno if my Mom ever did it but I remember other people's Moms making like home-made Play-Doh where you just like make the colouring and make some sort of sort of dough .
+A :  Yeah .
+D :  Oh yeah it is , yeah . Oh yeah .
+A :  Right . Everybody everybody ready ? Okay , let's have your um let's get have the uh presentation ?
+C :  Mm-hmm .
+C :  Yeah .
+B :  Yep .
+C :  We've got some .
+B :  We've got a cool prototype .
+C :  Yeah , it's pretty exciting . So ,
+C :  everything uh that we wanted we wanted it to be ergonomic and to be made out of rubber , very simple and easy to use , yeah , double curved , um but also something that was gonna jump out at people , something that would be different uh , separate it from the other remotes out on the market . So uh I think if you put this in the palm of your hand , you'll see what a nice thing we have going here .
+B :  Double curved .
+A :  Nice .
+D :  That is cool .
+C :  So , basically ,
+C :  if you hold it like that , the one on your thumb , yeah , the thumb button is the power button .
+A :  Mm-hmm .
+A :  Mm-hmm .
+C :  Your index finger is channel up , middle finger is channel down , ring finger is volume up , your pinkie is volume down .
+D :  What's the big blue thing ?
+C :  That's the lock button , has a L_ L_ on it and then the M_ is a mute button . And then it also has digit
+D :  Oh cool .
+A :  what button ? Um . Oh mute .
+C :  For muting the uh
+D :  And mute .
+C :  Um and then then you can also there's a numeric keypad on the top so you can key directly to the to the channel if you want . So it's really basic functionalities as far as what keys are available , but we think it's very comfortable and very innovative and it looks different .
+A :  Okay .
+A :  That certainly does .
+C :  So all the , I mean the important keys are right at your f f you know right at uh at a convenient place for you to to access them . So you don't you
+A :  Mm .
+B :  Which is ant anti-R_S_I_ .
+C :  Yeah . It should be . And it's also conformable to the size of your hand . I mean if that's too big , it's a rubber remote , so you can , you know
+A :  Mm .
+A :  Yeah .
+A :  'S great .
+C :  change that . So d does that uh what mesh with what you guys were hoping and for and expecting or does it
+D :  Oh it's so cute .
+A :  I have one thing about it , but it's a small thing , but it'd mean we'd have to make a right-handed one and a left-handed one .
+B :  Oh right , yeah .
+C :  Ah , that's good thinking , yeah .
+A :  But , that's I don't see why that's not possible .
+C :  Yeah , if we build rocket ships why can't we build left-handed and right-handed uh remotes .
+A :  Yeah . They make left-handed scissors , you know .
+C :  Yeah , I didn't I didn't think about that , but I'd yeah , .
+D :  Yeah , but then
+D :  but then you can learn to use your right h like I was just thinking if there's left-handers and right-handers in the family , what , they have two remotes ?
+A :  Yes s
+B :  Yeah , I know I know people who have left-handed and right-handed people in the family and they all use the computer for the whole the same computer the fes family and they have a mouse , and everybody is using right-handed mouse .
+A :  Mm . Sure . Sure .
+D :  Yeah , I'm sure they'll be able to
+C :  Uh-huh .
+D :  I mean it's only pressing buttons , you don't have to do anything , you know , extraordinary . I think everybody can press a button with their left and right hand so
+C :  Yeah .
+B :  Imagine d are you right handed ?
+A :  Yeah .
+B :  Imagine you're doing it with your left hand , I don't think it's too
+D :  Yeah , it's not
+B :  But we can have both uh
+D :  Yeah .
+D :  Have them in stock .
+B :  Yeah .
+A :  Yeah .
+D :  Make 'em more appealing as well .
+A :  But um other than that , I mean uh and that's um , you know , that's just something , I think I think it's great , yeah , great idea .
+C :  Do you think it says R_R_ ?
+B :  I think it does .
+A :  I think it's , well , if the R_R_ motto is , we bring fashion to to electronics , I'd say that could be quite fashionable .
+C :  Fashion to electronics . Yeah .
+B :  Yeah .
+C :  Yeah . And it's got the b the black and yellow and blue .
+C :  Plus red , which is sort of a a fruit and vegetable uh uh .
+A :  Yeah .
+D :  .
+A :  Yeah .
+B :  There you go .
+C :  So that's that's our end of things wha uh
+A :  Yeah , very good , yeah . It's come up with what we've you know , the things that's what we've what we were looking at doing , hasn't it , all seems to be there . Well done .
+C :  That's
+C :  Yeah .
+D :  And all the playing around is uh
+A :  Um before we move on
+D :  Yeah , I'm just do you wanna plug in ? Okay .
+A :  I need that cable . Thank you . Yeah . Um .
+A :  One thing I do need to do we need to look at , is the costs .
+C :  The costs , was that what you said ?
+B :  Play-Doh is very cheap .
+A :  Well , yeah .
+D :  Mm .
+A :  um
+D :  Play-Doh won't last very long everybody'll go like , oops , it's gone .
+C :  But it's edible .
+D :  Mm-hmm . Mm-hmm .
+B :  Chew proof .
+D :  Well , they'll buy more of them if you eat them , .
+C :  That was the main criteria from the last meeting , it had to be chew proof .
+A :  Yeah .
+A :  Uh right . Okay , now I think we'll do this I could do you know , I can do this o on my own or I could do it with you , but it's just easy enough to go through it with you , so we're going for the kinetic power .
+D :  Yeah .
+B :  Oh ho-ho .
+B :  Yep .
+A :  And the electronics , we decided on it being just a simple , the easiest
+A :  thing that's inside it . Ooh . So the case , we've gone for the double curved .
+A :  and it's made out of rubber .
+A :  The interface is push-buttons .
+A :  And button supplements well they're in diff special colours , aren't they ? So special colours .
+D :  Yeah .
+C :  Yeah .
+D :  It's better for
+A :  Special form , yeah , they're a special form there in shapes and stuff .
+D :  And special material .
+C :  Yeah , I mean , these these ones on the side are curved kind of , so
+A :  Yep . Yeah . Um .
+A :  Are they made out of any special material ? No they're not . They're not made out of wood or titanium or rubber or anything , they're just simple
+B :  Rubber .
+C :  The buttons are rubber .
+D :  Well they're rubber , aren't they ?
+A :  Okay . Right . So let's see if that comes within budget . And it does . That is gonna cost uh Yeah . That's gonna cost ten ten Euro seventy cents a unit to make . And our target was it had to come in at under twelve fifty . So ,
+B :  Yeah .
+B :  .
+D :  We're under budget .
+C :  That's cool .
+C :  Yeah . Yeah .
+C :  And we're actua actually making a better profit than we expected .
+A :  this is all very very good . The bosses will be very pleased . Okay , let's just save this so I can e-mail it to you . Uh .
+A :  Save it in save it in the uh my documents .
+D :  It's already saved , I think .
+A :  Splendid . Okay .
+A :  So uh , that's done with this with this um doodah , so you're . Gonna do what you were gonna do ,
+D :  Thank you .
+D :  Mm .
+A :  your evaluation .
+D :  Oh , yeah . This is where we all get to I get to write on the , oops , on the board . Right . Oh .
+D :  'S function
+A :  F_ eight .
+D :  Okay .
+A :  I love the smell of that Play-Doh .
+C :  Yeah , have some have some .
+D :  Mm .
+A :  I cou .
+D :  Okay . So , evaluation . We're gonna do it all together so we evaluate each criteria . I've got the criterias . And we have to do it on a scale of one to seven , one being true , so it's it's more like it's fits the criteria , and seven being as in it doesn't fit the criteria . And the criterias are , and I'll draw this up on the board so we have a box
+D :  .
+D :  And this is false , this is just like
+D :  to keep you informed . So seven's here and one's here and then you've got in the middle . So the first criteria . Do you all get what we're doing ? Okay , cool . Okay , first criteria , look and feel . So the does remote look and feel fashionable to what we talked about ? As it is it colour-wise and is it spongy ? So what mark should we give for that ?
+C :  Mm-hmm .
+B :  Mm-hmm .
+C :  Mm .
+A :  I would give it a seven .
+C :  Yeah .
+D :  As in it's not .
+C :  Oh , sorry , one .
+A :  Oh sorry , one , d yeah .
+B :  A one .
+D :  A one a one . So I'll just write criteria criteria one we get one . Second criteria , new technology . Have we implemented new technology ? As in the new high-tech
+B :  Well , the kinetic thing , yeah .
+C :  Yeah .
+A :  Yeah .
+C :  That was our main technological innovation w every everything else was fairly simple , but the fact that we used the kinetic energy was new .
+A :  .
+D :  So it's .
+D :  So we'll give it a
+B :  Well so the um
+C :  It's ergonomic , but that's not that's that's a design that's a des that's a design thing , yeah .
+B :  Yeah .
+A :  Yeah , but that's not a technological thing , that's another thing , i that's another marketing thing . So on the technical side of it it
+B :  Yeah . Yeah . True .
+D :  Yeah .
+D :  I'd say it's about a a twoish ? Two . Three .
+C :  It's about in the mid in the middle somewhere , maybe , yeah , I dunno .
+B :  Two .
+B :  Yeah .
+C :  Maybe three , yeah .
+D :  three .
+D :  So criteria three is is it easy to use ? I think it's a one , I think .
+A :  Easy to use . I'd say it's I wouldn't not if you're left-handed it's not .
+C :  Yeah .
+A :  I would give it a I would give it a two , 'cause i i it i it i it is more geared for right-handed people than left-handed people , but
+C :  Mm .
+D :  Two , so it's
+C :  Okay .
+D :  But if we make a right-handed and a left-handed then ?
+B :  Mm .
+C :  If we're gonna have one left-handed and one right-handed then I would give it a one , but otherwise otherwise a two .
+D :  Yeah .
+A :  Yeah .
+B :  Yeah .
+A :  Give it a t give it a two .
+D :  Yeah , okay . 'Kay , criteria four is costs . 's great .
+A :  Cost . It's come in under budget . So that's a definite one .
+C :  Yeah . That was great .
+D :  Yeah .
+A :  Amount of buttons .
+D :  Like the amount of buttons , 'cause people like a lot le like
+A :  Contains only the necessary buttons . Yeah .
+D :  So it's a one ?
+B :  Yeah .
+C :  Yeah .
+D :  Um criteria six . R_S_I_ is it good against ? Yes . Very good . It's one . And criteria seven , which is the last one , does it get lost ? Is it easy to get lost ?
+B :  Yes s yeah .
+A :  So it's anti-R_S_I_ .
+B :  It's yellow .
+C :  It is very bright , yeah .
+A :  I don't think it's gonna get lost easily .
+D :  No ? But it is smallish .
+B :  Two .
+C :  It's not the kinda thing that's gonna slip like between a couch cushion or something , you know .
+C :  Maybe it will . Uh .
+D :  Mm . I think i it would , could be , could get lost .
+C :  You think it could lost
+A :  two .
+D :  Mm . Yeah . I mean it's not fully it's not fully like you can't say I mean , it's not a one , definitely .
+C :  Mm .
+A :  I mean it
+A :  No , I mean
+C :  Okay .
+A :  I mean , you could still flush it down the toilet theoretically , but
+C :  Yeah , anything , I mean . Okay . It's bigger than the average mobile , I guess .
+D :  Yeah .
+C :  But , yeah , it can get lost .
+D :  The mobiles get lost all the time .
+C :  Yeah . Okay , yeah , two is fine .
+D :  But then you ring 'em and you find them . So
+C :  Yeah , yeah .
+B :  Mm . Mm .
+A :  Okay .
+D :  Yeah . So , that's that .
+D :  So that's the evaluation , so I'd say
+D :  Yay .
+B :  We've , we've done well .
+A :  Alright it's all all systems go .
+D :  It's like like a number one . Um .
+C :  Yeah .
+D :  Number one product .
+C :  Mm .
+D :  All done , thanks .
+A :  We can't fail .
+D :  We fitted all the criterias . Yeah .
+A :  .
+D :  Yeah , so
+A :  Well done , Reissa .
+D :  So that's that one .
+A :  Okay , I I think um I just wanna put in as Project Manager the you know , little bit of praise for everybody here for how they've worked on it , you know , both individually and as a team . You know you've w everyone's come up with their own individual ideas in their own different departments , um and then come together and worked in , you know , integrally , you know , at the right times , psp , you know , especially you two . That's all , you know , gone very very well and and and be you know , has been good communication going on .
+C :  Yeah .
+C :  Yeah , during our design I mean there was some s some heated heated discussion , but we we kept we tried to keep it cool and and
+A :  Did you have to go down to the the corporate squash court and bash a few balls about ?
+C :  just just
+C :  We just had to we just had to squeeze our product a little bit and
+B :  Well .
+B :  You know
+A :  Fantastic .
+B :  It is .
+C :  Now you guys have been a a great team . Think we're the we're the envy of all the of all the other R_R_ teams , .
+D :  been cool .
+A :  I think So I I , you know , and I think we've co we have come we've come up with something new , something that hasn't been done before , we haven't we're not just rehashing an old design .
+D :  In four diff in in four meetings . Funny , all designer meetings could be this quick .
+A :  Yeah .
+A :  You know , maybe this isn't a simulation , maybe this is actually so it's like Sony or someone like that they're they're just , yeah , they get
+C :  Yeah I think they're actually trying to find ideas for a ideal remote .
+D :  They're using our ideas .
+A :  Yeah . Yeah , two years' time this will be on the market . Ex exactly that product um thum we'll go , yeah , we designed that and no-one will believe us . But um
+C :  So at this stage , I mean , is this the last meeting of the project ? We don't uh have another one after it's gone gone to marke market or something ?
+D :  Yeah .
+A :  No , I think when this meeting's finished like officially , there b we'll get a uh questionnaire to fill in . Or six , uh
+B :  Oh really ?
+D :  Just start summarising now .
+D :  You can reply to the same message .
+A :  I haven't got message .
+D :  See summary , there . If you just reply to that one .
+C :  So there's no way to like predict what our 'Cause we had a we originally had a
+C :  As far as our financial uh um goals , we had a specific number for profits that we wanted . It was fifty mil fifty million
+D :  Was it was it fifty or five ?
+C :  I don't remember . But there's not a way to compute that , I mean , since we saved on the on the production cost , do we know how much we're making on profit ?
+A :  It gets handed over to another department . What our what our project was was to come up with the product , basically . the for the and just basically is it it come can is it within budget . When it c when it comes to all the other things of how to sell it and , you know , the b the profits and all that that's other departments it's another team that actually work out the mai the oh yeah , the all the guys in the profit sharing , yeah . Um .
+D :  Depends how much we sell .
+C :  Uh .
+C :  Hmm .
+C :  But we have a vested interest prof profit sharing .
+A :  Yeah , that's it . You know , we've we've we've made i we've made we've designed the product , we've ma we've got the prototype , it's within budget , it's does everything that we wanted it to do . It's new , it's it's um
+D :  We finished an hour earlier .
+A :  something that uh that isn't out there already .
+C :  I think actually and one advantage of of this is that after the uh , you know , after this fad of fruit and vegetables passes this will still be c a cool remote , you know . We're not we're not you know , tying tying our cart to that one horse .
+D :  Mm .
+A :  Yeah . Well , this is very marketable in that it is it's it's something that's kind of new and looks a bit quirky for people who want that , it's that it's um , hang on , I wrote it down here somewhere
+D :  Mm .
+D :  Definitely .
+A :  Oh no I thi I put it in one of my e-mails that I sent off . Um that , you know , it's marketable in the sense that it's whilst all these other remotes uh actually do give you repetitive strain injury , our one does the complete opposite , you know , so that's something that's new , which is one of the criteria they asked us to come up with something with something new .
+C :  Mm .
+C :  Mm .
+C :  Mm .
+C :  It make watching T_V_ healthy .
+A :  Yeah , and if you're not having a good time with the T_V_ , you can f throw it about , you know . It's fine , it's kid proof .
+D :  Yeah .
+D :  Just don't sh don't throw it at any of the ornaments and break them .
+C :  Uh .
+A :  Well , you can break the ornaments , but you won't break that . Yeah . So all in all , I think we've done very well . Well done everybody .
+D :  No .
+B :  Mm yep .
+D :  Yay .
+C :  Right , you too .
+A :  Um . Drinks are on the company .
+B :  Cool .
+A :  In the corporate bar that's next to the corporate swimming pool on the top floor that we're that've all just gained access to . Yeah .
+C :  Mm .
+B :  Glad to hear that .
+A :  That's it . Well , as far as I t as far as I know . Um .
+C :  That's it .
+D :  Yep .
+D :  We haven't got the five minute left thing yet .
+A :  No . Anyone wanna play I spy ?
+D :  Mm mm .
+C :  I guess it's probably better that we wrap it up than have five minutes of
+C :  silence .
+C :  Should we call the day then ?
+A :  Yeah , I guess . I mean we're gonna get asked to fill out another questionnaire .
+C :  Uh , right .
+A :  Um .
+A :  It's probably gonna be the same as one we've done before .
+C :  Mm-hmm .
+D :  In project .
+A :  But I'm not the authority to say that it is .
+A :  Um how does everyone feel about the technology that's been used in this ? The sort of using of the the pens and writing on these special pads and all that ?
+D :  I love it . I love it . I think it's cool . Being all wired up and a vibrating pen and it's cool .
+D :  Being watched . Um
+C :  Your moment to shine .
+D :  Wow .
+A :  Yeah .
+A :  I thi you know , I'd I'd n yeah , as we said earlier , I've not never seen that before . something that t the whiteboard
+B :  Yeah .
+A :  thingy , that's great .
+A :  Um , but a p a pen with a camera on it , I don't think it's such a new thing . I mean it's i or in such a new idea . It would be different if it was sort of hand writing recognition stuff , but as it's not it's literally that'll come up on a computer screen as a picture file rather than actual text .
+B :  Yeah .
+D :  Mm .
+C :  Right , I think they do want to do hand writing recognition on that , it's just the first step .
+A :  Yeah . Yeah . Mm .
+D :  Logitech .
+C :  I guess we should end this , since we're off off topic .
+D :  Yeah .
+C :  So . Shall we
+D :  Meeting adjourned .
+C :  Right .
+A :  Yeah .

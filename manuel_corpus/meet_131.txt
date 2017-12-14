@@ -1,0 +1,926 @@
+A :  Wouldn't wanna be Project Manager . Uh , what we going to do . Um , once again I'm uh gonna take minutes . So , um no presentation for me . Uh , first we have a prototype presentation by G_ and G_ .
+A :  Afterwards some uh
+B :  Yo .
+D :  J_ and J_ .
+A :  eval eval evalu evaluation s sorry . Uh evaluation crit criteria . Uh , in combination with the finance I um uh I received uh a an uh an Excel uh file
+C :  Evaluation .
+D :  Evaluation .
+B :  Evaluation criteria .
+D :  Hmm .
+A :  which we have to fill in later on . Um , you see . Uh , and then we must see uh if we uh stay under the twelve and a half Euro . So , that's uh that's a big l so let's uh wait it uh um we have we have must uh , we must have uh some time for that uh because it will be uh yeah , quite a lot of mathematics . And after that , uh uh an evaluation of uh the process how we uh how we have done it here with the SMARTboard , with the with our laptops , with the all uh all this . And uh afterwards , uh we closing . Once again , forty minutes , so uh let's start . I would g give the word to um G_ and G_ for the prototype presentation .
+D :  Hmm . Interesting .
+D :  Ah , okay .
+B :  Oops .
+D :  Cool .
+C :  Mm-hmm . That's gonna be t problem .
+D : 
+B :  Some creative uh
+B :  Oh . Yeah .
+B :  Ok okay .
+B :  Shall I give a short introduction and then uh
+C :  Yeah , well sure .
+D :  J_ and J_ .
+B :  Okay .
+A :  J_ and J_ .
+B :  J_ and J_ , okay .
+D :  Jane and Jane .
+D :  'Kay guys , take it away .
+C :  Hi .
+B :  Take it away .
+A : 
+B :  Um , this was our first concept . We decided to use a single touch-screen . So , we've worked out this concepts , how to how to hold it , where to put the buttons and and stuff . And um , well , we began with uh with a form of shape , that is uh is easy to hold w in one hand , left or right handed . So , we made i it a little bit less thick and uh it has some ar artistic meaning . No ? This uh isn't nothing .
+B :  Idea maybe uh is better .
+B :  Um well , during the meeting I showed you the concept of uh placing the buttons on top , usable with your thumb , and uh the menu structure , uh if necessary , with your other hand , so it's just gonna hold it easily . And it has to be acce accessible with your uh other hand too , of course .
+B :  So we began uh working out a concept .
+C :  Yeah , uh well , and as you saw , we would just have the basic remote with the panel L_C_D_ uh screen . Well , these would be the main buttons , h you could uh change them later on in your own profile if you want to . But , well it's standard they will be delivered with this kind of uh set-up . We have the more advanced menu uh setting right here . We have the sub-menus and stu stuff . We made a top oh , or a front view . Just so like you wanna uh back view . As you can see , this uh there , there are uh two uh weird bumps in it . This is for uh the added uh effect of uh well uh y youth and dynamic . And uh this is for the artistic effect . Well , what we figured is uh we'll show you a picture later on you have more b a better idea after that . But , idea is for to stay in balance with these two uh with these two . And so when you put it on the table , it will just lay down . It won't uh roll around or stuff . But it will lie more in your hand like an old telephone maybe , or like these old uh phones . Y you you may get the idea . So thi this is about uh how we figured it should be . The s panel we g you would hide with some more uh rubber layers , like we discussed early on . Uh , you would s you wouldn't see the uh straight panel , but more fluidly and round .
+D :  Hmm .
+A :  Mm .
+B :  Yeah , the panel just uh of course goes like this .
+C :  Yeah .
+B :  But the overlaying layer is uh a little bit uh curved and stuff .
+D :  Okay .
+A :  No , okay .
+C :  And uh , in these bumps you could actually uh put some electronics uh that would you can make a more thinner uh design , and that would actually look very nice , yeah . And uh , about the colour , what have
+D :  Yeah .
+B :  Yeah .
+B :  Yeah . Oh , we added that this um can be held with your hands for this maximum is om yeah , one and a half centimetres . So , you have room here for your battery and maybe even other um electronic chips . S and you can just be the the layer of the touchscreen and some have some wires underneath it to make it as uh thin as possible in the middle for good grip .
+D :  Okay .
+D :  Hmm .
+C :  Yeah , f uh , as colours , do you do you have the picture in uh
+B :  Yeah .
+C :  Oh yeah . Now , well this is the idea about uh the bumps . Uh , you can see there's a v a very uh youthful uh dynamic uh exterior . It uh you just want to hold it you uh you are young and uh dynamic like us .
+D :  'S l it's like an uh Easter egg .
+C :  Yeah , it's like an e but this is for children . We we want a more adult version . But , this is like a remote control for children .
+B :  Yeah .
+A :  It's called a weemote
+C :  . A weemote . Yeah . Hey , that's actually a brilliant uh marketing stand . Uh , but So this actually basic the idea . We we just want to build a more uh adult vers adult version of of this .
+D :  Weemote .
+A :  Weemote .
+D :  Wait what I w got in mind .
+B :  Yeah .
+D :  Mm-hmm .
+A :  Yeah , I can imagine that .
+C :  And and for colours , we we figured starting with basic colours like uh white or metallic grey . Those are the technological colours actually , so it d
+B :  Yeah . It would be best to to appeal to a broad public and make the covers exchangeable , so the young people will buy an orange and a red and blue and a purple , but when the o older people uh go in the shop and they see uh an orange um remote control , it would be less appealing than a white one . And young people , we think , are a little bit more flexible , they think , ah I'll buy for a couple of Euros some noi nice hip uh
+C :  Or blue or whatever .
+D :  Hmm .
+D :  Hmm . Maybe it's an idea to sell it without a cover , so that you can pick a cover in the in the shop .
+B :  Well ,
+B :  um I think a cover is necessary , 'cause als otherwise you'll just have the L_C_D_ screen . So , there must be some cheap standard cover , um maybe white or something , that's could comes with it and you can buy , so we can make extra money .
+D :  Yeah , okay . Yeah , okay .
+D :  Hmm . Mm .
+A :  Yeah , but uh you d you mustn't forget that uh our target aim is younger people . Uh , we had decided to uh put uh some flashy fruity colours in it , uh and uh in the survey from uh Milan and Paris uh it uh it came out that uh uh the d the older people are uh more willing to uh to spend money on extra features . So I think uh it will be a better idea to have some uh flashy fruity colours as as a standard , and for the people who uh really want uh a more sophisticated , more traditional look , they're willing to pay uh that . They want uh they want more luxury stuff , but they have the money to do it and they want to b to buy that . So , maybe it's an idea to put that as an extra and not as a standard .
+D :  Oui okay .
+B :  Okay .
+B :  The other way around , you mean .
+C :  Oh yeah .
+B :  Uh-huh .
+C :  Yeah .
+B :  Mm-hmm .
+B :  Okay .
+D :  Yeah .
+C :  Yeah . Yeah , maybe yeah , perhaps you're right . Uh , I I would I would actually agree with this sounds logical .
+B :  Okay , yeah .
+D :  An another idea . Uh , maybe we could uh develop a cover uh with wood style . They'll please the elder users as well .
+A :  Yeah .
+A :  Yeah .
+B :  Well yeah , a colour of a wood style , a white c and uh a couple of h hip uh fruity colours . And lea uh l delivered standard with a fruity colour , but not too not too much . This is banana and mango , not not purple or p orange and yellow .
+A :  Yeah .
+D :  Yes .
+C :  Nah . Yeah .
+D :  Not not too uh yeah .
+D :  Yeah , exactly .
+A :  Yeah . But , the mai I think th uh the standard must be some kind of uh uh attractive flashy colours . Not too , but w a little , because that's our aim . Yeah .
+D :  Yeah . Or blue or
+B :  Ah . Mm-hmm .
+C :  Yeah , li like like this like this . This isn't this isn't too much , is it ?
+B :  Yeah .
+B :  Yeah , okay . No . Yeah .
+D :  .
+C :  I f
+A :  Well , the buttons don't have to be uh all uh all of yeah .
+D :  Well I I I think so . Yeah , except for the buttons it's it could be a standard model .
+C :  Yeah . The buttons , I
+A :  It
+B :  Okay .
+A :  Yeah .
+C :  Yeah , uh something like this would be nice . Okay , that's that's it from us .
+A :  Okay .
+B :  Okay .
+A :  Thank you .
+D :  'Kay , it's my time now .
+B :  It's my turn .
+A :  The Marketing Expert .
+C :  Uh-oh .
+C : 
+D :  Okay .
+D :  During the
+D :  Oh .
+D :  During the design uh design life-cycle we uh
+A :  Sorry .
+D :  we made lot of requirements and trend analysis and stuff . Um , now is the time to uh evaluate our prototype concept to uh
+D :  to the past requirements . So we are going to evaluate the design according to the past user requirements and trends analysis . Um , we're going to do that with a seven point scale .
+D :  Opening a Word document now .
+D :  Okay .
+D :  One oh , okay , uh I have to expla explain something . We have to
+D :  be consensive about about things . So , it has to be a group uh group decision . Okay ? Uh
+A :  Okay , so we gon we gonna evaluate the
+D :  We're going to vote . We yeah ? The prototype . Yeah .
+A :  Yeah , the the thing we saw . Okay , just saw .
+D :  Okay , one . The remote control is designed for people with age below forty .
+A :  Yeah . Seven ?
+D :  Seven is false .
+A :  Uh , true . Sorry .
+D :  Yeah , b one or
+A :  Yeah , one I think .
+D :  Most true ?
+C :  Why ? Yeah , it's not just uh designed for people under the age of forty . It's also designed for people above forty .
+B :  Mm .
+D :  Yeah , so so a o one is appropriate ? Or , more like a four . Three .
+A :  Yeah .
+B :  Yeah .
+C :  So
+B :  No no , a little more in the middle . No , uh three or yeah .
+C :  I have I've Yeah , two or three , because it's not just uh the qu question is aimed at is it designed for people with age below forty . But it's also designed for people of age above forty . So ,
+A :  Okay .
+D :  Ah , exactly .
+D :  Exactly .
+C :  I'll say it's about three .
+B :  Yeah , it will be primary appealing to to m minus forty , but also appealing to
+A :  Okay .
+D :  Three .
+D :  Yeah .
+D :  But also for yeah , okay . Uh , second . The remote control is beautiful .
+B :  Yeah . It's Wow .
+D :  Yeah , acco according to us , it's one ? Or
+C :  Yeah , I I think
+B :  Yeah , it's the marketing uh angle on television . We have a wonderful
+A :  Yeah .
+C :  Yeah .
+D :  Yeah , p s
+D :  Of c of course you have to be uh very positive and uh enthusiastic about your own product .
+B :  Yeah .
+B :  Well , it's also fancy then .
+D :  Three . Uh , the remote control looks fancy .
+C :  Yes .
+A :  Yeah .
+B :  Yeah . Of course . We have a perfect remote .
+D :  One ?
+C :  Yes .
+A :  Yep .
+D :  Good . Four . The remote control has big , clear channel switching buttons .
+B :  Yes .
+B :  Yeah yeah , oh they have to agree but
+C :  Yeah . Leads to user face , yeah .
+A :  Yes .
+D :  Daniel .
+B :  I'm the User Interface uh Expert .
+D :  Uh , teletext buttons and volume buttons ?
+B :  Um , uh no . You you've different menu .
+A :  No teletext buttons . Teletext is in the menu .
+D :  False ?
+C :  Yeah , false .
+B :  And volume is impo yeah .
+D :  And volume ?
+A :  Volume is true .
+D :  True .
+C :  Uh , hmm .
+D :  Big and clear ?
+C :  Yeah , the they are big and clear . .
+B :  Yeah yeah , big and clear . But you could make a teletext button uh six . Otherwise , the people who read this uh are gonna think we have no teletext button .
+A :  Yeah , big and clear .
+D :  Hey .
+D :  Hey .
+D :  Hide .
+C :  Yeah , but but the teletext button . Yeah , you can ch That's in a menu . So , it's w yeah , it it it it isn't entirely unclear , but So , I wouldn't give it a seven . I would give it a more a five or a six .
+D :  It's it's not yeah , it
+B :  No . Yeah .
+D :  Five ? Okay .
+C :  Uh , I don I don't know . What do you think , uh Mister Project Manager ?
+D :  Yeah , it's it's yeah .
+A :  Oh , okay . Well , I agree .
+A :  I was thinking very black and white .
+C :  Hmm .
+C :  Yeah .
+B :  Black and red .
+A :  Thank you J_ .
+B :  Okay , don't forget to save it . Uh
+D :  Red . Okay . Volume .
+D :  The remote control is easy to be found .
+B :  Uh well , when we put in fancy colours , yeah and Yeah .
+A :  Fruity .
+C :  Yeah , it has these all these fruity colours and it has a strange shape . So , if you so if you have trouble finding it
+B :  But , um it it's not making any sound uh , have we deciding ? So
+D :  Oh , okay , but 'kay , look . If you put uh your normal uh remote control under your bed , or you throw this remote control under your bed , is it better findable ?
+B :  It'll make a difference . We have the better re I don't know . Yeah , I think so . My remote control's black .
+D :  A li little bit maybe ?
+B :  A little bit , but yeah .
+A :  Yeah . Well , we p we can do it glow in the dark . So , if it's in the dark place , you still see it glowing .
+D :  Four ?
+B :  Uh
+B :  K yeah . Fo fo yeah fo five is .
+D :  I
+D :  Ah , I I I think five . It's it's it doesn't really make a lot of
+C :  Well , then uh then I'll go for four . Because uh four is between three and uh uh also between between true and false . Uh ,
+D :  Four ?
+B :  Yeah , okay , you're right .
+D :  Yes , but five is between four and six .
+A :  I think Ah , you must see it as
+C :  so I'll I'll go for four .
+A :  uh , w uh according to uh the the other uh remote controls , there may uh uh be there in your uh T_V_ room , this one will stand out , I think .
+B :  Yeah .
+D :  B_ .
+B :  Yeah .
+C :  Yeah , that that's a better question actually .
+B :  Yeah .
+D :  Yeah , it it's
+B :  Yeah . If your uh fifteen remotes in a drawer , uh you find it , yeah ?
+A :  Exa I think that that's what it's about .
+A :  If it if this lying on your couch , you're you're you think what's that for kinda orange uh thing . So
+D :  Yeah , yeah . But but the survey under users was that they uh really lost it .
+A :  Yeah .
+B :  Yeah , that's stupid .
+D :  Like , no not uh not seeing it , but lost it in the house or something . But , okay .
+A :  Okay .
+B :  Uh , but when you lost it you're just not
+C :  Well , if i if you see a strange shape lying somewhere , uh then you'd uh recognise it as , whoa , that is strange . Yeah . Yeah , what is that . Uh ,
+A :  That's our remote control .
+D :  Yeah , okay . Yeah , I I agree , I agree . Okay . Eight , the remote control has fresh , fruity colours .
+B :  Yeah , mostly when you lose your remote control , it it's under your
+C :  so it's
+B :  Most of times when you lose it you're sitting on it . Uh
+A :  True .
+B :  Um I would call uh choose two , 'cause we decided not to make two f uh fresh colours , as it would not .
+D :  Yeah , yeah , not too flashy .
+C :  Yeah .
+D :  The remote control is made of soft material .
+B :  Um ,
+C :  Yeah , rubber , is kind of soft .
+B :  kinda soft , but but not this . Yeah .
+A :  Yeah , but not too soft we have decided .
+D :  Three ?
+A :  Three , yeah .
+B :  Yeah .
+B :  Yeah yeah , easy to use , very afford .
+A :  Easy to use . One .
+D :  Easy to use ?
+A :  Yeah , can it be zero ?
+C :  Well , I don yeah , it is kind of
+D :  Top easy to use ? It's it's not the most easy to use
+C :  It
+B :  No , you can do two , because um it can be easier . But then you're l yeah , but then you'll lose function f yeah , functionality and our fancy uh look , so .
+C :  No . Uh
+D :  It can be easier .
+C :  It could yeah .
+D :  Jus just with ten buttons , that's the easiest .
+C :  Functional ability .
+A :  Yeah .
+D :  Yeah , but the most uh easy to use is just with one button
+B :  But
+B :  It is r it is rather easy to use , because you have the primary buttons always visible .
+D :  on t
+D :  Yeah , okay , but easy n not not the most easy to use , I think .
+C :  .
+C :  No , it's it I I'll go for two . My vote's on two .
+B :  No .
+D :  Two ?
+B :  Yeah , m mine too .
+A :  Okay , two . Yeah , two .
+D :  We also have to compare it to the uh
+D :  to the remote controls on the market nowadays . So
+B :  Yeah , but waits just a minutes . Inspiration .
+A :  What's the time ? We also have uh to do the evaluation , uh the production costs and uh stuff .
+B :  These are the m regular remotes .
+D :  Yeah yeah , I'm uh hurrying . Okay , eleven . The remote control is innovative .
+A :  Yeah .
+B :  Yes , true , one .
+C :  Yes .
+D :  A very of course .
+A :  You're agree , Tim ?
+A :  You haven't seen a more innovative uh thing in uh Paris ?
+D :  The remote control has m remova removable from Multilux .
+B :  Yes , one .
+B :  Very multifunctional .
+B :  No .
+D :  The remote control , i it has speech recognition . False .
+C :  Yes , it
+A :  False .
+B :  This is used with speech recognition , this .
+D :  The remote control has built-in games ?
+B :  Yes .
+B :  But uh , maybe make it two , because the games are in a sub-menu and not uh it's not an entire game .
+A :  Yeah , but they are built in , so it's one .
+C :  Yeah , they are built in .
+D :  Yeah .
+B :  Yeah , okay .
+C :  Not down .
+A :  Okay .
+D :  And the last , paren parental advisory function .
+C :  You really like the parental advisory .
+B :  Yes .
+A :  Freak .
+D :  Yes , I do .
+B :  Th did you make this or the
+D :  Save as .
+C :  Yeah , he made it .
+B :  Yeah ,
+B :  It changes it maybe .
+D :  Okay , I will uh
+B :  Oh yay .
+D :  do the the math .
+B :  Oh dear .
+D :  Now it's your turn .
+A :  Okay , thank you .
+A :  We'll see .
+B :  Hmm ?
+A :  Mm .
+A :  Okay , we have now to c uh to calculate the production cost . If it's under uh twelve and half Euro , then it's uh ok uh okay . But i is it if it is b Huh ? No , this isn't right . Okay so , . Redesign . Oh yeah , if they under Yeah .
+B :  If they're under twelve fifty .
+A :  No .
+A :  Oh yeah . Yeah , it's sorry . Yeah , if the costs are under twelve and a half Euro , uh then we uh can uh ra uh move on to the project evaluation , as we have uh experienced it . Otherwise , we have uh do uh have to do a little uh redesign uh thingy . So
+B :  Yeah ? Cau 'cause so it's okay .
+A :  Uh , we have to fill in the numbers of the component uh components . We have to uh fil uh , want to uh do it in and uh see uh if we stay under the twelve and a half Euro . So , do we have uh a hand dynamo ? No .
+C :  No .
+A :  That's zero .
+C :  Me , too .
+B :  Battery , yes . One . One , yeah .
+C :  Yes . Yeah .
+A :  Battery , one ? Okay .
+B :  Kinetic , one . Yeah .
+A :  Kinetic , one ? Okay , solar cells , zero . Okay , uh simple chip on print ? No ?
+C :  Yeah . Yeah .
+C :  Yeah .
+C :  Uh , n no .
+D :  No .
+D :  Advanced chip .
+C :  No .
+A :  No , advanced chip . Sample sensor sample speaker ?
+B :  No .
+C :  Yes .
+B :  No , the advanced chip is uh
+C :  No .
+D :  Advanced chip is three .
+A :  Three ?
+D :  Three Euros , yep .
+C :  Uh , we have one . We have one
+B :  Yeah .
+A :  Yeah uh , but it it's one one thing , it's three Euro . Uh , what's the sample sensor ?
+D :  Okay , one piece , yeah .
+C :  .
+C :  No , sev zero .
+D :  No .
+C :  Well , that's um yeah , speech recognition and s
+D :  Speech recognition , I think .
+B :  Yeah , you give it a sample , uh one .
+A :  Okay .
+A :  Zero . Uh , uncurved flat . No . But is it s it's not made from a single uncurved thingy and then uh and then uh no ? Okay . So it's only uh once double-curved .
+B :  No .
+D :  No .
+C :  A zero .
+D :  No .
+B :  You no .
+C :  No . No .
+D :  Thingy .
+C :  Yeah .
+D :  Yes , three . Eight .
+B :  Yeah , 'cause um the layer around it fits around the bubbles on the o on the uh the back of the
+A :  Okay . We're now in a problem , 'cause uh we have uh reached eleven Euro yet .
+B :  Uh , we don't have anything else . So
+D :  Okay , go on . Just go on .
+A :  Okay , but uh we have
+C :  Just go on . Then we'll see uh we'll we'll see uh wha how much we are over budget .
+A :  Okay .
+B :  Could you step a little to the right ma Yeah . Oh , sorry .
+D :  Two .
+D :  Two .
+A :  Uh , rubber .
+B :  Or
+A :  You .
+C :  Zero .
+B :  And zero .
+A :  Titanium , no ?
+B :  Special uh is the special colour ? Mm .
+A :  Special colour ?
+C :  I don't think so . No , this is a standard colour . Yes , this is a special colour .
+D :  No .
+A :  Yeah , but we want to make uh the wood colours , uh that uh
+B :  Yeah . Yeah , if if you're honest , we'll uh type one , special colour .
+D :  S
+D :  Yeah , but but D but Daniel , tha that's that's another brand . That's another article
+C :  That's an add-on .
+A :  Yeah , one .
+D :  to sell .
+B :  Yeah .
+A :  Yeah , but we we going to yeah yeah , that's true . But yeah , it's it's it
+B :  Uh , j maybe we'll finish uh the the list first and then look back , aye ?
+D :  That doesn't account for this . Producing this .
+A :  Okay , the push-button , no .
+B :  No . Scroll wheel , no .
+A :  Scroll-wheel , no .
+B :  No .
+A :  No . Oh , no . Yes , one . Uh , button , no . No , the the we don't have a s no . Okay . Oh , okay . So , um what's the thing we can change ?
+B : 
+B :  One , yeah .
+C :  No .
+B :  No . Mm , is it No . No .
+C :  These three .
+D :  No .
+C :  Well , we're only four Euro over budget . But
+B :  So
+C :  Well , other case , we can make it single-curved or uncurved .
+B :  No . No .
+D :  Yeah .
+A :  Uh , can I uh I say something ? No , can I say something uh as Project Manager ? The kinetic thing , can we just skip it , because uh you have to shake it , but that's not really innovative .
+B :  Mm , single-curves .
+D :  Yeah , of course .
+B :  Yeah .
+B :  Just cut off the kine yeah . Or yeah .
+C :  Yeah . Okay , sure .
+B :  Yeah , we just put a good battery it it . Mobile phones nowadays .
+D :  Yeah .
+D :  Daniel . Daniel , what do you think about Here . What do you think about uh putting a battery in it , but also selling like uh the covers , a docking station just apart from the from the thing , so that you can uh put uh
+A :  Yeah . Yo . Sorry , yeah , yes .
+A :  Yeah .
+A :  Mm-hmm .
+D :  rechargeable batteries in it and just
+A :  Okay .
+B :  But you can use rechargeable batteries anyway , just you s you have to recharge them manual .
+A :  Yeah , and not really . But we if you forget about the kinetic , well if we do that ,
+D :  Yeah , yeah , okay .
+D :  Just an idea . Yeah .
+B :  Yeah , that's a cost reduc
+C :  Yeah , sure .
+A :  we shall .
+B :  Ah .
+C :  Okay , well you you can go from double-curved to single-curved .
+A :  So um
+D :  Yeah , of course .
+C :  And that would solve the budget problem .
+A :  Uh , b but i but the single-curved is just oh
+B :  Yeah , so we have to bake the ba back flat , and then
+C :  Yeah .
+C :  It's just yeah well , the single-curve that
+B :  No , it's it's just one curve and not a back uh curved I think . Or
+A :  Oh , okay , okay . So that's wh tha that's one option .
+C :  Yeah . Exactly , yeah .
+B :  Or are these two curves ? Uh
+D :  Yeah .
+A :  And then w yeah , and then we could have it , but uh it's its' well it's it's r it is the main point of the the the the look .
+D :  Yeah ,
+D : 
+B :  Yeah , but what else uh do we have to cut out ? No advanced chip , uh that's a little bit of problem .
+C :  We going to cut
+A :  No , tho uh that that can be done . So uh ,
+D :  Yeah .
+B :  Although , can we make it with a regular chip ?
+A :  okay , a little less uh conversation .
+B :  Curvy .
+D :  Hey , those ar arcs , why are there for ? The blue blue uh
+A :  Sorry ?
+A :  Fill in Just a
+D :  Okay .
+B :  Explanation . Twelve fifty . Well
+A :  explanation . I can delete it for you if you want .
+D :  No , no no .
+A :  So , if we do this , uh we're on uh twelve and a half Euro . And we're done .
+B :  Yeah , but does it fit with our design ? Do we have to u adapt it ?
+A :  Uh well , the only uh thing that don't
+B :  It's single-curves .
+A :  Yeah , single-curved , but there's a curve in it . So
+D :  Yeah .
+B :  Could we just make the bubbles uh cut off the back , and then we're uh has
+C :  Yeah , we just make it flat . But , you do l
+B :  Okay .
+D :  But , wha 'Kay , look , what is the uh If you make it double-curved , it costs one Euro more . But
+B :  More . Yeah . You make it optional .
+D :  No , but
+D :  does it have a lot of extra uh fun function more like
+C :  Function .
+B :  Functional .
+C :  Worth , does it have added worth ? No , um
+B :  Uh , there's an a a athe aesthetic value , but not functionality .
+D :  Yeah .
+A :  Yeah , it's really a static value . Yeah .
+D :  Yeah , uh aesthetic .
+D :  I mean , uh you make like eleven and a half Euros profit
+D :  instead of twelve and a half . But
+D :  I don't know if twelve and a half is uh a fixed uh fixed price .
+C :  Yeah , well let's assume it is . We we should assume it i that it is . But I I figured that the kinetic would be a marketing promotion . R if you uh promote a kinetic um I kinetic remote control , I mean , that would b sell better than an a normal remote control .
+A :  Yeah , it is . Oh .
+D :  No , we can't go above that . Yeah ?
+A :  Yeah , okay .
+B :  Yeah .
+D :  Yeah , okay . Then it's okay .
+D :  Yeah .
+A :  Yeah . Do you think ? Well , now you can shake your remote control .
+D :  Yeah , I think so .
+C :  No , well , y I mean uh , y you can go into your neighbour and tell him , ha , my k uh remote control is kinetic . You have standard old battery control uh remote con
+A :  Kinetic .
+B :  Yeah .
+D :  Yeah .
+D :  What a what about all the m the environment freaks ? Not freaks , the envi
+B :  Yeah .
+B :  Yeah , but it doesn't fit in our co cost profile . So
+D :  No . I I think it's it's
+C :  True .
+D :  It look like this one .
+B :  You ma can make an an especialised extra gold version .
+A :  Yeah ?
+A :  Who because if you want to go to kinetic , you're uh you're on thirteen and a half and you must go to flat , and I think now it's it's more of uh a compromise
+B :  Yeah .
+D :  Yeah .
+A :  thing .
+A :  And if you make the single curve ha just a big curve ,
+A :  then it's uh then it's uh yeah , one big good curve . I was going to uh say nasty words , but I don't . This is strange by the way .
+B :  Yeah , just one big curve .
+A :  Wood is m is is is cheaper than rubber . We thought that wood would be more expensive .
+D :  Yeah .
+B :  Uh , this uh American figures . You just cut down some trees .
+A :  Yeah , maybe . But uh that this is this is it ? Yeah . Okay , this is it . I'm gonna save it .
+D :  This is it .
+B :  Whoever makes uh a remote control out of titanium .
+A :  Yeah .
+B :  Yes .
+C :  It is possible , but you can't use double uh curves for titanium . That's one of the functionability uh
+B :  No .
+A :  Okay , well ,
+A :  considering we have
+D :  Ah no , we have to do all those hours again .
+D :  Go back . One back ?
+D :  Costs on uh No redesign .
+A :  Well , we were above , so we did a little redesign
+D :  Yeah .
+B :  We sue . We Yeah , we'll start her all o all over again .
+D :  Yeah , okay , yeah .
+A :  Okay , um now uh it's about time to uh talk about uh this project . Uh , some uh things . Were there uh room for uh was there room for creativity in our meetings or in your individual meetings ?
+B :  Um
+D :  Hmm .
+D :  I I didn't think so . That there was a lot of room for it . But , that's mainly because uh of the information that was delivered to us . It was just fixed information and get your stuff from there , and I couldn't go on on i on the internet and search my own stuff . Bu
+A :  Yeah .
+A :  Yeah .
+A :  Yeah , yeah , yeah . That's true . I agree with that .
+C :  Well , I th I think you two , uh especially you and uh and uh Daniel , you d you you both had uh the less creative uh roles in the project .
+D :  Yeah .
+A :  Yeah . That's true .
+B :  For us , there was a lot of creativity . We could just sign up an uh remote if we liked .
+C :  'Cause I think m
+A :  Yeah . Yeah , that's true .
+D :  Yeah .
+C :  I think Jeroen and I , we had a more design we could have more we had more room for creativity than than you two .
+A :  Yeah .
+D :  Yeah . Yeah , that's true .
+A :  Okay . Uh how about the leadership ?
+B :  Uh
+C :  Ha .
+D :  Leadership was uh crappy .
+B :  Crappy . Cra
+C :  Nah , the leadership wasn't crappy , it was the leader that was crappy . Nah . No , the leadership was okay .
+B :  Yeah .
+D :  Okay .
+A :  Okay , thank you very much . Now we're done .
+B :  Yeah , example of crappy leadershi
+D :  No , leadership was uh
+B :  Okay , yeah .
+D :  Okay , I thought uh the first meeting was a little bit of unstructured meeting . Uh , you could have but uh , it was your first , no uh no disrespect or something , but you could have uh structure it a l little bit more . So like , I I was talking most of the time the first meeting meeting , and Yeah . But
+C :  Yeah , it was good .
+A :  Yeah , that's true .
+A :  Yeah .
+B :  You could of said , shut up you fool .
+A :  Yeah .
+A :  Yeah . I notice it too . I was a I was also very uh unhappy , uh very unsatisfied uh about the
+D :  About me .
+A :  about the first meeting . So , uh I hope uh uh the the the other meetings uh
+D :  Yeah , you made up .
+C :  Try to learn from your mistake . And we will never do it again .
+A :  get better and uh I think the the last two meetings uh also we we reached uh some good decisions about uh talk yeah .
+D :  No , it you did better .
+B :  Yeah , more more consensus . Ev everybody w was agreeing every Yeah .
+D :  Yeah .
+D :  Much more constructive .
+A :  Okay , so uh that's cool . Uh , teamwork ? Well , maybe that's uh only Yeah well , it's for us , because uh
+B :  Well , we work together on a project , but everybody has his own task . So , it is a little bit
+A :  Yeah .
+A :  Yeah and it's wo more like presentation and some points were discussed . But , really teamwork were you two uh
+B :  Yeah . No
+D :  Two guys .
+B :  Well , it went okay .
+A :  The
+C :  Yeah , that went w it went well . It's it's just uh
+A :  Yeah ?
+B :  Stupid stupid pen , but uh
+A :  No hard feelings .
+C :  Nah . Yeah , we we had some trouble with the pen , but
+A :  Yeah . Now you you must push a little while .
+B :  Yeah , but but draw something uh difficult . D uh just write your name right now . Try to write your name , in in writing letters , of course , yeah ?
+C :  Yeah , but us
+C :  Yeah .
+A :  Okay .
+B :  Yeah , normally , uh this uh the w Block letter sign it , yeah ?
+A :  O Just uh okay .
+B :  Just just write your name in in one line . If it's a little bit too small bit quicker now . It didn't
+A :  You can be you can go quicker , 'cause then it it won't notice it .
+B :  Uh he he knows how it works , yeah .
+C :  Oh .
+A :  I follow the Master class for the SMARTboard , so I think that's the that's the main issue . Um , so uh about this one you were uh you're dealing with , um the the the the digital pen .
+D :  Okay .
+D :  Means .
+B :  Y well , yeah . Th the i
+B :  The idea is great , but it doesn't work properly . Uh
+A :  Okay . Yeah .
+D :  Digital pen , I thought uh th the first time I did individual work , I used it . But , a and the first two meetings I brought it with me , but I didn't use it at all after the first the first meeting .
+A :  Yeah .
+A :  No .
+B :  Yeah .
+C :  No , I have it working . But , uh yeah , well uh
+D :  It's it's not real real use for me .
+C :  No , it doesn't have that much added value to the
+A :  Huh .
+B :  Nee . As uh as I said a m a c few moments ago , it I would like , myself , to write with a normal pen , because must um
+A :  Well
+B :  Yeah , it's almost the same concept , but you can just sim more simply put it on our scanner . I it's the same concept as the pen , where you f have to download the software or s uh very uh slow .
+A :  Yeah .
+A :  M yeah .
+A :  Yeah .
+A :  And it is still your own handwriting uh popping up in uh Word .
+B :  Yes . No , and it doesn't give any added value .
+A :  No , uh that's true . No .
+D :  Not really , no .
+A :  And uh the SMARTboard is uh useful , but the the pen is I uh not user-friendly , I think . Be it it takes a lot of time to draw things and to write things , and that's the
+B :  Yeah , not user-friendly .
+C :  Yeah .
+B :  Yeah , and it's it's not very precise . We're trying to m to
+D :  Yeah , like when you do this .
+B :  Yeah , it may um Yeah , and tr try to wri write your name uh in a in a normal uh size , yeah . Smaller .
+D :  Smaller ?
+B :  Yeah , smaller . Just like when you're writing on a letter .
+A :  Yeah , but that's not th the the you when you at a foreign audience , you b don't gonna wr uh write uh small .
+B :  No , a as you saw on on this drawing , just open open this one or that one .
+B :  It's uh th it it Yeah , uh we had more problems even here when we trying to draw these buttons , it's almost impossible to get clear uh when you're uh
+A :  Yeah .
+D :  Oh . Sorry .
+A :  But maybe there's some function with no , it isn't . With uh
+B :  And the eraser was another problem . It w t is is this large . And when you try to erase this line , y
+A :  Yeah .
+A :  Well , I'm gonna erase my uh name .
+B :  I'm gonna erase my name there .
+A :  Yeah , it's a big uh big eraser .
+D :  Okay . New ideas ?
+B :  M Abo What kind of new ideas ?
+A :  Um
+A :  Well , the the idea of the touch-screen is uh
+D :  Do you ? Go on .
+B :  Yeah , uh
+A :  I'm just uh
+B :  New ideas about uh the working of this software , about about the project , about the remote controls or
+D :  Yeah . Mm , yeah , I think so .
+A :  I don't know what what I mean .
+A :  No . Oh .
+B :  Hello .
+D :  Did you heard what he said ? I don't I don't know what I mean . Oh , I have some figure . Here . The eva the evaluation , the mm the mean uh number is uh one point eight one point eight six . So that's fairly uh fairly good , I think .
+C :  Know what I mean .
+A :  Oh yeah .
+A :  That's interesting .
+A :  Okay , because what does it mean ?
+B :  Yeah .
+B :  So true .
+D :  Uh , that uh
+A :  All the mo yeah , are between one and two .
+D :  all the requirements uh are true or very true , right . Yep .
+A :  Yeah . Oh , okay . Yeah , okay . Thank you , expert . But the new ideas found for uh wi with working with this uh software ?
+B :  Not really , just they have to improve it . Uh , the concept is okay , but it has to be quicker . Uh , it is still opening my programme , n almo almost uh my entire computer is locked up during the process and it , yeah , just takes too many time . People will still feel the need to to write it quickly on uh a page and not download it and save it , and
+A :  Not really , yeah ?
+A :  Yeah , I think
+A :  Yeah .
+A :  Yeah .
+A :  You had expected it to to be uh more more uh
+B :  More user-friendly . 'Cause when you use a pen , you can just draw like you d draw normally , and you do
+A :  Yeah .
+A :  Yeah .
+D :  Yeah . May maybe the idea you proposed is uh a screen here . And draw it , and it's it's placed over there .
+B :  Yeah .
+A :  Yeah .
+B :  Yeah , that l
+A :  Yeah .
+B :  Would be easier . Or at least when you you don't have to adapt to the technology , just you can write in the way you normally write . And now you have to um keep constantly in mind that you're drawing on this screen . And that's a very bad concept .
+D :  Hmm ? No .
+A :  Yep , yep .
+A :  Yeah , that's true .
+D :  Ah , very bad . But
+B :  Nah , okay , I I it's my opinion that I
+D :  I think this is better than regular flip-overs , but
+B :  Yeah , it's can be saved easier .
+D :  Yeah .
+B :  But if you're in normal flip-over you a lot of people write text . There's no text option . And writing text uh , yeah , you've gotta really do your best to write some
+D :  Yeah .
+A :  Yeah , and and maybe some uh functions for uh uh uh circle or uh a square . You have to draw it yourself now .
+B :  Yeah .
+B :  Or maybe even insert picture . If you have uh some presentation , and you have some f
+D :  Yeah .
+A :  Yeah .
+C :  Or text function . Just t t type text , and that that would be uh excellent . Mean
+B :  Yeah .
+A :  Yeah .
+D :  Yeah , but insert image isn't available ?
+B :  'Cause then you could
+D :  Here . Picture from scanner , clip-art .
+A :  Yeah , that that can be done already . But not the the the the predefined uh squares I think uh
+B :  Oh , okay .
+B :  So you can
+D :  Hyperlink ?
+D :  Hey , what if you do like hyperlink ?
+B :  With uh W_W_ dot Google dot com .
+D :  Type type it ?
+B :  Oh yeah . Maybe .
+D :  Re Real Reaction dot N_L_ .
+A :  Hmm ?
+D :  Yes , is now is okay . Okay ?
+A :  Sorry ?
+B :  You'll just make a link in
+D :  Huh .
+B :  Yeah .
+A :  Well , that's nice .
+B :  There's one way to uh
+A :  Is it
+D :  'Kay , double-click it .
+B :  Maybe if if you're not using the eraser
+A :  Here . oh .
+D :  You're erasing .
+A :  Oh , sorry . Select .
+B :  Something else th Yeah , arrow .
+D :  Double-click it .
+A :  Yeah . Here , that .
+B :  Okay . Well , it's
+A :  So you have as you saw , you have a little uh
+A :  Oh , you can
+A :  Yeah , thank you .
+A :  You can go uh
+B :  Yeah , okay .
+A :  there .
+A :  So there the the the functionality is there , but it's not it's not ideal , and it's it's very it costs a lot of time to uh
+B :  But
+B :  .
+B :  To use , yeah .
+A :  to use . And that's a pity , if you uh if you have uh thirty , forty minutes uh for this kind of things , and we are now with four people , but it well , imagine you are here you're with the ten people and everyone uh
+D :  Yeah .
+B :  Yeah . And that's m
+B :  That's mostly the case , from the over here with the managements you get two minutes to make your case , and if you have to do all this kind
+A :  Yeah . Two minutes of drawing , yeah .
+D :  Yep .
+B :  You'll rather use PowerPoint and work it out in advance . And th the one or two things you have to draw when you're there , just use a flip-board .
+A :  Yeah .
+A :  Yeah .
+D :  What I really miss also is uh
+D :  is a d is a turtle is a decision uh decision system like um
+D :  With the evaluation , you have to
+D :  Polls like , what do you want , a one , a two , maybe a a l a little application like uh uh give your own number and click one two three four five six seven .
+A :  Yeah yeah .
+B :  Yeah .
+A :  Yeah , just like he said with the with the a screen which you can write , also uh a kind of voting uh mechanism .
+D :  Yeah , j ju ju yeah , v voting application . Just a little group group decision application .
+C :  Oh .
+A :  Yeah .
+A :  Yeah .
+C :  But uh , problem is , well you can't discuss anything well you you ca uh you can , but you will discuss a lot less than l like we did now . We I mean uh w w w one one person s maybe said three . But , well uh I we said uh , no I w th think two , because this and this , and then you can react uh on it . But if you you put a three on it , uh just figure well , everybody knows what I'm knowing , so they'll all just put a two on .
+D :  Yeah .
+D :  Yeah , okay .
+D :  Yeah , of course . But , uh you can still discuss about it , but but click it in an application , that's a lot easier to process .
+C :  Yeah , but it would yeah .
+C :  Yeah okay , the for processing part . But then uh , I think the idea of one person entering it and the rest uh discussing it , that uh isn't that bad idea , actually . Not that your opinion isn't valued , but but still .
+D :  The digit . Yeah .
+D :  Yeah .
+D :  Yeah .
+A :  Yeah . Okay , so
+D :  Okay . That's it ?
+B :  Okay . Yo , manager . When are w
+A :  Uh well , just about , because uh
+B :  When are we going to produce it ?
+A :  Yeah , tomorrow ? Uh , the costs are within the budget . Uh , the project is evaluated . But , before we going to celebrate , uh I have uh a little question which you can't answer , because uh there must be some kind of end report . I am busy with the end report right now . You might thinking what the hell was he doing uh
+D :  Celebration .
+D :  Yeah .
+D :  Yeah .
+D :  What is an end report ?
+A :  Uh about all the meetings , what we have decided , a r r a report of this day . Uh , that must be made , but I don't know , here is uh standing uh whoa , we can celebrate now , but the end report is
+D :  Yeah .
+D :  Yeah , yeah .
+D :  Oh , you ha you have ten minutes left , I uh read .
+B :  Oh .
+D :  You have now ten minutes left to finish up the end report .
+A :  Okay well , that uh that can be done . Maybe we can do it uh together . You can see what I've uh yeah ? So I I s I will uh put it on a story-board .
+D :  Yeah .
+C :  Yeah , sure .
+A :  You can see it .
+D :  Um
+A :  Because I think it will uh it must be uh
+D :  You you already made a beta version , or
+A :  Yeah , it's a three uh with seventy five uh
+D :  Pages .
+A :  Yeah , just about . Well , just a moment . End report .
+C :  Y yikes . Seventy five pages .
+D :  Okay , Daniel .
+D :  Do you want a chair maybe ?
+B :  A chairman .
+D :  Hey ?
+A :  No no no , I'm just uh you can s you can read it and uh here here it is . End report .
+D :  Oh , okay .
+C :  So you you finished it actually , and so we just have to read it and say yes or no ?
+B :  Yes .
+A :  Well , this not nit it read-only . But it's not uh fully finished yet .
+D :  Five minutes for finishing .
+A :  Um , this is about the functional design , the things yeah yeah . Oh yeah . I'm uh when I said it , I remember I had it here .
+D :  Management Expert , you have to change that .
+D :  Marketing .
+B :  It's a read-only version .
+D :  Yeah , but you can save it u the under another name .
+B :  Oh , okay .
+A :  Marketing Expert , okay . Um
+A :  about the three functions where uh which are most used and uh which must uh immediately be visible on our uh remote control . Um , it must be uh simple to use , very clear what to do , and at the younger people . So , this is really about wh uh what kind things uh must be in it and uh yeah .
+D :  Maybe um the
+D : 
+B :  Uh
+D :  The
+A :  Yeah , I understand you , I can talk a little bit Dutch .
+D :  Yeah .
+D :  You Yeah . No , you have to put uh , switch channels uh at the top , because that's the most used function and teletext at the second
+A :  Oka okay , okay , I
+A :  I really didn't knew that .
+D :  Oh nay , a volume changing , second .
+A :  So , this one's first .
+D :  S switch , yes .
+A :  You go there and you go there . So , okay . Well , maybe I can then do it one two three .
+D :  Yeah . Okay , go on .
+D :  Yes , very good .
+B :  One two three .
+A :  If the order is in uh is is uh important , that's the word for . Uh ,
+D :  Yeah . Yeah .
+D :  The order .
+A :  then the conceptual design . Uh , well all the things we have uh discussed , uh the energy , which uh turn out to be uh batteries , so that's
+B :  Yeah . Well , okay , maybe you can add it later that we decided in the end because of the cost .
+A :  Yeah , because yeah . Uh , he here it is still double-curve , the rubber , the flashy , the fruity , the removable . Uh , the buttons Hmm ?
+D :  Single-curves .
+C :  It's not double . Uh , it's not double anymore , eh ?
+B :  A single-curved .
+A :  Not double anymore . Nay but that this is what um
+D :  No , okay .
+C :  Yeah , okay .
+D :  Was initial , the plan . The initial plan .
+A :  Yeah .
+C :  Yeah .
+A :  And the the added functions like Tetris snake , it's under the parental control , the touch-screen . So , it's uh just a summary of what uh we had discussed uh
+C :  On thing uh
+C :  One small thing uh , the added functions . Uh , was it included in the cost ? I don't think so , eh ?
+B :  Ah , it's very cheap .
+C :  It's very cheap .
+A :  Uh , it's very cheap , you you maybe you you you you come at uh
+D :  No , it's it's not very cheap , but that no , but it's a development inside corporation . Like , uh w we don't have to buy parental control . Our own people can make that , I think . Yeah , it it has some cost , but
+A :  It's very necessary .
+A :  Yeah , but it still has some yeah . Okay , but so we can discuss that uh
+B :  Yeah .
+B :  He'll do it in his free time . So uh
+D :  Yeah .
+A :  we can discuss that kind of things I think with the
+A :  with the the board of uh
+B :  Of directur or directors .
+A :  What's it what's the company called ? I just keep forgetting it .
+D :  Real Reaction .
+A :  Real Real Reaction .
+D : 
+B :  Yeah .
+A :  Real Reaction , yeah . Okay , so uh anybody uh misses something here about uh
+B :  You can ask your personal
+B :  Yeah , the end conclusion . But uh
+A :  Yeah , okay , that's that's what I'm gonna write b between now . But , i in here nothing uh
+D :  Okay . Still the end conclusion . That's all , I think .
+B :  Um , the decision to make um the buttons on the top , and the menu on the
+A :  Mm-hmm . Yes .
+B :  on the bottom . And clearly Yeah , touch-screen you've mentioned .
+A :  Yeah , touch-screen I've mentioned .
+D :  Yeah , but but the the decisions are put in the uh conclusion , I think . Why we decided to use a flat uh L_C_D_ .
+B :  Okay .
+B :  Okay , this n yeah .
+A :  Yeah , okay , well I gonna redesign uh something now . No .
+D :  Yeah . Um
+B :  Party party .
+A :  Because I think it will Oh , five minutes from to finish meeting .
+B :  Oh , before you change anything maybe you um save it first .
+D :  Save it .
+D :  Hmm .
+B :  You can't you can select file and export and then those J_ PEG files .
+D :  Yeah , but then you had the same thing .
+B :  Well , eight . And we have uh , another blank one .
+D :  Example of children remote . Oh wait . Wait .
+B :  Did we change anything ?
+B :  Wow .
+B :  Yeah .
+B :  It's a new uh commercial logo .
+D :  Hmm .
+D :  That's a pity .
+B :  Don't save it , aye ?
+A :  Oh , that's cool , Tim .
+B :  Uh ,
+A :  Finish meeting now . Well , I'm I'm
+B :  why are only the first five SMARTboard files
+A :  I'm going to finish my end report .
+B :  saved ?
+C :  Okay , um hereby is the meeting is finished .
+D :  You declare .
+A :  I am the one who can say that . Yeah ? Hereby the meeting is finished . Yeah .

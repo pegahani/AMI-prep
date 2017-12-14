@@ -1,0 +1,736 @@
+A :  Mm .
+D :  So , Hi Christa .
+A :  So , uh now it's the Hi Sammy . It's the detail design meeting , so we're going last meeting . So um , first uh Mark and Rama are going to present uh the prototype . Uh then uh Sammy will propose some uh crite cr criteria to evaluate this prototype . Then , w we
+D :  Yes .
+B :  Yes .
+A :  And then we going to do some finance to see if uh it is uh feasible and uh at the end we will we will um evaluate ourself as a team . And that's all . Okay . So first , let's uh
+B :  And chocolate ?
+D :  Mm .
+A :  see the prototype .
+C :  Yeah .
+C :  Uh , here we have our prototype model .
+A :  Okay . And you have some slides then ? Yeah . Mm .
+B :  Mm-hmm .
+D :  .
+C :  Yeah . Yeah , we have also some slides .
+B :  Yes , and place some slides .
+A :  Okay . Uh so in which uh
+C :  In
+B :  Uh , participant three .
+B :  Prototype .
+C :  Yeah .
+A :  Mm okay . Mm .
+C :  Five .
+B :  Uh , so
+C :  Him .
+B :  this is our
+B :  remote control .
+B :  It's a r working prototype . You can use it now by switching all these buttons . So first , I present as we came to this perfect model , and then we'll give some technical specifications . That's well , so that's that . Please , next slide .
+D :  Yeah .
+A :  Mm-hmm .
+B :  We analysed all the fruits and contacted NASA , and uh made some real good Yeah . If you can see this , and the stars are showing that . And um ,
+A :  MASA ?
+D :  Mm-hmm .
+B :  s society will accept that . For sure .
+B :  And making some analysis of different fruits , we choose the ultimate form , ultimate colours , and uh ultimate smell of it . S please , next slide .
+B :  But we still didn't want to go far from our titanium idea , 'cause it's the most of the moder the m
+B :  the modern material we can p select .
+B :  And it's practical .
+B :  And it's still say it's for our needs , so please press something .
+B :  And as I said , it's perfect .
+C :  .
+A :  Okay .
+B :  Please press it . Everyone is f really uh really glad to obtain an
+C :  Experience . Explanat
+D :  Such a nice thing .
+B :  s such a r such a device . So you can touch it with your hands . Sure . Yes .
+C :  See this .
+D :  Can I ? Ho-ho .
+C :  You can
+D : 
+A :  What do you say ?
+D :  It says
+B :  You must say it .
+C :  Spongy .
+D :  I will uh
+A :  One day . He
+D :  I'll buy it . If I if I need so . Hopefully my daughter will like it .
+B :  Yeah .
+B :  Okay . Y and we got the answer . Uh , it is , yes , of course . , please next slide . Um , this is a prototype . You can have a look at it , and
+D :  Yes , of course . Of c course .
+D :  Ah .
+B :  That's all I wanted to say . Now it's technical specification by our
+C :  Hmm .
+B :  colleague .
+A :  Hmm .
+C :  So
+D :  Oh , there is a button missing . Okay . It's in option .
+C :  Yeah . This this is really flexible . You can add your buttons . Yeah . So function , mm
+A :  Mm-hmm .
+C :  So , as we discussed , we have to switch on switch off whenever we want . And so , we have buttons and using L_C_D_ , or like you can use this jog wheel and select which ever option on the L_C_D_ , and then do on and off . Then you ha you'll have volume control . So , you you can press these buttons to increase or decrease the volume .
+C :  And we have some L_C_D_ controls . Like , m switching the L_C_D_ display if you want to use L_C_D_ , or you don't want you can just use normal button . And we have speech recognition . Here you have microphone , and then it date records your voice , and then it try to recognise . And it can also do the action .
+A :  Mm-hmm .
+D :  Hmm .
+C :  And location finder . And we want to do the location basically using speech recogniser . You can just say , where is my remote control . Or uh , you can just give some nickname to your remote control , like Bobby . And then , it will say hi .
+D :  Mm-hmm .
+D :  Hey , babe . Bob . Hey Bob .
+A :  Bobby . Mm-hmm .
+C :  Yeah , hi , and then you can use it .
+D :  Okay , that's good .
+A :  Hmm . 'Kay .
+C :  So , um our team is now fruits . Mainly strawberry . So , you can have And then you can see the look L_C_D_ and all the switches .
+A : 
+D :  Oh , these are strawberries .
+A :  Are colourful . Yeah .
+C :  Material , we want to stick to titanium .
+C :  We will send , we want to
+D :  Fruit smelling spongy titanium . I didn't know it exist , but that's great .
+A : 
+C :  Yeah , or s
+C :  So , we want to have simple and perfect shapes , like I shown in these phones . You can have your own designs and and you can feel simple designs . And you can choose colours on your day for each day , or even many colours .
+D :  Ha .
+A :  Ho-ho .
+D :  You mean we can change the colour uh of th
+A :  That's for the L_C_D_ or for the titanium ?
+C :  For the L_C_D_ .
+D :  Yeah . Yeah okay , for the L_C_D_ .
+C :  With titanium it's it is silver . Yeah .
+D :  Tit titanium is
+B :  We are still working on titanium . So , r we'll start with L_C_D_ . You can ask Bob . It's Tuesday .
+A :  Mm-mm .
+D :  Uh , okay .
+C :  Mm , yeah .
+C :  Yeah .
+D :  Yeah , Bob , please . Tuesday colour .
+A :  Hey , you know you're theme today .
+C :  Yeah . Even you can configure your colours for its the depending on your mood , or s
+D :  Okay .
+A :  Hmm .
+D :  Mm-hmm .
+D :  Black for Sunday .
+C :  And you can have many colours on weekends . Or
+A :  And w wait , wh what are the strawberries for ?
+D :  On the L_C_D_ ? Oh .
+C :  Huh ?
+A :  Wh wh
+C :  Ah , these are like sensors .
+D :  Of course . What do you think ? Strawberry sensors .
+A :  Mm-hmm .
+B :  That's location sensors .
+D :  Very useful .
+A :  Okay . Strawberries .
+C :  So , after this meeting we'll propose a party for our success for
+A :  Ah .
+D :  Lounge meeting .
+C :  So , if you are vegetarian or you have any options , please let us know .
+B :  Yeah , and we can just some strawberry first . Um
+C :  Yeah .
+D :  Alright . Good .
+A :  Okay . Mm-hmm .
+B :  Oops .
+D :  So , huh . Interesting . In interesting . Mm mm .
+C :  So , any specific questions for
+A :  Uh we'll see in the financial part if uh all gets into
+D :  It makes sense .
+C :  Yeah .
+B :  Let's make a party first maybe .
+C :  Yeah . Then we can discuss We can
+A :  W
+A :  Who is the five uh fifty millions we first make a party in ?
+C :  Yeah , then we can have how much for how money is left .
+D :  So uh , this is
+A :  Mm-hmm . Okay . Uh , so
+D :  What a design .
+D :  It's my turn . Mm-hmm . Let's see if this Yeah , if you meet
+A :  Let's uh , yeah , let's see if uh th it's meet the evaluation criterium .
+C :  Yeah .
+D :  the evaluation criterion .
+A :  Oops .
+C :  Fudge .
+D :  Yeah . So , evaluation please .
+D :  So . You made a very nice prototype , and um , I think , we now need altogether to try to evaluate it to see if it makes sense to do it , if it fulfils our what we want to do , and things like that . So mm
+D :  Uh , next slide , please .
+D :  As you know , before going and uh creating and producing these strawberry uh remote control , it's very important to first verify if it makes sense , if we have a chance to sell it . Uh , so we need to evaluate it um , try to do it in a constative way , and as much as we can .
+C :  Yeah .
+D :  To so what I propose is that we are going to to have this scale from one to seven . One meaning that , ye yes uh it fulfils uh the the criterion , whatever it is . And seven meaning , no it doesn't fulfil at all . And we're all l going to list all the criterion . I'm going to go to that next slide , and together try to evaluate this according to this criterion and from one to seven . And then we are just going to have an average , which will give us the value of our uh remote control . So , maybe we can have a look at the criteria ?
+A :  Okay .
+C :  Fancy .
+D :  So these are the criterion uh I'm I thought were important . Of course , this can be discussed , but let's let's see , so let's vote . So we have fancy here and we have the scale
+A :  Mm-hmm .
+D :  from one to seven
+D :  with four in the middle .
+C :  Huh .
+D :  So ,
+C :  Yeah , what's is really
+D :  what do you think , is it fancy ?
+C :  Uh , it's really
+A :  Uh , I think that fancy , we can say it is fancy .
+D :  It is very very fancy . Or have you ever seen something like that ?
+A :  Oh . I am not the d the only one choosing , yeah . Uh what do you think ?
+D :  Yeah , of course . What do you think ?
+B :  Feel the weight .
+D :  Is it
+D :  The weight is later . Now we're We're on the fanciness now . I think it's quite fancy .
+C :  Yeah . Oh .
+B :  Really .
+A :  Uh-huh .
+B :  Okay .
+C :  Yeah , yeah . We can give at least five or six , seven .
+D :  It's uh
+A :  Yeah . Yeah .
+D :  Yeah , so No it's it's one . Yeah , o one means it's , yes , a very fancy and seven mean no at all . So it's one or two . What do you think ? Two ? Okay . So here , two . Up . Then we have uh technology .
+A :  It's in the other . Yeah .
+C :  Oh , Oh . So Oh , okay .
+A :  Mm .
+C :  Yeah , okay . Oh , okay . So
+A :  Two . Let's say two , yeah .
+C :  M maybe two .
+B :  Two . Two .
+C :  Technology .
+C :  Yeah . Um
+D :  So , what about technology ? We have uh we have speech recognition , we have location based , we have L_C_D_ .
+C :  And we have L_C_D_ .
+C :  So you change colours .
+A :  Change colour of t
+D :  Change colour , I mean that's very
+C :  Useful .
+A :  Yeah , I think it's a
+D :  Quite d I think it's a one for that , at least . At least a one , yeah .
+B :  Yeah , yeah , yeah .
+A :  Yeah . Yeah .
+B :  Yeah . Uh
+C :  Yeah , yeah . It's silly .
+A :  Mm-mm .
+D :  Robustness , uh-huh .
+C :  Uh , still we need to cha
+D :  So let's suppose my daughter take it and um and through it away . Do you think it makes sense that it's going to live again ? Uh , maybe not the prototype . Let's try .
+A : 
+A :  Um
+A :  The strawberries Oh .
+C :  Yeah , it Maybe strawberry .
+D :  Oh my god . Okay , we just lost one strawberry . So Not at all ?
+B :  No . No . How can I say this . It's still it's still working , and your daughter got a bonus . A strawberry .
+C :  Oh .
+C :  Yeah , we can easily plug it .
+D :  It is
+D :  Yeah . Yeah .
+D :  So it's not so bad . I um uh I would say three .
+A :  Mm-mm .
+C :  Yeah , yeah .
+A :  Yeah . But it's too . It's um robust , yeah .
+C :  Yeah .
+D :  Yeah , that does make sense , yeah ?
+C :  Useful ?
+D :  Useful . Well , so the question is does it have uh the minimum requirement of re remote control ? So I don't know . These buttons are uh It not clear . But you have at least uh next produce .
+C :  Yeah ,
+A :  Oh , yeah , lets me try .
+A :  Yeah .
+C :  Yeah .
+A :  What is uh next , please ?
+C :  Yeah , channel . I this is volume control and channel changes . These are the main
+D :  Uh , it depends on the Okay .
+A :  And you can uh do di two sites ? Yeah .
+C :  You
+C :  Yeah . Yeah , and you can do on L_C_D_ using these going to scrolling all the option . So if you don't want
+A :  Okay , also .
+D :  So but , for instance , because the L_C_D_ is not uh touch control , touch screen , you cannot go to channel twenty five directly .
+C :  Yeah , um yeah .
+A :  You can , by using the
+C :  Yeah .
+B :  You can .
+D :  Directly .
+B :  You go you So , the basic mode Yeah . So that's simple . The basic mode is uh you got just two buttons and a jog dial . With two buttons , you do this like uh volume up , volume down . Or if you go to the site , it's channel up channel down . And if you want to make to s twenty-five , you push on this .
+A :  You c push here the the yeah .
+D :  Yeah .
+D :  Oh , it's a jog dial , okay .
+D :  Uh-huh .
+C :  And channel .
+D :  Okay .
+D :  Yeah .
+C :  You can select .
+B :  You select twenty , you select five . That's it .
+D :  Okay .
+C :  Yeah mm .
+D :  It's much longer than that that being two two five , no ? Don't you think so ? May not okay , we can go . That's uh You're right .
+B :  No .
+C :  Yeah , yeah , yeah . Y you need to like press two and five and Yeah .
+D :  That's it's less uh Yeah . But it's it's nice , because people anyway don't go there . But
+C :  Yeah , yeah . Yeah mm .
+D :  So what do you think for it , usefulness ? Seems to be useful .
+C :  So , d Yeah , we need to address we want we only address two main functions here and the other functions will be on L_C_D_ . So
+A :  Let me understand well , because I'm not sure that's for that this one are b d uh two dir directional button . Yeah , two
+C :  so
+D :  Both .
+D :  Yeah .
+B :  Yeah . Yeah .
+D :  Yeah .
+C :  Yeah .
+A :  Yeah .
+D :  Up down or left right . Yeah .
+C :  Yeah . Up .
+A :  Yeah . And which what is that ?
+D :  That
+B :  It's a jog dial for controlling the cursor on the L_C_D_ screen . Like , selecting the menus .
+C :  This is jog wheel .
+A :  Okay , okay . It's a kind Oh , okay okay .
+C :  Yeah .
+C :  Um , see in L_C_D_ , like you will have blocks and you select which one .
+D :  Cool .
+A :  Oh oh okay , great .
+D :  I would say then uh
+A :  Now it's looks us useful . Yeah .
+D :  Two or three ? Two or three ? Two .
+C :  Yeah .
+C :  Yeah .
+C :  Two , maybe .
+A :  Yeah .
+D :  Okay , two .
+D :  So size and weight .
+C :  Yeah , yeah .
+D :  Is it the the the effective size and weight that the Is it uh real size , real weight ? Or Because it Size is going to be that , yeah ?
+C :  Yeah , it's size al almost
+C :  Yeah , because it is The weight will be bit lighter . We will s We use titanium . Yeah .
+D :  Uh , and and
+A :  Mm-mm .
+B :  Sure , without titanium alloy , it's going to be light .
+C :  Yeah . Yeah .
+D :  It's going to be lighter , because this seems to be very heavy f I mean , for my daughter , for instance . Not sure if uh she can use it .
+B :  Of course .
+C :  Heavy . Yeah .
+A :  Mm-hmm .
+C :  Yeah .
+C :  But sides uh , the sides should be okay . . Yeah mm .
+D :  So , should be okay .
+D :  Up to three for that , because I'm haven't seen the weight so I must not uh Colour and shape .
+A :  Mm-mm .
+B :  Okay . Okay .
+C :  Oh .
+A :  Uh-oh .
+D :  Well , so colour , it seems that we have the several colours for the L_C_D_ . But um , it's not very clear what is the colour of the sh the sh the case . It's a it's going to be titanium . Okay , okay . That's nice . I think it's good . Okay .
+C :  Yeah .
+A :  Yeah .
+A :  Yeah .
+C :  The case is silver titanium , no ?
+A :  Yeah , it's .
+C :  Yeah .
+A :  Let's imagine .
+A :  And what about the strawberries on the top ? I'm not convince . But maybe I'm not trendy . But , uh
+D :  Yahoo .
+D :  Well y you know , it's this uh fruit and vegetable year . So
+C :  Oh .
+C :  Yeah , yeah . Yeah .
+A :  Yeah , but uh uh they're not useful . I I mean it that's uh
+C :  So maybe , I think
+D :  Uh , I think usefulness is m as as I rem um just have to remind you that usefulness is much less important than fanciness . Whether it's fancy or not now , it we have to decide . But this If it's
+A :  Mm-hmm .
+C :  Yeah .
+A :  Yep .
+C :  Yeah , well
+C :  Yeah . Um
+A :  Hmm .
+A :  I would have m uh i found more fancy that the fruits are useful .
+D :  Uh-huh . So , that they will that maybe the fruit may be here instead .
+A :  Yeah .
+D :  .
+C :  Yeah , well then it's bit difficult to use . Not like this d We're just giving the fruit for more fanciness and more attraction , too . So , maybe think we can have rubber or some sponges , stuff for strawberries and different colours . So it's Even
+A :  Mm-hmm . But the n Yeah .
+A :  Mm .
+D :  So , it seems we are not so clear on the shape uh
+C :  These buttons
+A :  No , I'm not sure uh why uh if it was like this
+C :  But it looks really not really good . I mean , the f Yeah . So these are kind of rubber things . Even if you lose one you can just put whatever . Even we can provide many different colours or different fruits , and
+D : 
+A :  It's n no , it's not fancy any more .
+A :  Okay .
+B :  And
+A :  Uh-huh . And different routes . Okay , I see what
+B :  Moreover , moreover it covers it covers all the end goals . Even if it is , you know , it's very rounded , but still you got some rubber fruit here , and it's completely uh completely secure to leave it uh with children and that .
+C :  Yeah .
+C :  Yeah .
+A :  Okay , so you you you feel like it's something uh a protection for the remote control .
+C :  Yeah .
+C :  Yeah . Yeah . Yeah , we've yeah we have sensors here and so here and here , so we just Yeah , so even if you don't put , it works . But this is really fancy .
+A :  Also .
+A :  Okay .
+D :  I suggested three . Because uh , everybody s doesn't seem to be convince , although it's quite You have good arguments . But
+A :  Okay .
+B :  Okay . Okay .
+C :  Yeah .
+C :  Yeah .
+A :  Okay .
+D :  And uh the last one is adaptive . This is not r maybe not as important as the other one , but uh can we adapt it to each each personal use ?
+C :  Yeah .
+B :  Sure , sure , just look at it .
+D :  Great . Fully adaptable . That's Yeah . So you can fit into your palm , okay . That What else can we need ? You Do you think you are gonna be able to do that with ti titanium as well ?
+B :  It's full adaptable .
+A :  Wow , that's a
+B :  Yeah , you can fit it into your palm , you know .
+C :  Yeah . You can Yeah .
+A :  Yeah , it's fudge titanium . You know . Right , yeah . And uh
+D :  It's fudge , yeah , yeah . Yeah , fruit titanium , yeah . Well , I if if this is if you are ready to do that , then I think it deserves a one .
+B :  Mm ,
+C :  Yeah .
+A :  Okay . Let's go for one .
+D :  Okay .
+C :  Yeah .
+D :  Now we have to do the average .
+C :  Three , three , six , eight , eleven .
+D :  Who is good in math ?
+B :  It's two point one seven .
+D :  Okay . Two point one seven . That's nice . Two point one seven out of seven . I think we have a good
+C :  Hmm .
+C :  .
+A :  Yeah .
+D :  good thing . Well , that's all I had to say about the evaluation . So
+A :  So it's a good evaluation .
+D :  It seems to be good , yeah . We have uh
+A :  Yeah . Mm .
+C :  Yeah mm . Yeah , two one one seven , we have . So
+D :  Yeah .
+A :  Mm-mm .
+D :  Yeah . Okay . Thanks .
+A :  Okay . So now , it has to fulfil the financial criterium ?
+D :  Ah-ha .
+A :  So , I have an Here . Um
+A :  .
+D : 
+A : 
+C :  Energy . Uh , we use bat
+D :  So so how many batteries do we need ? One battery ?
+C :  One battery . Yep .
+A :  Okay , so two .
+D :  Good .
+D :  Why two ?
+C :  Oh , we just need one , I guess .
+D :  Say no . No , ne never install .
+A :  Uh-huh .
+D :  Two batteries or one ?
+A :  Oh .
+C :  No , number is one . We need only one battery .
+D :  Only one .
+A :  Yeah yeah , but the price is two . Oh , number . Sorry sorry sorry . I'm sorry .
+D :  No , no . But no , no . No , no way .
+B :  No , uh you just Number . Yeah .
+C :  Number , number .
+D :  Yeah . You never use uh Excel ? Good .
+A :  Yeah . Yeah . Oh .
+A :  No , never .
+B :  How What what's the limit ?
+A :  H
+D :  It's twelve bucks .
+B :  Uh , it's it's okay that I don't know , 'cause uh it's not my field . Twelve bucks . Okay , now Mm-hmm . Check that number also .
+D :  Twelve bucks . Twelve and a half , I think .
+C :  So we
+D :  Okay .
+D :  Okay , electronics . So
+C :  We have sample chip . Uh , like simple chip , yeah . So , yeah . Yeah . Four buttons at least . And then we have the t sample speaker sensor for speech recognition .
+D :  It's a simple chip ? Simple chip , okay . One .
+D :  Okay .
+A :  Okay .
+A :  And for the
+A :  One also .
+D :  One or two ? One ? Okay .
+C :  Yeah , one to one . Yeah , one .
+D :  So the case , which one uh is it in the end ?
+C :  Yeah , I think we will go for a single curve , no ?
+D :  Let's do a single curve .
+C :  Oh , is
+B :  It's it's flat .
+D :  It's flat , and curved .
+C :  Oh . Oh , okay .
+A :  I thought you can curve somebody .
+B :  It's flat .
+B :  But it is flat , you Look . It's curvable , but it's not curved .
+D :  It's curvable .
+D :  Maybe there is a supplement for that , no ? It's only curve ? Okay , let's go .
+A :  Mm-hmm . Oh see , I I think that the the price is this one .
+C :  Yeah .
+D :  This Okay , you d We tried , we tried .
+A :  Yeah , yeah . Don't chip on me .
+C : 
+C :  Oh .
+B :  Oh , okay .
+D :  So , what is it ? T titanium ? Mm , that's expensive . Mm-hmm .
+C :  Titanium .
+A :  Mm-hmm .
+B :  Mm .
+A :  Mm-mm .
+B :  Mm .
+A :  Yeah . But she wanted u the fudge titanium . I think it's five , but you don't say .
+D :  Okay .
+C :  Yeah , well
+D :  Let's stick to s titan . Special colour ? No because uh
+B :  Well , n Why three ? Why three ?
+C :  No , only one , no ?
+A :  Mm .
+A :  Oh , sorry . Again , I'm See it .
+D :  Yeah .
+C :  Um
+A :  Special colour , or it's only on the
+C :  Interface .
+D :  Oh .
+C :  Yes , in L_C_D_ display . Ok
+A :  Yeah , but there is no colour here . So I put it here .
+C :  Yeah , an Yeah .
+C :  Push-button .
+D :  So the L_C_D_
+A :  How many push-button ? Three or two ?
+C :  Uh , two .
+D :  Two .
+A :  Is there The scroll-wheel , okay .
+D :  Yeah .
+C :  Yeah .
+D :  It's going to be expensive .
+C :  One scroll wheel . One L_C_D_
+C :  displayed .
+A :  Okay .
+A :  Um
+D :  That's all ? No .
+A :  That's that's not We choose this one , and not this one .
+C :  Yeah .
+D :  Oh , I think , no it's Uh , is it a scroll wheel and pe push button , th this centre one ? Or only only scroll wheel , okay .
+C :  Yeah , it's cheaper .
+A :  Or only a scroll-wheel .
+C :  Yeah .
+C :  Only scroll wheel . Yeah mm .
+C :  So
+D :  You are trying to make make up make us up .
+A :  You try to s No , no , no . Because how do you do to y select ?
+C :  It's already
+D :  No , but you select with the two d the other two buttons , no ?
+C :  Ah .
+C :  Y ye
+A :  Yeah , I mean you you go on the location with your scroll wheel and then you
+D :  That's true .
+D :  Yeah .
+C :  Yeah . Then it automatically we can just do like you feel , it goes . And it will activate Um , plus , yeah , it's price is really
+D :  Yeah .
+A :  Stay longer . Okay . Oops . Okay , okay . Um
+D :  It should stay . Yeah .
+C :  Special colours , yeah .
+C :  Okay .
+A :  Mm-hmm .
+B :  For buttons .
+C :  Yeah , buttons and strawberries . Yeah .
+B :  No , buttons just normal .
+C :  Special form .
+A :  You you have all of these , no ?
+D :  She's very hard on this . Special colour ?
+A :  Mm maybe n not this one but
+D :  Yeah . No . Special material ?
+C :  Uh , we have titan
+B :  That's for buttons . But buttons are standard .
+D :  Yeah , buttons are the standard buttons . Yeah . It's only buttons , these .
+A :  Yeah , so
+D :  Nothing special . Okay . So we are at seventeen dot eight .
+C :  Yeah .
+A :  Not special colours an interest in ?
+D :  No , the colour is in the L_C_D_ .
+A :  And buttons are not colourised ?
+D :  I no .
+A :  They are m
+C :  Mm , hmm , I think uh because you can just go for a good colours . Yeah , and uh
+D :  We can just use this red . It's
+A :  Boo-hoo . It's already too expensive . Apparently .
+C :  Yeah .
+D :  So what is Are we supposed to cut things out now ? Uh , until we get twelve fifty .
+A :  Yeah . Mm .
+A :  Mm-hmm . Mm .
+C :  Oh .
+A :  So think of what we can cut uh here .
+D :  Well ,
+D :  if I look at what is the most expensive things , uh it's the L_C_D_ and the speaker .
+C :  Sample speaker . Yeah .
+A :  Apparently , we have to choose one or the other .
+D :  Yeah .
+C :  Yeah .
+D :  Yeah .
+B :  Well , as you may know there's some research done in the field of producing energy from mechanical eng , I mean , producing electricity from mechanical energy .
+B :  So , the point is that when you take device and push the button , you produce enough energy
+A :  But you don't need a battery ? Mm .
+B :  to make electricity . Yeah , that you don't need a battery . So , it's something like hand dynamo robot .
+D :  Mm-hmm .
+B :  A real high-tech version of it .
+A :  But um it's like the hand dynamo , no ?
+D :  So that would
+C :  Maybe the jog wheel can be like kind of hand
+D :  So , but if we select the hand dynamo it's okay , we only We we win one . That's already that . Okay , let's do that .
+C :  is
+B :  Okay , but l
+C :  Yeah .
+A :  Uh it's a it's a beginning . Okay .
+C :  Yeah .
+B :  Why not . Let's do that .
+A :  So
+C :  Yeah , just remo
+A :  One here and here .
+A :  'Kay .
+B :  And I propose to So uh , about chips . Advanced chip on print , right ? So , put minus one there , please .
+A :  Mm-hmm .
+D :  I'm not sure if this is legal .
+A :  Mm . That's right .
+C :  Yeah .
+B :  Why not ?
+C :  Uh , no .
+B :  And ?
+D :  And ?
+A :  M maybe minus uh three , no ?
+D :  No . Okay , let's see .
+C :  Yeah .
+C :  No , no . It's not
+B :  So , was there result ? Let's have a look .
+A :  Mm-hmm . Mm .
+C :  It's not changing , no ? It you don't
+D :  Yeah , yeah , yeah , if Click somewhere , you'll see features . Yes , it does .
+B :  Why ?
+B :  Oops .
+A :  So Oh , sorry . Mm-hmm .
+D :  Maybe put minus two , so it looks uh more reasonable .
+B :  Yeah . Why not .
+D :  Yeah , anyway No , minus two .
+B :  Minus .
+D :  Nobody will know . It's not recorded , is it ? Okay , we're on time . Good .
+A :  Mm .
+B :  Good .
+A :  Okay .
+C :  So now on , we can increase our Still you have two more . Maybe we can use it for our party .
+A :  Oh , we can put uh a hand dynamo and a battery if you want . Oh . Both its it's cool .
+B :  And a battery and a battery , yeah .
+C :  Yeah .
+C :  Yeah , yeah .
+D :  No , now we are exp exceeding I think . It
+B :  Now it's fancy , let's add one instead of two .
+A :  Mm .
+C :  Yeah , that
+D :  Is it ?
+A :  Yeah , yeah y
+D :  I think we're exceeding now . We have to remove the
+C :  No , but point five point three .
+D :  Uh , it's better . I think they are counting uh We would prefer , yeah . Maximum is maximum . So , remove one of them . Yeah . Okay . Okay , we're uh on target .
+C :  Okay .
+A :  Yeah . Mm . It's maximum and don't have to Yeah , yeah . Uh
+C :  Is really strict ? Oh .
+C :  Oh yeah .
+A :  Uh , mm-mm .
+A :  Yeah . Mm . Okay . Mm . So target reached .
+D :  I'm just curious to see this uh my address chip on print .
+C :  Ho
+A :  It's um English uh Yeah .
+D :  Trick . Uh , I would say it's the Russian trick , but Anyway No , they may have some their origins , strange origins
+A :  Yeah , but uh is uh English . So Mm .
+C :  Oh . Uh
+B :  Well , I don't know . I don't know .
+B :  I am not sure who was programming this calculator , you know .
+B :  'Cause uh
+B :  I wonder if we put A_ or B_ somewhere instead of a number .
+D :  No , no , no . Let's finish this meeting instead .
+A :  Mm , let's try . Okay .
+C :  And we can discuss all these things in our party .
+B : 
+A :  I save it uh
+D :  What else ?
+A :  Okay , so next mm
+D :  No . This is right .
+A :  No , that's yours . Sorry .
+D :  Okay , so finance , that's done . Are the cost under twelve ? Yes . Project evaluation , good .
+A :  'Kay .
+C :  Mm yeah , very much .
+A :  Okay . So now
+B :  Next slide .
+D :  Project process .
+A :  We have to make um
+D :  Safe uh asse uh safe assessment .
+A :  Yeah . Yeah . Mm . See mm how Are we a good team ? Mm .
+D :  Yeah , I think we've listened to everybody . Everybody could say what they thought .
+B :  Okay .
+A :  Mm-hmm .
+A :  Mm .
+D :  And uh
+A :  Is there enough room for creativity ?
+B :  Yeah , yeah .
+C :  Yeah , yeah .
+A :  Mm . And you .
+D :  Yeah . When we see the results , there is no doubt there Maybe a lack of leadership ?
+B :  Yeah .
+C :  Yeah , it's really
+A :  Mm . Oh . Okay . Well , project evaluation .
+C :  Yeah .
+B :  M maybe not , huh ?
+D :  Team-work , very strong , I would say . Team-work , no problem .
+C :  Yeah , our team-work is really strong .
+D :  Means .
+D :  Whiteboard , digital pens .
+C :  Oh , we still , I guess .
+B :  What was the Oh yeah , what was good ? Everything . What was bad ?
+D :  Yeah , I think white-board is useful . Digital pens , useful .
+C :  Hmm .
+D :  New ideas found ?
+A :  So , you say , is there sheep ?
+D :  Yeah .
+A :  Luck . Okay . So luck , but good . Which imply good uh team performance .
+D :  But uh
+D :  Yeah , but uh then I I mus
+B :  Yeah . A good leader , you know , a good leader is somewhere in the shade and
+D :  That's true . And there's uh one very important point . We're on time .
+C :  Don't really .
+A :  Mm-hmm .
+C :  Yeah .
+D :  Meetings finish when they have to or even before .
+C :  And we also
+C :  Mm . We made Mm .
+D :  The for meeting it's uh one of the most important thing .
+B :  Of course . Uh
+A :  Okay . Mm .
+B :  Not to waste time , that's important .
+D :  Yeah . Yeah , we have other uh remote controls to create .
+B :  We need time f
+C :  Hmm .
+A :  Okay .
+C :  Ah , we got new idea , speech recognition , location finding .
+A :  A lot of uh
+B :  New materials .
+D :  Mm . .
+C :  New materials , new s uh this fancy strawberry design .
+A :  Yeah , uh new ways of doing financial
+D :  Mm , yeah .
+D :  Hey , just wondering if my uh what about the the pink the pinkness of that uh
+C :  And new tricks .
+A :  Mm .
+A :  Mm . They're working on um pink titanium .
+D :  . They are working on a Okay , good .
+C :  Ah , very .
+D :  I think we are great . There's no no other words for that .
+B :  Budget .
+C :  Yeah .
+D :  We are probably the best . Real Reaction is uh Yeah . Yeah .
+B :  Alright .
+A :  Mm yeah . Yeah , we're really nice . Yeah . Mm . Okay . I think it's
+D :  Finished ?
+D :  Ah , celebration . Are the costs within the budget ? Of course they are . Yeah . Is the project evaluated ? Yes , it is .
+B :  .
+A :  Yeah . Uh How Yeah . Mm .
+C :  Yeah .
+B :  Okay .
+C :  Yeah , yeah , it's We got two Good score .
+B :  Yeah , it is .
+B :  So , we see , we can even forecast .
+B :  they propose us like celebration , everything , we could forecast it , right ?
+D :  To whom ? To the whole our company ?
+C :  Oh , okay .
+A :  I'm the one , proposing the celebration . Of course , you know I'm the program manager .
+B :  You ?
+B :  It was you .
+B :  Okay .
+D :  So , let's celebrate . Uh
+A :  Mm-hmm . Ah um , I think it's finish .
+C :  So where we will go now ?
+C :  Uh , ye Will go to Italian restaurant , or
+D :  I think the meeting
+D :  The meeting is over at least . So , we have to go out .
+A :  Yeah . Mm .
+C :  Ah , okay . We can decide . Yeah .
+A :  Mm-mm . And we go to the party .
+B :  Okay .
+C :  Yeah . Thank you .
+D :  Yeah , yeah , yeah .
+A :  thank you to you . Mm .

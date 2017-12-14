@@ -1,0 +1,870 @@
+D :  Hello .
+A :  .
+A :  .
+D :  Yes , I made it .
+D :  English from now on .
+D :  Drawing or
+C :  . Just kidding .
+A :  Yeah just testing .
+D :  Yeah .
+A :  Mm ?
+A :  English .
+A :  .
+C :  So annoying .
+A :  Break is over .
+D :  Ooh it works .
+A :  Whoo . Spicy .
+D :  Spicy .
+D :  Where are are all the other presentations ?
+C :  I just put it in the in the shared folder so it should be yeah I think so . Yeah , conceptual design . What or whatever does it
+D :  The conceptual or
+D :  Ah . Because I see only my own presentation yeah .
+C :  No no no , can you go back one ?
+C :  Uh 'cause it has to be PowerPoint pre yeah components design , that's it .
+D :  This ?
+D :  I'll just put it in there .
+A :  So , he's coming .
+C :  . I did get a bit more done than the last time , 'cause I knew that I didn't have time so I just copy and paste everything into the
+D :  Or not .
+B :  Okay .
+A :  Oh okay .
+D :  Ah , I can't cut and paste it into the other folder but
+A :  Ah . She . You can look at the final report , 'cause I have to record everything we are deciding and such , so I'm trying to write it down between everything else .
+D :  Move to meeting room .
+C :  Sometimes I have these pop-ups or these sounds and there's nothing there , and also with I don't know how to use PowerPoint , so it takes me forever to get something done with it .
+D :  Yeah .
+A :  Oh .
+D :  Yeah me too , .
+D : 
+B :  I I've got the same problem as well .
+C :  Yeah .
+D :  Yeah .
+A :  Yeah . Here we go again . Welcome . Uh we have again three presentations and then we have to decide on what concepts the mobile phone has to uh f the remote control has to support . So who wants go .
+C :  Mm-hmm .
+D :  Yes . Me first again or yeah . Alright . Did you open it already or no . Ah .
+A :  Yes ?
+C :  Who wants to start ?
+A :  Yeah sure . Doesn't matter .
+B :  Oh . No . Yeah . No problem
+A :  No .
+D :  Ah .
+D :  Yes .
+D :  So welcome to the marketing presentation once again . Um this time about trendwatching .
+D :  Uh well there has been inv investigation again , in the in the remote control market . Uh it shows a number of developments . Uh I will address them uh in a moment . Um fashion watch watchers uh have detected the trends for young public , because that's our public .
+D :  Um well fruit and vegetables will be will be the most important theme for clothing , uh shoes and furniture . And the feel of the material is expected to be spongey . So um the developments I will address them oh yeah well this is the fruit and vegetables looks of fresh bright colours . So to give you an idea .
+D :  Um well the developments ? Uh development one . Uh well most important aspect for remote control happens to be a fancy look-and-feel . Instead of the current uh functional look-and-feel . Um well fancy stands for an original look-and-feel of the case and the interface .
+D :  And the second most important aspect is that a remote control should be technological uh innovative . Um well it stands for the use of technical features that do not exist in current remote controls . I think we pretty much covered that with our screen and um and speech recognition , so I don't expect that to be a problem .
+C :  Sound .
+C :  Yeah yeah uh uh .
+D :  And the third development um is that the remote control should be easy to use . Um
+D :  Well the first aspect uh was twice as important as the second aspect,w which was twice as important as the third aspect . So um that kind of gets you this ratios . So fancy look-and-feel uh is the most important uh point of attention .
+A :  Mm-hmm .
+A :  .
+D :  Uh so the fruits and vegetables in combination with the spongey material . Um well technolog technological innovation , we've covered that pretty much I guess . Um and easy to use , I don't think that will be problem . So my point of attention is especially this part . That this will be a crux . So that was the marketing uh presentation . I had only one document left .
+C :  Yeah .
+C :  And shall I go first ? So I
+B :  Yeah . No . I I don't mi I don't mind . That's
+D :  So kind of this
+A :  Yeah yeah sure . No .
+C :  Yeah ?
+B :  Do you want to go first ? Okay . Yeah .
+D :  So a k a small example . Kind of this this look . Uh nothing about the buttons but just sponge kind of thing , and and some fruit and colours I dunno . Just made a quick design .
+B :  Yeah .
+A :  Cool .
+B :  It's better than than my uh drawing .
+D :  Alright .
+C :  Alright .
+A :  Yeah you're just the user interface hmm ?
+C :  Uh components .
+B :  Yeah okay but I have to design the
+A :  Yeah layout .
+B :  Yeah .
+C :  Oh no .
+A :  Yeah okay .
+D :  Yeah . It's okay .
+A :  You probably opened it .
+C :  Yeah true . Um
+A :  F_ five .
+D :  F_ five .
+C :  Alright . So I'm dealing with the components design . Um let's see . I uh used some design examples we had uh from similar products . And I used uh possibilities from our manufacturing department about current components which will have to be implemented in the design . That's why I had to , wanted to go first .
+C :  Well they gave me um an idea about what people want . We're f mainly focusing on this group , but I want to make the distinction clear . Uh I could not drag the pictures into the the slides so s so I don't have examples of how it looks like . But it comes down to what you uh what you think we should do with the spongey and the fruity looking uh type .
+C :  If you , the young dynamic people want soft primary colours uh , which looks like fruits you know , you can and shapes that are curved and not uh solid straight lines anymore . So this basically um yeah goes on to what you were mentioning earlier .
+C :  There is a lot of um factors involved in choosing the components . There's a lot of options that we have to discuss . Uh for example the energy source . we have four types . The basic battery . Uh we have a hand dynamo , which we yeah we Dutch refer to it as the kneipgatt . Uh the kinetic provision of energy which means if you move the thing , if you shake it . Which will be fun for toddlers right , if they wanna use the
+A :  Yeah .
+D :  Yeah .
+C :  And uh of course solar cells . But I dunno how we would use that into the design of the actual product . So uh my yeah also also in you know countries where there's n isn't much light like in Scandinavia , they wouldn't be y able to use it half of the year you know . So that's not cool either .
+D :  Wi an indoors . Oh .
+A :  Yeah okay .
+A :  Calculator's can do it .
+B :  Yeah .
+D :  Yeah .
+A :  Mm-hmm .
+C :  So um for the uh a case , there's uh the traditional uncurved flat hard case . Single curved , which means that it has uh curves in one dimension . Or the double curved . Um I wasn't able to finish my uh personal preferences sheet , but well you know that we will have to go for the double curved 'cause it's daring and different from what we have now .
+D :  Yeah .
+C :  Uh the case materials . Well we have all kinds of hard uh materials like the the hard plastic , the wood and the titanium . I would definitely go for rubber 'cause it fits most in what people wanna see nowadays .
+D :  Yeah .
+C :  Um poo , this is a lot of text . I wasn't able to organise this yet . We have yeah several uh interface designs . Uh we can use a scroll buttons for the menus , but we already kind of decided to go for the f for the pushbuttons , for the the arrow buttons . So that's not really interesting .
+B :  Yeah . Pushbuttons . Yeah .
+D :  Yeah .
+C :  Electronics ? Yeah , maybe we wanna decide on what electronics to use the advanced chip I think
+C :  is easiest to implement uh for the production , 'cause they they can print it better . Um
+C :  Yeah . I think this is about it . Yeah I was working on some per personal preferences . I first uh chose for the battery , 'cause yeah I'm traditional and that's the most obvious , easiest choice to go to . But I really think that we should maybe uh think about the kinetic energy , where you have to move the thing to be able to use it .
+B :  Yeah . Yeah . As an optional uh feature .
+A :  Yeah .
+D :  Yeah .
+B :  Or combine uh both with a with one uh
+D :  I guess we can only choose one .
+A :  Uh I think you can only fit one uh source of energy on the
+C :  Yeah maybe we
+B :  Okay .
+C :  I can imagine that the kinetic uh type energy source would be more expensive to make . But it is more longlasting , that the people don't have to ever buy batteries again .
+D :  Yeah . And it's more fun .
+A :  Yeah I didn't receive any info uh .
+C :  And it's also more fun yeah . I always chuck my uh remote control around , so
+D :  Yeah , just playing with it and especially when the material's rubber . It can be done , I mean , you can't harm it , so it's a perfect combination I guess .
+A :  Yeah .
+A :  S yeah it's safe .
+B :  And throw it .
+C :  Yeah y exactly . You don't have to be scared about bouncing it off the g floor and breaking it or whatever . So that's the end of it .
+D :  Yeah .
+B :  Okay .
+B :  Yeah .
+D :  So
+C :  Uh go ahead .
+A :  'Kay next .
+D :  So double curved is like this , this , this , or
+C :  No it means curved in two dimensions . So uh w single curved ? Uh let's say would be a b square box , but then with curves on one dimension . And double curved would means that it would have curves curves in every direction . Like three D_ . Yeah .
+D :  Mm .
+D :  Yeah .
+D :  Also in in height ? Yeah okay .
+A :  Uh
+A :  Okay . Can we uh
+B :  Yeah . One one uh very important thing I was uh yeah thinking about is the speech uh option . We were going to use that . Yeah . So um
+A :  Yeah .
+B :  Yeah um yeah that's one thing uh which I'm not sure uh of how to implement it uh into the remote control .
+C :  Design ?
+A :  Well the visual representation is not there with speech but you can
+B :  No okay but it has to be combined with with the menu uh for functions and
+A :  Yeah . Just yeah . I think you can just uh match the speech commands with the functions that are already present . So I don't think you have to design anything else for that .
+B :  So okay .
+B :  Yeah .
+B :  Okay .
+D :  Yeah with the programme .
+B :  But do uh j do we uh do the speech just for the basic options , for the simple buttons ? For for everything , also for the advanced options ? Okay . Uh we have this very uh basic uh trendy design . Everybody says it so that's what's uh yeah um
+A :  Both .
+A :  Yeah .
+B :  Yeah in the in the last uh meeting we uh we were yeah putting the the simple and the advanced options separated . That's
+B :  yeah obvious . Um yeah . Pressing the the menu option uh will disable uh all other options on your uh remote control .
+B :  And only the the L_C_D_ panel will uh light up and then you can only uh change the yeah the options .
+D :  And and the and the buttons that you need to control it , I guess .
+B :  Yeah .
+A :  Yeah .
+B :  Um yeah design has to be very attractive but that's your your op your yeah . you have to uh delete this but this is the the the simple uh layout . Uh display on the upper side with the the menu button and maybe a some sort of cancel button or save button . I'm
+A :  Yeah .
+A :  That would be the back .
+B :  The back .
+D :  Yeah . Back and okay .
+A :  Back and okay .
+B :  Back and okay yeah . Uh
+A :  You did read the minutes I wrote ? You did read the minutes I wrote ?
+B :  What ?
+B :  A little bit I think but not not everything w
+C :  I
+A :  Oh okay 'cause I pretty much summed up all the buttons there were . So
+B :  Okay . Oh I uh didn't read that . But
+A :  I hate doing work for nothing .
+B :  But this is the the basic uh design uh for the for the m yeah for the buttons .
+B :  Um
+B :  I wanted to to categorise everything . Uh with a speech display uh yeah , sound , everything you you noted in your uh minutes . Um every pushbutton has uh has its own uh LED light . So you can uh yeah change uh m make it more trendy for for younger people . And uh if there are older people they wanted more uh yeah more uh luxurous so that's an a also an option .
+A :  Mm-hmm .
+B :  Um that was it .
+A :  That was it ? Okay . Uh
+B :  Yeah .
+A :  again . Ugh .
+A :  Okay so what we have to decide is what kind of components do we use ? Uh energy source , chip type , case type . And user interface . But I didn't see a clear distinction between these so I think what we have is okay . So we only , we already decided that kinetic would be the choice for energy . Uh the case would be doubly curved . So
+D :  No .
+D :  Rubber material .
+C :  And rubber . Rubber material .
+A :  Rubber material . And that's the only thing we have left .
+C :  Yeah we need the the chip on print to be able to support the the screen and uh and f audio function .
+A :  Oh okay . No it's easy .
+D :  So that's uh is that is that the advanced chip ?
+C :  Yeah . Yeah . Otherwise you would have a simple chip , just for pressing buttons . But we need more .
+A :  Advanced chip . Okay .
+D :  Wow .
+D :  Yeah .
+D :  Alright . Kinetic . Double curved .
+C :  I'm just thinking , this is not my department , but I I'm not sure what this is gonna cost , to be able to m
+A :  Too .
+A :  Uh I didn't get any info on this . So
+D :  .
+C :  So 'cause we need to sell it for twenty five Euro a piece . That's gonna be difficult huh ?
+A :  Yeah .
+B :  Yeah .
+D :  The cost of making it should be twelve and a half ?
+A :  I have total here .
+C :  Yeah .
+C :  Yeah yeah yeah .
+A :  Yeah I don't know . I didn't get any information about that so
+B :  .
+B :  We're going to produce it in uh China so it's no problem .
+A :  Yeah .
+C :  Child labour man , we love it .
+D :  Yeah , so it's cheap .
+A :  Who doesn't . Uh let's see . Is there a new thing ?
+D :  Um well the interface type supplements .
+A :  Yeah the interface , maybe can
+B :  Uh it's it's quite difficult because we we haven't got all the options uh yeah .
+A :  Ooh .
+A :  No . Uh do you have a picture of doubly curved case ?
+A :  And could you put that in the group folder ? Of the project folder .
+C :  Um let me see . Wait a sec .
+D :  If you go to your homepage or something , you should
+C :  Yeah I'm going there now .
+D :  get your own information .
+C :  Inspiration .
+D :  I got my fresh and fyoo fruity uh picture uh also uh over there , so
+A :  Ah you didn't draw it yourself . Ah .
+C :  Well
+D :  No . Too less time .
+C :  Um yeah maybe it's
+D :  Yeah , also the menu . Yeah that that w
+B :  Yeah . This is the the menu I was uh looking uh at .
+D :  Yeah . Yeah I was thinking of that also , with with a with a uh arrow . So that indicates that there's an menu under that menu .
+C :  Maybe it's easier
+B :  Yeah .
+A :  Arrow . Yeah .
+B :  Arrow yeah .
+C :  Yeah . Yeah perfect .
+B :  Yeah .
+D :  So
+A :  .
+C :  Maybe it's easier if you guys come over here . S see this is the the the standard traditional type , where the form uh yeah serves the function , you know . It's like really basic . But this m is more appealing to old people and we don't want that .
+A :  'S the target group .
+B :  S yeah .
+D :  Oh yeah .
+A :  Yeah sure .
+A :  Yeah .
+D :  Yeah .
+C :  This is what we're looking for . And th that means curved in both dire dire uh dimensions . Not only like this but it has to be exactly . It has to be kind of instead of the PlayStation , the module . It has to be like the the Game Cube , you know , where your thumbs would be laying in the instrument and it has to be nice to hold . And
+A :  Oh okay . I see . Yeah also like this . So you can hold it .
+B :  Yeah .
+B :  But it has also to it it has also to be uh luxurous uh for for yeah rich people .
+B :  Th this looks a little bit like like for only for children . So
+C :  It ha
+A :  .
+A :  The children's story . Yeah I've got it .
+C :  Yeah but that's that's the the problem uh yeah the dilemma actually , 'cause we wanna appeal to the to the young public with fancy with flashy colours , and with a lot of shape . And
+A :  Distinction . Yeah .
+B :  Yeah . The colour
+C :  Yeah , and the and the rubber , it it will look cheap always , you know , with the
+B :  Yeah . Okay but the the colours , you you can make it uh make the colours with LEDs uh beneath the the buttons . If you press a button and you can disable the the colour LEDs for for people that don't like it .
+A :  Mm-hmm .
+D :  Mm .
+C :  There is mobile phones , in which you can change the colour also of the lights . Maybe we should consider this function . To customise it and so I mean kids can make it look more flashy with different kinds of colours and people who want something , you know , different , or more uh design , they can go for one colour like uh for example this uh photo th camera .
+B :  Yeah .
+A :  Mm-hmm .
+B :  Yeah .
+A :  Different .
+A :  Mm-hmm .
+A :  Camera .
+D :  Yeah . Cool . S underwater uh yeah .
+A :  Yeah submarine .
+C :  Personally I think it's really ugly .
+A :  Well
+B :  Yeah .
+C :  Just give me the thing that it's inside there maybe I'm too old for this stuff . Yeah .
+B :  Very cheap uh cheap look .
+D :  Yeah .
+A :  Yeah but this this the is for the .
+D :  Yeah .
+A :  Okay .
+C :  So those I think are all my oh .
+A :  Uh
+D :  .
+A :  Ah yeah bright colours .
+D :  Yeah . Also a kind of rubber uh
+C :  And this is , this is with the curved that I mean .
+D :  Yeah .
+A :  That's singly curved .
+C :  Yeah . Yeah ?
+A :  Okay .
+D :  That should be nice .
+A :  Well we could make a compromise between that . But I don't know if it's worth the effort .
+C :  A compromise between what ?
+A :  Uh instead of doubly curved we take a single curved .
+A :  So to appeal a little more to the all the public .
+D :  So s
+C :  This , this would be uh single curved uh ?
+A :  Mm-hmm .
+D :  Yeah there's only in in this dimension . Like this . So curvy or not . Yeah so we keep it singly c single curved then ?
+A :  Yeah .
+C :  Yeah .
+C :  Yeah . Exactly . Exactly .
+A :  Also .
+A :  Yeah that would be an option . I don't know what you think .
+D :  Yeah .
+C :  I think the I mean our aim is to make something different right ? To make something new . I would go for the double curved . And I I'm I'm thinking uh you know uh a drawing palette , where you have the shape for your thumb . So it kind of holds nicely , something like that . Well this is really your decision but
+D :  Yeah .
+A :  Mm-hmm .
+A :  Okay .
+A :  Yeah I'd agree .
+A :  Mm-hmm .
+B :  Yeah but if you if you make it more curved we we can make more and more options for buttons . If you have uh it have it in your hand , you you you are not only um yeah you don't need one dimension but you can use other dimensions for pressing the the buttons .
+D :  Yeah .
+C :  Yeah . As well . You can make a trigger button or something like that .
+B :  Yeah .
+B :  Something to shoot at your television
+C :  Yeah or that that is the confirmation button or something , that you scroll with your thumb , with the arrows , and then confirm . That would be a nice way to use it but I mean , yeah , I'm thinking big already , and we need something that well that that you can able to use in one hand I think .
+A :  Mm-hmm .
+B :  Yeah .
+B :  That's yeah .
+A :  Mm-hmm .
+A :  Different .
+A :  Stands out .
+A :  Or
+A :  Oh yeah a one hand uh solution .
+C :  Yeah .
+D :  So from top view it looks kinda like this . But from the side you you can have it also in a kind of shape . Maybe because the the screen is on top you can have
+A :  can turn it maybe . To switch from buttons to interface hmm . If you turn it a little .
+A :  .
+D :  Maybe you can c have this kind of shape . A little upwards . So that the screen is more
+C :  .
+A :  Oh yeah . Least you can easily see it .
+D :  towards yourself , so you can easily see your screen . Well well you have it in your hand so it's a kind of an angle from your eyes to the screen . So then you have double double curved in some way . So this this is so the screen is positioned over here .
+C :  How about
+C :  Mm-hmm .
+D :  Oh . Something like that . And the buttons are more , well it's very thick now but
+C :  Yeah I understand what you mean .
+D :  That's uh that's
+C :  How about we do a uh a pop-up screen , like the laptop . So that the only the simple functions will be visible at first . And then if you want
+A :  If you can uh flip .
+D :  Yeah ? That that you can press it and then it comes up ? Or
+C :  Yeah . Something like that .
+A :  Uh so you have a the the side view .
+D :  But then the side view can be straight . If you have a pop-up screen . But I dunno if that's too expensive . I mean maybe it's too much
+A :  So and you want to be able to
+C :  Yeah .
+A :  make this
+C :  No uh like I would draw it like this .
+A :  .
+C :  Let's say this is the side view . That you have a a screen that will come up here , and can go down that way . If you know what I mean . So that it would come up like that .
+B :  Okay . Yeah .
+A :  Okay so the buttons are on top here , and you flip it over that way .
+C :  Yeah or preferably even keep the simple buttons here , and then under the screen even you could put more more advanced buttons .
+A :  Yeah .
+D :  Oh the advanced buttons . Right .
+A :  Oh yeah . Yeah yeah yeah yeah . Right . Yeah that's good idea .
+B :  That's the the more advanced options were uh for the for the menu .
+D :  Yeah .
+A :  Yeah .
+D :  Yeah .
+B :  But you you want okay . You just want to hide them all ? The oh .
+C :  F for the L_C_D_ menu right ? So w w
+D :  Yeah .
+D :  Yeah .
+A :  No not all because you need most of them , the arrow buttons . But you can hide the okay and the back uh button . And the menu button also because when you flip it open and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically .
+B :  Yeah yeah yeah .
+D :  Yeah .
+C :  Oh
+C :  Activate and th the yeah .
+D :  So okay b but you have t you need some button to flip this open .
+A :  Why ? You could just make it mechanical .
+C :  True . True . But you can make a , yeah , you can make a trigger here . You know a simple uh with a
+D :  Yeah . Yeah and it says menu and it flips open and then you have the buttons to control it , in combination with your
+B :  That's but it's it's not
+C :  Yeah . Exactly .
+B :  it's not very uh very strong uh yeah if you drop it one time .
+D :  True . It uh c it can go open .
+C :  Well yeah the the idea of it was , is that because you close it , you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever .
+A :  If you cover it with rubber .
+D :  An adv an adv and it will be covered in some kind of uh thin rubber layer or something like that .
+B :  Okay .
+A :  Mm .
+C :  And
+A :  Yeah . So it can bounce .
+C :  Exactly . Exactly . We just have to make sure that the closing mechanism won't break . Th it's very solid yeah .
+D :  Yeah , uh
+D :  It's very no it's very strong . Yeah .
+A :  Yeah okay so that that may work .
+C :  That actually will offer some extra protection for the
+A :  Okay but then we still have the the the thing of the the the shape .
+C :  Yeah . Yeah I was thinking , if if you have your hand , it this is your th
+A :  Yeah . What kind of
+A :  Harder .
+D :  Yeah the lower part doesn't work I guess , so maybe you should try it over there .
+A :  .
+C :  Okay . If this is your thumb , and this is your hand like that .
+C :  With your uh wrist . That you , that it would be kind of shape like this , you know . So it's easier to hold in your hand , to y f
+B :  But when you are left-handed , that's that's a problem .
+D :  Yeah .
+C :  Uh yeah . Yeah of course . Yeah then w then you would have to to make it like this . Like like you drew here .
+A :  Maybe can design two versions .
+D :  Yeah .
+B :  But that's that's very expensive uh
+D :  Yeah .
+C :  And maybe th then make this thicker also than the centre . Give it I would give it a female shape but uh yeah . Anyway .
+A :  Mm-hmm . And ergonomical shape . Yeah .
+B :  Yeah .
+D :  Yeah .
+A :  The female shape yeah . With two uh
+D :  Yeah .
+C :  Obviously . Make it more appealing to guys .
+B :  We we could make some some rubber uh some rubber uh yeah mouse , with which you can change uh and so if you
+C :  I mean
+A :  Oh yeah . Some uh k esk uh yeah .
+B :  Yeah .
+D :  Yeah but but that's optional for later I guess . I mean , we have to make
+B :  Okay .
+A :  Yeah .
+C :  Yeah but we have hardware inside , which is so it has to have some sort of basic shape .
+B :  Some yeah .
+D :  Yeah we we better so choose one
+A :  Yeah yeah .
+C :  And also the screen , you cannot mould it . You know kind of thing .
+B :  No no no no .
+D :  Yeah so okay we should better choose one sh one shape . But that's the kind of the idea , so it lays good in the hand , and then on on the side with with your thumb , you you can you can use , yeah , you can use the button option
+B :  Okay .
+C :  Yeah .
+C :  And then you can
+C :  You can place the screen here , which can come .
+A :  Yeah . So the keywords are primary co colours , spongey ?
+C :  And but then I w I would
+D :  Spongey .
+C :  I would do the arrows here , kind of thing .
+D :  Spongey can be reached by means of
+C :  Those buttons ? And the simple buttons here , so that
+B :  .
+D :  Yeah . And and the and the control thngs in the middle ? The the the arrows ?
+A :  Yeah .
+B :  Yeah .
+C :  I Uh y eah that's what I mean . The arrows over here , and here the s simple uh
+B :  No the arrow's over here . Yeah .
+A :  Yeah .
+D :  Yeah and then numbers .
+A :  Buttons .
+D :  Yeah . Alright .
+A :  Okay . I think that uh it's a nice design . It's cool .
+D :  Uh pretty nice design . Yeah . Yeah it looks uh pretty fancy .
+A :  Yeah .
+C :  or do we wanna make its shape look like a banana or something ? I dunno .
+D :  .
+A :  Yeah that's
+D :  Uh bananas wierd shape and other fruits also , so it's better to have um some sort of basic print and then a fruit print in some primary uh colours . I don't know what what colours should the basic print be like ? Like some soft green or something ? Or and then
+C :  Yeah .
+C :  Yeah we could make
+A :  Orange or something .
+B :  Or blue ? Dark blue or
+D :  Oh yeah yeah , dark blue and then and then very bright , uh a yellow banana , an orange , uh a green apple , stuff like that , with very uh bright tones I guess . So you have something like
+C :  We should use
+B :  Yeah .
+A :  Mm .
+C :  Yeah w we need very primary colours , like bright red , bright yellow .
+A :  Yeah .
+D :  Yeah .
+B :  Yeah but the primary colours w we can uh create with the with the LEDs on the on the remote control . If you we uh yeah . If you make it uh just a yeah bl give it a blue colour , then it's just a neutral colour , also for the for the more uh yeah for the people .
+C :  Yeah . Yeah okay yeah .
+D :  Mm . That doesn't really work . To draw , I guess .
+A :  Huh cool . No it's
+A :  .
+D :  Oh . What's this ?
+A :  Yeah it's text .
+D :  Right .
+A :  N no you have to exit .
+D :  Hm .
+A :  You could also make line with uh Yeah .
+B :  So that's
+D :  Yeah . Two hours further .
+D :  thickness . Oh .
+B :  So that's blue .
+D :  Oh . Wh why not go for the twenty ?
+A :  Mm .
+D :  Yeah . That's what I call painting . So that's that's a dark blue basic colour I guess . It's pretty nice .
+A :  Yeah .
+B :  Mm .
+B :  Yeah .
+A :  Yeah and then on top of that .
+D :  And then uh
+D :  Oh
+A :  Some yellow .
+D :  Yeah with some some yellow banana
+A :  Banana colour .
+D :  Like .
+C :  And how about some uh some flashing standby lights ? Like you have on the Samsung , well I don't like to call brands phones , the you know that 'cause I remember from one of our first meetings that uh people lose their uh remote controls often .
+D :  Yeah ?
+C :  So it not not only in in the colours of the LEDs , that we want something to keep it visible at all times , or
+D :  How do you mean ?
+A :  Yeah if you if flashing colour so you can't lose it , basically .
+C :  Um
+D :  Some some
+B :  Yeah .
+C :  Yeah . Exactly .
+A :  Well I think it's a bit too much but
+B :  Maybe a
+C :  Yeah .
+D :  Yeah an orange . Well alright well this is more like purple I guess , but it's should be more real dark blue , so the contrast with the with the fruit objects is uh pretty high .
+A :  Yeah .
+A :  Yeah .
+B :  Yeah .
+C :  Yeah .
+D :  So uh yeah . That would be a nice uh nice device I guess .
+B :  And which which colour should uh should I give the the display ? Uh
+B :  Or
+A :  Who ?
+D :  I mean , the the colour of the background of the display ? Ah well I don't guess it s has to be a sixty uh sixty six five thousand uh colour , so yeah too expensive . So just just a a blue blue backlight or something like that . Green is too old-fashioned . But blue , blue's okay . J
+B :  Yeah . Yeah .
+A :  And then you can use yellow or semething .
+A :  Why not ?
+A :  Aye .
+B :  Yeah .
+B :  Mm . Yeah .
+C :  As long as you loo use uh high contrast between the the background and the foreground colour . So that people with uh with
+B :  Yeah maybe a maybe a white a white backlight ?
+A :  Like this .
+D :  White backlight , and dark .
+B :  Dark uh letters , yeah .
+D :  Yeah . Whatever which is visible . I know you sh you should test it under uh under a light conditions . I mean it's hard to tell uh I dunno .
+B :  Yeah .
+B :  Yeah .
+C :  And also for people who are a bit colourblind .
+A :  Colourblind yeah .
+D :  Yeah . True .
+A :  No so that's mostly red and green I believe .
+D :  Which which uh colour should the buttons be ?
+B :  That's adjustable .
+A :  Woah .
+D :  Why adjustable ?
+A :  All all buttons ?
+B :  Yeah ? Or not .
+D :  No uh
+A :  Okay .
+B :  That's how we are going to make it uh more trendy .
+B :  Or is it uh too expensive ?
+D :  But maybe I mean they have to they have to have some colour right ? And if the background is very dark blue
+A :  It's difficult .
+A :  Blue .
+A :  Maybe green .
+C :  But don't we wanna make the background the the bright colo colours ? So th the total of the thing is very bright ? Like the pictures I showed you guys . Those things were all like like bright red , bright red , flashy .
+A :  Yeah you can
+D :  Yeah ?
+A :  Mm-hmm flashy .
+D :  So more like
+A :  Mm bzz .
+D :  Doesn't work very well . Uh . More like this colour .
+C :  Yeah something like that , something that stands out more .
+D :  And then then yellow and orange and red objects on it or something . But then then again , which colour should the buttons be ?
+B :  Mm .
+C :  Yeah .
+D :  The the press buttons . Should they be white or black or
+A :  Red maybe .
+B :  And it it looks quite cheap , that colour I think . It's it's not
+D :  Uh
+A :  Black .
+C :  The green ?
+A :  Why ?
+D :  Yeah but it's pretty fresh , on the other side .
+B :  Yeah . I dunno .
+A :  Yeah . So
+C :  It's actually a pretty trendy colour at the moment .
+B :  It's it's trendy okay . But
+D :  Yeah .
+D :  My couch is in that colour .
+B :  Mm .
+A :  Ooh . .
+D :  Yeah .
+D :  Well it works pretty well .
+B :  Yeah .
+D :  And then time was up .
+A :  Uh not yet .
+D :  Uh
+D :  .
+C :  Do you get a pop-up if we
+A :  Yeah within five minutes yeah .
+D :  That you have five minutes left or
+C :  Alright .
+A :  Y left yeah left and then uh I have to kick you out .
+D :  So something like this . That should be pretty nice colour . But maybe the buttons , all buttons in red is maybe a bad contrast for colourblind people . Because the of the green .
+B :  Yeah .
+A :  Yeah yeah .
+C :  No that's actu
+B :  But the but the buttons have their own LEDs or not ?
+A :  They have LEDs but they have a colour .
+D :  Yeah .
+C :  Red and green are actually the b the easiest to discriminate . Even for colourblind . They will see one of each as grey . But if you use uh green on blue , those kind of colours will look the same .
+D :  Yeah ?
+D :  Yeah .
+B :  Okay .
+D :  Okay .
+C :  I think .
+D :  So red buttons are okay ?
+C :  I think so .
+B :  Okay . That that's a default uh setting . The the red buttons .
+A :  You can make them red .
+A :  Yeah . But I think you need to keep in mind that the LEDs are just extra light .
+D :  How do you mean ? Yeah .
+A :  Uh they they don't determine the colour that much , I think .
+B :  Okay . Yeah I I was think about a red uh red LEDs and blue LEDs and
+D :  No that's that's too busy I guess .
+A :  'Cause you have to print on them you have a background . Each number is transparent .
+B :  Yeah .
+B :  Yeah .
+A :  Uh partly but you have to print on the number . Or the the sign . So you can't
+B :  Okay .
+D :  You better bet better better keep the LED and the button itself in the same colour I guess . So just an extra
+A :  change the colour so
+B :  Okay .
+A :  Yeah .
+A :  Bit of light .
+C :  You can what we should do I think is is make kind of a see-through plastic button , with uh one coloured LED behind it . So that the whole button will shine
+D :  bit of light and attention .
+A :  Bit of feedback .
+A :  Yeah .
+B :  Yeah .
+A :  Yeah .
+D :  Yeah .
+A :  Mm-hmm .
+C :  as the colour the
+C :  And if you think about easy to use buttons , we have to , well we have to make it the shape so that it's easy to hold f for both hands , but also that you can reach the buttons with your thumb , if you hold the machine .
+A :  Mm-hmm .
+D :  Yeah .
+A :  Okay with
+A :  Uh
+A :  Don't mean to discourage you but uh basically
+A :  you two are going to work on the smartboard . Next thirty minutes to design something so
+C :  Ah , right .
+D :  Alright .
+A :  And the
+A :  You will do the evaluation .
+D :  Of the product ? Which we don't have yet .
+A :  Yeah .
+A :  Yeah uh about
+D :  So wh how should I do that ?
+A :  Yeah I don't know . You probably get a mail .
+D :  Oh okay . Or you you or you send it to me . Or just because you are going to design it on this board right ?
+A :  Yeah . Once they are finished . Yeah .
+A :  Yeah but maybe you can do the evaluation you don't have to evaluate yet but you can make a procedure which to follow . I don't know .
+D :  Yeah . I I probably get instruction on that , how to do that , so I make another presentation I guess . I kn I know what's gonna happen in in yeah so
+A :  Yeah .
+A :  Yeah .
+A :  About . Yeah . You have the basic idea .
+D :  I've a basic idea .
+A :  And you two uh are going to do this .
+C :  So we're gonna work here ? On this sketchboard ? Alright . Thanks .
+B :  Yeah .
+A :  Look-and-feel and
+A :  Yeah . Good luck . So I uh make new page and uh be creative .
+D :  Yeah .
+D :  Yeah . Alright so that's uh
+D :  Yeah .
+C :  Alright .
+B :  But we have to do it at this moment , after th this meeting ?
+A :  Yeah you have uh thirty minutes .
+C :  Thirty minutes .
+B :  Okay .
+A :  Then we have to uh see something which we can uh
+D :  Yeah .
+B :  Yeah . Ah so this is basically the what what we are thinking about ?
+C :  Alright .
+A :  show to the management .
+C :  Yeah . Shall we uh make a new uh
+A :  I would yeah .
+B :  Yeah l let's just uh delete all these uh or
+A :  Yeah .
+D :  Yeah .
+A :  Next .
+D :  .
+C :  Yeah , I just make a new one . Alright .
+B :  Oh , next .
+D :  Yeah .
+A :  Oh and save this uh board .
+C :  Huh ? Yeah I'll just I'll just keep it there .
+A :  Just save it .
+A :  Yeah okay but just press save and uh
+C :  Yeah .
+A :  It'll be fine .
+D :  On the left .
+D :  S so , yeah .
+C :  Uh sorry .
+A :  You can also include clip-art .
+C :  Okay . Current colour ? So um
+D :  Yeah .
+A :  So if you'll rather draw in paint or something
+B :  Okay . Uh
+C :  Shall we make some outline sketches of the basic shape first ? Because I I
+B :  Yeah .
+B :  And then after that we can make the user uh inter interface .
+A :  then look . Yeah .
+C :  Yeah 'cause I have to uh focus on the on the basic look-and-feel design . So how it's gonna look . And you have to think uh how we're gonna put the screen in it and those kind of things . So if I'm drawing and you think okay I'm not gonna be able to put a screen in there , you have to correct . Uh do you mind if I draw in black then ? For normal sketches .
+D :  This ?
+B :  Yeah .
+D :  Uh pretty accurate .
+D :  Oh we skip this I guess . Sound button press .
+B :  Yep .
+A :  Yeah . You can also include it . It's not much work .
+D :  Light only button user ca user interaction .
+B :  Oh no it's it's okay .
+C :  so we kind of want the girlish
+D :  Yeah .
+A :  That's included . Yeah okay .
+D :  Yeah . So the pl the plastic plastic buttons also help uh because of um they are only lit during interaction . So
+C :  figure .
+C :  I'm not so good at drawing .
+C :  Excuse me ?
+D :  Well it's a good thing that the buttons aren't um , well that they are plastic , because then you can light up the light on when when they are usable .
+B :  Yeah . Yeah .
+C :  No uh uh .
+D :  Maybe you should draw it very large like this .
+B :  Yeah but this part isn't uh functioning properly .
+A :  Yeah .
+A :  Sensitive .
+D :  Oh right .
+C :  How do we uh uh or insert text ?
+D :  Erase ?
+A :  I dunno . Maybe just start typing .
+B :  It's a bit uh large .
+C :  Oh that's a bit big . Yeah .
+A :  You also do the other sides . Not only on the front si uh the top side but also the the side view .
+C :  Yeah . Ex exactly .
+B :  .
+B :  L let's make first the the the all the views . The the front view , side view and the back view .
+C :  Uh
+A :  Uh .
+C :  Uh I thought for the side view , that the w the basic section would be rather uh a bit thicker than the middle , where you're holding it with your 'cause your fingers have to fit underneath and
+A :  Jesus . What do I write down ?
+D :  Yeah .
+A :  Why can't I work here ? This is much easier . Yeah .
+D :  Much easier , yeah .
+B :  Yeah .
+B :  The middle has to be very small so you can have it in your hand .
+A :  Mm .
+D :  I don't see a sign that the meeting is over yet but
+C :  Exactly but the uh but the upper side has to be a bit more like that I think .
+A :  No so I just work here a few minutes .
+D :  Yeah .
+B :  Yeah the display , we yeah we can put a display .
+C :  Uh don't you think ? So the display we will put in here , the basic uh functions in here , where it's most reachable . The
+B :  Yeah .
+B :  The the arrow functions . Yeah . Yeah .
+C :  The th
+C :  Exactly .
+C :  Oh . This is hard . What do don't have to draw it exactly do we ?
+B :  No it's it's uh it's okay .
+C :  Wait . Let me try it one more time .
+C :  Maybe I've uh it's easier if I draw it in once .
+C :  Okay , of course it will become way more ugly .
+B :  You can make it m larger . Maybe it's easier to to draw uh
+C :  Yeah .
+C :  This'll take forever .
+C :  It's fun to work with this pen . Um so , larger .
+D :  Oh . Wrong one .
+B :  Yeah that's that's the basic idea . Yeah .
+C :  And yeah . So side .
+A :  Five minutes left before the meeting ends .
+C :  'Kay . Um other views ?
+D :  Alright .
+B :  Yeah only if you are going to put buttons on the side of the unit .
+C :  Uh
+C :  Yeah .
+B :  That's the question .
+D :  But we we
+C :  Let's fill i fill in the buttons later . So this is gonna be from the
+B :  Yeah .
+D :  I is it if if this is from the side woah . Steady . Because there the screen goes up like that right ? So then it's like this , or that's not convenient because then you have the screen like this and look like the it's better to have it somewhat like this . Or does it flip all the way ?
+C :  uh from yeah yeah . Sorry .
+B :  From the
+C :  Yeah .
+C :  Yeah ?
+C :  The the idea is that it has to flip up to here .
+B :  Yeah I'm I'm
+B :  May maybe it's it's easier to to integrate the the the L_C_D_ screen just into this this bubble .
+C :  Okay .
+B :  Because it do doesn't have to flip then .
+B :  Because we have en enough space for for making a an L_C_D . Because here
+C :  Yeah . Yeah yeah yeah .
+D :  It's better to to have this like this I guess , and then flip it like this .
+C :  True .
+B :  But why why do we need uh the flipping uh
+C :  you can adjust the angle to which it flips . So it can also from this angle , it can flip all the way up to there . You can flip it up to there if you want .
+B :  Okay . Yeah .
+D :  Yeah . So w yeah . But we still keep the flipping mechanism .
+B :  Yeah .
+C :  Think so .
+A :  Yeah we keep the flip ?
+C :  Yeah because I think it will feel weird if you would make this smaller and this bigger or something that I dunno .
+A :  Keep the flip live .
+B :  Yeah .
+B :  Uh the the shape is okay but yeah ?
+B :  I don't see the the yeah why why we should use the the flipping uh mechanism . Because we
+C :  I thought it would be cool .
+D :  Yeah .
+B :  Okay yeah . It's it's for for for more trendy uh
+D :  Yeah but maybe Yeah but maybe we we should then
+B :  Because we have enough space . H here we got uh the basic functions , the the arrow uh yeah button .
+D :  Yeah there the middle
+D :  Sh sh shouldn't we integrate it ? And then like i oh th doh .
+B :  Yeah and then h we sh mm .
+D :  Come on . So this is the shape . Oh . It hasn't
+C :  . It doesn't aim so well .
+D :  Okay but the screen is a bit lower because if it falls on the other side , it doesn't fall on the screen . So there's a layer of rubber on the side . So no flipping but just no .
+B :  Yeah , then it's
+C :  Yeah yeah yeah . Definitely .
+B :  No flipping or you wanted the flipping so
+A :  No flipping ?
+C :  Yeah I guess but uh I mean most votes count right ?
+B :  But if you if you
+B :  If you drop it it it just breaks . And it has to be very strong because of the . Yeah kind of
+D :  Throwing and the kinetics . Oh . We better make we better make it like this . Eventually .
+A :  It's shaking .
+C :  Yeah .
+C :  Yeah true true .
+C :  Yeah . Yeah if you if you're going for the kinetics
+A :  Yeah just light on top .
+B :  And it's also for the for the children , it's yeah for people not sixteen years . But there are more
+D :  Yeah .
+A :  Safer .
+A :  Mm . Yeah okay that the target group .
+D :  Uh they are responsible enough to have a mobile phone , so also to to deal with their uh remote uh control . Yes .
+B :  Yeah okay . That's true .
+B :  Okay . Yeah ?
+A :  Well . I just uh ended the meeting . You two go design .
+C :  Yeah . I'm just thinking totally different designs also . Remember that the weird pocketphone thingy which looked like kind of a Gameboy . Maybe we should try something like that . But yeah .
+B :  Okay wi
+A :  Oh . By the way . Um
+B :  Yeah .
+A :  I uh thought up a name for our product . Yeah . It's called uh the Real Remote .
+D :  Yeah ?
+C :  Oh right .
+D :  Ooh .
+A :  With a copyright sign after Real .
+C :  Alright .
+D :  Yeah . Alright .
+B :  The Real Remote .
+C :  Yeah . I like it . Okay . This can go .
+D :  Good .
+A :  So maybe you can include that somewhere .
+D :  Yeah . We should work in our own room right ? Or not ?
+C :  Oh yeah we have to f uh include that in our design as well .
+A :  Yeah .
+A :  I don't see any power cables here so
+C :  Let's see .
+D :  Yeah . Yes .
+C :  What the hell's that ?
+A :  'Kay .
+B :  I think uh it's the sensors . Okay .
+D :  See you two in half an hour uh
+C :  Uh
+A :  Good luck .
+B :  Yep .
+B :  Okay that's the side .
+B :  Ah it's it's okay . But do we want uh options on the on the side with the with the buttons ?
+C :  Yeah . I think we do .
+B :  Or just leave it ? Uh could make an uh a volume button uh scroll , volume button .
+C :  Yeah or j or also scrolling for the m yeah . Yeah ?
+B :  For menu . Or
+C :  I dunno . We w kind of wanted to stick with the
+B :  Yeah . No , yeah .
+C :  Yeah I'm just thinking , if we i we wanna make something different right ? So the with the scroll is is more futuristic than the standard arrow buttons .
+B :  Yeah .
+C :  I think .
+B :  Mm .
+B :  Yeah you are going to design it so

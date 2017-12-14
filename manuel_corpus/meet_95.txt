@@ -1,0 +1,699 @@
+A :  Okay . Here we go .
+A :  Alright , the agenda for thi oh .
+A :  Alright . Um the agenda for this meeting is um we'll initially have the prototype presentation by our two designers . And then we will evaluate it , given the criteria that um that we gave
+A :  gave it . And um talk about our finances , whether we were under or over our budget . I have a um a spreadsheet where we can calculate um our prices for every aspect of of what we've made , given our options . And um evaluate the product , as a group . And um
+B :  Okay .
+A :  So first we'll have the prototype presentation . Do you need the um PowerPoint for this ?
+B :  Um yeah . I just got a few slides , so show them .
+A :  Alright .
+B :  Thank you .
+C :  Um
+B :  Do you want to present it ?
+C :  This is what we came up with . It's a pretty simple design . It's um based on a mango ? Yeah . And we
+B :  Yeah , here we are .
+A :  On ? A mango . Okay .
+B :  Mango shape .
+C :  Yeah . And we have the company logo here and this will be the
+C :  infrared here and this'll be the power point , the on off button kind yeah .
+B :  The L_E_D_ .
+A :  Oh . Okay .
+D :  I'm sorry . What was the where's the L_E_D_ ?
+A :  Oops .
+C :  It's in the middle of one of the little R_s . And then the other one is the power . And uh we just have a simple design . We wanted it all to be
+D :  Oh . Okay .
+B :  So it's palm-held .
+C :  accessible from your thumb yeah palm-held and all the
+B :  Yeah .
+A :  Yeah .
+C :  buttons are accessible from your thumb .
+A :  Notice you have a number ten button .
+C :  So you don't have to
+C :  Oh that was a mistake , wasn't it ? Right no , that's a zero . Take that one off .
+A :  Okay .
+B :  You just need the nought .
+C :  Sorry . I was in charge of the numbers .
+A :  No problem . Ah .
+C :  And this is just if you've got like eleven or twelve or
+C :  thirt the plus . You can go one , three or something . You press that first and then you go one three yeah .
+B :  So one plus one would be eleven , or
+A :  Oh . You press a plus button ?
+A :  Oh okay . I've never heard of that kind before .
+C :  Well we just thought , we have all the numbers here , so we wanted something representative of numbers larger than ten and
+B :  Yeah because if you on your average um remote , if you press one twice you just go to um or uh say you wanted channel twelve , you press one , and then you go to channel one , and then two then you'd just go to channel two , instead of twelve . So if you did like one plus two you could go to channel twelve , or two plus two is channel twenty two .
+A :  Yeah .
+A :  Yeah .
+D :  Oh , there's no e okay .
+C :  So the plus and then yeah .
+A :  Oh .
+D :  Okay .
+A :  But
+A :  Would you have to go zero plus one if you wanted to go to channel one or two ?
+C :  No no , th all that's why we have all these numbers . These numbers um
+C :  these numbers all work independently up to nine .
+A :  Yeah but I mean if you press , it'll go to that channel right away . 'Cause you gotta press the plus afterwards .
+C :  Yeah .
+C :  Oh no . Uh , the plus is only for if you're going past the number nine .
+A :  Yeah I know , but if if I wanna go to say number like sixty five , channel sixty five , if I press the six it'll go to channel six , and then I'll press the plus , and then it'll go to six and then put the five and it'll go to sixty five ?
+D :  Sixty .
+C :  You p
+C :  Oh .
+C :  No you press the plus first . I I well it doesn't we haven't really s I would've thought you pressed the plus first and then the six five , but she says plus press which what do you think is simpler ? It's a
+B :  Oh .
+B :  Well I don't mind , we can further define that .
+A :  I th
+A :  Um
+B :  I wouldn't have thought it'd be a problem that it went to channel six first , in like on the way to channel sixty five .
+C :  Yeah .
+A :  Yeah it wouldn't be a problem . But I was just wondering like as long as we realise that's what it'll do .
+C :  Yeah .
+B :  But I suppose it's not as snappy .
+D :  Well the there is a there's a delay on remotes I think . Where you can have it it's like a five second input time . So as long as you hit them dada
+C :  Oops .
+C :  Yeah .
+B :  Yeah . Yeah . If you don't put it
+B :  Yeah . Yeah , that yeah .
+C :  Yeah .
+D :  it should be fine . As long as there's not a big pause between the t hitting the two buttons .
+A :  Yeah .
+B :  Mm-hmm .
+C :  Yeah . So
+B :  Um
+D :  Was there so on the top there is volume and
+B :  And channel , which is so you could just go like that without thinking about it , like
+C :  A channel .
+D :  Channel up volume up . Okay cool .
+A :  C_ and V_ .
+C :  Just so we can flick
+A :  Right , where um where's the power button ?
+D :  Yeah .
+C :  It's in the middle of one of the little R_s .
+D :  It's the R_ .
+B :  It's the bigger R_ .
+A :  Oh okay .
+B :  So it's just like . We deci
+C :  Yeah , so it's all accessible . Without m taking your hand off the remote .
+A :  Yeah .
+A :  Yeah .
+B :  Yeah um we went for like a a circular design for the numbers because we thought that's kind of a more natural movement than just going like that with your thumb . Uh e ergonomics are all considered . Yeah .
+D :  Mm-hmm .
+A :  Oh okay .
+D :  Mm-hmm .
+A :  Yeah . Ergonomic , definitely ergonomic .
+C :  And it might actually help with the repetitive stress injury as well . Okay .
+B :  It could cause another type of repetitive stress injury though . But yeah , no I mean it's a different movement so yeah . Um and the feel of it , I mean , we've made this out of Play Doh , which is representing the , you know , the rubber , and the spongy rubberness . Um 'cause it was said before in the material specification that this the this anti-R_S_I_ um material is often used in stress balls so this has got a you know a bit of give to it , and it just feels feels different . Would you like to feel it yourselves ? How it fits in the palm of your hand ?
+C :  Yeah .
+A :  The spon yeah .
+C :  Yeah .
+C :  Yeah .
+A :  Yeah . Bit of a stress ball feel .
+C :  Yeah .
+A :  Yes . I would .
+A :  My goodness . There you go . Genevieve ? Yeah .
+B :  Thanks . And you ?
+D :  Yes . Oh it's nice . Oh I think I killed the five . I did . I killed the four . Oh god .
+A :  And something hmm .
+B :  Okay , as for the colours , we were presented with um a limited range of colours for this prototype . But we're thinking that , seeing as we're having it in interchangeable casing anyway , that this is not necessarily a representation of the true colours that we would necessarily use . Or the combination .
+D :  Oh it smells good .
+C :  Of Play Doh yeah .
+B :  Um and we're thinking to carry-on with the fruit and vegetable theme , the colour um combination just could just be named after different fruit , like banana could be black and yellow , watermelon red and green , or vanilla might be the most popular if it just uh blends in more settled cream instead of the others are all a bit garish .
+A :  Oh right .
+C :  'Cause it'd be quite subtle and
+A :  Yeah . It looks more
+A :  Think like vanilla and banana would .
+B :  Banana's more representative of our colour scheme , like the company the yellow and black .
+C :  Yeah .
+A :  Okay yeah .
+B :  So that for corporate identity that would probably be the most strength . I mean watermelon , you know , m probably appealing to the yeah , seasonal .
+A :  Kinda Christmas , you know .
+C :  Yeah , yeah , yeah .
+B :  Apple green , brown , more kinda trendy , you know , khaki
+A :  Yeah .
+C :  The pomegranate's kinda girly and funky kind of , and then the vanilla's more for the more sophisticated customer who just wants something that fits in with all decor .
+A :  Cool .
+B :  Yeah .
+B :  Okay . Um yeah we thought of the components it was definitely um a focus of ergonomics and just a single ha handheld device , I mean you don't need to use both hands , one hand to hold this and type in with the other , you can just use your thumb .
+C :  Yeah .
+B :  Um , as we said the rubber's probably used for comfort and anti-R_S_I_ and that's about it .
+A :  Alright , thank you very much . Good work everyone .
+D :  Bravo
+A :  Alright . And so now that we've we have a prototype , uh we need to go over the finances and seeing if this prototype matches uh what our budget can handle . So , I have
+B :  Mm-hmm .
+A :  something I'm going to
+D :  You want the
+A :  Oh wait a minute . Do you need to do a presentation first ?
+D :  I don't know what order it goes in . I have one .
+A :  Yeah . I'm gonna check that out for a second .
+B :  Mm go
+A :  What time is it anyw
+A :  Oh yeah sorry you're right . Evaluation criteria is next in line . Yeah .
+D :  Evaluation cri Okay . That's me .
+D :  Hello .
+D :  Oh there we go .
+D :  Okay . Come on my computer . Come on .
+D :  Sorry my computer's giving me technical difficulties . Should I press it again ?
+A :  Just press um function eight again .
+D :  Last time I did that it sh
+D :  Okay . You're right .
+A :  And then again I think .
+A :  One more time .
+D :  Oh . Still not there .
+A :  Yeah .
+A :  Yeah .
+D :  Okay now I think for this one I could Would you guys prefer use the whiteboard or mayb maybe I'll just do it on right on the screen where you can see it . Um , we're gonna be doing an evaluation report together based on the protoptype that we've just seen .
+D :  Um and looking looking back at my notes from our both our conceptual and our functional meetings , um I made a list of what our original requirements and goals were , um , back to our kick-off meeting this morning . Um , and we'll evaluate as to whether we've s done what we set out to do .
+D :  Um and we're gonna do it on a one to seven scale where one is true and seven is false . So basically the lower p the lower the points the better .
+D :  Okay so question number one . Does the remote whoops . Sorry . Oh I'm not gonna be able um , I'll do it on the whiteboard . I can't change it so I'm g I'm gonna ask you to push it down once .
+A :  Okay .
+D :  I'll write down our scores up on the
+A :  Ooh .
+D :  Okay so number one . Do we have a fancy look-and-feel ?
+C :  Mm .
+B :  Feel I think . We've been quite successful with the rubber coating and
+A :  Yeah .
+A :  The look is a little bit more playful .
+C :  Well
+C :  Yeah .
+B :  Yeah .
+D :  Yeah I guess that depends on your definition of fancy , but it's definitely different . It's not your traditional yeah .
+A :  Oh definitely different yeah .
+B :  I think the colour has a lot to do with it . I mean th the colours we were given for making the prototype aren't the colours that I think we would've necessarily chosen . It's not the kind of ooh uh at all sleek red , black and yellow , and orange . Um
+D :  Mm-hmm .
+C :  Yeah .
+A :  Oh you were only given red and black ?
+A :  Oh okay .
+C :  Yeah so not very sleek and we don't wanna go for black because most remote controls are black or grey . So we want it to be stand out that way , anyway .
+D :  Yeah .
+A :  Yeah .
+B :  But if you can imagine that in like a s just a maybe uh a kind of pale metallic-y finish or something
+A :  Okay .
+C :  Yeah . A metallic-y finish we were thinking .
+D :  Mm-hmm .
+B :  Well I know know it's for rubber . I mean diff if you can visualise this in nice colours I think it would look quite fancy .
+A :  Yeah .
+C :  Polished . Okay
+C :  Yeah .
+D :  Yeah . I kinda I like the potato look . It's very different . It's what ? Oh sorry the mango the mango look . Yeah it is , fruit or vegetable depends on your mood .
+A :  Yeah .
+B :  Oh well , potato , mango , fruit and veg .
+C :  We we were we were thinking about yeah .
+A :  It's mango . It's mango .
+B :  Potato's fine . Potato's fine .
+B :  Yeah . Totally . It's really adaptable .
+D :  So I myself would say a one or a two .
+A :  Yeah . I would say two . Personally .
+D :  It's a two ?
+C :  I w I'd say two I think .
+D :  Okay , and p
+B :  For the
+C :  Fanciness .
+B :  fancy
+A :  Yeah .
+D :  One being true . So
+B :  I uh two , three .
+D :  Two . Okay , actu that's pro that's gonna get confusing , like that . Okay so question number two was is it techn technologically innovative ? So I know we have the kinetic energy which is very innovative .
+C :  Yeah .
+A :  Yeah .
+B :  Yeah and the use of the rubber .
+D :  Use of the rubber , the use of the L_E_D_ .
+C :  Yeah .
+B :  For the anti-R_S_I_ .
+A :  Yeah .
+B :  The L_E_D_ use isn't particularly innovative and we don't have any scroll buttons , it's all pushbuttons , there's no L_C_D_ control , so if we're thinking about the rest of the market , it's sort of probably halfway . In some aspects it is , like we said .
+D :  Isn't
+C :  Mm .
+D :  Mm-hmm .
+A :  Yeah .
+A :  Yeah . I'd say maybe three .
+C :  I'll go for three as well .
+D :  Yeah . And I think I mean it it's tough to say because we were we didn't want it to be any more innovative than this , because then that would've defeated the purpose . So I mean I we'll put three , but I think we actually reached our goal .
+B :  Yeah . Though it was our specification .
+C :  No . Wouldn't be simple , yeah .
+A :  Yeah we want it simple .
+C :  Yeah .
+A :  Yeah .
+D :  We didn't want it any more than that . Okay question number three . Uh , will it be easy to use ?
+A :  I think so . Yeah .
+B :  Yeah . Yeah .
+C :  Yeah very . I think one for that . Yeah . No .
+D :  Yeah . Yeah . S
+D :  Yeah I think it's you can't really get confused with that . I mean , there'll be s we have to work out the uh number the plus system . But once that's figured out , it should be fine .
+A :  Yeah . One .
+B :  Yeah .
+A :  The plus number thing .
+C :  Yeah that's the only thing yeah .
+B :  Yeah and perhaps the turning on but
+D :  Number four . Is this a good-looking remote ? Remember that seventy five percent of users find most remote controls ugly .
+B :  Mm .
+C :  It's definitely
+B :  Again I think the colour comes into this .
+A :  Yeah colour will definitely be a factor .
+D :  Mm-hmm .
+A :  I think that the logo could be smaller .
+B :  Okay .
+C :  Yeah .
+A :  And maybe not such a prominent way . Maybe like at the bottom , kind of .
+C :  But the
+C :  Remember the management said that it it had to be prominent .
+B :  Not in
+D :  Whoops .
+A :  Oh it just had to be on there I guess .
+D :  Should just not touch it . This time it's the three I killed . I was just wondering if it should be like flatter .
+C :  Yeah .
+B :  Don't worry .
+D :  Or
+B :  I suppose I've got quite big hands .
+A :  I like the appeal of it being like a big glob in your hand .
+D :  Well
+C :  Yeah . But you know what I've just thought of there now . What where's it gonna sit in your living room ? Is it not gonna fall off the arm of the sofa ?
+A :  Maybe if the bottom was just sort of flat , and then the rest is like
+D :  Yeah the bottom could be like ch chopped a bit .
+C :  Yeah . But then it wouldn't sit as comfortably in your hand .
+A :  round .
+D :  Oh . That's true .
+A :  It would still be comfortable I think . We c we could handle it I think .
+C :  Yeah .
+B :  Thing is like that , it's not going anywhere particularly .
+D :  Maybe , it could it could be on the bottom , so you wouldn't loo like if it's flat here , so it sits up . Like that .
+B :  Yeah .
+C :  Oh that would be nice .
+A :  Ah it'd fall over all the time though . It'd be annoying .
+B :  Uh yeah , it's less um , what's th ha .
+C :  Yeah .
+D :  I g
+D :  If it's weighted maybe . Details , details . Okay . So , is this a good-looking remote ? Would we wanna show it off to our friends ?
+B :  H it's got higher centre of gravity like that .
+A :  'Kay we're done designing . Come on .
+C :  Three . You would though , 'cause it's bit it's more interesting than other remotes .
+D :  Yeah .
+A :  I think , it was another colour and it was like I think it'd look okay . I think maybe a two .
+D :  Yeah ?
+D :  I mean I gue yeah , it's personal taste , but
+B :  I would definitely go for that rather than like your average plain old remote like that , but definitely in another colour , I'm not happy with those colours .
+C :  Yeah .
+D :  Yeah .
+D :  Okay , so should we say two for that ? Yeah ?
+A :  Sure .
+B :  Yeah .
+C :  Yeah .
+D :  Okay . Uh , question number five . What's um will people be willing to spend twenty five Euros on this product ? Remember that eighty percent of users were willing to spend more money when a remote control looked fancy .
+C :  I think we have to market it in the right way , that um to say that it is simplistic . So people don't just see it and think , uh , this is so simplistic , I don't want to spend twenty five Euros . We have to market it .
+D :  Mm-hmm .
+B :  Yeah .
+A :  Yeah .
+D :  Yeah it the marketing will have a lot to do with it .
+B :  Yeah . And the kinetic energy , shaker-style-y , whoo , ooh no .
+C :  And the kinetic energy part . Yeah . Don't shake
+A :  Yeah .
+D :  Shake it and the buttons fall off .
+A :  Durable .
+B :  But you know , those'll be firmly on .
+C :  Oh no the plus . You're use the zero . Make a new one .
+D :  No , I guess , I don't know much about the remote control industry , how much your average sells for , but I know I am , aren't I ?
+A :  But you're our Marketing Expert .
+C :  I think they're about ten po ten pound , aren't they ? About ten pounds . Fifteen ?
+D :  But you don't have to buy batteries . So in the long term this can actually save you money . So we'll market it that way too .
+C :  Yeah .
+B :  Mm , yeah , that's true .
+A :  Oh . Exactly . Exactly .
+B :  Yeah . Good point .
+D :  So yeah I think with a good marketing scheme um and the personalisation options , it'll
+A :  Yeah . I would give it a two still though .
+B :  Yeah . Yeah .
+D :  Yeah . Okay number six . Can someone read it out ? Or
+C :  Mm .
+B :  Does this prototype match the operating behaviour of the average user .
+A :  Mm .
+C :  Yeah .
+D :  Um yeah . So that was mainly that the statistics we said
+B :  Yeah .
+C :  I think it does very well .
+A :  Oh yeah .
+B :  Because yeah , because the most accessible buttons are the volume and the and the channel-changing . And it's just you won't have to think about it . You don't have to look down to find them . They're clearly there , easy to use . Simple .
+C :  The zap yeah .
+D :  Mm-hmm .
+A :  Yeah .
+A :  Yeah .
+D :  Yeah I guess the I think the key word there is average , 'cause there were some people that used the uh video input and sound and stuff . But they're not you and I really . So . Okay so one ? Okay . Number seven . C Heather could you push it down ? Will this remote control be easy to find when lost ? Remember that fifty percent of users lose their remote regularly . Now is there the is the alarm system still was it implemented ?
+C :  Uh
+B :  Yeah . Mm .
+A :  Yeah .
+C :  Yeah .
+B :  Yeah .
+A :  We have the alarm system .
+C :  Yeah the bu when you press the alarm system , the lights behind the and it'll vibra
+B :  It
+B :  Yeah l lights on and , or flash as well . But I mean it's not obviously obvious from the outside that that's gonna happen 'cause you can't s particularly see an alarm .
+C :  It'll be again in the marketing .
+A :  I thought the light from the inside was gonna light up .
+C :  Yeah . The light it will .
+A :  Or or was it gonna make a noise ?
+B :  Yeah . But when the alarm's not yeah . If you
+C :  But
+C :  But both
+A :  You press the button it makes a noise right ?
+D :  It turns into a duck and starts quacking . Here I am . Um
+B :  Yeah .
+C :  Yeah .
+B :  You could s Yeah .
+A :  Yeah . Awesome . Awesome .
+C :  Oh , that would be brilliant . I'd be tempted to
+B :  Well the thing is , if it was had an alarm system , I mean , when it when it lights up as we I mean it could light up when the alarm went . But if it was hidden underneath the cushion or something , there wouldn't be any point . So you can't see the alarm , but it would light up .
+C :  Yeah .
+C :  It would have to be in the market
+A :  I though w it was gonna make a noise .
+D :  Okay .
+B :  Yeah . Alarm , but you can't see an alarm inside uh the alarm system itself .
+C :  Yeah but you still couldn't see it .
+C :  It would just be a little speaker on the back or something .
+A :  Okay .
+D :  We oh you're just explaining why it's not on the prototype . But yeah , it'll be there . So we can we could say that
+B :  Yeah . Yeah . It w yeah . Sorry .
+A :  Oh okay . Whoo . Okay .
+D :  We can give it a one , because compared to every other remote ever m ever made , this one will be easier to find . Okay . Um
+A :  Yeah , totally .
+B :  Yeah . Sorry Heather . That wasn't very clear .
+A :  No problem , mm .
+D :  Question number eight . Will it be easy to learn how to use this remote when brand new ? Remember that thirty four percent of users usually found it difficult . So it has to be yeah , it's eas they'll pick it up and they'll know what to do . The plus thing needs to be worked on .
+A :  Totally .
+C :  So the plu the plus w once that's written down on the page that'll be really simple , won't it ?
+A :  Yeah .
+B :  Yeah I think just because it's we've decided to reduce it down to the basic buttons , I think that in itself makes it so much easier to use .
+D :  Yeah .
+D :  Well
+C :  Yeah .
+D :  Do
+D :  Does it make more sense for the middle one to be an just an enter button ? So then you would have to push two buttons every time at least .
+A :  Yeah , so it's just like channel six , six , enter .
+C :  That kind of annoys me though , when it's zero six when you have to press I don't know why .
+B :  Mm .
+A :  Yeah but you don't have to press zeros .
+D :  You could just press six enter , or one two enter . Yeah .
+C :  Oh okay . Right .
+A :  And then like twelve , enter .
+B :  And or sixty six enter , y
+C :  Alright , aye .
+A :  Yeah .
+B :  Yeah I think that's probably more straightforward . Yeah . Good
+C :  Yeah .
+D :  Um , okay so we can we'll say yes it's uh one ? Okay .
+C :  I'd say w yeah one . Yeah .
+A :  Yeah .
+B :  Ooh . Mm .
+D :  Question number nine . Uh , will it minimise the effects of R_S_I_ , which was repeated strain injury ? Um , which affected over a quarter of users .
+B :  Oh .
+C :  Yeah .
+B :  Injury .
+C :  Hmm .
+A :  I think so . It's like right in the
+C :  But if you're zapping yeah . I don't think it will f
+A :  Your thumb might get a little bit uh
+B :  Yeah , that's what I was thinking . We may have to do some more research into other strain injuries that we don't know about .
+C :  Yeah , the biology .
+A :  Yeah .
+A :  But it is soft .
+B :  Mm-hmm .
+D :  It's soft , and
+A :  And that's kind of what the um
+C :  Mm .
+B :  Mm .
+A :  the PowerPoint slide thing said would be good for R_S_I_ , so maybe it is but
+D :  And people could
+B :  Yeah .
+C :  Yeah .
+D :  Mm-hmm .
+D :  I don't know what other options there are .
+B :  I think we're getting that's true .
+A :  Yeah .
+D :  Could I mean , you could hold it in your left hand and d use your index finger . But there's not really any other options unless it's like a keyboard . So , I think we did as as much as you can with a remote control .
+B :  Mm .
+C :  Yeah .
+A :  Yeah .
+A :  Yeah .
+D :  So , one or two do you think ?
+C :  I I'd say t two . Yeah .
+B :  I think yeah , I think too .
+D :  Two okay . Okay number ten . Did we somehow incorporate the company colour and logo ? Now is the colour gonna be there even if it's like vanilla ? Is the yellow
+A :  Yeah .
+A :  Yes we did .
+C :  Yeah .
+C :  N We we can't really do that because for example on the banana theme we can't have it as being yellow . It won't stand out . So n it's not always gonna be the same colour .
+D :  Mm-hmm .
+D :  It sounds like the colour's something that we
+A :  Well , yeah the colours are yellow and grey . So it could be grey on the banana one .
+B :  Yeah .
+C :  Gray , yeah .
+C :  Yeah , could be grey .
+A :  Yeah .
+D :  But I mean the yell yeah d yellow's ugly though , depending on the
+C :  Yeah that's right , we didn't even rea
+D :  So I think we'll have to talk to our executive managers , and see if we can get away with just the R_R_ .
+B :  Mm .
+B :  Yeah . I think this is the
+C :  Yeah .
+B :  the factor that we've been least successful in confronting .
+D :  Okay .
+C :  Perhaps a metallic or or like that's grey , and it wouldn't be that expensive to have a little bit of metal . No ?
+A :  Mm , yeah .
+D :  Yeah . And the buttons in the middle .
+C :  That isn't rubber .
+B :  Yeah .
+D :  Okay . So , do you think that's more of a three then ? Three , four ?
+B :  Four I think . Well I don't what do what
+D :  Four ?
+D :  Well we have good reasons for it , so we but we can still put a
+A :  Hum .
+D :  a four ?
+B :  Okay .
+C :  Okay .
+D :  Okay , and final question . Um , did we stay true to our motto and put the fashion into electronics ? Current trends of fruits and veggies , desire for sponginess .
+A :  I would say so .
+C :  Following that briefing we did .
+A :  But maybe more like two 'cause there's no like pictures of fruit , it's just sort of naming it by a fruit .
+C :  Yeah .
+B :  Yeah . Like um the colour scheme names and stuff .
+D :  Yeah .
+A :  With the with the colours .
+C :  Yeah .
+D :  No , uh , are the plates interchangeable ? I think I missed a few they are ? So you can have banana and kiwi and okay . Okay , so that's something that's kind of in the making too , like maybe it'll become more
+C :  Yeah .
+B :  Yeah .
+A :  Yeah .
+A :  Yeah .
+C :  Yeah .
+B :  Yeah . Yeah .
+A :  That's fashionable in itself to have interchangeable plates .
+D :  Mm-hmm .
+B :  It is .
+C :  I think w yeah , I think one . Well that was our brief and we followed the brief . Well we haven't got a big banana but
+B :  The thing is , I think if somebody saw that and you said what was that inspired from , I don't know if you'd instantly say mango .
+C :  Oh yeah .
+A :  Be like
+C :  No .
+C :  No .
+A :  Yeah .
+A :  Maybe if it was scented . Yeah we have money for that . Um
+C :  Oh that would be class .
+B :  Oh yeah . There we go . That would be great .
+B :  Um
+A :  Alright so based on this evaluation , do we average them out sorta thing ?
+D :  Yes we do . So I wh what was I gonna put for that ? A two for fashion ?
+A :  Oh .
+A :  I would say two .
+C :  Yeah . Two .
+B :  Okay .
+D :  Okay , so our average there , five , six , eight , ten , eleven , twelve , thirteen , fifteen , nineteen , twenty one , divided by eleven
+C :  It's
+D :  is
+A :  One point nine or something ? I don't know these things . Um , between one and two .
+B :  It's
+C :  Yeah .
+B :  Between one and two .
+D :  Between okay . Um .
+B :  So that's pretty fantastic .
+C :  Close to two . Yeah .
+D :  Yeah , that's very good 'cause the highest we coulda got is one .
+A :  Alright .
+C :  I got
+D :  Does that seem right then ?
+C :  Yeah , 'cause we've a four to bring down .
+D :  Okay .
+B :  Mm .
+C :  Uh , aye .
+B :  It seems like it should be more around two .
+A :  Yeah .
+C :  Yeah . Uh , should've added five .
+B :  Do we have an online calculator ?
+A :  I'm attempting to do that right now .
+C :  This is .
+B :  Okay .
+A :  Yeah it is one point nine . Ooh .
+B :  Oh wow . Well done . Well that's excellent .
+C :  Yay .
+A :  Go Heather Pauls .
+A :  Yeah .
+A :  Alright , now with that over and done with , our next step is to see if we are under budget . And um my computer's frozen .
+A :  And now it's not . Okay . So
+A :  um in our shared folder , if everyone could go there right now , um
+D :  Sorry . Are you gonna do that ? Okay .
+A :  I'm going to um steal a cable . Um it's it's um
+C :  Is that the project document ?
+A :  it's an Excel file . Oh .
+B :  Production costs .
+C :  Yeah .
+A :  Yeah . 'Kay there we go . Um , production costs . And um I have to access that as well . One moment .
+B :  It says it
+A :  'Kay so far I've added what I think or what is going on ? Great .
+A :  It's blinking at me .
+A :  It's locked for editing . Read only . I'm gonna open up a second one then 'cause it's locked for editing . I have the original in my um
+A :  my email account .
+D :  Oh is it locked 'cause I'm in it ?
+A :  I dunno .
+B :  I think it just means that we can't add any more to it now . Have you have you completed it ?
+D :  Or okay .
+A :  No . No , I was hoping that you guys could .
+B :  Oh right . Okay .
+B :  Okay .
+A :  Um , there we go .
+A :  Okay here we go . So we need to tally up how much our w our product will be costing . So um if you can look up at the screen , um the large screen , oh I guess looking at your own too and telling me which one you think . Okay we're using kinetic which is quite a large expense at three Euros .
+B :  Yeah .
+B :  Yeah .
+C :  Oh right .
+A :  Um we're using a regular chip .
+B :  Yeah .
+A :  Um , it's cur it's double curved , so its curved all around . That's another three . We're already at five . Um , we're using plastic and rubber , so
+B :  Double double-curved yeah .
+B :  Yeah .
+A :  Good thing plastic is free , we're at eight . Um
+C :  What about a special colour ? Are we using that ?
+A :  Yeah . I guess we should do it just for one kind . So it's like special colour well we'll have two colours right ? Well one colour for the case , one colour for the buttons . So we can
+B :  Yeah .
+B :  Yeah .
+B :  Mm-hmm .
+C :  Yeah .
+A :  Um , we have push button interface , so that's inexpensive . And um we have a special colour for the button , and we also have a special form .
+A :  And a special material .
+C :  And a special material . Yeah .
+B :  Oof .
+A :  Which puts us just barely under budget . Hurray .
+B :  Congratulations guys .
+D :  Mm . 'S good .
+A :  Yeah . Good work guys . So um our operating cost is twelve twenty Euros .
+C :  That's good .
+A :  Awesome .
+A :  And back to our PowerPoint . So we've
+A :  'Kay . Yes we are . So we need to do a product evaluation , again , which is probably um
+A :  I dunno . A different extension of a
+B :  Of the actual project rather than the product ?
+C :  Yeah .
+A :  Hmm .
+B :  A project ? Is is yeah .
+A :  Yeah 'cause we're talking about leadership , teamwork .
+B :  So wh how we actually went round uh about doing it .
+A :  Yeah . Alright so um
+A :  Do you guys feel like there was room for creativity ?
+B :  I think we were pushed .
+D :  Mm-hmm .
+A :  Pushed for creativity ?
+B :  I mean we weren't really given a lot of time , or materials , yeah , to go about our design task . So I think we could've done with a bit more time .
+C :  The ma
+C :  Or materials .
+C :  Yeah .
+A :  Ye Okay . So it'd be like
+A :  need more time and
+A :  materials . But you were allowed m creativity ? I think so as like but you were supposed to have creativ
+B :  Yeah .
+B :  Yeah .
+D :  Yeah and the conceptual and functional . Like we were very creative in in coming up with an idea I guess , but m
+C :  Yeah .
+B :  Yeah . Well we were just limited by resources really and like if we had decided to use the L_C_D_ screen , and like solar power backup and everything , then we wouldn't have been able to afford that . So that did limit
+D :  When we can down to it . Okay .
+C :  Yeah .
+A :  Right .
+C :  Creativity .
+B :  creativity . Just resources . But yeah .
+D :  Mm-hmm .
+B :  The fruit and veg idea .
+A :  Great .
+A :  Leadership ?
+A :  Is this me being like , guys do you like me ? Um .
+D :  Yeah .
+D :  Good leadership , I think we stayed on task .
+C :  Yeah .
+B :  Yeah we did . We've , uh seeing as we've come out with what we intended . A pro um a product within the budget . I think that's a sign of good leadership and also our personal coach helped us along the way , so you know
+A :  Yeah .
+D :  Mm-hmm .
+A :  Yeah .
+D :  And the timing was good . We never were pushed for time , or sat around doing nothing , so
+B :  I think it's been fine .
+C :  Yeah .
+B :  Yeah . Good timing .
+A :  Oop Okay . Teamwork ? I think we worked great as a team .
+B :  And project manager of course .
+B :  Yeah .
+A :  Yeah ?
+C :  Yeah .
+D :  Was good teamwork .
+D :  I think we are well-suited to our roles .
+C :  Yeah .
+B :  Yeah .
+A :  Alright how were our means ?
+B :  Um
+A :  We needed more Play Doh colours .
+C :  Yeah .
+B :  Yeah and more Play Doh , 'cause that was all the red we had . So even if we wanted to make a bigger prototype , we wouldn't have been able to .
+A :  Yeah .
+C :  Yeah , it c it might've been bigger .
+D :  Oh really ?
+D :  Okay .
+A :  But ever
+A :  everything else was satisfactory ? Is that good
+D :  Yeah . The computer programmes are good . The
+C :  Yeah .
+B :  Yeah . It could be really straightforward for the computer . I think the only thing was having to remember to you know to tick the okays but I think I was the only one who struggled with that .
+D :  Yeah . I don't think there was anything
+D :  Yeah .
+C :  I'm actually not sure if I've saved my presentations .
+A :  Yeah ?
+B :  Mm .
+D :  They'll probably still be there .
+B :  Uh me too . Yeah .
+A :  New ideas found . I don't really know what that means .
+B :  Well I think we've all learnt stuff from each other , like the n um yeah . Just about each different . Got new ideas from each other .
+D :  Um
+C :  Yeah . Through discussion .
+D :  I'm not sure , new ideas found .
+A :  Hmm ?
+D :  Yeah well I guess we really it we bounced off of each other , which was cool . Like based on marketing stuff and then you'd say something about interface and yeah , worked well .
+C :  Yeah .
+A :  Yeah .
+B :  Yeah .
+A :  Yeah .
+C :  And we were a able to modify each other's ideas
+D :  Mm-hmm .
+B :  Yeah .
+C :  to fit in with our areas of expertise .
+A :  Yeah . Each other's
+D :  Oh does it have smart materials by the way ?
+B :  Sorry ?
+D :  Does it have smart materials ?
+A :  Mm .
+B :  Oh yeah . Well mm , did it come into the into I dunno if we counted that in the costs .
+D :  Oh yeah .
+C :  If if it if it
+C :  If it can be afforded .
+A :  Okay ? Well with that achieved , our last slide is our closing slide .
+A :  Yes our costs are within budget . It's evaluated generally positively . And um don't forget to complete final questionnaire and meeting summary . Then we celebrate in such a way that I have no idea .
+B :  Yes .
+D :  Mm-hmm .
+C :  Yeah .
+D :  Mm-hmm .
+B :  Uh .
+D :  By watching T_V_ ?
+C :  Yay .
+B :  Fantastic .
+B :  Okay , brilliant . Thank you very much .
+A :  Alright ?
+C :  Yeah .
+A :  Okay , bye .
+D :  Mm .
+D :  Conclusion ? Dadada .

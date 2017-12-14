@@ -1,0 +1,602 @@
+D :  A lapel is also there .
+A :  No .
+B :  Okay .
+D :  Okay .
+B :  Okay , so should I start ?
+A :  Yep .
+C :  Yeah .
+D :  Yeah .
+B :  Okay . So I think it's better to first have a presentation of my work and then we can discuss uh with this crash in temp in temp uh what we can do uh for my future to to continue my research , because apparently I I will have serious problems , okay . So I will start with the presentation of my work .
+A :  Uh you can be sitting here itself and do the presentation .
+D :  Yeah .
+B :  Mm .
+B :  Okay . I start like this then . Okay , so it's uh my g work is generally about uh using posteriors in uh speech recognition systems and uh somehow enhancing the estimation of posteriors , getting new posteriors which are havi which are more informative by somehow integrating some extra knowledge like uh prior knowledge and contextual information related to the problem and then use this posterior estimation uh uh method uh for designing hierarchical uh speech recognition system . So in this hierarchical arg architecture I will be able to uh integrate the extra knowledge at the proper level of hierarchy , and I will be al also uh able to uh combine different kind of uh knowledge or sources uh sources of knowledge I have .
+D :  Yeah , that's better .
+B :  Uh well as you know uh generally posteriors are estimated using uh neural networks and more specifically M_L_P_s in a speech recognition system , so uh time limited window of a speech signal is uh represented by some cepstral features , which are then processed by an M_L_P_ and it gives us some evidence as in the form of pos phone posteriors .
+B :  Then we use these phone posteriors as features or as scores for for either just decoding or d uh uh n d training and inference training and then decoding . Uh but we know that uh in this uh in this case we are not able to integrate contextual information uh uh line contextual information , and we are not able to integrate the prior knowledge we can have about phone use or about
+B :  uh words in the posterior estimation , so the main motivation is to see if we can integrate this kind of extra knowledge in the posterior estimation . So what is proposed to solve this problem is to use a uh what we formally use in H_M_M_ formalism , which is called gamma uh state posterior .
+B :  Uh i uh as a posterior for uh training uh or decoding , so it's uh well as you know it's a state posterior probablility in a H_M_M_ , which is defined as the probability of being in a specific H_M_M_ state at a specific time , having the whole observation sequence and the model . So whole observation sequence means having complete contextual information and the mod uh and the model can encode some kind of prior knowledge for us by means of uh topological constraints .
+B :  Uh well you know it's uh this gam uh gamma posterior is written in terms of forward and backward H_M_M_ recursions , and actually one way to use this uh gamma posteriors is uh using these posteriors as some kind of newer scores for decoding . So in this case it will be uh similar to hybrid method .
+B :  Um the the difference is that we do one more step , uh maybe I can explain it better there . So we do one more step here , and we uh here by means of another H_M_M_ we introduce some kind of uh prior knowledge and contextual information , we get better evidences than what i we initially had here , and then we do the uh decoding and the and s more informative posteriors uh uh instead of this one .
+B :  So we are expecting to uh the system to perform better and more robust to noisy cases . Here you see uh some results uh and how uh how what is the effect of introducing uh reasonable prior knowledge , so different uh rows in this table are showing different level of noise and also clean speech , and different columns are showing different kind of posteriors or gamma posteriors .
+B :  So uh the the first column is showing the uh our baseline system , which is getting estimate of posteriors out of M_L_P_ uh and then d using these posteriors for decoding . And the other columns are showing the performance of uh different kind of gamma , so uh gamma which is estimated using uh information about minimum duration of phonemes , about
+B :  possible transition between phonemes and some kind some uh more prior knowledge like uh which wo like uh which word is composed of which phonemes and uh g uh gram grammatical knowledge ab uh about transition between words and things like this . So as you see , introducing more reasonable prior knowledge um will h help to have better performance in almo in almost all the cases .
+B :  And here I compare the performance of the gamma base system with the standard H_M_M_ G_M_M_ system , which is based on uh doing decoding uh using uh likelihood as the scores , and the difference is that our system use uh is using posteriors for decoding , so as you see s uh it's working uh better than the standard H_M_M_ G_M_M_ system .
+B :  And finally the conclusion is uh he here we saw how we can get uh some more informative posteriors by introducing extra knowledge like prior and contextual information , and then using this uh uh p posterior estimation method to design hierarchical uh speech recognition system which we're which which the goal is to have a better , more efficient and more robust system .
+B :  So if you want now we can discuss about um uh the crash and the loss of data , so uh well I lost all the posteriors I was I uh I used as input uh for my system , so the gamma are somehow estimated or computed on top of posteriors . And now I don't have any posterior and uh probably the scripts generating that posterior , so what I can do okay .
+D :  Uh you go to the table , you have there like the big table , you told and then we can discuss .
+B :  Okay .
+B :  Okay .
+D :  So which I think I have all the gammas , no ? Especially gamma full models I have .
+B :  Gamma full model , but uh what about other ones and what about the f posterior , because because I I uh you know , I cannot uh stop my resea I I may do something else , you know , in future with this uh and well I need posteriors to
+D :  Yeah , posteriors
+A :  Now you need the different method from how from gammas you can generate the posteriors .
+B :  Yeah .
+D :  And posteriors . Even you have those three state perform gammas also , you have all these
+B :  Uh no no , I don't have them there were all under temp . You you we have that because you uh stored them .
+D :  Huh .
+D :  Ah okay .
+A :  Okay .
+B :  So .
+D :  So now yeah , now you can write another paper if you can
+C :  Yeah , you can go back up to the feature , you know . Up to
+B :  Yeah . Yeah . Maybe maybe some other m uh P_H_D_ student should be hired to work on , you know , the generating gamma .
+C :  Mm .
+D :  Gammas to posterior .
+A :  Uh I was just um let's talk about little about this presentation itself , the slide number six .
+B :  Six , okay .
+A :  Okay , how you feel it is important that you're taking the context of the whole utterance ? How important it could be ? Is it not a possibility that you're having less context ?
+B :  Less context , what you mean ?
+A :  instead of having context from one to capital D_ , which is for the whole utterance , which doesn't make much sense in general . So what is a possibility that you can cut the context instead of having the context from
+B :  Uh
+B :  Yes . Yeah .
+B :  You mean a smaller context instead of this .
+A :  That's right .
+A :  Might be left or right , everything there , but not the whole context . Because it's it's a fact that when you are having one utterance , so it one utterances link up full sentence or something , and there might not be much breaks in it . So in that sense it doesn't make sense that you are going too much in the past and then you are trying to compute something which is not related .
+B :  Mm-hmm .
+B :  Mm .
+B :  Yeah . Yes .
+B :  Yeah .
+B :  Yeah , b well , even they can have some information which are not so meaningful or uh which are not related . Yeah well , but then I will have the problem to find the optimum amount of context . How much context should I take ?
+A :  Mm-hmm .
+A :  Kind of let's say idea is usually hundred milliseconds or one second .
+D :  I two hundred .
+D :  Two hundred millisecond .
+B :  Mm-hmm .
+D :  So but for numbers I think it may be okay , numbers hardly yeah . one two .
+A :  Yeah , numbers it might be okay , because most of the sentences might be three seconds or something .
+D :  Even less than that , yeah . Just few words , like so but if for or something , like if it's really long sentence of ten seconds or something , you may not really need so much con
+B :  Mm .
+A :  Yeah .
+B :  Okay .
+A :  That m that match of context to computer commas .
+D :  I know , it's really computationally very intensive also , like if you use
+A :  Mm-hmm .
+B :  Okay . Yeah , that's a good idea . That's reasonable .
+A :  Okay , so when we are talking about them , then my story they are the worst I think . Yeah . I cannot generate posteriors . So there is
+B :  Mm .
+D :  So pretty much all the posteriors are from you only .
+B :  Yeah .
+B :  Yeah . And and you don't have uh scripts for
+A :  I don't have the C_ files also presently with me .
+B :  Ah , okay , you do you have just your , no ? And what could happen if you don't even have your ?
+C :  Mm-hmm .
+A :  Yeah . No , . My said that enough is enough .
+D :  Oh , you know .
+A :  Yeah , and then I then I would have taken two years extension . Yeah , it was it was pretty scary , but let's see what happens .
+C :  Mm-hmm .
+B :  Mm .
+D :  But al for your case you don't need really complicated posterior , you just need some P_L_P_s and then .
+C :  Yeah , you can then you know , because if most did it on , what , numbers and one of couple of C_T_F_ experiments , right ?
+B :  Yes .
+B :  N yeah , I uh for C_T_S_ Petr uh still I think have he didn't uh lose anything , so .
+D :  No , but but ma he's he may be linking to Matthew I guess , because Matthew got the wav files .
+C :  No no no , no no , I uh probably might
+D :  But you got the all the wav files , so .
+C :  Uh . Yeah , but the wave file is th that's in the temp only , right ? So so the only thing is that I can recover it back from Berkeley
+D :  Yeah , so that's what I'm saying , like
+D :  Uh yeah . Yeah , yeah . So if he got features then it's okay , otherwise if he has to generate again , he can't generate .
+A :  ICSI , mm-hmm .
+A :  Because even um Petr has lost a lot . He's having only the results with him . He doesn't have the files , the real the real s ones .
+D :  Yeah .
+D :  So
+B :  Ah .
+D :  Because
+C :  No , everything we w if th if they say that we cannot recover it , then I can quickly get it back from ICSI in a couple of days . I can put all the system back here . But uh
+D :  Yeah .
+B :  Okay .
+A :  Mm-hmm .
+D :  But the p everybody has features in temp , only most of the time all the C_T_S_ features or C_T_S_ wav files , so . So forget about C_T_S_ , at least now I think because it's again
+A :  Yeah .
+C :  Mm yeah .
+A :  Yeah , because even to download that much of data
+B :  Mm .
+D :  It takes at least one or two weeks .
+C :  Yeah , a lot of time no , it I can dow obviously downloading is another thing . The only thing is that I have to do is that they have uh data in uh one particular structure , so I have to first of all , you know , organise create tar files , and then I can get it back here .
+D :  But segmentation .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  Mm-hmm , mm-hmm .
+D :  But you say do you need to do some segmentation also , on top of that , so .
+A :  And then you have to get the L_P_ P_L_P_ features and
+C :  Yeah , that I can get all those things . All th all those m yeah . Yeah , but the those files can be recovered easily , only thing is that uh now if they had to say that we cannot recover it .
+A :  Okay . Because tho those files are also very big , they are not single files . So there should not be any break .
+D :  They're
+D :  Yeah , the we can wait at least one or two weeks for this , because it's
+C :  Uh uh one uh one uh day one o one , two days , like this week I can wait and see . If they cannot recover it , then I can just get all the data from ICSI and put back the C_T_S_ system .
+A :  Mm-hmm .
+D :  But still , I think we can't really do these things before ICAS because yeah . So maybe we can concentrate work especially on numbers now and then we can go to C_T_S_ . So in numbers case , what do you really need like ?
+C :  No , we cannot do .
+A :  Mm-hmm .
+C :  Yeah .
+A :  Mm-hmm .
+B :  Mm just uh po uh pi uh posterior estimated using P_L_P_ features for number , which I think we can we can rate it .
+A :  Mm-hmm , mm-hmm , mm-hmm .
+D :  Yeah , basically yeah , w we need to generate again P_L_P_s , but wave files are there .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  Yeah , P_L_P_ numbers ninety five database is there , fine .
+B :  Uh P_L_P_ , they're also last . Okay .
+D :  Yeah , P_L_P_s
+A :  Yeah .
+C :  Everything that .
+A :  Everything is lost . And uh if if you really ask me even the structure which was there real every point by point how P_L_P_ is well generated , that information is also not there .
+B :  Mm-hmm .
+D :  But you're generating P_L_P_s from ? Um
+A :  Yeah , but the parameters which are exact
+D :  Mm . But at least you f
+B :  Mm-hmm .
+A :  Hopefully ninety five percent , I know , but that five percent
+D :  Yeah .
+D :  Yeah , that you can del
+A :  And then we we need to train the new rates because M_L_P_ training needs to be done , and then only the next step will happen .
+B :  Mm-hmm .
+B :  Okay .
+A :  So it's it's pretty pretty hol holding is stupid . Whether we can replicate the results , whatever results you are showing , whether we can replicate them or not . Presently it's it's not known .
+B :  Yes .
+D :  But at least , yeah , you have something to verify their wa . So so P_L_P_s or these are all thirteen just only P_L_P_s , not deltas and del
+A :  Yeah . You
+B :  Uh nowadays not that one . There is another problem for uh verifying these results , because well for these results , you know , the the configuration should not well I also saved the configuration somewhere in the temp , so exactly how many stays for decoding and which kind of language model and things like this . I I think I can remember almost all of them , but f it's it's a bit uh uh stressful .
+A :  Mm-hmm .
+A :  Mm-hmm . Mm-hmm , mm-hmm .
+A :  Mm-hmm .
+D :  Yeah .
+D :  But if you got something from Hemant or Matthew then I have those number of stage , like we have then you know like it's only for only close uh D_C_L_ , K_C_L_ they have .
+B :  Yeah , but h he doesn't .
+C :  One one .
+A :  No no no no , he is using different setup I think . He doesn't use our setup . Do you use our setup for the number of states ? For the gamma estimation ? Okay , mm-hmm . Mm-hmm . No no , those things I'm also having , because they were done two years back .
+D :  No , he he got from you only .
+B :  Uh y m yes .
+D :  Ah . I think so , yeah , so then I have those number of stages . Yeah .
+D :  Ah , okay . So
+A :  Anything which is done in the last two years is the one which is
+B :  Lost .
+D :  Ah . So you didn't have any P_ for these P_L_P_s , no P_L_P_s or P_ files from P_L_P_ .
+A :  Nothing .
+D :  So bu what about this noise levels , like we have noise wav files in da da COM databases . So we have directly f wave files with uh particular noise . Ah ok see
+A :  The there's also in com , com database , yeah .
+B :  Mm-hmm .
+A :  Yeah , that's right .
+A :  No , th those things are not disturbed .
+C :  No , no , but they're they're they're down in the database section .
+A :  Nothing related to the database has been disturbed .
+D :  No , but but I think uh de
+A :  Except the switchboard .
+C :  Yeah , except switchboard but the switchboard also we have it , but only thing is that we don't have all the data we need , yeah .
+D :  But
+D :  Hmm . But the problem is like all this I think it may not be there in database , I guess .
+C :  No no , it is dead . Because it was that now
+A :  No , they're there .
+D :  Oh , okay . You called the noise X_ database .
+A :  No no , it was it was pre-written there . It's in the database itself .
+C :  No no , it w o ori originally done .
+D :  Ah , okay .
+D :  Even with uh S_ and R_s . Ah , okay , then it's okay . Ah .
+A :  That's right , yeah .
+C :  No no , it is even in D_V_D_ form we have it , that the
+A :  Yeah , so it that is not a problem .
+D :  So y you it's not that you all the no . Yeah with S_ and R_ , different S_ and R_s .
+A :  No , I didn't do it myself . No , no , no . Means at l yeah , that part is less uh scary .
+D :  Yeah , so at least we have wave files , so now we can generate anything in the P_L_P_s or so at least
+A :  Yeah .
+A :  So the things which are related to your P_L_P_ can be done I think , it's it's not such a major problem .
+D :  Yeah .
+B :  Okay .
+B :  Yeah , so so as the conclusion there is no major problem except regenera yeah , which time for , I guess . Mm .
+C :  No , except uh except time . How much time we want to spend again to get
+A :  So you tha M_L_P_ needs to be trained and uh P_L_P_ features , so it's kind of one and a half days work , kind of , to generate the new files .
+D :  Those
+B :  Mm .
+B :  Mm .
+D :  But for all these S_ and R_s , so that's also again
+B :  Mm .
+A :  Yeah , that will aga means it'll light up , that's it . But all all of it is doable in three , four days time .
+B :  Yeah , yeah .
+D :  Hmm .
+B :  Yeah .
+B :  Mm .
+B :  Well , I also had the of generated posteriors or gammas or things like this , which I should regenerate , I have the uh scripts but uh well it takes time , it's C_P_U_ and regenerating all these things , but okay , it's okay . So there is no major problem except time . Deadline of two weeks for ICAS . Okay .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  Mm-hmm , mm-hmm . And if I don't have to generate any new results , I'm also on the other side then . But if I need to generate new results , then and anyway , there is emotional loss , so scripts and code everything written that is
+C :  Yeah , it's
+D :  No , the thing is like you can't really write this k I suppose uh the code is the real problem , scripts is okay like , yeah . Even scripts also the configurations or you do if you forget something , some factor or something , it's really
+A :  No .
+A :  Yeah , yeah . Because it's
+A :  Yeah . Yeah .
+A :  Yeah . Means losses are emotional as well as whatever it is there . and bla bla , but it's tragedy .
+B :  Hmm .
+A :  So .
+A :  So RAID five you have told to the
+C :  Mm . Mm-hmm . They are they're it's it's it looks like if you get three disk gone , then it's very difficult to get it well like fine if it's one disk it's fine because at least one is having the uh mirror mirror , so it will recache on the mirror . Um but uh if the three disk are gone it's very difficult .
+A :  Mm-hmm .
+D :  Which disk ?
+D :  Uh three disk .
+A :  No , one disk there is no problem .
+D :  Mm-hmm .
+C :  So I don't know how it went , like usually while as soon as one disk fails , it should be replaced actually and uh I dunno . Mayb yeah , otherwise it uh it'll go on destroying other disks . So i so the one so they I don't know how it happen , you know , such a thing like usually as soon as one fails , it actually notifies the , you know , the system administrator or makes certain kind of um noise .
+D :  So it should be replaced by
+D :  Ah , ok
+D :  Mm-hmm .
+D :  Yeah ,
+C :  Uh yeah , to to make sure that , you know , it has to be replaced . So w uh if it the disk is not replaced , then it w it'll fail . It uh then then it uh there's a internal recovery if it just r replace the disk there . It's it it can internally it can quickly recover everything into that disk . Uh so so it's like , you know , if you have a mm mm uh um if you have
+D :  Hmm .
+D :  It will ri
+A :  Mm-hmm , okay . Mm-hmm .
+A :  Mm-hmm , mm-hmm , mm-hmm .
+C :  It's kind of like essentially if it is like hundred twenty , hundred hundred G_B_ data space , then it essentially will have a hun two hundred G_B_ only stu visible data f to you . But then it can we as soon as they replace one of those hard disk i it can it can from the other one it can recover everything on that . Inter internally it can do that kind of thing , but if the th if the three disks fail , then it's it's it's yeah , a really difficult job , I don't know how it can be recovered . Probably the mm one way that they extend the har the hard disk to the people who are experts , and they do like sector by sector , block by block they try to recover . But that's it's very expensive . Uh th simple , yes , the simple thing might cost you minimum ten thousand Euros , fifteen , something like that .
+D :  Uh it will have measures like
+A :  Mm .
+D :  Uh .
+A :  Mm-hmm .
+D :  Hmm , but like this .
+D :  But even this maybe really huge data also .
+A :  Was it insured , any idea ?
+C :  I don't know whether it was insured . I don't think insurance company will give
+A :  No no , insurance can take care of uh means anything can be insured in this world nowadays .
+C :  Mm-hmm .
+D :  I think maybe some companies definitely do insure you can't really have so many backups
+A :  Mm-hmm .
+A :  But it still means one thing which is a mystery to me whe why temp one and temp two were residing on the same hard disk physical .
+C :  No , it does , because it was not temp one temp two , but they have the same mm it has three G_B_ three disks , hard disk category . And so you can go up to fourteen or something like that , but it can be on the same yeah .
+A :  Mm-hmm . Mm-hmm .
+A :  Mm-hmm , mm-hmm .
+A :  Yeah , so it means
+D :  Which just partition these uh .
+C :  But so it tries to put if you it tries to uh quickly put things uh if this way that so that and but only thing that only one has the mm um backup , keep taking up the backup there . So it puts everything mm quickly , it can decide wherever it wants to put , so it's faster to do that way . Mm .
+A :  So that
+D :  Hmm .
+A :  Mm-hmm .
+A :  No no no , what I'm saying means temp one and temp two could have been different systems altogether .
+C :  No , I think that uh soft name they were given the
+A :  I'm saying they could have kept differently .
+C :  Yeah . But then what are the use of raid then ?
+D :  But
+A :  No RAID on both they systems was the problem .
+D :  Yeah .
+C :  No , but that is what the raid can allow you to have keep up to fourteen hard disk .
+C :  It can allow .
+A :  Hard disk , there there were already five hard disks , right ?
+C :  Yeah , so it they have five , and you can go up to fourteen if you want to keep there . And it can still work , and it takes the and the way it look like it it's still tolerant , you know . The way it it usually it does it if you one this crashes before uh i uh um if it uh replace quickly , then no problems . Otherwise unsaved data will start the first thing is to get lo lost .
+A :  Mm-hmm .
+A :  Mm-hmm .
+D :  But uh we we
+D :  Hmm .
+C :  Mm that's the thing .
+A :  Yeah , not everybody is going to be scared of temps .
+C :  I um
+D :  Yeah , no temp .
+B :  Hmm .
+C :  Temp is no well , it's a I think they can they can they can do , because th th some some of these people that expert there are couple of experts , so they learned itself . So .
+D :  Uh so then then
+A :  Mm-hmm .
+D :  Hmm .
+C :  If they can easily recover it , well
+A :  Mm-hmm .
+C :  To do this kind of thing , you know .
+D :  But is it really costly , the system is
+C :  Yeah , it depends on the job . You know , sometimes the small hardware thing , they might do it to then , you know , five thousand Euros and all . But if it's very much detailed work , they will just i it the system the the whole thing starts like this that you have to give your credit card number and sign a form and then only they will start touching your hard disk .
+A :  No no no no no . No no no . I checked over the net , it's not the way . You d you send the things to them , they will see if they can recover . Then only they'll ask you that this is the quotation . But if there is no no if they cannot recover they they will send it back .
+D :  Hmm .
+C :  Yeah .
+C :  No no , bu no , th they will
+C :  No no , that's what they say , like you do it , then send it the hard disk , then they will say okay , we can do it , and then if you do it with only with only yeah . Mm-hmm .
+A :  Mm-hmm .
+A :  No no no , first they'll give you a quotation . The they won't go we ho without that . It's not means it's a wrong information .
+D :  Maybe at least they will give some number others , like they can .
+C :  Yeah .
+A :  Yeah yeah , because in the beginning what they say that send us the thing , we'll look at the things . If it is recoverable , we will tell you what is the quotation , and if it is not recoverable , we will send it back to you .
+C :  Yeah .
+C :  Yeah .
+C :  Then what did they estimate of that ?
+D :  Hmm .
+A :  But means f and uh i if they they cannot recover it , then then what they will they won't charge anything from you for the inspection .
+C :  Yeah .
+C :  I think that is yeah .
+D :  Yeah .
+D :  Yeah , at least they they will know m beforehand I think uh .
+A :  But
+A :  That's right .
+A :  Yeah . Means looking at uh how much failure has happened . Accordingly they will tell you whether they can recover or not .
+C :  No , it it is up to , you know
+D :  Yeah , yeah .
+C :  And in fact if they they can go a lot , but you know , they can go block by block and look into it and try to recover , but um that Matthew will want to go or not is the question .
+D :  Mm but even like how much important data l sometimes it's just M_P_ threes or something , so you don't really need to
+A :  Yeah .
+C :  Yeah .
+A :  Yeah . Yeah .
+C :  And it's like forty tera . Four tera that's forty tera .
+D :  Fo four tera , no ?
+D :  Four tera , it's like
+D :  Mm-hmm .
+A :  So how much is four tera , four thousand gigabytes ?
+D :  Yeah , four thousand gigabytes .
+C :  Yeah .
+A :  Okay .
+C :  Four thousand G_B_s .
+A :  Not much .
+D :  Yeah , it
+C :  Yeah , that's a that's a big
+D :  but now we got something like uh more than fift
+A :  Is it raid one has more compared to RAID five ?
+C :  Mm um
+D :  No , RAID five is better , I think . It l it levels .
+A :  No , RAID one is having exactly f fifty percent capacity is utilised . It's copy .
+D :  Uh ah , okay .
+A :  Two copies of the same thing will be existing . That is a RAID one .
+D :  Mm-hmm .
+D :  But RAID five is then then twenty percent copy only . Ah , . It's not the other way . Hmm .
+A :  That's right . RAID five is twenty percent .
+C :  Yeah uh .
+A :  No . So RAID one is exactly it's means that's lot of wastage of resources , but it's more tolerant . And there is no kind of or anything , nothing exists there . So the disk which has crashed , that cannot be recovered . That uh disk which has not crashed , it can be recovered completely .
+D :  Mm-hmm .
+C :  Mm yeah , it's a .
+A :  Means if both the disk have crashed , for the same data , you cannot recover anything . If one disk has crashed crashed , then you can recover everything . Yeah , it'll be in the other disk . So that is RAID one .
+D :  Hmm . Yeah , yeah . Yeah , yeah .
+D :  Yeah , it will be then the other disk .
+C :  And Hemant how uh how do you want to go about it ?
+A :  If you are given a choice , you want to take RAID one or RAID five or a simple laptop .
+C :  Mm . No , I will say how do you like to go about with ICAS ?
+B :  Ah . Well I I think w after this meeting we can t we can try together to regenerate this . Well uh P_L_P_s I think th they should be first regenerated , then posteriors , and if by the end of week we could have posteriors , then it's not that difficult , I can easily regenerate the gammas and do all the experiments again . Maybe it's a
+A :  Mm-hmm .
+D :  Yeah .
+D :  Yeah .
+A :  To what are the experiments you need to do ? What are the new experiments you are having in your mind ?
+D :  Again .
+B :  Uh mainly th there would be some experiment to check how the system is robust against these uh tuning factors like uh language mod uh language modelling , scaling factor language scaling factor and inversion penalty . This will be the main new issue , and uh well
+D :  scaling .
+A :  Mm-hmm , mm-hmm .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  But do you feel that is paper material ?
+B :  Yeah , the new thing in the paper , and well , some
+D :  And also maybe like this noise is he was
+B :  No in these cases , but
+A :  But the one which you have reported means you want to report something more than that ?
+B :  Well actually actually this w this was not in the paper . I put it in the presentation , but it's not in the paper .
+D :  Mm , this is not in the paper actually d
+A :  Ah , okay . Mm-hmm .
+D :  This is
+B :  Uh the paper was just for clean speech , but since I had the results before and I cannot copy these things , because I t uh I talked with Herve and he said okay , actually the numbers are not uh very reasonable because they are just thirteen P_L_P_ features and uh we have to have at least something which is known for people . I mean they are expecting something around ninety , eighty seven or uh something like this . Uh so I anyway , I had to re to redo all the experiments , but now it's a little bit more difficult , because before I had posteriors and now we have two more steps , P_L_P_s and and and posteriors , so .
+A :  Okay .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  Mm-hmm . Mm-hmm .
+D :  Hmm .
+A :  Mm-hmm .
+D :  Yeah .
+A :  Okay .
+D :  At least now he can know a full system setup from
+A :  So might be what I can do I can give you the setup and you can you can generate from bottom , train M_L_P_ , test M_L_P_ .
+B :  Yes , thank you very much .
+D :  Yeah .
+B :  Thank you very much uh .
+D :  So now mainly like uh thirty nine P_L_P_ . You were always thirty nine , no ? Not sure But then why did this features you gave me like they're thirteen ? You truncated them to
+C :  Mm .
+A :  Mm , I was using thirty nine , yes .
+B :  Oh m I wanted I wanted to extend this uh well actually , the paper we wanted to write was uh for ICAS was something related to multi-stream gamma . But okay , okay . Uh will I I will explain . So tha my plan was to have two streams , and I I I well . Yeah . I so I I thought that okay I one stream will be P_L_P_ and the other will be delta P_L_P_s . So this was one part of experiment , so single stream , and then I wanted to combine deltas with this and have another table , so that was why .
+D :  No no no no , these these these ones like the
+C :  You did it on only one .
+D :  Ah , okay . Hmm .
+D :  Ah . Ah , okay .
+D :  deltas . Ah , okay . Ah , ok
+B :  But actually because , you know , the numbers and the study is not sh i it's not showing uh strong results . Anyway , results are not very important , but they should be within a range of uh acceptable numbers . So then uh for now I think it's better to instead of doing P_L_P_ and delta P_L_P_ , I can uh have single stream of thirty nine P_L_P_s , and then combine them with traps , just to have
+D :  Hmm .
+D :  Yeah , those results only you reported in Interspeech , no , like uh thirty nine P_L_P_ results . Uh . Uh they were , but they were less than ten percent or so . Now , even the clean speech you are getting
+B :  Yeah , thirty nine .
+C :  And they were then .
+B :  Yeah yeah , yeah yeah .
+A :  Mm-hmm , mm-hmm .
+C :  Yeah .
+A :  So what is this result ? This is related to your um M_L_M_I_ ?
+B :  No no , it's Interspeech . The okay . These numbers are full P_L_P_ thirty nine , okay ? But just to make things clear in the presentation , to show more steps
+D :  No no , this is just
+A :  Ah , okay , mm-hmm .
+A :  Mm-hmm .
+A :  What is a triphone gammas ?
+B :  Try yeah .
+C :  He use the triphone M_L_P_ and get uh
+A :  Ah , okay . Your your M_L_P_ .
+D :  Uh n no he gave scale to me , then I generated gammas . Even uh
+B :  Yeah , yeah .
+C :  No , . No , I I gave yeah .
+B :  Even
+A :  Okay . But those gammas will be same as uh s normalised scale likelihoods , right ? Then the they're through that data uh from through .
+B :  Even if you
+C :  Yeah , it yeah . No no .
+D :  No no no no . The they're differently . Yeah . Yeah , because I have triphone G_M_ G_M_M_s and H_M_M_s . So he gave me scale likelihoods of triphones .
+B :  No
+A :  Okay .
+A :  Uh not uh scale likelihoods .
+C :  Uh yeah , scale like uh scale likelihoo from uh t uh M_L_P_
+D :  Scale likelihood . Scale likelihoods . From triphone memory .
+A :  Posteriors .
+A :  From ?
+A :  G_M_M_ oh , M_L_P_ scale likelihoods ? You're you are having posteriors there , right ?
+C :  Yeah , well yeah , so I j I d do I did try it yeah , th that's how you do that .
+A :  You divided by the . Okay . Okay , so it's scale likelihoods
+D :  Hmm . So then again I will pass through full network . Then I can generate triphone gammas .
+A :  Okay .
+A :  And full network , what was the r ch architecture ?
+D :  It's like . It's no no , it's uh it's just G_M_M_ word models . You have all the connections to between all the words , like hmm .
+A :  Ah okay . Mm-hmm . Mm-hmm .
+A :  So what are the other things we need to discuss ?
+D :  So then first thing is like we need to generate P_L_P_s , and then
+D :  all these S_ and R_s P_L_P_s .
+B :  Yeah . It's amazing that everything was under temp .
+D :  Hmm .
+C :  No , but I think what I think there is still some data which is recoverable . At least they could give us time to I think that uh the most of those things should be there . I can hope it already if they could
+D :  No , it was there on uh like uh yesterday morning also like even . So I was running some experiments and then it was okay , but it's readable only , so I can't write anything , so .
+A :  One day after the crash . Yeah .
+B :  Yeah .
+A :  Mm-hmm .
+C :  No , you don't have to write , but you could read , no .
+D :  Yeah , so but we don't know , like we thought like I thought it's recovering , so maybe by tomorrow I'll get everything , so . Uh so if you want a copy again , you'll have
+A :  That's all be because of you . You came on wrong day from Iran . You should had come on , it would have been okay .
+B :  Yeah .
+C :  Yeah .
+B : 
+A :  Anyway .
+D :  But yeah , still some people are in vacation , so they will really
+A :  Uh they'll get a shock of their life .
+B :  Yeah , Sileye will be back and he's not in vacation , but he's in Italy . He flies to Senegal directly .
+D :  Pedro Pedro also
+A :  Might be the one kind of like if they have read their mails .
+A :  Yeah .
+C :  So Daniel is well in Italy ?
+A :  Yeah .
+D :  Hmm . But even all over the recent iteration , iterate training set in temp . Because like we we s how much we can copy , because it's really so many iterations and even we thought of really completing minimal experiment also mm .
+A :  Yeah , everything is lost , yeah .
+C :  Yeah .
+A :  Yeah .
+A :  Yeah , but it's a major loss , no doubt .
+D :  But at least , yeah , a script are there every scripts , like at least scripts are there but so if if they can decode
+A :  The data on which we want to run the scripts is not there .
+D :  Yeah , if they can decode at least Hemant's P_ files then Hemant can
+A :  If they can yeah , if they can give me my C_ files , then also it's okay .
+B :  Mm .
+D :  Yeah . But C_ files yeah . Even if they give you P_ files , it's really better , even you don't really need to ru run all the
+B :  Mm .
+A :  Yeah , because I don't need to generate features also , yeah .
+A :  Yeah , it's amazing . I n I don't need all my P_ files , just three of them .
+D :  Yeah yeah , you j just only like recent P_ files at least .
+A :  Yeah .
+B :  And what if we have some day a fire in IDIAP , we will lose all the data .
+C :  Oh , that is fire will lose all the data , you know .
+B :  Mm I mean , but they have well I I think w they can and yeah , they can d you know , store it somewhere . But you know , here we can easily have a fire , because the everything is made of wood I think and it's small and
+A :  Nowadays it's not the case . They physically also separate the things .
+D :  No no no .
+C :  Physically , uh yeah .
+C :  Yeah , physically it is updated .
+C :  No , I think there is sprinkler or something around here , I hope so .
+D :  Yeah .
+D :  But still I think I it depends .
+A :  Or it's sprinklers .
+D :  Uh in Edinburgh they had that big fire and then
+A :  Then what if their sprinklers don't work ?
+D :  Even even sa several uh da buildings and all the computers in that building they all burned , but they have like three backups in the university , so all these people , they didn't really affect much . No , it's the university is maybe it's really big , so they can afford for
+A :  Ah . Uh-huh .
+A :  Yeah .
+C :  Yeah , in fact they distributed the whole thing around . They may not have it in one place .
+D :  Yeah , they yeah yeah , they want th they'll have backup in different and also in in some in underground , so that like file proof or something , yeah .
+A :  They won't keep it at one place , yeah .
+A :  Physically at different places , yeah .
+C :  Hmm .
+A :  Mm-hmm .
+C :  Yeah .
+C : 
+A :  Mm-hmm .
+B :  Anyway , the good the conclusion is to have a back-up and uh and C_D_ at home . Mm .
+D :  Yeah , maybe .
+A :  Yeah .
+D :  No , C_D_s are not enough like , no . Yeah , how much uh
+C :  Yeah , something like that I can recover .
+A :  C_D_s are not enough , that's the problem . Because one C_D_ is how much ? It's not even one G_B_ . So then C_D_s are not enough .
+C :  No , but
+B :  Yeah .
+C :  For example f phonebook I can recover everything on phonebook , because I have it on the C_D_ . I wrote it once time to copy it to my home , and so I have all the data of my C_D_ . But I don't know if I had I copied all the numbers that are on that , so .
+B :  Hmm .
+A :  Mm-hmm .
+A :  Hmm . You're talking about datas or you're talking about
+D :  Hmm .
+C :  Data itself . The whole feature to everything . Features , segmentation , every label file , everything is there . I could recover it back from there actually , but
+A :  Okay , mm-hmm .
+D :  Hmm .
+D :  But what about home directories or he also kept everything in uh temp .
+A :  I don't know . No no , he wa he was having locked many things in the proper places . But in temp he wasn't having lot of important things , yeah . All the experiments which he was running .
+C :  temp .
+D :  Yeah .
+D :  But he he did mostly on numbers , no ? So at least if we can recover we we can read some of his stuff or something . Did you locate it ? It is home or home speech or something .
+C :  No .
+A :  Mm-hmm .
+A :  Uh look what ?
+D :  Look for any features or anything are there .
+A :  But what we'll do with the switches ?
+C :  No , i uh
+D :  No no , he he maybe he might be using same P_L_P_ features or something , it they are different .
+A :  No no no no no . Okay , that way it might be , but the situation is that uh he he was generating his own P_L_P_ features from his own scripts . He was not using using doctor speech .
+D :  We don't know it .
+D :  Uh his own
+D :  Ah okay , is here , he got uh his own
+A :  Yeah . So he was like uh he was so I'd borrowed few of the things from him . The F_F_T_ routine and uh reading the signal wave form . These things I borrowed from him and I changed , and then I put it in my all programmes , so .
+D :  Yeah .
+A :  I I kept the backups , but those backups are the them's also on temp . I didn't I didn't know that this this way it can crash , because I thought maybe I can do a mistake and wipe out the things . And then there is no backup . So I cannot blame anybody , but I didn't know that the whole backup can itself crash .
+B :  Mm .
+B :  Hmm .
+B :  Yeah .
+A :  Yeah .
+A :  So now in in my life I will never believe anything which is temp . Whether it is temperature or whether it is temporary .
+C :  Not
+D :  Uh
+D :  Hey .
+A :  Because just few few days back I took a backup of my laptop , fearing the same thing . But then I didn't realise that I should take a backup of
+B :  Mm-hmm .
+C :  Only good thing is that the numbers I think I pretty much can recover all the even the f triphone experiments . Because I think I have kept those labels , all those things in the speech directory . A P_ file of it . So it's easier to it all back , all those labels and everything , yeah .
+B :  Yeah . Reverse .
+D :  Hmm .
+D :  Oh then it's good , you know like we don't really nee
+D :  So but your P_L_P_ is also like
+C :  P_L_P_ should be there . I re should have kept the P_L_P_ also somewhere tha
+D :  Mm-hmm .
+D :  Then we just need to run your neural net only yeah , but P_ P_ P_L_P_s are like hardly few minutes li
+A :  P_L_P_ is hardly anything , yeah .
+D :  Mm .
+C :  N mm , the the extra work on is like , you know , converting the segmentations from monophone to triphone , this kind of thing . Then the all the scripts are there in the temp file , that kind of thing .
+A :  Ah .
+C :  I uh like no no no no , no . No , what you do is like you have the segmentation to train that for monophones , right ? You can uh you can convert the same thing into triphone segmentation , because there is monophone and triphone , they are not different , except that you're just going to give a different label to them p depending on the context . So it's easier to convert that segmentation directly here rather than now ugh you know , you say the point that if you lose one uh so uh so the thing is that I have to recover means I have to recover through the pho no monophone segment segmentation to triphone segmentation , the whole thing .
+D :  Which which scripts ?
+A :  From posteriors to s forced alignment .
+A :  Yeah .
+A :  Yeah , yeah . Mm-hmm , mm-hmm .
+A :  Mm-hmm , mm-hmm . Mm-hmm .
+A :  Mm-hmm .
+D :  And then
+D :  But but you still need to run all the nets no l ?
+C :  Yeah , it's okay . Th that uh numbers it's very fast , so it's no problem .
+D :  It's
+D :  No , but it's it's not I think at least it takes two hours or three hours I think . you can't parallel also , that's the problem .
+C :  Yeah , so it's yeah . Yeah , but right now you the thing is that right now you know almost what is the uh like the which will give you the best is also you can cont instead of running it hmm .
+A :  Three years , two to three years , yeah .
+A :  Not in all cases , that's the problem which people are facing . Because everything was written then and there itself . Means even if the optimisation has been done , they did the optimisation there and they they worked on that started working on that . They didn't write it with pen or something on a paper or saying that okay , this is the best optimisation .
+C :  Yeah .
+D :  He
+D :  Yeah .
+D :  Yeah .
+D :  Yeah . So for example if he want repeated all these results , then he ju he need to use all ma Hemant's P_L_P_ configuration then that's really
+A :  Yeah .
+A :  Because if I change my configuration and your results are somewhere else .
+D :  Yeah , the results will be
+B : 
+D :  Then you don't you don't know uh uh well .
+C :  Anyway mm let's recover it . Ho let's hope the best . I think I think we have spent
+A :  Okay .
+A :  So how much time we have spent ?
+D :  Yeah , for thirty five , forty minutes it is . Uh uh thank you .
+C :  Uh yeah . Okay . Fine . Okay , fine .
+A :  Okay , so this is good enough . Yeah . Okay , thank you .
+B :  Okay . Thank you , thank you .
+A :  Have a good day .
+B :  You too .
+D :  It's all ?
+C :  It's all , we have to leave fast .

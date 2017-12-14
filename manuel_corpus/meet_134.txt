@@ -1,0 +1,634 @@
+A :  Okay , all set ? Welcome to the conceptual design meeting .
+B :  Uh , okay .
+C :  Yes .
+A :  The agenda . The opening . I'll again be the secretary and make minutes , take minutes , uh and it will be three presentations , just like the last meeting . So um , who wants to start off ? Technical uh designer again ? Okay .
+B :  Again .
+B :  Hmm .
+A :  Uh , yeah . Uh , before we begin it , I want to say I've I've put the minutes of the uh second meeting in the shared folder , but they're still not uh quite okay . It uh it uh still some technical difficulties so the the first part of the minutes are very hard to read , because there are two documents that uh were layered over each other . So But uh , from now on I won't use my pen anymore , so will be p just ordinary keyboard .
+B :  Mm-hmm .
+D :  Okay .
+B :  Uh , may be better , yeah .
+D :  Keyboard work . Yeah .
+A :  I think it will
+A :  will be more uh easy for you to read the minutes .
+B :  Yeah .
+D :  Alright .
+C :  Okay , when we talk about uh components design , um it's really about the material and the and uh uh really the stuff we build uh the remote controls of .
+C :  Um , a remote control consist of uh components and the components of a remote control consist of uh properties and material . We have to choose th uh these uh wisely and it could affect uh uh a kind of grow of in uh in buying uh the remote controls .
+C :  Um , the components of a remote control are of course uh the case . Uh the properties of the case , um it has to be solid uh in hard material like uh hard plastic uh with soft rubber for uh falling and and uh uh yeah , it feels uh good in your hand .
+C :  Mm the buttons has to be uh solid too , and the material is soft rubber . Uh I've got a uh email from the possibilities of Real Reaction .
+C :  uh they're telling me that um when we build uh a remote control of um of plastic or rubber , the uh buttons have to be uh rubber too . Mm
+C :  It's okay . Yeah .
+C :  I when we use a rubbled a doubled curved case , we must use a rubber push-buttons to uh the the rubber double-curved case is a is a t uh three-dimensional uh curve in the in the design , which is uh necessary when we want to be trendy . Uh
+B :  Oh .
+C :  the energy source , uh I've got a lot of possibilities for that too . Um ,
+C :  uh the basic battery , which I thi prefer because of its uh its non uh non-depending of of of uh um
+C :  Uh here you have to have a hand uh yeah , kinetic uh
+C :  energy . Also in uh this one , like in the watches , but a remote control can lie on a table for a day , and then you push uh a button and so you don't have to uh walk with it all the all the time . Mm , solar cells are also uh a bit weird for uh remote controls .
+D : 
+A : 
+C :  uh also the case material , uh I think that plastic is the is the best with rubber , because uh wood or titanium
+C :  would also be a bit weird .
+B :  Oh titanium is
+B :  probably trendy , I think .
+D :  That's true , I guess . Yeah .
+B :  .
+B :  Well , maybe a little bit expensive .
+B :  I don't know .
+D :  Huh .
+C :  Uh , they don't tell anything about the cost of uh titanium .
+C :  the chip uh the chip set uh and the board is uh all off the shelf . Also , the speaker in the remote control , when we want to retrieve it . Um , the base station is also off the shelf , all the materials and the
+C :  components are uh just available in uh
+C :  in our uh factory .
+C :  Mm ,
+C :  I've told about uh the three first points . Mm , the simple electronical chip uh is is available uh with the LED transmitter uh transmitter . Uh , it's all uh off the shelf and even the speaker and the wireless retriever are all uh available in our company .
+C :  Um , another possibility . I uh
+C :  yeah , I looked up on was uh the L_C_D_ displays . Could be uh
+C :  something special to our uh remote control , and it's possible , but it only cost a bit more , but maybe it can be uh within the limits of twenty five Euros .
+A :  Twelve and a half .
+C :  Ah yeah .
+D :  Yeah .
+A :  Actually
+B :  Yeah , production cost .
+C :  I th I got an email with uh some examples and it these were were the most trendiest one . You see uh a covers , which can be
+A :  What are those , t tooth uh brushes , or so
+C :  Um , I don't know . Um
+A :  But it's actually kind of uh well , it resembles the design I had in mind for this proj You know the the cartoonish Alessi kind of design .
+B :  I
+C :  Yes .
+D :  Yep .
+C :  Yes , maybe we can uh bri uh bring a couple of uh couple of types of uh maybe a kind of uh whole uh
+A :  And we can we can steal their ideas .
+C :  a whole set of uh different uh remote controls . Maybe we can bring a whole line uh with uh
+A :  Huh .
+C :  with a huge variety of uh
+A :  Well , it's a possibility , too .
+C :  uh house uh stuff . Like uh maybe radios and uh television also uh in this in this in the same style , but
+B :  Different colours also .
+A :  Uh-uh .
+D :  Yeah , that'll be for the future , I guess .
+A :  Okay .
+B :  Yeah .
+C :  Yes , because we have to uh we have to we have to bring the logo and all the stuff uh back into it .
+A :  Next time we're here .
+D :  Yeah .
+A :  Oh , okay .
+D :  Yeah . Definitely .
+A :  Okay .
+D :  Alright .
+C :  Thank you .
+B :  Okay .
+B :  uh
+D :  Yeah . That's okay .
+B :  Ah .
+B :  Well , I shall go to the next slide . Um
+B :  um , I still don't have any information about user requirements . I was thinking about just uh the basic functions and I got uh
+A :  Oh , we decided upon that in the last meeting .
+B :  Yeah , but but then wh I don't know when there are new user requirements . I ha I ha I have the I have
+A :  Didn't we ?
+A :  Oh , okay . Well , tha I didn't receive any new requirements or somethi Just no , but we decided to use only b basic functions only .
+B :  nothing .
+B :  Well , I have here a couple of basic functions I could think of .
+A :  Okay .
+B :  I dunno if they're maybe a little bit more , but
+A :  Well we maybe we can think of that later . W just these are the ones you already summed up in the
+B :  Yeah .
+B :  Yeah , I I uh well , I pointed them out here , just to make it a little bit easier . Um
+A :  Okay .
+B :  Another function uh is of course we already discuss it on the side . Um , I don't know what costs of it . Uh , I've no idea about it . Uh , I was also looking for what you said , for I got an email uh uh about uh L_C_D_ in in in front of the remote control . I don't know if that's a good idea , or maybe it's a little bit
+B :  too much for twelve and a half .
+A :  Yeah .
+B :  Production . If we got already uh something like a base .
+C :  Uh-huh .
+A :  That might get redundant also maybe . I don't know what kind of information it would
+B :  Yeah , I don't know . I d I uh ju I was just thinking about it . Then I got a pop-ups to go to the meeting . But
+D :  Mm yeah .
+A :  Yeah . Yeah , it's okay .
+C :  Maybe we can bring t uh uh teletext to the t to the remote control .
+B :  The remote control . a little uh too A little bit
+D :  Then you and then you've got a flag s Very big R_C_ . Yeah .
+A :  Okay . That's not
+B :  A little bit too big , I think .
+A :  It was not a good idea .
+B :  Exactly .
+A :  Okay .
+B :  Um , yeah . Well , the functions are are not more to discuss , I think . It's it's just the base things we already discussed that the no V_C_R_ or that kind of uh , so that's very easy .
+A :  No . No .
+D :  No .
+B :  Um
+A :  But you do mention the next and previous uh button .
+B :  Mm-hmm . Well , that's next channel . I mean next channel . Uh
+D :  Next channel , previous channel .
+A :  Oh , okay , o okay okay .
+B :  Um oh , I I got an email with with an uh a remote control with a base . So , it's uh just an idea .
+A :  Huh .
+B :  And I um
+B :  uh thinked of the button sizes and I'm not sure uh if they have to be big or uh just small
+C :  But you're the expert .
+D :  I think it depends on the function .
+B :  Well , I'm not a e I'm the expert for user-friendly , but not for trendiness .
+A :  Mm-hmm .
+B :  Maybe it
+D :  Well , if you save uh Perhaps uh s tiny buttons aren't user-friendly , then we wouldn't im implement that of course .
+B :  Well uh okay , that's your point . Um , yeah . Yeah , okay .
+A : 
+B :  Yeah , I've nothing to s
+D :  Oh , that's right .
+A :  Well , w when we only use basic functions , we have the possibility to make the buttons larger .
+B :  Uh , with a little bit larger , yeah . I thought so , but maybe with the
+D :  Yeah .
+A :  Well , I think we already agreed upon the fact that the the the skip buttons and the cha and the volume buttons , th th those two have yeah , they have to be large . Uh , I mean th th the the two two basic buttons , you know , the to skip channels and to uh
+B :  Yeah , that groups . Large ?
+B :  Yeah .
+D :  Yep .
+A :  I think yeah , I don't know why , but I think that is that's t trendy too , because that's the mo it it you know , it's uh acc acc um accentu uh , how do you say it ?
+B :  Most the most used uh buttons .
+D :  Those are probably the the th
+A :  It puts an extra accent on the the on the simplicity of our remotes to j to make these two most basic functions extra big , like t
+D :  Yes .
+B :  True . Yeah .
+D :  Those are probably the b four most most used buttons on the th in the remote control .
+A :  Yeah .
+C :  You did the research .
+A :  And you want to acc accentuate that , you know .
+B :  Yeah .
+C :  It's from your research .
+D :  Sorry ?
+D :  Yeah , sure .
+A :  So
+B :  Okay . Uh , that was all y uh personal preference I didn't have . I didn't had any time left . So Yeah , .
+A :  Okay .
+A :  No uh , that's coo it's cool .
+D :  You don't care . No , sorry .
+D :  Yeah .
+D :  Oh .
+D :  Go away .
+D :  Come on .
+B :  It's there .
+B :  Yeah , click on it .
+D :  .
+B :  Couple time .
+D :  Oh , great .
+D :  Well , I've done some research again about trends on the internet .
+D :  Um I've done some investigation , and uh well
+D :  I uh got some information from fashion watchers from Paris and uh Milan .
+D :  Some uh some findings the most important thing is fancy look and feel of the remote control . Uh , well , we were going to imply that , so that's nice . The second important thing is uh innovative technology in the R_C_ . Uh , our market really likes really likes that . And uh the third point there in this uh order if of importance , the third point , is a high ease of use . And uh , well , for the idea , I've put some trends uh for the market of elderly people . Dark colours , simple recognisable shapes . So we probably won't do that .
+D :  The younger market likes uh Well , the themes of of this year are uh surprisingly fruits and vegetables and spongy material . I found this image , which is uh Well , it symbolises the idea of fruits and vegetables . I don't see the spongy part in it . But with a little bit of fancy
+A :  Well maybe c then we have to do something with Sponge Bob then .
+D :  Exactly . I got some ideas Uh well , yeah , pictures isn't really good word , but um
+D :  some symbols of fruits or vegetables maybe . Uh , catchy colours . Fruit is uh yellow , green , red , whatever . So , remote controls in in catchy colours . Uh , no , we don't want dark colours . No , I just put them there to uh , yeah , uh for general idea . And uh , the docking st uh I think the spongy material is is very irritating for the uh remote control itself . But to
+A :  It doesn't stroke with the with the dark colours .
+A :  Not the dark colours ? Okay .
+A :  Okay .
+D :  Yeah , the To implement some spongy thing , maybe we can do it in the in the docking station . At the bottom of the docking station or whatever . And uh , we could bring one line with a dark colour uh to um uh p uh yeah uh uh v how do you say ?
+A :  For diversity or something . Uh
+D :  Yeah , also a bit for elderly people who are a little bit crazy and want maybe want a little younger design but still the dark colour . I mean it it it reaches a different market uh , but it it it doesn't cost really much effort to b to uh bring uh like a black R_C_ on the market or whatever . Yes .
+B :  Well , how uh
+B :  But how do we use uh fruits and vegetables in Christ's sake with remote control ? Uh , make it a banana ?
+A :  No , but I I I think that uh our design already resembles so a piece of fruit . It's like a pear or something .
+D :  Yeah , there's there's always a
+D :  Well there there's always empty space of course on a remote control . I mean I think this part of the R_C_ uh well the upper the upper part or whatever is uh is not not used with buttons , I guess . So you you can put some fruity things
+A :  No , I don't think you have to do it like
+A :  Yeah , but it that doesn't have to remind you , you know , like explicitly of s our f of a of a specific piece of fruit , but just , you know , like the the the the round curves . And so y I I think this y it already sem resembles uh something like a pear to me or something .
+D :  No , of course not .
+D :  Especially i
+B :  Yeah , but th yeah , but that
+D :  Yeah , yeah . Yeah , exactly .
+B :  Yeah , but that's
+D :  If we make it little bit greenish .
+A :  Yeah .
+A :  You do get the idea , eh ? The fruity kind of round 'Kay .
+B :  Yeah uh uh
+D :  A and we could use one of these for the uh w what is it ?
+A :  Yeah , uh yeah , I don't know . Uh , this is a b yeah .
+C :  Grapes .
+D :  Uh
+D :  Isn't
+D :  Wha whatever .
+B :  But d don't we need a creative artist or something like that to m make it to feel like a a a a vegetable or fruit ?
+A :  Yeah , yeah . Of course we have uh
+D :  Yeah , sure .
+D :  Yeah .
+A :  we have a very big uh the s
+D :  Well , w we can uh w we can we can produce multiple uh multiple things . This is then the uh pear . I don't know the English word , so forget it . And um , maybe , yeah , a b a banana is uh is n not easy for a remote control , but m yeah .
+C :  For a big team of artists .
+A :  Of d design team , yeah .
+A :  Yeah , but
+A :  It's pear , I guess .
+C :  But uh but I think we don't have to make
+C :  we can't make all uh ten designs . We have to make one design I th I I think .
+A :  No .
+A :  No , but I think it's it's already what we were were up to . Uh , it's it doesn't have to resemble uh what I already said , a specific piece of fruit , but just , you know , like a fruity thing going on . And it's it looks fruity to me .
+D :  Mayb maybe two or three .
+B :  Yeah .
+D :  Yeah .
+D :  No sure , but but
+D :  B but that's great , and and and what I was what what I was saying , the catchy colours
+A :  And uh , but I do like the yeah , I do like uh the f uh to the idea of making a a y uh , a catchy colour design and a d because I do I think a dark colour would be nice too .
+C :  But pictures of fruit , vegetables vegetables
+D :  Yeah .
+A :  Maybe it's too much , you know .
+B :  But , we we have to um There have to be the the the the firm colours , our own uh colours has to be in it . Yellow , a Real Reaction .
+D :  Yeah , uh not really . Pictures was a was a bad word , but
+A :  Okay , but what are the This is yellow .
+D :  Well we c yeah .
+C :  Yes , you can put a logo on top of it .
+A :  But I don't think our our company colours are this fashionable .
+D :  Yeah , sure .
+B :  Uh , yeah .
+D :  Maybe we can if if we got our docking station over here . I can't draw with this thing , but I'll try . If this is our docking station , we can make our logo over here . It doesn't work . And then
+C :  Yes , it's really fruity .
+B :  We uh f
+B :  A yellow do
+B :  Uh , yeah .
+B :  Yeah , and the button then .
+C :  With a strawberry on top .
+A :  Yeah , on uh n uh on the bottom of the remote you can do
+D :  Well , the button button over here or whatever , I don't know .
+B :  Okay , yeah .
+D :  On the front , of course , because else you can't find it .
+B :  Okay .
+D :  Well , that were my ideas a little bit .
+D :  I'll close 'em down . Um , go away .
+A :  Okay .
+A :  Okay , you can you open the conceptual design presentation ?
+D :  Conceptual design , yes .
+A :  See what was on the agenda .
+B :  Lazy .
+D :  The agenda .
+A :  This is his own remote . Because um , maybe we can start with the technical uh functions , but I don't think it's there uh , yeah um , do we want to um use an L_C_D_ display , for example ?
+B :  Yeah .
+D :  Well , it's nice , of course . But I don't I don't know what to display on it . I mean
+C :  Only if we
+C :  Maybe maybe we can make a T_V_ guide on it , for the channel you're on .
+A :  Me neither .
+D :  Yeah , but it should be li like this big , and I don't think
+A :  Yeah , but it's so
+C :  No , no , only the T_V_ channel with the with uh with uh four programmes . You can uh zap through them with the page up page down button .
+A :  I don't think we should do it .
+D :  Yes sure , but it it has to to show an entire title of a programme or at least a q a quite quite large part of it and then you get a very large L_C_D_ screen , because
+C :  Yes , it can
+C :  On your
+C :  No , on your mobile phone you can y you can read text also . So why not on your remote ?
+A :  Yeah , but no . I do I think it's a bit redundant , actually . And it's also not I don't th even think it it looks s like sexy or something , it's
+D :  Yeah , I don't know .
+B :  Well well what would you display on it then ?
+C :  Uh , programme uh information or or or or g or a guide
+D :  Programme information . But
+B :  But is it isn't that a already on T_V_ , a lot of new T_V_s ?
+C :  on t on teletext , yes . Also on the internet . But
+D :  Well a lot a lot of T_V_s indeed show uh when you uh zap to a
+A :  But you're already watching the T_V_ , you're not gonna watch your remote control .
+B :  Yeah .
+C :  Yes , but you also want to know what's next .
+D :  But then we also uh w need to bring out a line of T_V_s which we were planning to , but whatever . Because the T_V_ has to send information back to the R_C_ , and I don't know if that's possible .
+B :  Yeah , and we also have to yeah .
+C :  Yes , that's uh really possible .
+D :  Yes , yes , o of course it's possible , but you gotta uh implement it in the T_V_s , and I don't think everyone's gonna buy a Real Reaction T_V_ within a month after the release of our uh remote control .
+B :  And I also
+A :  I really understand you want to make your job more exciting by putting an L_C_D_ in it , but I I really don't think it's a good n goo because it also doesn't stroke with we wanted uh c When we talk about the materials , uh it's a good idea to use these plastic materials with soft rubber stuff on it . It was our idea , you know , to give it a more sturdy look and that you ca like you can throw with it . But I don't think a L_C_D_ display fits in that image . You know , it's like more vulnerable , and it adds nothing really , you know .
+D :  Yeah .
+D :  That's true , that's true , it breaks f yeah , it it it's not very solid , it's uh frag fragile .
+A :  Yeah , yeah . You could make it , but it's just it it doesn't I don't think it it's coherent with the design we're after .
+D :  No . No . I don't think so ei either .
+A :  But that's my opinion . Well , you you y Okay , we can vote for it . You want the L_C_D_ display . I don't want to and he doesn't , so it's up to him . If we wanna
+C :  No .
+D :  . Ah .
+B :  Yeah , I dunno .
+A :  And I've read somewhere that I've got some kind of veto veto uh rights .
+B :  . Oh , okay .
+D :  Bastard .
+A :  So I can also say
+B :  We can you away .
+A :  But did we skip the Yeah , you could do m but what what i so what i but do you think we should
+B :  Yeah , I don't know . Uh , uh I i if it's it's a simple p
+A :  We're not even sure what what information we want to display on it . So
+B :  No , that that's right , and uh I also have to think about new functions , maybe buttons or something like that to control it . Kind of L_C_D_ or something or
+C :  No uh um
+C :  Y yes , you can use uh buttons uh uh w that are already uh on the remote control for double functions .
+D :  Yeah , I guess .
+B :  But how does it display then ? W when I go to the second channel , what what does it show me ?
+C :  Uh , then you push a button .
+C :  The title and the information about the programme . But but uh yeah , what he said was right , about the televisions , they have to be uh customised to the
+B :  About that programme ?
+A :  Nah , that's not gonna work .
+D :  No .
+C :  But maybe in future it will be a giant hit , and when you are the first
+A :  Yeah .
+A :  Oh , well uh I've seen it done before . Do you know th like the the bigger rem uh universal remotes , they have d L_C_D_ displays , but then it's very functional to indicate which what uh uh device you are controlling . So it's that that's what I've seen .
+C :  you have the biggest uh
+B :  Yeah .
+D :  Yeah , that's true , if you uh Yeah .
+C :  Yes , you can put uh a little L_C_D_ display on it with uh with lots of information . But uh I haven't thought about it .
+A :  But it just it j it doesn't doesn't match with the our whole basic concept .
+C :  But whe but when you put a a a transparent uh plastic uh
+C :  uh screen on top of it , it i it isn't vulnerable . You can throw with it and
+A :  Well yeah , yeah , okay . That's maybe not the most important , but it's just
+B :  Is it fashion ?
+C :  When when you put uh maybe a colour L_C_D_ t uh screen on it , it's very special and very trendy to have uh a remote control from
+A :  I don't think so .
+B :  I don't know . That's not up to you . That's up to market if i if it's trendy . Because our our motto is we put fashion
+A :  Yeah , well do you ha do you have to You haven't looked after the trendiness of L_C_D_ displays , have you ?
+D :  No .
+D :  Well , I think it's uh I think it's pretty trendy , to be honest , uh but um I don't know if if if well , I'm coming back to the costs again , but I think uh we gotta build a b pretty cheap design to to stay within our limits . And I think uh especially colour L_C_D_ , which is indeed pretty trendy . But I don't think Uh , I think it will be too expensive .
+C :  But uh I've got a the email with uh with the possibilities . And L_C_D_ was a possibility for the remote control . So why don't we use it .
+A :  Yeah yeah yeah .
+D :  Uh , did it say a price also uh for for uh monogramme uh L_C_D_ or uh coloured L_C_D_ ?
+A :  Yeah , but we're gonna if it
+B :  Yeah , if you want to be trendy you have to be coloured . Coloured
+D :  Yeah really , if y if you c i
+B :  If you have black and white or something , or grey , that's
+D :  I in in two thousand and four you can't uh put something on the market which is a monogramme . Really .
+A :  Then uh then you better don't yeah , d
+C :  No , but it doesn't sa say anything about a colour or But , mm ,
+C :  I alf I also got a possibility to put uh a scroll button on it . But
+A :  Uh uh I really don't feel the whole idea of an L_C_D_ display . I'm sorry . It can't co you cannot convince me . I don't know how well how to with you guys , but
+C :  I didn't think that
+A :  I don't really feel it . We already we're uh Yeah , we already have the the th th th base station gadgets , and want and it uh uh , do it has to be a simple design , which sturdy , which soft
+B :  It's too much uh maybe uh with with the L_C_D_ and the docking station and
+D :  Yeah .
+C :  Yes , but o on the
+D :  W we've we've gotta find a balance , of course . And I think
+B :  With one thing special . Not a whole package of specialty .
+A :  I don't think
+A :  I j uh , and really , I don't see how the the L_C_D_ display is gonna add anything , you know , on a design level . Uh , I think it's slicker to have no L_ CEDs . Y we want to it's simplicity , w you have two big buttons and you can do whatever you want with these two buttons , so you don't need an L_C_D_ .
+C :  No , when y
+C :  But it look
+C :  Yes , but that remote controls are already on the market . The simple
+A :  It doesn't fit in our philosophy uh behind the whole remote .
+C :  Yes , but but when you want to have something special
+A :  Yeah , but we already have the docking station , which is
+C :  Yes , but you had a picture of it from another company .
+D :  We have a pear .
+B :  And uh the
+A :  It has to be developed , but no , but it that's that's our that's our killer feature . That's our what makes it special .
+B :  Yeah .
+B :  It's just an it's just an idea . It's a it's
+C :  Yes , it was already made . Tha the remote control on the docking station .
+A :  Yeah , we're gonna develop our own r n docking station .
+B :  True .
+D :  Is that so ? Was it it wasn't just a prototype ?
+C :  Yes , he have a picture of it .
+B :  Well uh I uh
+B :  Yeah , I dunno .
+D :  Exactly , I've never seen it in a store .
+A :  Uh , but re we really have to cut this off , I re I know you I I I I I get the idea you really like it , you know , the the L_C_D_ thing , but I I think it's it's not a good idea , and we have already mentioned all the arguments . I don't uh , do you guys agre How do you guys think ? I d
+B :  No , it's too much .
+D :  I think it's a little too much , yeah .
+B :  It's overdone .
+A :  Okay , we s skip the L_C_D_ display . I'm sorry , maybe you can do something if we are at your own place , or make it make it make it happen in your basement or something .
+C :  Okay .
+D :  Okay .
+B :  Democratically .
+D :  No .
+D :  .
+C :  Mayb
+C :  I will rule the world with it .
+A :  But
+A :  Probably so . Okay . But for the technical part . The m material , I think uh it was a good idea to use the plastic and uh the rubber . Uh
+D :  Yeah , yeah , yeah , yeah .
+C :  Yes , maybe a bit of a cushion is
+A :  Yeah yeah yeah , p Exactly . This is what it w Yeah , but it it was already what we're uh we're after , you know , to give it uh , you know , the soft touch in your hands and also to , know , like Yeah , that is y the b airbag kind of thing . You can st throw it at your little brother's head .
+D :  Yeah , for the spongy uh feel . Yeah .
+C :  Yes .
+B :  With a spongy Bob feel .
+B :  Yeah .
+C :  Like a b yes .
+B :  Yeah , you just can drop it . Yeah .
+D :  Yeah , airbag .
+D :  If you drop it if you drop it the airbag comes out , yeah .
+B :  Yeah .
+A :  Yeah . No no no , not that comfy .
+C :  Maybe it but then we have to look that it uh w uh will not um be too childish to see .
+A :  Yeah yeah . Yeah . Okay , that's a that's a good point . And that's why I like the dark t col dark colour bit , you know , because it may be the design uh , it's uh maybe it is a bit of the
+D :  Yeah .
+B :  But not black I think .
+A :  it's a bit nineties maybe , what we're what we're up to rat fun to this point .
+D :  No .
+B :  Well if if it's fruit and vegetables , it have to be colourful .
+A :  Yeah , that's that's true , but but it has to be a little big solid . It mustn't be too , n you know , th too overwhelming , then when you put it on your just
+D :  Yeah , b yeah , that's what w I I was pointing at .
+B :  But can we ge uh uh
+B :  Can we combine it or something ? Uh with uh yellow and black ?
+A :  Yeah .
+A :  Yeah , maybe so .
+B :  Make it a bee ?
+D :  What ? Oh , a bee . Oh .
+B :  A bee .
+A :  No , uh I don't like the yellow and black combination . But it is our company colours . Apparently .
+C :  Yes , real real good colours .
+B :  Yeah , it's our yeah . We we have to use yellow .
+D :  Yeah .
+D :  Hmm .
+C :  Hmm .
+A :  I don't like yellow , and uh maybe I don't know .
+D :  Well , we can as as I
+C :  But that's not really fruity .
+D :  draw really nicely over there . We can put the logo on our uh on our base station . Uh , yeah . And maybe very very tiny on the remote control itself . But , i
+A :  But
+A :  Okay , but what uh , what are other tef technical things we have to discuss ?
+C :  Uh fronts
+C :  of the
+C :  We can have uh different uh uh fronts of the
+A :  Should we do that ? I don't think you we should do that . Maybe just bring it out in different colours , but not af that you can switch fronts afterwards , that's also too much . People don't wanna spend more money on their remote control , I guess .
+C :  telephone .
+B :  Different fronts .
+D :  Yeah . I guess that's that's enough .
+D :  That's way too Nokia .
+B :  Yeah .
+B :  Uh , you can you can l uh let choose the customer which colour he wants , yeah . Yeah , Three three or four uh four uh colours , or something like that .
+C :  Are these designs ?
+A :  Yeah , yeah .
+D :  Yeah , definitely . Just bring more designs on the market .
+D :  Why not , yeah .
+A :  But uh , without gon uh okay . So , are we through the technical part then ?
+C :  Yes .
+A :  Okay . So we uh agreed upon uh n uh well , not u unanimously or how you call it , but Yeah .
+C :  It this a real uh young young and dynamic uh uh styles .
+B :  Well , yeah , the
+B :  Three to one . That's
+A :  The materials you uh mentioned in your your personal preferences were all were quite okay . O o only only the last point your no titanium's not not out of question , I guess .
+C :  Yes .
+B :  And tita uh titanium , is uh is is it a no ? Is
+C :  Yes ,
+C :  But also w
+B :  It's just like that , th this titanium .
+C :  Yes , b bu but when we use s soft
+A :  But is it possible to use both the the plastic and so uh soft things and t p titanium , as well ? Makes it in a homogeneous uh design .
+C :  mm
+D :  Sure .
+C :  Mm .
+B :  No , not all , not all of them .
+C :  But it it then it uh you can't throw it it . It will uh make a huge noise or break other stuff
+C :  when you throw with uh titanium with your remote control . No uh ,
+A :  It will it will break other stuff w when it's plastic , as well .
+A :  Yeah .
+C :  titanium is a bit uh it's a bit harder . But also on the colours , the young
+D :  Yeah , that's true .
+A :  No , but uh uh , you should ma Yeah .
+A :  Okay , think of the possibilities and make it in completely titanium . Well would it be more trendy ? More chic ?
+D :  Yeah , I think it I think it does .
+B :  Uh , I think titanium nowadays is way more often used than plastic .
+C :  Yes , but a titanium remote control , when you're uh watching T_V_ uh or your hands are a little bit sweaty , and the
+B :  In trendy things .
+D :  Yeah , o
+D :  On the other hand , if you want to make fruit fruity stuff with uh
+B :  Yeah .
+B :  It's cold in the winter .
+C :  Yes .
+A :  Yeah , but I I really like the idea of the the the plastic and the big kind of thing . But the question is i then it's , you know , is is it fits in our s philosophy to make it uh sturdy and simple and uh , know , like uh
+B :  Yeah .
+D :  Yeah , that's true , that's true .
+C :  Sports and gaming . Define .
+A :  When you make it titanium , it becomes more like some kind of gadget you actually don't need . And when it's big and plastic , it's like some fun stuff you can always have around . It's always fun to have something big and plastic around .
+B :  You have that uh M_P_ three player of Nike , I saw . Isn't that titanium with a little bit of rubber ?
+D :  Yes . Yeah .
+C :  Yes , it's w but it is uh plastic .
+B :  Isn't it
+B :  Is plastic ? Well , it's titanium looking .
+C :  Yes , w we can do that on the on the
+D :  What ?
+B :  Yeah , he is . Here he is . Uh , the I don't know if you know the M_P_ three player of Nike . 'Kay , uh that that's very uh with rubber , so it's very
+D :  Oh , yeah . Okay , yeah .
+A :  Yeah , that's beautiful .
+D :  Yeah , I see .
+C :  We can make this as a style too . Uh , this is uh just a
+D :  Yeah , but but but
+B :  rough .
+D :  Yeah , I th I think that's difficult , because uh that's different material , and then you gotta have like uh uh uh two material lines of of of
+A :  Oh , maybe th maybe this is an
+C :  No , we c we can make it from the same kind of plastic .
+D :  Yeah , if it's just a colour uh which you uh which you change then , I guess it's it's nice to have one of these .
+D :  Uh
+C :  Uh
+A :  No , I do like the idea of maybe a t titanium kind type of body w and then with s plastic colouration around it . You know , like the the soft stuff , but I don't know if it's possible .
+D :  Yeah .
+C :  I don't have the information . Uh , I I didn't got it
+A :  But you can't make the plastic give uh the ti titanium look . But make it just like shiny . Maybe we should uh shou
+C :  Yes .
+B :  True .
+D :  Mm-hmm .
+B :  Yeah yeah , true . Yeah , maybe that's good idea , yeah . But if you want to la uh yeah , last longer than two weeks or something like that , you can maybe
+C :  Like the M_P_ three player .
+D :  Yeah .
+A :  And uh and
+A :  maybe we sh should we t I don't know if we should talk about uh , how how much time have we got left ?
+C :  Uh , in a lot of other uh
+B :  I don't know . What time does
+A :  Forty minutes .
+C :  in a lot of other product uh categories like uh even in b in bags industry . Uh , they began with uh t typical uh leather bags , but then they became stylish , with all all si all sort of colours , and w kind of fon of uh of fronts , like we can use on the telephone and it
+D :  Yeah .
+A :  Okay .
+C :  Like Eastpack uh began a revolution with it with all this uh kind of bags and and colours and and
+A :  You putting in different colours .
+C :  Yes , and and styles . They have uh also uh a kind of uh um
+A :  Okay .
+C :  uh roses on it , a and uh
+D :  Uh yeah , yeah .
+A :  Okay . Yeah , but w yeah . Well , it is . It's a possibility . But , let's think about the bas
+C :  Then we can always uh use the same design for a greater resemblance , but with new uh with new colours , new yes .
+D :  Yes .
+D :  New prints on it . Yep .
+A :  Mm-hmm , mm-hmm . But wha th our basic idea y I mean , you gonna we're probably gonna have like two type of materials , like the d d b the plastic uh enclosure and then the the pads that surround it . And and pro and lights . We have to incorporate the lights too . But , uh do w gonna gonna are we going to give it a two-tone colour look , like the the plastic mould is in in one colour and the s the cushion pads around it are in another colour ? Is that the idea ? Is that a good idea ?
+D :  How do you mean ? Th th the uh base in a in another
+B :  The rubber .
+A :  How many colours are we how many colours are we gonna we're uh uh f uh f Only five minutes left , by the way . How many colours are we gonna give it ? Like two-tone colour ? T
+D :  Yes .
+C :  There there are three uh components three components type . You have the buttons , the the case uh itself , and the rubber and th
+B :  Yeah . Uh no , not too much I think .
+D :  How the buttons yeah .
+A :  I think maybe the case itself should be in one colour and then the rubber of the buttons , and the cushions as well should be in another colour .
+C :  Yes .
+B :  Or you just make uh one colour , uh maybe with a a z a kind of like a big wave or something like uh
+D :  Yeah .
+A :  Okay , but not more than Well , yeah , it's No . Maybe we should talk about it on a l in a later meeting .
+B :  In in another colour . Not more than two colours I think . It's a g a little bit too flashy .
+D :  No , definitely not .
+D :  Yes , definitely .
+C :  Yeah , or or when you use the buttons as black , it you can use two colours as well uh
+A :  Okay . But we have to uh think of some other uh important things . Uh oh yeah , the the functionalities of the the buttons .
+B :  The funct yeah , I was I was thinking about th the st do we still want a joystick idea .
+A :  No .
+D :  No , I think that's too vulnerable .
+B :  Yeah .
+A :  I think this is okay , the so we have the basic . Then we have the numbers . We have the power button . We have we have a teletext button .
+B :  The volume , teletext and
+A :  And maybe want to access a a menu or something . Most T_V_s have a menu .
+D :  Yeah , but that's that's I was thinking that's gotta be on the television .
+A :  Yeah , but I think you ha I really need a menu button . That's just i the only button only
+B :  Yeah yeah yeah yeah , b
+B :  Yeah , but wha what kind of menu ? Is uh isn't that different from every television ?
+A :  You know , I
+A :  No , I think most T_V_s have an uh a menu nowadays to access the uh uh screen settings . And so
+D :  Mm . Yeah , if it's c if
+D :  Yeah , I think it's okay to to add a menu button for uh and if the T_V_ doesn't have a menu , then
+A :  But that that covers all the all the other settings . It covers everything then .
+C :  But then you have to put uh up and down and uh left and right
+D :  Yeah .
+D :  Yeah , you can put that on the two eight four and six or whatever .
+A :  No , you can use the
+A :  And you al can also use the normal skip buttons for that . Th in that way we have like only the numbers , the power button , skip and volume , and then uh uh ten uh rem uh yeah , mute . A teletext and a menu , and then then i that's it . It's all we need . Okay , uh another stuf some stuff about the the the design of the docking station . Something important about a s uh , no , uh which sh uh should remind us of the remote itself , I guess .
+C :  Okay .
+D :  Mm , yeah .
+D :  A mute and a teletext and a menu .
+B :  Mute .
+D :  That's all .
+D :  Hmm .
+B :  Yeah .
+D :  Great . Yeah .
+B :  Okay , that's not mu not much functions . So
+D :  Yeah , definitely . Are we gonna do something with the uh spongy thing there ?
+A :  Uh , in one colour . Just use
+A :  I think the spongy thing already um comes forward in the in the in the cushions , pads and things on the s uh side . And we will make it spongy and and uh and uh well , the fruity thing is just the shape should be fru i did I think this is kind of fruity , you know . Just round shapes with uh
+C :  Uh
+D :  Yeah , that's true , that's true .
+D :  Yeah , it's kinda fruity , and with th with catchy colours uh uh w
+A :  Yeah , but we're gonna have to we really have to think I think colours is very important , because it has to be flashy , but and but it d it doesn't have to be annoying , that when you uh , know , some things is just over the top , and when you have it on your table for more than two weeks , you it just gets annoying , because it's so big and flashy . Uh , it has to be some level of subtlety , but we have to still have to think of how we manage to uh
+D :  Yeah , definitely .
+A :  to get to that .
+D :  Yeah .
+A :  Okay . Guess we're through then .
+D :  Okay .
+B :  Okay .
+D :  I guess so .
+A :  But we I think also we just so we have to do something with colour but also , I I think we have to keep the dark colour thing in mind . I think that's uh adds to the too much colour maybe m um
+D :  Yes .
+B :  Yeah .
+B :  Too much colour , i it uh when you got it in a living room , it's too much maybe . It has to be
+A :  But our des design experts will uh work that out . Okay , well I think the meeting will be over within a minute . So we will wrap up .
+D :  Yea yeah .
+D :  Yep .
+B :  Yeah .
+D :  Something like that .
+A :  Or is there anything we'd like to discuss ?
+D :  I guess not .
+A :  That's right .
+A :  Okay .
+D :  Do you , guys ?
+B :  No .
+D :  No ?
+A :  Okay .
+A :  Well , you will read the minutes uh in the you can find them in the pro probably . Yeah uh no , for su for sure because I'm will now type them out .
+D :  In the shared folder .
+B :  Oh , okay , yeah .
+C :  What are we going to do now ?
+A :  Uh , y yeah .
+D :  You'll see in you email , I guess .
+B :  Yeah . I hope so . And the other thing is that you don't have kind of prototype or something like that . You see a kinda prototype you can a little bit more uh
+A :  I think uh
+D :  Yeah , I don't know . I don't know .
+C :  I will make one in the next uh twenty minutes .
+B :  Yeah .
+D :  Construct one , yeah .
+A :  But toilet paper roll and uh
+B :  With you laptop ? Yeah .
+B :  Oh my God .
+A :  Okay .
+D :  Alright , shall we get back to work ? Great .
+A :  Yep . I was waiting for the l last message , but
+B :  Well you are . We're not .
+D :  Yeah .
+D :  Bastard .
+C :  Back to the pen .
+D :  You lazy
+A :  Mm yeah .

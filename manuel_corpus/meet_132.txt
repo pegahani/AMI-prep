@@ -1,0 +1,315 @@
+D :  Hello .
+D :  Dang it .
+A :  And then you have to place your laptop exactly on the marked spot .
+D :  Alright .
+A :  It's important to place your laptop exactly on the marked spot over here .
+B :  Okay .
+B :  No , that's okay .
+B :  Joost , your mouse .
+D :  What ?
+B :  No mouse needed ?
+D :  I've got a touch-pad . Do you know how how I can wake it up ?
+B :  Mm .
+B :  A touch-pad ?
+D :  No , my laptop .
+B :  Slap it .
+D :  You with your brilliant ideas . I don't know if I can touch the power button .
+D :  Do you know how how I can wake it up ?
+B :  Is
+A :  No . Yeah . Try the power button .
+D :  Oh .
+D :  Come on , move it .
+B :  Um
+D :  Now , wake up , bitch .
+A :  Huh .
+B :  F_ five .
+B :  F_ five .
+C :  I've lost my screen . Uh
+D :  Yeah , so did I . I closed it . That wasn that wasn't very smart , I guess . Come on . Get back to me .
+B :  I don't .
+D :  Yes .
+C :  Yes .
+C :  I closed the
+D :  I closed it .
+B :  You've got your name .
+A :  Yeah , my name is name .
+D :  No , I didn't restart it , I just closed it .
+D :  Yes .
+B :  Hope it working .
+D :  Alright .
+C :  No .
+B :  Never close your laptop .
+A :  Yeah ? Everybody's ready ? Great . Well , welcome to the kick-off meeting . I uh forgot to put my name over here , it's uh it's Martin .
+D :  Great . Thanks .
+B :  Yeah .
+A :  Uh , so you all know .
+A :  Well , this is the agenda for today . Well , the opening is what I'm doing right now . Uh , we gonna do some acquaintance acquaintance things . Uh give some um
+A :  examples of the tool training , project plan discussion and the closing . We have twenty five minutes .
+A :  Okay , the project aim is to design a new remote control . Uh , some of the oje objectives are that is has to be original , trendy , and user-friendly .
+D :  Mm-hmm .
+B :  Okay .
+A :  So now we all know what our
+A :  goal is . Um , I oh forget I forget the whole acquaintance part , but we we all know each other . We all know each other's names . Joost , Guido , Antek .
+D :  Yes .
+B :  What is your name ?
+C :  Yes . Antek .
+B :  Antek Ahmet . And Joost .
+A :  Okay . I think we uh al already uh been through that part . Okay , it consists of uh three levels of design . Uh we begin with the functional design , then we go to the conceptual design and the detailed design . Every uh level of design consists of some individual work , and we uh close it with a meeting . You all received an email with a example of our explanation of what uh the particular level of design uh means to the different uh functions , and uh you p you probably read that already , so I don't have to tell you about that .
+B :  Okay .
+B :  Yeah .
+D :  Yes .
+B :  Yes .
+A :  Okay , first we're gonna um uh gonna try some different things with the tools we have over here , so you get acquainted with these uh um uh meeting tools . We have the smart-boards , uh the thes those two boards . This is the presentation boards , wh which one I'm using right now . You can uh um there's a document folder called um the sh shared document folder . You can upload your uh documents to that folder and then you can open them over here , so you can do your PowerPoint presentations on this screen . We also have the white-board . Uh , we're gonna skip through th
+B :  Can we see the white-board on our laptops ? No , I saw I saw the file , the smart-board that X_B_K_ but
+A :  No , no . Just on the on the screen over there .
+A :  Oh , no . Probably is , but I don't know if the software is on the laptop . Is is if it's mainly a thing for in the meeting , so I don't think it's I don't know if it's important .
+B :  Okay .
+A :  This an explanation of the smart-boards . There is a tool-bar over here .
+A :  It's quite simple . You have the the pen function , eraser function . It's like a very simple uh paint application . Uh , we well , we use the same file during uh the whole day , and uh you can make new sheets by uh by pu puttin pressing on the blank button . It works like this .
+A :  Oh . If pen is selected , yes . Oh , no no .
+B :  With that pen ?
+A :  It's not
+A :  But it is pen .
+A :  It's not working like a pen yet .
+B :  Mm .
+A :  Huh .
+A :  Huh .
+B :  Mm .
+A :  It's doing some stuff now . So you can use a pen . You can use an eraser .
+B :  Little bit slower .
+A :  And you can make new uh fi uh new blanks , and you can change uh the line width and the colour of the pen by pressing on forward , which y you have to select pen format .
+A :  And then select current colour or line width .
+A :  So , it's quite easy .
+A :  Uh well , now you're all uh acquainted with the different tools .
+A :  Right , we're gonna try out the electronic white-boards . Uh , every participant should draw his favourite animal and some of its favourite characteristics , on blank sheets with different colours , with different pen widths . Uh , I'll start off then . I'll use this uh same sheet . Alright .
+A :  Oh , let me think .
+A :  Different colours .
+A :  Oh .
+A :  Well , I'm gonna draw um a p piranha . Uh , a fish .
+B :  piranha . Okay .
+A :  Uh .
+A :  Mm-hmm .
+B :  Oh .
+A :  I'm gonna use some different colour now . Some a little white .
+A :  Looks like a fish .
+A :  Think it is .
+A :  Oh .
+A :  Oh .
+A :  Uh , colour .
+A :  This is black ?
+A :  I think so .
+B :  Yellow
+A :  Oh .
+A :  Oh , this is just uh
+A :  useless uh
+A :  drawings but Oh teeth . I need teeth .
+A :  Well , they're not supposed to be green , or whatever colour this is .
+B :  Hmm .
+A :  Okay .
+A :  What was uh I have su to sum up its favourite characteris Well , I like its uh sharp razor sharp teeth . Plus , uh the the big uh forehead and uh a small uh , well a small actual face . And I like its overall uh aggressive look and
+B :  Different .
+A :  Well , that's what I like about uh piranha . I think that's kind of what uh the intention should be .
+B :  Okay .
+A :  Well , who wants to be next ?
+D :  Nobody , I guess .
+B :  I will try . Yeah . I will try . Uh
+A :  You go , Guido ? Okay .
+A :  Uh , make a new sheet . Uh , it's by pressing on blank . Yep .
+B :  Blank ?
+B :  Okay . Then pen again ?
+A :  Yep .
+B :  Okay .
+A :  And uh so in the format menu you can choose the different uh colours and uh pen widths .
+B :  Okay , um
+D :  Format .
+B :  control .
+B :  Uh
+B :  Ah , purple .
+B :  Um , I don't know what my uh favourite uh animal is , but the easiest animal I can think is is a bird . Uh I will
+D :  You know , I thought of that actually . Yeah .
+B :  That's my bird . Yeah ? Isn't it quite it's a little bit light .
+B :  Uh , another colour maybe . A red one .
+B :  A small one . Uh , line width .
+B :  Two ? Three . Oh that's okay .
+B :  That's another one . Ano Uh uh it's a Yeah , it's uh the most simple uh animal I know , I think . Um , I don't know . Maybe because uh there's there's some s uh free uh maybe in the sky or something like that . Maybe a little bit . Yeah . I don't know .
+A :  Well , tell us something about uh your favourite characteristics of these uh particular birds .
+D :  Its simplicity .
+A :  Oh , okay . Okay .
+A :  Okay .
+A :  No , uh it's clear .
+B :  So more uh birds ? Okay , okay , okay .
+A :  N no no .
+A :  We get your point . Okay . Who wants to be next ?
+D :  Yeah , whatever . I'll go next . Thanks . I haven't got a favourite animal too , so
+B :  Pictionary .
+D :  Oh . What should I draw ?
+B :  A cow .
+A :  Oh .
+D :  Thank you , I'll draw a penguin .
+B :  Okay .
+D :  Yeah .
+D :  I'll draw a penguin . Whatever .
+D :  I can't draw , so
+D :  you can start to laugh already .
+A :  I'll do so .
+D :  Whatever . Something like that .
+D :  Come on .
+B :  Yeah , it's little bit hard .
+D :  Mm hmm hmm , orange .
+B :  Orange , of course .
+D :  Whatever .
+D :  Oh , it's better than your bird .
+B :  Uh yeah . Yeah . True .
+D :  Everything's better than your bird .
+D :  Whatever . Hey , it's blue . No . Whatever . Um , I like its ugliness and uh Yeah , whatever . The way it walks or whatever . Your turn .
+A :  Okay .
+C :  'Kay .
+D :  Drawing .
+C :  I'm going to draw a cat .
+C :  I don't know why , but a cat is a very uh smart animal .
+C :  And you can have them at home .
+C :  Which is not as the case with uh with bingwings and
+A :  Well , you can have a piranha at home .
+C :  Ye yes , yeah .
+A :  Huh .
+D :  Or a line .
+B :  A little bit . Yeah .
+D :  I mean a bird .
+B :  Don't mess with my birds , yeah .
+C :  It's not very uh
+C :  very good drawn , but you can see a cat from it .
+D :  Hmm . It's a handicapped cat .
+B :  cat .
+A :  I don't think uh I don't think uh Darwin would agree with that .
+C :  It's
+C :  Ah , it's not scared . He's crying but
+A :  .
+D :  He's crying because it's ugl because of his ugliness .
+A :  Okay .
+A :  What do you like about it then ?
+C :  Uh it's i most cats are small . You can handle them .
+A :  Oh , okay . Okay . Okay . Okay , and then we are uh through the tool training , I guess .
+B :  Okay .
+D :  I wouldn't call it training , but
+A :  Okay , this is uh something about the project finance . The selling price of our remote control is gonna be twenty five Euros . And our profit aim is fifteen million Euros . We're very ambitious on this one . The market range is international , so it's gonna be sold world-wide , and the production cost should be a maximum of twelve Euro fifty per remote control . So that's clear . Yeah ?
+B :  Okay .
+D :  Alright .
+A :  Okay , we're now gonna discuss some stuff when well , we're gonna brainstorm about uh what kind of kemoro romo remote control it's gonna be . Uh , well tell me about your experiences with the remote controls . Do you have uh know what good experiences with remote controls ? Or do they annoy you sometimes ? Are they difficult to understand , or maybe they don't interact with different kind of uh equipment very well ?
+C :  Yes .
+B :  Hmm .
+D :  I don't th I don't think the four of us got problems with remote controls , but if you see elderly people , all these buttons , and then they buy new T_V_ because their previous one was stolen or whatever . And then a totally different remote control with with different functions on different places , and half of the functions a are removed , or whatever . Uh , so I think what we need is is a clear uh remote control with
+A :  Yeah , okay .
+B :  Different .
+A :  Okay .
+D :  uh grouped buttons , you know . All th all the buttons which apply to the text functions in in one uh
+A :  Different functions of of uh
+D :  Well , one area or whatever , not like the button to enter text on top of the remote control and the button to um , yeah , to minimise it to this this or whatever o o other functions totally somewhere else . I think we should group them . And same for the for the volume buttons and the the t
+A :  Okay .
+A :  Yeah .
+A :  Okay .
+A :  And uh , is it gonna be a remote control that's um what it can be used for different kind of equipment , like your T_V_ and your home stereo ? Uh
+D :  Well I was I was thinking uh since a T_V_ is uh mostly used together with a V_C_R_ or D_V_D_ player or recorder , and not with a stereo , I think it should be good to include functions for V_C_R_s and D_V_D_ players , recorders .
+B :  Yeah .
+A :  Mm-hmm .
+A :  Mm-hmm .
+A :  But uh , the D_V_D_ players and home cinema sets often double as stereo hi-fi sets probably . It's what , from my experience .
+D :  Yeah .
+B :  But isn't it
+D :  I don't know . Hi-fi set is uh not often used uh as I know of in combination with television .
+A :  Okay .
+A :  But we gonna
+B :  It's only for television , I thought . Not
+D :  Yes .
+A :  Oh , it is only for televis
+B :  I thought it was only for television . So so we probably don't have to have to uh have the functions for D_V_D_ player or V_C_R_ .
+D :  Yes , it is only for television , but uh
+A :  So wha what
+D :  Well
+A :  What wha what uh what document
+D :  well we we're gonna brainstorm about that . If we think it's useful , we do it .
+A :  But , where where did it uh Where did you find that ?
+B :  Uh , in the email . I thought it said uh Yeah , television remote control .
+A :  Oh , okay .
+D :  That's right . It's a television remote control . But I was thinking since it is useful with D_V_D_
+C :  Yes ,
+A :  Yeah , but most television remote controls support other functions as well . So we can No , we have to think about that . Okay , uh but uh we've gonna put some a uh is is it so user-friendliness , is a is a pri priority in this case , or
+C :  Yes , that's uh something extras .
+B :  True . Yeah .
+B :  True .
+D :  Yep .
+C :  Yeah .
+D :  Yeah , also no one's gonna buy it .
+B :  Yeah , yeah .
+A :  Okay .
+B :  Yeah .
+D :  I guess .
+C :  Only the experts .
+B :  True .
+D :  Yeah .
+A :  Well , this the maybe is uh some aspect of the uh , or or some point at at which we can excel by making it very useful . That w Well , then you're you're the usability uh man , so this uh gonna be a very important task for you then .
+B :  Oh my God .
+D :  Yeah .
+B :  Okay .
+A :  Okay . Well , other ideas ? How can we make it trendy or something ? Do uh by just sh shape and the look of it ?
+C :  Uh , to go with to go with fashion and
+A :  Maybe a can opener underneath it ? I don't know . Or someth something special , like uh M_P_ three player inside of it , or uh Oh , well then the production costs are gonna be too high probably .
+B :  For the bear . Uh
+B :  I I uh , no I think it
+D :  Yeah , way too high .
+B :  Uh , I th I think yo we have to keep it simple , to get a whole market . It's international , so we have to use a standard .
+D :  Yep .
+A :  Okay . Maybe with different type of fronts or uh Well , m has to be something spectacular or uh one which makes it We gonna skip back to the goals probably . Uh ,
+D :  Well that's an idea of course , yeah .
+D :  Mm-hmm .
+A :  original , trendly , and user-friendly Well , we al also already talked about user-friendliness . No , well something trendy and original , well that that goes hand in hand I guess . When something is original , it tends to be trendy , probably , or we should make it combination of that .
+B :  Hmm .
+D :  Yeah .
+A :  'Kay , so you the um technical part of the process is something you're gonna look after for , so you have to think about what kind of uh equipment you want to uh , you know , you want to manage with it . Well , and that's an important part for you then , with gogors regards to the user-friendly part of it .
+B :  Use friendly .
+B :  Yep .
+A :  Well , and you uh should look out for what makes it trendy . Well , you know , y like some special feature . Or some Does it does it gets some gadgetness or something .
+D :  Yeah .
+D :  Yes , what the market wishes .
+A :  Okay .
+A :  Well , the closing . Next meeting starts in thirty minutes . Individual , I think so . The the Industrial Designer will w or the working design , of course , we will uh
+A :  Already s said that . The User Interface Designer is it a User Inter User Interface the technical functions design . And the Management Expert of uh the Marketing Expert . User requirements specifi Well , this one was already clear to us . Specific instructions will be sent to you by your personal coach . I don't know how much time we have left . Oh , not many I guess . We started at twelve .
+B :  Yeah . Yeah , yeah . Interface d
+D :  Yeah .
+D :  You just got a message .
+A :  Oh , and what does it said ?
+D :  And it said uh five minutes , so we got four and a half .
+B :  Oh , I don't
+A :  Okay , well um
+B :  I didn't get a message .
+D :  No .
+D :  He's the whatever .
+B :  Oh , the Project Manager .
+C :  Team Leader .
+A :  No , we're uh ahead of schedule then .
+D :  Team Leader .
+D :  He is the whatever .
+A :  Yeah , close it .
+B :  Okay .
+A :  I'm gonna make some minutes or take some minutes .
+D :  Yes .
+A :  And uh it's it's clear you can put the stuff in the project documents presentations . You can all Or we're all uh
+B :  Okay .
+D :  Project joc project documents is for showing uh on the white-board . Yeah .
+A :  Yeah . Yeah , but we're all familiar with uh uh Microsoft PowerPoint , are we ? Yeah , okay . I'm gonna wri uh write some stuff down and then we're ready .
+D :  Yes .
+B :  Yeah .
+D :  Alright .
+D :  Okay .
+A :  Or we can leave already I guess . or uh or sh or should we uh or is important that we leave at exact uh
+D :  Yeah .
+C :  No .
+D :  No . I don't think so . Yes ? Great .
+A :  Okay .
+B :  I don't think Oh
+A :  Yes .
+C :  Oh .
+A :  We'll see each other in uh thirty minutes .
+D :  Yeah . Good luck .
+A :  Yeah , good luck .
+B :  I will need it .
+D :  I will need it .
