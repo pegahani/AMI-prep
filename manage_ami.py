@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-import re
+from collections import Counter
 
 class manage_meeting:
 
@@ -75,8 +75,6 @@ class manage_meeting:
             tree_ = ET.parse(word_list[item])
             word_roots[self.participants[item]] = tree_.getroot()
 
-        print word_roots['A'].attrib
-
         return word_roots
 
     def get_roots_segments(self):
@@ -90,50 +88,55 @@ class manage_meeting:
             tree = ET.parse(segment_list[item])
             segment_roots[self.participants[item]] = tree.getroot()
 
-        print segment_roots['A'].attrib
-
         return segment_roots
 
     def generate_text(self):
+
+        # write dialogue on txt file
+        file = open(self.meeting+'.txt', 'w')
 
         # a minimum timer among all participants
         total_time_pointer = 10000000.0
         total_speaker_pointer = None
 
         word_roots = self.get_roots_words()
-        print 'MMMMMMMMMM', word_roots['A'].attrib
         segment_roots = self.get_roots_segments()
-        print 'MMMMMMMMMM', segment_roots['A'].attrib
 
-        print  segment_roots
-        print word_roots
+        segment_xml_length = {i:self.count_segment_length(segment_roots[i]) for i in self.participants}
 
         #timer on each participants that shows which time of speaker we are analysing at the moment
         time_pointer_on_participants = {i: float(segment_roots[i][0].attrib['transcriber_start']) for i in self.participants}
-        print time_pointer_on_participants
 
         #a couneter on XML childeren that indicates where we are during the dialogue transcription
         counter_on_segment_xml = {i:0 for i in self.participants}
 
-        for key,value in time_pointer_on_participants.iteritems():
-             if value < total_time_pointer:
-                total_time_pointer = value
-                total_speaker_pointer = key
+        #for i in range(20):
+        # if we get at the end of all speaker segments xml file
+        while cmp(segment_xml_length,counter_on_segment_xml):
 
-        #update time poniter on total time pointer
-        time_pointer_on_participants[total_speaker_pointer] = float(segment_roots[total_speaker_pointer][0].attrib['transcriber_end'])
+            total_time_pointer = 10000000.0
 
-        print total_speaker_pointer, total_time_pointer
-        print counter_on_segment_xml
+            for key,value in time_pointer_on_participants.iteritems():
+                 if counter_on_segment_xml[key]<segment_xml_length[key] and value < total_time_pointer:
+                    total_time_pointer = value
+                    total_speaker_pointer = key
 
-        tempo = segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]][0].attrib['href']
-        (start_word, stop_word) = self.get_words_interval_for_speaker(tempo)
+            tempo = segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]][0].attrib['href']
+            if Counter(tempo)['('] == 2:
 
-        print start_word
-        print stop_word
+                (start_word, stop_word) = self.get_words_interval_for_speaker(tempo)
+                _phrase = self.get_word_interval(start_word,stop_word, word_roots[total_speaker_pointer])
 
-        print word_roots['C'].attrib
+                file.write(total_speaker_pointer+' : ' + _phrase+ '\n')
 
+            #update time poniter on total time pointer
+            counter_on_segment_xml[total_speaker_pointer] += 1
+
+            if counter_on_segment_xml[total_speaker_pointer] < segment_xml_length[total_speaker_pointer]:
+                time_pointer_on_participants[total_speaker_pointer] = float(segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]].attrib[
+                'transcriber_start'])
+
+        file.close()
         return
 
     #takes the href in xml segmentation and separates the start and finish words
@@ -145,12 +148,61 @@ class manage_meeting:
 
         return (start_word, finish_word)
 
+    def get_word_interval(self, start_word, stop_word, word_root_speaker):
+        """
+        take start word and stop word in word xml file and returns back the generated phrase
+        :param start_word:
+        :param stop_word:
+        :param word_root_speaker:
+        :return:
+        """
 
-ex = manage_meeting("MAN", "meet_1")
+        _phrase = ''
+
+        for word in word_root_speaker.iter('w'):
+
+
+            if self.compare_word_id(word.attrib['{http://nite.sourceforge.net/}id'], stop_word) and \
+                    self.compare_word_id( start_word, word.attrib['{http://nite.sourceforge.net/}id'] ):
+                _phrase = _phrase + ' ' + word.text
+
+            if self.compare_word_id(stop_word, word.attrib['{http://nite.sourceforge.net/}id']) :
+                break
+
+        return _phrase
+
+    def compare_word_id(self, param1, param2):
+
+        if len(param1) > len(param2):
+            return False
+        elif len(param1) < len(param2):
+            return True
+        else:
+            #if they have the same size
+            if param1 == param2:
+                return True
+
+        return param1 < param2
+
+    def count_segment_length(self, speaker_segment_root):
+        """
+        it counts the total number of children in xml tree
+        :param param:
+        :return:
+        """
+        length = 0
+        for it in speaker_segment_root.findall('segment'):
+            length += 1
+
+        return length
+
+
+ex = manage_meeting("MAN", "meet_2")
 ex.initializations()
 ex.get_meeting_list()
 #ex.get_participants('meet_1')
 
+#print ex.compare_word_id('IS1000a.C.words1', 'IS1000a.C.words2')
 ex.generate_text()
 
 
