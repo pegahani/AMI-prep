@@ -1,0 +1,838 @@
+A :  Last meeting we uh discuss it be conceptual design and you
+A :  I ask you to put it uh
+A :  That one
+A :  What a remote control
+B :  I
+A :  I'd be eating
+B :  I
+B :  Okay
+A :  So let's see
+B :  Yeah so
+A :  Did you do that
+B :  Can you go on to the shared folder
+B :  Mm the shared folder uh
+A :  Shape for the for the your presentation
+B :  We have a presentation
+A :  Because i have to
+B :  Yeah
+B :  Uh
+B :  Oh
+B :  So i go there but this than uh
+B :  Three
+B :  Three
+B :  It's a final design
+B :  Yeah
+A :  Okay
+A :  That's true
+C :  But it's
+B :  So so discuss you you you
+B :  Yeah
+B :  And uh
+B :  And so
+B :  And we we are both agree on some of
+B :  Two versions of the prototypes
+B :  Because we were no no they said that with the one that they have an l. c. d. on on because is too expensive
+B :  So we come up with two versions
+B :  One beep and one without l. c. d. "'s"
+B :  Um but but come see if a charger
+B :  And then detachable
+B :  Ed or or it on parental control more do
+B :  And detective the big buttons for people
+B :  Um
+B :  So
+C :  Okay so i can show you the two prototypes
+C :  You uh the first one
+C :  It the beauty for the uh l. c. d. display and it's
+C :  Yeah
+C :  And the you can uh and just um goes into the um the navigation menu by uh text the joystick like yeah button
+C :  You can uh to direction and and
+C :  If you just push on it it's consider like a rat enter function
+B :  Uh-huh
+C :  Do we have on the on the side here
+C :  The microphone for the
+C :  For the speech recognition system here
+C :  And he and uh the switch that control if you want
+A :  Well you well you you
+A :  For t. v.
+A :  That's right
+C :  Well i i i think uh
+C :  It's there
+A :  It's not a good
+A :  Yes we do about that
+C :  Yeah
+B :  Yeah it's the all our um camera uh microphones and
+C :  That's
+B :  The the microphone picks up
+C :  Yeah
+B :  The speeches from any
+D :  Is it and only a single mike or microphone uh
+C :  One or so it's a microphone array
+B :  I
+A :  Oh it's a costly
+C :  And you know
+A :  Microphone okay
+C :  It's just a single microphone and
+C :  In i i think yeah oh we we put it here because
+C :  I think when you when you are browsing your l. c. d.
+D :  Yeah
+C :  You will be close to where it's better to to to christian down here
+B :  Yeah
+D :  Okay
+C :  For instance
+B :  Yeah
+C :  And here is a little switch that control if you want to the speaker or recognition system
+C :  To uh to be uh not off
+C :  And that
+C :  Uh huh so this is my remote control comes up read its charger
+A :  How much so it's it's close this one
+C :  Well this this prototype p. z. made for about uh whether five fifteen the fifteen dollars
+B :  Forty
+B :  Yeah oh
+A :  Fifteen dollars
+C :  Fifteen to us but uh what
+A :  It's in for example the beach yes
+C :  It's not it's not uh
+C :  Yeah but it's just a prototype and if we uh
+C :  If we optimise is there um then uh
+D :  The course of a reduced
+C :  Yeah the to the can and the the production costs
+C :  We we can achieve um about to ten dollars
+A :  A menu
+A :  Battery
+A :  Yeah
+C :  On an excuse me
+A :  Okay
+C :  Well uh of the tree
+C :  We use uh about uh
+B :  Is that mm
+B :  The two eighties great reason
+C :  Yep
+B :  A a rechargeable batteries
+C :  We talked about of course because we have to talk about
+B :  Yeah but we we had a charger so it's no problem
+C :  And you just
+A :  So one one battery
+C :  What oh uh yeah one battery
+D :  It's a two or one
+B :  Uh-huh
+A :  It's kitty take
+A :  Is there
+B :  Actually they are
+B :  It's a flexible thing you just an uh
+D :  No was or the rating for that
+C :  There
+D :  What is reading
+D :  What type of battery
+C :  Oh yeah is just the rose simple battery or a change of uh uh
+B :  Yeah
+C :  If you like it exist
+B :  Yeah
+D :  Something like that to a a preset is that yes
+C :  Yeah
+D :  Hmm hmm
+C :  So and if you want to charge a battery you just
+C :  Put the remote control like that
+B :  Yeah
+C :  Peggy and uh
+B :  Yeah
+C :  Charger r. and d. v. to i don't
+C :  Meets all right then the next time you pick it
+C :  Well
+B :  At that
+C :  It works
+B :  Yeah i thought that area there is on the uh think about them there
+C :  Yeah just explain the button uh huh
+B :  It is but
+B :  Yeah alright
+B :  This button is like the malls it's like a joystick
+B :  You can move in train a sixty degrees of direction so we can make it from
+B :  And it
+B :  The additional functions associate that or the actions and then you have a big you know doubleclick
+A :  Uh-huh
+B :  Or in a single button
+B :  Can move up down left right
+B :  Like endorsing
+B :  So i'll sing to the led else in the right
+B :  He finds other functions
+B :  So
+B :  You would do is a single button but it is pretty as flexible because of the trend and sixty degree more buttons
+D :  And the l. c. d. is this one on the remote
+B :  This is the version it becomes a l. c. d.
+D :  Yeah
+B :  You present another version you've got the l. c. d.
+A :  I think it's not a good idea because after maybe one or two months
+A :  Well function
+A :  It's bad thing
+A :  Getting the story
+B :  Ah
+A :  You do
+B :  Okay
+C :  Yeah that's
+B :  This new prototype uh
+C :  Yeah so we have the the second dash and also with the different uh a button configuration
+C :  The so the notion is it's a simpler we uh we uh just uh to put the microphone so
+B :  I
+C :  So basically it's the same that's
+D :  And also the seats
+C :  Yeah i basically it's the same uh things that that has uh i presented before
+B :  Yeah
+D :  Okay
+C :  If you we have uh we have a four buttons for navigation press one button uh acting as a enter button
+C :  So uh according to what you said it's more robust to the user
+A :  Uh-huh
+C :  And there it's also cheaper to produce can produce a set remote control for about uh for that out
+B :  I
+A :  I don't know this
+A :  Basic
+A :  Good
+D :  And i think the for the points here to have an button to find the charger
+B :  Oh i'm not that was that actually
+D :  Because as a major does that
+C :  Yeah it's it's uh
+B :  Look um the deadline at north
+C :  It's embedded in the
+B :  Yeah
+C :  Speech recognition system
+D :  Okay
+D :  And if you'd disable speech recognition system then
+B :  What what oh i'll come to that when it down
+D :  Mm hmm hmm
+C :  So now mine will explain to you
+A :  And maybe maybe said they
+D :  Okay
+A :  Chances with this
+C :  Yeah yeah
+B :  They they
+A :  We can was want to
+C :  Of course you
+B :  I did this in the in the the charger in a in idea that abortions he did they he they use the same charger
+A :  So the price of the charger include that in be
+B :  Uh it's a standard more do you want so you should get for each price
+C :  Thank you
+A :  Uh-huh
+B :  I
+C :  So
+B :  It's the same charger they can use for the hand phone but
+B :  Uh again there's one
+B :  The types
+B :  I think we have the investigate more on that but
+A :  The price should be be you know
+A :  Twelve and half euro
+A :  That's
+B :  But as the marketing manager say is people use women two people are willing to pay more
+B :  For good design
+D :  Yeah people are willing to pay more but they combine is not willing to invest more
+A :  We have we have to
+C :  I
+B :  Yeah
+A :  The price of selling the is twenty five euros
+D :  At the moment
+B :  Yeah
+B :  Hmm
+A :  And the price of
+C :  Alright these are the one on line with the special features
+A :  Production
+D :  Oh uh
+B :  Yeah well uh come out that they the the the thing that make this the controller chip is that
+B :  It is more do the
+B :  So you one more function you pay more
+B :  Even less function
+B :  He's the one i reasonable price you pay for the functions that you get
+B :  On to the system
+B :  So you so uh what will uh
+A :  Uh so there is bases function and if you want more if you take a
+B :  Yeah yeah
+D :  Something uh customised yeah
+B :  Press on the l. c. d. v. d. you can put it back in or you can use you know um
+A :  Yeah
+B :  Or i
+B :  The speech recogniser is a microphone yeah yeah
+B :  Than a microphone clean
+B :  Then i
+B :  Should i
+B :  Yeah pay less for the system is it
+D :  Uh-huh uh-huh
+B :  So oh
+D :  Mm okay
+B :  It's pretty flexible in the
+C :  You also have the
+C :  The the two other might use for the prototype control
+B :  Yeah yeah it's represented
+C :  Isn't that that you can
+D :  Um this is other one
+C :  You can have that
+C :  True
+B :  I
+C :  To your remote control you you if you uh if you want to to what mark
+C :  More power on what you do
+B :  Yeah
+C :  And uh we channel you want to choose uh and so on
+C :  A year is just the the the major or for the kids
+C :  And
+C :  The if the parents want to watch t. v. have to come up with them and it's you just plug in it
+D :  Mm mm mm mm
+B :  Yeah
+C :  And they can have all the control they want it
+C :  We also have that this module for uh old people
+C :  We big buttons here in other that and that
+C :  It acts like the previous one you just plug in and
+C :  It works
+D :  Uh-huh
+B :  Yeah
+B :  Yeah the idea you the the conceptual idea is that
+B :  Simplicity and powerful
+B :  Simplicity meaning that we have few buttons
+B :  Powerful use that
+B :  All the controls with the one you saw we saw earlier in the meetings
+B :  With lots of buttons
+B :  But here you only have few buttons but you week and um the same powerful function and it is
+B :  But in addition the simplicity
+B :  So
+B :  That's the best idea of the combat that's a lot
+B :  And you know they show and um
+B :  Uh in this uh design yeah
+B :  Okay now we come that important features that i did not
+B :  Tell you the first one is a speech recogniser i guess detachable or add on
+B :  And then we also have security feature for example you see oh well well i i is there a bus them as had would be that some breaking the material what was the material again
+D :  I
+C :  The titanium and so it's very uh
+B :  Determine the true
+A :  Titanium
+B :  Again uh i do that shit i've used uh it's a it's a and durable one again because is a a the trees you can choose that that's a better for you uh
+D :  Yeah
+B :  Leading the only be a good one but you can press it should go one again you pay for when you get
+B :  And then uh um you get the point is a robust to misplace a remind us all
+B :  When you finish watching a t. v.
+B :  And you
+B :  There you you to not the t. v.
+B :  And and this is the message coming out that uh please put that back
+B :  To the charger
+B :  So
+D :  Okay
+B :  So that's p.
+B :  Or is it that's the remind apart
+B :  Yeah
+B :  And um
+B :  And also use the programmable channel and vocabulary so we didn't definable company so it's up to the use of the define
+D :  Uh-huh
+B :  So
+B :  Sorry
+B :  I and then uh uh because of the shoe because sure and uh using the device so
+B :  We have also i appreciate the uh of t. v. programs by sean
+B :  And this can be used by the outdoor by the sure and
+B :  So
+B :  You start using the channel you are choosing the t. v. contents of the night
+B :  So
+B :  It's pretty powerpoint that's that's i dunno buttons are at use because of this feature
+B :  Yeah
+B :  And and for the materials that is cheap to produce that thing uh it's quite clear uh form
+A :  Right
+B :  Yeah
+B :  And also like do it and offencive designs
+B :  Maybe again proved more the design
+A :  What what's
+A :  Maybe yeah
+A :  What's the past six to produce
+B :  And easier to
+C :  Well so the price produce
+B :  I
+C :  For uh the simplest one and say are we start from four dollars to produce
+C :  Such a device
+C :  Uh it's about it
+A :  With with with a
+C :  No no we that we do the charger
+D :  But it's i do it
+A :  Okay
+C :  So but uh well
+C :  To the last to produce the the microphone and speech recognition systems
+C :  Two dollars for the uh for that i don't know to use
+C :  And finally three rows for the charger
+C :  So if you uh sum up uh everything
+A :  We don't have charger
+C :  In the l. c. d.
+C :  We discussed do that
+B :  I
+C :  You have to press for plus for plus two plus two
+C :  I think it's about it
+D :  I think you can use excel
+A :  We don't have only option
+C :  So the total cost if you if you want all the fiction functionalities will be about the fifteen that was
+A :  Charles tell you don't entertain him
+B :  Yeah
+A :  Ah it's
+C :  But
+C :  It's just if you want all functionalities
+A :  And we don't do it it'd be changed
+C :  Excuse me
+A :  It's better that way
+A :  You should
+D :  He has a nice inputs but we have um
+D :  Either impose from the public demands i think we would just have a tough look and then we can
+D :  Make all statements and we can finalise the product based on this this
+D :  I think we can just want to my presentation and
+D :  We can wind up
+D :  Or we could do come to some a final conclusions
+D :  So the marketing made an evaluation criteria and this or some of the findings
+D :  And um
+D :  In the markets
+D :  The people are not really interested with the l. c. d. without l. c. d. b. it's speech recognition
+D :  Interface or that a speech resignation interface
+D :  But also the people want that in touch it is a thing is they want to have and
+D :  Fancy look-and-feel mm
+D :  It's true very fancy with colourful
+D :  And uh very handy to whole
+D :  And the second thing is it should be much more technologically you know a two
+D :  Of course in that
+D :  We could put l. c. d. or recognition to be more technologically innovative
+D :  And that the line is easy to use
+C :  Well i think that the technical reading innovation is it is in the project itself since you haven't ship the remote
+C :  Oh uh how do we need to choose uh interactively with the t. v. screen uh
+C :  Uh oh we just for buttons
+D :  Yeah and if we go to the next slide
+D :  Here you can find these are the latest fashion updates
+D :  And so this and paris and then and then also doubt detector this
+D :  Trends
+D :  That
+D :  Above this year it's going to be in here all four corners table so people are really interested
+D :  To see if they haven't read more in the shape of the fruit bowl of a stable or whatever the like
+D :  So i think it should be
+D :  Much more customised it's
+D :  To make a different dutch shapes
+D :  And the second thing is and if the material the really do not want it to be very hard as in the case of
+D :  Ready to a plastic or titanium it should be some more spongy
+B :  But um the problem is that the um
+B :  Is it robust the mishandling
+D :  Uh um
+B :  We have you should find a material that is robust in the same time spongy
+C :  A sponge
+D :  Yeah so
+B :  Spongy
+D :  So finally we have this to be criterias
+D :  One is fancy look
+D :  So again is
+D :  You know a two
+D :  And thirties
+D :  Easy to use
+D :  So these are the of of the criteria out
+D :  On which we are going to be a little remote
+B :  Uh-huh
+D :  So
+D :  And we have an evaluation criteria for each one of this
+D :  Say that
+D :  We have a seven point scale
+D :  From one to seven
+B :  Uh-huh
+D :  And for reach of the product
+D :  You could just you made a scale
+D :  According to this
+B :  Uh-huh
+D :  So now you have it l. c. d. and without l. c. d.
+D :  So
+D :  On the scale if it is true
+D :  If it is
+D :  If it has a fancy look you could just tell me one
+D :  Or if it is false you do then it looks uh it doesn't look much fancy then you could just any seven
+D :  So
+D :  We can make a study on this and
+B :  So is in give a legend depending
+B :  On us or at the users
+D :  Oh no we have you have designed to pour x. no one is that l. c. d. and it ought l. c. d.
+B :  Well for will give the scoring uh we ourself or
+A :  Oh you
+D :  According to you
+B :  Parties
+D :  Not going to you would design us
+D :  How do feel
+D :  Does that uh with the l. c. d. and without l. c. d.
+D :  Okay that does make this uh that
+D :  And without l. c. d.
+D :  One on the scale of the l. c. d.
+B :  Uh-huh
+D :  Remote control car the look how does it look like is it a very fancy or
+D :  And look much fancy
+C :  Why doesn't look much fun stage and say
+C :  Three or four
+D :  And you whatever for that
+A :  And you
+B :  I think we can improve on the design
+C :  Yeah that's it
+B :  And some of the store and comment that this is like uh the store the edge suffering
+B :  I
+B :  Design
+B :  Um we had before goes all all this
+B :  Time on be
+C :  Technical aspect
+B :  On the technical aspect functional aspects
+B :  But also the simplicity
+A :  Uh-huh
+B :  As for the design maybe we should higher design a two
+D :  So i take three on it the city
+C :  Yeah it's three
+D :  So without l. c. d. how would you rate it's
+C :  Well for
+D :  Four
+C :  I think it's it's are more easy to make
+C :  Fancy things when it's not complicated so
+B :  Yeah
+C :  Removing the l. c. d. um gives us uh
+C :  Mm maury best see two
+B :  Yeah
+C :  Have a fancy look
+D :  And in that sense off in a way to ness
+D :  With the l. c. d.
+C :  Well it's it's the same for both so uh i will give of five six
+B :  Uh-huh
+D :  Five a. l. c. d. and
+C :  Well i'll fire also well
+C :  Number and please
+B :  From the you know there's an aspect i i feel that uh oh
+B :  What is most you know that these
+B :  Of a problem but compared to the existing problem but that we use all
+B :  In the last meeting
+B :  Is that are
+B :  The retrieval of t. v. programs by content
+B :  Because or or that it's really not that if
+B :  And for now
+B :  And and and innovation we have a simplicity and
+B :  Simplicity
+B :  Few buttons we've uh
+B :  Mm
+C :  Would that the functionalities
+B :  And other functionalities
+D :  So without l. c. d.
+B :  Is there there is a for both
+B :  I'll be i think that know a product is
+B :  Oh oh has the best in law well there's a buy us a document
+D :  No not going to design aspect we want to know
+B :  Because we designed
+D :  How would do feel innovativeness
+B :  Uh and the innovation is is very high
+D :  With the l. c. d.
+A :  I see
+D :  And without l. c. d.
+C :  For both seats
+B :  For both
+C :  The same innovations yeah
+B :  Is is an innovation
+D :  Okay
+B :  So maybe you can put six
+C :  Uh uh six let's go for six
+B :  It's uh
+A :  Without l. c. d.
+B :  Both
+D :  No actually
+D :  To make it with the l. c. d. you make more uh sorts so i had there is
+D :  How you know it in s. included if we make it with the l. c. d. u. them in the days without l. c. d.
+C :  Yeah
+D :  That is not much you know it an s. so can you look
+A :  No you know like yeah yeah
+B :  Yeah that was that there was the issue is that
+B :  What it what is the display on the l. c. d.
+B :  We haven't really uh
+C :  Okay but
+D :  I mean that's what you are so that's what
+B :  The the mean i actually it's the it's got an l. c. d. but what are the display on the l. c. d.
+D :  Design
+D :  No it's like this and then on the l. c. d.
+D :  According to what i understand from a model is
+A :  So that's remove it
+D :  You have a joystick it up
+B :  Yeah
+D :  And you have a l. c. d.
+D :  Yeah just press the joystick
+D :  You get your a programme
+B :  Yeah but
+C :  Yeah but you have the same programme on the t. v. screen
+D :  But then
+B :  Yes
+B :  Exactly
+A :  This is the problem
+D :  Well on the t. v. you don't it doesn't display on the t. v. now
+C :  If you have the l. c. d. that
+D :  Yeah city then they there is no meaning in having an on the t. v. or then again you have a channels volume on all the stuff
+C :  Yeah
+B :  But you cannot display all on the l. c. d.
+D :  And whatever
+D :  And the depends upon our design
+D :  So
+B :  And you have all for the users who for for l. c. d.
+D :  I mean
+B :  I will give the in the in give them the l. c. d. we give what the customer a
+B :  Uh one sorry
+C :  Yeah
+D :  So
+D :  Without l. c. d. you want to put that at the same
+D :  No i love you know which are nice
+D :  And which would you recommend easier to use with the l. c. or without l. c. d.
+C :  But i think both so um
+C :  Really easy to use because there are few weeks and the buttons
+B :  Yeah
+C :  And uh uh well the main you are here
+B :  Yeah
+C :  Well organised so
+C :  Well we'd take them or knowing that technology you can you can easy to use the product so i would give it a six for the easy to use
+B :  I think
+A :  No it's
+A :  Testifying
+A :  I c. d.
+A :  The
+A :  The data
+A :  I think it's better to do it without l. c. d.
+B :  Uh-huh uh-huh
+A :  Because that's with the l. c. d. just increase the price
+D :  Yeah
+A :  I that i think that's a minute so
+B :  Yeah
+A :  Without the said it would be uh
+D :  Or you can just go back to the previous slide know where we have we have if we walk that's
+D :  So i mean in the part is and you could just a minute to make some thirteen euros so according to four corners table or a spongy that's
+D :  Without l. c. d. and the door speech recognition you and then our product is going to be
+C :  It's cheaper to produce
+D :  But it does
+D :  Yeah
+B :  Hmm
+C :  And uh you from the the uh well if we have less technology will more liberty to uh
+D :  Yeah that's right
+C :  For the shape and uh things like that so
+B :  I have an ending the same
+B :  About the easy to use aspect
+B :  I think the easy to use uh
+B :  I space different for different people
+C :  Yeah
+B :  For the young generation easy to use may be very complicated because uh they will be was a lot of control's a lot of buttons
+B :  Four kids there wasn't a t. c. d.
+B :  It's similar read for the old people they want simplicity so that's why we have the power and um audio
+D :  Yeah yeah that's right
+B :  Uh we can have the the more complex design used
+B :  E. d. one it but
+B :  But there are all
+B :  What i'm trying to say here is that the um
+B :  We have different sets of buttons for different kinds of people
+B :  So we come so easy to use i think it's very use a customisable
+B :  Use a custom mine is vision is very important yeah
+C :  Yeah
+B :  Yeah
+B :  So
+D :  So without the city
+D :  I just a good five
+A :  Hmm
+D :  Or you want to to a six
+C :  Six
+B :  I think system
+C :  Yes as you say it would but uh
+A :  Without that c. d.
+D :  So i i think it's better to have this
+C :  Yeah
+D :  Without l. c. d.
+C :  And to improve the the
+D :  As a programme manager's problem product minuses that without l. c. d. it is going to reduce the costs also
+B :  Yeah
+D :  And it's going to be much simpler to use
+C :  Yes and to give a small ability to have a fancy look so mm
+B :  Yeah
+C :  So let's go back to our overall a battery uh-huh
+B :  I think for for the design is is
+D :  So
+A :  But what about this the speech recognition
+A :  And you what about the integration of
+B :  The speech recogniser is a a normal do
+A :  Is it okay
+C :  Yeah
+D :  There's going to an optional if someone wants to buy it
+D :  They can have it otherwise no
+A :  Uh so it's optional
+D :  It's an option
+B :  Yeah
+C :  It's optional yeah
+C :  Since well i i mean the this study yeah
+C :  People are more had to like small to have a spongy yeah i remote control that i guess
+A :  I think we all had identical
+B :  I
+D :  Yeah
+A :  I think it should be better if we have all these want to use and the same remote control
+A :  Because maybe that it's gonna do with these uh
+D :  Yeah but you mind if you have and i don't
+D :  That it's made just uh oh hide though didn't a model
+A :  Uh
+D :  And so the parents can't do that
+A :  On that yeah
+A :  How many times did
+C :  Yeah
+A :  Time for for get to have a
+A :  Put it on so maybe but if you have one is the same
+D :  In the same sets yeah
+B :  Oh
+D :  And then individual buttons to make them more
+B :  The problem is t. v. we are bright if a custom oh no one's a certain component
+B :  And the the one the parental control because it's a couple would not have sure and
+B :  I mean you said the product of them i get you could make any kind of people
+B :  And not all people would need all the functionalities we propose to them
+B :  So we might lose a customer because of these
+B :  I don't know what you can uh
+A :  So you mean that even if this what it is p. b. b. function and that would be optional
+B :  Yes
+B :  What do you think i don't know yeah um i did a minute
+D :  And then i do i don't have to make a marketing survey that
+B :  Yeah
+D :  Oh how many batteries couple or or many couples have a t. v. or to the number of singers to have a television
+C :  Yeah
+D :  So based on that i think
+B :  Yeah
+B :  But uh the question is and doesn't a small they're they're it the increase the production cost or decrease the production cost
+C :  Well it's uh well the same because if
+A :  I think this is
+C :  Well you can these
+C :  If you had or something like
+A :  If you think is is
+C :  Oh no because if you
+C :  If you uh does something well mm yeah maybe because it's three different p. c.s uh to mm to be the bad
+A :  Hmm
+D :  But you can make it on a single p. c. fit the different options
+C :  Yeah yeah
+C :  Yeah it's so i think it's cheap very few mm if you already been to the one that
+C :  Functionalities uh-huh
+B :  Uh-huh
+C :  On the same at your uh huh
+D :  On the same p. c. yeah
+B :  Yeah
+C :  Yeah
+B :  That would get that thing is that if in d. you when they had uh existing provide you you gonna maintained e. d. u. gonna keep the same customer
+D :  Yeah
+B :  Because the same customer will come back to buy at the at once
+D :  Yeah that's right so how many to the scroll where the time options and that's
+B :  So so
+B :  Yeah you so you've done them by now they can buy in the future
+D :  And
+B :  So in that way you actually keeping the cast the same custom uh editing them to come banging again
+B :  Mm again
+B :  I
+D :  Yeah something like uh microsoft for us
+C :  I
+B :  I
+B :  When a child of all the microsoft
+D :  I
+A :  I think maybe we don't want that
+B :  And we do one does them we
+D :  No
+D :  And that's and we sell it you make of this and sell it on this
+B :  Yeah
+B :  But you the buyers can be out that would be it can be upgraded be a good thing i i
+C :  Yeah yeah
+B :  Yeah that depends on the eye
+D :  And uh was idea what uh
+D :  The shape of the remote controls
+D :  Uh can they be made into a fruit and vegetable rights
+C :  Oh so
+C :  Yeah
+C :  Yeah
+D :  Bill require different types of p. c. v. s. i.
+C :  I think that
+C :  Yeah but so uh and also the um mm well the components we'll have to change because uh
+C :  We have to deal with the shape than that but i don't think it will uh increase the cost much
+D :  All it will be like this to the p. c. b. would be the same for all it but only the exterior
+D :  Chip is different for all
+C :  No one but it's a bit complicated two we she's if you need machines two different machines to um i'll have
+B :  Yeah
+B :  Well we can change used to propose the customers we've
+B :  Teams
+B :  For example would be the mobile phones now i think it's a different kinds of scheme in in people's this to the all i have a new screen and that's that the
+D :  Yeah yeah that's right
+C :  Yeah yeah we're gonna have the same double shape and then uh i've done the schemes and we
+B :  Yeah
+B :  Yeah
+D :  Yeah that's right
+B :  Yeah
+C :  We'd these uh things spongy texture are things like that
+B :  Yeah you can plug in what material that be mm
+D :  Uh can you need to look into the mitchell uh-huh
+C :  Spongy
+B :  Yeah a fly reelected a kind of thing
+D :  Yeah
+B :  I
+B :  Yeah
+C :  Oh okay
+A :  So are
+C :  So we finished the the prototype presentation if you have something else to say
+D :  I think the project manager would be interested to look at what they
+D :  Financial issues
+D :  In making this one it's
+A :  Project evaluation project
+A :  Well
+A :  Oh no we have to ask this question
+A :  We have to
+A :  You guys ones hum
+B :  I suppose in the let this criteria that
+A :  Project evaluation
+A :  Right
+B :  Room for creativity disarm is a bit smaller but
+C :  Yeah
+B :  But i think it's uh okay first of all wish
+D :  Uh it is fine may not be done and uh i think it's okay
+B :  Yeah
+B :  Hmm
+D :  It is fine for making a brand a for profit presentations
+C :  That was good
+B :  Yeah
+C :  Yeah
+B :  Anyway with the lab or three nearby to do a more teams so it's okay
+A :  Uh-huh
+D :  And the leadership was excellent
+A :  Yeah
+A :  I think so
+B :  I
+B :  Did i did
+C :  I i
+A :  I
+A :  Did you really that's it to court
+D :  Yeah that's right
+A :  As you want
+D :  Yeah that's right
+A :  Uh the teamwork was very very cool
+C :  Very democratic
+A :  I was really i have it is that it's fine to what it
+A :  If you
+C :  Thank you uh bus
+B :  Thank you more more i
+A :  Uh-huh not
+C :  Oh right
+B :  Alright
+D :  And
+D :  New ideas found any new ideas to make this presentations more interactive and more interesting
+C :  Come up with new products
+B :  I
+D :  I'm in a lot label for it to the think and we make this more of thing
+A :  Less fancy
+B :  But i i know something we need more cake small bit scripts on the table why we have meetings
+C :  Yeah and also more when uh huh
+C :  More seriously i think it's
+C :  It's a good the idea to have a key on
+C :  Two points whenever we do uh meeting
+C :  Uh
+C :  Pre out the meeting to have uh
+C :  Well uh least with the points who will be discussed things like that but
+C :  I think it's alright
+C :  We uh achieved uh project too i think
+D :  Yeah that is within the budget
+C :  Yes it's more or less
+D :  And the evaluation was
+A :  Without without l. c. d. with that speech recognition or
+D :  Yeah that's right
+C :  Yeah but
+A :  Could be seen uh
+C :  Right
+D :  And the next is celebration
+C :  So
+D :  So
+C :  So coffee machine
+B :  I
+A :  Physically coffee
+B :  Alright then you finished
+C :  Okay
+D :  Yeah thank you tangram ones
+A :  Thank you for your
+B :  I think you're ever
+D :  Oh
+A :  Mm
+B :  Mm
+D :  Uh-huh
+C :  Mm

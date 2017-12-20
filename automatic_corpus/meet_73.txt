@@ -1,0 +1,677 @@
+D :  I
+C :  Uh
+D :  Yeah
+C :  Mm
+C :  Uh
+C :  Mm
+D :  Mm
+C :  Minimum get here um
+D :  Mm
+B :  Was questionnaire suppose people them
+C :  Uh-huh
+B :  For after the meeting
+A :  Now are
+C :  Mm mm
+A :  We just got
+D :  Mm
+A :  I would give us to do a really fast
+B :  That one
+C :  Mm mm
+C :  Mm uh-huh
+A :  Or are we
+C :  Mm mm
+C :  Uh-huh
+C :  Uh-huh
+C :  Mm mm
+C :  Uh-huh
+C :  Mm mm
+C :  Uh-huh
+C :  Mm uh-huh
+A :  It's quite
+C :  Mm
+C :  Uh-huh
+C :  Mm
+C :  Uh-huh
+C :  Mm
+A :  Oh okay
+C :  To to
+C :  Uh-huh
+A :  Oh there we go
+A :  Okay
+A :  Um welcome to our second meeting this is the functional design meeting
+A :  And i hope you all had did individual work and uh
+A :  Okay let's get started
+A :  Okay here's the agenda for the meeting
+A :  After the opening a um a i am going to
+A :  But they'll the role of secretary take the meeting minutes
+A :  And we're gonna have three presentations one from each of you
+A :  Then we're gonna discuss some new project requirements
+A :  Um
+A :  Gonna come to a decision on the functions of the remote control and then gonna close the meeting
+A :  And we and do this on that forty minutes
+A :  Okay
+A :  First i want to discuss the goals of this meeting first we need to determine the user requirements and the question that we could ask ourselves is what needs and desires are to be filled
+A :  Buy this remote control
+A :  And then we're going to determine the technical functions
+A :  What is the effect of the apparatus what actually is it supposed to do
+A :  What are people pick up the remote and use it for
+A :  And then lastly we're going to that and then it's working design
+A :  How exactly will perform its functions that's the whole technical side of
+A :  Just give you know it look like to make some don't
+A :  Okay
+A :  Well let's go ahead and
+A :  Right right
+A :  Yes
+A :  So what i wanna do right now is here from a t. v. or
+A :  On your research that you just turn
+A :  I would like to start stuff
+C :  And i like them first
+A :  Okay
+A :  Um mm do you have a powerpoint or no
+C :  Yeah it should be in them
+A :  Okay
+D :  To the store powerpoints now or
+C :  In a could you could
+C :  To yourself actually
+A :  Well
+B :  Did you said that
+A :  Save it in the project documents okay
+C :  Put it in project documents yeah
+A :  Mm mm mm
+A :  This one
+C :  Sure
+C :  Yeah
+B :  Yeah
+B :  Right
+C :  Um
+C :  Well the function of a remote control as what um
+C :  We've been informed it is basically to send messages to the television set
+C :  For example switch on off switch off
+C :  Or this channel go to channel nine ten volume up etcetera
+C :  Um so the considerations it's just um for example that
+C :  What it needs to include it's the numbers you know zero to nine so you can move to channel
+C :  The power button on slash off
+C :  The channel going up and down
+C :  Volume going up and down and then mute
+C :  A mute function
+C :  And then functions for a v. h. s. t. v. d. for example flavour wind fast forward stop parts and there
+C :  And enter be for like you know the menus but um
+C :  And then at the menus for a t. v. as well as t. v.
+C :  Whether that means like um we can go and side the brightness the screen things like that all the more complicated functions and then use
+C :  And you can cite if that's what we what they find um if we want to include that in the remote if that's something that would stay on the t. v. itself for example
+A :  Okay
+C :  Yes there are two examples um and you can see on the left it's got a lot more buttons and and uh if you can read it that says that
+C :  Go to freeze
+C :  Um
+C :  Slow
+C :  Repeated
+C :  Programme mute
+C :  And so the system or the buttons to use in ideas one example
+C :  And then on the right it's a lot more simply it's got volume it's got the play that like circle set which is player wind it also
+C :  What is the past four is also like next on the menu
+C :  So you have functions that are uh duplicating
+C :  And you have a mute button and the numbers need that
+C :  The power buttons like to see two different had the more complex and more simple version
+C :  And then lastly is the questions are we want to consider
+C :  Like what functions so we want it to include and how simple complex it should be
+C :  And what functions it needs to complete
+C :  I know what i needed to complete inflation profits "'cause"
+C :  You know some of it also has to be considered and it's gonna be hopefully one time thing
+C :  When you said that that should be in fact ago but we have to include the functions that can allow to set up from the first place
+A :  Okay
+C :  So that's it
+A :  Right
+A :  A good presentation thank you
+A :  Speak was the he hum
+C :  Mm
+A :  Okay
+A :  Who would like to um file that or not
+A :  Yeah that we discussed okay
+D :  I can go
+A :  Do you want me to run it or you wanna
+D :  Yeah you sure
+A :  You mean
+A :  Functional requirements
+D :  Yes
+A :  Right now have courtney with the functional requirements
+D :  Yes okay so
+D :  We tested a hundred subjects in our lab and
+D :  We just we watch them and we also made of a questionnaire we found that
+D :  Of the users are not technically happy with current remote controls seventy five percent think they're ugly
+D :  Eighty percent white people are willing to spend more which is good news for us um
+D :  If we make it look fancy or
+D :  And
+D :  Basically you we just need something that really i mean there's some other point of there
+D :  But they it needs to be shit has e. and it but yet simple sell
+D :  That's really what we need to do
+D :  Uh we need we need it to be simple if you get it's
+D :  It needs to be high-tech looking
+D :  So
+C :  And that meeting what
+D :  Like
+D :  They
+D :  Like i guess is the buttons one
+D :  I dunno
+D :  It's from my uh research
+A :  Okay would you
+D :  My team wasn't very clear that the "'kay"
+C :  At least
+A :  Oh sorry
+A :  What you mean by um
+A :  The current remote controls not
+A :  Match well the operating behaviour of the user like they have to press buttons
+D :  I i think it's like the engineering courses user
+A :  Okay
+D :  Where is like the engineering
+D :  She showed that the injury ones are more complex
+A :  Oh right
+D :  And
+D :  Users are we need all of
+D :  The buttons that are contained on there
+D :  Because they only use ten percent buttons really
+A :  Yeah
+A :  Okay
+B :  The only use ten percent of their brains uh-huh
+D :  Good point
+C :  Uh-huh
+A :  It works
+D :  To necessary you for a
+B :  Yeah
+A :  Or if the next slide
+D :  Uh-huh
+D :  And so
+D :  People will say that they typically was as you saw for now because probably those remote control the time much like any small pointer cellphone
+D :  And
+D :  They we need something simple because most people all thirty four percent
+D :  Say that it's just too much time to learn how to use a new one and we don't wanna do we wanna very too far from the normal
+D :  Standard remote
+D :  I mean they do need to be able to identify
+D :  And
+D :  R. s. i. and not very sure what to yes
+D :  Yes
+A :  The ten point
+D :  It is important for the remote control world
+A :  Uh-huh
+C :  Is that like here
+C :  Ergonomics of your hand movements or something
+A :  Could be yeah
+D :  A possibly
+B :  Do we really need to provide more information on what r. s. time
+D :  I yeah that's what my a website and i
+A :  Oh
+C :  Oh right
+D :  Don't know
+A :  I think that's a pretty good guess though
+D :  Yeah i would assume so
+D :  I think which was a know as remote control experts
+C :  Exactly holding it
+D :  But it also is so the channel the volume and the power buttons are most important
+D :  On our company website you can find
+D :  Like a specific statistics concerning to know how much each button is used but those are the devil at a point
+A :  Okay
+A :  Excellent
+D :  Yes
+D :  And so personally i think that we need a moderate eye-catching design but it it it really need to be simple so
+D :  Saying from me
+D :  You were side your presentation the engineering versus the user
+D :  Specified remote i think that we should go with something that's more user-friendly
+A :  Yeah
+D :  Where the engineering ones the boxes tend to make it look more complicated than it really is
+D :  Um
+D :  The functionality of the product really nice to be considered
+D :  As to like
+D :  Whatever buttons we really need on it's
+D :  And
+D :  It needs to be open to a wide range of consumers so
+D :  Even though we need a small number buttons we also need to take and
+D :  Are most people going to be using it for a d. v. d. player at even know what
+D :  What exactly are we using it for
+D :  As well as the age range
+D :  So we need a him but not corny marketing scheme for
+D :  Promoting our product
+D :  And also we found to our team the mets speech recognition
+D :  Is it it's like it up and coming thing they've really
+D :  Consumers are really interested in it
+D :  And
+D :  Cents our findings found that people are willing to pay more money
+D :  For a remote
+D :  For it to be more
+D :  High class
+A :  And so just that
+D :  We could consider it
+A :  Just to clarify that speech recognition you mean they would say channel five and i think we can try
+D :  I guess sell yeah
+C :  Uh-huh
+A :  Okay
+C :  Uh just a where i think we as you know
+D :  Yeah i guess we can interpret it like
+A :  Oh
+A :  Have be lovely
+D :  We can just try out different types of speech recognition
+D :  That's an hour
+A :  Today um now rival companies manufacturer remote that
+D :  No problem
+A :  You could press the button on t. v. you know what a remote would beep so that if you have lost it
+C :  So like what the remote phone use it or
+A :  Mm oh yeah that's true
+C :  You know like
+A :  You could if we include that if we wanted to
+C :  Go to the case
+C :  Yeah
+A :  If it's whether
+A :  Okay
+A :  I'm ready for our last presentation in there
+B :  Yeah i'm just random of it
+B :  I think it should be there
+C :  Working design
+B :  Working design
+C :  Uh-huh
+B :  "'kay" um i didn't get a chance to complete this one
+B :  "'kay" is some of the tools that i was getting frustrated
+D :  That's fine
+B :  Um okay so ah
+B :  Method
+B :  Method of our design i i think i just a realistic that some of the things that we actually need to put into this we need a power source for gonna need a smart chip if we're gonna make it multifunctional
+B :  Um extra functions will probably need an additional chip
+B :  Either that or the smart chip will have to be
+B :  Extremist right
+D :  What exactly is a smart chip
+B :  Users might chip is just a chip that's been programmed in designed so that it can be complete
+B :  Of fair range of functions
+C :  Well how much extra would be additional chip be second a push us over production costs
+B :  I wouldn't think so "'cause" we could probably get it from like them all from uh huh
+B :  Anywhere company
+B :  Make tennis of the chips pretty cheap
+A :  Any
+B :  Um yep
+B :  Nothing here
+A :  Okay
+B :  Um power source i figured batteries "'cause"
+B :  Very easily available typically a um remote has either two double a. "'s" or four triple it's sometimes three
+B :  Uh it really kinda depends on the size of the actual remote itself
+B :  Um a large on off button
+B :  Demographically
+B :  We're moving towards uh
+B :  Older generation of people so
+B :  A large on off button would probably be good
+B :  Selection button for various entertainment devices so you want something that will permit you to select
+B :  The d. v. d. player or a d. t. v. with a stereo system
+B :  Um smart chip that preferred so that permits sorry
+B :  Universal application again
+B :  Something that'll allow us to skip over between devices
+B :  That's kinda yeah
+B :  Um
+B :  This is my
+B :  Fifty second design
+B :  Power source
+B :  Over here we're gonna have this which obviously between the power source and the rest of it you're gonna need to switch
+B :  Um extra bulb could just be
+B :  Four
+B :  Flashing yes
+B :  Um
+B :  Subcomponent which would be like
+B :  A way of deferring the power to different parts of the
+B :  The device
+B :  Um the chip and of course the infrared bulb so we can communicate with the various devices that he needs to talk to
+D :  So what exactly we're looking it's like the front of the
+B :  This is just like a rough schematic
+D :  Well
+A :  So this would be different
+B :  So this is the internal workings
+A :  So the red would be the front of the remote there right okay
+D :  Oh okay
+B :  Yep
+C :  Yeah that's gonna be what's communicating with the t. v. but the other bo i think it's good just indicate i'm doing something sort of like um
+A :  The all the light up a kind of
+D :  Like we know the batteries working
+C :  Reassurance
+B :  Yeah so you don't have to stay right that in for right "'cause" you know when the battery start sign in your remote currently you have to actually stay right that bulb and go okay
+A :  Yeah
+B :  May push this button is it working
+D :  Okay
+A :  And have it lighting up the keys you right
+B :  We can skip that whole thing yeah
+D :  Yeah
+C :  Yeah
+B :  So you can put it in the dark
+A :  The buttons
+D :  Yeah and that's good
+A :  Okay
+D :  We should make it go on that right
+A :  Yeah definitely n. x.
+A :  Right
+B :  Yeah that's it
+A :  Okay in it
+A :  Okay
+A :  Anything you wanna have a personal preferences though if you sorry that we need a large on off button you think
+B :  I think that that's a good idea because you know that's one of the most important buttons
+A :  Anything else
+A :  Okay
+C :  Well it shouldn't be larger buttons in general you know like if the examples i had there's like quite small so should we trying go for
+C :  So it has a larger buttons
+D :  I think we should like i think that would be in it and
+D :  Like in for the design sorry um
+D :  I think we should definitely go with buttons they don't look like a normal remote "'cause" most remotes have small square buttons i think we should do something like
+C :  Almost
+D :  Maybe big earn round like bowls
+C :  Yeah yeah
+A :  Okay
+A :  Okay that's
+A :  Talk about all of our
+A :  We'll come to a decision later about all the components that we need to include that um wrap up
+A :  This one and i'm gonna go back to my powerpoint
+A :  "'cause" we need to discuss the new project requirements which may very seen forced upon screen better later
+A :  And
+A :  Right
+A :  Go through the mm yes
+A :  Ah right you we are
+A :  You know product requirements first it's only going to be a t. v. remote
+A :  We're trying out that over
+A :  Complicate things so no d. v. d. no t. the most a real savvy be multi function
+B :  Okay um
+A :  Okay
+A :  And we need to promote our company more so we need to somehow include a colour and our company slogan on the remote
+A :  We're trying to get our
+A :  I mean out in the world
+A :  Okay and
+A :  You know teletext is
+C :  Yeah
+A :  In the states we don't have it but um it's like they just have this channel where it just has news and weather kind of sports it's very um
+C :  Yeah
+D :  What is it
+A :  Bland looking is just text on the screen not even yeah just black with
+C :  Yeah it's like black black and white kind of
+D :  Like running along the bottom
+A :  Just text
+A :  Yeah
+B :  You can also get a kind of the t. v. guide so um
+C :  And i'll give you this
+C :  Ports
+D :  What is the like the weather channel word scale like the ticker running on about um
+A :  Kind of
+C :  Except the entire screen
+B :  It's the entire screen is just whining information and i think
+A :  Yeah it's the whole screen
+C :  You can takes boards you can take c. news you entertainment you know it's like
+A :  So anyway
+B :  Seemingly
+D :  So it's like a separate channel from like what you're watching
+A :  Right
+A :  Right
+A :  But it's becoming outdated now because of the internet nobody needs to go to the teletext channel to check the news at and we have twenty four hour news channels now to sell as our new product requirements
+D :  Okay
+B :  So do we have to include the company colour
+A :  Right
+A :  Uh-huh
+B :  Within that
+A :  Yes
+A :  The power to the
+A :  Logo
+A :  Okay and
+C :  Company colour being yellow
+A :  What we're going to do right now is come to some decisions the federal that we can all agree on
+A :  About um
+A :  The target group and the functions and just different things that we need to do and then we'll close the meeting
+A :  So
+A :  Alright
+A :  Okay
+A :  So our target group
+A :  Is
+A :  You mentioned um older
+A :  People
+C :  Uh-huh
+A :  We could just be universal for everyone you think because i think even if something has large buttons
+C :  It's gonna make it nicer
+A :  As long as they're not childish lee large like even technically
+C :  Yeah
+A :  Not antek good chance people can uh
+A :  Use it i mean it they want something user friendly so
+B :  Well even if we kept the regular standard size of remote if we reduce the buttons down to the ones that people are saying that they use the most often and a couple extra "'cause" are saying they only use ten percent of them
+A :  Yeah
+A :  Yeah
+B :  Then
+B :  We should be able to accommodate fairly decent size buttons
+A :  Okay so what
+A :  Um for
+A :  Target group would we say
+A :  I mean young an old are all age ranges all um not kids obviously right
+A :  "'kay"
+D :  No kids need to know the user well
+B :  Most of them will into if we pick it up there
+D :  I think they got a change between disney channel cartoon or
+A :  I don't know
+A :  Okay so we're going to go anywhere from tends to wood all in the age range
+D :  Yeah i think we need a call
+A :  Um
+A :  What about
+A :  Take it
+A :  Technical um
+A :  Specifications like how how technically literate are these people we're going to be using a remote
+D :  Um oh i would say you we should say dumber than the average per cent
+A :  Okay
+C :  We should go for the lowest denominator
+D :  Yeah
+A :  Right
+A :  Okay
+C :  High school educated
+A :  So so they need know technical experience
+A :  To operate
+B :  How will wobble to know be case
+B :  There's no way you're gonna be able to make it you know
+A :  Okay and we also need to determine
+A :  The specific functions of this
+A :  Just to get it all on paper so we said it needs to send messages to the t. v. needs to change the channel
+A :  Turn on and off just basic simple stuff like this so if you have something to say it in one or two
+A :  Mine meeting minutes
+C :  Most channel on off button volume
+A :  Uh-huh
+A :  Volume
+C :  You
+D :  And channel yeah
+D :  Does the most important ones
+A :  Right and we wanna keep um a make a know if you don't wanna keep the number buttons down correct because people use ten percent
+D :  Yeah
+A :  Anyone else
+C :  Um
+A :  Um
+B :  Do we want this thing to be able to
+B :  Be
+B :  Found easily
+A :  I think so
+A :  Well you
+D :  Sure yeah
+C :  Say but
+A :  Oh finding kind of device or
+B :  And
+D :  I mean we we need a like a homing device
+B :  Like if this is gonna get lost any take a rich how are we going to
+C :  Oh right yeah okay
+A :  I'll think of a
+B :  A comedy to be quick ability to find it
+C :  Tracking
+D :  Because people really or
+A :  Okay
+D :  Looking for a remote that's
+D :  More high-tech
+A :  Right
+B :  What if we gave it a charger
+B :  And on the charger just like a phone like you get a portable phone and it's got a charger and if you leave your phone somewhere
+C :  Gonna base
+B :  You push the button to find it it finds
+B :  Of the phone beeps for you
+D :  Do you think you'll really go for that now
+D :  Because
+B :  It's useful for the remote from
+D :  Yeah
+A :  With that and to our costs are well i wonder
+D :  I would think that because you have to develop a base
+A :  Right
+C :  Well if you have a base
+C :  You start putting a charger and then you have a different kind of battery
+B :  Yeah
+D :  Mm
+B :  Rechargeable batteries it cheaper usual way
+C :  Yeah
+A :  Okay i i think we can make a decision on that later out will still put that as a point do we need to discuss so that would include battery source
+A :  Power source rather
+A :  Is it going to have a charger
+A :  Or is it going to be
+A :  Run strictly have batteries
+A :  We have seen to deal issue that you mention of speech recognition if we want
+D :  Two
+C :  Although we could if we had a speech recognition and we can start naming it as like a another kind of more handicapped
+C :  Disabled
+C :  Um
+C :  Then it demographic
+D :  Well there is the people who desire speech recognition there's the different of the demographics have
+D :  Different desires i don't know if you guys
+A :  You could um
+D :  It would a copy on to the
+A :  We could have a
+A :  Oh
+D :  The thing sits black they all the different age groups have different designs for speech recognition
+D :  So
+D :  Basically older people
+D :  I don't really care
+D :  It's really in the people twenty five to thirty five
+D :  I feel those are the people that really what a lot of t. v. the l.
+A :  Uh-huh
+D :  The the one to get addicted to
+D :  Soap operas and
+B :  Um
+A :  Kind of
+D :  Just seconds and stuff
+A :  And if we did you say when they're at this stage they're going to probably i was by remote that has
+D :  Right
+C :  Well then then they put the voice recognition d. put there like receiver on the actual television
+C :  In the base or in the actual remote "'cause" then you've already got them and then hand wages can speak to the remote
+A :  Right
+C :  As if you just speaking done on you don't have to have a remote in your hand and like to look at it
+A :  Yeah well in the speech recognition could be part of the lost and found device to if we said find remote looking remote or something
+D :  Right
+A :  A certain phrase
+A :  Then it could beep
+A :  Just go on
+D :  Yeah
+A :  Mm
+C :  So fifteen minutes
+C :  Um
+A :  Okay anything else wanna discuss
+C :  What do we wanna include the numbers like a zero to nine
+C :  Can we can see the leave them out
+A :  Um
+D :  Way on the remote itself
+C :  Yeah i like you have one two three four five six seven eight nine zero
+D :  Well we definitely need those
+A :  How you how to leave those out
+B :  Yeah
+C :  Well i don't know i mean if you can serious like well
+C :  I don't know if there's just a way of leaving them out
+A :  Unless you can see the channel
+B :  I think people would find that to foreign
+D :  Yeah
+A :  Yeah that's true and
+D :  You don't knowing
+A :  Also remember that in this teenage we need you know like a hundred
+A :  But do
+A :  Nice to have a remote that's not
+A :  You can go up past like
+A :  Fifty
+A :  So i can
+A :  Whenever i get cable ideally t. v.
+B :  So he gets to handle
+A :  Mm yes it your own remote or digital cable
+A :  "'kay" um
+A :  I guess we're gonna discuss the project i mean thing later
+A :  Making sure that we can fit of the stuff that we want you want our budget
+A :  Um
+B :  Yeah "'cause" i don't have any material pricing information available to me at the moment so
+A :  To go for it we need to include the colour
+A :  Of our company and the logo
+D :  Right
+C :  The colour being yellow
+A :  I'm guessing
+C :  How do we
+D :  I feel like a yeah i feel like a yellow one would be to be rich
+A :  And that are are
+B :  Are the double r.
+A :  We could just have the logo in yellow
+C :  Kinda make it entirely
+A :  Or maybe a yellow light for the keys
+B :  Or as they are
+D :  Or blue like stripes oh yeah yeah well
+B :  Yeah yellow could be a make it doesn't have to be huge
+D :  Wait
+D :  Yeah
+C :  But yeah like a thing and
+C :  It's sort of strep kind of that at the bottom of the base of it's just like yellow with the r. r.
+A :  Right
+A :  So we simplified we don't need all those um
+A :  Play fast forward rewind
+C :  Right yeah
+D :  Yeah
+A :  You know many buttons so we've pretty much paired down to
+A :  On off volume mute channel up and down um the numbers
+D :  Yeah
+A :  Um do we go back to i'm a look really quickly back at those
+C :  Two examples
+A :  Examples and see if there's anything which was used technical functions
+C :  Yeah
+C :  No that's uh yeah
+A :  The functional requirements
+D :  You are already audio settings and screen settings we need those like audio settings mono stereo pitch screen settings like brightness colour or do we just want that excess
+D :  Access from the television itself
+A :  T. v. i think that that's fine just to the t. v. me half of the average user need to
+A :  Yeah kinda stuff
+C :  Well yeah the arts is sort of like down at the bottom like farther away
+C :  It's have the sort of box and that were it's like the buttons you don't use as much but occasionally you will use
+D :  Yeah "'cause" we need to we definitely need have buttons for like subtitles and things like that is because the foreign film market is expanding and stuff and
+C :  And so it's like
+D :  Like on television like i know for a living in los angeles
+D :  It's time the spanish network television if it has
+D :  English subtitles a family helpful
+A :  Can we do that after one button something a menu button that pops up at the menu on the t. v. that says you know audio
+C :  And uh well i don't know
+A :  Video whatever language
+A :  You know
+C :  Right
+D :  So we need up down inside the side buttons
+C :  Well i could be you know you could just double up with like the channel or the volume buttons
+A :  For the menus
+B :  Uh-huh
+A :  That's true
+D :  Yeah okay
+C :  Channels just up and down
+D :  Okay yeah
+C :  And then that uh
+A :  Something that
+D :  Such as the other one
+A :  Looks maybe you know
+D :  The one over there on the well the engineering centred one
+A :  Right right right right that one
+C :  Yeah
+C :  So we just have a back at a menu button then for the various things needed
+A :  Right in the middle
+C :  Including the voice recognition if we have any like
+C :  Settings for voice recognition no
+C :  Include in the menu
+D :  We were just an idea or just time
+A :  Good
+A :  Anybody have anything else i'd like to
+A :  Bring out of this meeting
+B :  Had something but if
+A :  Okay
+A :  Here
+A :  Let's go back to the be included and see what we need to do next
+A :  Right after this meeting will be sent a questionnaire
+A :  And summary
+A :  Again which we need to replied that email and then we're gonna have lunch break and after lunch thirty minutes of individual work time
+A :  Um i'm gonna put the minutes i put them as for the first mean already in the project documents folder if you'd like to review them and i'm gonna take up minutes for this one as well
+A :  Um
+A :  "'cause" what work it's going to do
+A :  I eighty is going to work on the components concept
+A :  Um u. i. d. the user interface concept and you're going to do some trendwatching
+A :  A specific instructions will be sent to you by your personal coach
+A :  And if anybody has anything they'd like that
+A :  No
+A :  Okay well that's been especially over

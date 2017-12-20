@@ -1,0 +1,693 @@
+A :  I
+A :  So um
+A :  Nice to see you again um
+A :  So
+A :  To the uh for this meeting there with takes the notes and listen minutes
+A :  Uh
+A :  So we would see off we presentations
+A :  Um
+A :  We would start with uh
+A :  Yeah manager expect will do
+A :  We talk about it's uh user week requirements what's use a needs and wants it
+A :  Design
+A :  For this
+A :  Did you guys
+D :  Okay can i have a laptop over here oh
+A :  Well i don't think so
+D :  Okay to get up
+D :  Hmm
+A :  Uh
+A :  I think it should see
+D :  This is
+B :  That's it
+A :  Well it's
+D :  Okay
+A :  Sustained
+A :  Uh-huh
+D :  Okay so basically i mean i present some findings of the study we connected
+D :  Uh into
+D :  Um what users want in this remote control
+D :  Um so it festival we
+D :  What we do is we
+D :  Um
+D :  Conducted uh an experiment with a hundred test subjects
+D :  Um we put them in an in our um usability lab or a tree and got them to you know
+D :  Um play with remote controls and also to complete after that done that to complete a questionnaire
+D :  And to tell us what they like and what they don't like in remote controls
+D :  So basically
+D :  Um
+D :  The major things with it and that was that
+D :  Um
+D :  Basically uses
+D :  They like the look-and-feel of of most remote controls at the county on the market
+D :  Um
+D :  They you know seventy five percent of the people we we add to the experiments on the on the um
+D :  But there are controls they use in the past were ugly
+D :  Completely ugly
+D :  Um
+D :  They they didn't match the operating behaviour of the user that is you know the the way users use remote controls when you're watching t. v. um that the layout of the remote controls they don't match
+D :  The way they used it
+D :  Um and
+D :  Thirdly they say that
+D :  What half of the users that we um tested said that they only use ten percent of the buttons that uh uh one remote controls
+D :  Um
+D :  Sorry we collected we'll save some collected some you see statistics
+D :  Uh based on how these test subjects we using a remote control
+D :  And
+D :  From this we basically came up with a few yeah that's
+D :  The channel buttons the the channel selection buttons are the most
+D :  By far the most used
+D :  Buttons on the remote control um and you can see they're used a hundred and sixty eight times four on average
+D :  Ah well uses watching t. v.
+D :  Um the closest
+D :  A button that was used
+D :  Well the court the button that was use that was closest to the channel button was the teletext button
+D :  Um which is you fourteen times per hour followed by the volume button which is four times per hour
+D :  Um
+D :  All the all the all the other uh um buttons such as to um audio and pictures selection um configuration buttons and things were used
+D :  You know what
+D :  A proxy or less than a could do one times per hour
+D :  Um we also asked uses
+D :  Um
+D :  Which buttons had the most important to them you know which which buttons i thought were the most important buttons on on the remote control
+D :  And
+D :  Basically like and i said the channel
+D :  Volume and power buttons had the highest relevance to use is um net and that that was very frequently used it and you have a uh uh freak usage we can save about one times per hour but uses right it as having a very very high relevance
+D :  Um
+D :  And the audio which is setting set a very
+D :  But what to use is thought that
+D :  Um what the audio and that is selling for a very
+D :  How would very important to them um and then use and very infrequently well as well
+D :  Yeah it's
+D :  So that's his is what
+D :  What um first race and the most of that um
+D :  Cat remote controls
+D :  And
+D :  Fifty percent of the users said that is
+D :  Uh what frustrates them is losing the remote control
+D :  Um somewhere in the room and all the other find it
+D :  Um
+D :  They also said that
+D :  Um it takes a lot of time to learn new remote control especially when as many buttons then it's uh you know cut uh uh unintuitive interface
+D :  Um and then thirdly they
+D :  Some is is commented on the fact that
+D :  The the oh
+D :  You know the way that you have to hold and press buttons on a remote control uh bad and um
+D :  "'cause"
+D :  Repetitive strain injury
+D :  Mm
+D :  We also lasts um uses it that's a specific features that they'd like to see in that on the remote control in particular i drew a line l. c. d. display
+D :  And secondly these i think speech recognition i. is a useful feature to have on our remote control
+D :  Um basically have findings are that um i must at younger age groups um the answer is i'm going oh yes they want these features they want these high technology features um for a since ninety one percent
+D :  Of the of people age between fifteen twenty five said yes they want these features was um
+D :  But the trend was i was use it as use is um you can order no but how they were less likely to want a sort of each is in a um in a remote control so i guess it depends on where we're focusing out how market
+D :  Um and
+D :  As l. company motto is
+D :  Putting fashion in electronics
+D :  Um i think
+D :  We're focusing on the younger younger um tiger demographic and so maybe we should think about adding these sort of high technology features into a remote control
+D :  That's what it was my presentation thank you
+A :  Thank you
+A :  So
+A :  Um
+A :  Maybe at know we can talk about uh user interface
+A :  And uh
+A :  About the technical function of this device
+A :  So uh
+A :  Peter peter can you
+A :  To say something about thoughts
+B :  Cool
+B :  Okay yeah yeah but the user user interface
+C :  Well they're used think yeah uh i'm you the toughest yeah yeah
+B :  It's response for
+B :  So like this
+A :  Sorry i'm sorry
+C :  I
+C :  If i could go there
+C :  Yes
+B :  Yeah scaring me with l. c. d. hmm
+B :  And speech recognition in a remote seen it it would be very expensive
+D :  Yeah that's true but yeah
+D :  The features that uses want that
+D :  And i production cost of twelve fifty euros per unit it's fairly i think so uh i think we can afford to
+D :  Uh these features into our right
+B :  That's it yeah couple of months to work on it so so it would be cheaper fine
+D :  It's true
+C :  It's debatable
+C :  Well
+A :  No
+D :  That's the wrong one i think
+A :  Yeah it's the button
+C :  Oh
+C :  Presentation three
+B :  "'cause" you can still do it
+A :  Yeah you should have
+A :  But yes
+A :  Yes
+A :  But
+C :  Okay so here's my presentation about technical function design
+C :  I didn't talk about different components was of system and how would you react good there
+C :  Okay um first
+C :  What does a remote controls simply is to
+C :  Device that in all for uh sending some come and buy some braves to uh another device to to to different common is a bit the device and the main idea if you don't use any "'kay" but then we can we can react simpler be the device
+C :  Oh okay it has different blocks different likes
+C :  Uh ferris this remote control have shown that should have some electric circuit is uh make it interface we can uh keyboards and uh early these a keyboard and the reading the keyboard commands and then in the then make yet these keyboard commands uh can interpret easy to get a keyboard commands and then there should be uh an electronic circuit making it uh electronics you can also according to this commands and uh finally there is a transmitter which is the core it or uh
+C :  Uh deal with making they're making do have a visit to transmit through there and uh uh these a reduce the rate it'd be it'd be received by it a lady other device like a television or or whatever to uh read to realise that come on
+C :  Okay this
+C :  Uh huh bald what they found about uh different the these different blocks are uh usually there are two different networks well a two for designing a remote control they are based on infrared the braves or or uh or a great you've raised
+C :  There are two different uh a solution of i mean this is the this can be uh uh and the the difference is there a bit between different kind of race infrared already a base
+C :  And though also has a i understood and uh i think it was a part of football
+C :  Uh uh presentation people prefer to have a to have the of the remote control a bit less buttons so for the electronics part working dan interface think it but only should
+C :  We should try to to try to design a remote control having to have some some simpler but phones or some rolling but forms to just to just do a search between different options lunch when you got something on t. v. and putting in this list of stuff and uh
+C :  Oh and the remote control
+C :  And uh personal preferences uh the the the the certainly a remote control bit uh working with great you with these
+C :  Uh i would prefer it because uh you can put it you can take it in any direction and you don't need to to we need a really great and the the again you think bigger buttons and this number of buttons or also prefer
+C :  As i see okay that was my presentation
+D :  Have a question
+D :  Do you think radio waves um willing to see a without that appliances and nine
+C :  Oh i don't think so because of you can make yeah me too we can make these maybe in a specific frequency
+C :  So they can be you know range which is not interface and they're very big the
+C :  The other devices is that one
+B :  Yeah it should be okay
+A :  Can we use any any for can see we have the right to using if we can see
+C :  Oh no but as i know there is a range for uh for this stuff for for uh for this this stuff for designing these searches we can we can we can to one or a transmitter to boarding distracting for this range we don't need to ask any parent yeah
+A :  Okay and what happened with a red you'll waves
+A :  When when they're both have the same have our remote control for example
+C :  Saying
+A :  And so does have the same
+A :  Frequency or
+C :  Oh
+C :  For these i'm not so uh i don't know the solution but but solution can be something like putting get a four plus four or something inside of eight so the only your t. v. can understand it yeah identification court inside there
+A :  Okay kind of identification thing
+B :  Yeah
+A :  Okay
+B :  I i know but this since it's my it's exactly my feel so
+B :  It's a kind of handshaking "'kay" um one starting to uh when you start to communicate with the r. t. v. then it's like and and you can protocol with your your remote so
+B :  So if two two devices are trying to correlate to communicate with the t. v. set than the
+B :  And um
+B :  The one we just to um more uh energy in the wave is chosen
+B :  Well it can be a problem sometimes but most was on in two weeks okay
+C :  The price for the menu simply uh or uh an identification court may seem to decide as well
+C :  The specific
+C :  Uh a remote control that is
+B :  Yeah but we we don't have to think uh about this because i think is a function design that that we will use the
+B :  Already made us are case which we probably about by it's worse to buy and they have these problems also
+D :  Okay
+B :  So we don't have to think about these
+A :  Okay
+A :  So maybe you can talk about sort of function
+B :  Yes
+B :  The form that couple of things
+B :  Because i had
+B :  I start of the bits with the
+B :  Software that i'm supposed to use in this uh
+B :  Uh
+B :  This company has used to use things of that try to
+B :  So the way
+B :  For this
+B :  Mm to have
+B :  Mm no
+B :  Okay
+B :  Mm "'kay" be
+A :  Sure
+C :  Five
+B :  Slide show okay thanks
+A :  Different word
+A :  Yeah
+B :  Yeah
+B :  Oh so i will speak about the working design
+B :  It's like
+B :  Huh
+B :  Look at but you can make
+B :  Okay so
+B :  Uh
+B :  Presently i'm looking
+B :  What is possible to use what's the kids to use and stuff like that because
+B :  Oh
+B :  I didn't work well with d. c. circuit so far so i have to look what what is a bit of a available on the market for
+B :  For the communication for the i. r. c. kids and so on so i'm currently looking what is available on the bad
+B :  And uh i wanted to ask you
+B :  Maybe off to what's after after our discussion if we have some contacts in some company so
+B :  Which can report on what is going on there so
+B :  That would be like if you can
+A :  Yeah
+B :  Tell me about uh so you know
+B :  Um
+B :  Okay findings that's there's the points that i'm working on currently
+B :  But uh so far
+B :  I i i was uh looking at what's what are the blue circuit i mean the radio wave radio frequency see it it's
+B :  Are available now but the prices are at the high
+B :  So
+B :  I know that's uh the user interface people and these speak about radio frequency race because you can you can uh
+B :  You can make it a t. v.
+B :  And do what you want even if you're in the bottom or so one but it's
+B :  You know
+B :  When you're not close to the t. v. you probably wants needs to to change the programme and so on so i'm i'm voting for us to to stick to the um infrared control instead of
+B :  I don't do but we will discuss it later mean
+B :  Ah
+B :  Components to use i'm not exactly sure what i will use for the design of the stick it it depends
+B :  Uh on or whether we you will use the l. c. d.
+B :  And the main in the speech recognition because the speech yep
+D :  Are we um we're planning to
+D :  Taken off the shelf and l. e. m. component for the radio waves like it'll we plan to construct around circuit
+B :  No no no not this free b. c. biasing because it's that's cheap nowadays and
+B :  It's not worse to construct or soft
+D :  So we just buy a circuit board and
+B :  Exactly
+B :  But i'm not sure about the circuit which is responsible for speech recognition these i prefer that we should
+B :  Make ourselves
+D :  Okay
+B :  But it depends whether we take a decision to use it
+B :  Saint think it's fairly expensive to use these are kids of speech recognition well l. c. d. it's okay because
+B :  It's common nowadays to use l. c. d. so i agree on using any kind of l. c. d. by the buttons good for me as a as a designer well the circuit
+B :  About the speech recognition we have to compare with the
+B :  The price and uh
+A :  Yeah
+B :  What does it go for a know
+A :  So what
+A :  Do you think
+B :  Yeah i know
+A :  Would be the price it
+A :  Would be out a friend show it would be may be visible
+B :  Oh
+B :  I was not thinking too much about the price part
+B :  If we use the l. c. d.
+B :  Uh
+B :  Even the radio frequency communication with the t. v. set
+B :  And the backlight and uh uh related things like the for the diets and stuff
+B :  It should be oh okay
+B :  If we decide to use the speech recognition then we probably could start about three as you have to what's
+A :  Okay
+B :  It depends on
+B :  You if if two and you're you were idea i'm sorry about the names i dunno
+B :  Uh uh uh wants to have it's like an apple or in plastic these things it it depends on your notes because
+B :  But the the electing device is price is not it's
+B :  Not so big in comparison to to to
+B :  Overall shape and stuff like that so
+D :  Okay
+B :  We will discuss
+B :  It doesn't work
+B :  Oh it's nothing this is just my notes and what to use
+B :  And uh my personal preferences yes i would like also all
+B :  Preferably to use
+B :  Are the blue circuit but from the point of view uh all of the design and price
+B :  I would stick to the i. r. s. and that's my opinion uh i mean if in front of us circuit not it's not the radio frequency
+A :  Why it because it's simple uh
+B :  Because because the the range where you can uh
+A :  Yeah
+B :  Use it is
+B :  Yeah
+B :  It's okay i think
+B :  And the price is fairly cheap for this
+A :  Okay
+B :  Depends
+A :  Price matter
+B :  Just just the price
+A :  Hmm
+B :  Otherwise i don't care what i'd there because it's the chip which i bio which be but
+B :  So
+B :  I yeah i think it's a
+D :  Well how much more expensive
+D :  Are we talking three times were expensive or ten times are expensive
+B :  Well street
+B :  Three to five
+D :  Okay
+B :  Not not ten times but
+B :  It depends what would be
+D :  Yeah
+D :  That's a lot i think it's it's probably not was spinning extra money
+D :  Because i mean all the other remote controls on the market has infra-red
+D :  So people then expect
+D :  Anything other than infrared
+A :  Yeah
+D :  So it's not worse than any extra money
+B :  That they're used to use it only when they can see the t. v. so i don't
+D :  Yeah
+A :  And the other side we want to have something new
+A :  You know
+D :  Yeah
+A :  Where
+A :  We want to
+A :  For something new one so but i think we should steve thinking about it but
+D :  I think
+A :  Maybe
+D :  Based on my usability studies as i feel that uses that prioritise the look and the feel and
+A :  Okay
+D :  The trendiness
+D :  Above
+D :  You know i'm
+D :  The difference between
+D :  Infrared or radio waves so i think
+D :  We're better off spending money
+B :  You're the user
+D :  In the usability
+A :  Okay
+B :  Management yeah
+D :  Phrase
+D :  Okay
+B :  Oh okay that's it
+B :  For me
+A :  Okay thank you peter
+A :  So um
+A :  I have to inform you are you receive an email from the management button board today
+A :  And you have new weak line dance for the for the remote controller
+A :  Um
+A :  First um
+A :  That's a that's a about something about to teletext
+A :  Uh uh party it becomes from
+A :  According to them it becomes out of date
+A :  I would they keep
+A :  And um
+A :  Because of the internet popularity and everybody else
+A :  You can act a man
+A :  Trace that just want to have teletext
+A :  Um
+A :  So i think we can avoid teletext
+A :  Um
+A :  It's the same thing is uh uh
+A :  So you suggest that is that we should it's uh use the remote control only for t. v.
+A :  Not for d. v. d. and also devices
+A :  Because it make its it makes it's too complex
+A :  And um because we have no much time for this project we should stay on t. v. on that money specific t. v. remote control
+B :  I agree
+A :  That's a
+A :  The third one is um
+A :  About the the
+A :  Team a each of sit company
+A :  So um
+A :  That we should it's
+A :  We should keep
+A :  Yeah
+A :  Dumb to put it should be able can i say bar
+A :  Uhuh
+A :  Uh
+A :  It's that mean we should use the court all of our company
+A :  And maybe put somewhere this is the slogan of the company which is uh we put fashion of in electronics
+A :  So
+A :  When people are sees the the remote controls we should say oh he's from uh huh were at a reaction
+A :  And as you should recognise the company
+A :  So
+A :  Um
+A :  So now we in
+A :  We should it's takes a dish iain what it's well going to what function we we have
+A :  Ones it's uh
+A :  And he's remote controller
+A :  So
+A :  Mm
+A :  Are we going to use a c. d. speech recognition
+A :  Uh
+D :  Well should we start with just the call
+D :  The basic functions that we need
+D :  And then we can move on to the more advanced features
+A :  Yeah
+C :  Yes
+A :  Maybe
+A :  Maybe
+B :  Okay so the available things uh l. c. d. buttons and
+B :  Everything or radio frequency depends
+B :  And
+B :  Well the recognition depends on you guys here is probably be
+A :  First maybe what is what does the usual or function of
+A :  Stand up remote controller i mean
+B :  Okay
+A :  What's the wall
+D :  Okay well
+D :  Mm yeah this one is changing channels
+A :  Yeah
+A :  I think we should stick and
+A :  They use for functions because we want less button
+D :  Yeah okay
+A :  So it's a nice and of course
+A :  Volume
+D :  Mm
+A :  Sitting
+B :  Uh just one wanted to the channel channel changing do we
+B :  Well we use only two buttons
+B :  Or or like a number the buttons
+B :  I mean those nine plus one or two
+C :  Uh-huh
+A :  I think it would be a bit
+A :  I i
+B :  Because many buttons and we were speaking about what we're in that hamper
+D :  Yeah
+A :  And uh side wear off more and more trainers and if you want to pass for or is it tries to get it's
+C :  Yeah
+A :  The chair you want
+B :  Okay so so we keep all these
+C :  Yeah it is nine ten was
+A :  Maybe maybe we could think of something more betweens like
+B :  All this but
+A :  Uh
+B :  Like ten plus five plus one plus one of those or something
+A :  Yeah um
+A :  Maybe some kind of
+B :  Or using the names in the keyboard
+D :  Hmm
+D :  Yeah
+A :  Yeah
+C :  Or um
+A :  Maybe it off
+C :  Or some single
+A :  Uh huh
+A :  All
+A :  Maybe you could have key buttons like it's
+A :  Uh discovery channel
+A :  That document to reach and uh and movies china
+B :  You mean like heresy
+A :  And inside thesis is used think you can move maybe sweet
+B :  Uh-huh
+C :  Okay
+C :  By categorising channels
+A :  If you want to see a movie you click on the movie button so you have all of the movie channels and after uh use you
+B :  Okay so it's
+A :  Plus plus plus i could just an idea i don't know what to think about that
+C :  Okay
+B :  So it requires the use of l. c. d. probably
+B :  To tell you
+D :  Yeah some feedback
+A :  Yeah probably yeah
+B :  Okay
+D :  Yeah
+B :  So um make an an l. c.
+D :  We could maybe also you can um incorporate pitch is idea of the um
+D :  Slide uh for the volume
+C :  Okay
+D :  With the channel
+D :  So we could you could quickly just as
+B :  Yeah
+D :  It's too many channels
+B :  Like a roller for the
+D :  For the channels uh
+B :  Okay
+A :  Anything there's
+D :  But the channel and volume
+D :  Um
+B :  So we as just speaking about to come and uh
+B :  Devices so are we are inviting you want
+D :  I think so i think basically cool functions we want and then uh
+D :  More advanced ones
+A :  What about the settings of the t. v. because it's button we don't use a a front
+A :  That's
+A :  It's when you need anyway
+C :  So uh we don't have any or uh we don't have the uh we should just design the remote control and you surely don't have any access to the to the t. v. design or we can change some design because one solution for this uh huh yeah it said changing channels is to see a summary of or china some some approve you all for china's and then you can see it
+B :  On the screen me
+C :  Yeah but there
+B :  Not on the control but on the screen
+C :  Not under control on the screen and t. v. screen
+B :  Well this with the with the l. c. d. that
+D :  Okay
+C :  And then
+D :  Oh that but i think we uh we have the ones i mean this remote control a developing is a generic control for
+A :  Yeah
+D :  All t. v.s
+A :  Yeah i don't know if it's possible or
+A :  To what something on t. v.
+B :  I i think it it would be better just to stick to the remote control and not to bother to t. v. to
+A :  Yeah
+B :  To trendy things but it it it will be still more in spending but for the l. c. d. and you stuff it's no problem
+B :  In the product
+A :  So what that we doing with the settings because settings
+A :  I want to do settings we need buttons was that then we want this but it's not
+A :  Maybe with a l. c. d. we can do something
+C :  Yeah
+A :  With less buttons but
+D :  But then you don't wanna make the l. c. d. display too complicated
+D :  At the same time
+D :  I mean there's always we can always have these
+D :  Less often used functions
+D :  Hidden some way
+D :  And uh cover all
+A :  Oh yeah
+D :  At the back of under slide also
+A :  On the back yet
+B :  We we could have for example two buttons like simple more than than small
+D :  I
+C :  Yeah
+B :  Oh
+B :  Or like children and grandfather small it
+D :  Yeah
+A :  No
+B :  And the well the
+B :  The user
+B :  Not the user
+B :  Than uh than a t. v. manager more
+D :  Okay
+B :  I dunno
+D :  We have five minutes left
+D :  Um
+B :  Uh
+D :  So it i think
+D :  It's the settings we said we're agreeing or agreed that they're required
+A :  Yeah
+D :  It's just
+D :  Have to
+A :  We should
+A :  Hides in somewhere
+B :  Right okay
+A :  In the in menus of the n. c. d.
+D :  Okay
+A :  All in the back of this remote control
+D :  Uh okay what else
+D :  I mean about buttons it a three
+B :  Yes
+D :  Uh required
+B :  This i was thinking do we need the power button that all should should shouldn't be do it like sleep more tough to five minutes oh not using because generally
+A :  It's a kind of setting i think it should
+A :  Fifteen to sixteen functions
+C :  So it's
+A :  That's not that
+A :  They require and it's useful function
+D :  Uh well i think when as a power button they mean to turn the t. v.
+D :  On off
+A :  No i think it after after five minutes or something at a time uh
+B :  Well
+D :  But if you're watching t. v. for two hours u. w. t. v. to ten thousand just last slide
+B :  You don't
+B :  I just to keep it alive
+B :  Uh for it
+B :  Okay so we should keep this will have to
+D :  I'm a based on a usability studies again um
+D :  The um people said that to be a button was it uh very relevant button
+A :  Yeah
+D :  Um you know it was nine or ten
+B :  Okay so we we could what we could probably do uh is to keep also uh to keep uh keep the l. c. d. and all the buttons and stuff
+D :  The relevance
+B :  We could make it like group
+B :  Opening
+B :  Opening style that if you open it
+B :  You are
+B :  You just turn on the t. v. and if you close it it will
+B :  To not the t. v. if you if you like this
+D :  Okay
+D :  Okay
+B :  Those
+B :  Well
+D :  There we need to concentrate on the you know the major usage of the state of the remote control which is you sit down
+D :  You turn on the t. v. you change channels you change the volume
+D :  You turn the t. v. off
+A :  Yeah
+D :  Um
+D :  And all the other functionalities
+C :  Yeah they can
+D :  Not used very often
+C :  Yeah they can be hide somewhere by a colour or something like this
+C :  Like
+C :  Covering key wow
+A :  On the back cool
+B :  Yeah
+C :  Yeah
+B :  I mean like the
+C :  Yeah like mobile phone covering
+B :  Yeah but since we have the l. c. d.
+B :  Me and me too much not too many buttons
+B :  Um
+B :  Okay just to um the decision on the power button should we make it the button or or some
+B :  From something which would be
+A :  For what
+D :  I think a button
+C :  About transmitter
+B :  Power button
+D :  I think it'd be about uh
+A :  Oh yeah yeah
+B :  It's a button or oh okay
+D :  It's an button on the front
+A :  Yeah
+B :  Okay one nice big button
+B :  Old-fashioned but
+B :  To satisfy the grandmothers
+D :  Okay
+A :  So any of the suggestions are functions
+D :  What about things like the clock and um
+D :  Time is
+B :  We still have the time i i just wonder
+A :  Yeah we have still a one or two minutes to
+B :  Okay
+B :  Well would be
+C :  Can i
+B :  "'cause" the questionnaire
+D :  Um you know had some some some features on the control to display it i'm more to
+A :  Usually it's already on t. v. or something of that
+C :  Yes
+B :  Yeah but since we want to
+B :  Control
+B :  All the televisions
+A :  Yeah
+B :  Mm did would probably be worse to to said that i mean
+B :  On the remote know
+B :  Because if if the t. v.
+B :  Turns on itself
+A :  Yeah
+B :  You know if the time to time it should be there
+A :  We if we had the time
+A :  Well to have
+A :  Maybe a big a display uh something as that then is it very useful i mean
+A :  Are use those ones was a time as the
+A :  The remote
+A :  Is the question
+D :  Have we not
+A :  It's
+D :  It's a question yeah it's a trade off
+A :  In my opinion we should doubt funny use one thing and
+A :  Because apparently they want
+A :  The simplest is better
+D :  Okay simple
+B :  Did you did you ever used to like
+B :  The timing of
+B :  Turning on the t. v.
+B :  And based on the
+D :  They uh oh yeah okay very occasionally but you use the i. d. is the display of the time
+D :  Quite often
+B :  Yeah but it can be on the display in in a corner all the time the remote
+D :  Yeah that's okay sure
+D :  Okay so you know
+A :  Oh time on the remote
+D :  And button on that
+C :  And they do we need to include anything about the speech recognition in a speech commands or
+A :  I think
+C :  I i i think i think it will not take less of place we just need and microphone and the software so and it should be at the age we'll be and it will be it's new and interesting so people may be attracted to buy this stuff and it's not very difficult to
+C :  The put a software inside the the electronic device and put a microphone it doesn't make that much place and one so that much it doesn't cost that much
+B :  Yeah but we we should be careful about the battery lifetime
+B :  If we use the
+A :  So maybe we think we can think small boats out than this "'cause" that's maybe last time
+B :  True condition
+A :  Next time
+B :  Yeah
+A :  And uh yeah now the meeting room is this is somebody but a meeting and just for
+A :  At one p. m. so we should me of
+A :  Huh
+A :  So um
+A :  So no we are going for
+A :  Was more lunch
+A :  It's so uh i found it buys the company
+A :  And um
+A :  After we have uh fifteen minutes to
+A :  Do we do that in t. v. do or works
+A :  And uh i would lose the minutes
+A :  And um
+A :  You were going to war and you and d. v. d. or what's
+A :  And uh you would we see that as usual only a specific instructions or
+D :  Okay
+A :  Thank you
+D :  Cool
+C :  Thanks
+D :  Hmm

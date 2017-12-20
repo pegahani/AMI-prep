@@ -1,0 +1,928 @@
+C :  Mm
+B :  Mm
+B :  Mm
+B :  Mm
+B :  Um
+A :  Could see all again let's see if that can uh
+A :  This is our functional design meeting
+A :  Um
+A :  Say well my powerpoint and that
+A :  It was ah okay
+A :  Okay um we put the fashion in electronics
+A :  That's there
+A :  Where agenda today um
+A :  Just time stuff that to you know
+A :  Um
+A :  Normally do the opening talk about um did you look at the minutes i emailed them to you and also putting on them in the shared folder so
+A :  Um no but we'll talk about a general object it's an have your three presentations
+A :  Um uh talk about the new project requirements that just received
+A :  And then we have to make a decision on a remote control functions i will disclose
+A :  Was that in this meeting up actually twelve thirteen we have forty minutes so
+A :  That's all the functional design objectives
+A :  Um we need to keep in mind the user requirement specification what needs and desires are to be fulfilled
+A :  That extra functions design what effect the apparatus should have
+A :  And the working design how the apparatus actually works to fulfil its function
+A :  Okay three presentations um you got any what are you choose um
+D :  It's mine
+D :  Should we don't know really you just do that
+A :  Sure please yeah
+D :  I don't know
+D :  Alright
+D :  My
+D :  Screen down
+B :  I think you might have to disconnect euros
+A :  Yes
+A :  Mm
+A :  Yeah
+A :  Uh-huh
+C :  Have as we
+D :  And so
+C :  I think
+C :  So when there
+D :  Uh-huh models mm
+C :  Unless yep
+D :  Yeah
+C :  And then you have to press function f. eight so i think it is and yellow
+A :  Function f. eight yeah
+D :  Mm mm mm
+A :  The one that then
+D :  Does that
+A :  Is it plugged in all the way in in screw it in and
+D :  Um we screwed
+B :  I think it's have to push it in really hard
+D :  First screw
+A :  Uh-huh
+C :  That's it
+B :  Oh got it
+A :  Oh
+D :  Oh right
+A :  Just a little bit uh-huh
+D :  No
+D :  Attached and then
+B :  Mm yeah right
+A :  Okay yeah uh-huh
+D :  Alright
+B :  Right
+D :  So
+A :  Uh-huh
+D :  I don't know if you as are able to get access to um the report that was a minor on the on line is
+A :  Mm
+A :  I
+D :  Right
+D :  I don't know how to play that
+A :  Mm
+D :  Mm
+A :  Press the little presentation it's the mm
+A :  Um looks like a white kind of or thereabouts draw
+A :  That that were uh-huh uh-huh
+D :  Oh right
+D :  Source and talk a little bit about
+A :  Uh-huh
+D :  Functional requirements that people satisfied when they last
+D :  Um i guess real reaction and that's market research they had a hundred subjects and the usability lab
+D :  And uh they watched um watch t. v.
+D :  And record the the the frequency that they use particular buttons
+D :  And the relevant the polls buttons
+A :  Uh-huh
+D :  Okay found what they analyse people's desires and needs
+D :  Focusing on the designers
+D :  Um people specifically said that
+D :  It's not remotes were ugly seventy five percent of the a hundred subjects
+A :  Mm mm
+D :  No that that and that they are more importantly that all eighty percent of that they would be willing to pay more
+A :  Uh-huh
+D :  First a. n. c. you're looking remote i don't know anything beyond what the anti means but
+A :  No
+D :  But it's really obvious to us i think um also
+D :  You did some questions on voice recognition and uh and found that
+D :  The desire for voice recognition was inverse be related to age so younger people were more inclined to
+A :  Mm
+D :  Want something with voice recognition whereas the older people in noun like sixty in about the segmenter sell
+A :  Uh
+D :  Did that really think that they would pay more money for voice recognition uh-huh
+D :  Um people also had certain frustrations that i think that we could try to take into consideration and
+D :  With
+D :  Our design that being people
+D :  Um frustrated with losing their remotes
+A :  Uh-huh
+D :  I think or fifty percent of the people mention that that was the biggest frustration and
+A :  Uh-huh
+A :  Uh-huh
+D :  You or are so frustrated with the difficulty it is
+A :  Okay
+D :  To learn how to use a remote
+D :  And i think that ties that's what you're saying before
+A :  Uh-huh
+B :  Mm
+D :  Just that there's too many buttons it just needs to be easy to use
+A :  Uh-huh
+D :  And also mentioned something called r. s. i. and i was hoping someone might be a wheel and for me as to what r. s. i. uh it's because i don't know
+C :  Repetitive strain injury
+D :  Well
+C :  Repetitive strain injury
+A :  Uh huh
+D :  Ah
+D :  There we go well but they're not like that
+A :  Uh-huh
+C :  So if you
+D :  So i guess sort of a couple time of tape ten people do not like that um the repetitive you say yes
+A :  Uh-huh
+D :  "'cause" the strain
+D :  Um looking at it needs people um specified
+D :  The problem right now is that people's remote or not matching the operating behaviour or people are ami
+A :  Now
+D :  Using ten percent of the buttons
+D :  That they have offered to them on the remote
+D :  And what people do most often in is changing the channel and changing the volume
+D :  People are so is that makes change the channel
+D :  Oh that um sixty five percent uh-huh terrain and our views
+D :  So we really need to focus in and those volumes
+D :  And channel changers rather than things like the audio settings and screen settings and the channel settings because they're used much more infrequently in power which complicate
+A :  Uh-huh
+A :  Uh-huh
+D :  That's going on
+D :  So i think that's something that you might wanna think about
+A :  Yeah
+D :  The idea of an l. c. d. screen was brought out although they didn't have any details on
+A :  Uh-huh
+D :  A people's problems of them out were so um uh first meeting later
+A :  Huh
+D :  Let's make that but something for us to consider also just the number on that bus it's more
+D :  When it comes to the buttons on the remote or what we wanna make easiest to use
+D :  Make sure that you know something like
+D :  No idea setting
+D :  Is it in given it much important and visibility
+D :  On the remote as a minute channel changing that to use a lot more often
+D :  And basically in order for us to one over to the consumer we just need to focus on what it looks like that it has a fancy appeal
+A :  Yeah
+D :  And that it's not a play and that it feels like the way they're gonna use it so it doesn't give them an mean
+D :  Hand injuries or uh-huh things like that
+A :  Okay
+A :  Thank you very much that was that was great
+A :  Um
+A :  It's move on to the next presentation
+A :  Um on the facts so um
+A :  Yeah right
+A :  Uh-huh
+D :  Your hands
+A :  Uh-huh
+A :  User interface right uh-huh
+A :  And it's
+A :  Uh-huh
+D :  Yep
+C :  It's
+A :  Uh-huh
+A :  Uh-huh
+D :  I think that um no shared a quite a bit rate anyone wants to work uh
+A :  And i think yeah
+B :  Okay
+D :  I uh
+A :  Uh-huh
+A :  Uh-huh
+A :  Uh-huh
+A :  Okay
+A :  Uh-huh
+C :  That's i'm gonna talk about the technical technical functions design of the remote control
+C :  Um
+C :  Need to stop i considering what remote control actually is it's uh
+C :  Device that allows us to
+C :  To do certain effects on the television
+C :  So it
+C :  Basically communication device we
+C :  Which are the remote control what we want to do it sends a message to the television saying
+C :  Change channel change the volume
+C :  Uh
+C :  Yeah i just these settings adjust brightness
+C :  Um how do we have to go about designing a new television remote control
+C :  That thing to do is to come up with the design specifications
+D :  Uh-huh
+C :  We need to know what a final product is gonna be like so we need uh
+C :  A clear idea of
+C :  Exactly what this product does
+B :  Uh-huh
+C :  Ah how it works and what the end user is gonna want from this product
+C :  Um
+C :  Oh in a way out suggest that we could go about this is by
+C :  Designing uh several different at the types of user interface is for this product
+C :  Um and then
+C :  Are trying to get some feedback
+C :  Uh about it's
+D :  I know
+C :  How how well these particular prototypes what
+C :  Uh so find out
+C :  What people think of them
+C :  Um using a remote control is is quite subjective experience
+C :  Um
+C :  And different different people
+A :  Mm
+C :  Prefer different things
+C :  Um we should remember that
+C :  Remote controls are uh uh a fairly standard this requirements when the users using a remote control
+C :  He or she expects the buttons to be in certain places
+C :  So in some sense we're gonna
+C :  We gonna have to aim for a device which is fairly conventional in design
+C :  Uh so that we not
+C :  Completely shocking people
+C :  I think within that there is also the investment should use novel idea is a
+C :  And just to make something that's that's got a little bit different something that stands out
+C :  Um also in in designing the user interface we need to consider practicalities
+C :  A device to be is is is technological uh what can we do with the current state of technology as it is
+C :  The second is is economic uh we need to find a balance between
+C :  Features and price uh as you mentioned things like
+C :  Voice recognition but but at the price
+C :  Ah but it would also in into the design of the product
+D :  Uh-huh
+A :  Mm
+C :  So i had a look on the on the web to uh to see if i could find a few examples of existing
+C :  Television remote controls
+C :  In a analysing these we can consider uh
+C :  Well what things what's good about them out what things they get light was bad about them what's wrong with them
+C :  Um how we can improve on that designs that
+C :  That sounds and
+C :  What can we do to make a product stand out from from the large majority of remote controls
+C :  He's two examples um
+C :  Probably at the extreme ends of the spectrum um
+A :  Uh-huh
+C :  On the left ear we've got it's uh uh
+B :  Mm
+A :  Uh-huh
+C :  And engineering based
+C :  Design for a remote control so it's one has got lots of buttons it's it's fully featured
+C :  Everything you might possibly want to do is there you know it's got for the backwards up down channel numbers volume uh freeze frame
+C :  Yeah it's it's fully featured and
+C :  It might take a while to get to learn to use it but once you've learned that you can you can do whatever you want but your t. v.
+C :  One on the right is a lot more basic it's just got it's essential functions of the t. v. changing the channel play stop volume
+C :  It would be a lot quicker to learn to use it but
+C :  Again
+C :  It's it's rings and on the bouts the disadvantages you can't use it
+C :  Say to
+C :  Two threes the television but yeah uh as a lot of features that are missing from that remote control
+D :  Uh-huh
+C :  So we've got uh
+C :  To find out
+C :  Find a way of striking a balance between the two
+A :  Uh-huh
+C :  Um as i said before remote controls all subjective
+A :  Uh-huh
+C :  Different people want one different things
+C :  Um personally well
+C :  What i want from a remote control is
+C :  A device that simple it it's easy to use
+C :  Uh it's got big buttons for doing the things i do most often changing the volume changing the channel
+C :  It it does everything that i needed to uh as i
+C :  Said before i'm quite lazy i don't wanna walk across the green just uh
+A :  Uh-huh
+C :  It does not television
+C :  Also want something that
+C :  That looks cool um and that
+C :  That feels good that's ergonomically designed
+A :  Okay thank you very much those
+A :  He's fine
+A :  It's funny the mm
+A :  Is it that a drastic difference between those two remotes
+A :  Um
+A :  And i know that we're very pretty you know
+D :  No
+B :  Yeah i think that could be our selling point
+A :  Mm
+D :  Uh-huh fashion and some that
+B :  Right it's
+C :  I think there's a certain a market for technology to looks cool
+A :  Uh-huh is
+D :  Uh-huh
+C :  But i think that's that's why companies like apple have
+B :  Uh-huh
+C :  But a lot of progress
+D :  Yeah
+A :  Uh-huh
+B :  No one really can't see what i'm doing so does anyone
+A :  You there there's uh-huh
+B :  Ah okay
+B :  Showing up already uh-huh
+A :  Lovely
+D :  So we did it which one in or is that just about it but you say
+B :  Uh-huh
+C :  Um that was just on the on the company website yeah
+D :  Okay
+D :  "'cause" we
+A :  Uh-huh
+B :  Yeah
+D :  We were in a group and what are we gonna go cobble
+C :  I had a cat
+A :  Uh-huh
+B :  Um right um
+B :  Hmmm know how do i play okay
+A :  Um the it's read above draw
+A :  The tree thingy
+A :  If it's but at the bottom
+A :  Under three icons it's the one that looks like a task yeah that one
+A :  Or why is
+B :  Okay
+B :  So this is are working design presentation um i have a pet of some issues with this
+B :  Because
+B :  I wasn't able to find everything
+B :  I need it but i guess that's were still an early stages
+B :  Um so that this is this the the think about working design as they what we're trying to do is working designers figure out how
+A :  Uh-huh
+B :  Yep rate it apparatus can fulfil its function
+B :  Um one of the examples that kept coming up for me is that a coffee grind or
+B :  It works because it converts electrical energy to granting the beans
+B :  And then you put the been through a filter
+B :  Now filters out
+B :  And then you get coffee at the end that's nice and hot because of the combination of electrical energy and then the other things that are brought in to make it work
+B :  I don't know if i'm explain that very well but how do i get to the next
+B :  So the method as
+B :  Um working sanders figure out
+B :  What you need to make it sell this practical function
+B :  What what needs to be done and how do we convert all the elements to make that down
+A :  Uh-huh
+D :  Uh-huh
+B :  So
+B :  Well the easiest thing to do is to break down all the points
+B :  At which
+B :  You need something to happen
+B :  Team make a schematic of the way that the
+B :  Energy is converted
+B :  To port is practical function
+B :  Then i think the easiest thing to do is gonna be work on each task a step really
+B :  So
+B :  Um huh
+A :  Just press yeah just click yeah
+B :  Yeah
+B :  So the findings that i got uh very of just very briefly is that
+B :  You have a choice
+B :  Of
+B :  The way that d.
+B :  Information is projected to the receiver and
+B :  In my opinion infrared is the best way to do that "'cause" you don't need a saline
+B :  So that's one thing are gonna work on
+B :  Um the user interface is critical here because a lot of the things that happen in a remote control happen through the chip
+B :  That controls the converse the electrical energy into data
+B :  Which then goes to the infrared so
+B :  The the chip that uh i think he in this designing it's gonna be
+B :  Crucial
+B :  And really it all comes down to the to the user because they're the one that's controlling most of the working design
+B :  So all the components that we find your the energy source you know the battery or whatever that's gonna make it work then the chip
+B :  Which converts the data at the user that's controlling the chip and the infrared bulb that's gonna let us move the data to the receiver
+B :  Do you have for main components
+B :  And they are designed to sort of like this you have your energy source rate there which
+B :  Then
+B :  Um
+B :  Brings
+B :  Energy or information to the chip which
+B :  Is also controlled by the user so you have
+B :  Energy going to the user who's controlling the chip will
+B :  Some other one is true uh
+B :  Huh
+A :  Um i use that thing and that you can go back previous
+B :  P. b. s.
+B :  Sorry about that guess
+A :  I
+A :  Pardon
+B :  No
+A :  Mm hmm well
+B :  No no no no no okay let's just get back to my schematic yeah
+A :  Okay uh-huh
+A :  Doubleclick on it
+A :  With the right with the left hand one
+B :  Yeah i um
+B :  I think it's frozen okay
+B :  Control me to pick
+A :  Isn't
+B :  There we are
+A :  Yeah
+B :  Sorry about this guy's i'm kind of pathetic with things like this
+D :  Uh-huh
+B :  Um alright so you have your energy source your user interface is controlling the chip
+B :  That should also use the energy
+A :  Uh-huh
+B :  And the chip through the use of the user interface is gonna control the switch which will work or infrared bulb
+B :  Which will then bring the data to the receiver
+B :  So hopefully that makes sense for everyone in my kind of garbled way
+B :  It's the
+A :  Uh-huh
+B :  The parts of the working design it need to be figured out
+B :  And
+B :  Just with reference it as a set of the fact that like it's about
+A :  Uh-huh
+B :  We need a long lasting energy source people don't wanna be changing it a lot
+B :  We need a chip that works well with the user interface that isn't too complicated
+A :  Uh-huh
+A :  Uh-huh
+B :  Yeah straight-forward interface like he was saying simple not
+A :  Mm
+B :  Overwhelming it with information
+A :  Uh-huh
+B :  And we need a reliable and clear infrared signal
+B :  So that you're not wearing your remote around and having to get frustrated and go to it by hand
+A :  Uh-huh uh-huh
+B :  That's pretty much it for the working design
+A :  Uh-huh
+A :  Yeah it's it's uh-huh
+A :  Yeah that's uh-huh
+B :  Uh-huh
+A :  Uh-huh
+A :  Um mm mm
+A :  Uh-huh
+A :  Uh-huh uh-huh
+B :  Rusty thinking okay and
+A :  Yes absolutely
+B :  Uh-huh
+B :  Uh-huh
+A :  Uh i can tell it would turn these things
+B :  Yeah
+A :  The t. v. c. ready tidy right
+D :  Uh huh huh huh
+A :  Huh
+C :  Was that
+C :  Left it you see
+A :  Let's see lucy ready to haiti
+C :  Ah
+A :  Uh-huh
+B :  I
+C :  No that that before
+B :  Mm
+A :  Oh yes
+D :  I am
+A :  Uh-huh
+C :  I think of a every time the
+B :  It's gonna stick in your head
+A :  I have a
+D :  Yeah that's a good one of the cardio
+A :  Uh-huh uh-huh uh-huh
+B :  Uh huh
+A :  Mm "'kay"
+A :  Uh-huh
+A :  Um no nothing on my screen uh-huh
+A :  Uh-huh uh-huh so
+A :  Uh-huh
+B :  Oh no signal
+A :  Yes
+A :  Okay requirements and we have a couple new requirements that i was just you know for it before the meeting on that we have to keep in and uh um in mind as you're creating this
+B :  Okay
+A :  We didn't bring it up yeah it uh or at all in the meetings that far but we're not gonna work teletext because um
+A :  But that's been taken over by the entrance we're not gonna worry about um
+A :  Right or not but uh-huh
+D :  What's what's works
+A :  Um mm
+B :  It's approach thing
+A :  Uh-huh
+C :  You don't have it in the states
+D :  Mm
+B :  No
+A :  Right now would you could do but you could explain a uh-huh
+C :  Oh than others
+C :  Um
+A :  Uh-huh
+C :  Yeah it's like yeah
+C :  Space is kind of similar to a very very basic weapons uh um
+A :  Uh-huh
+C :  You have like
+C :  You have um numbers new remote control
+A :  Uh-huh
+D :  Uh-huh
+A :  Uh-huh
+C :  Uh you
+C :  And you type in the page number you want
+A :  Uh-huh
+C :  Say like it at a hundred a new remote control in this this kind of
+A :  Uh-huh
+C :  Index appears
+A :  Uh-huh
+C :  On the television screen just and some text things and they
+A :  Uh-huh
+C :  Okay looking graphics on it
+C :  And you just type numbers to get a different ideas and it gives you information
+A :  Uh-huh
+D :  Mm
+A :  Uh-huh
+C :  Nice to have a boring stuff like what's on t. v. next and
+A :  Uh-huh
+C :  Sure prices and i can
+B :  Lottery numbers and sports colours
+C :  You sentence
+B :  But if you're see the t. v. saying i go to page one sixty on c. fax now that's what they're talking
+A :  Uh-huh
+A :  Oh
+C :  It's uh it's pretty old technology is a nineteen eighty
+A :  Okay
+D :  Excellent alright
+A :  Uh-huh
+B :  I have no idea what we don't have that
+D :  That's good
+A :  Uh-huh
+B :  Mm mm
+A :  Interesting
+A :  Okay um well we're not gonna
+A :  The man to decide we're not gonna work with that
+A :  Um mm uh-huh
+A :  Okay um i were also gonna or like your question earlier on whether this is going to be to for television d. v. or in it that right
+A :  Just a television that or focused on
+A :  Um otherwise becomes too complex to wanna get this out um very quickly will they have a
+A :  A short amount of time
+A :  Um and finally it is more marketing i think uh um our corporate image has to be recognisable
+A :  So what we're gonna make it look pretty we need to use the colour and our slogan
+A :  In in the new design
+A :  Mm
+C :  So what's our corporate image like it's it's kind of yellow colour we've uh
+A :  It's like yeah kind of a yellow and black and we have that the emphasis on the r. s. in um
+C :  We put fashion in electronics
+C :  One double r.
+A :  Uh-huh
+A :  But it's yeah we put the uh_huh um mm
+A :  Fashion in electronics so we can keep that in that in mind
+B :  Okay so we want something that looks good
+A :  Yep yep
+B :  And it's yellow
+A :  Yeah or at at at maybe some buttons could be yellow but we can we can play around a little bit
+B :  Okay
+A :  Uh-huh um mm
+A :  Okay we need to talk about our functions and our target group
+A :  We're just i do work hard repairs you um in your analysis of different market um that the marketing
+D :  Uh-huh
+A :  You identified that different groups wanna different things or had a certain preferences for example that um
+A :  That older people didn't really care for um voice recognition the younger people dead
+D :  Uh-huh
+A :  Um
+A :  And so mm are we adding this that mm
+A :  Uh-huh
+B :  If we're gonna say that function um fashion we put the fashion in electronics and you
+A :  Uh-huh
+A :  Mm
+B :  Automatically i think the sort of younger group
+B :  That that's was gonna be attracted to this
+A :  Uh-huh uh-huh
+D :  Yeah so i think was gonna have the money to buy that
+A :  Uh-huh it's gonna be twenty five euro remember so um it has to be a marketable to um
+A :  Whoever does
+B :  Uh-huh
+A :  Uh-huh
+C :  Is it is it something that's gonna be sold separately from the television or is it something that comes with the television
+C :  Is that would affect the way that we marketing
+A :  Well it's right now what we're doing is um deciding on just the remote itself so it will probably be sold separately
+C :  Right
+C :  Right okay
+A :  Twenty five euro by itself
+D :  The only breaks um i was given in terms of each was the voice activation and basically there's a big john
+A :  Uh-huh
+A :  Uh-huh
+D :  After thirty five people don't really care that's why it's so it's like basically fifteen to thirty five that
+A :  Uh-huh
+A :  Mm
+B :  Uh-huh
+D :  Think that that's a good idea and i wanna be given any other numbers working on in terms of age later but
+A :  Uh-huh
+A :  Uh-huh
+D :  If that sort of the on the quality that we have that
+A :  Uh-huh
+D :  It's about the age than we would wanna stick between fifteen to revive cringe
+A :  Hmm
+B :  That's probably a a population of quite a little bit of disposable income for use on technology anyway so
+A :  Uh-huh
+B :  That might be a fairly good target group for us
+A :  Uh-huh
+A :  Now those are
+A :  That's all specific for speech recognition are we gonna use that as whatever functions uh-huh
+A :  Uh-huh
+C :  Um
+B :  Mm
+C :  I i would say no because it's gonna have too much to the price
+A :  Mm
+C :  Especially if we are marketing it
+A :  Uh-huh uh-huh
+C :  As a separate product
+C :  People are gonna be paying
+C :  Uh
+C :  But uh we've got price limit of
+A :  Uh-huh
+C :  Was it twelve twelve and a half euros
+B :  To produce yeah
+A :  To produce the yeahs uh-huh
+C :  We could use it and i wonder if we can get voice recognition into that
+A :  Uh-huh
+C :  Twelve and a half euros without having to make too many of a compromise
+D :  What else are we gonna put i mean not that i'm really don't know how about a don't know what else you could
+A :  Oh
+D :  The remote to make it technologically advanced also like other than just media but code
+A :  Uh-huh
+A :  Uh-huh
+C :  Yeah
+D :  How is it
+D :  Mean you can bulk really great and some of the same a phnom button them i dunno i'm gonna buy a new remote
+A :  Uh-huh
+A :  Uh-huh
+B :  Although why are we why are we aiming for a technological advancement everything were talking about is
+B :  Ease of use and simple on that doesn't necessarily mean
+A :  Uh-huh
+D :  Uh-huh
+B :  More technology in fact we could use
+A :  That's a good thing to keep in mind uh-huh
+B :  I mean not
+A :  Uh-huh
+B :  They might be overwhelmed with with the remotes that have too many buttons and too much technology
+A :  Uh-huh
+D :  Someone's looking to buy a new remote all they want like an upgrade um now
+A :  Uh-huh
+A :  Upgrade it
+A :  Oh well we can look for would look at upgrade or we can look at um user-friendly uh-huh
+B :  Yeah simplification
+A :  Mm "'kay" shall so
+D :  Uh-huh
+B :  You could have a crap remote taking with their t. v. that's just impossible to use
+B :  Or maybe broke or maybe
+D :  Uh-huh
+B :  They're just messing it
+A :  Mm um mm
+A :  And we also need to talk about if we're only gonna have
+A :  The very simple ones or also have the other one's just separate somehow or
+B :  Hmm
+D :  Can like i mean that's maybe too complicated but
+D :  Which uh it's meant to explain it like it was just a simple either that's where this way they have like the meantime the menu like paul something a kind of "'em" like you got the rest buttons but there are some um like when and
+B :  Hello
+A :  Uh-huh
+C :  The remote their own remote controls like that yeah like some t. v.s they have a sort of
+D :  You know i'm saying
+A :  Can pull out of sight
+C :  A sliding screen on the remote control that
+A :  Mm
+C :  Hides all the complicated buttons
+B :  Oh
+C :  So if you wanna do something complicated right
+C :  Program your television or teaching it then you
+C :  You open up this little hat sure was like the screen down and there's all the all the special buttons
+D :  Uh-huh
+A :  Uh-huh
+D :  And that people who don't wanna have or a look at and never even have to see that um and if you like to get the instruction manual it comes at the end you just only when really going on or even know what else things can pull out
+A :  Uh-huh
+B :  Uh-huh
+A :  Uh-huh
+A :  Uh-huh uh-huh
+D :  And you're happy person than ever uh not doesn't have to have like two remotes one that has the easy one the one that has
+A :  Huh
+A :  Uh-huh uh-huh
+B :  Yeah
+D :  More complicated once it's also in one
+B :  That's a good idea
+C :  I think that's a good idea
+B :  Mm
+A :  Um we have to be careful that that that doesn't impede it um the chip transmitting information
+D :  Yeah mm
+A :  But um that's gonna be was a technological thing
+B :  Good point
+A :  Um
+A :  Okay um so what what are we emphasising uh-huh
+A :  But well in this project
+C :  Set
+C :  Simplicity in fashion
+D :  Oh and simplicity
+A :  Simplicity in fashion
+B :  Yeah
+A :  Okay those are very good call so i think um that we have to keep in mind it with everything we do
+A :  Simplicity in fashion and uh-huh or usability it's just um how everyone say that which includes um an emphasis on making the infrared very functional so you don't have to travel around a lot
+D :  Uh-huh
+A :  Um mm
+D :  What can you do the
+D :  Like make the infrared more functional like why would it not be
+D :  And the sound and
+A :  I think it's a lot like to do with battery uh-huh but that's just mine
+D :  Uh huh
+B :  The battery and that i think that the chip
+B :  Takes the data and presents a while without strips gathering
+A :  Mm
+D :  Switch the quality of the trap
+A :  Mm
+B :  I think so
+D :  Uh-huh
+B :  The quality
+B :  The quality of all the components really i mean
+A :  Uh-huh
+B :  We can't really do anything
+B :  Charlie work this
+B :  Can be visible down the line
+A :  So our target group were saying fifteen to thirty five
+D :  Well i don't know how useful the numbers if we're not doing
+A :  It's voice recognition which i kind of
+D :  Yeah
+A :  I kinda feel like voice recognition is not necessary in a remote control
+D :  Yeah um
+A :  Like it might be necessary for a t. v. but not for the remote you know seems a bit
+C :  It's yes pretty it's pretty high-tech
+A :  Uh-huh yeah and it might be too expensive
+D :  Okay a whole eight years you're using a remote then why would you will always like you're in a minute like you would need or are you the structure t. a.
+A :  Uh-huh
+A :  Yeah
+C :  See the light be ultimately lazy people
+B :  Who
+B :  I
+A :  Uh huh
+C :  You can't even be bothered to pick up the remote
+B :  Yeah
+D :  Yeah
+D :  Maybe i mean by get more numbers but you know you before the next meeting in terms of ages
+A :  Mm
+A :  Uh-huh
+D :  But this doesn't divide up anything and i was only a hundred subjects also
+A :  Uh-huh
+A :  Uh-huh
+B :  Mm
+D :  Which isn't
+D :  I mean
+D :  Really it's a matter of that especially that's wanted something so that they then can sub-divide and each group that means that is very few we need to each group so
+A :  Uh-huh
+B :  Nice
+D :  Yeah not then
+B :  I think regardless we're aiming for that under sixty five or something
+A :  Uh-huh
+A :  Under sixty five okay that's a good start
+A :  Um mm
+A :  I'd say we're uh it can we narrow down to maybe a um
+A :  Teenagers and families uh-huh
+A :  "'cause" that would go up so like fifty
+B :  Or or like
+B :  Single professionals or something
+D :  Twenty do like fifty uh
+A :  Okay so no
+B :  Yeah
+D :  Uh
+A :  It's it's hard to narrow it down
+B :  It's really hard to figure out right now
+A :  Uh-huh
+C :  I think the part that
+C :  Appeals
+C :  What's the whiteboard range of ages i mean we we said
+A :  Uh-huh
+C :  Simplicity is is one of the features so it's going to
+C :  Appeal to people
+C :  Maybe people who have problems with technology you know people who get scared by having lots of buttons and that might be older people
+A :  Uh-huh
+A :  Okay
+A :  Uh-huh
+C :  But then we've also got fashion which is something that definitely appeals to younger people
+B :  Yeah
+D :  Well maybe we don't have a deadline the target group at the demographic of a thing we could define it but i like the demographic of
+A :  Uh-huh
+A :  Right uh-huh
+D :  Like how much money they have to stand or something like that like why did you have to use a button on the television and
+A :  Uh-huh
+C :  Yeah infrared uh an income true
+B :  That's a good point
+A :  Uh-huh
+A :  Uh-huh
+D :  And the power reason we have a button or like that
+B :  Yeah
+A :  Uh-huh
+D :  Uh-huh
+B :  Hmm
+A :  So maybe it's more useful to just to just find an object it's like fashions and possibly tend to find specific
+B :  Yeah
+B :  Probably
+A :  Target group as far as a just
+A :  Because yeah i think sort of it will appeal to different people
+A :  That
+A :  Okay
+A :  Um i'll there couple functions
+A :  What do we want something so that do we want
+A :  Some kind of thing to find it if it's lost
+B :  Mm
+D :  Yeah
+A :  Like a button on the t. v. you can press the middle ring or something i don't know like or beeper
+D :  I mean i guess i'll go for fifty percent of of the for the crash a segment can have that was the biggest one and
+A :  Uh-huh
+D :  People's that that happen to me a mentioned that before we
+A :  Uh-huh
+D :  You about it
+A :  Uh-huh
+D :  Uh-huh and if we're talking about making me easy that sort of goes along with that so wouldn't be like a random thing to
+A :  Uh-huh
+A :  Uh-huh
+A :  Uh-huh
+D :  Sort of that and it would be relevance like the overall call it and so
+B :  Hmm
+A :  Uh-huh uh-huh
+B :  Yeah that that way you could
+A :  Okay we have to worry about four minutes left to to find a functions so let's do that quickly
+D :  Uh-huh
+A :  I'm so we want something to keep it from getting lost
+B :  Yeah
+A :  And
+A :  We wind
+A :  Um
+A :  One large buttons for the essential things uh-huh
+B :  Yep
+A :  Large accessible buttons with the essentials
+A :  Mm
+A :  We want a possibility to um to get
+A :  Ah
+A :  The possibility to yeah it's the extra functions
+B :  Uh-huh
+A :  Mm
+D :  I
+C :  Which uh
+C :  And if it in the way in some way
+C :  When a kid and uh uh
+C :  But not as prominent as the main features
+A :  Uh-huh
+D :  Hmm
+A :  Um yeah right
+A :  And we also want it to be fashionable uh-huh but i'm not sure that the function so much as a
+A :  Uh-huh yeah
+D :  So one thing i'm a coffee table it's not like a nice or uh and uh
+A :  Uh-huh
+B :  Yeah
+A :  Uh-huh
+A :  Uh-huh
+A :  Okay do at any other central functions that we need
+A :  Battery
+A :  Do we need a long life battery
+B :  Battery battery use
+B :  Yeah but in that goes in with simple city in ease of use really
+D :  Yeah
+A :  Well most uh-huh
+D :  So you never have to change that the
+B :  Yeah
+A :  Uh-huh
+C :  We should maybe investigate but we need a battery at all
+A :  Uh-huh
+C :  I suspect a remote control does think about it
+A :  Yeah i would imagine
+B :  Yeah
+C :  You can
+A :  Just "'cause" it is an electronic device uh
+B :  Mm it i think it does i don't i don't think about way you can operate a chip and convert that much data without
+B :  That one
+C :  But uh the energy
+B :  But you could
+B :  I have to do a little charging station like a mobile phone
+B :  Or like a little cradle for your ipod
+C :  Yeah that's that's possible
+B :  We could maybe do that instead
+B :  So you don't know if you're like a rechargeable battery
+A :  Charging
+B :  I dunno about like contrary to what people losing it too if it's the it's a fun place
+A :  Uh-huh
+D :  Uh-huh
+A :  Let's think about um space in the terms to like
+B :  Hmm
+A :  Is there but i mean which put on top of the t. v. i dunno
+A :  Stick okay that's it that's a good idea what people yeah
+A :  I think it's
+B :  That's a soft not my head
+A :  With um
+B :  Uh-huh
+A :  Okay um we're gonna conclude al it does everyone said
+A :  The functions and yeah
+A :  Um after the meeting we're gonna each complex "'cause" um a question and summers summary
+A :  No no it summarisation
+A :  I dunno we'll have our lunch break and after that we have thirty minutes of individual work
+A :  Um i'll make sure but on the minutes in the project documentation and including this powerpoint slides if i want to do that as well to be great
+A :  Um you'd have individual actions a high um
+A :  I. d. industrial design if you're components concept
+A :  User interface the user interface concept market trend were watching
+A :  And as as per last time you get specific in cat instructions from your personal coach emailed to you
+A :  And hopefully help next time you'll be able to access more of the website that they
+A :  They seem to tell you that you could
+B :  Yeah
+A :  It's an frustrating that um
+B :  Who knows
+A :  Uh-huh it's really know any frustrations are any um
+A :  It's just like a mapping are um
+A :  E. in new or um
+A :  Summary
+B :  Okay
+A :  Uh-huh uh-huh
+B :  Sounds good
+A :  Eighteen uh-huh
+A :  If i
+D :  But zero
+D :  Did you know on were you able to put yours and i agree for
+B :  Yes i just did that
+D :  Alright
+B :  Hopefully it is there for people
+B :  Yeah
+A :  Looks like there um but like the second one kind of of mine
+B :  Yeah
+A :  That's the data in do it from like an earlier project i think so
+B :  Okay
+A :  Um
+D :  Where is that
+D :  Yeah that's
+A :  And do the shared folder and it might not even be a new year's as well projects uh-huh
+B :  Technical so in there we have technical functions presentation working design presentation and the functional requirements
+B :  Uh least that's what i have a
+D :  I only have three i just have like our three
+A :  Mm
+B :  Yeah that's what i have as well as
+A :  Okay
+A :  You don't have my
+D :  No but that's good i think there's an email
+D :  Separate like it's not on the server
+A :  It's it's it's it's it's
+A :  Mm mm mm mm
+D :  But if i open and then see that part would be there
+A :  Uh-huh
+D :  Or in um and you can see that
+A :  Mm
+A :  Okay i'll i'll figure that out in the meantime uh-huh
+B :  Okay
+D :  Well
+A :  Okay

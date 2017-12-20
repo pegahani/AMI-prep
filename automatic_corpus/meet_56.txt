@@ -1,0 +1,483 @@
+C :  Well matched
+C :  Okay
+C :  So this is a
+C :  First meeting of
+C :  This design project
+C :  Um
+C :  And
+C :  I am like to show you the agenda for the meeting
+C :  I don't know if it was saying round
+C :  To you
+D :  Mm yeah
+C :  Then you know anyway
+D :  And the receiver "'kay"
+C :  This is the the plan for today's meeting is
+C :  Um faceplate us to introduce the project
+C :  Briefly
+C :  Um although i'm sure you've actually got some of the information already
+C :  But in the main purpose is to say that we get to know each other a little bit more
+C :  Um
+C :  Can we want to practice using some of the tools that will be using doing the the course of the design project in the meetings
+C :  Um specifically the whiteboard
+C :  The the the
+C :  Um then we need to go through uh
+C :  These specifics of am project plan
+C :  And and discuss come up with some preliminary ideas about it
+C :  And they and that's it it's so we've got twenty five minutes to do that but until eleven twenty five
+C :  So any
+A :  She
+C :  Any questions
+D :  Look at this point
+C :  Not at this point
+C :  Sorry this is our project
+C :  What we're aiming to do
+C :  Is to create a new
+C :  Remote control for television
+C :  Um we want it to be something original
+C :  Something trendy and also something user-friendly
+C :  So it has to be quite intuitive that
+C :  People are able to use this product
+C :  The uh
+C :  Method that we going to use
+C :  To um
+C :  Complete the project
+C :  That has sorry
+C :  Components as such
+C :  There is
+C :  The functional design
+C :  Of the uh
+C :  The remote control
+C :  We're going the way we would do that i think is to to work individually initially and then come together
+C :  For meetings to to work on that
+C :  And similarly with the conceptual design
+C :  We'll
+C :  Start off by working individually it but their own
+C :  Expertise on our laptops in a more bring what we've done together
+C :  Um and then the detailed design will come huh
+B :  Mm
+C :  Oh
+C :  We called altogether
+A :  I'm a bit confused about the what's the difference between the functional design conceptual design uh
+A :  Is it just uh uh more detail uh lands on it
+C :  I think that we talking that the functional design is more
+C :  You all oh
+C :  Um area of things way you will be
+C :  We want to look at
+C :  What functions we need in the remote control and what what specific
+A :  Right
+C :  Things that it has to do the conceptual design is
+C :  Um perhaps be given that as an includes the
+A :  How how it will be done
+C :  How people are going to users and and
+C :  Kind of thing
+A :  So
+A :  But we do we identify the components of our
+A :  Well product um i think it's it's in the conceptual design phase out there and the
+A :  It's in the conceptual design phase that the identify of the components of our product
+C :  Um i think we'll we'll start
+C :  That initially with the functional design
+A :  Okay
+C :  Already but then
+C :  Okay so that's just a brief overview of the the project itself
+C :  Um
+C :  What i'd like us to do now is
+C :  Simultaneously introduce ourselves and
+C :  Start using some of the tools that we using for for the project
+C :  Specifically the whiteboard
+C :  So it
+C :  Each person into then
+C :  I'd like us to go up to the white board that that panes just underneath it there
+C :  And
+C :  Draw your favourite animal
+C :  And then tell everyone what
+C :  Your favourite characteristics of that animal huh
+C :  And one you doing dash
+C :  Tell us your name what your role is and perhaps how you are animal would like to the road you're taking in this project
+B :  Well i looking at me
+C :  I
+D :  Yeah yeah yeah
+A :  I yeah
+C :  Would you like to go first
+B :  And do i have to uh use
+C :  I
+A :  Uh-huh
+B :  Okay oh well things falling into a wide okay
+C :  Oh
+C :  Yeah
+C :  Put them pockets
+B :  Cool
+C :  You don't have to hurry we've got plenty of time
+B :  Okay
+B :  Say my name's cat
+B :  And i mean you know very good at this whole going malarkey
+C :  Yeah yeah yeah
+B :  Say
+B :  Um mm yeah
+B :  Okay
+D :  Uh-huh okay
+A :  Yeah
+C :  Scott now is
+B :  Oh good point
+B :  All ties always within that
+B :  Right okay what uh oh sorry
+B :  Okay cool
+B :  Um this is a rabbit
+D :  Yeah
+A :  I
+B :  I
+C :  I thought it might be a cat
+D :  Yeah well or is it at at first i thought it was going to be kept it
+A :  I
+B :  Yeah i i really is very not so make it look you have a
+D :  Yeah and i know ions and uh yeah
+C :  Yeah
+D :  Uh huh huh
+C :  I can see but ideas
+D :  Yeah
+B :  Okay right it's a fluffy rubber
+B :  They've got this thing come in blue that unit
+B :  Um okay and i like it because it's small
+A :  No
+B :  And it's left a
+D :  Uh-huh
+B :  And one day you be able to just a genetically modified um and i will come in think
+C :  Yeah
+A :  Yeah yeah
+D :  Oh ha ha
+B :  Okay
+C :  Excellent um what's it what's your role within that in
+B :  Ah right um be um and in the middle
+B :  Well
+B :  Top and the key okay cool i'm the marketing expert
+B :  Um say like
+B :  I'm gonna be doing be apparently according to the middle on the computer is everything
+B :  The user requirements specification of the functional design um trendwatching in the conceptual design
+B :  Um sports event evaluation in the detailed design
+C :  Uh-huh
+A :  Okay
+B :  Um it's okay yeah
+C :  And more about yourself you're from
+B :  Um i'm from last uh
+B :  Um second yeah
+B :  Um
+B :  Well stuart sorry
+B :  I like sports
+B :  Um yeah or a picks kick boxing spinning um
+B :  And uh
+C :  But not with a rabbit
+B :  Not with our bits then you know and that's i like that as well
+B :  And yeah um and i like a tends to think want
+C :  Excellent to match the rabbit
+B :  Cool
+B :  I
+D :  Uh-huh
+D :  Hmm
+D :  Uh-huh
+D :  Hmm
+D :  Okay
+D :  Um so my name is mark are
+D :  Yes okay okay
+C :  "'cause" that and if you didn't have much enough for "'em" that so anyway sit there and you can
+D :  Yeah well alright can make it smaller
+D :  Uh set an um and the interface design in this project
+D :  And my favourite animal i'm i mean i'm not so sure because i'm not so so very um
+D :  Familiar with all kinds of animals but i do like dogs oh sorry maybe i should have shouldn't have said it beforehand
+D :  Mm
+C :  Yeah
+D :  Uh-huh
+D :  Um well there are different kinds of talks okay
+D :  Uh
+D :  But
+D :  I
+A :  Yes or no that well yeah yeah
+C :  Oh that looks like a dog
+D :  Okay
+B :  Is it over press a number of it i think it needs for like that it's gonna work in
+D :  Yeah maybe it has some of the patches
+B :  If if it
+C :  Uh-huh
+D :  Um yeah and i do like dogs because they are good friends
+C :  The rubber legs are on the other side
+D :  Two people and they e. l. l.
+D :  Mm
+D :  Well as compared to small animals like cats um very much more fun because they are not so independent
+C :  Hmm
+D :  Um
+D :  Yeah maybe maybe the fact that they
+D :  Protect their homes one
+D :  Yeah
+D :  Um what it has to do was that was my role in the project is hard say uh i hope to be loyal to the project trends
+C :  Uh-huh
+D :  Not uh
+D :  Not so and left people are doing similar project know the details or project or something
+D :  Yeah
+C :  I'm where where you're from
+D :  I'm from a seven year um
+C :  Estonia
+D :  Yep
+D :  Um so is there anything else you'd like to add alright my role is um so and in the different um
+D :  Stages of the design so at first i would responsible for
+D :  Um for
+D :  Yeah it in designing the technical functions of um
+D :  Um on the remote control
+D :  Uh then in the uh in the conceptual design the states are in need to
+D :  Um come up was uh interface concept
+D :  And then in the last um states
+D :  Uh i would be responsible for being in fit for the user interface design
+D :  Mm
+A :  Thank you
+D :  Okay that's good
+A :  Okay
+A :  Mm to some
+A :  Either of the features
+C :  Yeah
+A :  The drawings to
+A :  Okay um my name is colours
+A :  Ah um
+A :  Alright favourite animal
+A :  Well my favourite animal is is that how how important know like yellow control as well
+C :  Yeah yeah
+D :  Hmm
+B :  Yeah
+C :  Good luck
+A :  I
+A :  Uh this is going to be in
+B :  You know just like a big round body and then somebody skinny legs and then just simple ones
+A :  Yeah i don't know okay so let them draw the body first
+B :  Okay
+A :  We don't would be really skinny legs
+B :  I
+C :  I
+A :  And the what a long tail
+B :  If
+A :  And the whole face
+C :  I
+D :  Uh-huh
+C :  It's leading
+B :  It is like a euro
+A :  And there is some grass there
+C :  Yeah
+B :  But
+C :  Yeah
+A :  So this is what i like about
+A :  No it's i
+D :  Yeah yeah
+C :  Yeah i
+A :  They they just keep sitting there eating grass to do not this tell anybody
+B :  Or just go through all
+C :  Uh huh
+A :  Um they're kind of put this to know where
+B :  Mm
+C :  I
+A :  I
+A :  So um yeah i like i was
+A :  Uh um my and my role in the project is a um
+A :  I'm the industrial designer so i'm supposed to design all the
+A :  Details off off the product
+A :  Um how how it works and uh whatever so and you during the functional role what are the various functions that have reform buy it
+A :  And during the um conceptual design or the release components of it
+A :  And um
+A :  Finally i'm not sure about was the last part
+A :  Um them
+A :  Detailed design i i guess it will again be
+A :  The identification of the components are holding it could be cheaper
+A :  Um
+A :  I'm from india
+A :  Um i'm doing my p. h. d. in like linguistics i said at the department psychology
+C :  Excellent
+A :  Thank you
+D :  Thanks
+C :  Right now it now it's my turn obviously
+A :  Uh
+C :  Okay he's a space
+A :  Just like a cult i
+D :  It looks very very key it's
+C :  Yeah i like the cat
+A :  Oh
+D :  Yeah
+C :  I'm jane
+D :  Uh-huh
+C :  Um i like dogs to it but i do that already because uh contra broke as well as u. k. and
+D :  Uh-huh
+C :  I like
+C :  Hmm
+B :  Is that is it
+A :  Hmmm norway a
+D :  Uh-huh uh-huh uh-huh
+A :  Yeah yeah
+D :  Well
+C :  To get cover
+D :  I like uh huh okay
+A :  Uh yeah
+C :  Yeah
+B :  Is the different
+D :  Is it at uh they also like lizards or are they yeah they are
+C :  There
+C :  Yeah but that's a kind of lizard
+D :  Uh-huh
+C :  And i i i like
+C :  Yeah "'cause" because they remind me of warm places and
+D :  I'll uh huh
+A :  Uh-huh
+C :  And
+C :  Where i was living
+C :  In cambodia they used to live
+C :  In my house and i were on the ceiling and that would make the locator noises
+D :  Uh-huh
+D :  I hope we don't like snakes to yeah
+C :  In the evening
+C :  I don't like snakes i come from a stranger um we have nasty snakes
+D :  Okay okay
+D :  Uh-huh
+C :  It's from from last year
+C :  I'm from l. but
+C :  And
+C :  I'm your project manager for
+C :  Today
+C :  And my role is basically two
+C :  Keep things going and make sure that you all
+C :  What together
+C :  In a production price of that by the end of the day we come up with a great product
+D :  One of
+C :  Okay
+A :  Thank you
+C :  So let's see what's next in that
+C :  Powerpoint presentation
+C :  Uh i just thought yeah i've just thought about this that we could even put it
+B :  If you like click on it you can
+C :  Much more proficient i was
+B :  He
+D :  Uh-huh
+C :  Yeah like uh
+C :  Okay so this is the um overall budget for
+C :  Ah
+C :  Project
+C :  We've got
+C :  Um we're planning to sell these remote controls for its make it go away
+C :  That means we've got five minutes
+C :  Um we're planning to sell the remote controls for twenty five euros each
+C :  Um
+C :  And with that we're aiming for a profit of fifty million euros
+C :  And that's selling them on the international market not just in the u. k.
+C :  Um so to do that
+C :  Um fine and some people estimate that we need
+C :  Production costs of the maximum
+C :  Twelve and a half euro
+C :  So that we can write that
+C :  Profit at that
+C :  So that's
+C :  Something to keep in mind with the designing
+C :  Okay
+C :  Hmm
+C :  This uh let me just skip ahead to say that last thing okay
+C :  We've only got a couple of minutes
+C :  Does anyone have any
+C :  First ideas to bounce around about
+C :  Um what we thinking of this
+D :  Yeah
+C :  Remote control
+D :  I'm just wondering what that what that there is like any special feature that we
+D :  Want to have "'em" want this remote control have as opposed to the already existing ones
+C :  Uh-huh
+C :  I think that
+C :  Probably something that
+C :  It's best if we take away with this but if we all have a think
+C :  When we go away from the meeting
+C :  What specific things could be
+C :  Um
+C :  Included in this remote control that
+A :  I think uh in the beginning uh one thing was that was mention was that it should be more trendy user-friendly an additional
+C :  A rash of the ordinary
+A :  So
+A :  Uh i think your point is valid as far as originality is concerned that we should provide some features that are
+A :  Quick unique to this
+C :  Something something yeah
+B :  Yeah i was looking at the website any of the things
+B :  That they've made a nine i put down some like inspirational words like that i got from
+B :  Looking at the pictures
+C :  Uh-huh
+B :  Say the mouse say is um we put the fashion in electronics
+B :  And um says something that is silly and stylish but it's still functional
+C :  Uh-huh
+B :  You need some kind of thinking in a like those findings so they have
+B :  The new generation ones whether they're actually how many buttons on them and stuff like that
+A :  Alright
+C :  Huh
+B :  Unit say something edging towards that so it's not a very
+B :  I mean i know what a mess the button to oh my remote controls are could have need you need to me
+C :  Uh-huh
+C :  So perhaps some sort of menu by staying alive
+A :  Mm
+B :  So there was a little less crowded and it's like i mean you need theoretically you could you all kinds of things you t. v. right but what the most people they they turn it on they watch certain specified channels
+C :  Uh-huh
+C :  Yeah
+A :  Yeah
+C :  Yep
+B :  In a in a in a turn it off again
+A :  There's a lot of functionality in there that is not used ninety percent of the time but will be used ten percent of the time
+B :  Sometimes okay maybe
+B :  Yeah so
+C :  Yeah
+B :  Does may need to have buttons on it to do that maybe to do
+C :  So
+C :  No
+C :  It could be one button for a menu or something if you really need to go and do that
+B :  Yeah
+D :  Uh-huh
+A :  And then use the
+B :  So if you're kinda sad case the nays higher may control works
+C :  Mm
+B :  Then you need that's fine then you can do on the screen or than anybody else i don't have these buttons which is confusing
+A :  Mm
+C :  Uh-huh
+C :  Excellent
+B :  "'cause" like if you look at the train it's just very light
+B :  There's no extra bit some at the train on the website
+B :  And that uh if you can put up on the thing
+C :  I haven't had a look at it
+B :  Um but it's just like a long
+B :  One thing you some new meeting people but it looks really pretty t.
+C :  Uh-huh
+C :  Right
+C :  Any other immediate for
+A :  Mm
+C :  Before we
+C :  Hmmm along
+A :  Oh we can aim for i mean we can think about all these little things but we can aim for something that that "'cause" the high battery life although i don't think that the um it's a huge problem for remote controls and in a battery life uh
+C :  Uh-huh
+A :  I mean on then you need to the place of our trees
+C :  Yeah
+A :  Um
+D :  But uh i mean a even though it has to be record so we shouldn't ago would
+A :  Yeah
+D :  Like too far away from from the user wants because otherwise then you use as well just have a lot of problems all of
+A :  Yeah
+A :  The big learning curve yeah
+C :  Uh-huh
+D :  Learning yeah yeah
+A :  Yeah
+A :  So we should kind of fit in as well and uh
+C :  It's like there's fancy website
+A :  Just tear type of uh yeah
+D :  Uh-huh
+C :  But
+C :  You can't access because you have no idea how to get mean that the designers not a great
+C :  Uh okay so we need to wrap it up now so that we can go away and get on with with this
+C :  Um
+C :  We've got another meeting in thirty minutes
+C :  So
+C :  You will you be getting specific instructions once you go back to your work space for them
+C :  Basically
+C :  You're looking at the working design
+A :  Okay
+C :  You're looking at the technical functions design
+C :  And for you it's the user requirements
+C :  Specification like to start
+C :  Okay
+D :  Okay
+C :  Thanks for that
+D :  Thank you
+C :  Well see you in half an hour
+D :  See
+C :  Carry the laptop back again do we need to unplug think it's
+C :  Probably

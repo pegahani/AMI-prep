@@ -1,0 +1,463 @@
+A :  I haven't come back of the lunch
+A :  I hope a very good lunch
+A :  To do that
+A :  For uh this meeting domain i didn't okay uh to discuss about the
+A :  Conceptual design meeting
+A :  Okay and the agenda will be
+A :  Double opening and uh that's uh the project manager or secretary that's me and the the the presentations from the christian
+A :  And the
+A :  Agnes
+A :  And then you see it
+A :  And finally in this meeting we have to decide
+A :  And we have to take a decision on the remote control
+A :  Concepts
+A :  And uh oh the functional design
+A :  So we all forty minutes
+A :  I think it's uh
+A :  It a bit uh no but i i hope we can finish it up
+A :  So i'll hand go to the
+A :  The functionality into the christian okay to discuss about the the components
+A :  Concept
+C :  Okay
+C :  So uh if you could open the powerpoint presentation
+C :  And number two
+A :  Mm but to
+A :  "'kay"
+C :  Components design
+C :  Okay
+C :  So uh to put the slideshow moment
+A :  The next alright
+C :  Right here
+C :  Is that that one yes please
+C :  Thank you
+C :  Oh yes
+C :  So well um
+C :  We were looking you specifically uh the components so that the following components
+C :  Not the case the power supply
+C :  Uh means of communications with the television set
+C :  And then since we talked about using some sort of speech recognition have to have mike from all made an extra hum have to have mike found in the device
+C :  But um
+C :  Maybe to have it uh
+C :  A way it has to pass to here at the speaker
+C :  And um so it could be in the television set could be in the device but
+C :  Summary have to put the microphone
+C :  Um and a way of making beeps or sounds you can find it when it gets lost
+C :  Um so the other one thing that we sort
+C :  Are method
+C :  For
+C :  One about this as we've looked at uh of the store it it's torque or record what's work hasn't
+C :  And then we also um
+D :  Mm
+C :  One to evaluate some new materials and we contacted manufacturing for their input because
+C :  Course stream
+C :  Might come up and choose the material that then manufacturing didn't have the technologies capabilities to offer us so well this is the approach that which uh during our um our research
+C :  So um for the case
+C :  Um we at all we were making a specification specific assumption that it would be curved and design course now i wanted it to be expendable and shrink a ball but
+C :  Um that that doesn't seem to be one of the year choice not option we can
+C :  We can really serious the explorer
+C :  So then we were thinking about um rubber but um
+C :  Unfortunately that's gonna because of the sheets uh factor and um that might be some
+C :  Problems with them uh how it's
+C :  It goes with the board
+C :  Uh and uh then plastic also has its problems melt saying and it's brittle it is brittle laughter while so i'm still had thai titanium and and what available
+D :  Mm
+C :  But um unfortunately uh uh titanium's also gonna laminated the them people and manufacturing said that you could make curved case a set of titanium although
+C :  Apple do it with
+C :  Power but i'm not quite sure but
+C :  At nevertheless so um the eliminated all of our options except what
+C :  So
+B :  Financially friendly
+C :  This is our flying
+C :  And it is she said it's environmentally friendly a mature or so
+C :  Were were correctly uh proposing
+C :  Uh we'll get oh my personal preferences in just a sec so there's this other matter of the chips and um well we could use a simple design on the board but uh this simple chips but that's only works for the buttons you don't get very much um intelligence with the simple one
+C :  And um then there was a regular which
+C :  I regret that i've forgotten exactly what
+C :  Why um well emanating that one
+C :  Uh the other option was is advanced chip on print
+C :  And uh we like we we found that it it includes is infrared sender which we member the beam was that was an important component of finding the right chip
+C :  And and manufacturing as tall as they they if i um uh recently developed a uh a sensor and a speaker at that would that be integrated into this advanced chip on print so
+C :  Uh we we uh
+C :  Yeah jen thing right you are personal preferences
+C :  Well um i i do think we should you know you some of us some real exotic words
+C :  Like um you know uh well you guys come from tropical country so you can can think of some trees than some nice words i think that
+C :  People might really want to design their own cases to see they could do through the the sound three dimensional design on the internet and then they could submit their orders can like you submit a custom car or do or you know when you can choose the colour and size of the wheels and the colours of the weather and things like that and then i uh i think we should go with the solar cells as well as the um the microphone and speaker on the advanced chip
+D :  You know
+C :  So the so the findings of our research and my recommendations
+C :  Um for the new remote control well mm would be to have um
+C :  Have be made out of wood
+C :  Any problems with a
+A :  Can you go back uh one slide
+C :  I'm not sure uh well i don't see it go back here
+A :  Yeah it's uh our costs and uh uh
+A :  What's mean exactly a a once a chip on print what's meaning of that
+C :  I think it um no um a multiple uh chip design um and it's that may be printed on to the circuit board
+D :  Mm
+C :  Uh it i could find out more about that uh the for the next a next meeting
+A :  Is it means it's on this
+A :  Yeah is it on uh michael was my control set based or or uh
+C :  I don't know but i'll find out more our next meeting
+A :  Okay that that would be great so if you find out know technology background okay so that would be cord
+C :  Sounds good
+B :  Why the plastic eliminated as a possible to
+C :  Because um it gets a little
+C :  Cracks
+B :  Uh-huh
+C :  Um
+C :  We want we expect these um
+C :  And these remote controls to be around for several hundred years
+C :  So
+B :  What
+D :  Well i
+C :  They're expressing
+D :  Right but it's fresh as well after s. i.
+C :  Ah to speak for itself up there
+B :  Well i think
+B :  I think what the way that you ran in the same types of problems with me i mean it's yeah so it if you drop bit
+B :  It's i'm not so it's
+A :  See on a comment about the
+D :  I find where to sell it
+C :  Yeah oh well
+D :  Ready to sell it
+B :  If you we if he is really good quality what it that might work but you can just use
+D :  No it's not no no no the only one delay would you can use of the ones that are hard it's hard work but there's some very pretty close that there
+C :  And you can
+C :  It's a little sweater to take care of
+B :  Yeah exactly yeah
+C :  Oh i'm glad
+D :  That's actually very innovative idea
+C :  O. k. i. c. r. and r. time people remote control of my uh it's
+D :  Let's have a very rare and different idea that uh you can choose you colour would you type of what
+B :  The stain
+D :  I mean each person they have their personalised individualised
+D :  Speech recognition remote control and what it's
+D :  Not on the market
+A :  Yeah so it's it's looks got the the design the function design uh what about a year you know
+B :  Um
+B :  In terms of comments on that so in terms of my own mm
+A :  Yes yes yes
+D :  Because of well i
+A :  In terms of comments cost
+B :  Yeah yeah
+C :  She works and keep the context a nice to she's that she was a real little bit prepared for this
+B :  Yeah
+D :  But
+C :  But the way yeah it was not
+D :  Well i
+B :  I think that the quality materials that then
+B :  It shouldn't influence the design principles to match which you'll see with my presentation
+B :  When think we'd have to check those what the user's whether
+B :  How quickly the novelty wears off of having
+C :  Uh-huh
+C :  That you would wanna have to have splinters and and what you're using yeah
+B :  Yeah for example
+B :  So
+B :  Have to see how
+B :  Kid friendly and it's and it's
+B :  And all that but
+C :  So you if you do i get ahold of it they can use it
+C :  For teething
+D :  I do any with the rubber plastic so
+C :  Yeah they do it with other materials as well yeah
+D :  Sure
+D :  Joe more
+A :  Okay then uh let's more to uh acne
+A :  So mm
+A :  You know in parts bin to it
+B :  Three
+B :  Uh yeah
+A :  So
+B :  I think so yeah
+B :  So it's a very short presentation "'cause" i'm actually gonna draw you the layout on the board so
+B :  If you wanna discuss stick to the second slide
+B :  Um which basically shows is sort of like to the ideas that we're talking about last time
+B :  Um and try to put that into the remote control so things it you can actually see on i i have a on off switch
+B :  Volume and channel control them any access button
+B :  Ergonomic shape which are completely agree for scenes idea to have it sort of moulded so it's slightly more ergonomic and comfortable to hold on the standard
+B :  Very straight remote controls
+B :  Actually the thing with the word if we take your customising idea is that people can actually do sort of quasi measurements on their hand size of someone as large your hands
+C :  Right my hand it's different size then you worse for example
+B :  You have a wider remote control
+B :  So that takes a really good idea to estimate customise ability
+B :  Um one thing i thought might be kind of interesting is to put a flipscreen i just like you have one flip phones
+B :  So that you don't have this case where someone sits on the remote controller accidentally press their hand on especially get little kids around
+B :  They're not pressing the buttons well you're trying to watch a t. v. show and accidentally change the channel or turn it off
+C :  Mm hmm
+B :  And also
+B :  Um you have issues of batteries are aiming at said that maybe we could put a little battery life like
+B :  On it kinda goes demand demand them as your battery it starts to die
+B :  And in terms of invisible features audio and um tax uh feedback on button presses
+C :  Hmm hmm
+B :  And
+B :  Like you said speech recognition
+B :  So in terms of what this thing that actually look like
+B :  Despite working in interface designer not the greatest artists in the world so you have to forgive me
+B :  You have something like this with an on off switch really big
+B :  Sort of in a corner and by itself so you don't accidentally turn the t. v. off are are trying to manoeuvre other buttons
+B :  And then you have sort of one of those topple display is
+B :  For oops
+B :  Channels
+B :  And volume sort of for surfing channels and then volume so the volume would be the up and down volume goes up and down and then channels left or right
+B :  And then here you have your sort of standard
+B :  Telephone ish
+B :  Number pad
+B :  And then on one side you would have an access to the manual
+B :  On your t. v.
+B :  And on the other side
+B :  A way to turn off the voice control
+B :  So that if the user doesn't want to use the voice they can just turn it off and you don't have a remote control
+C :  Mm
+C :  Uh-huh
+B :  Accidentally
+B :  Changing things on yeah
+B :  Um so again you can have a little l. c. d. light somewhere
+B :  The flat
+B :  Thing and the forgotten anything
+B :  I don't think so
+B :  So as you can see it's a very very simple design which is one of the things i really wanted to keep
+B :  Keep it simple not have too many buttons that have to me functionalities trying to it
+B :  I think the design can pretty much carry over to everything although
+B :  With the world the flipscreen
+B :  Might have to do something slightly
+C :  A hinge
+B :  Difference
+C :  We have to copper hand sure you know
+B :  Yeah
+B :  It does have will start watching uh for the weight is depending on how much the the flipscreen will add to the way
+C :  Mm hmm
+B :  Of the remote control you don't want it to start getting too happy
+B :  But that's the general layout with the general functionalities if we come up with something else
+B :  As you can see there's still lots of space on the actual remote control
+B :  And if you do a customisable e.
+B :  You could make this thing fairly small fairly all large
+C :  Mm hmm
+B :  Depending on personal preferences
+C :  Mm hmm
+B :  So that's pretty much
+B :  Oh i had to say i mean everything else in terms of design issues
+B :  And this century know the keypad and
+B :  The channel is just depending on where you're from it is
+B :  And you tend to use the the volume control and uh
+B :  The browsing more than the actual number pad so that would be sort of interact line for your time goes when you're holding the remote control
+C :  Mm
+B :  That number have little bit lower to use less frequently
+C :  Mm hmm
+B :  So once we decide exactly what we want then we can figure out the exact positioning
+B :  But more or less i think it should go along those lines
+A :  So what's your yeah
+A :  The comments or uh
+D :  Simple design
+D :  So consumers want
+A :  Okay
+D :  Some of like fifteen we have a product i i
+B :  I
+D :  Problems obviously gonna be cost
+B :  Uh-huh
+D :  Okay i also have of
+D :  Very simple
+D :  Presentation
+A :  Yeah
+D :  But from a marketing point you have to see what the consumers want
+D :  Also have well
+D :  Copied uh
+D :  Different type of remote
+D :  If you can find me where i'm at
+D :  Should we be one in here
+D :  Sure sure
+C :  Sure
+D :  Being modified
+D :  For stealing our product
+D :  With the municipal questionnaires and every year is because it was a cinetis you would come most consumers are looking for today
+D :  This is the trends changing very very quickly
+D :  In six months maybe this ideas already got out the window
+D :  So it's gonna be a question how fast we can act
+D :  Yeah uh they are your wrist wrist am i know
+C :  No
+C :  Go to findings
+D :  No no
+D :  No
+D :  So i don't know the commentator
+D :  Oh the market trend
+D :  This is what we know from the last uh or from the questionnaires and although although
+D :  Surveys we've done fancy and feel good that's what we're looking for something that feels good in the hand that's easy to use
+D :  But different next generation of innovation because all the remote out there now they're all very similar they'll do the same thing
+D :  We have to something completely different
+D :  "'kay" easy to use as well as become has become another major interest that the
+D :  With the whiteboard we can see that uh remote that's easy to use
+D :  And i think this is another thing is interesting is the consumers actually willing to pay the price for exciting to have technology
+D :  So we have we have a product that may be more expensive
+D :  If it comes out right
+D :  If they didn't look it looks and feels good to have technology
+D :  The second two you can see the last one is a very easy simple design
+D :  The second one is about uh forty five thousand different buttons on it which makes it very hard to read for an i. d. is the first one i see
+D :  But they put in a display
+D :  That is something also with a little flip up now we're adding all kinds of things and a little flip up if you have a little display on the flip up the wanna close it everything's locked
+D :  Maybe the display also makes it easier to use because sometimes in your looking for buttons maybe if you see a display
+C :  Context instead of instructions
+B :  Right
+D :  Okay
+C :  I mean with the top what mode the t. v. you're the d. v. d. or something else to say and
+D :  "'cause" i've seen mostly the standard ones yeah
+B :  Especially many something like that for training the speech recognition
+D :  Now you have as many have one with a very simple also the idea simple but with the display
+B :  Uh-huh
+D :  So you can see which are going
+D :  So maybe three in incorporate the easiness of use
+D :  Train be fancy
+D :  Feels good
+D :  Uh
+D :  With the display
+D :  Would designer would design colours
+C :  Yeah maybe which you could do is from some video orders the device
+D :  Mine
+C :  You could send them like um
+C :  He uh
+C :  At some sort of foam rubber
+C :  Um
+C :  Ball
+B :  Arrow yeah
+C :  And then they would squeeze it you would take the shape of their hands
+B :  Yeah so it's really moulded to do it to your specific
+C :  To to it it it in and then you would know like
+C :  Um what the geometry of their hands would be e. and uh
+D :  Hard disk reason i
+D :  Resisted resisted i uh
+C :  You know what i know what
+B :  I
+B :  But the for that you'd also have to do sort of an average across families and things like that if
+C :  That's right that's right you wouldn't wanna go too far down that
+B :  Unless everyone has their own personal remote
+C :  Oh that that actually would uh increase the um the revenue it so we could expect yeah
+B :  To say i
+A :  I hope so
+D :  No but incorporating the three uh
+D :  Obviously be something totally new on the market
+B :  Yeah
+D :  Totally different
+D :  Yeah for my
+B :  Already the customisable really is
+B :  A really good sort of
+D :  Well what it was the the uh was a nokia taking all of those
+B :  New gimmick
+D :  Changeable colours
+C :  Hmm hmm
+D :  Right you take a part for another face take it off button interface
+B :  Yeah
+C :  Right
+D :  And then they sold millions
+B :  That's a a
+D :  Millions
+D :  So
+D :  And so with that do the findings were the researched easy to use something whole you know
+D :  We have to come up with something totally new there's not on the market
+C :  But also have to work um consider that to who we were gonna get to make this custom cases in terms of manufacturing process system right
+C :  Right um
+C :  Learn about um labour wires
+C :  You know and
+C :  Different countries and so forth so we can do it cheap but you don't wanna explore it to uh labour and um third world countries
+C :  Actually that right you turn around and say they your um for the reason the cost is high for the devices because
+C :  Um you're paying uh a working wage to the person who made
+C :  The device
+B :  Uh-huh
+A :  Yeah but we can get the production and uh
+A :  Confuse like uh in the uh yes yes and disliking d. or a chain or a mono ratio so
+C :  Cost of living is low
+A :  You can go a bit of features then but the price any kind some more
+A :  So
+C :  That would that be something that manufacturing would have to um
+A :  Yeah
+A :  Yeah so
+C :  Explore more into where
+D :  Where are we are we in any fashion is is
+C :  Uh-huh
+D :  Than other stuff
+A :  Yeah so
+D :  We're here to design
+A :  Yes uh but uh but that that they can't that we can talk about the production later okay depends on the the quantity okay
+D :  Come up with a nice product
+C :  Hmm hmm
+A :  So we don't need to have uh well one uh fabric factor or something so we can have a have it will
+A :  There are do the fabric okay but the different uh electronics items then we can have a business step and the the good the cost okay to sell more
+A :  So that the led lights to decide foster board uh oh components concept and uh interface concept
+A :  Okay if it is
+A :  Picks up the phone for both of you what uh it was talking
+A :  And you are design
+A :  With uh oh you wanna the display or bit of a display or just a simple so
+B :  I think it depends i mean i think it's a good idea that we need to really think about how useful it's gonna be because theoretically with the t. v. you already have
+B :  A big display right in front of you know
+C :  Hmm
+B :  So
+B :  If we're trying to keep costs down
+B :  Then maybe sacrifice in the display
+C :  Uh-huh
+B :  Is a way to go out and it depends on how much putting a display costs
+B :  And what it would be used for very specifically would it would be used for
+C :  Hmm hmm
+B :  "'cause" if it's only use for one little thing then putting in a big display case
+B :  Or a big display that's
+B :  Probably expensive just to do the training on the chip
+B :  For the speech recognition or whatever
+B :  May not be the most cost efficient way to go but
+B :  That's a sort of speculation i mean
+C :  We think uh jean
+C :  You like the display in one of the concepts that you share
+C :  Um you know how much it costs uh uh mm to to add a little display like that's uh
+D :  No one knows
+C :  You want a connection i am to go find out
+D :  "'cause" we have to find that cost
+C :  Okay
+C :  Sorry about that
+D :  And last a problem i mean for them pushing it after it's made i. either market it i
+D :  Once we get a price on that we can market
+C :  So but
+C :  The advanced chip-on-print is what um what we've
+C :  We've decided we determined in the uh
+C :  Engineering industrial design is the recommendation
+C :  And um i think we've kinda come to some
+C :  Agreement regarding um
+C :  This concept of a wooden case
+B :  Uh-huh
+C :  Uh customisable um
+D :  Nice beautiful mahogany redwoods cases
+B :  What about that
+B :  Buttons would
+B :  With the buttons be would say over
+C :  Uh i don't think so
+A :  I don't think so
+C :  No i think they could be rubber like they are now so you have a tactile experience of
+A :  Yes
+A :  Yes
+A :  Don't that's nice
+B :  Yeah
+A :  Yeah so
+A :  Or what we'll do is uh we'll we'll stick with the the simple design for coming into the egg find out about know how much it's cost of extra think if we go for the display
+A :  Okay so maybe what you can do is uh about a few you can come up with the
+A :  The product right
+A :  Okay the more than
+B :  Okay
+A :  Okay
+B :  Sure
+C :  So um
+C :  Are we done that's me
+A :  Uh i hope uh for is it okay if uh they will come up with a prototype design
+A :  Okay then they can show you how it looks like and then we can uh submitted a
+A :  I do some into the management
+A :  Okay
+A :  Then mean that and you can come up with the price so how much it's cost of extra for the the display
+C :  I'm marketing strategy
+A :  And and a might be sturdy that's very important okay
+D :  Okay i think yeah
+A :  How much
+D :  Finer
+A :  Oh my how much how much you can select so uh
+A :  Of course you make minute or so
+D :  Yeah yeah
+A :  It's modified you make money to uh your commission
+A :  Okay so any questions
+A :  So by next meeting so place come up with the the prototype
+A :  Okay then uh then we can proceed from there
+A :  Okay
+A :  So thanks for all your uh efforts
+A :  And coming for the meeting again
+A :  And the c.s on that
+A :  Okay thank you

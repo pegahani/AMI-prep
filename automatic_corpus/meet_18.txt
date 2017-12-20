@@ -1,0 +1,766 @@
+A :  Uh
+A :  Okay everybody's ready in good morning again
+A :  So today
+A :  We're going to have a second meeting oh my god
+A :  I collate
+A :  You have good reasons for that
+B :  Yes
+C :  Yeah
+A :  Very good
+A :  Okay let's have a look to the
+A :  Hi jane that today
+A :  So well going to have an meeting about the functional design
+A :  Um mm have so far as before starting i'm just going to uh
+A :  To move quickly to look through the minutes of previous meeting
+A :  So uh
+A :  Basically we wanna decide it if we we we should go for universal specific yeah
+A :  Uh uh remote control but i have a new um you we inputs for
+A :  But that the peaks
+A :  Okay in between sure we view
+A :  And that basically we decided to um
+A :  To go to individual actions for each of you
+A :  Uh so um industrial designer
+A :  Should work was supposed to work on
+A :  And so on the working design
+A :  If it's
+A :  Well you you prepared a
+A :  Something for us
+A :  So
+A :  You we yeah i also
+A :  I work on that
+A :  Yeah and for them are our marketing expert should be for some specs
+A :  Alright
+A :  So
+A :  So what i'm going to go through all three of you when you do presentations but first i will i quickly to uh to decide of your name the project
+A :  So all
+A :  I just put
+A :  Bit quirky or
+A :  I mean all but if you have any of the names that we could could decide fall
+A :  Just to
+A :  Get something
+A :  Fun for our project
+A :  We we should we could discuss quickly
+A :  Any ideas
+B :  Uh the power state
+A :  Power stick yeah
+A :  What else
+A :  What else
+D :  Ooh
+B :  Maybe spanish name
+D :  Mm i was thinking of that
+B :  Work well especially if we're selling and the u. s. market for the for the spanish it is that
+B :  Maybe something that sounds cool in english to send funny and down
+D :  Manual
+B :  Mango
+A :  Nine got mango
+D :  Mantle
+A :  Men do and a
+A :  In a
+D :  Yeah the all
+A :  You know like a
+D :  It doesn't it doesn't sound
+A :  But you mean
+D :  Colour for me
+D :  But maybe for the spanish for a high for
+B :  What does that mean in spanish
+D :  Control
+B :  Control and
+A :  Uh-huh
+B :  "'cause" it also like in english it sounds like you know them and school you know "'cause" you know men like to have control the remote so
+D :  Man that sounds
+D :  Like you know
+D :  Oops
+C :  Yeah
+B :  And then
+A :  Okay
+A :  So let's go for mondale
+A :  Yeah no objection
+B :  Yes
+A :  Great
+B :  And we could have some like you take to have the fonts yeah special so you have man in like in
+B :  In uh
+B :  In all in one font and then the other was like
+A :  Okay i think this
+B :  Although you don't wanna cut at that women out of the uh potential by isn't it so
+A :  Okay
+C :  Yeah they're the most t. v. watcher
+C :  So we should be careful
+A :  Okay i think is a more cushion or
+D :  But yeah i think
+B :  Marketing
+A :  I i think is in more question of
+A :  All fruit and feel
+A :  So i think that should be a great leader
+A :  We should we should go to was that was the other topics
+D :  Yeah because if it that it will be international
+B :  That's the thing we need to know who we're selling it to before we can really decide on uh
+A :  Yeah okay so
+A :  That's takes to mount mount the for the naming we see fault uh for the look-and-feel later
+A :  So let's go for this representation right now
+A :  So want to start
+D :  Maybe maybe yes it is that
+A :  It's all maybe we
+A :  On the market yeah
+D :  Yeah
+D :  Mm okay
+A :  Okay so uh you have your slide somewhere
+D :  Should be in practice a button for
+A :  Participant four
+A :  Hmm
+A :  This one
+D :  Mm
+A :  It's it's coming uh yeah yeah
+A :  Okay
+A :  Great
+D :  Okay so uh yeah i really i would if i believe
+D :  A line about what i what the prepared for this meeting
+A :  Uh-huh
+D :  For the functional requirements and especially for the
+D :  For the user requirements i did that a marketing report and
+D :  You have to find it with missus um
+D :  And they
+D :  They improvements we could do to the car and
+D :  Remote controls
+D :  And uh so i i i did a study with
+D :  For the corporation of new technologies it seems that the remote controls have been have remain the same
+D :  For the large
+D :  Five ten years
+D :  That is no
+D :  No
+D :  Significant difference
+D :  Between there
+D :  Good
+D :  The first know control
+A :  Okay
+A :  Next right okay
+D :  What
+D :  Well most of the people of thing that remote controls are oddly battery
+D :  So i'm they they admit that that that they should just they would spend more money in a fancier remote control which is
+D :  As as well
+D :  It's interesting point
+D :  I so that people are awarded about
+D :  About the r. r. s. i. e. d.s which is if you uh to be this c. d. a. same movement
+D :  Which is not uh with our not very out the p. it
+D :  Device
+D :  We'll do we have problems were when you will get all
+D :  So let's people are are what it about the the shape of the
+D :  Of the remote control
+D :  They are are still
+D :  They get i'm ready
+D :  Betty often because they lost the remote control
+D :  Maybe a fun
+D :  So i think it would be a point to to to to
+D :  To find out a solution so
+D :  Any be any a time or something corporate to do with the remote control it it i mean you get lost
+A :  Uh-huh
+D :  And i so i found that the old people and
+D :  They the younger people are are they are more interested they yeah i mean incorporating new technologies in the
+D :  In the remote control
+A :  Okay
+D :  So
+D :  In my opinion day
+D :  Mantle
+D :  These
+D :  Mine though
+D :  Shouldn't be bit smaller because there's more e. d.s
+D :  They're more like and they mm good idea
+D :  Use the weather's like here or more like that
+B :  More right
+D :  Okay
+D :  Uh
+D :  People uh so complain because they they they are have the same size of the voters four buttons which which are not betty use like for uh
+D :  The more i zine time as well
+D :  Or this kind of
+D :  Actions which are not very often
+D :  Bad
+D :  They uh
+D :  They sure that they should have at the same importance and they they're in the remote control
+D :  In the remote control
+D :  Ah so this is the design should feed
+D :  They can say
+D :  So it may be interesting to to think in a in both prototypes for right and left
+D :  Handed people
+B :  Well the the um the thing is the most remote controls are used
+B :  By more than one person's uh
+B :  And as you kind of targeting single
+D :  It's
+B :  People yeah
+B :  You can uh maybe
+D :  Yeah
+B :  Cut out some
+B :  A lot of your market
+D :  I don't know i see
+D :  Anyway i think it could be an interesting to to really some a a a smaller fraction of
+C :  Oh might be it could be a euro was the design
+D :  These remote controls
+D :  Sorry
+C :  I you know was the design
+C :  Which is which is good for both the hands
+B :  Still set for
+B :  Yeah for your hand but not for particular
+C :  That's right
+D :  Yeah
+B :  And uh
+C :  But it's left and right hand but
+C :  But i don't you think that the two points at fashion one thing you're saying design should fit the hand shape and it should not be really small
+D :  Sorry
+C :  The first and the powerpoint they're flashing
+B :  Well i can still be be in seoul extend past the hand
+C :  Okay
+D :  Like yeah
+C :  So fitting the hand doesn't mean much
+B :  Well it means like this remote here is kind of it's very thin and long so instead of having you know you might have it kind of
+C :  Uh-huh uh-huh
+D :  Yeah right
+B :  A bit big are all you know with maybe some something the uh molds or something
+C :  So means design should be similar to the traditional ones
+C :  That would sleep longer
+D :  No i was thinking of sat like
+A :  Something with the shape of the pound
+D :  Something
+D :  Yeah
+C :  Uh-huh uh-huh uh-huh
+B :  Something you groups or you could even have some buttons like
+D :  Yes
+B :  You know uh
+D :  Yeah yeah it's
+B :  On the side
+B :  Things but
+D :  It shouldn't be saying that you can see medicare not anymore
+C :  Uh-huh
+D :  As well yeah
+A :  And then finally
+D :  And finally
+D :  Big operational far as c. d. or a speech recognition see stand in the remote control could also interested but i don't know if the budget
+D :  Would be in that
+A :  Yeah of course i'm just wondering about the s. c. d. stuff
+D :  But most of the
+A :  Tail's a
+D :  Yeah and most of the young people are two thirty to fifty years oh where real interested in this kind of
+D :  Technology
+A :  Yeah so maybe is a good time for me to uh to bring you to some new way you informations
+A :  We had the new requirements
+A :  From the sort of on the head of uses of the company and so they wanted so they want to um mm they would like to be restricted to t. v.
+B :  Yeah
+A :  Okay i dunno if you had this information already
+B :  No
+A :  No so they want
+A :  Has to restrict the remote control to t. v. only
+A :  Because of time mutations
+A :  Um mm
+A :  Then also
+D :  Actually this marketing report is is to to to t. v. remote court
+A :  Excellent
+A :  So we have also to focus more on the internet aspects because
+A :  Well well he teletext is outdated now
+A :  And the fine eileen
+A :  You should be clear that the call for each units that means corals and logos of that our company
+A :  Should be gee i mean that you identified that
+B :  Oh we still we still working on this uh twenty five you're price point because i think
+B :  Actually having all that some of the remotes out there this is quite although
+B :  Our price if if we're
+B :  Maybe i can get this in my presentation to the time
+A :  Yeah yeah so sure so maybe you can come to your presentations
+B :  Yep okay
+A :  Right now okay so let's keep in mind about doesn't that that this last point about l. c. d. and speech uh
+B :  Yeah i think even even if it was within budget do speech reckon rec system it might be a bit difficult because if you think
+B :  If you're watching t. v. you can have a lot of these uh background noise from a t. v. which might interfere with the
+A :  Sorry what is your following
+B :  Um put some three
+B :  You might have some background noise in the t. v. which will make the speech recognition much uh
+D :  Yeah but you should be able to add deviated is a t. v. eights oh
+D :  Yeah yeah
+B :  I press a press a button to talk and uh the t. v.
+D :  Yeah the ten and fifth
+B :  T. v.s then sends out a little
+C :  No it could be quite control kind of thing
+C :  It required
+C :  Making names this particular sequence and then it gets activated
+C :  Means use it you should say like does that
+C :  Remote control
+C :  Being one
+C :  Or beyond
+C :  Kind of thing and then remote control comes in the picture for the speech recognition
+C :  Because this kind of thing means the speech is there from the t. v. also
+C :  So they should be something come on control
+C :  You start and then you stop
+C :  It's like we a bigger you are having to more similarly
+C :  Otherwise it's just line item
+A :  But then again
+B :  Okay so it could just got the master a pity
+A :  Sorry
+B :  Easy to uh use the mouse or
+A :  Um yeah
+B :  Thanks
+B :  Okay
+A :  There we doesn't work
+B :  Great
+B :  Okay so
+B :  Um well uh research in this this topic i first of all the sort of a couple things i would like to see in a remote and just the look to see if they're actually
+B :  Available in any kind of remotes and then also the search for
+B :  Which the top rated the remote controls on e. p. means talk on which is uh
+B :  Uh you know a customer
+B :  Now um written basically review
+B :  Site
+B :  So it
+B :  Um that's a pretty wide range of uh remote controls these days and and
+B :  Uh this remote control on the right here is is one of the more extravagant but it's not really
+B :  But no means uh
+B :  Me and at at on its own in being
+B :  So expensive they're a lot of expense of remote controls out there
+A :  Looks like a p. d. a.
+B :  Yeah that is well
+B :  Basically all the functions uh
+B :  Ah controlled through through the l. c. d. screen except for the really
+B :  Really kind of main functions which have a couple of
+B :  Of the round buttons
+B :  Um
+B :  And if you look at a lot of the universal remotes out um
+B :  On the market uh no work working on television remote but
+B :  Was universal is that they have a have a l. c. d. screens which
+B :  Kind of helps when you using multiple uh
+B :  Devices i suppose because you can have multiple kind of functions different functions on the screen at at different times
+B :  But um the thing i find most interesting about this remote control and it's kind of difficult to uh to see in a slide but
+B :  It has a scroll-wheel on it
+B :  Which is kind of like uh but i'm a scroll wheel which i think is it's a really kind of
+B :  Important design aspects um it's it's
+B :  "'cause" the thing is what uh
+B :  What we
+B :  The present this presentation that is what we want the remote control to actually do it and obviously the
+B :  The simplest
+B :  Thing the remote control does is it just change that change the channel
+C :  Change the channels yeah
+B :  No
+B :  Um
+B :  Uh d. i think that uh scroll was actually pretty a pretty penny way of of change the channel than a one i
+B :  Um what i use a remote to change the channel i a very you really use the numbers on the on the pad i usually use the up and down
+C :  Yeah yeah
+B :  Because most channels that you know you two digit
+B :  Numbers and you have to press you know a a special button to enter to do um and then the
+B :  Some uh so it's just that it's annoying so
+B :  Think a scroll wheel is is quite handy now
+B :  Um
+B :  The scroll is is much more useful if you have
+B :  An l. c. d. screen and
+B :  This brings us to the the point you were mentioning before about the internet uh
+B :  Capability
+A :  Uh-huh
+B :  One possibility if we
+B :  No we need to still talk about price point because of use a lot of stuff can be done for twenty five you uh your but
+B :  One possibility is to download programme information into the l. c. d. screen
+B :  So the instead of actually saying a wants uh you
+B :  I want to go to channel thirty seven because i know this programmes on you know off and you don't know what what channels already don't know what's on
+B :  If you have a list of of programmed an l. c. d. screen you just scroll for that program rubber band
+B :  To a channel
+B :  So if you think about is kind of like uh
+B :  You know mobile phones are you don't use you don't remember people's fun um be you remember the name in your
+B :  Fine and then and then yeah
+B :  So this would be pretty kind of
+B :  Anything to have but um we we really need to discuss the price
+B :  So it i mean oh it
+B :  There are uh
+B :  Chip it this is not the multi get that that's remote control where
+B :  It's it's
+B :  It's very simple there's only a few buttons but what each of those buttons does
+B :  Something different in a different context
+B :  So this is something else on it is really gonna limiting
+B :  The number of buttons "'cause" this is that operating our universal remote control or a meeting is
+B :  It it's really a may be worth thinking little evening
+B :  Number buttons as much as as possible
+B :  Um because really
+B :  I think people want to be l. to find
+B :  A button they looking for without even looking at the remote control and do more saying before but having different size buttons for different
+B :  Yeah frequently used uh cost so i think also it
+B :  You know application and then shape of the buttons is important but also at the number of buttons so if you have too many buttons it it it increases the
+B :  The difficulty of finding
+C :  But there's one problem means then the user has to understand
+B :  When you want to
+C :  Each of that functionality
+B :  Yeah we'll we'll
+C :  Because the same buttons clean too many things
+B :  Yeah well we'll have a bit of a simple uh a task in that we're only doing a a television
+B :  Remote control
+B :  Um i think maybe one option is to have you know that will fit but then um door that uh
+B :  But you have hidden mice the time that contains the extra buttons like say the number buttons for instance
+B :  Um
+B :  I eh i would if i had
+B :  My perfect remote controller but we decide the numbers are all on it because
+B :  They're just in the way they don't really do anything
+B :  Maybe you know i i although i do also find flip open doors a bit of a pain because sometimes they can break off or whatever
+B :  But maybe at all that you can you can family removal primarily
+B :  Have one would be good
+B :  Um
+B :  But i think definitely
+B :  You need to to keep the buttons down to a minimum but not
+B :  Not quite that kind of interfere with the functionality of
+B :  Of the device
+B :  Um
+D :  I think i think that that that the incision to use
+D :  To this new remote control it shouldn't be ready
+D :  They have looked pretty hard
+D :  Because what if people as c.
+D :  A remote see that see a remote control without numbers they were think it's very difficult to learn ready to go to
+C :  It is on
+D :  But it used to be a baby teeth into
+C :  Out of the trend
+A :  Yeah
+D :  That each other
+B :  Than a market it is here
+B :  If you have the right of those are showing now
+B :  How how easy to use and how you can you know i never get to programme with that numbers and people might say
+B :  That looks pretty easy
+A :  Okay can you continue is my
+B :  Um i guess it
+B :  I think um
+B :  One of the really gonna use all things you can do with with internet connectivity would be to have this uh program driven interface rather than the channel number
+B :  So if we can have a high priced uh remote control i think it would really be worth us on that would be worth
+B :  Implementing
+B :  Um and that's the l. c. d. screen
+B :  Um
+B :  Which maybe maybe it's too expensive um but
+B :  I think also the scroll-wheel haven't mentioned here the scroll-wheel could be used without l. c. d. screen just for
+B :  Changing channel numbers easily i think even that i mean that would be fairly cheap thing compared to also use going to implement
+A :  Hmm
+B :  Um i think it would be quite useful as well
+B :  And the other thing you say we need to we need to keep it just television but
+B :  I mean one maybe one option since this is pressed to be kinda fashionable device
+B :  Is you know there's a certain kind of cool well factor that you can kind of you can have with
+B :  Technology and maybe we wanna make it
+B :  Something that's
+B :  Extensible to do either task say you have like
+B :  Um a little uh not a little gonna base unit they can also receive signals of wills the television where you can say uh change the lighting in the room
+B :  Yeah that would be something maybe you could sell as an extra so that it doesn't have to be part of the initial
+B :  Development but you know later on you could
+B :  You can you know you also selling the potential of the device in use a potentially you can then do either cool stuff like
+B :  Change the lights and i close the windows what about a meeting on
+B :  And um
+B :  I think that that's something you we may need to have as it is at least as an optional extra did gonna make our product
+B :  Cool since we say we put in the fashion in electronics
+A :  Okay
+A :  Okay thanks
+A :  And then you want to go
+C :  So
+A :  Give me
+C :  So most of the things that you're discussing about the speech recognition uh
+C :  Means
+A :  It's um
+C :  I may or may yeah should be
+A :  Not that one
+A :  That's what you ought to
+A :  Okay
+C :  Okay so the working design is so
+C :  User interface could be of two things one is the usual those buttons which uh there
+C :  So that the user
+C :  Feeds that he's going doing some he's going about the technology
+C :  So he's pretty comfortable if you want to get this and one double the the the could be a speech recognition technology olds
+C :  Mean sitting on the
+C :  On the remote
+C :  Still the old kind of users would one want to have any changes it can
+C :  It can be useful for them
+C :  And the new users as uh
+C :  Our marketing expert was saying
+C :  They can use the new bits mortgages speech recognition kind of thing
+A :  "'kay" sorry to interrupt you but we've seen before that
+A :  There is a new way of tracking to choose a wheel
+C :  That's right so anyway that
+C :  Didn't come into my mind
+C :  That is a possibility these could be a lot of kind of interfaces
+C :  Means we can have depending on the cost how much we can afford
+C :  We can have different kind of interfaces
+C :  Just be buttons out of something which is really everybody's i mean the red so if you go to the market and you say that buttons out there
+C :  The people know what it is and on top of that if we are having next uh functionality
+A :  Uh-huh
+C :  That are willing to show that twenty five euros money which we're thinking
+C :  Otherwise we had just like others in the market
+C :  So anyway that is the first user interface could be off more than one type
+C :  And uh yeah that means we can do online changes which which can be done now actually
+C :  So apart from the speech we can have the scroll kind of thing
+C :  But the buttons
+C :  Not all buttons normal requirements like a big courting all those things are required
+C :  And for wise
+C :  Limited vocabulary automatic speech recognition system as a wide and really quite a microphone also to be sitting there on that
+C :  Remote
+A :  Yeah i think we just that the cost of
+C :  Oh that's right but uh
+C :  Means we have to see how much
+C :  What kind of microphones and stuff like that
+A :  You think that provenance of subsistence well enough to
+A :  But a lot of such technology is uh is enough
+C :  Oh yes if it is limited vocabulary
+C :  Usually to know
+A :  Okay
+C :  We we can uh um
+C :  That that means we can target ninety eight percent accuracy are so many so we
+A :  Well we could i imagine also that's the microphone it would be an ambiance
+A :  Um and that and then it's microphones because i'm not going to speak into it
+C :  That's right
+C :  Not it it could be a little bit yeah it could be
+A :  Continuum
+A :  So it could be
+A :  So if you cindy minutes
+C :  That's right that's right
+B :  The one one other thing that that
+B :  Speech recognition did really well at the price for is that when you wanna sell and what the market so the colours
+B :  I'm not sure exactly what we're gonna so was but the gym it's not just gonna be english speaking countries
+A :  Yeah
+B :  So then you have this you know you have to train models for
+C :  Uh it's more like means that the famous speech technology switch at existing so deeply the book would be kind of which is the easiest so you have to store some time but on the
+C :  On that
+C :  On the chip itself
+C :  And that it's just not make came up in where you try to find out what it is instead of having a mortal which is to be trained and being a micro controller
+A :  Okay
+A :  Okay we should we should discuss this later after after after this this it's like
+C :  Yep that's right
+C :  So we can
+A :  Is it this is it this is a very important to you should discussion
+C :  That's right
+A :  Okay next
+A :  Uh
+A :  It's finished
+C :  No no components
+A :  Components
+C :  So we go to the next thing
+B :  Yeah
+A :  Yes sure
+C :  Yeah so this is the design which we had thinking so
+C :  We haven't got a button and the search
+C :  But there's not much and then we are having the um but that does
+C :  We just to indicate whether the power is on or not
+C :  And then
+C :  That'll kind of things which can be so one is that button interface which has not been shown because because of lack of pain
+C :  So you can output that's than all the l. a. is that the court is sitting
+C :  Similarly there are different kind of interfaces which could be there
+C :  So there is a is our decor though which could be there and then there could be another scroll button scroll scroll up and then they could be buttons
+C :  And all of them they would just do that according and put it in the map
+C :  Or did and a problem message format and then there's the chip which is sitting
+C :  The green one
+C :  And it can watch it into big courts and that the courts are sent by the infra-red device to the receiver
+A :  Okay
+C :  So this is the easy is assigned they they could be sold
+C :  And inside the court or we can have things in that room
+C :  You have different technologies
+C :  So this was though
+C :  My personal preference was that we can have a star
+C :  Sitting there on the remote control
+B :  Yeah i guess you could actually train the remote control as you're using it by saying you know
+B :  Ten volume up and you press the uh press the button like uh people to use on line which a case of well
+C :  Yeah but ah as soon as you tried to put um microchip kind of thing or something that prize will go up
+B :  By speaking and then
+C :  So these are the
+C :  Slight problems
+A :  So you or
+A :  No opinion is that we should go for
+C :  Because
+A :  Function
+C :  Yeah the reason is that if we go into the market means no i don't have much idea but as you know a a marketing expert presentation was
+D :  I'm sure uh if you can say that
+D :  I speech recognition remote control for twenty five euros
+D :  Eddie oh hattie well we just we like it
+C :  So it is
+C :  But just a
+B :  Ah so she'll
+D :  Actually
+B :  "'cause" i'm in a well if i was using remote control to say to turn the volume up because i can't hear very well
+B :  I don't really want uh you you know you'd run out what people are saying by talking
+B :  You know one on one um instead of pressing up on the remote control unit this and this um dialogue all those are not icon here
+B :  I'm from actually fun it was things that so maybe speech recognition gets in the way more than that helps
+A :  Okay so
+D :  Yeah but
+D :  You know that
+D :  The average then quincy off by some bottom so it's a lot
+B :  Well depends if it's a remote control
+D :  It's a lot eighty eighty eighty patches that hour or something like that
+B :  Maybe if the remote control something that you you don't actually have to pick up any more that would be uh a useful feature the speech recognition if you can leave it sitting
+C :  Uh-huh
+B :  On the table and you don't actually have to find it then
+B :  No can use
+A :  Okay agenda and so we have to
+A :  Text and these decisions right now
+C :  Right
+A :  Um so if i if i kind of summarise
+A :  Everything we we we we say it
+A :  Well they're getting t. v.
+A :  We needs
+A :  Uh we need to have um
+A :  Um remote control which is fancy fancy
+A :  Which is a which is easy to to handle to scroll not too big
+A :  Um
+A :  We have a
+D :  With i would say for the
+A :  Well good shape yes we should bring new technologies for young peoples and uh as we have a also requirements to read to use uh
+A :  To push
+A :  To what the internet maybe just something we can stick to it
+A :  And um mm also bring testing sings i have seen them on on the one that's got a look at it or is this we we all that we can use to navigate
+A :  So
+A :  So my feeling is that it's
+A :  Rick regarding costs digits we have and and and target price
+A :  It's not possible to goals two l. c. d.
+A :  And also to go to automatic speech recognition technology is
+A :  Uh first and you wanted to go to has to be because
+A :  Um in fact as what they're getting a t. v.
+A :  In fact we can use a t. v. screen as
+A :  The screen
+A :  To feed back to to do some feedback informations about
+B :  Well depends ah
+A :  What we could have
+B :  Well it depends if we
+B :  We don't unless we have some input some video input to the t. v. or we have control of the t. v. then we can actually display that
+B :  Like if we if we produce the t. v. is then then yeah we can put you know menus up up there but
+B :  Otherwise we need to actually have some kind of something sitting in between d. v. d. a. signal and uh and the t. v. to superimpose that is this menu so that's uh an extra
+A :  Yeah that's right and not sure that we have contacts with people and t. v. or or c. c. d. you know so what systems that exist in use
+B :  Course
+B :  Well this is
+B :  This is a look but we still haven't really to find the remote uh we still
+B :  You say we're focusing on t. v. but the still
+B :  Uh kind of like a universal remote in that as a replacement
+B :  Remote control or is this something for uh remind of
+B :  Of televisions "'cause" that really makes a big
+B :  Difference "'cause"
+B :  Even if we have context we can't really produce remote controller can bring out menus on on the other companies
+B :  T. v.s it's just there are too many t. v.s that this is not really can
+A :  Yeah that's good point what's what we what could be the costs of uh
+A :  Well
+A :  Could we feed the the targets
+A :  Uh uh in front of cost
+A :  Uh if we goes two ways c. d. and uh remote control
+B :  For twenty five euro
+B :  I think it's impossible but
+C :  It's not possible it's possible
+D :  Yeah
+B :  And uh i think yeah um
+B :  You'll be good to know if there's any leverage in that any leeway in that town
+B :  The twenty five euro because for twenty five euro i think well we can really do with that but the very basic remote control and that seems to be kind of against
+B :  For c. d. or that company which is you know putting the fashion into electronics so i would
+B :  I'd like to know if there's any chance of of increasingly uh
+B :  Of increasing the unit
+B :  Price
+D :  What would be
+A :  So you mean do you mean we we should target something maybe which is which would be more expensive but there are a fancy intends to um
+B :  Yeah
+A :  Intends to had to have rarely maybe then you
+B :  Yeah because yeah
+A :  So we're done things a uh thirty speech recognition i think this is
+D :  What
+D :  But what do it well or so what would be the goal of putting an l. c. d. in our remote control
+D :  What what kind of information
+B :  "'cause" you can have things like the programme name instead of the channel numbers like an interactive program guy
+D :  But but most of the t. v.s
+D :  No way days
+A :  They have to
+D :  So they
+A :  The text
+D :  So they
+A :  Well because they have teletext on it
+D :  Then
+A :  That you have a teletext seen signal
+A :  That you can
+A :  That you can uh
+D :  Yeah but yeah most of the t. v.s have teletext know it's
+A :  That you can get through through the channel
+A :  They have to most of them have teletext but we wanted to get read well
+A :  One of our requirements is to uh to move to teletext to uh
+A :  To the use of the internet
+A :  So to to uh
+B :  In a lot more information
+A :  Two roles more easily that you text
+A :  For instance true uh
+A :  Through your remote control
+D :  So what would what would that be a team that even t. s. c. d.
+B :  So you could have the name of the programme you could have um
+A :  The time to start time all the all the programs you could have uh
+B :  That's that time you know where it's up to
+B :  You could have a live in a little in each of you know the the
+D :  Okay
+B :  You know the the the the main actors or something so you can't quickly just kind of even without reading
+A :  Uh i don't know this information is available from teletext or so
+B :  Well no but there are other electronic program guides
+B :  Oh yeah they may not have pictures but maybe they the there's the penny it also depends on the country
+A :  For the same reason that we can that's
+A :  Uh uh all the main formations on the t. v.
+A :  Sorry
+A :  We can work with and grab information information which is that there
+B :  No but i mean we've been saying of flexibility away you get your information from so it may be possible but there are
+B :  People at the providing that
+A :  So i mean do we need an an extra internet connection to use a remote control on roles
+D :  Yeah
+A :  In addition to the t.
+A :  Or should be a special to you can
+B :  Well i i think if we're gonna i think we would definitely need in fact action because
+B :  Even with you i don't you could even get teletext information from the t. v. on to the remote control especially if we don't control the t. v. i don't know we need to find that out
+A :  Okay we need to close the meeting
+A :  Um
+C :  But it just a small thing what kind of market we are targeting is it that we are targeting the replacement remote market
+A :  We're talking
+C :  A what
+C :  So there are more does one bad and the person wants to buy a new remote or because the cost of l. c. d. thing would be as high as the t. v. so
+C :  That is very important
+A :  No
+B :  If it's a really small t. v.
+A :  Go go through by you know as a remote control when they broke
+C :  Brock okay
+A :  Uh-huh brought to hold and they want to go for you'll also a one and they take the fanciest they can have
+C :  Okay
+A :  So this is that we it's that that we should talk it
+A :  So
+A :  The company's um
+A :  And uh the commitment is the following we don't go for speech recognition technology
+A :  The l. c. d. e. still on this get used to open to discussion
+A :  He sees up to you to go through these uh uh
+A :  Uh this way into to report
+A :  Report be back next meeting
+A :  So
+D :  I think that this is the relation to know you would be cheaper
+C :  Just
+C :  It's cheap there's computer that's it
+D :  Then the l. c. d.
+A :  Yeah but not sure
+A :  Maybe it's cheaper but we have no
+D :  Because with the l. c. d. you need more requirements and you need that internet connection and unit
+D :  More things but
+D :  First iteration you you don't need anything yes eight ten fifty and that's it
+B :  Well the thing
+B :  I think it ought the people that uh gonna wanna buy a very stylish a remote control what's new technology is the kind of people are we gonna have
+B :  You know what i was internet connection maybe or uh
+D :  But then we should move to another does it
+D :  Because i twenty five dollars it's
+B :  Is is what we need to find out can we can we increases the price part of this right control "'cause" otherwise we need
+C :  Twenty five euros is yeah that's right
+A :  Okay this is a good this is a double question for you
+A :  This is it up to you to tell us
+A :  But i mean this meeting that keen on
+D :  To move to know that does that
+A :  A two
+A :  No no no and that and if you need definitely not
+A :  Keen on going to speech recognition to adjust and that considered enough
+A :  I'm not sure of that
+A :  But we have a product ready that work
+A :  Yeah that works
+B :  It's kind of hard to guarantee that we gonna
+A :  Israeli
+A :  Audiences such preferences
+A :  Is very hot
+D :  I think the s. but the set
+D :  Ninety five percent
+B :  Ninety five percent is not good enough uh
+A :  Well just in
+A :  That isn't a very bad
+A :  So this is the end of this discussion next meeting uh you have the task you have to work and
+A :  Um so you have to work on the components
+A :  Uh concepts
+C :  Okay
+A :  Uh you have to work and user interface
+A :  And that you have to go through a trend watching
+A :  Okay
+A :  So
+A :  The question is to you
+A :  Open about this c. d. thing
+A :  Um that we i hope that next meeting we we do that we take some decision that they're true
+A :  Sex
+A :  But oh
+A :  Uh-huh
+D :  Uh-huh
+B :  Mm
+C :  Hmm
+B :  Uh-huh
+D :  Uh-huh
+A :  Mm

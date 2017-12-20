@@ -1,0 +1,530 @@
+A :  Okay
+A :  No it's
+A :  I
+A :  Oh alright
+A :  Okay
+A :  Okay
+A :  Um
+A :  Right
+A :  Uh as you all know we're here to create a brand new fantastic remote
+A :  Uh
+A :  I'm nick the bus county project manager
+A :  Um we'll just get started with everyone kind of
+A :  Leading
+A :  Each other know who they are and
+A :  What you're doing which are which are role is
+A :  Um
+A :  Go ahead
+D :  Okay i am current weighting
+D :  And i will be the marketing expert
+D :  And and use of the three phases i'll have a different role and uh
+D :  Function design phase
+D :  I i will be talking about user requirement specification and this means
+D :  What needs and desires are to be fulfilled and i'll be doing research to to get this out
+D :  And the conceptual design phase i'll be dealing with trend watching
+D :  And are we doing marketing research on the web
+D :  And then finally and uh
+D :  Um detailed design phase i'll be doing product evaluation
+D :  And so i'll be
+D :  Collecting the requirements of the ranking all the requirements to see how we did
+A :  "'kay"
+C :  I yeah i mean iron and i'm the user interface designer um likewise a three
+C :  Different goals for each stage design and the functional design is a teletext technical functions
+C :  Well remote control
+C :  And the concept design
+C :  The user interface have the usual reaction product
+C :  And the detailed design um
+C :  So like
+C :  The user interface i know what am i looking for that
+C :  Things like fashions
+C :  Well they should all all of them a special
+C :  That's right
+B :  Um my mild and on the industrial designer and
+B :  And this project um
+B :  And the functional design phase um well be dealing mostly with the requirements um
+B :  Discuss what
+B :  The problem what functions the the product has to fulfil sounds on
+B :  Um i suppose we'll work
+B :  We much together on that one
+B :  Um
+B :  Um in the conceptual design um i'll be problem most beginning of properties and materials um of our product
+B :  And uh the detailed design
+B :  And the detailed design out
+B :  Be concerned look and feel of it
+B :  Product itself
+B :  So
+B :  Pretty much working together
+B :  Well we see on the design
+B :  Frontier
+A :  Okay
+A :  Um
+A :  So
+A :  For opening our our agenda is the opening
+A :  Uh acquaintance which we've
+A :  Can it and uh i tool training project plan discussion and then closing
+A :  Uh
+A :  Grant or twenty five minutes we have here
+A :  Um so
+A :  We are putting together a new remote control
+C :  But
+A :  Um we want it to be something original
+A :  Um of course we're a
+A :  Not only in
+A :  Electronics company but eh
+A :  Fashion um conscious electronics company so we want it to be trendy
+A :  Um
+A :  And we want it to be easy to use
+A :  Um
+A :  You get
+A :  The functional design conceptual design
+A :  And detailed design
+A :  Um
+A :  Which
+A :  Basically is is the three of you
+A :  Um
+A :  And it's
+A :  Ah
+A :  Well
+A :  Um
+A :  Functional design um
+A :  Um
+A :  Do we have
+A :  Um
+A :  Any ideas of of
+A :  Maybe that's just draw some ideas of
+A :  What kind of
+A :  Remote control we want to have
+A :  And then we can go into how we're gonna design a mm
+A :  And how we're gonna
+A :  Do the detail yeah
+C :  Yeah well
+C :  Function remote villages just not change channels it's
+C :  Main function
+A :  So we want it to be
+A :  Um
+A :  A t. v. remote or i i mean do we want it to
+A :  To do other things besides just be a a television remote
+C :  Um
+C :  I suppose
+C :  Try like a universal remote
+A :  Yep
+C :  Click on all
+C :  So let's call
+C :  Products
+C :  In in one person's house
+C :  But you know they also want to send all changing
+C :  Channel volumes and programming
+A :  Okay
+C :  I think the working design principles well so
+C :  I don't know
+C :  Time is it just infrared yeah so not
+A :  I i think yeah
+C :  Yeah
+A :  Yeah route universal remote
+A :  Uh this is my first uh i'd go around with creating a remote control so
+D :  That's true
+D :  But
+A :  I think run the same boat here
+A :  Um
+C :  Um one thing i thought remote control is
+C :  You always lose it
+A :  You can
+D :  Hmm
+C :  So those would
+C :  Well i find it
+C :  Quite easily so i'm quite a quite a feature
+A :  So we should we should
+A :  So the remote control up to where it has a uh
+D :  Like a tracking device
+A :  Like a tracking device or
+C :  Oh you get those key
+A :  Or like out of that
+C :  But you whistle or make a noise and then we
+A :  It makes in a way is there's a button on the t. v. and you press and
+C :  Yeah
+B :  Right
+A :  "'kay"
+D :  Be good
+B :  So
+C :  Can we all the most sort of
+C :  Quite similar
+C :  In their parents
+A :  Yeah
+C :  It's long
+A :  Do we want
+A :  So there can uh like a lawn in rectangular we want something crazy
+C :  Yeah black usual
+A :  Yeah we want something new that's gonna stand out
+C :  Yeah
+D :  A more modern
+C :  I think so
+A :  On a modern
+A :  So our remote should be
+C :  Which circle for
+C :  All
+D :  Maybe like user-friendly like a little
+C :  Yep
+D :  You know where you can use both hands little keyboard to it then
+C :  People
+B :  Oh
+C :  I thought maybe
+C :  Because people isn't as a remote control that applies to well uh
+C :  It was in
+C :  A ball
+C :  And maybe actual control's inside as well
+A :  Okay
+B :  Well there of course certain restrictions you count
+B :  Have it be any form and fulfil all functions at the same time so other obviously some restrictions we have to
+C :  Yeah
+B :  Fine here um however
+B :  Um one question is how stable
+B :  Is that thing supposed to be a first to the material
+B :  Very much um
+B :  What are we gonna
+B :  But that thing out of house cherries are gonna be to be
+B :  Want
+B :  It to you
+B :  Last longer or
+B :  Well they have people
+B :  Whatever
+A :  Okay so
+B :  Have to buy one
+A :  Yeah so we want to be sturdy we want it to to hold up to somebody's
+C :  Yeah
+B :  Every half a year
+A :  Child
+A :  You know throwing it across the room or as you said people kind of throw it so ball shaped
+C :  Yeah
+A :  Uh
+A :  You know if it were ball shaped maybe in it
+C :  Could be case um now so and
+C :  They seem to be inside
+A :  Can
+A :  Um
+A :  So we want to be motto and pollen
+A :  Sturdy
+A :  Um
+A :  So are for men are function
+A :  Um we want it to be
+A :  Uh
+A :  Easy to find
+A :  Um
+A :  What else
+A :  What else do we want it to to do so we want it to be
+A :  Universal
+A :  Had something that we're supposed to sell four
+A :  About twenty five euros
+A :  Um
+A :  And
+A :  You know
+A :  Calls for profits are
+A :  I think somewhere around uh fifty million euros what they wanna make that so
+B :  If
+D :  Also sons were partners of the international remote controls so c.s and maybe we wanna make it something that would
+D :  Globally appeal
+A :  "'kay"
+D :  That's more on the research done that
+D :  The market and
+A :  Some marketing yeah
+A :  How maybe um
+A :  Marketing you could it's find out
+A :  What is the most universally
+A :  Um
+A :  Appealing remote control out there
+D :  Yeah
+D :  Maybe as far as design goes maybe we
+D :  Can have different ones for different target audience those
+A :  Can
+D :  "'cause" maybe one well apply to
+C :  Small
+D :  All of the country is we're targeting
+B :  Right
+A :  Um
+A :  You guys have any ideas for what it should look like me we could write up on the on the board over there
+A :  Some ideas
+A :  We want to be a bubble
+C :  At at at at control for the ball idea
+A :  You know we dropped will drop the ball and maybe um
+A :  Where the buttons are located
+C :  Or management is just simply
+C :  So so yeah
+C :  But maybe a
+C :  This is what is that's together
+C :  And when you open i'll go for about a flip flip phone
+C :  No wait for it at the middle
+C :  Maybe hinge of the strongest or not if we could use i mean judges two parts
+C :  And then you have
+C :  Shall i
+C :  You buttons
+C :  Things
+C :  Inside i think
+C :  Sometimes you know so too many buttons
+C :  So a very simple as possible
+C :  Um mm zeros as as possible
+C :  Um
+C :  And as the idea for
+C :  Just something maybe at idiap like some kind of
+C :  Or a light from the lights are on that
+C :  So a bit less trust also no no
+C :  To be there
+C :  But yeah
+D :  Futuristic
+C :  That as a as a simple idea i have
+A :  Uh huh
+C :  Either you know
+C :  You can show about
+C :  Right
+C :  And on off the likeable
+C :  So this is the idea i've learned else is about this
+B :  Right one problem you get with this design is um the balls a nice idea because of its stability rate but
+C :  Yep
+B :  Of course it's it's it's a ball a role so we'd have to
+C :  Yep
+B :  Have a flat on one side at least down here somewhere take away that part
+C :  But if yeah
+B :  That's one of the big issues also
+C :  Yeah that's that's a good idea
+B :  Also you risk the hinges here that's that's a problem
+C :  Yeah
+C :  Yeah they didn't have to sell it is
+C :  A nice
+B :  That's
+C :  That's just one yeah
+B :  That's
+B :  Interesting of course but that's of course a weak point yeah
+C :  Yep
+A :  How would we go about it um
+A :  Making you know
+A :  Getting rid of are we points what i mean but we just have a flat spot on the bottom the ball
+A :  Not to put you on the spots
+B :  No no that um
+A :  But it's
+A :  What did you say your title was again
+B :  Uh and your industrial designer
+A :  You are the
+A :  The industrial designer
+B :  So
+B :  Yeah but mm well the point is
+B :  Bad
+B :  Well maybe
+B :  I'll the shape is perhaps not the most ideal
+A :  Okay
+B :  As as stable as it is the most be a compromise between
+B :  Um
+C :  That's as a as a compromise use of design
+B :  Instability and design here so
+C :  I mean it
+D :  Uh-huh
+C :  "'cause" i think about the design i was
+C :  I can't think of anything other than a long that i know
+C :  The remote very small so fast ones but
+A :  Yeah
+C :  There's nothing in terms of of
+C :  The field
+A :  It's not new it's not innovative it's you know everybody does long remote because it's easy
+C :  Yeah
+C :  Yeah
+A :  It's it's stable um
+D :  Okay i'll draw something
+A :  So if
+D :  What
+A :  Yeah go ahead
+D :  My idea was just to have a
+D :  You kind of
+D :  Like uh
+D :  Keyword types it
+D :  You know like video games or so
+C :  Yeah
+D :  But maybe
+D :  I mean that would be kinda big and bulky we could also try to do the hands then circuit like flip out that way
+D :  I don't know
+D :  Okay
+C :  I think that's it is and
+C :  Different
+D :  Yeah
+C :  Is a good idea
+C :  I mean
+C :  Great design something
+C :  That's all like
+C :  Yeah
+C :  Suppose like this and it turns the same as on that would make the in the hand
+C :  He's yeah
+A :  Something with a grip
+D :  Mm
+D :  Yeah
+C :  Yeah we could
+A :  Yeah
+A :  Because even as posing with the ball
+C :  You still might be out so it's don't know
+A :  It's it might not be the easiest to hold onto
+C :  He's things all the
+A :  Um
+A :  So perhaps the
+A :  The joystick
+A :  The the the keyboard idea
+C :  Yeah
+A :  My work better
+A :  But then again people like to use one hand a flat than one hand to
+A :  Holder so what ah
+C :  Yeah
+A :  So maybe
+D :  Yeah
+A :  Maybe we
+C :  It's too at the thing is stephanie uh the bear
+C :  One on that
+D :  Mm
+C :  One on the job
+A :  I feel like and the shooting everything down here
+A :  Uh i i
+A :  Um
+D :  You're the boss it last
+B :  Well the one and the design you also have the
+B :  From of the size why "'cause" you know from cell phones that can be too small
+D :  Yeah
+A :  Yeah
+B :  The remote is too small
+B :  If it's small probably looks better but
+B :  May not be as functional
+B :  So for that is
+A :  Okay so
+A :  Four sorry we've got about
+A :  Five minutes here to come up with our
+A :  Um
+A :  Remote control idea and star role in with that
+A :  Um we talk about our experiences with remote control and um
+A :  We've got
+A :  Couple ideas
+A :  Um
+A :  See here
+A :  What if we had what if we had not only um
+A :  So we went with the ball the ball function
+A :  Um
+A :  But maybe we
+A :  Give it sort of grip so long the side
+A :  Um
+A :  To make it easier to hold onto
+A :  So uh
+A :  Yeah
+A :  Um
+C :  Yeah
+A :  So it's easy to hold onto that way course that all then remove some of our
+A :  Or ball unless this
+A :  Was this power were raised
+A :  So
+A :  Say the cover flips over covers that part
+A :  So the grip is
+A :  No that wouldn't work either
+A :  Um
+A :  But if we're gonna make it flat on the bottom
+A :  Than that a one a terrible anyways so if we were
+A :  Flat on the bottom and then had the
+A :  Sorta grips on the side here i guess
+A :  Um
+A :  And then
+A :  For uh uh
+C :  Mm
+A :  And then we have the problem with the hinge
+A :  So are for flat on the bottom it's not a role whales they were we want to
+B :  Questions also i don't know
+B :  You re always want to open the thing we have to use it
+A :  Mm that's true
+B :  It's probably going to lie round opened all the time anyway so i don't know of a laid is a good idea
+B :  From stability stability point of view
+B :  Uh it certainly is
+B :  But also
+B :  You have to face it and take into account the more all these things
+B :  Break
+B :  By accident
+B :  Um them all we sell
+B :  So it's
+B :  We'll make it
+A :  So we don't have a flip open
+B :  This table
+A :  We just have a ball
+C :  But then maybe
+C :  About three
+C :  It's something on those things and
+B :  Yeah the design
+A :  Okay
+A :  So then we forget the ball
+D :  Looks cool off with
+A :  It looks cool but it's really not
+B :  So they're still
+D :  If
+A :  It's not functional
+A :  Um
+A :  So we've got our sort of keyboard kinda
+A :  What if we flip it around here so that's
+A :  It were
+A :  Um
+A :  Sorry that doesn't look anything like that yeah there
+A :  Um so it up and down you hold it this way
+C :  Yeah
+A :  Of course and it's it's like the rectangular again the only with a couple it jetting uh points
+B :  Right
+A :  But it's one hinted
+A :  Um
+B :  Questions what makes those game pads
+B :  Functional
+B :  I think that's
+B :  Pretty much the form for
+B :  For the hand so
+B :  It's a round shape underneath that makes it comfy
+D :  Mm
+A :  Yeah
+B :  Makes it nice oh that's essential part except for that i think
+A :  Yeah
+B :  Well not probably not get we get away from
+B :  Longer design
+D :  Yeah
+B :  "'cause" you also have to
+B :  Know which way around to point this thing
+A :  Yeah
+B :  Well a lot of batteries
+A :  Because it doesn't have a chord
+B :  Right
+A :  Like joystick's do
+B :  Batteries go week as well so um after a while you have to pointed towards the
+B :  Touristy equipment you wanna control with that but
+B :  Tim
+B :  Show which is the front which is the back
+A :  Is it possible to have it to where it would work
+A :  With a like a sensor on either side
+A :  So that either way your point in a will work
+B :  I suppose you could do that
+B :  Well of course the more technology used again that the more will cost so
+A :  More expensive and
+B :  Which you can do
+A :  Okay
+A :  Um
+B :  And of course it will be added and after well uh if you look at it it will be out in which way around two point it's it's yeah but the numbers and the
+B :  And uh
+A :  True
+B :  The buttons and stuff but um
+B :  It's rather about an instinctual thing like just gravity on have just
+B :  Look at it you know which way around two point it
+B :  Otherwise the design of
+B :  Well the the point of putting
+B :  Two
+B :  Sensors on both sides um would probably work
+C :  It really designed in some in a way
+C :  That you know isn't alessandro
+C :  But still pointing to a direction that are definite point so that you think
+D :  Yeah
+C :  Yes um uh that instead
+C :  And this is unique you know which way in a voice in it
+A :  Yeah
+D :  Sorry to interrupt a wheel one in the finance yeah
+A :  Are we at a time
+A :  Okay well
+A :  Just finish up she was to go with this plan start making it so um
+A :  Are good ideas where that
+B :  Let's
+C :  Is it was a say from this is are we need to do from the reason i think
+A :  Uh
+A :  Must finish now so
+A :  And then margin will look and see what uh what people want to
+B :  Alright
+A :  Okay
+A :  Project manager will in design a better meeting for the next time i am be a little bit more rare
+A :  And uh oh alright good meeting

@@ -1,0 +1,1228 @@
+B :  Okay well
+B :  All sacked
+B :  Right
+B :  Oh i see a kind of detailed design meeting
+B :  Um
+B :  We're gonna discuss the the look-and-feel design user interface design and
+B :  We're gonna evaluate the product
+B :  And
+C :  For
+B :  The end result of this meeting has to be a decision on the details of this remote control like a sleek final decision
+C :  Uh-huh
+B :  Um i'm then i'm gonna have to specify the final design
+B :  In the final report
+C :  Yeah
+B :  So um just from from last time
+B :  To recap
+B :  So we're gonna have a snowman shaped remote control with no l. c. d. display new need for top bracket so if you're gonna be kinetic power and battery
+B :  Uh with rubber buttons maybe park lighting the buttons with um
+B :  Internal leds to shine through the casing
+B :  Um hopefully a job down and incorporating the slogan somewhere as well
+B :  I think i missed
+B :  Okay
+B :  Um so
+B :  Uhuh
+B :  If you want to present your prototype
+B :  Go ahead
+D :  Is it
+A :  Ninja home are made in japan
+D :  Um not be changes made um well at the expense g. and uh
+B :  Okay
+B :  Hmm
+D :  Uh it will be colour expensive to have open up that was a buttons the stuff inside so instead of thumb is that the l. c. d. screen
+B :  Uh-huh
+D :  Um the start of a of a b. c. one very small
+D :  Um that access the menu through the scroll wheel and uh confirm
+D :  And button
+C :  Okay
+D :  Yeah
+D :  Personalise it would seem to discussed last time
+A :  And there is an uh that it doesn't open up to the advanced functions
+A :  So the advanced functions are still hidden from here
+A :  But they're hidden in the sense that um the nine years
+C :  We really
+A :  Um then the l. c. and i don't know
+C :  Um right great
+A :  Okay "'cause"
+B :  So what what kind of thing uh it's gonna be
+A :  The l. c. you can adjust this place um function leeway doing choosing in advance function that like um
+C :  Right
+A :  Brightness contrast whatever
+C :  Okay
+A :  Are we just say
+A :  You know it's like it only has four columns it's very simple l. c. d. like
+C :  Right
+A :  Or as many the minimum amount we need that the usual automatically know like this is brightness is is contrast
+B :  Uh-huh okay so
+C :  Right
+A :  It might even be one a bit more complex l. c. d. panel with pictures like maybe the sound or
+C :  Okay
+C :  Okay
+A :  You know the the symbols of the various
+C :  Uh-huh
+B :  Right okay
+A :  Functions
+C :  And what is this yeah
+B :  Cool
+A :  That's a number pad
+C :  Okay so number pen is
+B :  Where we're gonna have the slogan
+C :  Okay okay
+A :  Um
+D :  Yeah just like
+A :  Along those yeah
+D :  And so it there
+B :  Okay cool
+A :  You have the space here and mean you have this thing on the side as well or at the bottom
+B :  Okay
+A :  The slogan c. g. quite small right they're not like huge so
+A :  There's
+C :  Yep
+A :  The buttons about say buttons about the size right
+B :  Okay
+C :  That's good
+C :  Yeah
+A :  So you would still have plenty of space for so and see that
+C :  Uh-huh
+C :  Uh-huh
+B :  So if this isn't a scale what kind of
+B :  That mentions are you thinking about here
+D :  Well one of the buttons you don't have to be if using the fingers are working
+B :  Uh-huh
+D :  I mean that be but the same size as time and
+C :  Okay
+A :  Yep so that would be a bus enemy or
+A :  For a button so one two three
+A :  For centimetres
+A :  Plus be hard
+C :  Uh-huh
+A :  Five
+C :  Don't know in total
+A :  Six seven eight
+B :  So
+B :  So and uh
+A :  But yeah nine to know
+B :  So we're talking about ten centimetres
+C :  That sounds good yeah
+B :  That would be kids
+C :  Yeah
+A :  Right okay
+B :  To ten cents we do some hikes okay
+B :  Um
+C :  And they get in fact a pen is about ten centimetres easily
+C :  So that would be that sounds like a really good size
+B :  Yeah
+C :  Do you see it there
+B :  That's great in this very bright as well
+B :  So um
+B :  Okay
+C :  Is it possible
+C :  That is gonna be the idea of colours is these are these the colours that a production
+D :  Um
+C :  This is just what you have available
+D :  We're gonna have again that this or for the for the um you know from last time it up when you bit about
+C :  Right
+B :  Okay it's adjust to do is list all the things that it does so so i can add on the report
+D :  Hmm
+D :  Um
+D :  That button and the colours read that sort of a problem when use as uh
+D :  And the power button to all the firm maybe two seconds i'll send a standby signal
+B :  Uh-huh
+D :  Um apart from that it's can be used as a confirm button for the l. c. d. screen and to use this is a don't know
+B :  Okay
+B :  Okay
+B :  So it's like an okay button oh
+A :  Oh we discussed how high it is but how why is it
+D :  I
+B :  Okay
+C :  How high is that
+A :  No i was in the height
+C :  Yeah
+A :  What about the way
+D :  Team five ten years
+B :  How old like that but the actual thing
+A :  Do we need five i don't think five
+D :  Hmm
+A :  You got three now
+C :  Okay
+D :  Yeah
+B :  I was just to get an idea scale from here
+A :  Yeah
+C :  Sure
+B :  Sure yes and uh okay so you can power on and off what else can you do it
+A :  Yeah
+C :  Yeah
+D :  Um you can skip straight the channel using these buttons
+B :  Okay
+D :  Um we're gonna have one control here and uh and because we've got the the l. c. d. and all that we just thought we'd then you start volume
+B :  Okay child uh for volume
+B :  What else to use a job to a
+D :  Um you can use it for um more advanced functions like contrast colour
+B :  Contrast
+B :  Brightness
+D :  Um mm yeah
+B :  Uh-huh
+B :  Um and finance
+D :  Um it's whatever else we want to include it in that functions and then i think that in specify the
+B :  Well uh if the designers what are they
+D :  Uh i'll open a t. v. d.
+A :  Okay things like um brightness contrast
+B :  Uh huh
+A :  Um
+A :  Maybe tuning the channels
+B :  Okay channel changing
+A :  Um
+B :  Skin on
+A :  What else um the very simple so you have a v. c. r. e. having you know which input do you have
+B :  Okay excellent right
+C :  Probably colour sharpness
+A :  Uh
+A :  Colour sharpness um a lot of these things we'll have to be um free and open for users to define them
+B :  So mm yes
+B :  Okay what about a a sound settings but can you change any that is at all
+C :  Oh yeah
+A :  What do
+A :  We have like your basic you base your mid-range a high range
+D :  Um
+A :  Um
+D :  I think what they have that the pounds
+A :  Uh for it um it's um maybe even preprogram someone's like
+B :  Okay
+A :  Um
+A :  The user could determine like a series of some woods and what could happen would be um when you click on that and
+C :  Uh-huh
+A :  We're good at setting
+B :  Okay
+C :  Okay
+B :  Is there in finances but can do a
+B :  That "'cause" that's that's fine just need to me so i can write a time
+B :  Okay
+B :  Um
+B :  Right it's like i guess that's it so we can i um
+B :  Or can i have a look at uh
+B :  The excel sheet and price this thing and see if we need to
+D :  Hmm
+B :  Um
+B :  If we need to rethink anything at all
+B :  So um for this task are here power wise of it but
+A :  The battery
+B :  Battery to have kinetic as well
+D :  Oh
+A :  No
+B :  No okay
+A :  Um
+B :  Just battery
+A :  We need uh
+B :  And that's because the cost restraints is ah okay
+D :  Yeah
+B :  Um what about the electronics there
+A :  Yeah vance chip
+A :  We need an advanced chip i think you can just go from that
+B :  Advanced chip
+A :  Yes i think so
+B :  Okay and the case was i mean by single and double to you know
+D :  Hmmm i mean singly speech are from one to oval or doubles the sort of thing
+B :  So we want double curved it "'kay"
+A :  Yep
+B :  Um
+A :  Plastic
+B :  Is there any rubber at all and the buttons and
+A :  I think we're gonna have to skip the rubber
+B :  Okay
+A :  Oh
+B :  Um and we want to
+B :  Special colours to me soft pop up a know it will how how many colours are not there
+A :  For the case itself one colour it's one special colour
+B :  Just one colour okay
+A :  "'cause" the case units of first american wants go on top of it
+B :  Okay
+B :  So interface wise is it this is there an option we have the two of them there
+A :  Yes
+A :  One and the l. c. display
+B :  Okay
+B :  And then buttons
+A :  I mean
+B :  We have all
+D :  No we have them
+B :  Two colours
+D :  Got some pushbuttons as well
+C :  Or even clear
+A :  We've got push buttons as well
+B :  Like always say a push button on integrated scroll-wheel push okay
+D :  Working got one button for this thing is just one big she rubber
+B :  Uh huh
+D :  Um not sure if that counts but
+B :  Okay
+A :  Okay that's just be safe and put like say four buttons for that one
+B :  Okay
+A :  Okay um
+A :  And maybe a special colour for them and so maybe four again
+B :  Four
+D :  And you were were already for younger
+B :  So well while you're writing it the number four
+B :  What is a number four come from
+A :  "'cause" that's one button but it's the complexity of twelve buttons
+B :  Okay right
+A :  So we just estimating that yeah would be less
+B :  Sir and and for
+B :  O. k. a.
+B :  But these are wanting them and
+A :  No
+B :  No but as a as a everything gonna be plastic okay
+B :  So we're who quite for over
+B :  Arrogant something's gonna have to care
+B :  Um we're at sixteen point it
+B :  And
+C :  How
+C :  Uh-huh are we going to eat she used this high-end product of
+B :  What we had something has to go to the chain of two point three
+C :  We only have very sparse
+B :  Euro
+B :  So
+B :  And we see what are we
+B :  I mean
+C :  Two point three four point three hmm
+B :  Oh yeah sorry four point three mm mouse is on
+D :  Well we could take a wonderful meeting is single curve just so that that's
+B :  Yeah
+C :  And then where is it
+A :  How much would that save us
+B :  How much of that so this
+A :  No he's if you one the other thing could be that um you could take away the l. c. d. and on a bus trip together
+D :  Yeah this one
+B :  One
+A :  Um because when you
+A :  Do something on the t. v.
+C :  Hmm
+A :  The t. v. responds every x. as well
+A :  So the user if you look to the t. v. and pushing this thing so we may not need to
+D :  Right yeah
+C :  Uh-huh
+A :  So when we scroll we need to some way to get the t. v. to respond
+C :  Uh-huh
+B :  Okay so you
+C :  Uh-huh
+A :  Which i think is a technically doable thing so
+C :  Uh-huh
+B :  So what thirty eight suggestion um take away the l. c. display
+A :  And the advanced chip goes away as well
+B :  To be replaced with a regular chip
+A :  Regular chip
+C :  Uh-huh
+B :  Okay
+A :  So what that means is that
+B :  And so we've got point three each get rid of
+B :  Um
+B :  I mean where the for the for the pushbuttons are where exactly nine
+A :  The twelve buttons that you see there
+B :  Twelve buttons
+D :  Assembled is a rubber base can have twelve buttons and any so
+B :  Yeah
+A :  Function you have to
+A :  And set so forth a good estimate for
+B :  Do you think
+A :  Yeah
+A :  You can actually cut
+A :  It's like three times the number buttons for it twelve
+B :  I guess
+B :  It's not one big button or is it twelve buttons
+B :  Hard can it be something in between
+A :  It needs to be
+A :  More than one big button because
+A :  You're gonna be a form and then if there's actually one button underneath it says that that kind of self it's
+C :  Uh-huh
+B :  Mm
+A :  Single i know
+C :  Uh-huh
+B :  Okay well we have point three together just somewhere
+B :  Mm
+A :  Just report that has to be over budget
+C :  Uh-huh
+A :  Or the colours you could take a waste colours for the for the buttons
+B :  No it can be
+C :  Yeah we could just go with um
+D :  Yeah
+A :  Normal colour buttons
+B :  What do you want colour differentiation here
+A :  No that's not a button were talking about that's the buttons only refer to the pad so
+D :  Uh-huh
+B :  Oh yeah sorry uh
+B :  Right so
+A :  Take that off
+B :  I'll
+A :  It's factor show
+A :  Um so then these just become normal clock buttons
+C :  Uh-huh
+A :  That might be some some way of putting the cost
+B :  Okay i have to see
+B :  And
+B :  Right
+B :  So today that completely
+B :  Small
+B :  An hour and a budget
+B :  So we do have point five euro to play with that we wanted to
+C :  Uh-huh
+B :  Um
+D :  So i can
+C :  How about with them boss in the logo is not going to cost us some money
+B :  Doesn't say say
+C :  Yeah that's a freebie
+D :  I can uh probably kinds of a special form for buttons
+A :  Yeah
+B :  Yeah that's a good idea
+B :  This one
+B :  Does that mean no one button has a special form or
+D :  Like moment is just one button to twenty
+B :  Yeah
+B :  Okay
+B :  Well larry good so on this comes to reach for this nice we're not gonna have the l. c. d. anymore would just gonna have on on to on the t. v. or so you are doing that i think it's fair enough
+B :  And so this is gonna be one big thing here
+B :  Um
+C :  Was the goal in your
+C :  In your prototype design it'd be as a low profile as possible
+A :  I mean like profile
+D :  Yeah
+C :  Sort of flat as possible
+D :  Then they should of thing i'm quite deep sort of did not be completely important and one being boring flat
+C :  Yeah
+C :  Yeah i was thinking
+C :  Sure okay
+A :  We didn't have enough data to make it
+C :  Yeah alright yeah yeah
+C :  Okay just uh yeah
+A :  First one one dimension to the thing which we needed to add and you might want an inner life with and height
+B :  Right okay
+B :  So
+B :  Just uh well to be fair then with wise we're looking at about what three centimetres or something
+B :  Okay and then so
+B :  Hike why is
+B :  Hide hide talking this is you doing
+B :  About that okay
+D :  Yeah okay
+B :  I like to send to use okay
+C :  She's not very high dollar
+C :  Use a higher
+A :  This is about this is about to
+A :  Slightly more than two
+D :  Tape
+C :  Yeah
+D :  But i think
+B :  Okay what's that is
+C :  Maybe closer to three or three yeah
+B :  Yeah
+B :  Okay i was was it two point five
+B :  Okay
+B :  Um so you have a within cost anyway
+B :  And say oh yeah project evaluation is this point
+B :  Um
+B :  Right
+B :  Uhuh
+B :  Okay so can we
+B :  So is that this is what it's
+B :  The final status gonna be
+C :  Uh-huh
+B :  So i was gonna have to
+B :  Yeah that's fine that's fine
+C :  Um
+C :  It's probably just
+C :  Yes it's worth getting into
+C :  But um
+C :  Just an then uh we will this be stylish which we think a little bit more out of the box in terms of a button grade
+C :  Because i've seen there's lots of devices that there that that instead of taking your standard nine nine square grade and have it sort of stylised and different concept that that
+A :  I think that's something that's very hard to catch
+C :  Yeah
+A :  So you you restrict the number of people wanna try something
+C :  Sure okay
+A :  The the look and the colours something which is call
+C :  Yeah right
+A :  I think there's also that factor of
+A :  It's too and familiar
+C :  Okay sure
+A :  And
+A :  Um because when you put on the shelf
+C :  What about buttons shape square buttons
+A :  Yeah button shaped might be a good idea change
+C :  Okay
+A :  Rather than rather than positioning "'cause" i mean positioning is
+C :  Sure
+A :  We're gonna bring into the the telephone kind of
+D :  Yeah
+C :  Yeah
+B :  Okay
+A :  Handy
+B :  Right
+B :  Um
+B :  So at this point we uh
+B :  Mm see
+B :  Discussed uh how satisfied we all are with um
+B :  At least four points with the room for creativity in the project and
+B :  Leadership and teamwork have
+B :  To stuff we have sure around this i guess
+C :  Okay
+B :  Um
+B :  Yes he
+C :  Do you mean it um
+C :  Um
+C :  Hmmm to me to do my um design evaluation last
+B :  Yeah or a share what that was
+A :  Maybe we should do the design evaluation first
+C :  Hmm
+B :  Yeah
+C :  Evaluation
+B :  Take it that fast as an entirely sure what uh
+B :  Use this reading that but
+C :  Okay
+C :  Sure
+B :  You you go for it
+C :  Um alright so the way this works so i'm going to plug in the powerpoint
+B :  Okay
+C :  I'm trying to this quick as possible
+B :  Okay
+C :  Um
+C :  So is um on the school we're headed that's okay
+B :  Yeah
+A :  I don't think you need to parse ho-ho
+C :  Was that
+A :  No it's okay okay
+C :  I don't need powerpoint
+A :  No the power cord itself
+C :  Oh it's course that's true
+A :  Yeah so then you have
+A :  Freedom to
+C :  Hmmm bit more
+C :  Okay
+A :  He used to using h.
+C :  So
+C :  What this is the sole for us to um
+D :  Yeah
+C :  Uh use kinda like a
+C :  The ideas that set up over here all of the um the point of discussion
+C :  From the beginning can use that as a criteria evaluation for the
+C :  Um
+C :  Uh for the current design and the the plan and uh sweet a really that
+C :  Uh i think it's gonna end up being for elementary because
+C :  When
+C :  We're gonna probably use it to change anything that
+C :  Doesn't seem like it's going
+B :  Oh yes
+C :  Yeah okay great
+C :  Uh and i'm gonna write up r. results on the boards as a be way for us to go through and
+C :  Decided for um to review where we stand
+C :  Okay so
+C :  Um
+C :  To sort of bring together two things are design goals and also the market research so we have uh we rate this one is high in in succeeding or fitting to our original in and seven is well okay
+B :  Okay
+C :  So the ease of use it uh there and then we then asked to have a
+C :  To collectively rate is so we can use trying just to work on a consensus system so
+C :  Which is kinda in agreement
+B :  Okay
+C :  Okay so the first one there
+C :  Stylish look and feel
+A :  Or it that pretty handy
+B :  Oh yeah any compared to most remote controls you say that's pretty days
+D :  Yeah
+C :  Yeah
+B :  I was never have to six or something
+C :  Yeah um
+B :  What is anything else and
+C :  Yeah my only reservation that was that we basically one and yellow because it's the company's colour
+B :  Hmm
+C :  And i don't know if yellow's gonna really be hit
+B :  Hmm
+B :  Okay
+D :  Jim five
+C :  Do you guys think
+B :  I would say five or six
+C :  Okay
+B :  Good
+A :  Yep montana
+C :  Okay that's good five and
+B :  Okay
+C :  Four oh yeah it's actually the opposite
+A :  It's one to seven right
+C :  See you
+B :  Oh yes sorry um but i would say two or three
+C :  C. n. n.
+C :  Three okay
+A :  Wait what's the scale one to seven right
+D :  One side of it
+B :  Yeah
+C :  Yeah one is high
+D :  Ah
+D :  Okay get a three
+A :  Okay
+C :  Two point five then
+C :  Okay um
+C :  Control high tech innovation
+B :  Well that's only job data but
+C :  We had a remove
+C :  Yeah
+C :  So we'd have to remove few of our features you wanna do that job done
+B :  Mm
+C :  To
+B :  I'd go with
+A :  It's a it's more it
+D :  A three
+B :  Three or four maybe three
+A :  Medium but going to what the little bit higher than medium kind of thing
+C :  Okay
+B :  Yeah the three okay
+C :  Three
+C :  Okay um
+C :  Star flights a fruit inspired
+C :  Colour design
+A :  And then
+C :  Shouldn't say colour but just
+B :  What kind of
+A :  Okay the blue the blue colours and don't we're actually represent the colour except for the the the red button they pictures for whatever
+D :  Yeah
+C :  Right
+C :  Yeah
+C :  Okay
+B :  But the i mean it could be a lemon yellow colour it could light up
+C :  Right
+C :  Yeah it could be yeah
+A :  Yeah they they yellow is more representative of a colour but the button this off the blue can be anything else
+C :  Okay
+B :  Yeah
+C :  Okay so too
+B :  Uh-huh
+C :  Okay and um
+C :  Design a simple to use some point features
+B :  Yeah i mean it's really basic making is nine like give an area one
+C :  Yeah
+C :  Yeah this
+C :  You guys think
+D :  I mean one
+C :  Yeah one okay
+A :  That's fine
+C :  Um
+C :  Soft and spongy we achieve that we use mostly plastic in the end it's going to be quite
+D :  Yeah there are five
+C :  Bit of a compromise for price
+C :  Five
+B :  By
+B :  A three do well
+D :  Like you said plastic to bother me
+B :  Yeah space
+C :  Mm that's
+B :  Mm "'kay"
+C :  Hmm
+A :  Yeah company logo
+C :  Could really is an entirely rubber frame to
+C :  As an option
+D :  Yeah but increase the cost of them got
+A :  I mean it would be cost prohibitive
+C :  Would cost more than plastic
+D :  I think what ten cents left uh
+A :  Yeah
+C :  Okay logo we got in that way
+B :  Yep
+B :  Can have the on the side and then there's something
+C :  And um it's within budget yep
+C :  This is a
+D :  Yeah
+C :  Okay so we can say than to uh
+C :  Um possible
+C :  Or would be a
+C :  Cool here
+B :  Under forty nine yeah
+C :  Yeah the forty niners with zero being highest
+C :  Yeah uh-huh to use so many
+C :  Yeah and
+C :  Fifteen point five
+B :  Pretty yes
+C :  So
+C :  Pretty good
+C :  Translate to something like
+C :  And uh
+C :  Approximately seven eighty percent
+C :  Efficacy
+C :  Of our original goal
+C :  Right
+B :  Uh yeah
+C :  I think "'cause" if you turn that into the
+C :  A hundred
+C :  Would be about
+B :  Twice that's
+C :  That's thirty one
+B :  About thirty one
+C :  And then infer that it's
+B :  So yeah well yeah but sixty nine seventy percent yeah
+C :  Oh right that's seven
+C :  Indeed
+B :  It's pretty yes
+C :  Okay good i was just a little formality for us to go through
+B :  Okay
+C :  Yes oh hundred pound hand
+C :  Sorry
+C :  Right
+B :  Maybe thoughts on this day i
+C :  Uh-huh know
+A :  Cameras that
+B :  Is that you all all finished to
+C :  Yeah that's that's me i did have one other um one other frame i thought i mean i i
+C :  Not knowing how we we deal with this information i thought okay oh
+C :  In c. read is kind of process would be that refining our design revisiting original goals
+B :  Oh
+C :  It's not gonna need to push through but i thought
+C :  Two thinking more about the dimensions um
+C :  Sort of like more three-dimensional shapes as well as opposed to just that
+C :  Flat um
+B :  Uh-huh
+C :  "'cause" our design of a series of colours that is more like a line we have like sort of a
+C :  I dunno like the hardest line of the vibrant i don't know something
+C :  Whatever just something you know we have different phones lined
+C :  Green one and
+B :  Okay
+C :  It's just discussion i mean i was doing just abandon this is fine
+C :  Um just thinking about what we were considered yeah
+C :  Um
+B :  Right
+C :  Yeah so there so
+B :  Okay great
+B :  And i it's leading the
+B :  The um evaluation criteria or um i dunno instructions of thing
+C :  Um mm
+C :  I think to record it and uh i can ask just a minute yeah yeah
+B :  Okay uh
+B :  This one if i need to include in the minutes because if you're sitting in any way okay
+C :  I will yep
+B :  Okay great
+A :  Do you think
+B :  Cool
+B :  Um right
+B :  Uh well next that then because it and fine downs
+B :  Is the project evaluation
+A :  Okay i'm i'm this thing and just can incorporate the logo winter the
+D :  If if if that
+B :  Uh okay
+A :  The thing so one thing that the play doh as well
+A :  Just in case you wanted
+A :  See something with play-doh
+A :  Just a thought
+A :  Well you you go
+D :  Like
+A :  So thing
+B :  Right
+B :  Okay
+B :  Um
+B :  Well do you wanna um
+B :  Just individually say you think about it
+B :  About use four points and and all these four points my four point sorry
+B :  No no
+B :  Cool uh different uh
+C :  I like this project he was that was that the two little buttons like that's
+B :  Uh the uh and uh
+C :  Yeah it's really crack
+B :  Right okay
+C :  Yes
+B :  Um yeah here we are uh a
+B :  As an uh what do this
+B :  Alphabetically
+B :  Hand through the summer had true
+C :  Sure
+C :  Um so what is it you're asking me now
+B :  I think there is any opinion on this for these four point three and how are we
+C :  I sort of our work on settings so
+B :  Use them
+B :  Yeah
+C :  Hmm
+C :  Well is it okay well that's good to your system and the the room
+C :  Uh
+C :  Is
+C :  Really institutional
+C :  But um the main thing is i think
+C :  Um
+C :  I use the space is more just a report on things as opposed to be creative and
+C :  Construct a minute
+C :  Would probably help too
+C :  Um have a sort of a cue know the the fact of we have ideas that we come back in any ideas are still in discussion
+C :  You know as in other words is this really sort of a sender point of creativity
+B :  Uh-huh
+C :  Where's in reality is it onto this is not reasonably created it's more just uh
+B :  Wouldn't do you feel it that that you're able to have quite a lot of creative input into the
+C :  Did the dating
+C :  Yeah yeah but that's just a thing is the question in terms of the the first point or the room
+C :  It does uh the creativity goes on with the enemy come here and we kind of
+C :  Put other ideas and then
+C :  Yeah
+B :  I i'd i'd i syrian as in this room think it means that you know
+C :  Oh
+C :  Oh alright alright okay room for it
+B :  Yeah
+C :  Oh i just look at and so okay whiteboard digital pens the room
+B :  Really
+B :  Uh yeah
+C :  No of course yeah
+B :  But it could be i mean it means um any means t. t. v. a. v. remote to get rid of and that's the
+C :  Sorry
+C :  Yeah
+C :  Yeah i i i'll keep on um yeah diff answering the question uh
+C :  In those terms i'd say that actually
+C :  There's sort of the keys of creativity because or as to
+C :  Work through this but actually
+C :  The guidelines are fairly can try it in terms of
+B :  Uh-huh
+C :  Um
+C :  Okay
+C :  Fashion trends a fruit vegetable colour scheme but then uh then we'd want to use a cab company
+B :  Hmm
+C :  Company colours so it really we're told okay um
+C :  Thinking of style and look and feel in technology but build something for twelve and a half pounds
+B :  Okay
+C :  So actually the creative use more and more like uh
+C :  Um
+C :  Sort of um
+C :  From l. a. than than actual
+A :  If you like a cage to within
+B :  Okay
+C :  Yeah within the constraints the
+A :  Or whatever you
+A :  It's like a balloon in a cage you can go so big it's not hit the side the constraints to come in very fast
+C :  Yeah
+C :  Yeah
+B :  Okay so i actually let's take each point and everybody discuss the anything at its is still on the topic of room for creativity
+C :  Yeah
+B :  Uh next on the screen
+D :  Um
+D :  I agree with this point um
+D :  It's it's gotta find their go through and then you start at the end can go right to a kind of thing i "'cause" without a might
+B :  Yeah
+A :  Yeah
+C :  Yep
+A :  Adding another point is that the meetings um i'm more brainstorming sessions then meeting so
+C :  Yeah
+A :  Time is also they just um strong factor in structure
+B :  Yeah
+C :  Yeah
+A :  Because for brainstorm meeting you wanna structures that
+A :  Allows you to allows ideas to get tossed
+C :  Hmm
+B :  Mm
+A :  Um to be evaluated and reviewed and if you can come back
+C :  Yeah
+A :  And i guess that point about the room not being a refrain need to that i think
+C :  Yeah
+C :  Yeah
+A :  That's a very big thing i think that were wearing these things
+C :  Yeah
+A :  This tricks
+C :  Sure
+A :  I feel i "'cause" i wear my glasses right and that like that
+B :  Yeah
+A :  Irritating you write it in it does actually you know affect
+C :  Yeah
+C :  You can really
+A :  How we believe you comfortable to communicate i feel i am hiding behind the equipment
+A :  Run an increment is
+A :  Helping me and you know
+C :  Right
+B :  See and i'm more relaxed atmosphere would be more gonna can use it to create a store there
+A :  Not not so much and and as you damages very relaxed but
+B :  Yeah but actual environment
+A :  They're big deer
+C :  I
+A :  Yeah you know it creates boundaries to that
+C :  Hmm
+A :  Um and and the time the time given also
+B :  Okay
+C :  Uh-huh
+B :  Okay
+A :  Restricts
+B :  For years and what applied leadership
+B :  I don't know if that means like
+B :  If i get kicked over something i don't really know
+A :  Um
+C :  Yeah well well
+C :  I mean my sense on a sort of what kind of
+C :  Guidance and direction uh encouragement
+B :  From like your personal coach press and stuff like that
+B :  Think maybe it
+C :  Yeah from in you as well the thing
+C :  Just an acting team leader
+B :  Okay
+C :  Um
+A :  Yeah
+C :  Yeah i think i think it's i think it's good i mean my personal views on
+A :  She's me
+C :  On leadership was uh effective
+C :  Effective leadership sort of um gives people a certain room for freedom delegation but then come back something that they take great on a show them
+B :  Uh-huh
+C :  Yeah innovative i thought we have in in reality i think you're the the different elements of leadership such as the original briefing on and uh a personal coach and uh
+C :  And then you know having having you with your the meeting agenda is actually quite a quite uh
+C :  Quite a can confining framework to work with them
+A :  Um
+C :  And so it is leadership was the point of
+C :  Sort of this and power and uh
+C :  The um the team member so
+B :  Uh-huh
+B :  Okay
+C :  But it's not bad leadership as a sort of very strong
+C :  It turns it turns individual in the more like uh
+C :  Um so the predetermined mechanism as opposed to
+B :  Sitting maybe a little too controlling
+C :  To the free
+A :  Um
+B :  Or or
+C :  Yeah well yeah without without a doubt
+A :  I think controlling is not the right word i think the interactions of a structure i think structure is probably what you're saying that each individual structure to one particular task
+C :  Yeah mean okay confining
+C :  Yeah
+C :  Yeah
+C :  Yeah
+C :  Hmmm uh-huh
+B :  Okay
+A :  You want to that rather than controlling um yes as a control "'cause" what decisions have been mean in terms of uh
+C :  Uh-huh
+C :  Uh-huh
+A :  Like consensus right we go around and me think about it but
+C :  Uh-huh uh-huh
+B :  Uh-huh
+A :  That
+A :  You know process actually says you have to do it in the same way
+C :  Uh-huh
+C :  Uh-huh
+B :  Okay
+A :  It doesn't tell you you know some is you might wanna be a bit more creative in terms of
+A :  The process you know not the
+C :  Yeah
+B :  Okay
+B :  Uh at what about teamwork
+A :  Um
+C :  Um
+C :  Do you wanna commit
+D :  Or that that was a bit hard because we can only discuss things in the meeting
+B :  Yeah
+D :  If he's got some ideas setting up could talk that would mean a lot easier
+C :  Yeah
+B :  Okay
+A :  I mean you tried to use the common sure for that to to to to communicate but
+C :  Later
+A :  Um it just comes back to us also all in the email
+B :  Mm
+C :  Yeah
+A :  Um it it doesn't have a
+A :  You know um the mess in the room
+C :  Yeah
+B :  Did it did you get the email i say a half or as i mean it's like a pear okay
+A :  Yeah
+C :  Yeah cutting yeah
+B :  Okay
+B :  Um so and just to summarise the teamwork a shape sign if we could to make a a inside the meeting
+B :  You know it's like quick questions quick thoughts whatever it probably would be
+C :  Yeah
+C :  Yeah in it
+A :  I think that tools that they were given the tools that uh given to us a fancy but they don't support collaboration i think that's the word don't support the team working together
+B :  Bit easier
+C :  Uh-huh uh-huh uh-huh
+B :  Oh right okay
+C :  Yeah
+C :  Yeah i mean if you
+A :  You know they're still very individual tools
+C :  Yeah i mean sort of taking upon that idea with the way i see that's it is that it's uh
+C :  The this the structure in which we if we approach this whole task is quite contrary to the principle of teamwork
+C :  Because the the tasks were and the
+C :  Sort of um divided
+C :  And then the work went on in isolation i i don't know you guys did well you're together maybe that was a bit different
+B :  Hmm
+C :  But um
+A :  So it off button
+C :  Yeah but um but actually if you if you imagine that entire be completely same task given to us an asset okay
+C :  First thing we have to do is come up with um
+C :  That's a um a design concept and we secure to get in do that
+B :  Yeah
+C :  Well that's good teamwork it's just to say okay go off and don't a teacher is actually the sort of predisposes you to quite
+B :  Yeah
+C :  The contrary it teamwork
+B :  Okay no
+C :  I'm not the we haven't done i think the best we could have done
+B :  Okay
+C :  I'm not dissatisfied with uh
+B :  Right uh adding us to um to work at all
+A :  No really
+B :  Okay and what about the you know how we used the whiteboard digital pen and
+B :  The project or stuff like that
+B :  And did anybody think i think it's a really useful and pre and
+B :  And supportive
+C :  I think the whiteboard for me it's a kind of thing i would use all the time but it's uh um
+C :  Not quite as
+C :  Useful as fast as it could've been maybe use in the way that we if we use it in the sense that once we have an idea out there are well work was going on in between meetings
+C :  That could have been
+C :  Up on a board uh you know as opposed to in like
+B :  Mm
+C :  In text
+C :  Um
+C :  And then we could then keep our ideas sort of building on that i know that people would design
+C :  Cars and you know in aviation me quite often just have a simple like fibreglass prototype
+C :  And it's completely
+C :  You know um and abstract from the final product that they use it as a kind of a context to sort of walk around puzzling
+B :  Uh-huh
+B :  Yeah
+B :  Hmmm point that
+C :  And pointing discuss and and anyway everybody's as we discussed things in in theoretically and i never know but we're just we're actually just each of us discussing something that you need your own mind it wasn't until we had
+B :  Yeah
+B :  Yeah
+C :  This year you know like a one for happy to cross um at it craig's paper on a mike now i know what he's thinking "'cause" i saw i use but
+B :  Um
+C :  But the the ball whiteboard could actually been is kinda continuing
+C :  Um
+B :  City think producing a prototype earlier and the process would've been a good idea
+C :  It could be yeah
+A :  I mean um the the focus of it a lot was a powerpoint as opposed to the to the whiteboard anything that that
+B :  Yeah
+C :  Yeah yeah
+A :  Um it's also those
+C :  Yeah
+C :  Yeah yeah
+A :  You know in the same things i think it would be cool to have the white board rather than
+C :  Uh-huh
+A :  The
+A :  The powerpoint or maybe the whiteboard and a powerpoint the same place
+C :  Yeah
+C :  Yeah
+B :  Okay
+A :  You know in the senate uh
+C :  Yeah this is the powerpoint was provided to us well we had time to prepare
+C :  Whereas i can imagine yeah fighting encouraged to use paintbrush for example or whatever i would actually used it
+B :  Huh
+C :  Um
+C :  But you know "'cause" "'cause" that's sorta how we what we were set up to you to use well we have the time
+B :  Okay
+A :  I think and they were too many powerpoints in the meetings
+B :  Uh
+D :  Yeah
+C :  Hmm
+A :  Supply gonna pointing spend a whole we sell off time doing that and a lot information on the powerpoint
+B :  Yeah
+C :  Yeah
+B :  Yeah
+A :  I don't think
+A :  You know when you get to that you could have we could've gone through and the rubber is to see my size i thought that and you just
+C :  No
+C :  I'm quite
+C :  Yeah
+C :  Yeah
+B :  Okay
+A :  You know this was having the present them
+C :  Yeah
+B :  What about the digital pens chief and then easy enough to use
+D :  Oh yeah that's clunky
+C :  Sure yeah
+A :  Yeah yeah
+A :  Candy
+A :  Agreed
+A :  I
+C :  Yeah yeah
+B :  And t. u. k.
+B :  Um
+A :  Having to take it before you go off was it in doing as well "'cause" you halfway through a small and then you run of paper and then you have to john
+C :  Hmm
+B :  Yeah
+B :  And i think that the very start to die hi
+C :  Yeah
+B :  Like rosa rita stuff didn't click new point one then went back in route one tiny thing and you another page but then take it made its own quite where it i've written over the top of that or something but i have my paper anyway
+C :  Mm hmm hmm
+B :  And i'm haven't done that sense
+A :  But i think the pen is it is very intuitive everybody knows how to use it we don't have to worry
+C :  Uh-huh
+B :  Yeah
+B :  Yeah
+A :  Oh i think the pens good
+C :  Uh-huh
+A :  But the best thing
+C :  But on the top a good technology just occurred to me that we actually did need to move our computers because each computer has all the files
+B :  Yeah
+C :  Just occurred to me that they all
+A :  Yeah we'll need one computer hmm
+C :  Are we actually need one computer
+B :  Yeah
+C :  If they have they have you have to could just been sitting there ready to go the whole time
+B :  That's true
+D :  Good point
+A :  And the computer or may not
+A :  Um be conducive to a meeting because
+C :  Yeah
+A :  Um you tend to look at your computer and wanna have the courage to
+C :  Yeah
+A :  Check something
+C :  Yeah
+B :  Yeah
+A :  Yeah it's useful but
+B :  Today be computers is provide distraction and waiting
+A :  I think too many things this is just distracting
+D :  Yeah
+B :  Okay
+A :  Um
+B :  Uh i like to have them trained on the front of me actually like a lot of the stuff that was email to me i ended up in a writing down there somethings like a look at really quickly and not have a distraction of all of that
+C :  Hmm
+C :  Yeah
+C :  Uh-huh
+B :  And job or anybody else
+C :  Uh-huh
+B :  Um
+B :  What else uh
+B :  Any what i did a a sure that it when it's a new ideas find
+B :  Um
+D :  This project
+B :  I can erase it could think of that anything else so we've been helpful
+B :  Today
+B :  That's cool
+C :  Well
+C :  Do you mean one for me is that to
+C :  The process
+C :  Yeah and in that role of context
+C :  Would not have been
+C :  Interrupted by this necessity
+C :  To this communicate ourselves
+B :  Mm
+C :  From each other
+B :  Yeah if we decide uh
+C :  So that that's kind of a new idea for me is like this or that idea well you need to kind of
+C :  Hard to keep
+C :  Working forward on a team a team based project when when you told
+B :  Uh-huh
+C :  You must now work
+C :  Away from it
+B :  Yeah
+B :  I i'd i think it's quite good that we had time limits on the meetings because they're really could've run on on my friends of meetings is that the really do
+C :  Oh yeah
+C :  Yeah
+B :  You can spot a lot of time code much the only thing is there like when we have our meeting about the conceptual design i thought there may be another fifty minutes it'd be nice well there but
+C :  Yeah
+C :  Hmm
+B :  Um
+B :  Yeah
+B :  Oh is it
+B :  I think maybe if we were called in work in a name and it essentially like
+B :  Every or something everybody make sure you in you know just have a have a short meeting and then this
+C :  Uh-huh
+B :  Could just to have like something written time just like you know a a milestone if you like
+B :  Um but it is and
+B :  Having meetings that
+B :  Do you um
+B :  So in closing
+B :  I haven't got my five minutes to do think that it
+D :  It's
+B :  Five minutes ago
+B :  Wonderful
+B :  And i am are the costs in the budget yes they are
+B :  And it's a project evaluated yes it is
+B :  So my salary mm
+C :  So
+A :  And we have in in the home or
+C :  See now we
+D :  Oh yeah
+B :  Well partly know i write the final report would be testing on
+D :  You don't want to
+C :  I don't know
+B :  Eugenia
+D :  Oh wow
+B :  That's lovely
+D :  Yeah president on
+C :  We did you call it
+A :  Means though
+A :  See it looks like homer simpson
+A :  But it's electronics so it's made in japan
+B :  So is that it is that just is that just an idea or is it do anything
+C :  Well yeah
+A :  Yes just a look cool
+B :  It's still a day and then like
+A :  In your home
+B :  Ninja than the right okay
+A :  The the red is supposed to represent the
+A :  Whatever else you wanna print on the side of it
+C :  Uh-huh
+B :  It's quite right
+C :  Fashion technology guess um
+B :  So this
+A :  You can wear a home or you can throw home or when you first rate but
+B :  Uh it's close um kind of an slightly guess that that we couldn't get plastic and rubber i think that would it be nice
+A :  It's okay
+C :  Yeah yeah
+B :  Oh no
+B :  Maybe for now i'm real reaction to get this more money
+A :  Oh where did learn something you to do is useful
+C :  Huh
+B :  I think it's
+A :  No it is it is it is useful and in in in in in in um conceptual i sing in been creative
+B :  Great
+A :  Is that you say something you can put your hands on and feel and touch
+C :  Yeah
+B :  Yeah
+A :  In a sense for like we were playing with they do and the ideas came with the play-doh all
+B :  Get the
+A :  Rather than with everything else you might wanna write that down is just i'm just going in the film yes
+C :  Yeah
+B :  Okay
+B :  Play the
+C :  No it's true yeah
+D :  That's right it's just males
+B :  Yes well senators no
+C :  It's an plate is actually the edible and then
+B :  Um
+A :  Oh play-doh was edible
+B :  Yeah it's tougher uh
+D :  I think of non toxic and it's like two euros
+B :  I think it has to be uh
+A :  It's just we as the stuff that you mom could make with preserve isn't no
+C :  Uh-huh
+B :  Yeah and say it's it what what are your summarising word like later
+A :  It's helpful to the creative process
+B :  Okay
+A :  Um i think it is corey a sense it's not just
+A :  Your sight but your sense of feel a sense of touch and it helps you understand
+C :  Yeah
+C :  Taste
+A :  I mention as well i think that's very helpful because it
+B :  Yeah
+C :  Yeah
+A :  It's that's that pop up whereas on a piece of paper on a computer on board
+B :  Yeah
+C :  Uh-huh yep
+A :  Um you know if it really graphic thing
+C :  Yeah
+A :  It's still requires a lot of
+D :  Yeah great kind of
+C :  Mm yeah
+B :  Uh-huh
+A :  Tangible that's an expert
+C :  Hmmm uh-huh
+A :  Becomes tangible
+B :  And double
+B :  Okay
+B :  Uh
+A :  Mm uh-huh
+B :  Mm and and designing else
+B :  You need to discuss
+B :  Uh that's about it really
+B :  To say stay like this or
+D :  It's
+C :  Do we which we to another
+C :  To continue our
+A :  I think we could probably do that here as long as we don't
+B :  And
+C :  Reporting live
+B :  Well i dunno um i'm sure that all that
+A :  Elaborate
+C :  Uh-huh
+B :  Little thing will pop up in a minute my
+A :  Trying to a smart
+B :  Yeah yeah if the meetings a very then yeah it's
+C :  Mm
+A :  And my microphone has no signal
+D :  If
+B :  Oh
+A :  Which would explain why
+D :  Hmmm the thing we know these are
+A :  You don't get a nice seven
+D :  The minutes
+A :  Yeah right because the power so
+D :  Yes on blank
+C :  I think than that i have to run at first get any more instructions to have a know
+C :  Yeah
+C :  It's really cool i can see that
+C :  We're talking can see my own voice
+C :  On uh
+C :  You really want
+C :  Oh

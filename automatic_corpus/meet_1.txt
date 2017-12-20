@@ -1,0 +1,548 @@
+D :  Mm
+B :  Morning
+C :  Mm
+A :  Mm
+D :  Mm mm
+C :  Hmm
+C :  It's
+C :  So it's
+C :  Okay
+D :  Wouldn't it
+C :  Oh
+C :  Well i don't think it has to be
+C :  Okay
+C :  And you have to have just a man
+C :  Okay
+C :  Um there
+B :  So we uh we wait for
+C :  Yeah
+B :  A few minutes
+C :  Yeah um
+D :  Uses order
+C :  That you can put in you you want actually
+D :  You read the the mike schneider
+C :  It's informatics no mic in it
+B :  To work on this
+C :  Mm
+B :  Well i will try to
+B :  Yeah my presentation right
+C :  Yeah
+D :  Yeah
+C :  Finance
+D :  Okay it's yeah
+B :  No matter
+C :  See
+C :  Well
+D :  And press uh
+D :  This
+D :  You know
+B :  Just right
+D :  All all
+B :  More
+C :  On a fine
+B :  Don't appear on the screen yeah
+D :  Right
+D :  Well
+D :  Amazing it's weird
+B :  Thank you
+B :  Ah
+A :  About
+B :  Yes and we can clip it to know
+B :  Where
+A :  Mm "'kay"
+A :  Mm
+B :  So
+B :  Good morning everyone
+B :  Um
+B :  Welcome at uh at the kick-off meeting uh for uh
+B :  Based project
+B :  I hope you will uh been uh a date about it
+B :  Good
+C :  So
+B :  So we will try to structure this the meeting with an uh with an agenda uh uh
+B :  Yes presented here
+C :  Uh
+B :  Um
+B :  After the opening we will
+B :  It's quite it's too
+B :  It's all there
+B :  She was or
+B :  Roles are in this project
+B :  So uh um
+B :  We have been provided with this um uh
+B :  Technical tools to uh
+B :  To communicate and to
+B :  Well we learn from each other's plants uh
+B :  Yeah i can say
+B :  Um so what
+B :  We'll also try to uh
+B :  Get acquainted to least tools so there are also new to me i don't know where you work with them before
+B :  Um
+B :  Then we will come to be ugly
+B :  To actual project plan and all know what i hope whole it's about uh idea new
+B :  Remote control we're going
+B :  Going to design
+B :  Uh then we will
+B :  Uh discuss uh
+B :  Well what should be in uh
+B :  What what so what our new product should look like
+B :  Like
+B :  And uh well then uh offer some twenty five minutes i hope uh okay okay
+B :  Sure
+B :  Yeah um
+B :  Basically this is about the uh in new remote control
+B :  Um
+B :  We
+B :  When you design a new product you off by of course want it to be original be the we want to be distinguished
+B :  People
+B :  Oh uh
+B :  One two uh one a look at the shelf or to think well
+B :  That's the product that i need
+B :  Oh it needs to be trendy
+B :  And trendy is what people want so they know they will buy a product
+B :  But then they uh huh
+B :  It also should work uh
+B :  User-friendly
+B :  Uh all the lights people uh uh well
+B :  It will not be uh
+B :  Be rated very well in consumer our article stuff like that
+B :  So the general outline of
+B :  Uh
+B :  You project will be we first uh go through a functional design phase
+B :  Um
+B :  You all get um
+B :  For the task uh
+B :  In these uh in his face and
+B :  Uh
+B :  Then we will meet again and uh discuss the functional design
+B :  And the same
+B :  Holes for
+B :  The uh
+B :  Two faces uh
+B :  Offer this the conceptual design
+B :  And
+B :  Often does have a more detail design
+B :  In which the final project should get
+B :  Different shape
+B :  Alright but first we will do some uh tool training
+B :  In all in front of you uh
+B :  You see uh they're uh
+B :  No it looks and will but not not blocks and we have here a
+B :  Okay
+B :  He a white board
+B :  And um
+B :  Well it should work uh i've read it from my uh uh
+B :  From from college
+B :  It should work with some kind of toolbar it didn't find out yet i would work but
+B :  Maybe one of you did so
+B :  Um
+D :  And the documents in the shared folder
+B :  Yes
+B :  Do do we have to say something about that i. e. i. e. and not for little bit about this shared folder
+D :  Yeah i guess we'd have a shared folder
+D :  Uh with the commands that can share
+B :  Yes well we will
+B :  Then
+B :  Find out what how it works
+D :  Yes
+B :  Um
+B :  Well this seems to me us some computer program but i didn't find it yet
+B :  So
+B :  We'll come to that later
+B :  So
+B :  Uhuh
+B :  Now we will try out the whiteboard we've here
+B :  So
+B :  Hi
+B :  Would suggest uh
+D :  It shows
+B :  Well yeah so um we uh
+B :  If you try to
+B :  To draw on it and then
+B :  Well it should be smart some way you hate
+B :  Not really
+B :  Sure how this works but
+D :  Okay shall i start
+C :  Yeah you can set it you know
+B :  Yes that would be uh
+A :  I think for us is is like a normal whiteboard
+A :  But are we recording
+A :  Oh i got them
+C :  Now the the court so that there's a sense so that it is going to record the strokes
+A :  Mm
+A :  But for us it's just like a little while board
+B :  Okay
+C :  Mm
+D :  It's
+D :  Actually i think i can go with the
+B :  You you
+B :  Doesn't it work
+B :  Maybe some um and maybe maybe yeah maybe you can start and you can maybe find out
+B :  Discourse right
+A :  Not to draw
+B :  So um
+B :  Why don't you draw uh
+B :  Your favourite animal on the whiteboard
+A :  Right they are animal
+A :  First of all time yeah yeah
+B :  Oh i see uh
+C :  Yeah
+B :  So drops we will try to get a lot of these
+A :  Either that or or
+A :  We
+A :  Mm
+A :  You know can get a guess from my drawing
+A :  Uh better and
+A :  But you have all the way
+A :  Right
+A :  Um plus side
+A :  Get set it to animal
+A :  Like a cat
+C :  Yeah
+B :  It's like a cat so i guess it's cat
+A :  No i like at that
+B :  What
+D :  You want a nice
+C :  Yeah
+C :  Well i think it's fine
+C :  And that don't want to put it off
+C :  And this will have no
+C :  Really the wireless
+C :  No
+C :  Especially should next what we should take to like that
+B :  So
+A :  Sorry
+B :  That's to get
+A :  It's only gets a dog
+B :  It's a dark
+A :  Yes
+B :  So those are that's also kind of
+C :  Although not doesn't have a a look
+A :  It's got to ellen
+B :  But but the others
+C :  Yeah
+C :  True yeah
+A :  Yeah
+C :  And that's all about circuit
+A :  So the cats
+B :  Did you are
+A :  That's load up
+C :  Yeah
+D :  Yeah i think it would go we don't
+D :  But that it
+D :  Right
+B :  Okay
+C :  You can still a text template it's not top of that
+A :  Yeah yeah
+A :  So you got characteristics
+A :  Oh that was fairly and loan fun
+A :  What's
+C :  It's the costs
+A :  This is what you would the design a
+A :  My marketing
+B :  Yes yes
+B :  Yes definitely or
+B :  Yes well very good
+B :  So
+A :  Ah
+B :  It's both
+C :  Ah i think you can put that mm
+A :  Uh-huh that's a
+A :  I should
+C :  This is the
+A :  A blue and black separate
+C :  Huh
+B :  Yes
+B :  Can you can meet again after i think
+B :  A good
+A :  Very rare blue separates yes
+C :  All of that
+B :  Yeah and nephew
+C :  That's going to get rid of my
+C :  And it's
+D :  Mm
+C :  Uh
+C :  Mm hmm
+B :  Mm yeah
+A :  You got a lot of rain here you probably
+A :  Rich
+B :  I hope you have some space in the air a beep or so far
+B :  You
+A :  Not a good dog
+A :  Um
+A :  I'm else
+B :  It's looks like it
+B :  Get was been driven over
+A :  Oh i guess
+D :  Yeah
+D :  And we should sum up it's so it carries characteristics right
+A :  Uh-huh
+B :  Yes the most uh
+D :  So
+B :  That's that that leak that
+D :  Yeah
+D :  I mean it is
+D :  They like to sleep that's where you said you know
+D :  There are like this
+B :  It's quite uh
+B :  Relax stipulation
+B :  Yes
+B :  Yes okay
+D :  He has a small legs
+B :  Thank thank you miss you
+D :  Thank you my dear
+A :  He rats or a small
+D :  Oh right okay
+B :  Yes this this says in uh
+B :  Some contribution to our project
+D :  And your name
+A :  Use it
+B :  So uh-huh
+D :  Mm
+B :  Let's see
+B :  With them all
+B :  Not being drawn yet
+B :  So you fold wrong land that um also one as well
+B :  And all the water
+D :  Uh the
+D :  Okay in the water
+A :  Oh right
+A :  But not that is
+D :  Mm
+A :  That had to guess
+D :  Yeah
+D :  Pretty close maybe to the help
+A :  Yeah
+B :  Yes
+C :  Yeah you use
+D :  With different pen widths
+A :  Uh-huh
+B :  So
+A :  But the shock yeah
+D :  I to shock yeah
+B :  Well we have one or
+B :  Yeah yeah
+C :  Is it a shot to me
+A :  Mm
+C :  I think that uh
+D :  It
+C :  Yeah i
+D :  Uh
+A :  No it's the swordfish
+B :  I don't
+D :  You have some in a in a straight yeah alright
+A :  So it which
+D :  Yeah
+A :  Uh
+D :  I don't know
+A :  Maybe
+A :  And at the same one uh
+B :  Nope still works
+D :  For so i don't know if we need to spend time on that actually
+D :  Yeah
+C :  Oh well
+B :  Well this uh
+B :  It still seems work
+D :  Yeah exactly yeah
+B :  That's continue
+B :  To uh huh
+D :  Well
+B :  Um
+B :  Our project uh
+B :  Fine as uh
+B :  I think uh when we are
+B :  And when when you are going to design where we must keep in mind that's
+B :  Be selling price of the product
+B :  Uh will be about twenty five euros all
+B :  When
+B :  Designing a product uh
+B :  I also look at you uh
+B :  Well
+B :  Keep in mind uh
+B :  People up
+B :  What to get a feeling this is a twenty five euro project
+B :  The programme
+D :  The remote control yep for our product
+B :  Yes okay
+B :  Um
+B :  More interesting for our company course but a profit aim
+B :  About fifty million euro
+B :  So
+B :  We have to sell uh
+B :  Quite a lot of this uh
+B :  Um things
+B :  Uh we we will try to uh
+B :  To get at the international market uh so will that will do you think maybe
+B :  You're up and uh and our um our cat
+C :  Or a certain amount or maybe
+B :  Maybe some uh asian countries
+B :  Um
+B :  Also an important role is um
+B :  The the product the production cost be a
+B :  Next small uh
+B :  Twelve uh twelve euro fifty cents
+D :  So it's
+D :  Hi of of the selling price if i am good in mathematics
+B :  Yes of course uh um
+B :  I mean we still have to uh to make a process huh
+D :  Of course
+C :  Yeah to say like this will really in the middle so
+B :  You all have to be based
+C :  Oh yeah committee had a selected for million to make a little of it
+D :  Alright but it it must have to
+D :  I
+D :  Four million
+B :  Tall ah well i think what when we're working on the international market uh
+B :  In principle of have an of customers uh so when we have a good product
+B :  We are we could to me case this aim i think
+B :  So that's about finance
+B :  And uh
+B :  Now just let's have some discussion about
+B :  What is a good remote control
+B :  And uh well
+B :  Keep in mind is this first points to have to be original to have to be trendy have to be user-friendly
+B :  Um
+B :  Maybe someone
+B :  Can mention some additional
+B :  Oh uh prerequisites for a tooth remote control
+C :  Of course it should have a on a button
+A :  Uh-huh
+B :  Yes well uh it should have p. d. d. d.
+B :  Expected functionality uh all all the remote control
+C :  Yeah that's and that it depends what application you're using it for you might need uh
+A :  Uh-huh
+B :  We're we're thinking television uh
+C :  We have to have targeting the television set so
+C :  You need to a colour cannot
+B :  Uh-huh
+C :  Do you need to mm
+C :  Dolls the
+C :  Close it
+C :  Channels enough for government great
+B :  Yes
+B :  Yes that that that's a any i i always makes it an old form remote controls that you can go channel up or down in instead of retyping the number especially when you have a lot channels
+C :  Are in there
+C :  Yeah
+D :  I just be for studying uh detailed discussion maybe we you have the marketing guy uh well uh
+A :  I'm marketing
+C :  Are are good it's
+D :  So it yeah marketing
+D :  And you line you you user interface
+C :  Yeah
+D :  Um design
+D :  They just yeah wanted to to be sure uh i'm "'s" a
+D :  But then just really designer okay
+B :  Yes
+D :  Because i i don't know you very aware actually right okay okay
+C :  I am at two we have all
+D :  I don't mind
+C :  But it
+D :  Happy to meet you
+A :  And uh
+D :  Okay is very
+C :  And
+B :  And i'm number
+C :  Oh my i had to yeah well i think you you normally yeah okay yeah
+D :  Yeah
+D :  Just a new web page but uh yeah but uh
+B :  So
+B :  Um
+D :  Face to face
+D :  So
+B :  Some other very important
+B :  Things to to to
+B :  Well
+B :  That's fine is first face
+B :  Soft project
+B :  Oh the browse function
+B :  As in
+C :  And uh
+A :  But mm
+C :  You'd need the usual ones like the training the one you could mean there
+C :  Well uh channel and um
+B :  Yeah
+C :  You know it could do we have a
+C :  Mm
+C :  The teletext and all those things tomorrow or you might have a some more functions which right um tool that
+A :  Mm
+D :  Like what it's like internet on the uh
+C :  The uh i. p. or
+A :  Mm
+C :  Now we are looking for
+C :  Television
+C :  Things or a p.
+C :  For example
+C :  But still we did a corner and all the stuff that coming up
+A :  Mm
+A :  But we carry design "'cause" i'm it hasn't been amended yeah
+C :  Well it's it's it's it's coming up back to the the poster video recorder and all those things we did yeah
+B :  Well uh i i think
+D :  Actually yeah
+B :  You know so you should i think i think is over uh with a special uh what
+B :  What functionality
+D :  Of course and first before um designing the for the wireless think you know what the functionalities that we need to know what are the user requirements and
+A :  Yeah
+D :  And then you they need internet then would be able to to to propose something with that
+D :  Uh a t. v. although i p. but before
+A :  Ninety percent of the time ninety nine percent of the time you'll be using the main functions the volume
+A :  A different channels so i
+A :  We can have a look fancy things as well but the main controls e. d. t. d. i. l. p. isn't very easy to use
+B :  Uh-huh and keep keep in mind you to use it at twenty five euro unit
+B :  So
+B :  Uh it it it does very fancy stuff uh
+B :  We we can leave it out i think so twenty five euro you expect eight
+A :  Mm
+B :  Quite
+B :  Well normal but good functioning
+B :  User-friendly remote control
+C :  All in that case it can be a little top it there
+C :  Someone with a weighting that that you know
+C :  You will use those that for the customers your product to them you know
+A :  Mm
+D :  Maybe what we
+A :  Which i get to be made
+D :  We want to design a new one
+C :  Yeah
+C :  No it's okay yeah i had the steps so you need some number in but that's um teletext things and then the um
+D :  Yeah
+D :  But you the main use it draws and
+B :  Yes but but but about uh about the spec uh the buttons
+B :  The buttons uh that will be on it
+B :  I think we can discuss that in in next meeting
+C :  Yeah
+B :  Uhuh
+B :  I would
+B :  Like two
+B :  Get this wrap up and go to the end of this meeting
+C :  Okay
+C :  Okay we are under mm
+D :  Okay
+B :  So you know now the basic
+B :  The basic things
+C :  Yeah
+B :  And
+B :  Well just just for the next meeting now um
+B :  L. o. uh
+B :  You were you have to work on a designed to keep in general i mean
+B :  So we'll we will be still select flexible with
+B :  Maybe adding some functions
+D :  Uh-huh
+B :  Uh um
+B :  You will we working on on
+B :  Technical function design so
+C :  Yeah sure
+B :  And uh
+B :  You when you add uh uh
+B :  Uh well think about requirements uh does it need instead off or do do we stay at
+B :  Basic
+B :  Basic television uh
+B :  Interface
+B :  So of uh of you
+B :  I think we should know all go work uh uh
+B :  At this and uh
+B :  You will be informative i email one other kind of complication
+C :  The case
+B :  So next meeting will be in uh in thirty minutes in
+B :  In mind
+C :  Yeah
+B :  Okay

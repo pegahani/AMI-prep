@@ -57,9 +57,15 @@ class manage_meeting:
         _meeting_id = self.get_meeting_id_by_name()
         file_name = self.root_resources[_meeting_id].attrib["observation"]
 
-        for key in self.get_participants().iterkeys():
-            words_files.append(self.file + "/words/" + file_name + '.' + key + '.words.xml')
-            segments_file.append(self.file + "/segments/" + file_name + '.' + key+'.segments.xml' )
+        if self.corpus_type == 'MAN':
+            for key in self.get_participants().iterkeys():
+                words_files.append(self.file + "/words/" + file_name + '.' + key + '.words.xml')
+                segments_file.append(self.file + "/segments/" + file_name + '.' + key+'.segments.xml' )
+
+        elif self.corpus_type == 'AUT':
+            for key in self.get_participants().iterkeys():
+                words_files.append(self.file + "/ASR/ASR_AS_CTM_v1.0_feb07/" + file_name + '.' + key + '.words.xml')
+                segments_file.append(self.file + "/ASR/ASR_AS_CTM_v1.0_feb07/" + file_name + '.' + key+'.segments.xml' )
 
         return (words_files, segments_file)
 
@@ -92,8 +98,15 @@ class manage_meeting:
 
     def generate_text(self):
 
+        file = None
+
         # write dialogue on txt file
-        file = open(self.meeting+'.txt', 'w')
+        if self.corpus_type == 'MAN':
+            file = open('./manuel_corpus/'+ self.meeting+'.txt', 'w')
+            #file = open('./test_corpus/' + self.meeting + '.txt', 'w')
+        elif self.corpus_type == 'AUT':
+            file = open('./automatic_corpus/' + self.meeting + '.txt', 'w')
+
 
         # a minimum timer among all participants
         total_time_pointer = 10000000.0
@@ -104,39 +117,84 @@ class manage_meeting:
 
         segment_xml_length = {i:self.count_segment_length(segment_roots[i]) for i in self.participants}
 
-        #timer on each participants that shows which time of speaker we are analysing at the moment
-        time_pointer_on_participants = {i: float(segment_roots[i][0].attrib['transcriber_start']) for i in self.participants}
+        if self.corpus_type == 'MAN':
 
-        #a couneter on XML childeren that indicates where we are during the dialogue transcription
-        counter_on_segment_xml = {i:0 for i in self.participants}
+            #timer on each participants that shows which time of speaker we are analysing at the moment
+            time_pointer_on_participants = {i: float(segment_roots[i][0].attrib['transcriber_start']) for i in self.participants}
 
-        #for i in range(20):
-        # if we get at the end of all speaker segments xml file
-        while cmp(segment_xml_length,counter_on_segment_xml):
+            #a couneter on XML childeren that indicates where we are during the dialogue transcription
+            counter_on_segment_xml = {i:0 for i in self.participants}
 
-            total_time_pointer = 10000000.0
+            #for i in range(20):
+            # if we get at the end of all speaker segments xml file
+            while cmp(segment_xml_length,counter_on_segment_xml):
 
-            for key,value in time_pointer_on_participants.iteritems():
-                 if counter_on_segment_xml[key]<segment_xml_length[key] and value < total_time_pointer:
-                    total_time_pointer = value
-                    total_speaker_pointer = key
+                total_time_pointer = 10000000.0
 
-            tempo = segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]][0].attrib['href']
-            if Counter(tempo)['('] == 2:
+                for key,value in time_pointer_on_participants.iteritems():
+                     if counter_on_segment_xml[key]<segment_xml_length[key] and value < total_time_pointer:
+                        total_time_pointer = value
+                        total_speaker_pointer = key
 
-                (start_word, stop_word) = self.get_words_interval_for_speaker(tempo)
-                _phrase = self.get_word_interval(start_word,stop_word, word_roots[total_speaker_pointer])
+                tempo = segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]][0].attrib['href']
+                if Counter(tempo)['('] == 2:
 
-                file.write(total_speaker_pointer+' : ' + _phrase+ '\n')
+                    (start_word, stop_word) = self.get_words_interval_for_speaker(tempo)
+                    _phrase = self.get_word_interval(start_word,stop_word, word_roots[total_speaker_pointer])
 
-            #update time poniter on total time pointer
-            counter_on_segment_xml[total_speaker_pointer] += 1
+                    file.write(total_speaker_pointer+' : ' + _phrase+ '\n')
 
-            if counter_on_segment_xml[total_speaker_pointer] < segment_xml_length[total_speaker_pointer]:
-                time_pointer_on_participants[total_speaker_pointer] = float(segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]].attrib[
-                'transcriber_start'])
+                #update time poniter on total time pointer
+                counter_on_segment_xml[total_speaker_pointer] += 1
 
-        file.close()
+                if counter_on_segment_xml[total_speaker_pointer] < segment_xml_length[total_speaker_pointer]:
+                    time_pointer_on_participants[total_speaker_pointer] = float(segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]].attrib[
+                    'transcriber_start'])
+
+            file.close()
+        # if the corpus are automatic
+        elif self.corpus_type == 'AUT':
+
+            # timer on each participants that shows which time of speaker we are analysing at the moment*******
+            time_pointer_on_participants = {i: float(word_roots[i][0].attrib['starttime']) for i in self.participants}
+
+            #a couneter on XML childeren that indicates where we are during the dialogue transcription
+            counter_on_segment_xml = {i:0 for i in self.participants}
+            #a couneter on XML childeren that indicates where we are during the dialogue transcription
+            counter_on_word_xml = {i:0 for i in self.participants}
+
+            #for i in range(20):
+            while cmp(segment_xml_length, counter_on_segment_xml):
+
+                total_time_pointer = 10000000.0
+
+                for key, value in time_pointer_on_participants.iteritems():
+                    if counter_on_segment_xml[key] < segment_xml_length[key] and value < total_time_pointer:
+                        total_time_pointer = value
+                        total_speaker_pointer = key
+
+                tempo = segment_roots[total_speaker_pointer][counter_on_segment_xml[total_speaker_pointer]][0].attrib['href']
+
+                if Counter(tempo)['('] == 2:
+                    (start_word, stop_word) = self.get_words_interval_for_speaker(tempo)
+
+                    #******
+                    start_word = start_word.replace("sil", "aw")
+                    stop_word = stop_word.replace("sil", "aw")
+
+                    _phrase = self.get_word_interval(start_word, stop_word, word_roots[total_speaker_pointer])
+
+                    file.write(total_speaker_pointer + ' : ' + _phrase + '\n')
+
+                    #update time poniter on total time pointer***
+                    counter_on_segment_xml[total_speaker_pointer] += 1
+                    counter_on_word_xml[total_speaker_pointer] += 2 + len(_phrase.split())
+
+                    if counter_on_segment_xml[total_speaker_pointer] < segment_xml_length[total_speaker_pointer]:
+                        time_pointer_on_participants[total_speaker_pointer] = float(word_roots[total_speaker_pointer][counter_on_word_xml[total_speaker_pointer]].attrib[
+                        'starttime'])
+
+            file.close()
         return
 
     #takes the href in xml segmentation and separates the start and finish words
@@ -196,14 +254,43 @@ class manage_meeting:
 
         return length
 
+    def generate_all_texts(self):
+        if self.meeting == None:
 
-ex = manage_meeting("MAN", "meet_2")
+            self.initializations()
+            self.meeting_list = self.get_meeting_list()
+            ex.get_meeting_list()
+            ex.get_participants()
+
+
+            for meeting in self.meeting_list:
+                self.meeting = meeting
+                self.generate_text()
+        return
+
+# ex = manage_meeting("AUT", None)
+# ex.generate_all_texts()
+
+ex = manage_meeting("AUT", "meet_130")
 ex.initializations()
 ex.get_meeting_list()
-#ex.get_participants('meet_1')
-
-#print ex.compare_word_id('IS1000a.C.words1', 'IS1000a.C.words2')
+print ex.meeting_list
+ex.get_participants()
 ex.generate_text()
+
+
+# #
+# # #ex.generate_text()
+# #
+# # ex.generate_text()
+#
+# #print ex.compare_word_id('IS1000a.C.words1', 'IS1000a.C.words2')
+# for meeting in ex.meeting_list[-1]:
+#    print meeting
+#    ex2 = manage_meeting("AUT", meeting)
+#    ex2.initializations()
+#    ex2.get_meeting_list()
+#    ex2.generate_text()
 
 
 

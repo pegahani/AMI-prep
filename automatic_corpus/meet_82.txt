@@ -1,0 +1,818 @@
+C :  True
+A :  No
+A :  Why
+A :  Thank you for christmas the meeting of the uh
+A :  Yeah design group um
+A :  I think we yeah
+A :  Mason different progress the last one
+A :  Um then comes interesting uh
+A :  Uh it's suggestions for a tiny remote control um our again very quickly uh
+A :  Just present some notes of that meeting
+A :  Um
+A :  Yeah the the problem with existing remote controls
+A :  We felt as well so they're ugly
+A :  Um then the people had to pay premiums mean that's uh
+A :  Um they've got lots of buttons on the on the other people don't use and find difficult to learn
+A :  Um and people use um
+A :  And
+A :  We we thought that's it for a a new uh
+A :  Uh remote control that we want to rush and buy
+A :  Um
+A :  That we that we should look at speech recognition of the rubber of the buttons
+A :  And uh if you have any buttons there should be very few of them in any for the use
+A :  Functions that are cheating tried to the people use
+A :  Um
+A :  We want to go for that
+A :  There are a longlasting battery that we get we guarantee for the life of the uh of the product
+A :  And the shapes that will be easily recognisable i. e.
+A :  And as a a trendy remote control
+A :  And and be as a a real reaction product so that uh when people are
+A :  Uh
+A :  Happy with that they will be able to buy
+A :  Yeah everything else from as
+A :  Uh
+A :  "'kay" any
+A :  So again um
+A :  How will have a three three presentations from uh the the the three of you and then uh
+A :  Well we'll make a final
+A :  The final
+A :  Yeah
+A :  Decision
+A :  Um and the the decisions that we need to to make today you find you are
+A :  Um what energy source we want to use whether it is practical to use uh
+A :  And
+A :  Uh a longlasting one
+A :  And uh
+A :  Uh that i think a discussion was around the fact that if we go in a
+A :  Go for a a long lasting power supply then basically it's
+A :  Uh sealed for life and uh if you just one is to run one then we'll
+A :  We'll give them another one
+A :  And uh it it will be uh
+A :  In a prominently
+A :  Display this part so they they advertising it richer that's it so um
+A :  Um yeah
+A :  For life guaranteed for life
+A :  Um
+A :  That'd be the internal shape um then then this is where i need to
+A :  Uh kate's expertise advice and given that that this has to
+A :  To get to mark it as quickly as possible
+A :  Um
+A :  To do do we get to custom designed shape
+A :  Or to you by one of the shelf and and programme it a cells
+A :  Uh i mean i'm not on
+A :  And us experts on these things but presumably there must be lines of them or the on the market that we can modify that so uh
+A :  That that's uh that's your area of expertise
+A :  And then the uh
+A :  No they they for design of the case
+A :  Uh is is is can do is
+A :  Field and uh
+A :  We we had some discussions last one that's that's too
+A :  How we might careful with them will will found was that was
+A :  Uh
+A :  That today
+A :  Um then the this is all be intimidated be the user interface with that we
+A :  Um
+A :  Get the voice buttons all database
+A :  Uhuh
+A :  And then uh
+A :  Yeah if if the next meeting okay it will be looking at the the the the look feel and design
+A :  Can't really
+A :  Uh
+A :  I had the the users use it and and and trickle say the product evaluation
+A :  And uh
+A :  Okay can can do will be producing a
+A :  Maybe mobile force to uh
+A :  Double curved
+A :  Um so if if we could have to be three presentations again please and uh
+A :  Um perhaps bigger to start
+B :  Okay
+A :  Yeah
+B :  Uh-huh
+A :  "'kay"
+A :  Oh sorry uh
+A :  Right
+B :  Um just talking to be components design
+B :  Mm
+B :  Okay they say i just i looked at what exactly the remote still
+B :  Uh basically they way if you press a key or give a voice command
+B :  And then this is translated uh into a light signals which are then seen by the t. v.
+B :  Uh the materials we're gonna need to look at
+B :  Are the two big ones are the integrated circuit chip and the battery um and the integrated circuit chip uh works in conjunction with uh a diode transistor resonator
+B :  Uh two more resistors and it a pastor and the battery works in conjunction with a sister and i can pass or
+B :  Mm
+B :  Uh basically what happens is you press a number or give a voice commands and this creates a a connection with and uh the remote
+B :  That us the chip the chip than sense as as connection and produces a signal in a morse code format
+B :  The signals sent a transistor uh which amplifies it and then sends it on t. v. light emitting diode
+B :  And uh uh which is then the train changed into uh infrared light which is sent a t. v. answer seen by the t. v. and watch uh
+B :  Change the channels
+B :  Mm
+B :  Cool
+B :  Uh so as for how we should end up uh use it as a remote of a warming questions are the buttons
+B :  Uh you have fewer buttons you have a guest a few internal connections and channel codes are gonna need
+B :  Um
+B :  However uh to not have buttons are to use a voice commands is the buttons might make these connections more difficult and i raise production cost something we should think about
+B :  Also we have to work within the company constraints and the company's an for me the email
+B :  That that their efforts it pushbuttons of that seems to be the most uh cost effective way of producing it
+B :  Um also with battery connections the company has some other than the batteries so we can use so i was thinking perhaps combination of solar cells
+B :  We have a back-up basic battery and somehow to the combination had to we might be look up with something that uh will last a lifetime of the five ten years and we could still
+B :  Keep that original idea
+B :  Um we have to do the chips of the cost and aligned purses off the shelf
+B :  And the custom design will give us much more flexibility enable us to incorporate voice function that we all uh seem to have agreed upon
+B :  Um how that's gonna cost more but the the off the shelf it's gonna be uh it cheaper it's gonna be a mass produce it quite daring get out there faster but it's going to be less flexible
+B :  With the features that she things like a
+B :  Voice activation was haven't really been used much on remote so there's many chips out there that would be easy to work together so for
+B :  Uh it definitely gonna go with the the voice option would probably have to design um our own chip
+B :  And that pretty much sums it up
+A :  Okay so no um
+A :  So i can you read just about one back up again planes
+B :  Oh yeah sorry so
+A :  Um
+A :  At the the
+A :  Okay i mean it inevitably had a custom design should is gonna be more expensive to into in a where
+B :  Mm
+A :  But how much
+B :  Um i don't actually have any price information know
+A :  And then to know how long it'll take to uh develop a a custom chip
+B :  Um
+B :  It a lot longer than off the shelf chip uh we get we did that the problem is the the the voice technology is not really highly developed it sort of still still in this experimental form
+A :  Right
+A :  Yeah okay
+B :  Uh so it would uh it's hard to predict time
+A :  Run it's a thing we need to make any uh a decision here
+A :  Uh given the the company wants is on the market
+A :  Quickly and cheaply
+B :  Mm hmm
+A :  That would pay to uh
+A :  It actually constraints to an existing chip
+A :  And that's that for conventional button technology
+A :  Um
+A :  No not before we care anything else does anybody
+A :  Um
+A :  I haven't heard anything at it and say about that
+C :  It does have a question about that um doesn't make a difference if they're just a few commands for example if you
+C :  Um can preprogrammed then like numbers one through ten and preprogrammed say you know nine channels and then just use the voice recognition to say channel one and then you programme didn't say
+C :  B. b. c. for is your channel one is your favourites like to have a certain number favourites
+C :  Um and that
+B :  Wait just to to incorporate the voice activation this is sort of the trick once you've got the whole ways chip in there then it's pretty much the the world is that this guy is a rabbit actually
+C :  Okay
+C :  But it doesn't matter okay yeah
+B :  The the big step is to actually get the voice activation chips in there and working
+C :  Okay
+A :  But but
+A :  The stuff i was like this is price in the in the in a matter of frames incorporates
+A :  Voice activated darling
+A :  So uh
+A :  Um
+A :  The minute that
+A :  For slightly different well no i mean that's the t. v.
+A :  Speak some design it'll tell the number for you
+A :  So you uh huh but
+A :  I mean
+A :  That this this information is from
+A :  Is this is a internal
+A :  Company information is it
+B :  Uh it's a bit yeah
+A :  So uh
+C :  Course mobile phones do tend to be more expensive
+B :  Yeah
+C :  You know hundred and fifty pounds or something
+C :  As opposed to the t. v.
+A :  Yeah
+A :  True again that with without any there's any a price information that so
+C :  Twenty euros point five euros
+A :  Difficult to uh
+A :  Yeah design
+C :  Yeah
+D :  Mm
+B :  Mm
+A :  Yeah are not so as far as i say is you can't
+A :  "'cause" mobile phones expensive you can say is the voice recognition data is
+C :  Yeah
+A :  The wood and then
+A :  Um
+A :  I mean uh
+A :  I said it i mean if you're given that the um the technology's not well developed and given that it's it's never been done before
+A :  Um
+A :  But the the double risk
+A :  Uh
+A :  Perhaps we ought to uh stick to uh
+A :  Two buttons
+A :  Since the last thing we want to do is
+A :  Is it a product that doesn't work
+A :  Um
+A :  Paul it's
+C :  Well i never thought i know sir
+D :  Oh as as in there
+D :  Okay and
+D :  Do you like or somewhere else and it will cost
+A :  I mean do you do we think the voice technologies fundamental to
+A :  The project
+B :  Oh it's fun but well i mean i guess it it's something we discussed uh since the the sort of beginning so i think in in our in our minds it's it's fundamental i don't know that the uh
+B :  The upper echelons of the company would necessarily agree with that so i think
+A :  I mean i think we
+B :  It's a
+A :  It's sort of a remote phone whoa
+C :  Uh-huh
+B :  Hmm
+B :  Hmm
+C :  Well i i think if we're gonna have the voice recognition part of it and then we should have a full whole thing
+A :  Yeah are are are are are are think that's a
+C :  And we've been talking about but the whole time and i'm i'm in fact kind of inclined to say that we should just
+B :  Mm
+A :  Right okay
+C :  Go for it
+D :  Or six some fresh my findings a second war sport aspect features that
+D :  The device should be technologically innovative
+C :  Yeah
+A :  And that's us
+D :  From my uh my presentation
+A :  Yeah that should be
+D :  Uh technologically innovative
+A :  Right okay so
+B :  That sounds good
+A :  Fine okay
+A :  It it will have the voice recognition
+C :  Okay uh-huh
+A :  Um
+A :  Uh if if that means uh miss i miss week awful
+A :  Buttons
+A :  But i mean the mobile
+B :  Uh-huh
+A :  Same question
+A :  Do we need a five buttons the channel changer then volume up down
+A :  And on off
+A :  Just as a a back-up or just so that people can
+B :  Um
+C :  Yeah
+A :  There's a sit there pressing buttons
+B :  Yeah i i would say we did yeah
+C :  I think so
+A :  Right
+A :  Yep can i say it to do and sending them okay to remove actively on to
+B :  Oh i know that was it was it
+C :  Okay
+A :  Kind of
+A :  And that would be made it a one
+C :  Mm hmm that's
+C :  Yes
+C :  Second war
+B :  I think it about that
+A :  Mm yeah it'll get the
+A :  Yep
+C :  Okay
+C :  Okay so i did some research on the internet and um what you know the inner for
+C :  User interface are just aspect are seen by users um commands and mechanisms for the operation and they're just kind of a variety of choices
+C :  Um findings so a lot of sense they tend to look cluttered and these were just a couple examples of
+A :  Uh-huh
+C :  Um different kinds that are a little bit more i'm user will there some special ones available like this one here which is marketed for children
+A :  Uh-huh
+A :  Right
+C :  Um different designs and one of the things that
+C :  No we need watch a four is a v. in the volume because people's
+C :  Pick a little picture of what i thought it could look like
+C :  So just kind of minimise bit clutter avoid too many buttons and also um one of the things that people have used it is
+A :  Uh-huh
+C :  A slide button like you have on a mouse the possibly we could use that on the side for volume
+C :  For example have the slide button on the side and then you can preprogrammed the channels voice recognition and then the voice response sample locator
+A :  So that
+A :  But if i can interrupt about that
+A :  "'kay" gonna setting a bad some slides
+A :  Controls on it i think the reasonable use pushbuttons is that the
+B :  Oh
+A :  Yes it simple shape and
+B :  Oh i think they're they're about the same cost really yeah i think it's just sort of
+A :  Reliable
+B :  The the there's a lot of slide button that i think it's pretty much the same sort of connection mm
+A :  Okay
+A :  Kind of fun
+C :  Just because then
+C :  For example if i'm using a mouse i like to have decided up and down so that might be good for volume to just be able to
+C :  Kind of roll it
+C :  And then have the up and down and then there
+C :  That's great wheel drive hmm
+A :  So three three because there's three buttons on the slide
+A :  Three but the channel up channel down and
+C :  Mm yes yes
+D :  If it if you if you go to channel up down to get this later on that as well
+D :  Because it easy you know that you know something it it kind of like a scroll kind of
+C :  Yeah
+D :  No it's a kind of like sticks in a minute up like when you get you sally
+C :  Yeah
+B :  Uh-huh
+D :  So i was top one then like you can keep going up but it's like like a cold or something
+A :  Uh-huh
+D :  So you can take up one time
+A :  "'kay"
+C :  The only advantage i was thinking of ten having the buttons like the buttons on one side for the channel and then the sliders that if you're is holding in your hand and you pick it up it's easy tenants now okay this is just the volume and this is the channel
+A :  Uh-huh
+A :  This one on one side or yeah
+D :  Right you could
+B :  Yes i do think that that promotes in like meant to change the channel on turn the volume or vice versa would be carried be downbeat feel completely different you know what you were fiddling with
+D :  As a as like a minus you could
+A :  Okay
+A :  Yeah
+C :  Yeah
+A :  Yeah
+D :  Yeah like shape of a almost like a mess with uh
+A :  Yeah or yeah but but the i mean that this is what's that that's got but is it the actual shape that people in it easily pick it up and and now you know you uh
+C :  That was
+B :  Uh-huh
+A :  No what is going to do
+C :  Yeah
+A :  Okay so we're we're looking at some ideas for place
+A :  Well uh uh volume and
+A :  Channel trying
+C :  Um
+C :  Oh i was thinking kind of just for the volume but what what do you guys think
+A :  All forms or
+A :  Just for the volume that
+B :  Mm
+D :  On the rooms of a depending on fire shape of a
+D :  "'cause"
+D :  You could have like i dunno elaborate is there look sick you can to control the volume is your thumb and a key control the buttons your fingers
+C :  Yeah
+B :  Yeah
+A :  I think is yeah i mean it it
+C :  Yeah
+B :  "'cause" if you imagine a position the fingers would be better for pressing and uh that for role and just uh
+A :  But yeah i mean it it it seems to me that you add it all also i see advantage that it it it to look really different
+C :  Yeah
+B :  Uh-huh yeah
+C :  Yeah
+D :  Oh yeah
+A :  Um and that there's no i've
+A :  And the possibility of uh confusing the two
+A :  So okay
+C :  It has to pass those along
+A :  Right so you uh
+A :  That's so that that for you
+C :  Yes
+A :  What's it make it fun
+C :  Hmm
+D :  Oops
+D :  Yeah
+A :  Right
+D :  Yeah that's my problem trend watching
+A :  Mm
+D :  And uh they use for problem is that
+D :  Yeah
+D :  For executive summary
+D :  For us on the top three things want to buy consumer
+D :  We've got reports from past one on
+D :  You fashions
+D :  And uh
+D :  The most important aspect is
+D :  Do you look at your has to look fancy look-and-feel
+A :  Uh-huh
+D :  And so the current functional look and feel
+D :  And this is just
+D :  Which is yeah
+D :  Twice as important the second aspect which is the technologically innovative
+D :  And say to
+D :  So uh
+D :  Oh thirteen easy to use it's probably a given we have straight go for it
+D :  So uh
+A :  Well i mean i i think that's what we're suggesting all to address all three of those
+D :  Exactly yeah
+C :  Yeah
+B :  Uh-huh
+A :  Okay
+D :  Yes
+D :  Uh this is
+D :  Yes uh yeah yeah and they're from the fashion watch my past have said from vegetables
+D :  Are important theme for clothes furniture and she said sure
+D :  As a cost shoes and furniture
+A :  Uh-huh
+D :  And uh
+D :  Spongy material
+D :  He's the on the inside
+A :  Hmmm unfold so that that's different so
+B :  Mm
+D :  Yeah
+D :  Plus uh i was gonna say um yeah for vegetables uh important
+D :  Two
+D :  This year
+D :  Um
+D :  Point for sure
+D :  Should can say
+D :  At
+D :  Like it to uh sort of fashion it we go over there it looks fancy and fashion supposedly we have to go into
+B :  Uh-huh
+D :  But fashions that don't last very long
+B :  Like a cat times are changing uh face things that we could have a fruit vegetable theme this year and uh whatever happens next year we can have the face plates yeah
+D :  Yeah
+C :  Yeah
+D :  Yeah because i was
+D :  I guess spongy skin and they can just put the often
+B :  Yeah
+B :  Yeah
+C :  Yeah like the kind you get um i can't wait it's you know that kinda spongy
+B :  Hmmm yeah that we are i don't know what that is that yeah
+C :  Yeah
+D :  Kind of yeah
+B :  Hmm
+A :  Also meeting topic that damaging
+D :  Yeah i know
+B :  Yeah yeah it's good as well
+C :  Yeah that's true
+B :  Uh-huh
+D :  Um
+D :  Yeah well we could
+D :  If we can save depending on the cost of the product itself
+D :  You know could be
+D :  Have a cheaper bookkeeper power source and then just have that
+D :  I knew we we need
+D :  Instead of having um
+D :  Can you guarantee
+D :  Well then changeable covers which buy a new one every year
+D :  You are many functions can uh
+C :  Yeah
+B :  Mm
+A :  I did i mean is it's a
+A :  Ach that's an interesting idea is that else what what she where right
+A :  Um well money but she's a real change and there's just be possible anyone wanna interact a fashion that this is never been seen as a a fashion item before
+B :  Mm
+D :  Yeah
+A :  Um
+A :  That's
+C :  Oh
+A :  Yes the fits in making sufficient quantity
+B :  I think it's easier sometimes to have them by changeable covers for them to buy a whole new one because you don't feel like you're investing in a whole new product
+A :  I mean we we can i i know but i mean my feeling is the current power sources as optional
+B :  Yeah
+B :  Mm
+A :  For all but is it it'll cost you can make it last
+A :  You have any long talking
+A :  Um and that can also make it cheap enough that people are the change the cover every uh we can buy a new one every other than that that's that's even better
+C :  What if we include it the batteries in the cover
+B :  Oh yeah i like that that a call to come encourages them to buy a new covers and yeah
+C :  So um like
+C :  Yeah so you can see that
+B :  Uh-huh
+C :  Thing
+C :  Just this and yeah but
+A :  I yeah i'm gonna do it but
+C :  So if
+A :  I mean they did it immediately come from our that she's that city's end of the connection
+A :  And you do need to go ups also the middle i did was i was event is running it
+B :  Yeah
+A :  Palm thing is uh the the whole thing is all in a completely solar together
+C :  Yeah i guess that's
+B :  Mm
+A :  And uh and to to rely the let's say a minute are you are we uh
+A :  I know what you're saying and uh understand but you're coming from
+D :  Well they like uh
+D :  More than just the battery like a complete different like you know it like
+D :  Like a a
+D :  The space to but you keep this is expensive but this is like the chip and this is the microphone and and this is the power source and uh
+B :  Uh-huh
+D :  The embassies
+D :  And then
+A :  I'd start stuff if we needed and that we're gonna talk about it i think a sliding all that
+A :  Um just build in a hole thingy more than having kidding cheap the production costs
+D :  Yeah you can ah right
+A :  Um and again people the option of buying a new uh
+A :  And a complete new thing the range of a replaceable cover is that
+A :  In if it doesn't have a cover on that all all still well
+B :  Uh-huh
+C :  Yeah that's true
+A :  Um territory
+B :  Mm
+A :  Um
+A :  None of that people use a couple uh
+A :  I mean the them are they wouldn't want to go and spend
+A :  Have many or in some uh
+A :  I mean you want
+C :  Yeah
+A :  Um not gonna do a complete new
+B :  Well that's just it would be covers use or tricky them into it continuing to spend their money on our product about making them feel like they're being ripped off having to buy a new product
+A :  Right right
+C :  Yeah
+A :  Yeah i mean if this is a serious up to
+C :  Yeah just another five euro to get
+B :  Yeah
+B :  Yeah
+A :  Yeah i see such a marketing people to to make to make turned into a a fashion item
+B :  Uh-huh
+C :  Right
+B :  Mm yeah
+A :  Um and you as as a external fashions change then we get new you covers
+C :  Yeah
+A :  On the market is and inevitably available
+A :  And um
+B :  And that's a survey want to get the mold said you can just what that different colours different pictures very quickly yeah yeah exactly exactly
+A :  But but but but but but
+C :  Yeah like they have for mobile phones that it does
+A :  That's that's right yeah yeah
+C :  For an animal pen colours yeah
+A :  Sorry what it said oh okay
+C :  Okay
+A :  And that sorry um
+A :  Me and he still
+D :  Um
+A :  Mm
+D :  A lot of light sauces can say uh
+D :  Yeah uh the gonna make this part of like like uh huh
+D :  Part of like it is the fashions applied for a gesture to make this part the french
+A :  It's a sort of thing that we want people to have problems is displayed on there
+B :  Mm
+B :  Uh-huh
+A :  Um coffee table to sorry
+A :  This is something about me
+A :  Um
+D :  This is fashionable with
+A :  This is fashionable on on on on with this uh not that use
+A :  And you know the the the design the art else than the than that
+A :  Could be a
+A :  I am a design and
+A :  Uh no this is this is not just a a television remote control
+A :  This is there a fashion accessory
+A :  Um
+A :  So i mean to be the basic shape is is what we uh i'm a given that we've got yeah
+A :  Warm on on off button presumably
+A :  Two buttons of a channel changing one slide uh
+A :  And i see nothing else
+A :  Um we we need to decide on the
+A :  Just the basic shape of the thing
+A :  And you know what we get then the the fruit and veg or it's another suggestion make it like a banana
+C :  Hmm
+A :  But um
+A :  And that's what d. d. organic yeah you to look
+B :  Uh-huh
+A :  Yeah it's a t. v.
+D :  Yeah
+A :  Did you really get away from the yeah
+A :  Um
+A :  Uh yeah the the the the square look at most
+A :  Uh current
+A :  Uh remotes don't know what the weather that yet
+A :  The the fix part of it is the corporate yeah but
+A :  Um
+A :  Or
+A :  "'cause" a set in a t. v. the corporate logo needs to be prominent in your display so the people's that's look at it and sorry right that's a real reaction
+A :  Remote control or one of those
+B :  Uh we should make the whole thing i don't know but uh you have like the yellow circle would are are in it somewhere on a button yellow seem to build a strong colour to make it a little think you know we're in jamaica white or grey or black or some sort of blah colour
+A :  Yeah a lot of uh a all pole
+C :  Yeah like an all day
+A :  Yeah i don't
+C :  Hmm
+C :  Yeah
+A :  I know that i agree i mean we're we're basically it's it's simply required to incorporate it may be the corporate like a prominently
+B :  Yeah yeah
+C :  Yeah
+A :  Um
+D :  Make that fashions and also
+A :  Well if this is this is the whole point yes you know a part uh huh
+A :  A real reaction uh
+B :  Okay
+A :  Remote control film are real reaction coffee maker or or whatever
+A :  And uh
+A :  And people yeah
+A :  People demand more real reaction
+B :  Uh-huh
+A :  Stuff
+C :  All that sort of
+C :  It kind of picturing like maybe um mm the shape that some of like a mouse
+B :  Uh-huh
+A :  Yeah
+C :  So that you know when they hold it it's because the mouse is pretty comfortable to hold in your hand
+C :  Um maybe we could make it a slightly different shape so they could hold on to it but that we they can have the
+C :  Volume on the side and then the channel buttons and
+A :  Yep
+B :  Hmm
+A :  Yeah
+C :  Have the power or wherever somewhere
+C :  I mean i was just an idea but i had
+A :  I mean i i yeah
+A :  Uh that was the same um idea so you put it in a bit faster than they spend sort of that that sorta shape so the in the sort of
+C :  Yeah
+C :  Yeah maybe
+B :  Yeah you'd white narrow than a mouse is it um as you can just resting ah you want something that we grew up so maybe be
+A :  Oh hold it
+C :  Kind of a
+A :  Well anyway so this is sort of a
+C :  Yeah
+C :  Sort of a combination uh-huh
+B :  Yeah yeah
+A :  I am else but held
+B :  Yeah
+A :  Yeah so you see so hold in your hand like that and with the eleventh have to do with the buttons
+C :  Yeah
+B :  Yeah and fiddle around and also
+C :  Yeah so yeah kind of maybe maybe a little wider and that's that's that's pretty comfortable to hold and then if you had
+B :  Maybe i was like a hairbrush like you get the that the way of that and the pen and widens laptop and you can little um yeah
+C :  Yeah
+C :  Then why are up here and then it would have a little while
+C :  What are thing to uh have to light the infrared light at the t. v. and just kinda
+B :  Yeah yeah
+B :  Yeah
+C :  Change channels and adjust volume
+B :  Uh-huh
+C :  The power could be
+C :  Wherever up the top or something
+B :  Yep cool
+C :  For you guys think about that
+D :  Yes yes
+A :  Yeah okay yeah oh yeah
+D :  I'm i'm just i'm sorry will is not here were discussed how much how good is gonna be to change channels to
+D :  We still can just tell it to
+D :  Well we we start to get away from the
+D :  The voice functional
+C :  Oh yeah
+B :  Uh-huh
+C :  Mm
+A :  Very good point
+C :  As a very good point
+A :  I think we i think we decided that
+A :  We're actually going to a place where is that um in the
+B :  Yeah yeah
+C :  Yeah
+A :  We we need the the manual controls and that they should be uh that fall
+C :  Yeah
+A :  But that's uh yeah
+B :  Do you know the shape of a kind of those lend itself to to voices "'cause" if you're you're holding and you fiddling which you can also bring it up like that and it's microphone ask yeah
+A :  They just bring it to mess and just speak so yeah yeah
+C :  Yeah that's a
+D :  Yeah maybe put like it
+D :  Like we're leaving out the buttons for that
+D :  The first recall you stuff we could incorporate that into the voice
+B :  Mm
+A :  I've done on this off my personal view is that
+A :  If it's not that people in these anyway
+D :  Ross perot's but
+A :  Um
+D :  There there is still channels so you know the the brightness as wrong new t. v. or the contrast is changing
+A :  It's uh it's certainly possible um in the debris we going beyond
+B :  Mm
+A :  What given the stage the technology you
+A :  We want
+A :  Something that mean that we know you will will work
+D :  Hmm yeah
+A :  Um
+B :  We can still incorporate the voice of the bus buttons i mean uh if the power button was also somehow like a menu button you could press that and i would do voice commands
+B :  And you the volume think it also be to scroll through other options that you could scroll through brightness and answered maybe you can you can minimise the buttons and still
+D :  Yeah that's good yeah
+C :  Yeah i suppose list
+B :  Have those you know brightness intent and stuff
+A :  Yeah um
+A :  If we wait a minute i'm technically nice is that we think that we should have those facilities available
+C :  So i guess we could have a menu button as well we could have that channels and that power and then a menu button and then the volume so have four buttons and the volume instead of
+B :  Yeah
+C :  For two buttons on the volume
+A :  It it
+A :  Yeah "'kay" if it if it going to and that route then
+A :  We need some sort of this polarity do we need some sort of displaying that she is a television okay
+B :  But the television would be the display that things are basic problem at all gonna give a menu and then you will call the television up like ten brightness you use a scroll scroll through
+C :  Yeah that's how the t. v. yeah
+C :  Yeah and then you
+A :  Okay
+A :  Okay
+A :  Okay
+D :  I mean on uh on silicon most of all the scrolling button is actually buttons but you could press it you can press that
+A :  Yep
+B :  Yeah
+C :  Yeah
+B :  Yeah that's true
+D :  How is a menu button
+C :  Press that isn't
+C :  Yeah yeah well
+B :  Never seen that work though but yeah
+C :  Yeah it's like a um yeah it's like the mouse where you just click it you just press it
+B :  Yeah
+B :  Mm
+C :  Yeah and you could just click that to that so if you had make the menu then you could scroll through and then click it to select
+B :  Mm yeah
+B :  Yeah
+D :  Yeah
+C :  You know i mean
+A :  Mm yeah
+A :  "'kay" we've got forty minutes together in these meetings so
+A :  Um
+A :  But last thing with
+A :  Actually
+A :  We can been used to come to a
+A :  A good point is to sum up
+A :  Um
+A :  So
+A :  Um
+A :  But you can can to uh go away and
+A :  Uh to play play with it across the same or played a whatever is on those are the atlantic
+B :  They would play doh hmm
+C :  Hmm
+B :  Yeah
+A :  Um
+A :  And that's cheap
+A :  What what we've discussed
+A :  Into something uh
+A :  Is this a concrete that's a summary to prepare was
+B :  Uh-huh
+A :  Um
+A :  Something that we can we can see
+A :  And so um
+A :  And in can go away and and that's the thing that we can uh actually market this is a concept not it's not just a year
+A :  Um a simple remote control
+D :  Hackers get something squares for mass it
+A :  Yeah so and of course
+D :  Our energy source is gonna be
+A :  I think i think we decided that we can it
+D :  Long term
+A :  That's the that's the the simplest so you all of a manufacturing and so i mention and so we will go for
+A :  And you don't um battery source
+A :  Um on on the basis uh
+A :  Um
+A :  Yeah and if you can throw it making a fashion statement then
+A :  Uh people are more likely to change it anyway
+A :  Uh before it in one sense and um
+A :  Make an assumption that we we can aim for a battery that last most people fall
+A :  Uh let's say at least five five ten years
+A :  On the wheel but we will guarantee a full of ideas
+A :  Um
+D :  Um i mean a custom chip
+A :  Well having a i. e.
+A :  A custom chip but given the you'd be we've got the functions them
+A :  Um
+A :  Mm that will take for you know
+A :  Be too problematic but given the
+A :  Um technolo technological innovation is important than we need to
+A :  The second technologically innovative
+B :  Uh-huh
+A :  Um and said we wouldn't know we must resist any if it's to uh
+A :  To try more to that then
+A :  Um
+D :  And interchangeable case
+A :  I think it's changeable casings to the um
+A :  Um the important to the concepts
+A :  And it it should be cheap
+A :  Yeah if if we avoid any
+A :  You know electrical connections
+A :  And uh yeah i think of some way of of why people to actually person was it
+A :  Uh to whatever they want and uh
+A :  I mean
+A :  It is it a p. d. a. would we don't know whether
+A :  Uh topics and people do it so now but if the police go to a good selection of
+A :  Um covers or they can use anyway and then and if if we can keep them yeah right wing
+A :  Then the main selling it in the supermarket one again and to
+A :  Um
+A :  Any of the famous see the market some and mention it mention any names
+A :  Um
+A :  Yeah it's a it's good for the supermarket is good for los on it it it makes them feel better
+D :  And uh we gonna have a oh being eliminated from inside
+D :  Onto the buttons are
+A :  Um
+A :  The uh the the i mean there's no because because a few buttons that say that actually makes uh redundant
+C :  Yeah
+B :  Mm doesn't uh
+C :  I think so yeah yeah and especially for making them so like different and
+B :  Give it to feel yeah yeah
+A :  Yeah yeah
+C :  Yeah
+A :  And that that that that's all for problems of the pattern of "'cause" i would i would call the battery life so now women couldn't they make the buttons are having it's actually a
+B :  Uh-huh it
+C :  Yeah
+C :  Yeah
+A :  Uh unnecessary i think
+C :  Yeah
+B :  Uh-huh
+D :  Are having it that it's a angle
+D :  Or is it just
+A :  As it
+A :  Is why is
+B :  Yeah
+D :  That's why it's possible
+A :  It's a city wide angle than than current so that if you're holding it yeah
+A :  Anyway you know like you're likely to
+C :  Like this or like this
+A :  And uh
+A :  It's uh
+A :  Yeah able what most of the time
+A :  Um
+A :  And a lot more my mom it puts a ceiling on this one the the the television doesn't work
+B :  It it it
+C :  Mm
+A :  Um yeah i mean i've i've that so that this is the if if this was the the thing then sort of the
+A :  The whole that's all would be the uh the infrared the
+C :  Yeah i can like this fall
+B :  Uh-huh
+B :  Yeah uh-huh
+A :  Um
+C :  Or you could
+C :  Use like this aurora
+A :  So
+A :  Yeah
+A :  "'cause" like the the reality is people are
+A :  I think and look at the television mousey using it the chances are also if if the whole the anyway that
+C :  Yeah
+A :  The reason not actually holding it to use it then uh
+C :  Yeah
+A :  Um that that's a sort of
+A :  Coverage that we want
+A :  Um
+A :  Okay it a real clear
+C :  Yep hmmm
+B :  Good
+A :  Where we go from here
+D :  Mm
+A :  Case thank you very much and they don't know
+A :  See you again in thirty minutes
+C :  Okay
+B :  With

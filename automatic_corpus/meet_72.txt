@@ -1,0 +1,246 @@
+A :  So the start writing on here do you have to start by pressing anything on this page okay
+D :  Well my folder but as
+A :  Meter
+D :  That's cool
+A :  Okay hi everybody welcome to our kick-off meeting
+A :  Um for our new product that we're gonna be designing
+A :  Um i'm andy and i'm the project manager and i know my name's again courtney
+A :  For now or
+A :  And in
+B :  Yep
+A :  Alright
+A :  Okay so first let's go to this powerpoint
+A :  What what button press
+C :  Just in and if you arrow
+A :  Yeah are and i just click
+A :  Okay here's our agenda for this meeting
+A :  Um where start with our opening which was a introductions really get to know each other little bit better
+A :  Um a tool training
+A :  We're going to oh i guess figure out what to do on this project with our individual roles
+A :  Um we make a project plan and then have some time for discussion and close the meeting
+A :  Okay here's our project
+A :  We're gonna make a new remote control
+A :  That's um original trendy and also user-friendly
+A :  And how we're going to do it is each of us is going to um
+A :  We're gonna have to discuss the functional design first
+A :  Oh how is it can be used what's the actual goal here has to operate t. v. bulb uh-huh and we're going to do individual work on that and then me to
+A :  Same thing with conceptual design
+A :  Just the basic overview of the project and then we're going to
+A :  Do individual work me that's pretty much the the whole process for today
+A :  And then the detailed design just more in depth get the actual
+A :  Schematics of the
+A :  Remote
+A :  Right
+A :  First were gonna start off by using our
+A :  Tools
+A :  And the whiteboard thing do you guys wanna give that a try to know the ink wasn't working already won do it on here
+B :  I think we should for go to be whiteboard since we can't actually see what we're writing
+D :  We could
+D :  We did it on here
+A :  Alright let's go for it then
+C :  Yeah
+A :  Um right now so we are gonna draw our favourite animal and then sum up my favourite characteristics of that animal
+A :  Even if you know to draw are like me
+B :  It to six kills an l. o.
+A :  Um
+A :  Let's see
+D :  Well thanks
+A :  Uh-huh
+D :  I
+A :  Uh-huh
+B :  Okay i like i mean great five
+A :  Who would do uh
+A :  Uh-huh
+A :  Okay about one one minute
+D :  Mm
+D :  Well
+D :  Mm
+A :  Okay can you would like to start stuff
+D :  I'll go
+D :  Um this is my picture
+D :  A fish
+D :  I like fish because um
+C :  Mm
+D :  You know they're all wanna vascular system think it's pretty cool yeah um
+D :  To get a pretty good habitat in a pretty sometimes sometimes vicious but that's okay
+A :  Only for a promise
+D :  Yeah but they're easy you know
+A :  Right
+A :  You want to go next
+B :  Okay
+B :  I tricky
+B :  It's pretty much impossible to tell that's a cat
+B :  But i love cats
+D :  Oh i see it
+C :  Oh yeah yeah
+A :  Now i can
+D :  Yeah it does look like a
+B :  I love cats because they're independent
+B :  Um they pretty much know what they want to get it
+B :  They move on
+A :  I love cats tail and a cat person
+D :  I'm allergic to cats
+C :  Oh
+B :  I'm allergic to cats too
+D :  Uh-huh
+D :  Oh okay
+B :  Uh-huh
+A :  If you're round when i had a roommate he was
+C :  It may next right
+A :  Um
+A :  Allergic but if she was my my cat forever she became used to it you know we're in
+D :  Yeah yeah if you're running from one pretty time
+B :  As a can't sleep with them in there
+A :  Uh-huh
+D :  Oh yeah the summer n. o.
+D :  I'd love cats is crazy
+A :  Yeah
+C :  Um i do encounter
+D :  Cool huh
+B :  Yay
+A :  Mm badger
+C :  Well yeah
+A :  Could show is by that or
+C :  Um
+C :  I know the ground be in nocturnal and
+D :  Mm
+B :  It can use it just think
+C :  It
+A :  Mm
+C :  I have a little bit like you have um mm and then she knew windows badge yeah
+D :  Oh okay
+C :  Yeah and and i don't know if you know branch out
+C :  Use
+C :  But i mean idea
+A :  Oh right
+C :  Um sound and that's right
+C :  That will that kind of books
+C :  At your school and and and
+A :  Okay
+A :  And um last okay welcome i said said giraffe
+D :  No that's good idea
+A :  No no no it doesn't look like some kind of a dinosaur but whatever
+A :  I don't know even much about giraffe's but i just love the way they look they just such a ride creatures you know
+A :  I like that they're so unique in individual
+A :  I don't know much about their behaviour anything no
+A :  Within a couple of this
+D :  You know yeah do you feel like um
+A :  Yeah but you can appreciate the way they work
+A :  Okay
+A :  Alright yes again straight back to business here
+A :  Um
+A :  The selling price for our remote is going to be twenty five euro
+A :  And our profit aim is fifty million euro
+A :  We're going to make this an international product market it in the states in europe in asia
+A :  And um
+A :  I production cost to make that profit is gonna be max of twelve fifty euro per remote
+A :  Okay
+A :  So we're gonna talk for a little while um hear some topics that we might be able discuss expect our experiences with remote controls um
+A :  Our first ideas about this new remote anything that you can bring to the table for this project
+A :  Oh
+C :  Yeah
+A :  Yeah
+A :  Last r. s. off anybody have anything to offer
+C :  Mm
+B :  Well we wanna make a multifunctional remote way
+A :  Right
+B :  One remote for everything
+D :  Right
+C :  And everything being
+C :  Wait we have
+B :  Um
+C :  But sound system
+C :  T. v.
+C :  D. v. d.
+C :  Be a chance
+C :  Uh t. bell
+B :  I think they'll be facing v. h. s. a. shortly
+D :  Yeah it's you know
+A :  To you though
+C :  But it's still there so
+B :  Okay
+C :  For gonna do it
+D :  It needs to be compatible "'cause" universal remote controls are never universal
+A :  They're never universal that's right it's a special if you buy uh
+A :  Uh
+A :  Not be product d. v. d. player say usually doesn't work if it's not one
+C :  I have just a like a sony if it's like a
+A :  Yeah
+A :  Yeah
+C :  Okay
+B :  So we'll have to figure out how to cover all the different
+A :  I mean concerns
+B :  Variances in signals
+D :  Oh we need insanely good instruction booklet because you always have to reconfigure all your
+A :  Yeah
+D :  Interactions to go with remote anyways
+A :  Okay and um another thing that i think it's important is
+A :  That the design of the product how it feels in your hand
+A :  If it's just flat and kinda boring
+A :  Does don't
+A :  Nobody wants to buy those anymore they want ergonomic ones
+D :  They want the flashy like it's a like a skin from las vegas
+A :  Yeah
+A :  Ones that
+A :  Ones that look
+A :  High-tech to do
+C :  But at the same time simple
+D :  Yeah
+A :  Right
+A :  So that people like my mother can use
+B :  Do something with the curvature or like that matches the curvature of the hand
+A :  Yeah
+C :  Mm
+A :  Okay
+A :  Anybody have any experiences with remote control that they can remember that
+C :  This past half
+A :  Yeah true that's true
+C :  Um
+B :  What kind of battery would we wanna use
+B :  Because battery changing is usually
+C :  Double a.
+D :  Double a.
+B :  Yeah
+A :  This enemies triple a.s though
+D :  Yes um is triple a.s so double or triple
+C :  So on but
+A :  Okay
+C :  Yeah i guess that that's
+C :  We nice teacher play we can but but people use they have the ways around
+A :  Okay yeah
+A :  But that has to do with the size of a two
+B :  Yeah
+A :  Well well as long as we know that issue is
+D :  Yeah for want it to be more sedentary probably go with the triple a.
+A :  Here we can
+A :  Triple a.
+B :  Kevin go with a small lithium battery
+A :  But
+A :  It's okay we don't have to decide about it now just as long as we remember battery type in size is important
+C :  Uh-huh mm
+A :  Okay anything else
+A :  Right uh-huh
+A :  Uh-huh close the meeting
+A :  Next meeting is gonna start in thirty minutes
+A :  Here's what we're going to do
+A :  Um i. d. which is too
+A :  Okay
+A :  You're going to think about the working design uh-huh
+A :  Okay
+A :  I
+D :  Yeah yeah
+A :  Okay in u. i. d.
+C :  Uh-huh
+A :  The technical fun functions design making sure it does everything that we need the remote to do the functionality of it
+A :  Operating all those different things
+A :  Okay and the marketing
+A :  Per se
+A :  Courtney is going to do the user requirements specification
+A :  I guess that means specifying um what exactly
+A :  The user is going to be looking for right
+D :  Right
+A :  I would think so okay
+A :  And you gonna get more specific instructions email to you know in just a little while
+A :  Okay so does anybody have anything they want same for close the meeting
+A :  Okay
+A :  Meeting is officially over

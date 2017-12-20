@@ -1,0 +1,624 @@
+A :  Okay everybody ready
+C :  Yeah
+D :  Uh-huh just from a microphone here and here okay
+A :  Uh-huh
+A :  Um
+A :  I take it you all have
+A :  We see construction is uh as to what she we're supposed to do
+B :  Yes
+A :  And uh mm
+A :  I think the marketing manager which would go first
+A :  Addressing the needs and desires
+D :  Okay we just right now
+A :  Yeah uh-huh
+D :  Okay well good to on the bus like that because i think it might be helpful have uh we looked at the slides at the same time
+A :  Okay
+A :  You're participant four
+D :  Um four percent for a belief yes mm
+A :  O. k. like in a full screen
+C :  Okay
+A :  Oh yeah
+D :  Yeah yeah
+D :  Okay well i think we
+D :  Energy source of so the functional requirements uh
+D :  Liz muir sport michael but what would have straight to the second slide
+D :  "'cause" that's where my discuss that
+D :  Right well on since i'm in charge of trying to figure out what
+D :  We should put on those things that i have to try to sell it
+D :  Um i thought the the method i should file would be the other suggestions for everybody
+D :  And
+D :  The reason i just put that they're all like that is
+D :  That um intonation initial stage i think i should just be open to want to suggestions you can say anything you want them and also it's a onto the chip on your car at idiap remote or a chip
+D :  Um turn on your c. t. i. to do it i um and then as we go on all have to do is accept eliminate these suggestions according to um
+D :  Design budget feasibility so i'll be coming to you um frequently as the industrial expert to tell mean
+C :  Uh-huh
+D :  How hard it's gonna be to add a feature or how expensive it's gonna be or your time is it takes five years to develop this is just something we can do so maybe getting just have a big
+C :  Mm hmm
+D :  Pile of things that we anybody can throw anything in and then just read things out that can be done for one reason or another
+D :  And then the things that seem the most attractive of that
+D :  To uh to the customer will try to then prioritise the house so that was um what i meant there
+C :  Yeah
+D :  And as i said on the slide their consulting industrial engineer about that
+D :  And the other thing is timing is really gonna be as important as money because if we're gonna sell this thing
+D :  I think the best time to sell this is christmas present
+D :  Twenty five euros makes a nice or present
+D :  And we want to be an impulse purchase we want somebody to see it and think it's the i just gotta have that
+D :  And take after what buy it
+D :  So it's gonna be really attractive and it but it's gotta go to market by september "'cause" anything that you don't have already out there in september
+D :  Showing it around isn't can sell for christmas
+D :  Um and then i'll be coming to you as the user interface person to try to tell me from your point of view
+D :  What
+D :  Are the most friendly features that we could put on it
+D :  And try to pry are helping with uh prioritising
+D :  Of uh of the features and have the the lock and the colour and
+D :  I'll be coming back to you to help we got the suggestions from that point of view so you can lead to use for how much is it gonna cost of how long is it gonna take you
+B :  Okay
+D :  And uh becoming to you to tell me
+D :  What's gonna make somebody take after a while like you know what what's the what what's gonna really be
+B :  What's it is
+D :  What they call this is all "'cause" we gotta sell this is all i
+B :  That was
+D :  I have a lot of times the thing that works the best an engineering point of view is in the thing that somebody's really just gonna take out there will buy for christmas for for their child or for the husband or whatever
+D :  Okay can we go the next slide please
+D :  I i i already did a little bit of research at our first meeting where we threw out some ideas
+D :  And it looks to me that within the budget they were looking at the on the whole house idea really isn't gonna be possible so i'd like your suggestions to come back to the other slide were were saying we we could suggest anything it like this it just has to be really specific
+D :  So that will have a list of things we can cross off not something like the whole house control
+D :  What do you
+D :  And then uh i found on the internet from from my research that some extent of electronic entertainment control should be possible at the budget they were looking at that the price point we're looking at we should be able to make it work the t. v. t. v. c. r. the stereo or is that
+D :  Um maybe something else cute like a coffee pot or one other appliance or maybe a one yeah
+A :  Okay can i can i at this point in project um something um we have received instruction from higher out of that certain things should not be a considered
+D :  I have to wind up
+D :  Okay
+A :  Um the the one thing for example something to eliminate maybe that's the teletext because that's sort of outdated
+D :  Okay
+A :  We see internet
+A :  And accordingly to to hire management
+D :  Yeah
+A :  Be it should only control the t. v.
+A :  Mostly because they feel they need to calm complex the tasks to um to
+A :  To include other things
+A :  And they're concerned with the time to market
+D :  Of course yeah
+A :  Okay
+B :  Okay
+A :  Um and d. and the third saying that they wanna make sure um that there that that
+D :  Yeah so that's something
+A :  Corporate image is being maintained and that the corporate colour and design are being used on the product so that it easy but
+A :  That it can be easily identified as a product or for of off the company and that there's no mistake but it could be somebody else was bringing this ad so i just wanna going to check this year so we not getting too much off track here with uh
+A :  With the things you wanna look at these were instructions from higher up so we have to eliminate uh these things so it's only gonna be t. v.
+D :  Okay so
+A :  But the one thing maybe that could be uh a and you make this a teletext the idea
+D :  Okay
+A :  Okay
+D :  Alright thanks for that
+D :  Um
+D :  Ah right now of the things that i found out on in my research is that the complaints of people have about remote controls that are out there now
+D :  It's a lot of them take too much time to learn how to use
+D :  And
+D :  That was thirty four percent it even more important the thing that we did address our last meeting that
+D :  Frequently it's lost somewhere in the room
+D :  Um so those are two things that we definitely do one would dress
+D :  Are we wanna see make it as simple as possible wanna make it um obvious and intuitive to use
+D :  And
+D :  Then we
+D :  Things about finding it
+D :  We talked about about a light emitting thing as well as uh maybe beep
+D :  And i think that those are things after my research that we definitely wanna try to incorporate into it or the next slide please
+D :  Okay so my personal preferences in this um project
+D :  Or are we really have to concentrate on this is all that is the selling point the thing that's gonna make it an impulse purchase
+D :  Art because wants there's no be back in mind cells they always say you know be back still come back
+D :  If somebody says i'll come back in getting next week you're dead
+D :  They're never gonna come back and but you gotta make it attractive enough to be by now now now we're now was a big board and
+D :  In my book for selling this thing
+D :  And in order to make it really sellable we've got a short knowing curve make sure it's really intuitive in easy to use
+D :  We have to have as few buttons as possible
+D :  Because the more buttons is more confusion so that's what i'm saying simplicity is good finding it's important obviously can't you can't find it
+D :  So gotta concentrate on the features that help you find it
+D :  And i've already said this several times but i put it in writing here should be an attractive impulse purchase a twenty five euros so it has to have an of value that when somebody looks at at this it at twenty five euros an activity that has to be so great
+D :  They they can say at twenty five euros isn't much
+D :  Um and then maybe a model like we put fashion in electronics might be something we can use our marketing campaign
+D :  Okay that's uh about it for me right now
+A :  Uh okay
+A :  And um
+A :  Who would be next uh uh
+A :  I guess that would be you
+C :  Yeah
+A :  Uh-huh you what we do get your slideshow a uh-huh
+C :  Yeah yeah sure
+A :  And you are number three
+C :  Number two
+A :  Number two
+C :  Okay mm "'kay" tough screen
+C :  Now it's like oh yeah
+C :  Yes yeah
+A :  Yeah yeah uh
+C :  So
+A :  Uh-huh
+C :  Um so today i'm going to talk about the working design of the remote control
+D :  Okay
+C :  Or you want to make
+C :  Slide please
+A :  Uh-huh
+C :  The method is like uh in a remote control you have a chip integrated set keywords
+C :  Which is like a pre of the remote control what it takes the cover from a battery see battery it can't be an l. a. and the chip supplied like you have to
+C :  Oh i like the the switch it can it can it can connect your uh remote control or to a power supply from the you know electricity or something like that it should be a battery because uh a remote control should be like you you you should take it
+C :  The two but it would you want
+D :  Mm hmm
+C :  And then uh oh uh that that's integrated circuit it it takes energy from the power source and ah what they would like if you press a button it's like a input for the remote control it and it takes the input and it
+C :  It's transforms into uh in front runner bits and it sends it it to the device like t. v. or that you can be spent something like that so
+C :  Oh i remote control or is it specifically designed to a single device if you want to design it for multiple devices that you should make all the devices compatible with the frequency
+C :  Make uh the the remote control or it sends some bits some
+C :  Oh o. b. it's like but
+C :  A particular frequency the device should know what the frequencies it should be really good night is the
+C :  Oh o. b. it's which are coming from that remote control it and it should be action like if you press the button channel or something like that
+C :  Then uh the remote uh remote control would say that
+C :  Centres to send a signal and the t. v. it should
+D :  Signal
+C :  Translate that into like change
+B :  Is it
+C :  Channel or something like that change the volume control
+D :  Uh-huh
+A :  Uh-huh
+C :  And
+C :  Oh so uh i think it's hard to design a remote control for my people are devices
+D :  Yeah well that's already been eliminated by management sell more often but i
+A :  Yeah oh and that's
+A :  Yeah
+C :  Uh yeah
+A :  That so i
+B :  No
+C :  I
+C :  Well
+C :  So all user interface controls the chip and accordingly the messages like they should be a user uses
+C :  Interface like oh you know switch that or something like that but that should be there so uh you can control what the way you want you want to change the channel you want to control the what do you want to go new a new to the t. v. or you want to have a child lock or you want to do some operations that's that should that should be some device to tell what to do to that well in um
+C :  Integrated so cute so that the integrated circuit can't stand the signals and t. v. can pull for the
+D :  Okay
+C :  Actions
+C :  "'s" go next
+D :  Okay
+C :  So i i just would like to uh are are some extra features to the remote control it
+D :  Uh-huh
+C :  Well i think these are the very simple features and uh they don't take much are are are much of the
+C :  Oh well investment also it's like uh oh
+C :  The text or buttons which well which are there on the old remote control and it goes we can me
+C :  Oh oh like fruit a sense
+D :  Uh-huh
+C :  Uh they'll be like like a meeting if it is dark so that you can find your remote control if it is dark
+C :  And uh they should be i'll be
+C :  As many buttons i pressed if suppose that i used to lean but the the remote control and uh and she she or he is pressing the buttons all at the time then they should be i'll be saying that it did this is not that all you know well
+C :  Well action did they can be no action take into that so and they should be outside to lock like well well you should be able to lock your remote controller so that uh oh
+C :  And what they were buttons are presently a child second be like you if you if you have key kids and all then they'll be sleeping with remote controls so
+C :  Can you know the remote control it to make it usable for more than one device it's a it's hard but i think it's possible
+A :  Yeah well
+A :  Yeah well that has been at that has been eliminated so that's that's a question be a mute point now uh-huh
+D :  Well we already eliminated uh huh
+C :  Yeah yeah yeah
+B :  In in in it does
+C :  Yeah so uh it's uh oh yeah yeah
+C :  And i different shapes that we can do like uh we can have you know at one and she it's all your comfortable
+C :  It it's can fit into your hands and
+C :  Um so that
+D :  Yeah that's good for marketing point of view be funny the funny shape
+C :  Yeah yeah yeah and colours also different uh less is
+A :  Yeah i
+D :  And that is you say that one had too much to the budget to do the shape is uh uh
+B :  Uhuh
+C :  No no it's uh i don't think it will be like you can have you know for uh if you want it is there that you made
+D :  Yeah
+A :  It just may kill them all basically and uh you know
+C :  Yeah yeah it's it's it's just just shape so it doesn't matter
+B :  Yes exactly
+A :  As a budget we looking at if you have one more than don't think that's gonna make a bit different so it's gonna be square or
+C :  Yeah
+D :  Do you think there's any chance of um having so i think basically the same as you mentioned buttons but maybe several different shapes
+C :  Yeah that is of course is like a yeah i uh you yeah
+A :  Oh yes
+D :  Is that can be a button "'cause" that might help with the marketing
+A :  I think i think we will have to look at the budget on that but i think in principle that that will be they'll be kinda fun you know
+C :  Yeah that's right
+C :  Yeah
+D :  Because we had something sort of sexy for at all so we can have some things sort of
+C :  So it was
+A :  Silly for children
+D :  Sally for children are not animals they are in it or not elephants so they can remember where it is i
+C :  That's true
+A :  Like in any more
+B :  Like at all or
+C :  Yeah that's what
+A :  Yeah
+B :  I find it
+C :  Yeah exactly
+C :  Yeah and and uh the bottom buttons also i think if you want to have more features in your remote control and then there should be more buttons if there are more buttons then it will be more complicated if you have less features then your remote control it won't be a track
+C :  So i think that we need to make some buttons which are which are like i'll be uh oh
+C :  Uh in a in a good for two was the operations like if you press one button in one more than it would change the channel if you press the other button and and uh that would be to change the colour so if you want to have less buttons we can have that option but i think it will complicate the matter what i think so
+D :  Mm
+D :  No i think i think that that's something that we'll have to discuss them with the user interface person is i think there's a lot of arguments we made for roo one button for one feature that in one of the things people were complaining about it might wanna send out my research
+C :  Yeah
+D :  Is when they complained about how hard it is the one in new one
+C :  Uh-huh
+D :  The changing modes was something
+C :  So yeah it's like you know
+D :  I mean you and i all for all four of us work with computers all the time changing those is nothing for us
+B :  Okay
+D :  But people who
+A :  A little elderly a little arthritic hand you know and and it's a small but and and and they they don't press it exactly you know something else happens and not their favourite channel comes up at something else and they very frustrated you know
+D :  And and
+C :  No
+C :  Yeah
+C :  Yeah
+B :  Something yeah
+D :  That's it i think people and by feel
+D :  And um you don't feel them i would say it so um maybe having buttons being very shapes might be a help you
+C :  Yeah yeah you don't use it
+C :  Yeah
+C :  Yeah she it's also different sure
+D :  You know like the triangle is for the volume and a square is for changing channels
+B :  Uh so
+C :  Yeah
+D :  So that people can uh uh develop a tactile sensor that we'll get to that with you
+C :  Yeah
+C :  Yeah and also takes should be very clear so that they they won't be any ambiguities
+B :  Yes
+D :  That's right yeah yeah that's a good point yeah
+B :  Yes
+C :  And a display clock of it if you want more features that we can display o'clock i'd i don't think it would be kidding
+C :  Money extra money because i mean maybe have an integrated circuit i think we can just definitely fit that region of the circuits
+D :  Yeah that's that's a good that's a good one
+A :  Uh-huh
+C :  Yeah
+D :  Because the clock could be really friendly and when when is your favourite channel coming i i i
+A :  Yes
+A :  Yes
+C :  Yeah and then you just a remote control yeah yeah yeah yeah so
+B :  Yeah yeah
+A :  Yeah yes it is a radio maybe have no other uh a
+D :  Yeah a lot of time is not o'clock on the screen you have to go somewhere but you just wanna look at the news for a minute yeah that's that's good the court is good
+C :  Yeah
+C :  Yeah
+D :  Okay
+C :  Uh can you go to the next
+A :  Uh-huh
+C :  Well components are the main components we need for it uh it had like buttons
+C :  And uh and to me that there should be switched
+C :  And uh but it's
+C :  Like out we can have a bulb like whenever we are all put it in the remote control or or
+C :  Well then it but but d. v. d.s on support
+B :  Mm
+C :  Then uh the remote control or should automatically have one it's like it's
+D :  Uh-huh
+C :  Then it will be like if you switch on your t. v. to add another source not from two one remote remote control and you you lost your remote control but maybe you can find the with the lights
+D :  Uh-huh
+C :  Maybe we can have that many but the t. v.s on remote control would have liked
+D :  Uh-huh
+C :  And then uh infrared but it's
+D :  Uh-huh
+C :  Oh this is like well we went to start
+A :  Yeah uh-huh
+D :  Uh-huh
+C :  And actually they should be a battery for power supply
+D :  Uh-huh
+C :  I'm a chip
+C :  Chip which is like a printed the remote control which does all the operations
+A :  Uh-huh
+C :  And vice kind of thing or the chips which is
+C :  Uh lights everything so that should be buyers
+A :  Yeah
+C :  And i'll i'll of course they should be a key is very became
+C :  Keep all the things and you know different shapes or whatever it is it should be used
+C :  To give a shit
+B :  To keep the remote
+C :  Yeah
+D :  Case
+B :  Uh keys for the uh hold the remote for uh
+C :  Yeah whole do
+A :  Folder yeah uh-huh
+C :  Yeah okay mm
+C :  How next slide
+C :  Um
+C :  I have for for those sites or
+C :  Though will be each of the
+C :  Oh oh oh that's right uh from that they have uh uh
+C :  I got
+C :  Few points
+A :  Uh-huh
+C :  That's it from me know
+A :  Okay
+D :  So it um we should visit the site have a look at the top yeah
+C :  Um mm
+A :  Or you don't have to
+C :  Uh it's not like that i have the for the page two
+C :  Get new ideas or like what can be the working design too
+D :  Oh okay
+C :  Or it works
+D :  Okay
+D :  That might be helpful we have a look at that
+C :  If you want
+D :  Thank you
+D :  Do that that's what we're sure that the setup but
+C :  That it's actually didn't know
+C :  On the screen
+A :  This one
+D :  Yeah okay thank you
+A :  Yeah
+A :  Fancy
+B :  Participant two
+A :  You are number two
+B :  Yes
+B :  No nine three
+A :  Three
+B :  You can make for yes yes
+A :  Would you wanted to hold full screen uh-huh
+A :  Okay
+B :  Okay as uh user interface designer i did a little research
+B :  To find out what are the features which are you so would like to have on their remote
+A :  Uh-huh
+B :  Yeah can you please want the mixed right
+A :  Uh-huh
+B :  So i find out that
+B :  Uh uh above the the the main purpose of our remote is to uh oh control the function uh for television it
+B :  At the file of the standard remote distance
+B :  No for that uh our remote control i should have a switch on off button
+B :  But it to use it can sit anywhere in the room in front of the t. v. and they can control the functionalities different functionalities of the
+B :  T. v.
+B :  They should be a signal
+B :  Uh something like the video we ought uh infrared light already led which can be used to change the different functionalities in the television if the user wants to
+B :  Uh change the channels are in "'cause" he's the one he and he can change it
+D :  Uh-huh
+B :  That they should be some time at the set for viewing a particular a particular program uh switching on and off uh our particular program according to the user
+A :  On the on the on the remote
+B :  Tries
+B :  Yes yes
+A :  Yeah uh-huh
+B :  So if if you want to view a particular program that's eight nine o'clock you can said that time and the t. v. will automatically it was switch on at that particular time
+A :  Uh-huh
+A :  Uh-huh
+B :  So you can use that kind of uh well properties of features
+B :  And then they should be at i do not system if a particular channel it's not
+B :  To be easy would buy a particular um phone or upset in each then the p. n. n.'s can do a lot of that particular channel so that that's children cannot you that time
+A :  Yes
+A :  Like that uh-huh
+D :  Uh-huh
+A :  Uh-huh
+B :  And uh the uh the uh and the one of the feature to a user would like to have as the compact less of the car remote
+A :  Uh-huh
+D :  Uh-huh
+B :  But in the remote should be combat connection that it should have as many buttons as possible
+B :  For controlling different functionalities of the t. v. television
+B :  And uh but uh uh as uh uh uh this is my personal preference that it should be in the shape of a d. and i have uh bad for more compact ability
+A :  Uh-huh
+B :  And uh and uh and a there's the one more point which i noted it down to make up the meeting in which it should it is useful remote should be human friendly it should not "'cause" in a skin disease are some things and and the l. a. g.
+A :  Uh-huh
+B :  By the children not to um and i don't bus and
+A :  Uh-huh uh-huh
+D :  Mm mm
+B :  And it should have an uh it can have an add-on clark
+B :  Oh up as in its uh if somebody wants to get that but uh round it eta b. and then you can said that i mean it can be used as an alarm clock and i don't think it will cost much to set an alarm clock inside the remote
+A :  Uh-huh
+C :  Sure
+A :  Uh-huh
+C :  If there is o'clock and that could be
+D :  An alarm clock a large that's right
+B :  Yes and as john be said the buttons can be uh it can be a
+B :  We can use the floor is cents
+B :  To light that the buttons so different
+B :  Uh buttons will grow differently so even in the doubt they use it can know what buttons to use research on a particular channel
+B :  And uh the design of the uh um um remote should be in such a way that they should not be in the shop projections
+B :  So that if a child please that the remote
+C :  Mm
+B :  He uh he should not be harmed in any rate
+B :  And findings
+B :  Uh i found out that uh you on that and different sites that uh there are different remotes which can be used that i did was which use the infrared it for controlling the different functionalities then i've remotes which use the video be used to control the functions
+B :  And there are other
+B :  So that you have different other types of remotes for different light source
+B :  Which i use which can be used for controlling the different functionalities of innovation
+B :  And it's uh
+B :  And use than a few wasn't of preferences like it can be used for the multipurpose use not a not uh to make it can it can be used as a t. v. controller as well as an alarm clock
+B :  Is that a man on the timing and it should have a child lock
+B :  And then to save electricity uh they should not be so much small room are lots of so the kids and all that
+B :  And if a person if i have it be and so once the television to be switched all by ten o'clock
+B :  Then it should be switched off turn up at ten o'clock automatically so that nobody gets translated and use it
+C :  Okay it's like a time in there
+A :  Timer yeah uh-huh uh-huh
+B :  Right now
+C :  Lock to the television
+B :  Yeah and then you can use it i might as well
+B :  Yes
+A :  Uh okay
+A :  Uh
+A :  Well my slide so basically v. or e. we have only done the agenda
+A :  And uh on the closing that uh basically they would be lunch break and all that however
+A :  Uh the decision we have to take in this meeting is
+A :  Cool what is our target group
+B :  Okay
+A :  And uh
+A :  What function and working design
+A :  How how does it work
+A :  So these are two things we should come up with with
+A :  So uh
+A :  The first thing is pro or maybe a little easier on the who is our target group
+A :  Um
+A :  I guess in many ways everybody
+A :  Everybody who has a t. v.
+C :  Mm
+B :  T. v. television he was
+A :  Yeah and i think today that we not many people who
+A :  Don't have a t. v.
+C :  Yeah
+A :  They are a few but in general not
+A :  Now talking about the target group which is in a sense everybody but i think within the target group we have stopped groups
+A :  We have we have earlier he was mentioned uh they have to um for example elderly people
+B :  Uh-huh
+A :  Who have limited function is their fingers and hands so i think that's a one group but that's certainly important
+A :  Um
+A :  Then we have just a nervous people can never press a little but not many saying
+A :  Um unless it's really very clear
+C :  Yeah
+A :  And uh i don't know how much we want to cater to children's use
+A :  I mean that's a question
+A :  Um where the that's
+A :  Important that children can really use it
+A :  Or not
+A :  So this these are just some thoughts i have one it and um i don't know what you feel of their
+D :  Uh-huh
+A :  Whether we can just say we have one target group
+A :  And for this one target group we gonna design this one thing
+A :  Or whether we looking at what be like we we talked about different shapes
+D :  Uh-huh
+A :  Whether that different shape also includes may be different
+A :  Uh buttons
+D :  Uh-huh
+A :  Uh for
+A :  The different groups
+D :  Well you know they're still not no children under six never chapel on
+A :  Uh-huh
+D :  So have you design something that's very attractive to children
+D :  Um the mommy please mommy please um you know we want it now we wanna go to the store and see it um that has uh a lot of marketing call
+A :  That had a lot of
+A :  That a lot of appeal but i think
+A :  Uh uh i'm i'm talking about the functionality now on it with the be looking at different groups i think the children issue can be addressed we see shape
+D :  Uh-huh
+A :  And we scholars
+D :  That's right
+B :  Okay
+A :  Yeah no of like you make it nice and pink forest and banana colour or whatever i
+B :  Yes
+D :  To make a banana shaped well i
+A :  Yeah for example you know
+A :  But the question is really cool is our target group
+D :  Uh-huh
+A :  Do we look at one target group
+A :  And
+A :  With the twenty five euros you know can we can we afford to have uh i'm asking the technical people here whether
+A :  Um it to look at it's
+A :  Sort of sub groups with maybe different buttons for each crew
+A :  How much would that there was
+A :  Out of the cost we are supposed to
+D :  Respect
+A :  Respect
+D :  Uh-huh
+B :  Okay
+B :  Um
+B :  Generally we can we can design a remote which is mean need for
+B :  People bit of uh it's from their tend to um forty
+A :  Right
+B :  And and then we can add on uh specific uh functional buttons for children as well as the elderly people are the people bit v.
+A :  With with
+B :  We have no it's problems yes
+C :  Yeah maybe we can design different remotes for different people like for each to be the that will be big buttons and you know
+A :  Uh-huh
+A :  Well that's that's
+B :  In a family in a family they will be a a each person children and them at least but they cannot buy three different remotes
+C :  Yeah
+C :  Yes and and everybody
+B :  They would like to buy this one
+B :  And no just mind this can be used they all the three uh
+C :  Yeah of course that we can do but specifically
+C :  They candidly people want a big buttons then you you can't really make a bit big remote control um
+C :  So maybe specific and you can design a bit more in the in for children
+C :  They were
+D :  What about the electronics that's not really gonna change much is it
+B :  Cost effective
+C :  No it it doesn't cost
+D :  That that will that will change much will it hmm
+A :  No it
+C :  Yeah that's that's
+D :  And i waited yeah
+A :  The question the question to be addressed here is only with the target group and how we lead function
+D :  Mm
+A :  And i think how we lead function is probably
+A :  The question of the buttons you know a wee thing the target group or sub groups
+D :  Yeah
+A :  The question is only whether our budget will allow
+A :  Two
+A :  Have
+A :  More than one design in a sense
+D :  Yeah
+A :  And it a basic design a understand will be the same but the question is
+A :  How much will that set us back if it's a uh uh forty percent we make large buttons and the rest we make regular buttons for example
+C :  Yes
+D :  Yeah
+A :  So that we may instance do be seen but
+A :  Uh a target group as a whole this
+A :  It's basically everybody was a t. v.
+D :  That's right
+B :  Yes
+D :  And can we can we is it even feasible to make
+D :  One one remote control with something for everyone or we have to try to use the same electronics and make three different shape us
+A :  Yeah well that's that's the question
+D :  Um the same electronics and basically all that's gonna be different is the plastic case
+D :  And in that case we could probable moulded plastic isn't all that expensive is it um here's an industrial person
+C :  And i i don't think uh-huh
+A :  Well maybe there's there's an eight year it you know to the new for example new portable phones
+D :  Uh-huh
+A :  They have like removable
+A :  Plastic case is that you can have a striped one or you can have uh for a simple one own or whatever and maybe something like that to that
+D :  Yeah
+D :  Uh-huh
+B :  Okay
+A :  In each package you know you have
+D :  Uh there's a real idea yeah
+A :  You you have you would have for example uh would you you have a that's a for a simple one eight
+D :  Uh-huh
+A :  But then you have a
+A :  Another colour or stripe whatever that already comes in a package
+A :  And then if people really want more colours they can buy it separately
+D :  Right
+C :  Yeah like for mobile phones we have uh different you know covers
+A :  You know
+A :  Yes
+D :  Uh-huh
+C :  Maybe if i know that you can
+B :  Yeah
+A :  That's right and but like if if then everybody is is is high end of the floor a simple and if this type or whatever they have as another one in the package and they can go to the store and for few uh francs or euros whatever they can buy
+D :  Uh yeah
+D :  An alternate packet
+A :  An alternate packet with another two colours in it you know for example where oh
+D :  Yeah okay
+B :  But uh yeah i i have a doubt like with it because flies i think that if we if we design of remote having all the
+B :  Uh different features for different people are designing three different um
+B :  Remotes for three different categories of people
+A :  Well i think i think the idea here is to it do to do design one remote
+D :  Well i think we can only afford it
+B :  Okay
+C :  Yeah
+A :  And what the only changes gonna be a um defunct
+D :  Cosmetic
+A :  Yeah i i know what the functional it functional cosmetics if you want to put it that way um having may be larger buttons or buttons that light up or buttons that are slightly differently shape for people of uh either for children um
+B :  Auto okay
+B :  Okay
+B :  Uh-huh
+A :  Five minutes i was i guess that that still message
+D :  Warning finish meeting now
+A :  Finish meeting now um
+A :  Uh uh um
+D :  Well we may have to come back to work to this point to the next meeting but um mm
+C :  Yeah maybe yeah
+A :  But i think
+C :  Yes we do some more research might be nice
+A :  I i think to sum it up the target group is basically everybody
+A :  If money permits we can address some features for some sub groups
+D :  Uh-huh
+B :  Okay
+A :  Within that
+C :  Hmm yeah
+B :  Uh-huh
+D :  Okay we have to look
+A :  Do we agree do we
+C :  Maybe seventy dollars and there's uh unique oh oh oh remote control very well on that yeah
+A :  Do we agree on on that in principle like money will tell whether we will be able to do that or not
+C :  Yeah yeah
+D :  Okay
+B :  Yes
+D :  Fair enough
+A :  Oh okay so now i understand it's lunch break
+A :  Yeah
+C :  Yeah
+A :  That's all
+D :  Okay
+B :  Mm
+B :  Thank you very much
+D :  Yeah
+C :  Okay thank you
+A :  Yeah
+C :  See
+C :  I

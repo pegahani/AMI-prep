@@ -1,0 +1,988 @@
+C :  Excellent so um
+C :  I a essentially agenda was on them in the project documents that you got a chance to just
+C :  Have a look at it
+C :  Anyway it's the meeting's gonna follow
+C :  More or less the same structures last time it's a real book or round each of you intend and
+C :  You can give your presentations on what you've been up to
+C :  Um
+C :  And at the end of that we need to discuss what you've come up with so that we can
+C :  Make a decision on the key remote control concept
+C :  So that we need to
+C :  No about the components properties materials
+C :  The user interface
+C :  And
+C :  Any trends that
+C :  The marketing expert has been watching
+A :  Right
+C :  Okay um do you wanna start again
+C :  Okay
+C :  We've got forty minutes
+A :  So i haven't been a powerpoint presentation yeah i i thought values i had
+C :  You haven't made a powerpoint okay
+C :  Uh-huh
+A :  Um i i
+C :  But at the pinhole top
+A :  Okay so um
+A :  Basically i'll start off by
+A :  Um i thought i'll use the whiteboard because we have so many different options
+A :  And what we can do is that we can start uh um
+A :  Uh rubbing off the options that we do not require
+C :  Uh-huh
+A :  And putting the options that are are are more manager and lining or something like that
+A :  Okay so uh i'll start again with the brief introduction to
+A :  Connect that anyway
+A :  Brief introduction to the insides of uh
+A :  Remote control
+A :  And uh
+A :  And then we can probably
+A :  Uh
+A :  Discuss the release components
+A :  Okay so what what you see i. is the this is the outside of the remote right
+C :  Uh-huh
+A :  If you all all point eight
+A :  You have
+A :  A circuit board here
+A :  Right and this is the chip that that was talking about last time
+A :  This is basically send information to look uh transistor yeah
+A :  Which then uh uh uh a sense information to an l. e. d. device yeah
+C :  Uh-huh
+A :  If you flip
+A :  The printed circuit board and this is the most important point here uh
+A :  Everything else is kind of
+B :  Yeah
+A :  Okay
+A :  So if you
+A :  So if the circuit board is that what it looks like
+A :  So you see for example a particular button attaches to a particular place on the
+A :  B. c. b.
+A :  And uh
+A :  On pressing this button
+A :  I i said that completes
+A :  The information goes to the chip which is somewhere here
+A :  And the chip that that and then translates the court into i mean for a infrared radiation
+A :  Which course goes out so there
+A :  So uh the important point a
+A :  That i don't know what the website was uh
+A :  That the configurations all of these practical circuit boards
+A :  Ah are quite can be a good than printed as you want to
+A :  So we can have a configuration well um irrespective of the cost the way we want to have
+C :  Uh-huh
+A :  That's it for twenty or so these are the different options that we have
+A :  Okay
+A :  So
+A :  The battery cells talk to the battery right
+C :  Uh-huh
+A :  So on
+A :  They can be simple
+A :  Which is like uh the normal batteries in the r. or uh or the cells yeah
+C :  Yep
+A :  Uh
+A :  These these are the kind of kind of batteries that the company makes
+A :  So
+A :  Hand dynamo us
+A :  Um
+B :  Does that mean like a wind-up one
+A :  Yeah
+A :  So
+D :  Yeah
+A :  Uhuh
+B :  Uh wind it were way it
+A :  I don't know if even if you want to consider this but the uh the different things that the company make so the the they'll they'll since other comment only from the company really uh cheaper all these options
+C :  Okay
+C :  Uh-huh
+A :  So
+A :  The third one is the
+A :  A kind of taken that you on this
+B :  You may the hand dynamo into an exercise bike and then you've got exciting was watching t. v.
+C :  And charging the remote
+B :  Yeah and still worrying about the whole r. s. i. from the right thing "'cause" that's it
+C :  Yes
+D :  Mm mm
+C :  Yeah yeah
+A :  Yeah yeah
+D :  Uh-huh
+A :  It's a good option
+D :  So what's the what's disc kate
+A :  The the kinetic energy one is that idea uh and but there are uh usually more than watch is since are hand keeps moving it keeps to watch taking i don't know if it is a good idea for a remote control because it would just lie there for a long while sometimes
+D :  Okay
+C :  Uh yeah uh
+C :  Uh-huh
+C :  The remote "'cause" you
+C :  Yeah
+D :  Uh-huh
+A :  As soon as you pick it up it moves and then again it to it it recharges or something
+C :  Yeah
+A :  And the fourth option is the
+A :  Solar cells
+B :  Yay
+A :  Which are also i have made the company and lemon friendly
+A :  Okay
+A :  Um so at least things and then we can come back and discuss what what we think from uh everybody's perspective
+C :  Yeah
+A :  There are different cases are in that can be provided
+A :  They can be
+A :  Basically the shape of the cases they can be flat
+C :  Uh-huh
+A :  It can be curved
+A :  Would do
+A :  Um one sided
+A :  Go to one side flat
+A :  And they can be coloured
+A :  But
+A :  On both sides
+C :  Uh-huh
+A :  These are the three options
+A :  Um
+D :  And you mean this would be like b. d. or a shape of the remote control yeah uh-huh
+A :  Yeah would would be flat and what the sides would be code from one side or
+D :  Yeah uh-huh uh-huh
+D :  Uh-huh uh-huh
+A :  Uh there were different kind of supplements available um like it can mean plastic rubber board
+A :  Or titanium
+C :  Uh-huh
+C :  Okay
+A :  Thing
+B :  Did you say well
+C :  Would would
+A :  What would
+D :  Oh oh i
+B :  Would
+A :  Yeah and i will
+B :  Yeah you're right
+C :  A flat fee remote
+A :  Yeah yeah
+D :  I
+B :  Yeah you and december i read it is
+A :  Oh really okay
+A :  Um
+A :  The so uh we can use even um certain titanium's also used to uh in the company to make the
+A :  Uh some space design equipment
+A :  So it's kind of um a it'll be probably nicer to use because it relates to the overall image of the company
+A :  But the uh it cannot be used on a double curved surface if we choose this we can't choose titanium
+A :  For for these two we can use titanium
+A :  Mm ford
+A :  Rubber or plastic
+C :  Uh-huh
+A :  Um okay the interface options now
+A :  So
+A :  We can have pushbuttons like most remotes to
+A :  And uh our company's an expert in making pushbuttons
+A :  Uh we can have scroll wheels like the ones on um a mouse pointer and the can
+B :  Save me
+C :  Uh-huh
+B :  So the x. m. l. and uh huh
+A :  Yeah yeah something uh
+A :  So and they have they can even have an an integrated the push button inside the scrolling
+C :  Okay
+A :  The scroll
+A :  Plus put
+A :  So this is something that has been recently developed by the company
+A :  Um in the last decade but not too we should
+A :  An l. c. d.s we can haul c. d. c.
+A :  These two are you saying
+A :  And
+A :  And this is
+A :  Or
+C :  Uh-huh
+A :  The base electronic options are
+A :  Um
+A :  Uh
+A :  So the this concerns first first of all the the chips i i should do that uh
+A :  So there's there's a chip be and this one right
+A :  The um p. c. b. c. uh inexpensive so we can put in that whatever we want to
+A :  But the base integrated circuit options are
+A :  We have either a simple one
+A :  Or a regular
+A :  Or advanced
+A :  And um
+A :  The price goes up
+C :  Uh-huh
+A :  As we go down
+A :  Obviously
+A :  Um
+A :  Okay so the good thing about the the why why we why we would want to use it once we why we might want to use advanced is that uh
+A :  L. c. d.s can only come with the advanced chip
+C :  Uh-huh
+A :  Um the we need a regular or advanced
+A :  For uh a scroll wheels
+A :  Right
+A :  Um and the chip basically include same for uh infrared sender
+C :  Uh-huh
+A :  Yeah um besides this in in like under electronics
+A :  Uh we also the company has started making
+A :  A sample sender which
+A :  But not explain what what it was
+A :  I'm guessing that the
+A :  So they have a sample sensor and sample speaker
+A :  So i'm guessing that the the sample speaker is probably something like a uh and uh you know as soon as you press a button it it now that gives gives you feed that one
+A :  Five or whatever yeah on
+C :  Uh-huh
+A :  Um
+A :  And uh um i don't know whether some percent or centre has to
+A :  Something that voice recognition or not but anyway so the other different options that we have
+A :  Okay
+A :  So um but that's that's basically now now i think that the
+A :  We can integrate the um uh uh you know where the user interface uh
+A :  And uh the marketing things in that
+D :  Hmm
+A :  Keep the taking out things on this and uh and many things that are important
+C :  Uh-huh
+C :  Excellent
+C :  Do you wanna stay some linear the board so that if we need to
+D :  Okay
+A :  Yeah yeah sure
+C :  You can sit down but just
+C :  We manage easily pop
+C :  What do you powerpoint so uh
+D :  Okay
+D :  Um i have some powerpoint yeah
+A :  Right
+C :  Okay
+A :  Mm
+A :  Yeah
+A :  Mm
+D :  Uh-huh
+A :  Mm
+D :  Yeah
+C :  I think these pens can give you can sort of hand some sort of
+C :  Radiation
+A :  Yeah
+B :  Has this little come and uh
+C :  Yeah
+B :  Okay and uh
+D :  Okay
+A :  Yeah it should
+C :  Ashe interface concept
+D :  Okay
+D :  Um to be honest actually i mention some uh some other things uh which which could fit and uh and the the stalk
+D :  Um this time i'm i mentioned them already in the previous talk
+C :  That's fine
+D :  So um yeah this time um i might not have them on the slides but i i can just
+C :  Uh-huh
+D :  Mention the more and and
+D :  Okay
+D :  So um i thought um i would also include the definition of user interface
+B :  Oh
+D :  Um so it's the aspects of a of a of a computer system or program which can be seen
+D :  Yeah but we use um
+D :  Um
+D :  And and which uh the making is that the user uses to control its operation and input data so this would include things like shape and size and buttons and
+D :  And voice recognition as well and colour and so on
+C :  Uh-huh
+D :  Um
+D :  And the message i. e. uh employee this time
+A :  I
+D :  Was uh again having to look to related products and menu on the internet
+D :  And then uh it um
+D :  Analyse them and from the point of view of use a fan friendliness
+D :  And uh also um
+D :  What their their parents wants
+D :  Is pleasant
+D :  Um
+D :  And then then
+D :  It is uh this "'em"
+A :  Yeah
+D :  This can help us to decide which we just want to incorporate
+C :  Uh-huh
+D :  You know what
+D :  Product
+D :  So some findings um
+D :  Um
+D :  Some in in the case so many user interface is there just so full of buttons that it's actually
+D :  A hard to find the ones you you really
+D :  Um want to use and um this is confusing it takes
+D :  No time to learn
+D :  Um
+D :  Okay and i sold i would just to to show some of them
+D :  Well i found
+D :  Okay some of them are here
+D :  Um for the pitch is not very clear but as you can see there are at all or no sorry about that
+D :  Go back
+A :  Uh-huh that's nice uh
+D :  At o. p. it's
+D :  Okay
+D :  So yeah that might be you can have many many buttons actually it all that all all these i personally prefer this one because it's it's the smallest and and with with least
+D :  Um with us most number of buttons as one and i would say e. even the appearance of some of them is kind of
+B :  Okay
+D :  Not so nice
+C :  Mm
+D :  Um okay
+D :  So uh
+D :  That's carry on on this
+D :  Um
+D :  So uh in a lot of findings
+D :  And some new things and i used
+D :  Uh some of them were mentioned already by what to to close
+D :  Um design yeah
+D :  Yeah
+D :  Our own company has developed a new in user interface
+D :  Oh wait no this is not the one okay there is uh we can uh in in for voice recognition and um it allows
+D :  It's possible to record
+D :  A two different ways samples and it's
+C :  Uh-huh
+A :  Hmm
+D :  Uh so uh this uh this one was already mentioned the the the l. c. display
+C :  Yep
+D :  Um is another new development is the scroll button which was also there are also already mentioned
+D :  And uh our own manufacturing division has uh designed
+D :  A new um
+A :  I i i
+D :  The programme bill the speech uh uh uh
+A :  I
+D :  Sorry to speak unit i guess it's it should be
+C :  Yeah
+D :  Um
+D :  And this means that um
+D :  Wants uh it it it's it comes together what the voice recognition but it's once once the um and that you'd a recogniser is the the voice of the speech get there can be uh uh and preprogrammed on set for example you can pick up the remote control and say you something to it like l. a. and it says the hell are and your name with a
+C :  Uh huh
+C :  Hi yeah uh-huh
+D :  So i mean this is also one of them give new developments as we might consider
+D :  If we wanted to include
+A :  Uh sorry i can you go back or second uh
+A :  What are you sure what what this means a spinning we all with the l. c. display uh huh
+C :  It's like the
+C :  Like you said know the scroll
+A :  I uh
+B :  Yeah you can
+C :  Well we'll
+D :  No no the scroll button is a different think i i have a picture if you
+A :  Mm
+D :  Mm just a moment all
+D :  I see i wasn't completely sure myself but i think it's just like um
+D :  It's it's a way it it's like not separate buttons like this one here but i'm i'm not really sure what they what they you can really turn it around it's like you press this or this or
+A :  Oh okay the ipod yeah
+B :  Oh it's like the ipod
+B :  Yeah no idea karen it's light
+A :  So is the ipod the kind of uh
+B :  It's like wait you know you have d. a. q. mouse and you go around it is kind of a that it needs to spend round in it
+C :  Uh huh
+A :  Right right
+A :  Okay
+B :  Yeah
+B :  Is
+A :  So instead of going down you just pen
+B :  You just go round the isn't a way to pass but it's actually very
+C :  Uh-huh
+A :  I
+B :  Like fast
+A :  Uh huh
+C :  Uh-huh
+B :  I like the the wheel as the click on the side g. i. numbers know so it's quite good if you like searching quite a lot of stuff
+C :  Uh-huh
+D :  Oh
+B :  Yeah if you look if you
+A :  I
+B :  Scrolling through the a to z. v. music any looking for something it t. v.
+A :  Uh-huh
+B :  That is a lot faster than the wheel but you've got a lot less control and uh
+A :  Right i i include that here as well as c. d. is
+C :  Uh-huh
+D :  Hmm
+C :  Mm yeah
+A :  Um so that's spinning
+C :  Yeah
+D :  Okay and the personal preferences uh pretty much the same as a as a as last time
+C :  Uh-huh
+D :  It has to be a small simple
+D :  Okay we decided to include voice recognition
+D :  So to have the standards a major buttons like on off um the the channels and
+A :  I i i i
+D :  And then um volume and then the rest would be the menu on the screen
+A :  I
+D :  Uh and i i also sold uh it if we want to keep it small and nice
+A :  I i
+D :  And and actually i i'd
+A :  I i
+D :  Quite like the idea of a scroll the scrolling button as
+A :  I i
+D :  Could be for for voice like i dunno it in like um
+A :  I
+D :  Um i like it used to be an walkmans or something there is uh uh i think there's no reason why we can do something like this fall
+A :  I
+D :  For the remote control
+C :  Uh-huh
+D :  So yeah that's a that's it
+C :  Excellent
+C :  Okay straight to trends and then we can
+C :  Discuss of all the ones
+A :  I
+A :  I
+B :  Okay uh for
+A :  I i
+B :  Coffee the presentation
+C :  The project documents
+A :  I
+B :  Yeah
+C :  If you too could have to do that
+A :  I
+A :  I
+C :  In case we need to refer to that
+A :  I
+B :  Cool
+C :  Yeah comes
+A :  I
+A :  I
+A :  I i i i
+C :  Uh okay
+A :  I
+B :  Yes
+B :  Okay cool
+A :  I
+B :  Um say why did was to says since that's come out with market trends
+B :  And you may what is it gonna be one think in the the new feature
+C :  Uh-huh
+B :  Okay
+B :  Right now the first aspect is the only twice as important as the second aspect
+C :  Mm
+B :  Which twice as important as the third aspect
+C :  Okay
+B :  Say i mean they'd be easy to use thing is fairly low down
+B :  On the
+B :  We doing given that are gay previews what you would expect
+B :  Really
+C :  Uh-huh
+B :  Um
+B :  You name people want something you something technologically innovative in different say
+B :  The whole idea with the l. c. d.s and the spinning in the colours and the voice recognition is quite like
+B :  I think see a four
+C :  Uh-huh
+B :  And um yeah he wants to look fancy
+A :  I guess so um
+B :  Fancy look and
+B :  Say
+A :  Man maybe as you're discussing things it is it okay if we just to keep highlighting things there
+C :  Yeah yeah sure
+B :  Yeah yeah
+C :  Yeah
+A :  And so on but
+C :  That's over on the interface if you could put uh-huh
+A :  So it
+A :  Yeah
+A :  So probably always recognition is is kind of
+C :  Yep uh-huh
+A :  Important right
+A :  Um and that
+C :  Or maybe the l. c. d. and spinning
+A :  Uh yeah okay i i have a point about l. c. d. i don't know if it is that i went to pick it up
+C :  So that means we need an advanced thing
+A :  Oh uh l. c. d.s are basically for feedback right to use it was pressing buttons
+C :  Uh-huh
+B :  Mm
+A :  And a feedback can come to the television itself so do we need an c. d. on the remote
+B :  And uh fast your television and so they didn't do any think
+B :  They are got one today is um tenuous boxes
+B :  And you put the number in the remote and then you wait in any case the t. v. in any way you can then it comes so we actually is quite a long time
+C :  Hmm
+A :  Right
+B :  But if you get the number moment it's a bit of a pain so i think in a screen on them i would probably
+B :  "'kay" downey time and that will always do tend to of going about a bit
+A :  Right
+C :  It it is also quite nice to to to have something here so you don't interrupt the picture on the screen so if you're watching something
+B :  In a
+B :  Yeah
+A :  That's true yeah that's also
+B :  And it would be like um if you could make integrate with the t. v. then it could come up with your information about what's on and you could just see that on the remote lot of them
+C :  Yeah
+C :  Rather than having to interrupt your viewing pleasure
+B :  Yeah
+B :  But um i think maybe a way to do it would be assimilate i have your mobile phone you know like you have the slide you want and you have to flip you want and then the screen is protected so it doesn't actually get scratched
+A :  Right
+C :  Mm
+B :  So you can have a lot what looks like a normal remote control unit or like a minimalist remote controls you will you buttons want to ninety on and off
+C :  Yeah
+A :  Mm right
+B :  Anybody one that
+B :  And then if you want to mess about with that you flip it open
+C :  I mean you can flip it open
+B :  And
+A :  Okay
+A :  So now we seem to have a consensus that the l. c. d.s are definitely the way to go because thailand
+C :  Yeah i think so yeah
+B :  Yeah so the car to decide you hold chip think
+A :  Right
+C :  Yeah uh-huh
+A :  You you agree
+D :  Yep yeah
+A :  Okay yeah yeah
+C :  Right
+A :  So
+B :  Okay
+A :  L. c. d. "'s" definitely
+B :  Okay a apparently a place and vegetables will be for writing inspiration so i i discovered to follow up
+A :  Uh-huh
+A :  Uh-huh
+A :  I
+B :  And it's a visa be an important feature for clothes shoes and furniture so i i mean i'm taking this to mean you know you could have been s.
+B :  Teenage easy ten ten to get a flat vegetables
+C :  Yeah and possibly even i mean and like not not sum it yeah
+A :  I
+B :  In a
+B :  Yeah bit of a symmetry and stuff but that would be a good way to to get in the whole um
+B :  R. s. i. d. issue when uh because i mean if you think most people use the main control with the wind up
+C :  Uh-huh
+A :  Alright
+B :  Right and see you wanna
+B :  You could have it say that it's too small fee so i had
+D :  Uh-huh
+C :  Uh-huh
+B :  Um yeah i'm not quite sure about the relevance of material will be spongy
+B :  Um
+C :  Something a bit squishy and
+B :  Yeah well i mean you you have to
+A :  Yeah we we have a
+D :  So it it could be like a rubbery yeah yeah uh-huh
+A :  We have rubber
+A :  I i i i um
+A :  Um we're using i
+B :  As we as you get uh make a an electric shock a few remote control if it was made for
+A :  I i i
+C :  Yeah and it may help if you drop it is protected as well
+A :  Mm
+B :  Yeah
+B :  Yeah
+C :  To some degree
+A :  So if if we use uh latex cases they want to allow us to use solar cells and i was trying to i am i don't think i was
+C :  Uh huh
+A :  Titanium ford
+A :  Or
+A :  Plastic
+C :  Or if we want to use the the latex then we have to go with one of the other
+A :  Or
+C :  Um power things
+B :  If it's made of rubber you should get the kinetic energy fairly easy way you could use
+A :  Yeah well energy source
+C :  From there
+A :  Yeah but on the best yeah
+B :  That's a a friend
+C :  From bouncing it
+C :  Yeah but there's like a little ball down
+A :  Uh huh
+D :  Uh-huh
+C :  But flips open
+B :  Yeah
+A :  Uh-huh
+B :  Yeah
+D :  Yeah
+B :  Um it's a yeah
+B :  Uh make a
+A :  So probably double curved surface is the way to go
+A :  Yeah uh
+B :  Yeah
+C :  Mm yeah
+B :  Yeah
+A :  Or
+A :  Oh that one and and flat and the top because i'm not sure if it's flat on both both the sides and how how much easy would it be to reach for buttons etcetera
+A :  Uh i
+B :  You have to have a send another flatness i think it it depends on the whole
+A :  Yeah
+A :  I i
+B :  Economic
+B :  In a it's like how you put your hand same
+A :  I i i will say it called a double-sided code doesn't say too much does it
+B :  At least movement basically
+B :  Not that i mean it makes a lot of different it's
+A :  Yeah
+B :  I am one is slightly frames and i mean the back is essentially straight
+C :  Hmm
+B :  But it's currently say
+C :  Yeah "'cause" uh
+B :  The size here for sides to this thing so i mean just have one side mean one side is straight
+A :  I think the
+C :  Yeah
+A :  Yeah right
+B :  And you know you could have two sides mean it's the whole thing is just to be coming that thing
+C :  And then
+A :  In there and if it's a anywhere in your research material about the sliding stuff or because um i didn't mention that i have i think the the old one the options that we have that the cases at least three
+A :  Uh easy yeah i well i was the first case or a cover so it doesn't say anything about go to the you know the the stuff is available at all
+B :  Yeah
+C :  Nothing to
+C :  Open
+B :  Yeah at the e. c.'s more about the protecting the l. c. d. which i think is where it came from
+A :  I
+A :  Yeah
+B :  And then my research and how we anything which is why we have all the pictures "'cause" at the thing that has to do it might time
+A :  Yeah yeah right
+C :  Okay
+A :  Okay
+B :  Okay cool
+C :  Anything else one forgotten uh-huh
+B :  Uh combine style with the level of function i see
+B :  Um be simple as fancy
+B :  And i think peace
+B :  And
+C :  Okay
+C :  So uh yeah
+C :  Looking at what we've got a fish
+C :  We we we want an l. c. d. display with the spinning wheel
+A :  I
+A :  I try to her of all things and yeah so on um hand and i was i definitely out right
+C :  Yeah rubber of some of those
+D :  Yeah
+A :  Uh where you you go to wind euro um yeah yeah
+D :  He uh and yeah
+C :  Yeah oh
+C :  It's not uh that's not streamlined and sexy having yeah
+A :  Okay
+C :  Having the wind up
+A :  Um
+A :  Kinetic energy to seem to have some kind of uh well uh appeal but uh
+C :  I think that
+B :  Is that the practicality really is in a in a i mean if
+A :  It's
+A :  Mm yeah
+A :  As it is to watch which constantly keeps moving this this thing we'll have to be tapped every time which which might be
+A :  Maybe frustrating for the user
+C :  Depends how much how much
+C :  Movement it really names
+A :  Kind of energy it needs
+A :  I don't have too much technical information on here
+C :  But presumably if they're suggesting it then
+C :  We could use it
+A :  Okay let's keep it option to give an option yeah
+C :  I'd i'd keep it on
+A :  Um
+A :  The slack a completely flat case is definitely out tried it has to be at least go from one side yeah
+C :  We don't want that that's no that's not not vegetable uh-huh
+D :  Yeah it's yeah
+D :  Uh-huh
+A :  Um
+A :  Okay we still have all all the options aboard be think would will be a good idea
+D :  And what is i'd
+D :  On the holiday i mean you can't keep it the race more
+D :  Uh you can't make it like stay in and
+A :  Right
+D :  I would think because you need to unit you need to put all the technology and so it i mean if the case you have the case and
+C :  Mm hm
+B :  Dark on imagine um what would you know
+A :  Yeah if it if it is a really thin
+C :  Mm
+D :  It it becomes a big bulky one yeah
+A :  If it is a really can it it just like you to break it's it's much more
+C :  Mm
+D :  Yeah yeah
+C :  Yeah and given that where we're looking at more spongy
+D :  Yeah
+A :  Uh
+C :  Material preferences i would think maybe a rubber or plastic is more
+A :  Yeah
+D :  Yeah yeah wood is not really yeah
+A :  Yeah
+B :  But it's not like a noble yeah
+C :  Yeah
+A :  That's true
+B :  Gene a
+D :  Yeah
+B :  Is it is not
+B :  Tactical i'm a disease or if a table but for a remote control unit
+A :  Mm yeah
+B :  And splinters and stuff and
+A :  Yeah
+C :  Yeah
+A :  Okay
+A :  What is um
+B :  Is it does make any sense i think it's the thing with wood
+D :  Yeah okay in that case a remote control really
+C :  Yeah
+A :  Okay now for the really interesting stuff interface
+A :  Right so on
+A :  Uh and that the pushbuttons uh is is our expertise to uh in the industry
+A :  But uh it seems to be made out of try and you know and and nobody seems to be
+B :  You have to have some pushbuttons then you
+D :  Yeah but
+D :  The aim i think for for the kind of um but uh channel numbers you still need them within yeah
+C :  Uh-huh
+B :  Yeah yeah
+D :  Yeah
+A :  Right
+D :  So for channel numbers but
+A :  Well if if we have a l. c. d. displays that opens up a whole word you know you if you have an l. c. d. display then them you can select almost everything on the l. c. d. display
+D :  But as
+D :  Yeah but i think that the l. c. d. display is kind of yeah it's faster well up middle and we've would be someone we is going to discuss that we might like this flipping open thing then i mean you you can use it as a normal remote control but if you do you want to use l. c. d. then you flip it open but it's it it's more time consuming
+C :  Just for fast
+A :  Right
+C :  Yeah
+C :  Yeah
+B :  Yeah
+C :  Yeah
+B :  I mean is it came out to the to go off at the beginning i made why you know it the buttons the people use all the time you want buttons for them
+A :  Mm right
+D :  Yeah
+B :  And everything else
+C :  And uh
+C :  Yeah
+B :  Many done
+C :  L. c. d.
+A :  So the uh in in the what buttons we have all the channels also we have options do it to be enumerate everything from zero to nine or do we have just the channel plus channel minus just to use a scroll
+D :  No no i i mean when we would if any data and the numbers because that's
+A :  The number
+D :  Uh otherwise it people don't want to flip through all the channels
+B :  Yeah
+B :  Yeah
+C :  Do we need them on as passions or do we need them as l. c. d.
+A :  Right
+D :  Uh
+A :  Or
+A :  One the l. c. d. we can may not
+B :  Yeah um i do think that sends yeah
+D :  Yeah i what
+D :  Say buttons because it's yeah
+C :  Russians
+A :  Okay
+B :  Is is that i think the thing is say if someone just want to turn on the t. v.
+A :  So
+C :  Hmm
+B :  And paul on a channel
+B :  They they should be easier to use than any of them um i it and then if someone wants to yeah you change the contrast on the t. v. and
+C :  Yeah uh-huh
+D :  Yeah
+A :  Right
+B :  They should be able to do that any should be accessible but
+D :  Uh-huh
+B :  You may i mean
+B :  Races the time i mean there's a limit to how much the biggest technique and spend fiddling with the t. v.
+A :  Alright
+C :  Yep
+B :  I think is that the the issue there
+A :  Okay so buttons definitely in fact okay
+A :  Shall we try to draw are uh press um
+C :  I think that's what you guys are gonna doing next so if we put an i. k. e.
+A :  Okay
+A :  Okay
+C :  Um things
+A :  Okay so all the components
+D :  Yeah
+A :  Right so uh um what about the the scrolling uh
+C :  That we want
+D :  Yeah but but i i'm not completely completely clear uh i uh yeah about the spinning wheel so uh i think it
+D :  It doesn't make sense to have both like a scrolling and spending things you cannot include everything in a spinning if you
+B :  Either that or
+C :  Just spinning and not scrolling i would say yeah
+B :  Yeah
+D :  Yeah yeah
+D :  In that case
+B :  I would say this is the spinning there is a high speed to the to the scrolling wheels so you have to decide would be
+C :  Yeah
+B :  You you know you want to be gangs a frost or not
+B :  But i mean the the thing with this whole if you planning on making a a rubber on the basis that it's spongy
+C :  Hmm mm
+B :  That i'm not sure how one scrolling wheel with what
+A :  Hmmm of um
+C :  But if you've got a if
+D :  No but i mean you can
+C :  If you've got a flip thing effectively at something that's curved on one side and flash on the other side but you fold it in half
+B :  Yeah but you spinning wheel tends to go to one side
+C :  That would be on one side uh huh
+A :  And it showed should be a good idea to construct the whole thing out of rubber
+D :  Yeah and i think so too i mean the case would be yeah the case would be rather than that the buttons
+C :  No
+A :  Is it
+C :  I think it's just a casing rubber on the outside
+B :  You want an outside of rubber and then uh you for now
+A :  Or or at the corner of the edges just the edges court by rubber or something like that everything else and plastic are we wouldn't titanium if you want to do that
+C :  Yeah
+D :  Rubber buttons but then
+C :  Yeah
+D :  Yeah
+B :  Or maybe like interchangeable cases
+B :  "'cause" i'm a bit like we came back type of the again room the whole spinning wheel but i have like uh yeah we seem ipods not made of
+B :  Well but then i have a little more the case the case the the top of it and i can change the colour
+A :  Right
+C :  Uh-huh
+A :  Right
+B :  Theoretically to match well
+C :  But
+D :  Uh-huh
+A :  Okay so uh so that gives us a more trendy look as well
+A :  Um
+B :  Yeah i think the spinning wheels definitely very now
+A :  Right
+C :  Uh-huh
+D :  Uh-huh
+A :  Yeah and uh we are going more for the trends time for the usability anyway
+C :  That's right that's what they're after
+B :  Yeah
+A :  So
+A :  I'll rub that out
+A :  And the colours can be provided with the case rather than
+A :  Um
+C :  Uh-huh
+A :  But we still need to think about the colour of a remote as such you know just keep black or
+D :  Yeah i think way uh it was a a requirement that we use so um and that the colours of our company so would it be like yellow grey and black or something no
+C :  I guess
+B :  That doesn't fit in with the whole vegetable theme there
+D :  It is
+C :  Bananas
+D :  Mm
+D :  Banana c. l. a. yeah yeah definitely
+B :  Yeah uh uh i mean do you think we could incorporate the colours of the company and the buttons
+B :  And then they pick out of the main remote it
+B :  The colour like vegetable colours t. v. so you could have like i mean aspect which was would be orange and green and some ads
+C :  Uh-huh
+C :  Green yeah
+B :  And um maybe powerful and uh and then you pick that
+C :  Yeah
+B :  Buttons and company colours to match that
+A :  Mm
+A :  Okay
+A :  Um
+A :  Okay if you go over to an integrated circuits
+A :  Uh since we are having l. c. d. is that there's no way that we room that will be able to
+C :  We need the advanced
+C :  Yep uh-huh
+A :  Um what we do need to consider how where is the the price is going off in every every such thing that we are considering
+C :  Yeah
+A :  But since l. c. d. is it seems to be uh a definite yes so um this seems to be one eighty a very would want to spend
+A :  So i'll rub off the other two
+C :  Uh-huh
+B :  So we discounting solar energy beaches well there's gonna be used in the somewhere or
+C :  That was the
+A :  Oh so the constraint was uh
+C :  We can't have
+A :  Yeah
+B :  Solar panels with the rubber
+C :  Solar panels with rubber
+A :  Yeah
+A :  So um
+C :  So um
+B :  Yeah i "'kay" so you really is that i think
+C :  Should we go if we're if we're going for
+C :  Right but we think are on as our case
+D :  Uh-huh
+C :  And then
+D :  From the buttons as well and
+C :  Yeah
+D :  Yeah
+A :  I think the
+C :  We've got five more minutes
+A :  We'll have a
+A :  Uh using the simple battery will be a safer option as compared to the kinetic energy one
+C :  Uh-huh
+A :  I mean although it does seem uh um interesting
+B :  Yeah
+C :  Yeah mm
+A :  But it doesn't work any advantages uh search for a
+C :  Yeah
+B :  Is just a gimmick
+C :  Uh-huh
+A :  Yeah
+A :  "'kay"
+A :  Uh okay so are we in a sense but don't know that the the the speaker is for the feedback right
+C :  Uh-huh
+A :  It's it's a it's the the things that you type in or something like that
+C :  Yeah
+A :  So
+C :  I think if we can if we can include them at not too much extra cost
+A :  Yeah
+C :  Then i put the mean but if it's
+A :  We we don't have too much information about it um
+C :  Yeah
+D :  Yeah but it is but i think it should be quite cheap because it's from our own company yeah
+C :  That's from the company
+A :  Okay
+C :  So uh yeah
+A :  So so the this is and as well and
+A :  The samples
+C :  Yeah
+C :  Okay
+C :  And the case is curved on one side but then
+A :  Flat on the top
+C :  Flat
+C :  That so it's flipped
+D :  Uh-huh
+C :  Into each other
+A :  Okay
+C :  Can i call them
+B :  Yeah sure sure
+C :  Thing at the back of your computer
+C :  Yes okay
+B :  So i don't
+C :  No i think it's uh huh that's
+A :  I i
+A :  I
+B :  What is um i. c. s. mean
+A :  I
+A :  Tracy's
+A :  Uh integrated circuits
+B :  I "'kay"
+B :  So it's advanced integrated circuit
+A :  Yeah i i
+C :  Uh huh
+A :  Well i would definitely going in for voice recognition as well
+D :  Yeah
+A :  As l. c. d.s
+C :  Yeah uh-huh
+C :  No no wait
+A :  Mm
+C :  Okay
+C :  So we have
+C :  Basically worked out that we're going with that
+C :  Simple battery
+C :  D.
+C :  Advanced chip
+C :  And uh
+C :  Curved on one side case which is folded in on itself
+C :  Um made it a problem
+C :  And
+C :  The buttons are also rubber we have in push buttons on the outside and then on the inside an l. c. d. with spinning wheel um or incorporating voice recognition
+C :  Or overall concept and it's gonna look sort of age at all
+D :  Um
+D :  Uh-huh
+C :  And be in bright vegetable colours
+D :  Uh-huh
+D :  So it in or what do we have the spinning wheel inside with the l. c. d. would it be on the l. to
+C :  I think it's only
+B :  But you know been signed
+D :  Okay
+B :  So i i'm actually that could like really
+B :  Cat tiny things say you've got your outside which is like minimalist
+D :  Uh-huh
+B :  And then you open up
+B :  And you go screen
+D :  Yeah okay
+B :  And spinning wheel which you can incorporate buttons and t.
+D :  Uh-huh
+C :  Uh-huh
+B :  Um it's a
+C :  Yep
+B :  You still not got like a lot of stuff in there
+C :  Only
+B :  You'd maybe call
+B :  You mean
+B :  Like if you modelling on a report you've got
+B :  Five buttons and are we all
+C :  Uh-huh
+B :  And for the buttons are in the wheel
+B :  And the other ones the little bit inside we
+C :  In the centre yeah
+B :  Yeah
+D :  Yeah
+C :  Shall okay so now we've got thirty minutes before uh next meeting
+C :  In the meantime the industrial design right here is gonna work on the look and feel design
+C :  Which i presume work out what that means
+A :  I
+C :  Um the user interface designer will work on the in the user interface design
+A :  Uh-huh
+C :  And the marketing expert
+C :  It's going to work on product evaluation
+C :  And as well as that's the two designers are going to work together on a prototype following those instructions that we've just come up with
+C :  Using modelling clay and you get extra
+A :  Uh-huh
+C :  Instructions
+C :  From your personal coach
+C :  Several okay and anyone hasn't put their their presentation in the project documents folder would be could just so in case we have to refer to it
+D :  Yep
+A :  Yeah okay
+D :  Uh-huh
+B :  Ooh
+B :  And we can sell main uh-huh
+C :  And nobody wants to talk to you
+B :  And they are
+C :  Unplug it so
+B :  Um hated
+D :  Hmm
+A :  Uh-huh
+B :  Our corporate time code of them
+D :  So but slightly more wife lost or shall i say here was
+B :  Oh
+C :  Uh so now um maybe it
+D :  We need to

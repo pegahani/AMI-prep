@@ -1,0 +1,881 @@
+B :  Uh-huh
+D :  Uh-huh
+A :  Okay good afternoon again
+A :  So
+A :  Hmmm we should have our final
+A :  Meeting
+A :  About the detailed design and a half
+A :  They design of the product
+A :  Of the remote control
+A :  Um
+A :  So is the agenda for today
+A :  Uh i just going to quickly through the minutes of last last the wiki get that we have a presentation a prototype
+A :  Oh you too
+A :  Sounds interesting
+A :  And we have a um a presentation of a variation could could say about all marketing expert's then we have to go to findings evaluation of the of the costs of these think
+A :  And um hopefully
+A :  Uh we should feeds
+A :  That are get out of twelve point five uh
+A :  Yeah you're
+A :  Okay so let's go um if i go quickly to the minutes of last meeting
+A :  So
+A :  We went through would mm
+A :  Uh we to just forming decisions
+A :  The whole n. c. d. no speech recognition technology okay
+A :  We went for one to about uh the look-and-feel
+A :  For the remote control
+A :  We went through the use of
+A :  Wheels and
+A :  The buttons
+A :  And also the use of the base station for battery which charging and uh also to of course uh
+A :  Two got a lot more a remote control when it is lost
+A :  Oh okay
+A :  Um that
+A :  So
+A :  Nice
+A :  But don't have these are wonderful thing
+C :  Okay so we can go to the slides
+A :  Oh yes sorry
+A :  Um
+C :  Number three
+C :  A number two sorry
+A :  Which is
+C :  So final design and uh
+C :  Okay so
+C :  I can you can go in
+B :  Yeah so uh
+B :  Following you know
+B :  Decision to uh
+B :  Make dealer well to make a banana
+A :  Yeah can you show it to them like an hour maybe
+B :  Remote
+B :  Okay so it
+B :  We actually have a
+C :  You can put it out first
+B :  We've well first that's all we made uh
+B :  An attractive base station
+B :  Uh with a a banana leaf a
+A :  Uh-huh
+B :  Look-and-feel
+B :  Um
+B :  And uh
+B :  But is it that sits in x. and also wait is that that's not connected to know
+B :  And um
+B :  This is the remote itself that's kind of it's it's ergonomic if it's in the hand
+B :  Uh
+B :  Oh well
+B :  We've got to to uh
+B :  Uh scroll-wheels yeah which you know one on the the left for the uh volume and one rifle
+B :  For channel
+B :  And uh underneath we have the uh
+B :  But other button
+B :  Which is in like a nice the treaty a position so
+B :  Enough for pressing can actually
+A :  What the use of that's terrible button already
+B :  This is when you when you uh scrolling the uh uh through the channels you can tell it to
+B :  To skip past channels that you
+A :  Hi and
+B :  Quickly brother
+A :  Then you stop when you stop it stop
+B :  Yeah well when you stop scroll and the wheel it it stops but normally with uh you will just just stay on each station briefly so you can see
+C :  And we we do have one more functionality if you take the banana as such
+C :  And uh you press the double working so it's which was star search on so t. v.
+B :  A two yeah
+A :  Which one
+B :  That that other button so rather than having uh
+C :  I teach me but
+B :  An extra button for
+B :  Um
+B :  For the on off switch we'd just use that a lot
+D :  What is what else
+B :  This is the teletext button
+B :  So what you press that then you get teletext and you can use the the channel selector scroll-wheel was uh
+A :  To navigate that's true that's true true
+B :  To navigate
+C :  That's right but
+D :  If you want to uh to pay seven hundred
+A :  Yeah with the wheel it's easy
+B :  Well then you can you you have like a little uh a number selection thing you press that's the the the teletext
+B :  Button uh to move between uh
+B :  The feel then you can the scroll the number back and forth so it has you carry you scroll to seven and then
+B :  There is your
+B :  And then you can uh
+D :  Uh stand
+D :  And everything
+B :  Well you can you can press the first teletext button and then you can you do
+D :  Yeah
+C :  So then you then both the scroll buttons they have for teletext closing
+C :  And you can tell it
+D :  Ah okay okay okay okay okay
+C :  Yeah one to present any data and then the scroll buttons
+C :  Yeah more for telly takes the uh normal for channel or volume
+D :  I see i see
+B :  And this is the uh
+B :  The infrared uh
+B :  Paul
+C :  That's right
+B :  Also the top of a banana
+B :  So and then we have in the uh
+B :  And the base station we have the the button up from four oh
+A :  Coming
+B :  For calling the uh the no
+A :  X. m. and the these these were little and it has
+B :  Actually they do
+B :  That's that's yeah that's uh
+A :  Oh
+B :  That's form and function in the one in the one no
+C :  So it always means whatever the race goes bank they they get reflected and then you're having a better coverage it's like antennas
+B :  So uh
+D :  Right
+B :  Yeah that's uh um let's just like that's attractive uh
+B :  A stage
+B :  So
+B :  Okay
+A :  So what else
+C :  And for the power source we are having solar cells and rechargeable batteries
+C :  And this and uh the basic station is going to have that
+C :  Input from that
+C :  Or line
+C :  Or
+C :  For charging the battery it's
+D :  Is it really wait
+D :  Is it night or
+C :  It is very light
+A :  Yeah is there like
+D :  Okay
+B :  It's it's it's about the weight of a banana
+B :  You know to give it a quick look and feel
+A :  The average
+C :  And we have put these different colours so that people don't mistake them mistake it as a banana
+C :  Otherwise it's you know
+D :  Yeah yeah so i i and i i understand
+C :  I tried it comes and so
+B :  I think a child try to eat it anyway so maybe we should
+B :  Consider that
+B :  Yeah maybe health and safety aspects
+C :  Or we didn't think of that it yeah
+A :  So folder possibles
+A :  Okay you still you want to usable sort of sense
+A :  Oh batteries
+C :  Oh yeah that's right
+A :  Oh you mean
+A :  Okay
+B :  I really do have the solar cells are actually necessary anymore very charging base station
+A :  Yeah well good luck
+A :  Where are you are you going to raise them
+C :  It'll it'll be a lizard top somewhere there
+B :  It falls got play some uh put them on the on the top yes and that's like
+A :  You have enough so face you're right
+B :  But yeah i i would i think it's necessary to have this also signal
+C :  Yeah because now we have a rechargeable batteries so
+A :  Okay
+C :  That that is true
+A :  But would be the attorney
+A :  Or three
+B :  The what sorry
+A :  Not too many
+A :  But only
+B :  What do you mean
+D :  Hold on that
+A :  I mean how long does
+D :  Hold on the the the batteries no
+A :  How long could be help of
+A :  Uh station
+B :  A long time
+C :  A three then a good ten hours
+B :  No no no i think in it should be weeks
+C :  Ignore most of the time it's not been used
+A :  Yeah so woods
+B :  Yeah but you people don't like to put it back in a base station all the time people we wanna leave it on the couch so uh
+C :  Like many are making it on
+A :  It's use only when you
+C :  Not a don't a dark then as of looking
+C :  If you're just leaving like that it would be much longer
+A :  Yeah for weeks
+C :  That's right
+A :  Right
+A :  Next slide
+C :  And we are having the speakers regular chip for control rising is was the fact that so that's where we are one put a regular chip only
+C :  Not the advanced chip
+C :  And uh
+C :  That's it
+A :  Okay
+A :  Okay great this is not evaluate
+C :  That's right
+A :  Okay
+A :  But it sounds
+A :  As you know so that
+B :  Since before we are
+D :  I yeah
+D :  Yeah
+D :  I like i like it maybe they the thing that
+D :  Companies me the less used they
+D :  The more to functional buttons
+D :  Looks of it
+C :  You want to have more functional buttons
+D :  Looks of it as a uh i dunno but
+D :  Yeah they they've got the buttons changed think they are function um depending if it was teletext or not
+C :  You're not gonna in
+C :  Not not too many we we want to keep it simple so that those buttons that that's what teletext which is usually also the case
+C :  That usually there is a teletext button and to press that the channel buttons
+C :  They about to become the scrolling buttons
+D :  And the volume but then we we we call on
+C :  It's up to you means not do that
+A :  What happened balls would be could be useful in the meetings
+C :  I mean selected this this can move down
+C :  The larger digits and this can move that's more digits
+B :  Or can move between positioned and uh and the number
+C :  That's right
+D :  I what about people who want to use these it's
+D :  But uh we are buttons
+A :  Well
+C :  Yeah so there was there was a constraint that the surface area which we have one to spend on on one side
+C :  Because of the shape
+C :  So we are targeting a segment which is which is just
+C :  Really trendy kind of thing that they don't care about the buttons anymore
+C :  And it anyway it
+D :  Because we have is that a lot coffee waste on on on this kind of a style
+B :  What's all about it
+D :  It's all on top
+D :  Yeah
+D :  Okay so what what we are living in a wonderful or
+A :  Very good yeah
+A :  Yeah i
+A :  Then as everywhere
+A :  Okay so
+D :  Automatically come to a word
+A :  So we have to go through now variations
+C :  You will uh
+A :  So
+A :  Your slides already
+A :  Well you for think
+A :  So this is one which one this one
+D :  O. k. i. a.
+D :  I can just
+D :  I dissected that i used of the telly yeah
+D :  Base and they
+D :  And designer user requirements
+D :  And it's cute a. d. a.'s
+D :  We we are lady
+D :  It's uh
+D :  Logic okay okay yeah so and we must
+D :  Users must say
+D :  If it's true or is it or if it's false
+D :  In a in a skate ranging from zero
+D :  To seven
+C :  Why this strange factor of seven
+D :  Because it
+D :  That's right
+D :  Sorry
+C :  Usually have seen that scares out from one
+D :  Uh yeah it's not sorry it's from one to seven is sort of for one to seven sorry
+D :  Because it should be an even
+D :  You should be any then
+C :  Okay
+D :  Escape
+C :  Uh-huh
+D :  And five
+D :  If the solar and nineties too long
+C :  Okay
+C :  Okay fine good idea
+D :  And i i
+A :  It's not you know to have enough granularity
+D :  Sorry
+A :  It's you know to have enough because i'm not married t. v. that issue
+D :  Okay
+D :  The body as use mean it's
+A :  Okay
+D :  In a mouse
+C :  Okay great
+D :  I'm i'm i'm saying it was
+C :  Okay yeah
+C :  No it
+D :  And that's a k. k. yeah i i found more useful i think it's at
+D :  I quite like the kate katie i'm the on the whiteboard
+C :  Uh-huh true
+D :  And we or for a whole range
+C :  Okay
+D :  Could be one way they
+A :  Okay
+D :  No
+C :  So you can say fancy
+C :  Handy
+C :  Handy
+D :  Okay let's that's about eight if it's fancy uh
+C :  Yeah it's fancy according to me
+D :  Seven but
+A :  Yeah six
+C :  Seven seven button
+A :  So that
+A :  Six
+D :  I would say seven
+D :  It's quite fancy
+C :  So you can and seven plus express them and that's
+A :  No wait
+B :  Yeah or five
+A :  But it's a seven
+C :  Five
+B :  Five maybe
+B :  So it it may be six it's it's it's it's
+A :  Okay six point five
+A :  And they
+C :  And in any of seven
+A :  So
+B :  I'd give it a six like that i think it's probably more handy that my car remote
+D :  Six
+B :  "'cause" of the scroll-wheels but maybe was apart from not having you know the extra
+B :  Buttons when you real if you do
+B :  Need them to summarise but
+B :  You know you can always use your other
+B :  Right
+A :  So
+A :  So and so than six
+C :  So and and
+B :  Yeah
+D :  Six
+A :  Six point five
+A :  Functional
+C :  I'll give fine
+A :  Four
+D :  I would say
+A :  I don't
+B :  Well depends when you say functional do you mean it does what we wanted to do or that does what
+B :  Because you know
+D :  Anything at all
+B :  To make a coffee
+B :  You know
+A :  I'll fall remote control
+A :  Does he had
+A :  All d. k. b. t.'s
+B :  Yeah
+D :  It's compared to the or
+C :  That's right
+D :  Remote control
+B :  As before
+C :  The standards
+C :  What is available in the market not sure
+B :  Yeah i have to say four
+D :  Actually i dunno whatever the the video is just to get some far off or you knew that so
+B :  Was not a universal remote
+D :  Remote control
+D :  I it's not that you know that
+D :  All kind of t. v.s
+B :  Well all t. v.s but only
+B :  Any t. v.s i guess
+A :  So it's you know so but forties
+A :  Thoughts uh fall
+C :  Like
+A :  Five
+B :  Four
+D :  Four
+C :  So four point two
+B :  This fall
+A :  Four
+C :  Put it for
+B :  You see there's an outline is sort of
+A :  Uh-huh
+A :  Okay cool
+A :  Cool device
+C :  They're i'll give it some uh
+D :  It may scroll features and i eh
+D :  New features that right
+C :  That's right
+B :  Which
+C :  For a t. v. the most important feature which have it was the locator
+C :  Which is a quick feature
+C :  And then the scroll buttons are reading would features
+C :  We don't have a c. d. for it but
+C :  We decided we don't want uh huh
+A :  Yeah
+A :  Yeah
+D :  I would say five
+B :  That's a five
+A :  Six
+C :  So
+A :  Six
+A :  I think i think seven
+A :  So it's six
+D :  Does that sound
+B :  "'cause" five five seven seven
+C :  Okay
+B :  Uhuh
+B :  Okay definitely easy to use
+C :  Definitely seven
+B :  So
+A :  So uh
+A :  Seven
+A :  And you
+A :  A clear
+A :  Ha ha
+D :  Sorry i i have them
+A :  Yeah i get get
+B :  Alright now here's the
+B :  Sixty million dollar question
+B :  Well twenty five twenty five euro question
+A :  Calls
+A :  All buy them in common
+B :  We we as reckon
+D :  I think
+C :  I'll see if i
+A :  Oh
+D :  Of "'cause" the most difficult question for the end
+C :  I'd say five
+A :  Twenty five euros
+D :  I find it quite cheap actually i don't know if
+D :  It depends if you live in switzerland really thin
+A :  Yeah so that i get price use it for you or a need for each country's
+A :  Well it's more like it in u. k. u. or
+D :  I don't know what they need to have the sufficient work for the whole room or you rub or
+A :  So this setting costs not production costs
+D :  Yeah this is a mini set a specific a sense
+A :  Yeah sure it's um
+D :  Uh-huh
+D :  I would say six it's quite cheap sorry
+B :  I'd say two
+C :  Why
+B :  I of them to narrow it
+B :  So if you could to it
+B :  Yeah but that arrow but
+C :  No but it's
+A :  Very nice
+C :  We actually if you see
+B :  It's handy
+C :  So handy and then
+B :  It's handy but it it's terrible
+C :  And if anybody all gonna say i
+C :  Anyway you got a zero only let these last one is what is this
+B :  Yeah but that's not a positive thing
+C :  It's a very positive thing if you see like that
+B :  Well yeah
+B :  It's it's handy it's eight
+B :  The banana
+A :  But for the file gets well well but it did not so
+A :  Well for for wow
+C :  Youngsters
+D :  I'd say maybe
+B :  I i i would buy this so uh
+A :  Not well yeah i if you would be
+D :  Yeah
+A :  Younger
+A :  That that right
+A :  But like a teenager function
+B :  No i i i
+B :  I would but
+A :  You are you or
+A :  Crazy teenager and you're like fun single
+C :  You want to flaunt
+A :  Yeah
+C :  Your video got a friend or something
+A :  Yeah you want to show the be a bulb and then you have
+C :  All might be there's some other kind of thing but
+B :  Still i i'd say two i don't think uh at any stage in my life i would wanna banana remote control really
+C :  Yeah i
+A :  Okay so did
+B :  I can say
+B :  It was a market for
+A :  Oh yeah yeah that
+A :  So you say two
+C :  I see if i
+A :  I i say five
+A :  You say
+D :  I'd say is that was that
+A :  So what do you
+C :  And you say that
+D :  So yeah i dunno there
+C :  You have to rebuild
+A :  Uh yeah think so
+A :  Oh
+B :  Okay so it
+B :  It depends if uh
+D :  Yeah is that a physical a sense if you read any that's a remote control all
+D :  You you all
+D :  Would change your remote control for that for anyone
+A :  Yeah it has to do
+B :  If i had to spend twenty five euro
+B :  Is that was like mile that maybe a lot but
+B :  Because the other twenty five your remote control probably gonna look
+C :  Then i'm going to do
+B :  Worse than a banana
+C :  And they they might not be air as easy eh
+B :  Yeah this is kind of thing that handy to use
+D :  So what not
+A :  I think two five
+D :  Was it
+C :  I was likely a six
+B :  Although it still has
+B :  So that's the word of course at the beginning
+B :  So
+B :  Uh and uh um
+A :  What what six
+B :  I'll give i i give it a
+B :  I give it a four now
+A :  So well are
+D :  Six six
+C :  Six five four
+A :  Six five four
+D :  Six
+D :  So it's a five point five or less
+A :  Yeah
+C :  Okay
+A :  So and last question what action i would change my a week remote control from and the room and and uh
+A :  Um
+A :  You know we we can
+A :  So one
+D :  I actually yeah i i we
+A :  Well if it was thinking i will
+A :  Well i set up a two
+B :  Yeah
+B :  I'd say
+B :  Sorry i mean my remote control is gonna have time is
+B :  Pretty
+B :  Terrible if it was to have a remote control of my d. v. d. player from another none of them not be more inclined to
+A :  For the t. v.
+B :  But it uh "'cause" it's really bad but uh
+D :  Okay
+B :  I'd say three
+C :  Uh so give it a five
+D :  Five
+A :  Two three
+D :  No romantic interlude
+D :  I would say two
+A :  And to
+C :  So it's uh we had three point five okay
+A :  So that's true
+A :  Yeah triple and five
+A :  Okay
+D :  Where's that idea
+D :  This at five
+C :  No i said right
+A :  Why do you say five
+A :  Ease of that later
+A :  Okay just just do some
+D :  I don't know if
+D :  So uh
+B :  Not very promising but you know
+B :  Why not yeah okay
+D :  No because there are more mm yeah
+D :  We should have sound like that
+A :  Well maybe we should we should the
+D :  Because
+D :  They last two questions as much more important than the rest actually
+D :  Otherwise we will then we would not so
+B :  Some some
+B :  For me well you're using this is you have to sum up
+D :  Uh uh an ion correct
+B :  Well it
+B :  It's clear that then
+C :  Oops
+D :  Yeah and the
+A :  So maybe they would we can we should just take to a giraffe eating
+D :  Yeah
+A :  We can have the uh the help of these numbers
+A :  Which
+A :  Which is that
+A :  Well we should go for it
+D :  Do you wanna just um i think it's not
+B :  I think it it kind of you just lose information if you something
+C :  Yeah it's it's funny
+A :  Okay
+A :  So it so
+A :  This one
+C :  Yeah sure
+A :  Okay sound well no no we have to on to his teammates
+A :  Uh-huh
+A :  Uh at the costs okay
+A :  So um
+A :  I prepare an x. h. uh x. she um
+A :  Well while going to calculate the production cost
+A :  We should
+A :  We should be be a little
+A :  Twelve point five
+A :  So how it all really uh put some good
+A :  Some numbers here
+A :  Okay
+A :  Well going to go through oh
+A :  Yeah so this is the number of the number of components we need
+A :  For this thing
+A :  So
+A :  You could have that bear was thing that we didn't talk about it's
+A :  Uh and also sings at the end of forty two
+A :  To put like sort sense
+B :  Well we decided against solar cells
+C :  So now this i um yeah yeah yeah we said no
+A :  Oh yes i really would say no okay so let's let's go oh there's no they go through all the lights so haven't been able to something we didn't salt about
+A :  But
+B :  You mean charging you by shaking the banana
+A :  Yeah
+C :  I think rechargeable batteries would take care of the power thing
+A :  Yeah
+C :  Yeah to bring that cost
+A :  Okay so we we stick a battery one
+A :  Looking at each word so why don't i don't see the difference between kinetic handing out
+B :  Well maybe dynamo is like you have to actually
+A :  Oh you have to
+A :  Oh okay see is a kinetic is really are shaking the better
+A :  True
+A :  Okay
+A :  So
+A :  Was by the next forty
+C :  Well it's
+A :  Let's go ahead so we we used
+A :  Only have one for battery
+A :  And then for electronics um so i didn't put anything for the moment
+C :  So we have the regular chip on the print
+A :  Yeah
+C :  Which is one
+A :  Yeah
+C :  And that's it
+A :  Okay
+A :  No so we him
+C :  And we have sample speaker
+A :  Yep so point
+C :  Well the cost of that that's right
+A :  Well we did it cost is creating
+B :  Really that that know that sample speaker is not we we're not using that would is using the
+A :  The beeps
+B :  The very be simple be that it's that simple thing is like the voice recording and everything
+C :  Uh-huh uh-huh
+A :  Okay so remove it
+B :  Yeah i'd say that
+C :  And we have to
+A :  So that we need a then
+A :  Well there is noise thing for
+A :  Right the frequency think
+C :  Yeah
+A :  So
+C :  We will put some extras that there is
+A :  Yeah maybe we'll see later
+C :  Something
+A :  Okay so working for the case um mm
+A :  I put single curved
+C :  Okay
+C :  To reduce the cost that okay
+B :  Oh well wait a second
+A :  Because what to think
+B :  No it's it's double curved it's got it's it's uh
+C :  Oh it's gotta well the direction so don't worry
+A :  No uh
+B :  Well yeah it's mama taught me to
+C :  I think
+B :  It's
+D :  For for
+C :  It's got a lot of direction
+B :  It's got but if you hold it
+B :  If you hold that way
+B :  Let's take uh
+B :  One on the side one that's all about that
+B :  That's that's
+D :  Okay was it
+B :  So i mean it's probably
+A :  If i put one here
+B :  It's probably actually cost more than three
+A :  Yeah so
+A :  Let's put one here in the back up and instead of saying about alright
+C :  Okay okay
+A :  So we stick to plastic because nothing
+C :  That's right
+B :  Well wait no i didn't we say we want to rubber
+A :  No us to know
+B :  For if you drop it
+D :  Just press it
+A :  Too expensive
+B :  All in it
+A :  Well ready at eleven
+B :  We'll come back we'll come back and see if we can fit in
+A :  Okay separate rubber one
+A :  So special colour
+A :  Yep
+B :  Yeah
+A :  Uh for the interface we have
+C :  We don't have any pushbuttons
+B :  No we have to push buttons
+A :  What three
+C :  No that is a scroll-wheel it so it would be put in that
+A :  No no
+A :  We have
+A :  All in we have three put the buttons
+C :  Okay okay
+D :  Actually that way when you wrote know let's see
+B :  I guess that's it
+D :  You should put two
+D :  Because it is an attitude here
+A :  Nice there is no cheap
+A :  This is just write your frequent this thing that it's not cheap
+D :  Yeah but
+C :  There's a chip there
+C :  It just
+C :  Makes the signal
+A :  You just
+C :  And the receiver of
+C :  Except that then
+D :  So it it does nothing i should
+C :  This it sends a signal that uh
+A :  Onion comfortable
+B :  It's a recharger thing and uh
+A :  Okay oh we didn't think it's not about to the united the scroll-wheel pushbuttons
+B :  Well i actually did um
+B :  Think about it myself but i thought you know
+B :  Because you could potentially united be pushing it down as you scroll it for uh
+B :  Is that other
+A :  Yeah
+B :  But but you know that other button does add that extra cost
+A :  Yeah
+B :  You know
+B :  So i i mean if we're if we're over budget and maybe we could we could racing that
+A :  Okay so let's see
+A :  So form and whatnot button supplements right
+A :  Uh
+A :  My fact couldn't couldn't we couldn't see the these buttons but then to prevent because
+A :  But all these all these uh for colours cut and special form special colour of a special material
+B :  Yeah
+B :  Now when i
+B :  Maybe if anything special form
+A :  Okay so we all the reject
+C :  Yeah so first thing which we should take care of those
+B :  Make a plastic as the rubber
+C :  Installed rubber let it be plastic
+B :  And then we basically are on budget except for what you like ten cents
+C :  And uh
+C :  That much money really quite for the base station or just not there
+B :  Yeah
+A :  So maybe in fact in it but to put two here
+A :  Because you've got a six
+B :  Yeah well yeah base station is made
+B :  And and
+B :  Many years of
+C :  So it might be ninety sentence for the
+C :  The remaining things which
+C :  The court in it we can do we go
+A :  Exactly exactly so we have a lot in for that stuff
+C :  That's right
+B :  Is that include charging circuitry and
+B :  The thing
+A :  Yeah maybe
+A :  Okay good
+A :  Excellent
+B :  So what do you do with the extra profits
+A :  Uh we invest in r. and d.
+B :  The text fruit
+A :  It's so all
+A :  Well one the the the the costs
+A :  So we can go to scroll to project evaluation
+D :  Okay so now we have a product which nobody would would buy
+D :  Yeah would buy
+A :  Sorry
+B :  No where were we should none of us would buy
+D :  Yeah because
+D :  The the the the got a some project
+A :  But you different numbers would buy it
+B :  Nice people in in the in milan and uh in paris
+D :  Uh i would buy it
+B :  Uh the gonna button
+D :  Massively yeah
+B :  Yeah when a team um well there is
+D :  Yeah okay
+D :  I did have been in and out of time so
+B :  Actually the weather
+C :  I think
+D :  I use the the lowest
+D :  There was a score so
+A :  This is like three which you can mm
+C :  The data the battery
+B :  That's "'cause" i'm sick of
+A :  It it yeah
+D :  Yeah but about that is
+A :  Extra battery
+B :  I guess uh uh um
+B :  Project process
+A :  Well
+A :  In fact uh i don't know
+A :  Didn't already what to say uh
+A :  I use uh if you have any ideas or what we can we can say so
+A :  I don't i don't i don't know what
+A :  What they mean by it's a distraction
+A :  Four
+A :  On for example
+A :  C. d. more like a um
+A :  Like a status of
+A :  So these meetings
+A :  Yeah what effect uh we we use the the the whiteboard and the digital pen
+A :  Not that much
+B :  Uh i think we have a bit of creativity
+A :  Well yeah i was really
+A :  Project
+B :  And uh but i think one thing we them instead of this whole process was a um
+B :  Like a focus group ways
+B :  The actual
+B :  People without the thing we needed some of these kind of young
+B :  Trends that it's kind of play with a banana
+A :  Yeah
+B :  And you know i see if they
+C :  But like that
+B :  Safer like it
+A :  Yeah maybe we should go for we are in in the evaluation
+B :  Because yeah the evaluation for us is is kind of
+C :  Biased
+B :  Pointless
+A :  So maybe you should we should do uh kinda evaluation
+A :  Uh in the streets like asking to in people's well you like to have a ban of the remote control
+B :  Because it would also be in this into a dead fun actually have a marketing really young children as well to see
+B :  You know i have a have a market this thing
+B :  "'cause" you know i've well i mean maybe you don't wanna give
+B :  Well you kids their own remote because uh we change channels on that
+B :  You know maybe in some households where there's
+B :  In a t. v. for each kid
+B :  Then you know banana remote control could be fun for them as well
+B :  I have to draw face on
+B :  So it but it's i think that's something we need to to work on next time is uh really finding out more about the target
+B :  Market
+A :  Any any new ideas we could uh
+A :  We could use t. v. next time
+A :  I dunno run to use
+C :  Yeah the cost of the thing can be made more than might be
+C :  Because it needs to stop them oh
+C :  What we have done for the cost which we are looking forward to
+B :  Yeah i think there are ways we could maybe simplify the
+C :  Interface
+B :  Well just to do it
+B :  The circuit board though using inside i'm not sure really have complicated our um
+B :  Uh made uh i mean well we have is
+B :  To push buttons and to scroll wheel so we really need an integrated circuit city
+B :  Yeah to process that
+D :  Some more tender our remote control instead of just for causing on on t. v.
+D :  The complexity
+D :  Shouldn't be much higher
+D :  For you said if it were for the d. v. d.
+D :  Then a lot
+B :  And also have uh you know have um with lighting in
+B :  And stuff that would be
+B :  Well the coughing that's actually something that should be in
+B :  Vision to
+B :  Is the ability to you know to control things of them a t. v. and not just a white kind of equipment but you know the whole
+B :  Environment of the room
+A :  Okay
+A :  Very good
+C :  So
+A :  So
+C :  What that's
+A :  Well done
+A :  I think we in
+A :  We can go
+C :  Whole
+A :  All
+C :  You said it's like
+A :  Yeah maybe maybe you can has to them
+A :  The
+A :  Production department to
+A :  To make uh a report that that that we can use it on to
+A :  We got it
+A :  Okay so things are much
+B :  Okay
+D :  No
+C :  I think it all uh-huh
+D :  Uh-huh
+A :  There
+B :  Uh-huh
+A :  I
+B :  Uh-huh
+C :  No
+D :  Uh-huh
+A :  It's
+C :  So

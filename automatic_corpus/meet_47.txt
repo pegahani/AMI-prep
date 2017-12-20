@@ -1,0 +1,873 @@
+D :  Mm
+D :  Uh-huh
+B :  Alright yep just a couple of
+D :  No
+D :  Mm
+B :  Okay hmmm
+D :  It's just it's
+B :  So we'll start off with a quick overview of the minutes
+D :  Yeah
+B :  I i think this all the last meeting
+D :  Uh-huh
+D :  Mm
+B :  Would be to say um the requirements of beef and said that it
+D :  It's
+B :  We've also are we were going to go for all seem to be a fairly normal design
+D :  Mm
+B :  Based on
+D :  Mm
+B :  Uh yes more joystick
+D :  Mm
+B :  L. c. d. and a couple of over
+B :  Hmmm buttons for navigation um with
+B :  Power being was was one of the main
+B :  Single purpose buttons
+B :  Um we were also going to use a novelty off been able to like eat a t. v. remote control again be uh a small transmitter of a lock the idea to try separate us and also because of the minimal design
+B :  Um looks like we'll be able to be fairly adventurous it the actual physical shape of a remote control of any luck
+B :  Um
+B :  Not too much sums up the last one
+B :  So uh what just crack on um
+B :  Like maybe start with the industrial designer if it's possible
+D :  Yeah okay
+B :  Um
+B :  Uh it you can daisy conceptual today
+D :  Roger so
+B :  This uh meeting is the conceptual design phase
+B :  And it is um
+B :  So that's okay uh-huh
+B :  And is to cover things like um
+B :  What the parts make it may all for um can we yeah a a source is from elsewhere um well we have to
+B :  It's okay i can for cells
+D :  That i have a presentation it as a certain in there
+B :  Yeah okay or just a holdup uh-huh
+D :  Yeah
+B :  Um mm
+B :  Which
+B :  One d.
+D :  Um
+B :  All interface concept
+A :  That's me
+C :  Uh
+B :  That's true
+B :  We've got trendwatching as you
+D :  It's uh
+D :  Components design
+B :  What's the site
+D :  Yes
+B :  Okay uh-huh
+D :  O. s. i. so
+B :  Mm
+D :  Uh it
+D :  The case
+D :  Oh that that's what are our first of all it could be plastic hard plastic
+D :  Up a later on we can find that out um
+D :  Can be rubber as well or or titanium or even what
+D :  So uh
+D :  She's on what's gonna be probably plastic
+D :  Uh it
+D :  We need be infra-red does matter
+D :  Get that off the shelf a joystick
+D :  We'll probably have a lot of users
+D :  And could be
+D :  Plastic wood or rubber even as well
+D :  Um
+D :  If you go on to the next slide uh
+D :  If you go on to it yeah
+D :  Findings it's like two or three slides then
+B :  Okay
+D :  Right so
+D :  This is what fan we can use
+D :  Uh it
+D :  Three different types of batteries
+D :  Um
+D :  Can you use
+D :  A hand dynamo
+D :  Or at the kinetic top ones
+D :  You know that they use in watches
+B :  Okay
+D :  Or else uh
+D :  Solar power
+D :  Um
+B :  No
+B :  The kinetic one
+B :  We've
+C :  Cost of
+B :  "'cause" that's one for like you the movement course is it
+C :  Yeah
+B :  Um the back to the battery for uh a watch wouldn't require a lot of power would be my a one
+B :  Query
+B :  Is a kinetic one
+B :  Going to be able to supply enough
+B :  Power
+A :  And also watch moves around a great deal more
+B :  Do you think
+D :  Um
+C :  You
+B :  No
+D :  Yeah i've done think a watch
+D :  Um
+D :  And solar cells but uh but uh
+C :  Then it's i don't know yeah
+D :  Uhuh
+D :  Should probably just use
+D :  Conventional batteries
+D :  Um
+D :  Just like a new remote controls
+B :  Uh-huh
+B :  Which is suppose as well would love to go off the shelf again it's yeah
+D :  Um
+D :  Um
+D :  And is it three different types of
+D :  Are two different types of three in terms of shapes
+D :  You can have uh one as a flat one
+D :  And then more original ones are
+D :  Single curved one or one with the double curved
+D :  Um
+D :  Number two is uh that there is you can see what uh
+D :  You can tell it went anyone for a double curved
+D :  Yeah we should be
+C :  Titanium the really strong medicine thing
+D :  Yeah
+C :  Is it also expensive
+D :  And lice
+D :  Uh it thing so so yeah
+D :  They make megabucks and uh
+B :  Um
+B :  I'm
+D :  So it's pretty large as well
+B :  Curious um i don't know if you'd be able to off the top your head or not the single curved or double curved
+B :  Which be able to give an example
+D :  Um
+B :  Um "'cause" you maybe draw something that you do i just have to be part of it is just "'cause" i'm not quite sure find a standard difference between the two
+D :  Yeah
+D :  Yeah
+D :  Well
+D :  For curved well i was thinking
+D :  To fit for to just sit in your um your hand
+D :  Yeah maybe it like this
+D :  With the uh joy out here
+D :  Joystick here
+D :  Uh maybe
+D :  Um
+D :  An okay button around here so that that form can
+D :  Yeah use a quite easy
+D :  Um
+D :  But are exactly
+D :  Double curved
+D :  Probably means this is probably double curved
+D :  Yeah whereas a single curved would be
+D :  Like that
+D :  I guess
+D :  Or not so
+B :  So um i'll actually just be
+C :  Because that's the
+B :  Okay
+B :  Uh-huh
+D :  Yeah but ah
+D :  Versus two curves
+D :  Um
+D :  So i guess that's what they mean
+B :  Okay
+D :  By uh double curve
+D :  Um we chose it looks better than a single curve ball
+D :  Uh you can't have it in titanium which is
+D :  Uh
+D :  A nice material
+D :  Uhuh
+D :  And for the buttons
+D :  Um
+D :  You can have the scroll where we stay using
+D :  Mouses for can p. c.s
+D :  Uh it
+D :  Close
+D :  And
+D :  It requires uh
+D :  More expensive chip to use and if you use l. c. d. it's even more expensive
+D :  So
+D :  To so it does trade-offs there
+D :  Um
+D :  If you want the buttons to be you know if you have a double curved
+D :  Uh control and it's rubber
+D :  Then
+D :  You have to use rubber buttons as well
+D :  Push
+D :  You can how can you don't have to have a
+D :  Key and number keep but anyway for a team of channels to use that is
+D :  You wouldn't want to just have to scroll through all the channels together when you want to add to use the numbers
+D :  If you know so
+D :  Um
+D :  I can i start
+D :  A number key point anyway
+D :  Do you think
+B :  Mm "'kay" was
+B :  That was something we can
+B :  Talk about it
+B :  Um
+B :  So you've got a lot of the t. v. chip that we might require as well
+D :  Yeah
+D :  So
+D :  Depends where
+D :  Gonna spend the money
+D :  If you want a fancy l. c. d. display
+B :  Um do you have any idea so far like when they're saying that we need an advanced chip for an l. c. d.
+B :  Is that in
+B :  Should the cost up by drastic an outdoor
+C :  We need an advanced chip for the l. c. d. is that the light
+B :  One thing compared to save this pricing often buttons
+C :  Advanced like
+B :  But if you press a button they sent a certain
+C :  Three eighty six advanced
+B :  Transmission
+B :  If if infra-red where is something you for controlling the l. c. d. we can require much more
+B :  Powerful chip
+C :  Okay
+B :  Just compared to the chip you would use for pushing buttons i think see
+C :  Okay sure
+B :  The point be made if i've not overstepped yeah
+D :  Yeah yeah
+B :  Okay um sorry go on or off that
+D :  Um
+C :  Hmmm if we only have twelve pounds fifty
+C :  Twelve euros not even twelve pounds or twelve euros was that like eight ounces and i don't mind uh
+B :  Well would also be a a line on a um the bulk buying and
+B :  Produce "'em" and such
+C :  Okay that's good point
+B :  I assume we have to look into the cost of those
+B :  So uh sorry
+D :  Uh that the previous slide is just explain what's in the internal components of the uh
+D :  Remote control if you go to one before that
+D :  Yeah
+D :  So it just says what does
+D :  Translate to keep us into infrared signal and this is perceived by the t. v.
+D :  Yeah
+D :  The chip just needs to detect a signal or to check the key press
+D :  And then an incentive to look at the amplifier
+B :  Okay
+D :  And uh then the next slide just shows that the uh
+D :  Copper wires
+D :  Yeah
+D :  Interaction the balkans
+D :  The more buttons uh
+D :  To uh
+D :  Kids and the chip
+D :  So that's just a t. v. control works inside
+D :  Um with the side or what
+D :  Buttons are gonna use
+B :  Mm "'kay"
+B :  Um
+B :  Is that section have a sense
+B :  Uh huh
+B :  So any information that you've been
+B :  Supply to have feasible
+B :  Which is c. v. d. idea of
+B :  Using an l. c. d. looks
+D :  Um
+D :  I think window if
+D :  Uh we use
+D :  Conventional batteries not have solar cells kinetic
+D :  Um
+D :  And then
+D :  Maybe use
+D :  Single curved
+D :  Yeah
+D :  Case
+D :  Because you might need to be curved for the uh
+D :  Tom to use a joystick joystick easily
+D :  Um
+D :  And then you need the advanced chip see for the l. c. d.
+B :  Um but in a sense look quite good requirement me um an extra battery would seem to make sense
+B :  Um i'm not sure if there's any cost difference is between single and double curved
+B :  And i and i don't know about anybody else but
+B :  Plastic or rubber is is traditional for the casing would seem to be
+B :  A good way forward or or
+A :  Um i'm action i dunno
+A :  You want to go straight for
+A :  Rubber
+A :  Um for reasons for going to uh
+B :  Okay
+C :  I also have a preference for
+B :  Okay well um
+C :  There's some reason
+B :  Yeah well we move on to user interface and
+B :  Yeah
+A :  Yeah
+B :  Um as far as long as we you get okay
+D :  Yeah i finish
+B :  Uh
+B :  Uh that the "'kay"
+B :  Interface concept
+A :  I'm gonna have to work between the uh
+A :  The slides and be yeah
+B :  Yeah
+A :  On the whiteboard "'cause" that's i have
+A :  Some fairly concrete things
+A :  This time
+A :  Yeah um i was given that
+B :  Hmm
+A :  An h. t. m. l. file
+A :  Giving um various ideas from uh
+A :  From other previous remote control design and
+A :  Per cent stamp more
+A :  I wasn't very impressed by them and i didn't seem to it and nothing i saw seem to me to the source of design specifications that we're going for today
+A :  Um
+A :  So what a a rudman this other remotes
+A :  Oh wrong be better to simply look at the human hand
+A :  Um i'm trying to them and try to figure out a way of laying out of the elements we've already decided on
+A :  Um so a very
+A :  Is that so the fingers a each finger some is wherever it needs to be already
+A :  Um
+A :  So yeah
+A :  Next slide please
+A :  Um i would basically decide on was
+A :  The the um
+A :  The job the the joystick to function buttons and
+A :  The l. c. d. is keep it
+A :  Pared down to the absolute minimum i don't i think we need the um
+A :  The
+A :  Numeric keypad
+A :  Because if you want because one of the menu so we could have available
+A :  Um
+A :  You got a via via the l. c. d. is only scroll through channels
+A :  So to something for it
+A :  And their their minds since this isn't meant to work for um
+C :  Scott that's it
+D :  Oh okay
+A :  For for for of room for the it for digital or um
+A :  Or for a for cable whatever
+A :  You're basically looking at two four or five transfer of channels
+A :  And then um
+A :  U. v. sit and then the channel for u. v. c. r. and r. d. v. d. player
+A :  And or
+A :  Um
+A :  Set top box
+A :  So it's not uh i'm not really excessive concern about that
+A :  In south to you two modes basic mode
+A :  Right um the joysticks uh left right it left right for channels up down for volume
+A :  Um
+A :  And the uh uh and the menu mode
+A :  For
+A :  For other functions
+A :  Um the reason i was to teach really just musing rubber for this is if we're going to have a file ergonomic design
+A :  Um it needs to be ergonomic for left or right handed people
+A :  Um
+B :  Can i just open slightly yeah
+A :  Uh-huh
+B :  That would suggest that double curve design school we're going to be most appropriate that
+A :  Yes absolutely
+B :  Yeah okay
+A :  Um
+A :  Hmmm base it basically what a room
+A :  Basic all the them was wouldn't be having
+A :  Um i was city you know the whole thing i calculated at two point so if you
+A :  If you handing it from a letter left or right handed you you can adjust it so that
+A :  The um
+A :  The else if the l. c. d. and the uh
+A :  The joystick would be in the right place
+A :  And it also is your other nicer did designed gimmick that mm
+A :  The um
+A :  In the whole thing in uh it it should house or organic feel to it it's it should be
+A :  Uh-huh yeah softer touch and
+A :  Can be moved around
+A :  Nice
+A :  Um
+B :  Mm "'kay" um
+A :  "'kay" on to a a
+B :  Yeah
+A :  On to the next uh huh
+A :  The next slide
+B :  Just a little bit would be quite like the time as well
+A :  Okay
+B :  "'cause" i think public all what you'd like to say i guess
+A :  Yeah
+A :  They basically
+A :  Um oh
+A :  I can
+A :  At least pictures to this
+A :  The um
+A :  A scene from a friend the the hand of you know sort of
+A :  A disposition
+A :  Um no
+A :  Although holding the remote
+A :  The um
+A :  Joystick you know should
+A :  Rest of the uh
+A :  The joint of of of the uh for finger so it's
+A :  Directly visible for the farm
+A :  Um and it would need to they would need to be it
+A :  Let me to be a calculated just below that so that it could be switched around
+A :  For left or right handed users
+A :  So
+A :  Yeah and a half
+A :  Grip section that can be more or less the same
+A :  Irrespective
+A :  Of handedness you just have a big you too big buttons
+A :  The cover most of the areas so it can
+A :  Uh and the upper part one for the for for a one for the middle finger
+A :  Um and that
+C :  This is a joystick
+A :  The it with this part here
+A :  Is a joystick this would be the actual grip probably for you don't have
+A :  Battery is one at all
+C :  Okay
+A :  That'll be pro the bulky is to par
+A :  And you then have
+A :  Uh the uh of the bottom
+A :  The l. c. t. and this would need to be a teacher it's it as well and basically it wants to rest
+A :  Here right at the base of the race
+A :  So it fits nicely in the hand and again
+A :  Uh-huh this part could be
+A :  Rotated so it can
+A :  So the the so the so that they can be adjusted to either left or right handed user
+A :  Um
+A :  So the colour that a function button in basic mode would be the on off switch
+A :  And menu mode would be the enter button
+A :  And then the bottom function buttons which is between between modes
+A :  Um no programming it
+A :  I i chose it is what we have found was um
+A :  The replacement remote control programming um can be a break pain
+A :  So i thought the the simple as well and that would be to have um
+A :  Uh cable to connected to give you some uh some fit of wood
+A :  Where some fairly fairly simple software on the computer so you on your computer so that you could done
+A :  For a program as as a rather than anyone more comfortable
+A :  Interface you could
+A :  And download programs for from uh
+A :  For uh
+A :  T. v.s from all three mean manufacturers
+A :  Um
+A :  So we you
+A :  It it would be necessary to have uh
+A :  Have my uh i have a mean
+A :  I i have a mode for programming it
+A :  Without the computer
+A :  Yeah just in case there
+A :  There's still people have to if we don't have to me it's um
+A :  Yeah
+B :  Mm "'kay"
+A :  That's
+B :  Yeah
+B :  So right
+B :  Um
+B :  Yeah
+C :  Okay
+B :  Oh mm
+B :  Oh
+C :  Okay
+C :  So add together my research
+C :  Two basic methods
+C :  We compare the uh
+C :  Or people want the remote control to do was on the stuff we do want it to look cool
+C :  And we we researcher fashion trends in your what's what's the new black
+C :  You know as it goes
+B :  Uh-huh
+C :  Well next like that
+B :  "'kay"
+C :  Uh we found in order of importance
+C :  People want the remote control to look cool
+C :  More than they wanted to to be cool i think they wanted to do a low it gets you want to look like it does a lot
+C :  And if it does the light that's a bonus but they don't care so much you know
+C :  They wanted to be that's sounds a bit like a contradiction
+C :  Technology technical
+C :  Technologically innovative
+C :  You want to be yeah but still pick a more but the way it looks then what it does
+C :  So like the interface is really important
+C :  And easy to use it has to be just so happens that uh
+C :  From
+C :  The second point of third point
+C :  Is twice as important i mean second point is twice as important as the third point people want it
+C :  It is it has to be cool uh then easy to use you know if it has a new speech is even if it's difficult to use to prefer to add in your speeches
+C :  And if it's easy to use as a bonus
+C :  The fashion that this is saying that there ought to me
+C :  But for and they do the new the new black for furniture for clothes shoes
+C :  I have a laser remote control i don't know
+B :  Mm
+C :  But i i see
+C :  Are common set of next the next slide
+C :  Spongy i was at the same everything is knew that was spongy thing you back as well so we had a choice between rubber or plastic
+C :  If this is a little rubber that you can squeeze you know it's spongy
+C :  Then
+D :  I have got to mention that the uh
+C :  That's good for us
+D :  Rubber material is the type of
+D :  Stress ball material
+C :  Okay
+D :  Not just normal rubber
+C :  Okay so kinda spongy
+D :  That's uh huh
+C :  Material
+C :  So
+B :  Okay
+C :  Um
+C :  So my personal opinion
+A :  Uh
+C :  And
+C :  With some of that synthetic technologically innovative obviously but what what we need is
+C :  Some another looks like it's in the future that looks cool that's that's different you know does everyone has a white remote control that remote control you something cool
+C :  Like titanium is cool but it's expensive and maybe it's a bit of all the channel for remote control
+C :  Um no the fruit and veg options
+C :  You know we we go in that direction a with a totally away from it and
+C :  I mean a research did come out with and then so maybe it is important
+C :  For used to uh to interface guy
+C :  So if we stay away from the scene of stay away from it
+C :  But if we're gonna
+C :  Go along with it
+C :  Did it doesn't necessarily have to be like an apple or something like that or like kiwi fruit it to be something like
+C :  I think it's a of either but i'm sure you guys have to
+C :  Have a much cool idea of an idea so i think cool is the key
+C :  Few questions about uh a spongy remote control i've never seen one before i've seen plastic remote control was okay maybe they were
+C :  I don't know back in a day when they first come up with remote controls they had a reason for it be in
+B :  Uh-huh
+C :  Stay you know
+C :  For being shown the study so um
+C :  If we was i missed a mysterious a spare plastic or titanium
+C :  If we go with a spongy we can stress that you can draw this is many times you want it doesn't matter is spongy materials not gonna break you know
+C :  I just a know how to l. e. d. and the lights are gonna fit into a spongy material
+C :  Because it's it's not gonna be completely
+C :  Squeezable so how the things that and
+C :  And if we are in you spongy we can say is long lasting
+C :  You know minutes
+C :  Can't resist and stuff like that so
+C :  So just to summarise be was the fiscal
+C :  That's that looks like it's cool
+C :  And if it is cordon as a bonus why doesn't have to be um
+C :  People like fruit and veg
+C :  We can even uh ago than any of state only away from it
+C :  People like spongy material for gonna use one unit here we have to think of our practical it is and how we can further promote that idea know so this was this year
+C :  So things change all the time every year you know they also about
+C :  Does she ate this is the new black one h. t. s. um because it gonna be the new like a mistake way of life his friend age
+C :  Type stuff
+C :  "'kay"
+B :  Mm "'kay"
+C :  That's me
+B :  Oh well um i would say the the most you could probably hope for is getting a usually the most people anyway you always have to bring in new design so
+B :  If we can get next year for knots
+B :  Possibly a good place to start anyway
+B :  Um
+B :  It seems like all the components could be off the shelf so we
+B :  I don't know exactly well cost would be curved
+B :  Um i can see your point about the number keep that
+B :  But
+B :  I've
+B :  I would say that we can call be incorporated into the menu system
+D :  Yeah
+B :  If you need to do that reversal of a large number of channels
+D :  I i
+B :  My feeling would be the even if a later date it's supposed to be taking control of um set top boxes as well
+B :  Um they have these are the l. c. d. in a joystick would probably allow you to manipulate and off channel numbers for you to be
+A :  Yeah and taiwan what if you've got a lot of channels
+A :  The number keep that can be quite annoying as well because uh
+A :  I think it's significant remember what well
+A :  You know what the numbers the discovery channel to just irritating but if you had uh but but but if you have a matter but if you're a menu structure then you can subgroup them
+C :  That's a good point you can incorporate names into the menu
+C :  And it even music music like to do on that a scud digital camera yeah
+A :  So yeah it is
+B :  Okay
+A :  Yeah
+B :  So what it looks like to me is will use a large number of standard
+B :  Components
+B :  Um
+B :  See something like um with him i'm back to the kind that you find in most
+B :  Um small
+B :  Hand held devices that
+B :  Um
+B :  Looks like we're going for a double curve design um i don't know what cost implications there are not um
+B :  Looks like we're pretty much decided on some kind of flexible rubber
+B :  What have to say i depend how flexible is
+B :  We might need to have some kind of in there for a in
+A :  Yeah uh i would say definitely that
+A :  Uh yeah uh
+A :  I mean to be very having it's articulated it that they would be basically
+A :  Two points articulation
+A :  And what um
+A :  One bone one above that and the uh the main sort of grip
+B :  You think there's any way we could maybe even goofy articulation i can see why it looks appealing
+A :  So
+B :  But it could be a weak point in
+B :  Um the structure do you think
+B :  I would be a woody of mine
+A :  Mm
+D :  If you go to fruit nursing
+A :  No no
+D :  Looks like a banana
+A :  Mm
+C :  Oh as soon as it is
+D :  I think that would
+A :  Uh i'd i'd i don't think i don't think it would be a a a structure weakness mean if you have a firms substructure you can then make a project initiation into that if you then have either i would just key in of
+A :  In flexible spongy rubber then you have
+A :  Something is you very much
+A :  Yeah
+A :  Organic and i think we can
+A :  Rather to i mean a a little brother cool um right drawing that doesn't doesn't it just isn't it
+B :  Yeah
+A :  The the makes a little more heartbreak i than a yeah the remote control but to
+B :  Yeah we want out that functionality
+C :  First that
+B :  I will one interesting point is i don't know how a series you were there
+B :  But we
+B :  If we take some new ideas of a banana
+B :  Why do we make a damn thing yellow to incorporate it is
+D :  Yeah
+B :  The colour of three logo
+D :  Yeah
+C :  Sure yeah
+B :  I don't know it's an it's only a different colour from your average joe um
+A :  Uh-huh
+A :  Make it hard to lose as well
+D :  Yeah
+B :  Sure
+C :  Sure
+B :  And there's anything in your research
+C :  I
+C :  Can always fall when you lose the banana
+C :  And you have a when you use the remote control who
+B :  I think
+C :  It'll be like a uh a monkey noises some like that rather than a standard be
+C :  Be you know you do the monkey that banana
+B :  I
+D :  You lose "'em" on t. i.
+C :  You if you do the banana you press a button menu item on she's screen "'cause" i'm like that to directly to was the banana
+B :  Yeah
+A :  I think uh i mean if it
+B :  Uh-huh
+A :  I think that's something to perhaps be programmable
+A :  Don't be have monkeys before
+A :  Um
+C :  Oh uh was gonna talk about the programmable remote control
+C :  Nothing could be cool if you had one remote control that can work or t. v.s you know used it's like a button then defines the frequency that
+C :  Work through your particular television
+A :  Uh-huh
+C :  Oh why you need to programme it
+C :  Like as as a standard feature i i don't know
+A :  Well base it basically the um
+A :  So those are for uh any each manufactural have a particular have a particular command set
+A :  That to uh
+B :  Uh-huh
+A :  T. v. responds is not simply a matter of frequency
+C :  Yeah
+A :  So um
+A :  Usually it was done is you have this big bottle full of different possible and it ooh you you have all of them
+A :  So programmed in to the uh remote you have this little booklet of codes
+C :  Uh-huh
+A :  You can find your um
+A :  My turn to find the manufacturer and
+A :  Try the different codes that
+C :  Uh-huh
+A :  Come on to that manufactures name to you find the right one
+C :  That's because televisions they don't give the remote control any type of feedback when you send it a try
+A :  Yeah that's right
+A :  So that's that's
+A :  Quite annoying and we probably would still have to do that but if we had um some sort of forgot to your computer as an option
+A :  Then if you've got a computer you can avoid that
+A :  Robert irritating
+A :  Thing
+B :  An interesting point one is that if the person doesn't have the computer we can still make the process easier
+B :  Because instead of having to look up cord's
+B :  Maybe we can have it for one of the options they have a city look up in in the company on the l. c. d. and then you maybe look up different names
+A :  Yeah
+A :  Yeah
+B :  Of um
+B :  The different actually units of being produced
+B :  Or we have three remote control just go through the mental it's like
+B :  That's a stiffer correct functions act
+C :  Is it is actually a buck
+C :  Or name's the digits or is it like a few pages
+A :  Um
+A :  Booklet
+A :  Some pages
+C :  I'm just thinking if we were to store this information some top a mapping
+C :  Dispersing probably need to use this features like wants
+C :  You know when it first by the remote control or whatever to buy a new television so
+C :  Once every is
+A :  Yeah
+B :  Doesn't have to be used very often that's right yeah
+C :  Yeah and it's
+A :  Yeah but is it but there's a nice and as i as a nuisance very close to that
+A :  To um
+A :  To actually purchasing it
+A :  So it's something you like to be thinking about it and if you if there's a way it as one in the shop that's the the says they can avoid much as that nuisance
+A :  Yeah maybe
+A :  Favourably inclined towards it
+A :  Um
+A :  Mm
+B :  "'kay" this
+B :  So that's just a guess and
+B :  Rough idea of what we're meant to be doing for the next stage i'm pretty sure that you
+B :  But anyway this is the conceptual one
+B :  Um
+B :  I think we've come up but then we've covered everything we need to hear
+B :  Um i think we've decided well you know decided on a standard item for most of them rubber and such
+B :  So when when i looking at the detail design what we need to be doing for the next meeting
+B :  Um
+B :  So for example um
+B :  The starter talk about this
+B :  Yourself i'm the industrial designer gonna be working quite close at this stage "'cause" all be hard not to of slide
+B :  Um
+B :  We can from
+B :  I put put a thing of some this is good thing is in clay
+B :  Um i suppose it with a lot more about that as uh we've progressed
+B :  Um
+B :  The user interface design
+B :  They're kinda looks like they're mm
+B :  Your your push forward so far as an maybe more of a
+B :  Physical one there was a bit possibly be more interested in maybe
+B :  I. d. l. c. d. is going to incorporate do you think
+A :  Mm
+B :  Or it used to see the most of the same design decision still need to be based on the physical yeah
+A :  Um well as i think of than
+A :  Okay in
+A :  Getting uh some more aesthetically pleasing form for it
+A :  Um
+A :  Move most of the sort of layout design decisions are mm
+A :  Are made i would say
+A :  Um
+A :  But then again
+A :  The um the menu structure
+A :  To to consider list and that's gonna vary according to
+A :  That models television
+A :  And also any customisation so the user model which to incorporate
+A :  So
+A :  Um i wanna nice things about having an l. c. d. and menu structure is is there is that flexibility to
+B :  Uh-huh that's very true
+B :  Um
+B :  O. k.
+B :  And go product evaluation as well um
+C :  Yes yeah
+C :  Some these things can uh
+C :  Logically follow would be over is
+C :  Okay
+C :  The product evaluation does not come after that we saying
+C :  A product prototype
+B :  I think would be yeah no it be more case of how do they take shots performing be
+B :  Product evaluation once we have a
+B :  Model to test with
+C :  Oh that's a okay sure sure
+B :  Um so it be a case all of you think that just bringing users and you haven't test an uh a maybe put in a certain number of products into the field in certain places with this was quite similar
+C :  Uh-huh
+B :  Or just
+B :  Kind of hitting the streets and you know saying
+B :  This is a new remote control even the look of it
+C :  Okay sure
+B :  Um
+B :  Uh-huh
+C :  At this stage we still have a know
+C :  Not a regular audience or
+B :  I think the target audience is
+B :  Pretty much anybody on the regency maybe
+B :  Sixty or something like this
+C :  "'kay"
+B :  Um
+B :  There is one thing that is that we're just looking at uh replacement remote control so from a stylish so maybe even just maybe an hour and then your target audience simply by saying
+C :  And stars
+B :  If they're buying it from the often order but maybe looking to replace something and they've got their free cash an output and potentially in the younger age bracket
+C :  Uh-huh
+B :  Maybe even single just for the reasons of um
+B :  Uh it excess cash for
+B :  Of all of course i mean at twenty five euros a dolphin we're looking at charging here for your device
+A :  Yeah
+B :  And as well the normal bracket
+B :  Um
+B :  Your idea of the u. s. b. we are thing would largely depend on the cost u. s. b. state only one or the cheapest interface is it there
+B :  They might push the cost of the overall you know a pen
+B :  "'cause" would require
+B :  Not just be
+B :  Connection but the chip for communicating with the rest of system
+B :  That one might have to be based on
+C :  Programmable memory as well
+D :  The u. s. b. for which
+C :  For the remote control
+B :  Be in the idea was it maybe you could connect up for around eleven the software interface and the p. c. for a larger programming
+D :  Oh okay
+B :  Due to the fact that we've gone for such a nice easy minimal design normal light
+C :  That that that was a consent are poor
+B :  Um
+D :  But then they just say is just for t. v. or
+D :  Hmm yeah
+B :  It's just for t. v. but for
+C :  Different
+B :  Programming it to use a t. v. you might look it up today
+D :  Okay yeah
+B :  P. c. i think
+B :  I'm not sure but i'm thinking maybe that be additional cost the u. s. b. might be prohibitive we don't want less
+B :  It would make sense to
+A :  Yeah i mean it's
+C :  You're gonna need is some top or
+C :  Flash memory or something or some in it doesn't
+C :  You would have to redo the whole thing was the batteries you change and we should have the power
+A :  Yeah
+A :  Yeah
+A :  Yes thing i mean it i mean it would
+A :  Need to have a a would need to have um
+A :  Some sort of on board memory anyway
+C :  Yeah
+A :  Um
+A :  For for one of one thing that uh it is in the menu system should be
+A :  Um on although
+A :  You know it's not going to be terribly complicated which is controlling one device the menu system or to be
+A :  Um
+A :  Or or to be customisable and to
+C :  Different languages a different
+C :  Scans and stuff like that
+B :  Well
+A :  How how uh how you want say the um
+A :  The the menu structure for flicking through channels
+A :  If you've got
+C :  But if it was customisable as in different areas of the stuff that does open they're supposed international right so
+B :  It would make sense to
+C :  You would make sense if you could
+B :  I would say to
+B :  Um i would there be careful but the time as well we've all had five minute warning so
+C :  Okay
+B :  Um
+B :  L. c. m.
+B :  International would make sense
+B :  Um they're gonna look a product evaluation on like that's right okay all right
+B :  Um they're gonna look a bit more this kind of a physical makeup
+B :  You say in um looks like we're gonna need it maybe a kind of prototype and
+A :  Yeah
+B :  Clay yeah
+B :  Right well see how that goes um
+A :  And we could supplied with the clinton no
+B :  Uh-huh huh huh
+A :  Where is the clay
+B :  So um mm
+B :  Do i think we've got an idea of where we need to go for the next meeting would you say
+C :  Yeah
+D :  Was that um the fashion thing
+D :  Okay
+C :  Different dutch
+D :  The design spongy rubber yeah
+C :  This one
+B :  Yeah i would say
+D :  I
+B :  That would be my my feel
+A :  Yeah uh i that i think there are going to have trust it clear the whole sort
+A :  Fruit and veg thing
+C :  I
+A :  But i i uh but um
+A :  But the spongy
+B :  Uh-huh
+A :  And like
+A :  Right
+C :  Yeah
+B :  We seem to have quite a general consensus that the idea of uh
+B :  The rubber could be quite
+C :  Yeah
+A :  I did uh i i do i mean there are having it having to
+A :  Bright bright yellow or the or the middle could have options for colours as well
+C :  Yeah
+A :  And uh and i can't have the advantage of being harder to lose
+C :  Sure i mean we are trying to promote the remote control but
+C :  We wanna keep the company brand as well so
+A :  Uh-huh
+B :  Yeah so we always need to remember is somewhere we're meant to be in the slogan on
+B :  Possibly on thing i'm not sure but i'm seeing a little bit of space around maybe the joystick area which could be used
+A :  Mm
+A :  Yeah i was uh out what it like a seven for uh i mean we could have the r. r.
+B :  Um
+A :  On the uh
+A :  On the top function but
+B :  Okay and i think that says all really um
+C :  I think so too
+D :  Oh
+B :  Right "'cause" see everybody a half hour
+D :  Mm
+B :  Uh hum

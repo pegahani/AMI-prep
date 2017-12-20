@@ -1,0 +1,857 @@
+A :  Okay
+A :  Yeah
+A :  Uh
+A :  Mm
+A :  Mm
+A :  Mm
+A :  Mm
+C :  You know if you not sure uh if you sign of a p. h.
+C :  Um
+C :  Shall i just kinda press a lot
+A :  Um
+C :  See what happens
+C :  I don't mind
+C :  Right
+A :  Ah
+B :  What
+A :  Okay
+B :  Oh
+A :  Huh
+A :  Right
+A :  Conceptual design meeting yeah
+A :  Right
+A :  Okay so
+A :  Alright well
+A :  Um from the last meeting i was trying to send you the minutes but the the marker to well so
+A :  Maybe and sort of um
+A :  Quick summary of the last uh meeting i can
+A :  Quickly give you
+A :  What we what we had
+A :  Uh
+A :  Right so
+A :  Uh no
+A :  And all the time
+A :  Right so we have the fact that we're gonna have the little
+A :  That's comfortable and it's a colour scheme
+A :  Corporate it on to the
+A :  A device that will device
+A :  We had yeah
+A :  Yeah decisions about to
+A :  Maybe decisions about to
+A :  The voice is also it's gonna be simple to make it yeah
+A :  It was completed in time
+A :  We're gonna have a
+A :  Thirty two pages front page which at the uh
+A :  Features that the uh the customers most wanted
+A :  And then the uh the backup features on the second page
+A :  So that it could to
+A :  You the technical requirements
+A :  And the customers when have to look at them too often only hasn't been required
+A :  So
+A :  So basically what decisions huh
+A :  Have we have made
+A :  Yeah i have the been any uh changes
+B :  I think we'll have a presentation against a week or two there is and um
+A :  Right
+A :  Three presentations yeah
+B :  Oh yes
+A :  So
+B :  So if it's can
+A :  Can't find uh
+B :  Steve missiles really
+B :  In the last one
+B :  Huh
+B :  Okay right stuff um
+B :  Basically the uh for the um okay
+B :  For the components design um
+B :  Next f. is
+B :  This is the the the way the remote is can we can still the same ideas before
+B :  Still have the user interface which is
+B :  All the buttons for dinner in corporate then there is a
+B :  Chip and still the centre
+B :  So um this this this other things in the power supply as well
+B :  I'm not going to my findings in each of
+B :  These areas
+B :  Uh phase the power supply we have the option that's just a standard battery
+B :  Um
+B :  There is a dynamo
+B :  A view think it can like the guilt which is which you wind up
+B :  Like an idea um
+B :  This the kinetic
+B :  Option which they they have you seen this see what she's wishy kind of you power by way different than which has more money from we should mean about shouldn't have to replaced
+B :  And that's one option but not gonna cost little more
+B :  And then the solar cells
+B :  Um
+B :  That's a final option
+B :  For the buttons we have um an integrated pushbutton which is or just to say all these uh um supply power real reaction
+B :  So i guess for the ease of a quick this needs we should take them from
+B :  At least that one of these options
+A :  Okay
+B :  Um
+B :  To the buttons as an integrated pushbutton
+B :  Which i guess it's just the same as the stand once as as as uh
+B :  It's in the to the the button the mouse
+B :  And war so i can buy one computer
+B :  Um there's a scroll wheel
+B :  Wishes you and you mouse going to send section which can scroll up and down would be for the volume and
+B :  To you
+B :  Do that um
+B :  One issue for the bus is is depending on which material we use if we use rubber buttons and it requires a rubber case
+B :  So we have to into consideration
+B :  Um movements or the princess
+A :  What would be the cost do do we know
+B :  Um
+B :  That's on the next as i think the
+A :  Number
+B :  The wasn't too much difference in the cost but
+B :  The race the actual buttons but does affect the printed circuit board
+B :  Um they're snack session
+B :  Basically for the the circuit board which is the middle this see them that the chips and uh
+A :  Uh-huh
+B :  By the way things of the uh still um of the remote
+B :  The thumb supplies a simple a regular and advanced
+B :  Um circuit board
+B :  And these different price is going to reach so if we got the scroll wheel for one of the buttons that would require a slightly more advanced say cobalt and if we just have the standard
+A :  Mm
+B :  And push button
+B :  Um one final think we can move for some information the speech recognition
+B :  There's the small unit available through the the company
+B :  Um we chose you would be nice to cost between the site the size of the remote too much
+B :  Um
+B :  I guess that would require yeah more fun stick a poster is next a price in a sense
+B :  That is as an extra cost nonsense
+B :  And there is what this preferences
+B :  Um
+B :  As a policy for how we could use kinetic
+B :  And which the idea of the watches um
+B :  You move you move the remote around to power that
+B :  And it's weird to avoid but she's running out of place that she's an so it's like
+B :  Um
+B :  For the passes
+B :  I saw we put we go it's having the standard
+B :  Um pushbuttons
+B :  Well from the scroll wheel
+B :  Um and for the circuit boards
+B :  Again depends on which features we want in the actual in the remote
+B :  To be one of the scroll wheel and one of the voice recognition
+B :  Um now we have to get uh
+B :  A more costly circuit board
+A :  Don't want a printed circuit board you were going for the
+B :  Um
+B :  It had the pens um if we can uh the speech recognition
+B :  We'd have to hold again the vance from guessing
+A :  Uh-huh
+B :  Um but then there was uh uh some don't have to
+A :  But are we going for my right
+B :  Um that's losses are for this
+B :  Um
+A :  So we want to make that decision now in the sense that
+A :  This is the point at which were discussing that issue so we are not be best to
+B :  We decided
+A :  Rather than a name one we used to do each of the presentations and then make decisions going back to these presentations as they wear
+A :  Yeah they we would be to do they presentation and then make a decision at that point in time
+B :  Um
+C :  Yeah that's probably about a one to discuss it straight away
+B :  Maybe
+A :  "'cause" at that point and you've got the details up there so if we wanted to know for instance it
+A :  The scroll through required a regular and what required and downs and therefore able to see that then um we could make a decision on that point i mean and that be the end of the issue is that
+A :  Mm makes sense
+C :  And um half of the information they might not be very clear
+B :  Yes yeah
+C :  Unless you want to put it back in the euros
+B :  Um
+B :  You could do yeah
+B :  And
+B :  Yes
+B :  Okay
+A :  Uh-huh
+B :  As say they only specified that we need to move and say a couple of the scroll wheel didn't
+B :  The voice recognition came as a piece of information
+B :  Um
+A :  No the scroll through required a regular so the
+B :  Yeah if you feel it down um
+A :  Uh-huh
+B :  Is this this but the ball much of highlights it but the scroll requires the main the main minimally a regular chip
+B :  Which is in high price range
+A :  Okay
+C :  I think the scroll wheel and
+A :  The display requires an advanced chip to display requires an advanced chip which
+B :  Oh so the this place
+A :  And turn is more expensive
+B :  So it against and
+B :  About the
+A :  Okay
+B :  And the the the pushbutton just requires a simple chip so i would keep the price
+A :  Down
+C :  Yeah if all of a sleek and sexy i think a scroll wheel is maybe a bit
+C :  Kind of bulky
+C :  I have got um pictures well seen pictures within the state of the side of it
+C :  And the jury look great
+A :  Right
+A :  Okay
+B :  Simple push button that word
+A :  So
+B :  Costs um
+A :  So we're going for
+A :  Okay
+A :  So those are words as uh hum
+D :  To go through
+D :  Well we have the simple one way
+C :  Yeah simple
+A :  Simple push button
+B :  With evan get this um the speech recognition
+B :  Uh um a space we we said before c. i. d. the euro corps then there's that
+B :  Message and then it takes up a message um
+A :  Uh-huh
+B :  And replaced see
+B :  Serious basic uh so we discussed before
+B :  Um
+B :  But then we don't know for sure whether uh
+B :  You would require more calm can say well i guess he would benefit got like that that information
+B :  They were sure what was it not rather than
+A :  So we go for the simple push button and stuff like that we're going for the simple printed circuit board are we are we're going for the regular
+B :  And if it's just push button and i just use simple so
+A :  Uh-huh
+A :  But
+A :  Is there any other i mean okay that's true for that
+A :  For for that element but we have to do you call them at l. elements into consideration
+A :  And so there is one element that requires
+A :  Lot more expensive one orbits in the regular one
+A :  Well the more advanced than that would have to be the same for all of them
+A :  So
+D :  I suppose we need we need to find out
+D :  Circuit board that requires
+D :  Maybe we needed they make a decision
+A :  Right
+C :  But the way the time to put a um
+C :  It doesn't seem to send out a signal to the telly it just
+C :  It's like a power just
+C :  Like
+D :  Yeah
+A :  Uh-huh
+C :  Might be a message
+D :  Oh so yeah
+B :  So maybe that would be something separate yeah
+C :  So i don't think it would affect our uh set that
+A :  No
+B :  Okay sweetheart a simple circuit board and i'll be an extra up in addition to it
+A :  Uh
+C :  Yeah
+C :  I don't think you could really perform any of the remote functions with the
+B :  Uh makes sense
+C :  "'cause" the example of a given day is good morning coffee machine good morning joe
+A :  Uh-huh
+C :  It might be useful to see like well you moved here i am
+B :  Okay
+C :  Do we
+A :  Mm hmm hmm
+C :  But i think that's maybe as far as that one could call
+A :  Okay
+B :  Yeah that makes sense so we stick to the simple circuit board and then think the speech recognition is that
+A :  Uh-huh
+B :  Yeah it's a possibility
+C :  Yeah just as a fun way to find it
+A :  No that wouldn't be simple circuit board simple push button
+A :  Oh he
+C :  Uh it's it's up
+A :  Or or you can if you you you were one to go for the kinetic a person one
+B :  And yeah i i thought so just for uh
+B :  Just reason i mean triple a.s batteries
+A :  Uh-huh
+A :  And how does it get to charged up
+B :  Is um
+B :  Anyways the base to have some kind of ball bearings inside is um
+B :  Is someone watches which you you kind of you shake to power that
+B :  Somehow mechanism inside house a few movement
+A :  Okay
+B :  So you'd you'd miss the remote around little bit and then uh powers up to use it
+A :  Okay so the speech recognition was are we going for speech recognition know as a record the advanced
+C :  Um i think it would be helpful to find it but i don't think it
+B :  But yeah i think do is i didn't affect the circuit board just the fact is
+C :  Um
+C :  Yeah i think so
+D :  Just for the whole um
+A :  I had speech recognition requires announced or
+D :  Find thing
+B :  Well that's for us or so or maybe maybe doesn't know
+A :  Require
+B :  And the him at the lower
+A :  Oh
+A :  So okay
+D :  "'cause" it's a it's a prison a stamp of
+A :  Speech recognition you recommend
+A :  Is it
+B :  Is this just an addition thing is um
+A :  It's
+A :  Simple
+A :  And so we would want it in as an extra because it doesn't appear to cost too much about me
+B :  Okay shop or something
+C :  I think
+A :  That would be cost any more with it yeah
+C :  Or just
+C :  Just check what i said
+C :  A shot don't think it really see is a thing about the cost but see is that it's already in the coffee machines
+C :  So
+C :  Like it's already kind of
+B :  As you know it costs extra but
+B :  May we may will find out how much that those cost or not
+A :  No that and then have to change i change our everything the last minute
+B :  Life i really
+A :  Okay
+C :  Um
+A :  Mm
+A :  Mm
+A :  Mm
+C :  Well that's good
+C :  Um
+C :  Oh okay so very brief presentation um
+C :  From out of the remotes out that the minutes in on the mall particularly um sleek and sexy
+C :  Um
+C :  Haven't actually got the examples of the scroll button a.
+C :  Um buttons some "'kay" of cases that you can see
+C :  Um
+C :  Mean just size as a whole have quite a lot of buttons a
+C :  Um the seem to just have the rubber buttons
+C :  Some yes
+A :  Sorry
+C :  It just seems to be skipped on what that is
+A :  Yeah a friend and then yeah sure trying to do back
+B :  If you right click during go on to the previous slide
+C :  Art right um it was a much more see about that
+B :  Okay
+C :  Strong and
+C :  Um
+C :  Some of the uh remote i looked at one of the models that get actually have voice recognition way you cut them
+C :  Where was connect to the remote control functions
+C :  And that was quite uh
+C :  Uh switch model way it can control
+C :  Uh four devices t. v. cable satellite big deal
+C :  E. v. d. would feel
+C :  Um so that's a bit of competition a
+C :  So
+C :  I mean it it's better not to try and compete with that sort of thing
+C :  And just to market it as a completely different um
+C :  Like different viewpoint is the kind of
+C :  Fine you lost control rather than
+C :  Trying to compete with the functions
+C :  Um the scroll buttons
+C :  I see what you mentioned um
+C :  There's examples of the was put that to look at a sleek
+C :  As for the models
+C :  I was no we have one page and
+C :  Because it impacts on all the
+B :  On the price yeah
+C :  On the materials that price it's not great
+A :  So you're saying the scroll buttons
+C :  Yeah
+C :  That was
+C :  Specialist had a remote that'll cut think about um
+C :  Those children's remote way um they just had a very limited
+C :  Range of buttons and the well uh bright colourful
+C :  And um yeah
+C :  You could program them so the the going look at certain channels
+A :  Uh-huh
+C :  Um but i don't know if that's true in a field
+B :  I guess i guess we're going for the biggest market then maybe not
+C :  But some that's out there
+B :  Was it was a specified we went of the biggest
+A :  Or to go for the international market rather than a local market that that that wouldn't necessarily preclude
+C :  Hmm
+A :  The one thing you can often do with products is you can uh a mate
+A :  Small modifications you have your basic model which you would sell at whatever
+A :  And then you could have additional features and you know like um you have more the one model to the model three and a half or you can subdivide your market up
+A :  But that should be more your fingers
+A :  And
+B :  So maybe that was almost like uh an x. that maybe as there for our spare leash
+A :  Yeah we add on for an extra package go on this basic one and right in that we're going for the basic model to be discussed here and that to you would have for future reference the possibility of adding an extra features the extra cost
+C :  Mm
+A :  To take care of
+A :  Specialist market segments
+C :  Oh okay
+C :  Okay well
+A :  Yeah
+C :  After that we can
+A :  So so what are we deciding to do
+C :  Um
+A :  Here
+C :  I think because it's already i'm very good
+C :  Voice recognition technology l. a.
+A :  Right
+C :  Because i was might not cover the same functions that teleconference to
+C :  It might be good idea to market has the
+C :  Um find a function
+A :  The fight yeah find a function rather than as a speech function to find your remote
+C :  Yeah
+B :  Just as as for going for the international market um
+A :  Okay
+B :  That's um so maybe a lot of people my know like the speech recognition
+C :  Oh yeah
+B :  So um
+C :  Different languages
+B :  Yeah yeah
+C :  Why not be compatible
+B :  We would make it quite complicated
+A :  Mm
+B :  Well uh um does this keeps a very simple and then the
+C :  Yeah "'cause" i think you program
+C :  Um this one is self like to see
+B :  Yeah
+C :  Take whatever you want to your question
+D :  Yeah analysis quite cheap devices i don't know how more
+D :  We'll go to put into it
+A :  So you have a finder feature or than uh
+A :  Voice recognition feature
+C :  Maybe
+A :  In your trunk
+C :  Something else comes up
+A :  Yeah and you don't remember scroll buttons
+C :  Um
+C :  Yeah i think um
+C :  I think we decided that it's gonna increase the cost and give know we all
+A :  Okay
+A :  But i don't know
+C :  Benefit and it's gonna decrease from the thickness of it
+A :  Alright so we're just gonna have the uh the rubber buttons as well or
+C :  And just to be a way that are kinda specialist functions and specialist remote
+C :  Well we'll probably do we want to
+C :  Focus on those like such as the children
+A :  Okay so not to be focused on
+C :  Yeah
+C :  Um does a mention just as kind of a wall and
+C :  About what the design
+C :  Um just to avoid um the kuwaiti
+C :  So that gave the example of
+C :  See you volume buttons for up and down
+C :  That might both have a v. on for volume
+C :  Um i think uh that at this
+A :  Good in in flip it around and i disagree a hundred eighty degrees another up and down
+C :  I'm just gonna check so do this right
+A :  Upside-down v.
+C :  Um
+A :  So that which of the volume was going up but as the one underneath it see the volume and uh
+C :  Um
+C :  I think the thing was that
+C :  If you decide to do this to have triangular buttons
+C :  Um somebody might look at this one and see all this triangular button is playing up
+C :  I'm not suggesting that the city
+C :  That colour at all no them i see
+A :  Right
+C :  Yeah them i see this playing down
+A :  Uh-huh
+C :  I think right that's gonna turn the volume down
+C :  Whereas
+C :  Actual buttons point nope
+A :  Uh-huh
+C :  So the functions that and what not
+C :  So
+B :  So we would have like
+C :  Be careful what you put on the buttons in the case for the shape that you make them
+C :  Because it might be kinda to you um
+C :  Contradicting kinda shapes
+B :  Yeah they
+B :  So maybe that's or volume is non the side then up and down on the on the buttons themselves
+A :  Yeah you know volume up volume
+C :  Yeah
+A :  Volume
+A :  Up down and
+A :  And uh and "'cause" the idea was to have limited to do is to have
+A :  Sizable by of information on it
+B :  Yeah
+A :  Limited number of buttons
+A :  "'cause" it was sixteen buttons wasn't it a four
+B :  Yeah but that that's uh that's mine
+A :  Uh-huh
+C :  And i think
+C :  That's all have to see if uh huh
+A :  Uh
+C :  Um so what's a decision on them to design of the volume button
+B :  Um
+A :  Mm mm
+B :  Oh you really guess is that all the buttons at the moment no we can uh
+D :  I've i've got something say about possible design things from
+B :  Yeah marriage
+C :  We'll see
+A :  Okay
+B :  He used to it
+D :  Trend watching
+D :  Right um
+D :  A bill of years and trends
+D :  In
+D :  Instead of
+D :  Fashion
+D :  On top of
+D :  Doing the um research into
+D :  Remote control market the the one that's what i talked about last time that we it's a device people about remote controls well
+D :  What was good about all was bad but they used
+D :  And we've also they're looking at sort of fat so the fashions of what people are wanting of
+D :  "'cause" she because at the moment so that people in paris and milan watching be a fashion trends
+A :  Oh
+A :  You know yourself
+D :  So to summarise
+D :  They've most important things which can live remote control market investigation
+D :  The most important thing was the the things sort of look and fell fancy relevant as functional
+D :  And second
+D :  That should be sent to a logical innovation
+D :  And then touch and
+D :  Less important are the two that should be the ease of use as well
+D :  And apparently the fashion trends
+D :  Oh that people want sort of clothes and shoes and things with the fruit and vegetables see
+D :  I think but
+D :  Um the feel of the material should be spongy which is country to last year partly
+D :  Should it must be not not spongy last year
+A :  No i don't know
+D :  So
+D :  We need to emphasise a fancy design
+D :  This on on a remote control
+D :  Above all else and then also try and i didn't technologically of them uh innovation which could be a sort of
+D :  Find the thing with the hand clap
+D :  And then we need to make to make it easy to use this as a
+D :  The third priority
+D :  So perhaps uh um
+D :  Few few buttons and functions as we've as we've discussed
+D :  And then maybe find a way to incorporate this trend so this is a catchy people's imaginations
+D :  So maybe we could make the buttons shape like fruit and veg
+D :  Whole
+D :  Uh the buttons could be spongy
+D :  Uh somehow maybe we could make "'em" of rubber rather than sort of
+D :  Hard plastic
+D :  And then cities mark it and that we could maybe have a fruit or vegetable shaped remote say in the shape of a pen on all
+D :  Something like that or
+D :  Right so
+D :  Okay
+D :  Maybe a banana course yeah or something
+A :  Uh-huh uh-huh
+D :  How how far we actually want to go along instead of follow the trends
+D :  Do you think the trends ought to take important for this type of catching all
+D :  All it
+D :  You know but they're not matter that much
+C :  I think if you start making the buttons fruitshaped it might make it more complicated to use
+A :  Well you were just talking about you've gotta be careful about how you shake your buttons "'cause" you gonna stay right people on i would've thought the functionality "'cause" that
+C :  Yeah
+A :  People get teased off by a thing "'cause" i haven't instructions except right so
+C :  Maybe just one button see the stand-by button
+C :  Is quite kind a separate from all the other functions maybe that could be a little couple
+A :  Mm okay
+C :  And and that wouldn't can we have like an a one to nine and it won't confuse the numbers
+D :  Maybe yeah
+A :  No
+A :  Yeah stand-by button
+A :  No that that that incorporates the trend also the same time not confusing people
+A :  If you're
+A :  But for functionality
+B :  Yeah i know i i guess maybe fruit vegetables maybe popular um but as we know how
+A :  Uh
+A :  But what they're gonna be nice yeah for the gonna be next year
+B :  A fashion markets
+D :  Yeah yeah
+A :  But but but that would be a keypad you you can incorporate that if you if you change all the buttons
+A :  Then you've got the problem that this year's fruit days next year's uh we have to see animals elephants or whatever
+D :  Yeah
+D :  And uh
+A :  That means you're "'cause" we change your production as usual and you've gotta make the from also have a also that's not a good idea i would i would suggest
+D :  And uh show but well well the
+D :  Sort of
+D :  Time scale with thinking of selling the product of errors i don't know
+B :  Me to see is really see the remote control market isn't it kind of thing which to
+A :  Uh-huh
+B :  These kinds of fashion trends
+D :  Yeah yeah
+B :  So okay to something which is
+B :  Maybe more universal
+A :  Well
+C :  I suppose as long as it's quite a simple design
+C :  Um
+B :  We we can maybe can apply a fruit shape
+C :  Even if the design kind of changes
+A :  Uh-huh
+A :  Um but mm but if
+B :  Maybe the spongy feel is something we could think about um
+A :  Uh-huh
+A :  Well yep
+B :  Maybe store the rubber design we can't
+A :  With that and this other fashion sense that this is what was the spongy feel was that to uh to fashion it was wasn't it
+D :  Yeah
+C :  It's a it's a can have rubber cases
+A :  So that
+C :  As well as buttons
+D :  Yeah
+B :  Um
+C :  And that you can make them
+C :  Curved or double curved and that would be
+C :  That kind of thing and sex or not
+B :  Oh yeah a lot of things so if you had or buses and you had have rubber case
+A :  Uh-huh
+C :  Alright that it's is that
+B :  Oh no no the size of use uh
+B :  Uh rubber double curved case any message or buttons
+B :  I'll say on t. v. have the rubber casing of of a rubber buttons
+B :  Thanks
+C :  Right
+B :  Um
+A :  Number buttons require rubber case scroll
+C :  A dolphin with what one button for the spongy feel have everything about
+A :  So yeah
+A :  And the main problem is and how frequently do the fashions change "'cause" in a sense and the production
+A :  You want things to stay if you want to be silly and then the man
+A :  "'cause" if you got
+A :  Fashion changes
+A :  And you're incorporating
+A :  Then it means that your stock it
+A :  Is um this last year still i never use only are having to sell at discounted rate
+A :  Which you would want to do what is if you get the product
+A :  The same
+A :  You could have a difference from here to here
+A :  And seems to me that you could incorporate that
+D :  Okay
+A :  Fashion statement if you like rather than changing the whole
+A :  Get double
+D :  Yeah
+B :  Yeah
+A :  You just changing
+A :  One aspect like
+A :  Like the stand-by button or something like that and especially
+A :  "'cause" then you could make it something that
+B :  As as you may be a limit to the fire it's lost put the logo on there as well
+A :  Well we might be a limited in space that the u. s.
+A :  We are sure of a second or find a a fairly quickly when you move or at your kid modelling stages to where
+A :  How much but how much how much hope liable is plasticene i think
+B :  Maybe think of the the cases like change with the fashions like the nokia phones we could take the casing of the outside
+B :  What about be too much to incorporate detection
+B :  Whether that which think
+B :  More complicated
+A :  Mm
+A :  So are you talking about to changing
+A :  Changing the casing
+B :  Yep yeah that's also of the look from the outside so the buttons or stay the same
+B :  And the channel function of the most of the same then you could change the
+B :  Wait wait
+C :  Yeah and then you could have
+C :  All we still that would have to have the roll call on if we knew case
+B :  Yeah the
+C :  But you could have like in cases for kills and
+A :  Yeah you could do a colour change so there for you okay yeah minutes left i don't know whether you know mobile phones instance um and blue some in rates um and rather than alan black or do we know which forty one as long as it applied that to
+C :  Red ones
+A :  So mm
+B :  So it's a possibility um
+C :  But we are supposed to use um
+C :  Albany cost you know what happened
+A :  Yes well that's true um i know
+B :  Oh okay yeah
+C :  I mean why don't you posted in my cautious and things
+A :  Well not necessarily because you could have your company uh overwhelming to be finishing up
+A :  You could have your company badge and no one a lot of um computers for instance like like um that when you've got there he actually has a sort of um stick on bad so what you would all all you would really need
+A :  Whether you know whether the casing beep
+A :  Well any colour could be any colour but that bad should we don't have to stick out on top of it so that um
+A :  In a sense
+A :  Without without the like that
+A :  Because it's a lovely back read a on a colour that might not stick action by long would be a quite casing
+A :  "'cause" you you you know you saw your budget yeah if at all companies get somebody else to make them um let's see just by some um cells with their own
+A :  Yeah but over the top
+A :  And i thought the way they've got that they're even if you had a lot of light which is the predominant colour of the uh
+A :  The windows
+A :  Bad
+A :  You still be able to see it clearly from you know wiki saying about product so
+B :  We went with have a big enough market to have this can like second you marcus allen the case
+B :  Might be some to consider
+A :  No
+C :  Well if it's for young people
+C :  Um
+A :  Mm
+D :  Yeah
+C :  Like a phone generation
+C :  That's what they put it put on on the market research has been on that side of things that yeah
+D :  Yeah i mean it's people's
+D :  Say that it's the lot
+A :  Uh-huh
+D :  They want a fancy looking think um
+D :  I'm not convinced or whether having changeable covers would be something that people buy into
+D :  I think with about files
+D :  It's the you know it's an indication device because steve is it all about hmm
+B :  Yeah space where you you keep the remote he did
+D :  Okay
+A :  As uh in in the house isn't it or suppose
+D :  Yeah
+D :  I think
+C :  Okay so if we just went for one colour of a rubber case
+A :  So we don't change case changed his colour and more sort of saying no
+A :  To that
+C :  Do we decide on the rubber case the spongy feel it it would think that that might
+C :  Cool as a trend
+D :  Well
+D :  There's different last year the trend is different last year i think it's not not spongy feel
+D :  But
+D :  I don't know of the channel change i don't know whether it's from those things that
+D :  Like sort of having all fruit
+D :  Shaped keys that that probably would care of
+D :  Fashion very quickly whereas
+A :  Yeah
+D :  Is the fact there's a rubber case probably less
+D :  Less of something that
+B :  Yeah last slide it
+A :  Sounds reasonable
+D :  You can do anything in a yeah
+A :  Oh
+B :  So and
+A :  Well but if you're going for fashion trends that they need you to have the the interchangeable cases
+A :  So that you could it door "'cause" otherwise someone's gonna have to buy a complete new remote island just a case
+B :  Here at this is my sense of it which spent stick with the standard rubber case then have the standard rubber buttons as well
+A :  Okay
+C :  Oh wow really talk about uh huh
+A :  Uh
+C :  The curvature of the case
+C :  As far as the single curved and double curved
+B :  Um
+C :  I'm not exactly sure what we think look like
+B :  Maybe cares get the like uh so the more stuff you feel
+B :  The double curve would require us to perform miracles the plasticine
+A :  I have i
+C :  Well it's a start
+D :  They say two ways a double curved what what exactly does that mean
+C :  And not exactly sure
+D :  Okay
+C :  Um
+C :  Oh sure yeah
+C :  The remotes out of cost
+C :  See how a
+C :  It's just go up
+C :  See how that that one
+C :  Well not put in um i dunno
+D :  In our next meeting
+A :  One one thing to consider
+C :  So i just turn around the time
+A :  One thing to consider is that in some way if you want to um
+D :  I should come
+A :  By having a fairly standard case it means we can all fit together on top of each other there for for storage propose is a shop so i can makes it easier dick and if you stop until we said was if you do
+A :  Um fancy things what do you think or put it in a cat had a packaging box that that does that
+A :  And the cost of packaging
+A :  Could be quite important easily the total cost of the product
+B :  Yeah yeah
+B :  So she is secretly and just work out war it's either we have to
+A :  So but
+D :  Yeah
+A :  Uh
+C :  And it's not very clear a paper you can
+A :  No
+C :  Some of them have a kind of bulges
+A :  Uh-huh yep uh-huh
+C :  Second one and and for
+C :  Uh ways okay okay
+C :  I'm not so
+C :  Don't know if double curved it's maybe it comes up
+C :  Slightly uh
+D :  A source kind of a cat
+C :  But i mean it's a kind of sleek a lot if you've got kids in there
+A :  Hmm
+D :  Sure we
+A :  So you wanna go for curves more curves uh-huh warm and if we're meant to be fashion uh some meeting in that manner so
+C :  Only a single maybe double
+B :  "'kay" shrink it
+C :  Sure go for single curve just a compromise
+B :  What if single k.
+D :  Okay
+A :  Oh she curved or double curved so it's single curve
+B :  So is is do we decide on the kinetic power supply
+D :  Yeah yeah
+B :  Well move around
+C :  Yeah
+D :  Yes good idea
+A :  Yep
+A :  Mm
+B :  Um
+A :  Uh-huh
+C :  And them about pushbuttons trip up
+D :  No but
+A :  Uh-huh
+D :  Well buttons and a
+C :  Um i would draw really know much about the cost a normal creativity well
+B :  Oh yeah
+C :  Possibly sticker
+B :  Yeah he was on the
+B :  We're gonna use a simple circuit board just to keep the cost down
+B :  See i think we can by by not having anything to complicated keep know
+A :  Uh-huh
+A :  Uh-huh
+B :  Um
+C :  Yeah and and the voice recognition we can use uh call it just to find it
+A :  Uh-huh
+C :  Stuff at the circuit board
+A :  Yes
+A :  Yep uh-huh
+B :  As we could always decide against is something comes up that's just something to
+A :  Mm
+B :  The single ear out
+D :  Okay
+D :  And then we can sort of
+D :  One button
+A :  Uh-huh
+D :  Like a fruit
+C :  Yeah that sounds
+D :  Perfect
+C :  Are you wouldn't do too much um and a couple years
+C :  Uh what sort of shape you want
+D :  And maybe
+A :  So we'll spongy feel buttons as well as we as well as or or was that
+D :  That's the rubber buttons yeah
+B :  Yeah this is
+A :  So it's rubber buttons is not only spongy feel buttons as as rubber buttons
+D :  Yeah the reason be spongy i guess yeah
+A :  With the rubber case right
+C :  Do you want p.
+A :  And the stand-by button is gonna be different
+D :  Yeah okay
+C :  Um i think an apple would be a good recognisable she
+C :  If you start and end to can all be change some things you get that we have
+A :  Yeah
+D :  Yeah
+A :  Okay so what we should we making this number buttons
+D :  Apple
+C :  Four
+A :  Apple oh sorry
+C :  Show for it
+D :  Yeah
+B :  We'll go for a out of all falls off of
+C :  Anyone got any suggestions
+D :  Awful awful
+C :  I
+D :  If it's quite big one as well
+A :  Hmm
+C :  Oh okay well
+D :  I think an awful
+D :  Um
+C :  Well it could be red
+A :  Oh
+D :  We read a poll yeah
+D :  At the top line
+A :  Or a double that
+C :  Yeah "'cause"
+C :  One incorporate that colour if um
+C :  Want to find out um
+B :  Yeah and then we can uh you know work on keeping the bus things like uh a simple
+B :  Decide uh
+B :  Switch you hold it if the next time
+B :  Um
+C :  Yeah
+C :  Yeah seems pretty straightforward
+C :  "'cause" most remote just be kind of
+C :  Maybe second a whole like very clean
+D :  Okay
+A :  There was a mouse yeah mm yeah
+C :  Uh just to keep the shape of the buttons simple
+A :  Mine too yeah
+A :  Much option and that sort of a single curve on
+C :  I just uh
+C :  Shape of the buttons
+A :  Right
+B :  It's yeah it's keep in uh so the later than one way point of them fairly simple as well
+C :  Yeah
+B :  Have a source of spongy
+A :  Oh it's a shape of the buttons simple
+A :  Okay so
+A :  That's what i guess
+A :  You know goal we in get these things or to go in addition to run plasticine d. c.
+A :  Or whatever
+A :  Okay so um
+A :  Mm
+B :  So yeah
+D :  Looks like a
+A :  He

@@ -1,0 +1,628 @@
+A :  First
+C :  Yeah this function f. eight or something
+B :  Mm
+C :  This one yeah
+B :  Okay
+C :  Okay
+B :  I was gonna do a powerpoint presentation
+C :  Think we are
+B :  You will as well
+C :  Well that we all are yeah i have one two uh huh
+B :  Okay
+A :  Uh huh
+A :  Uh-huh
+D :  But you have uh
+C :  Oops
+C :  Yeah
+D :  What
+A :  But i just like "'cause" basically i i thought i have
+A :  With a crime and then have one's name starts from a loving god and this marketing this system is that
+A :  A button in any names again i'll i'll this can leave this up here "'cause" i'll think you know
+B :  Okay i'm
+B :  Okay
+C :  Sure that's good idea
+A :  So
+B :  Kathryn
+B :  Let's see
+B :  C. a. t. h.
+B :  E. r.
+B :  I any
+A :  Mm "'kay"
+A :  And
+C :  Uh gabriel
+A :  Okay
+A :  Yeah was it
+C :  You know
+A :  Okay
+A :  And you know
+D :  Um rice or are you are the bus right
+A :  Oh
+A :  He uh yes uh
+D :  Double s. a. yeah yeah
+D :  Yeah
+A :  That's
+A :  Okay
+D :  It's
+D :  Uh
+A :  This is a nice according to what the names i think
+B :  Right
+A :  I
+D :  Uh-huh
+B :  Three
+A :  Uh huh
+A :  Okay alright welcome to the meeting be
+A :  Um
+A :  This is gonna go a lot but in the last meeting
+A :  Basically uh "'cause" uh no one's was wondering uh i all i i'm your project manager
+D :  Uh-huh
+A :  And uh
+A :  Yeah i'm just a it's a
+A :  Can i suppose of the eyes between the three yeah and get things going get people talking and
+A :  And i'm gonna be making notes and
+A :  Sending them up to the power supply and stuff basically
+A :  Um
+A :  But this
+A :  For the purposes of this meeting what this meeting is all about
+A :  Is um
+A :  And i have some presentations from all three of you what you've been working on
+A :  For the last
+A :  Way while when you haven't been getting hit with spam when you're computers and
+A :  And you don't thing at city questionnaires and things
+A :  But how the u. b. s. c. been
+A :  Doing something productive so we can uh
+A :  If you're gonna give is that a little presentation
+D :  Mm
+A :  Um
+A :  Then we gonna have what you know from age your presentations whoa whoa uh talk about
+A :  What we're actually need as a final coming together that all
+A :  Um
+A :  And i'm or yeah or two also conclude than anything else comes up can do that
+B :  How long as the meeting
+A :  This meeting is a little it's uh uh probably don't about thirty five minutes now
+A :  So a range of your presentations to
+A :  Not be too long five
+B :  No problem
+A :  Five minutes something like that
+A :  Um if you haven't done a powerpoint thing it doesn't matter it it's just it's just says to you
+A :  It it's that's just one particular meeting if you have no time to prepare one
+A :  You can draw stuff on that note board didn't talk to us
+A :  You can you know however you wanna do you all know presentation basically you can
+A :  Tough so pressurised into using this thing
+A :  "'cause" i don't
+A :  I
+A :  Uhuh okay
+A :  So um
+A :  You yeah there
+A :  No sir
+D :  I have five yeah
+A :  A u. up a you joining in this meeting here
+D :  I i yeah yeah
+C :  Which is finishing up her presentation
+A :  Or you know it oh you are you just uh you just uh doing some internet shopping there
+D :  And then i i've been missing off a presentation
+D :  No no
+B :  I
+A :  I
+D :  Yeah and um
+A :  Okay it only gets
+A :  Oh i let's have um
+A :  Well we all know that it's a it's a remote control we're gonna be dealing with
+D :  Hmm
+A :  I think the first thing we should look at is um
+A :  Probably
+A :  The um what it is it is such as opposed to base it is and you catherine
+A :  Right i hear from you first
+B :  Okay
+B :  Um
+B :  Just coming in this
+B :  For the kids and
+A :  You done that's why that's going in in just
+B :  Yeah okay
+A :  They yeah
+B :  Cool
+B :  Okay
+B :  I'm gonna
+B :  Very quick uh
+B :  Mm
+B :  Okay
+D :  I am
+B :  So the working design have got a very quick presentation on this so
+B :  Um
+B :  On on oh you can't see yep
+B :  Oh i'm gonna draw it on them for them
+B :  It's in blue a um i could and change the way it's fine on my screen but no mic
+A :  Ah
+B :  So um
+B :  The i. d. is that we've got be
+B :  And the g. so it's
+B :  Um
+B :  Which in our case
+B :  Well for a while
+B :  Okay then right so um
+B :  I think maybe uh to you
+B :  Batteries i dunno what they call a lot
+B :  Sex or something like that
+A :  Uh-huh
+B :  Um
+B :  On then
+B :  Um
+B :  Then on the uh remote control itself will have um
+B :  Baby
+B :  Send uh if for the signal
+B :  Which could be uh uh
+B :  An infrared signal
+B :  Um
+B :  Which will be cents
+B :  By uh an electronic chip
+B :  Um and uh the chip will be controlled by the user interface
+B :  So we'll hear about that later from gabriel
+A :  Uh-huh
+B :  Um and um
+B :  Bursts and that will send
+B :  To use the telly itself an infrared signal
+B :  To tell it to you switch on or switch channels
+B :  Um
+B :  Um that's it really for the working design
+A :  Right
+A :  Okay
+B :  Sorry the presentation wasn't very clear
+A :  A bit of other pop file you meant as personally yeah
+B :  Really
+B :  Cool
+B :  Um should i
+B :  Erase this or
+A :  To i just get this um uh what i just wanna copy this down um
+B :  Okay
+B :  Fine
+A :  I don't know if you guys have any questions for
+A :  Catherine a menu this
+B :  Or suggestions
+D :  Is a battery like
+D :  The only way of
+B :  Well it's just you don't want it plugged in really is
+C :  Yeah all to the energy source like when when power
+D :  No that
+B :  In in tolls
+A :  And you blow on it and uh yeah
+D :  Now i'm at like
+D :  That is like it's at this
+C :  Bicycle power
+D :  Always changing um um batteries can get like annoying the battery's down and
+D :  Maybe
+D :  I dunno solar cell i see
+B :  I don't know so it at
+B :  I think changing your batteries once every six months it's not really a pain but
+A :  Yeah it works for the last
+D :  Mm
+A :  Fifty years yeah
+D :  Yeah
+C :  One question i have i don't know how much control we have over this is
+C :  Um as far as the infra-red signal do we have control over
+C :  Yeah how far away you can be from the receiving you know that the t. v. and still have it be operational
+C :  Maybe we what we would uh strong signal string
+A :  Are far away is your television
+B :  Yeah
+A :  It's never gonna be more than it's never gonna be in a unless you got t. v. there's also a football but it's it's not doesn't have to go that far does it doesn't have to go through a wall because you know they're looking through a wall
+B :  Other thing is it do you don't
+D :  Yeah but if like it on the phone the other room we need to the television or something you don't really want to go and we put the time for them to go into hmm
+C :  That's true
+B :  Well we can make the the
+B :  Single strong enough to go through goals if if you want to
+B :  I didn't think about that
+D :  How about the lady
+D :  So the using infra-red
+D :  It's good to
+B :  Why not
+D :  Is that is that the signal
+B :  I just think that it's it's gonna cost more and i and i'm not sure it's you gonna use it
+A :  Yeah yeah okay sounds like you have a good year it on a overcomplicate things
+D :  Hmmm it
+A :  You know we don't need it
+B :  It's the fancy idea it's quite nice but then i don't i don't know either you will if you wanna watch the telly you're in the room you can uh
+A :  Yeah exactly basically we we design we design in
+A :  I'm marketing television remote control unit we're not
+A :  The wood designer some way you can plug in a headset to end
+A :  And you know connect your laptop computer and stuff
+A :  So
+D :  Hmm
+B :  Well
+B :  We can we can keep the idea if you
+B :  We can see uh the latest age maybe it up
+D :  It's just an idea
+A :  Okay
+A :  But what um
+A :  I think
+A :  Um
+A :  "'kay" of gabrielle
+A :  Let's uh let's say from you on that um
+C :  Okay
+B :  Do you need the board or
+A :  As soon as
+C :  Uh and this can use the powerpoint
+B :  Okay
+B :  So
+C :  Technical stuff and see
+D :  Hmm
+D :  Interesting
+C :  Okay so well this is warming up there this uh
+C :  So i'm doing the user interface
+C :  Design
+A :  Uh-huh
+C :  Yeah and basically uh as far as methods
+C :  I was i was looking it
+C :  Looking at uh
+C :  Already existing remote trying to find some inspiration from designs that are already out there
+C :  Thinking of what we can retain
+C :  Well we can do away with
+C :  Uh what we what we can perfect little bit as far as
+C :  Design um
+C :  No we don't wanna do something that's too radical the change i guess i mean people want a remote that's familiar
+C :  That has their favourite functionalities
+C :  Um and and does the basics but
+A :  Yeah
+C :  Um so we can improve what's out there anything that
+C :  The basic functionality that people want
+C :  Um so the things that seem like absolute must have this uh would be a volume control
+C :  Um
+C :  To up down keys for that
+C :  Uh channel keys up down but that also numerical keypad so that they can
+C :  You ski directly to the channel that they want rather than going up down
+C :  Yeah and uh a mute button
+C :  Uh one thing that in
+C :  Included i forgot that we talked about last time was doing um some sort of a lot of function
+C :  Uh
+A :  Okay
+C :  I don't i don't know uh
+C :  That's one possibility
+C :  And so on the research that i was doing
+C :  There's basically
+C :  Two types of remotes ones that are engineering centred in ones that are more user centred
+C :  Because i don't know if i can access the web page you can sure yeah
+C :  So this is uh engineer
+C :  Centred one so you see it's rather busy there are also
+C :  Let's a player movie stop really fast forward all this
+A :  Uh-huh
+C :  Um
+C :  Freeze frame
+C :  Uh in this as a user centred one
+C :  Uh it's
+A :  Yeah
+C :  It's easier to just go into this and see
+C :  What's possible to be in a in a stirring it for
+C :  Five minutes
+A :  Right
+C :  Yeah
+C :  Judging from what what we are talked about during our last meeting a kind of gather that
+C :  That's what we're going after another direction that we're going in at least
+C :  Um
+C :  So
+C :  The engineering centred one is uh
+C :  Provide a lot of functionality that can be a little bit overwhelming so user centre once you should focus on ease of use
+C :  Um
+C :  In the so the overlaps with with the marketing person uh
+C :  We sell
+D :  Mm
+C :  Because uh we we need to find out what what people want
+C :  Before we make firm decisions on this
+D :  "'cause" it's um i think or
+A :  Yeah
+C :  So um
+C :  Yeah that's me
+A :  Right okay uh-huh
+A :  Yeah uh that's uh seven at hmmm question for in this
+A :  Um
+A :  We set so you've been doing look at look in another you know existing it's it's stuff
+A :  Um i'd be fans that
+A :  Anyone else has looked into the locking
+A :  Functional
+C :  No that that that seemed like a novel ideas for as far as i know i mean obviously another
+C :  That exists like like you said in the mobile phones
+A :  Yeah
+C :  Oh sort of inspiration for it
+C :  Um i've never seen that with and then all my years and in the remote business
+A :  Yeah
+A :  I
+C :  Uh i mean i i've never seen uh marking functionality
+A :  Um
+C :  But um you guys have a a a year on a on a good feeling about whether that's really necessary
+A :  Um
+A :  I would say
+A :  It's
+A :  If it's simple to do
+A :  Which i think it probably should be
+C :  Yeah
+A :  In it is a physical enough of like a physical switch or physical
+A :  Cover for the remote
+A :  It and something like that
+A :  Um
+A :  Then yeah it's it's know like you know like she said only one up up up a flip
+A :  Thing something that that that you know being physical
+A :  Look into yeah
+A :  Um i've had a word down from head office
+A :  That's something we should be centre that well so we should take into account
+A :  Is um
+A :  We could keep the corporate image should within this remote control unit is gonna look like it's an i. r. and r.
+A :  You know like the comedy it's it's
+A :  From all i can say from other products
+D :  Mm
+A :  Uh yellow and blue going on them
+C :  Okay
+A :  Um
+C :  And our motto is is we put the fashion in electronics
+A :  We put the fashion in electronics they yeah
+D :  Hmm
+C :  I think we have to carry that middle
+A :  So it's gonna go with that
+A :  It's gotta look in new and you know something fashionable
+A :  If if remote control what i've telephones can be fashionable then maybe a remote control units can be
+C :  We have these i think we can
+C :  So we talk about the layout in my presentation why didn't mention it really is
+C :  This is sort of like the ergonomic design
+A :  Yeah i mean hmmm that
+C :  I think we can make big improvements over this to you see here i mean
+B :  Uh-huh
+A :  Yep hmmm
+C :  Uh
+A :  Right
+C :  Everything is going to ergonomic you know there's you know my three computers are very ergonomically keyboards and that could be one of our teachers sort of the uh in the market i guess
+A :  Okay fantastic
+A :  About are going to be um um they said
+D :  Okay
+D :  With the current eh
+A :  Just plug in baby hmm
+D :  Yeah
+D :  The blue think
+C :  Yeah this is getting a little tank i guess
+D :  Say that
+C :  Yeah then you said to do function f. eight and should come
+D :  Oh
+D :  Function f. eight
+D :  No
+A :  Yeah and it just sticks we well
+C :  Yeah just takes a second
+D :  Oh
+D :  Right
+D :  Okay
+D :  Yes that's correct
+D :  Okay well
+D :  From marketing report
+D :  Um we observed remote control users in usability lab
+D :  And also okay so this is researcher we also gave participants um question i have to fill out
+D :  Um total number of people tested one hundred just so you know so that hundred people tested and these were the findings so it's at five percent of users find the remote control ugly
+D :  Okay so we don't like the look of the remote control
+D :  Um eighty eighty percent of them would spend more money if the what remote control look really cool fancy
+D :  I think we'll
+D :  Agree with that
+D :  Um
+D :  Current remote controls do not match well with the operating behaviour of the user
+D :  So
+D :  They don't like
+D :  By the way they operate it doesn't
+D :  Much how
+D :  Okay
+D :  Um thirty percent of the users say they only use ten percent of the buttons on the remote so
+D :  Probably if you have like one two three four five the whole out of ten they probably don't use those are only used up and down channel
+A :  Is is running or five channels
+D :  I think that's what i that's another thing
+A :  Hmmm i
+B :  Uh-huh
+D :  Um
+D :  Send five cent of users say they zap
+D :  Not quite sure what they mean with that
+D :  "'cause" i was is that
+A :  I think that's flicking quickly between channels
+C :  Yeah you wanna navigate the channels quickly i guess
+D :  Yeah
+A :  Yeah
+D :  Hmm
+D :  Um text was time to learn how to use a new remote especially for uh the older generation
+D :  I know my grammar but this like mobile phones things i used to use
+D :  Anyway um
+D :  And they also
+D :  Most of to get lost in the room so and then we can find them
+D :  So maybe tracking device is a good idea
+D :  Um hassle i i
+A :  Or a oh
+D :  Uh huh
+A :  You are tell the technology are you
+A :  I
+D :  Um so yeah um
+D :  I think he something easy to use especially for older people
+D :  Um
+D :  Has to look
+D :  Really cool flashing would be
+D :  People to buy it
+D :  And it's easy to find it so i don't know whether maybe and also
+D :  We asked them whether they printed um whether they'd be interested in um
+D :  Voice activated
+D :  So voice activation this uh and this was what we came up with then if you like fifteen to twenty five this is ages are without the way
+D :  A script the fifteen to twenty five said like nice to match what sets them
+A :  So yeah yeah yeah
+D :  Said yes
+D :  Um
+D :  So
+D :  Basically the majority seven forty five to fifty five euros for some reason didn't want a voice activated one and needed to be older generation but the younger generation who we are catering for
+D :  Like well for some money nowadays do you want to without speech recognition
+A :  But but to the younger generation have the money they they don't is older generation of the ones are gonna um
+D :  In a remote
+C :  No i would i would say the older the older people
+D :  Well the twenty five to thirty five euro and thirty five and thirty five to forty five forty five point seven percent
+D :  Lot oh so you know say
+A :  People table for me i just uh if there's a big job of the
+D :  Mm
+A :  For up be well up to the age of thirty five
+A :  Uh saying yeah they wanna
+A :  Um but now than others so that most people that have the money uh people from the age of thirty five to fifty five
+C :  Yeah that would be my guess so
+A :  Uh it "'cause" that was uh been working for twenty years
+D :  So that
+A :  Um
+D :  Well
+A :  And that that's that that's that's quite a mono uh in as a as a team at fifty fifty that's thirty five percent
+D :  These guys going up
+C :  What about this from the the perspective of our manufacturing cost and you know if it's twelve fifty per unit
+A :  Yeah
+C :  I mean okay there's
+D :  Voice activation might not be the best
+A :  I would say sky i'd say scrap that's trade off
+D :  Um also with um
+D :  With buttons
+D :  I think hold
+D :  R. s. i. e.
+D :  So we if things
+C :  Repetitive strain
+C :  Rip repetitive strain injury right yeah
+D :  Yeah repetitive strain injury so they don't
+D :  I think people watch t. v. maybe to what think you change and channel that's the rest
+D :  I think
+B :  Well lots
+B :  Maybe this and what's always t. v. you
+A :  So you so it's so it's so you do so that's something we should
+A :  Have a look and see then it went is that when designing uh you know it's it
+D :  Yeah
+D :  Maybe not so hot
+A :  Say i i'm looking for um
+A :  We're doing what any medical
+B :  Maybe it could be instead of pressing but then it could be just touching uh
+A :  But can we go find out about this
+D :  Yeah
+A :  Yes it should we just one disk of losses so that people are gonna so this in ten years time say your remote control get mean the best a strain injury
+D :  At least
+D :  Mm
+C :  We should probably console with our legal department
+A :  Yeah
+A :  Yeah i have a lunchbreak at the moment but
+B :  Yeah yeah
+A :  Yeah hmmm considering get icsi define the l. the next meeting
+C :  I think we can do some real in in our department that the ergonomic department we can make some some really good improvements
+A :  Yeah
+D :  Hmm
+D :  Maybe the buttons so how yeah so you don't to press so much we we just like flat buttons be
+D :  Yeah
+A :  Okay
+D :  So that's easily
+A :  That's great thank you very much that way so
+A :  Um mm hmm
+A :  Okay so we've by city
+A :  We decide we
+A :  We decided that is very not we're going for a basic
+A :  Television remote
+A :  It's gonna be safe to use is gonna look cool
+D :  Mm
+A :  It's kind of cheap
+A :  So um
+A :  Now come back to the uh industrial design of it
+A :  You know who
+A :  Looking at whether to use maybe infrared all bluetooth
+A :  I think
+A :  We should just go with the simplest
+A :  Option on everything
+A :  Uh and that would be infrared
+A :  Energy source to be batteries
+A :  I mean we can look into using this would be know the little tiny weeny batteries a lot special long lasting batteries
+A :  Um
+A :  But uh in this know but i mean is any point in
+A :  Making a remote control unit that's gonna last for fifty years because technology you would change them you know we wanna televisions in ten years time
+A :  Mm
+A :  So
+A :  Nothing will um processed on that
+A :  Um
+A :  Any any questions
+D :  Mm
+A :  Everybody had in their work
+C :  Yeah it seems like were on that pretty much on the same page
+A :  No i dunno from
+A :  This is good good instruction and um i don't know where would end soon
+A :  Yes
+A :  And beeping as a then if you got been getting those of crap spam a new computers
+C :  Uh it's probably easier "'cause" you the project manager
+B :  Mm
+D :  No
+D :  Just questionnaire
+A :  Yeah
+C :  So trying to sell you things and
+C :  Okay
+A :  Yeah that's the stuff and
+D :  Uh huh
+A :  Okay
+A :  Told is as i have you guys find out if you can if we can email stuff to each other
+D :  He can
+A :  Right
+C :  Okay
+A :  Do oh you all know my email address
+C :  No i don't
+B :  But in the project announcement you've got p. addresses i think
+D :  I think it's participant one money
+B :  So project manager it's parts bin one acts
+C :  Oh so participant one ah okay yeah
+B :  A. m. i.
+A :  Can you all email me your email addresses
+C :  Well it's just it's just it's just
+B :  Yeah how many
+A :  I thought
+B :  You have them
+C :  Participant one participant three
+B :  That will send you an email you want to have friends then you
+A :  Semi yeah
+A :  Yeah okay
+C :  So we have the trends i could uh big yellow and black remote as far as uh as maybe that's our next meeting that we discussed
+A :  Is it yellow but it was yellow and blue i i kind of so it was blue buying a yellow background but i might be just done that
+C :  Well sec wait on a white and blue on a black background with white with yellow borders
+A :  Okay
+C :  Maybe that's
+A :  Well
+C :  Getting ahead of ourselves
+B :  It would be
+A :  Maybe you can come up with a few you know a couple different ideas
+D :  How we have different colours of the remote system you can choose different colour like does it have to be a certain
+A :  Well see the thing is is we've gotta keep the company mean she's gonna say they will go to look at this remote control and it in sunny recogniser that's a real reaction
+D :  But if it's a are are they would be real reaction
+A :  I product
+D :  Like is that the symbol on it
+A :  There's a logic um least it called r. r.
+D :  Well
+A :  This is slow and as but this is the slogan this is that that that that's right
+C :  And this is something like a mom down from from the higher ups a seminar sort of be all the time
+A :  Yeah
+D :  Three after that one colour
+A :  Well not necessarily but we have to incorporate it
+C :  No one colour but the pattern needs to be recognisable
+D :  Mm
+A :  Not necessary even if it's just has to
+A :  You you have to look at the product and instantly now it it it's one of our products
+B :  Like it
+A :  As opposed to a sony product or uh
+A :  You know a panasonic product it's got to
+B :  It could come
+A :  So maybe so you can have a look at our our other products and see if i owe follows similar fine
+A :  Perhaps
+B :  But it could come in different colours and have the r. r. colours
+B :  Just somewhere
+A :  Yeah
+B :  Like just that around a lot button could be p. r. r. logo all colours and
+A :  Yeah
+D :  Hmm
+B :  Yeah
+A :  Corpus yep
+A :  But this is all your department
+A :  Uh-huh
+A :  Okay
+A :  Well
+C :  Right okay
+A :  Well done a bowling uh-huh and um
+A :  I think we uh
+A :  Stop lance yeah
+C :  Yeah pretty soon think i guess it's no
+D :  Are we we finished had that's good
+A :  We might possibly have done
+B :  Cool
+C :  Alright see you all soon
+A :  If we sit for finished five minutes before the meeting supposed to finish saying that means be an extra five minutes for lunch
+D :  I think
+D :  "'kay" um
+A :  Yeah
+A :  Thank you
+A :  Right
+A :  I just has its if you do this piece that's right down but uh-huh
+A :  Okay that's that's of cake that smoke "'em" if you got "'em"
+A :  Yes

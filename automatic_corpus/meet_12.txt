@@ -1,0 +1,474 @@
+A :  So
+D :  So also
+B :  But then you might
+C :  So we forgot that to switch again
+B :  Boss
+C :  They they cost
+D :  Maybe maybe maybe me
+A :  Okay
+A :  So we're here to talk about the detailed design of the product
+A :  Okay
+A :  And here's the agenda for this meeting
+A :  Um the scroll and see if you boring wants to start again
+A :  And start taking minutes afterwards you guys gonna give a presentation or one their products that i can
+A :  Six and then she should go with that but still
+A :  And
+A :  I'm gonna evaluate it
+A :  Then we wanna talk about finance of got our lovely excel spreadsheet that not not not five minutes so that's
+A :  And
+C :  You know it up
+A :  Uh yep and we're gonna evaluate the product and close
+A :  Got forty minutes to do this and we should be
+A :  Finding much time keep this one on schedule
+A :  So
+A :  You're
+A :  Thing and and
+A :  Or is it is it in
+C :  Third third thing
+C :  Yeah and private thingy
+C :  Yeah
+A :  Who wants that
+B :  Great okay
+B :  Back of all time
+C :  Um
+C :  Yeah so what we ended up late
+C :  Action course estimated by our manufacturing department then um the research department which is r.s
+C :  Is the the fifteen point eight euros so much but
+C :  Uh-huh minutes there a unit price unit production price cost
+B :  You price
+C :  Um
+C :  We implement the the basic functions
+C :  Which is just t. v. functions plus
+C :  The locator
+C :  Which was one of the marketing things
+C :  Great deal
+C :  Scroll-wheel
+C :  For uh
+C :  The
+C :  The channels and uh we implemented that but the the way of putting then you when you're functionaries i think
+C :  Your favourite channels functionality in the scroll
+A :  Is that thing you through channels it
+C :  Yeah
+B :  Scrolling through fear it's list
+A :  Oh okay okay
+C :  So i think you know something
+A :  Uh case yeah that's true that's
+C :  Maybe this is for to use and
+C :  And um yeah that was the result
+A :  Okay
+A :  I like that the the the logo on there as well
+B :  It's very prominent
+A :  The front so this is the
+B :  So
+B :  Here
+B :  T. v.s it says that the cradle unit and this is the
+B :  Actual remote itself
+B :  Um
+B :  So the scroll bar is the scroll wheel is this the screen
+B :  Little scrolling guy here um and then the volume controls are here here
+A :  Okay
+B :  Uh you've got the keypad this is the numbers uh
+B :  From zero to nine and ten this is the power button
+B :  Uh we have our um
+B :  We have the enter button and uh
+B :  Was the other button here
+B :  Is the teletext
+C :  That is this the start the two
+B :  The programme button
+C :  Program yeah
+B :  Yeah the programme button
+A :  Okay see
+B :  So this this but not be useful for the favourites and for programming your uh
+B :  That um
+B :  That type of television you in use
+B :  So um
+B :  But plastic is the white area of this of the model here and the red there it is like a rubber covering so you can see that what it lays like this or like this and the buttons are all gone be rubber so
+A :  That's pretty cool
+B :  It's pretty hard to actually damage it
+B :  Um
+A :  Is that could that be easy to use for the scroll wheel to be rotated f. eight ones on it
+B :  Yeah that might be a possible
+B :  Uh but uh
+B :  Possible problem but
+C :  No i think
+B :  Yeah
+A :  Yeah
+A :  No i i guess it depends on the stuff that's awful lot
+B :  Yeah it depends on if it
+B :  Sliding but i think it's pretty ergonomic you can feel it
+A :  Mm
+A :  It's good i think you know this is gonna be satellite and uh
+B :  Yeah of course
+A :  And within that
+B :  Well this is clay
+A :  Mm
+A :  Yeah me too you have to reach a one
+B :  Yeah the the power button is a bit of a reach but i think we might scale down the final model of it
+A :  I know that would make sense
+B :  This is a bit larger than it would be but
+A :  Cool um
+C :  That on a normal uh huh
+A :  In hold it so that was was the marketing perspective
+D :  Well it's
+D :  Oh i like
+D :  I mean you guys gave me more than i was that was on that
+D :  Because we've that's really marketable features and that's
+D :  I think
+D :  Yeah
+B :  Computer can demonstrate that
+C :  Yeah okay
+B :  Uh page inability
+C :  Yeah you have like the the base station with the um
+C :  The little button for the
+C :  Where's my remote
+D :  Oh well
+B :  Yeah
+C :  Locator function
+A :  Yeah that's it
+D :  That's great
+D :  That's good
+B :  Um
+D :  Three feature
+A :  And
+B :  Yeah
+A :  So i may get the fact that this button
+A :  Yeah silly
+A :  Yeah yeah
+D :  So you can take
+D :  Is that would be denying you can
+D :  Yeah he'll be a cost
+A :  I find it
+B :  No the
+A :  To do it
+A :  Of those but they did it to charge off of
+B :  Exactly that's exactly what those are four and um there's one other feature that we're debating but we decided to go against it is um you could
+A :  Okay i think
+B :  Think it it might be interesting to have a trigger button here because you have this thing yeah it
+A :  Yeah
+B :  It's a kind of
+B :  There should be something there but we couldn't figure out what button is important enough to put there
+B :  And we we don't wanna actually be hitting the power button like that
+A :  But maybe if you have a trigger plus the scroll then that would get past the the problem of ah one thing and scrolling "'cause" then it would need to be hat and also isn't it
+B :  So maybe in a final design phase we might treat that a little bit
+A :  Okay
+A :  That is that's like the options for like different data models and things as well be some of that
+D :  Yep right
+D :  The the
+A :  So is that the the final colour scheme as well uh
+B :  Oh no this is
+D :  No no
+B :  Just what we had to work with that time
+A :  Okay
+B :  So well with the colour scheme up the marketing people
+A :  But
+B :  Careful
+A :  It enough
+A :  The scroll-wheels problem with them not big
+D :  Well i mean if
+A :  I don't think it is that if this guy who wants to touch it and
+D :  My suggestion is we're gonna go go to the silver some blacks like most of the televisions
+A :  Hmm
+D :  You know someone that's over some blacks
+A :  Okay
+A :  Not for that
+A :  Uh the skill yes
+A :  Okay so are we done
+A :  Three this presentation
+C :  Yeah
+C :  Oh
+A :  Then uh
+C :  Oh
+D :  So yeah gonna find my uh
+D :  My folder up they're gonna do my note that the board
+A :  Eddie okay
+D :  Yeah
+D :  So
+D :  To
+A :  Can i get your get tax stuff from your shared folder now
+D :  No it's not in there because i have a computer problem and i
+A :  Oh i see is
+D :  Like i couldn't i couldn't create it
+D :  I couldn't do it in the powerpoint
+D :  Yeah i think if that is really strange cable
+D :  So what i had
+D :  Basically go on from the powerpoint format
+D :  Is that um
+D :  Yeah yeah like this will last
+D :  Is this one of the tests is to see how we can adapt choose changing situations in the
+D :  In the meeting room
+C :  That
+C :  Yeah
+D :  So what we had if we had the method
+D :  That's not a spell method is it
+B :  No way
+D :  No way uh
+D :  Can you
+D :  So this doesn't go so fast as well
+D :  And when i speak about method i speak about the marketing of the product so
+D :  And uh
+D :  To me with this product we get to
+D :  We get
+D :  Basically three things to market
+D :  We've got three features
+D :  We have the uh characteristics
+D :  And we have uh of i don't know what we call the other part would be got you know the the
+D :  The
+D :  Court
+D :  Corporate
+D :  Well maybe
+D :  But the corporation is ten minute right okay
+D :  So the features i think we get a square all we've got the uh the locator we've got the durability we've got the dependability we've got you know the features that makes
+D :  A unique product
+D :  Um
+D :  The characteristics a talk about we have reliability we have comfort we have ergonomics we have environmental least sensitive
+D :  Um and the corporation we're talking about
+D :  Where were in you were in new company
+D :  We're wanting to make a name for itself or wanting you to uh find our product so we're gonna give you a good product at a fair price
+D :  One thing i would want to to see
+D :  Is um
+D :  Is can we can we get a lifetime
+D :  Uh i guarantee on this product a normal use guarantee
+D :  Which means that this product for the for the life of of
+D :  The life use if it should have a technical problem that we could replace it no cost
+D :  That was something that would be interested in
+D :  Um
+D :  So all of that way that they're going in a great detail we have that we have a product that has the features in the characteristics in the background i believe to make it marketable i believe uh the cost of of of thirty thirty five to
+D :  To fifty euros
+D :  We're gonna be competitive
+D :  And we're gonna we're gonna have a market niche
+D :  Um
+A :  You would you argue that we're better going for the higher cost down bring it down to twenty
+A :  Five as we probably could
+A :  But warning a profit margin
+D :  That that would be uh
+D :  That would be i think a decision best be the corporate um
+D :  I i am for my evaluation based on what the competition is i if i think
+D :  That that we can go after this and and and go after more of the uh exclusivity sense then the mass market sense
+A :  Uh-huh
+D :  But i'm sure i'm sure open to to market is another direction
+D :  Which you guys can put a great product
+D :  An attack a state think it to
+D :  There's nobody else is putting this this combination of of ingredients together be a limitations i see this as it were focus on television only
+D :  Um
+D :  That's the only that's the only drawback i see that put all these other features i think people one thing i'm i'm hoping for these people are not gonna even notice
+D :  There's gonna be somebody going on with a list this thing doesn't work from i. d. v. d. in my but i like these other thing so they keep it it'll take it back
+A :  And are actually quite open to be able to expand the product for a with a button that those features
+A :  At some point and it does not fundamentally different thing
+D :  Well what it what i thought i said i had this can can this unit be be produced in a way that makes it upgrade a ball
+D :  No uh like a like a um a same card in uh
+D :  You know um
+D :  In a telephone
+D :  You know is there a call it and it can be make a card and so after
+C :  We knew we knew mean it's some more buttons if it were to work on some other stuff
+D :  Uh-huh
+D :  But you phone and
+C :  We will yeah we could get another version of it that actually works
+D :  Yeah "'cause" if if we can make this unit and credible then would
+D :  Yeah but can we talk about changing the warranty concept and everything but that's that was just an idea i had like to maybe all the editions
+A :  Does that the rest of making unusable as well or making it less
+A :  It because at the moment is actually very straightforward to look all the buttons you know what to do it's very simple and this box
+D :  Yep
+A :  Mm is the rest of that
+D :  Yeah anyway that's uh
+A :  Okay so we can talk about finance there
+A :  So all i have a little spreadsheet for a spare
+A :  Uh i was wondering you when you talked about fifteen twenty euros as one and how you cannot about think yeah
+B :  Oh that was it just our technical team it up the um production cost of the individual units
+A :  Okay so
+A :  Have
+A :  But the spreadsheet yeah
+A :  For this
+C :  Break off
+A :  Made of view assumptions here and that i'm assuming that are part about that
+A :  We can make for a cost of four euros come to solar cells
+A :  I think it's probably fair considering that that we have an hourish
+A :  Manufacturing a parrot that was already
+B :  Uh huh
+A :  Uh
+A :  And i'm assuming that these
+A :  Locator beacon
+A :  Do you know the
+D :  Uh-huh
+B :  Yeah
+C :  D. v. d.
+A :  It can be made for this and that that that that can be made for a somewhat place to
+A :  Uh an l. c. display
+A :  Uh and i i i
+A :  It do you think that's fair come from our manufacturing
+B :  Yeah um i do think we that we we we uh don't need the advanced chip-on-print we only need the uh
+B :  The regular chip on print so
+A :  Okay
+B :  Yeah maybe them miscalculation there
+A :  Okay
+A :  So we're down to sixteen point
+B :  And we uh we have a single curved uh
+A :  Is that single curved uh the the double curved
+B :  Uh i think that
+A :  Well not entirely sure what so
+D :  But we've got a curve in a group i don't know whether that
+B :  It's single curved
+A :  You think yeah okay
+A :  I'm not convinced
+A :  But we save one euro that we yeah
+A :  So we come when you tend to
+B :  It's it's a little bit more than for single curve so yeah it's fifteen point eight that's what we came up with it
+A :  And that the speech so
+B :  Okay
+A :  Same here and that that we do we have any
+A :  We have special form the way
+C :  Yeah
+B :  Yeah we did
+A :  So that's yeah
+A :  But the any special colour little uh i don't say for one reason so more than i don't think more
+B :  That's a very special it's pretty
+A :  Okay so or
+A :  Then scroll wheel rubber basically we have
+A :  At that is that's intended to be a button as well or just uh
+A :  Scroll
+B :  That's a scroll
+A :  Just a scroll it's not one of the schools for for example if that's when you could push it then be a button
+B :  Um no we just use it as a scroll
+A :  Okay
+A :  Then we have fifteen point eight euros
+B :  It was a pretty accurate is that it's
+A :  It wasn't bad
+C :  We would get
+B :  You
+C :  What's up
+A :  Okay so
+A :  We're on to be
+B :  That's frightening we i care
+C :  Yeah
+A :  We're under the power on the back part of the
+A :  Presentation where we have a look at the criterias that the whole exactly and
+A :  Criteria that called is is gonna
+A :  And we can use that to
+A :  Tell
+A :  Has it gone
+A :  Any any
+A :  But i don't have we done today
+B :  I think we did pretty well
+A :  I think that uh that uh that looks pretty spectacular
+D :  No i think we've come up with the with the attractive marketable
+D :  Um
+D :  Product and end time so
+A :  Any other change it thoughts
+A :  Okay so that well that um
+A :  Room for creativity
+C :  That was
+A :  Mm hmm hmm
+B :  Sure if there's plenty room
+A :  Uh-huh
+A :  Uh yeah i think we ended up being quite good to the
+B :  Apple innovative i'd
+D :  Yeah well we
+B :  Well innovative ideas
+D :  We we kind of broke
+D :  We can at least adjusted
+D :  Every
+D :  Every criteria they gave us
+D :  Because we just we still have the the teletext keep will be in a saying right
+B :  Uh-huh
+D :  We raise the price of it
+D :  Better to just new technology to it
+D :  So you know if this thing flies than we've we've adjusted are broken every
+D :  Every or do they gave us
+A :  I've read in s. l. it's still a remote control
+D :  Yeah
+A :  That no yeah but we did we did break with the spec so i'll but i guess
+A :  The the uh
+D :  But then like i mean what i say we have we had i believe we have room creativity "'cause" what this is we did it
+A :  We different for the report back to the bosses
+A :  Yeah those i think there are reasonable flexible watches over the whole
+A :  Changing the spec thing
+C :  He was more of a team more exciting than rover but it should pass project
+A :  I agree
+D :  Course use of yeah
+A :  It's energy
+D :  Yes
+D :  Synergistic yeah
+B :  As like a synergy
+A :  Hmmm team or
+A :  Yeah yeah i was uh uh
+A :  Would it be think of the
+A :  Meeting room i guess is important thing here
+B :  These tables so
+A :  Yeah
+C :  Yeah
+A :  This falls off and
+B :  Yep
+A :  Uh the whiteboard worked really well with the innocent
+B :  Yeah
+C :  You must have very long shared that's
+C :  Way far dial apple
+C :  Mike
+A :  Uh-huh model well
+C :  But the lapel
+B :  Lapel
+A :  Okay oh alright
+C :  At all of the crotch
+C :  But
+A :  That's that's the end it's quite
+D :  You know what they're good at what the recording you know from have microphone is your lunch digesting you know
+C :  Yep
+A :  No idea
+C :  I would get the idea that that uh
+A :  Mm the more pizza for me i
+A :  So you have it depend team and alright it's a little uncomfortable to use but i guess it works
+C :  "'cause" you using it pops it on
+C :  Yeah
+A :  Well i'm i'm not convinced that that's all
+A :  I've been one of them been wondering about all the the c. d.s look like they're
+A :  That would still that looks like it would be that way around
+C :  Use them like that
+B :  It does right
+A :  But it feels more comfortable what you call it a then
+B :  Eight euros
+A :  And ah okay
+A :  Uhuh
+A :  Okay so that they to make this out and out
+A :  New ideas of events
+D :  New ideas for the for the product or four of the the the
+D :  The environment or whatever
+A :  What was the board then
+A :  Uh for the product
+B :  Well we had the favourites list and the scroll bar we have a cradle
+B :  And uh our um our remote call feature
+A :  You can not quite that
+C :  And to me i guess
+A :  Then for the meeting them as anything anymore
+C :  Comfortable headsets a bit nice
+A :  Yeah with
+D :  Well i mean
+D :  Very remote control microphone could be yeah
+D :  Yeah
+D :  My solution to all these cables but i'm sure that is to some justification for these things i don't know about
+D :  And of course i did not have so much fun with my computer this have you know it's not in the
+D :  It's not been cool offerings well but
+D :  I don't think that's the
+D :  That's where the ball
+C :  Put it in words
+A :  Okay so
+A :  The costs within the budget
+C :  Mm
+D :  No
+A :  Not buying and then really that something may
+A :  The costs under twelve fifty euros not gonna change or so and the twenty years to build so would it
+A :  Uh
+A :  Cost within the budget
+A :  Mm not there is no budget to be on there
+A :  Is the project evaluated i think so yeah then celebration
+A :  And that's it
+D :  Yeah
+C :  Free to provide about the cafeteria
+B :  Our rat
+A :  Uh i don't know how to do that
+A :  Uh yeah
+C :  Well wrote that one
+D :  So we close this meeting at that well and regulations
+C :  Ooh
+B :  Good job guys
+D :  Oh yes
+A :  Mm
+D :  Mm
+D :  Huh

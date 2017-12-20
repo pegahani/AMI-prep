@@ -1,0 +1,296 @@
+D :  Right
+A :  And then there's the other one
+A :  Okay
+D :  Okay
+A :  Everybody ready
+D :  I think so
+A :  Uh i think the first thing we do is introduce ourselves
+D :  That's a good time
+A :  And there is a name and what's your function is so maybe we start with you
+B :  Yeah my name is france and
+B :  And i and uh and user interface my role this
+B :  Uh the main responsibilities user interface
+A :  Uh-huh
+B :  And my role is to design uh a a television remote control
+A :  Uh-huh okay
+D :  And i'm the marketing person uh one figure out how to sell it
+A :  Uh huh and your name is
+D :  My name is eileen
+C :  Yeah i'm jan to be um um my oldest industrial designer
+C :  And my responsibilities are dropped
+C :  Oh oh
+C :  But do you do that though technical functional designs and the specifications of user interface and it in but user interface design
+A :  There you go and as you or you know and betsy i'm the project manager for t. i.
+A :  So when we look at the presentation that to see what three really are supposed to do
+D :  Okay
+A :  Um
+A :  Yes opening acquaintance
+A :  Tool training well the tools uh i think we already i guess it was really our the computer
+D :  Uh-huh
+A :  As far as i can see
+A :  Um we get means each of us will get instructions and we'll take it from there
+A :  Project plan that falls and at the same heading pretty much um i don't think we have any great discussion at this point
+D :  Uh-huh
+A :  Um
+A :  Here is what is this thing should be
+A :  This thing we are wanna
+A :  Um
+A :  Uh design as a new remote control
+A :  And two people regional
+D :  Uh-huh
+A :  Trendy
+A :  And of course user friendly
+A :  So maybe gonna make some notes of that
+A :  Okay
+A :  Alright
+A :  Here's what the functional design
+A :  It's supposed to achieve uh mm
+A :  That is it's gonna be individual work and then at the meeting we'll discuss
+A :  What uh
+A :  We have come up with
+A :  The same goes for the conceptual design
+A :  They will be individual work
+A :  Week and then discussion afterwards
+A :  Detailed design
+D :  Mm hmm mm
+A :  Same thing
+D :  Three different types of design we can be concerned uh-huh
+A :  Uh-huh
+A :  Uh-huh
+D :  Mm
+D :  So she uh-huh
+D :  Uh-huh
+A :  Okay i this this
+D :  Maybe we should be designed
+D :  I have to finish the remote control get to that
+A :  Uh
+A :  Then tool training try at the white board has to control the favourite animal
+A :  Does anyway you want to go when it's
+A :  See how the whiteboard works so that it's in case we have two in the next meeting present something on the whiteboard
+A :  You wanna go eileen and
+D :  Okay after that i can do
+A :  But are you
+D :  Seven
+A :  We that thing yourself
+D :  See if i remember have to draw kitty cat or a rabbit or something
+B :  Yeah but but but
+D :  It's
+D :  Uh-huh
+A :  And remember you have to press so it works uh-huh
+D :  So that will record okay
+D :  Um
+D :  Oh
+D :  Um traditional
+D :  Yeah
+B :  Yeah
+D :  I
+A :  That's right
+C :  I think
+D :  I'm very fat cat i
+D :  And it lights it like that
+A :  Uh okay
+D :  Okay
+A :  And your friend seen i would you like that but just to see um
+B :  Yes and that's in there
+B :  Yes sure
+A :  How it feels so that you have a little idea
+D :  It's a mouse was aware of that or
+A :  No that's okay
+B :  No okay
+D :  Okay
+A :  Uh mm
+A :  Get to that later
+D :  Okay
+B :  That's a good i
+C :  That's me
+B :  I'm going to draw three
+B :  How do i
+D :  Yeah okay
+A :  I
+D :  Have the kitty cat is having the excel like say yes i
+A :  Uh okay
+C :  I
+A :  Is the project finance uh which of course we all have to think about when we design this thing
+A :  Um selling price is supposed to be twenty five euro
+A :  Our profit aim for the company is fifty million euro
+D :  Uh-huh
+A :  The market range unlimited meeting international
+D :  Okay
+A :  And the production cost should not icsi hopefully should be less than twelve
+A :  Fifty euro
+D :  Mm hm it should keep everybody on their toes and challenge
+A :  Uh-huh
+D :  Okay
+D :  Mm hmm yeah yeah
+A :  So these are all
+A :  Things of course
+D :  Uh-huh
+A :  To remember was about to do when you design
+A :  Two
+A :  Materials cost etcetera
+A :  Now uh the discussion i guess it is um does any uh one of you would have experience was
+A :  Remote control
+C :  Yeah of course loses remote control yeah
+A :  As casey we use and reuse "'em" right every day
+B :  Yes
+A :  And um
+A :  Now having using a remote control for years just anybody already have like an idea
+A :  Like things you didn't like with its things you would like to change things would like to improve with this thing yeah any first ideas
+A :  Do you like it be smaller
+A :  Big were
+B :  Yeah i
+A :  Have more have more buttons on a at or or maybe clearly better market buttons you know things like that
+C :  Yeah
+C :  Yeah
+B :  Yes i i feel that all the remote should be maybe come back to
+A :  Smaller right uh-huh
+B :  Yeah those which we get yet nowadays it's very long
+A :  Uh-huh
+B :  And um
+B :  And it should have a multipurpose like that the remote control which we use for t. v. it should it uh it should be used for uh for some of the pope was also like
+B :  Controlling the um uh can reach it inside that house on fire at the nation as uh for heating system
+C :  O. u. i.
+A :  So it should be a multifunctional uh a gadget do that with the um control your house old uh uh uh machines basically
+B :  Yes
+B :  Yes
+B :  Yes
+C :  Uh
+B :  Yeah exactly
+D :  It's
+D :  A town twelve fifty euros per hour
+A :  Well
+D :  As well and as we get a really good sign or maybe we can do that
+D :  We certainly can try to i agree with your that to market something successfully to do some more things
+A :  It should be something new we should this is it should do something different and then just what we have now of course the other thing to think there is maybe the design
+D :  That's right
+C :  Yeah
+B :  Yeah design should be yeah it should be different all that almost all the remotes
+A :  Like a trend you know like over here we so maybe to be something trendy you know maybe should
+C :  Yeah maybe it in a different colour alerts as or she is also
+B :  Yes exactly
+A :  Different colours or materials or or you know
+B :  I think she was
+A :  Um so yeah shapes right yeah no like teeny shape for a spare in your hand or something enough
+B :  Yes
+D :  No okay friendly shape
+A :  Yeah
+D :  That would help
+D :  I think in everything that would help is um if
+A :  Yes
+D :  Beeps when you clap
+D :  Because i think one of the big things that happens is people use them they can't find it
+A :  That's true because they put the newspaper or they put it behind that plant or are we or whatever and and they are some either phone rings and they wanted
+D :  I
+C :  Yeah
+D :  Uh-huh
+A :  Turn the t. v. or forensic
+A :  Oh yes i i my remote control yeah
+A :  Well or yeah or if it's really
+A :  If it's really a dark spot
+A :  Like it's out there uh a salad or signal yeah um mm
+C :  Yes um a beep or something like that so that we can go
+D :  That's uh that's that's really there are people were all like should blink
+B :  I don't
+A :  So if lost
+A :  If lost uh uh a signal was a bit
+C :  Yeah
+B :  Yeah
+B :  Well no it's a signal yeah
+A :  So signal yeah no
+D :  Okay uh
+C :  Yeah maybe it should have a light so that we can we can just recognise but it is
+A :  Exactly i mean just as as i say i'm just saying the slow signal meeting just whether it's a beep or whether ally it store
+C :  May know there's a yeah
+D :  Yeah
+C :  Beep or it's allow you to maybe to like
+D :  I do think a good um clue for that is that you would respond to a clap
+D :  Or we respond to your voice
+D :  Or would respond what what you'd you have to do to make it beep or blink
+A :  Okay my my idea is maybe that
+A :  The minute it's really hit me in in other words if it's
+A :  In a dark spot
+D :  Uh-huh
+A :  Uh it mean you're like a newspaper is on top a sweater is on top or it's a bit behind the plant
+D :  Uh-huh
+A :  At that moment it's it's like it's like uh uh um but you call it the lights at the sensors you know
+D :  Okay sir
+A :  In in that nobody has a sensor
+A :  It it gets a certain darkness it it has a sensor and it gives out a signal whether that be a light signal or a beep i mean that we can discuss that later you know
+D :  Okay
+C :  Yeah probably
+C :  Yeah probably sorry
+C :  Yeah yeah
+B :  Yeah and uh
+D :  So let's answer would activate the signal
+A :  That's right
+C :  Uh-huh
+A :  Yeah i would be
+A :  Right you have to have some kind of sensor and i i think yeah uh uh worries or clapping that's not specific enough
+A :  Uh i know they're the lambs and stuff you know you can clap on and off
+D :  Uh-huh
+A :  But i think the only work
+A :  To certain degree
+A :  And
+D :  But it could be some that's really obvious and you still wouldn't be able to find it
+C :  Yeah course the the
+A :  What with
+D :  Well we "'cause" this because you're selling because people are so
+B :  Then in that case
+C :  Isn't it
+A :  Oh yeah well but then those people we can help by everybody
+D :  I mean it can be out
+D :  Well yeah it is more like a on top of your book casing use like at that all the coffee table
+D :  Um
+D :  You know where you have to move along okay
+A :  Okay we have a
+A :  Yeah we have to move a lot but uh i think we have some good good points to start with here
+C :  Yeah good point
+A :  Okay the next meeting will be in thirty minutes i think you all do you get the notes is on your computer for this okay so will you got a note is um
+C :  Yes
+B :  Yeah
+A :  The the
+A :  The working design
+A :  I guess that's the function i. d. uh we see is the industrial designer
+C :  Yeah
+A :  That's you
+C :  Yeah it's function yeah so
+A :  Okay so we are looking for working design when we come back
+C :  Yeah
+C :  Uh working design yeah it's it's out we need to include functional design
+A :  And then
+A :  And then the technical functions you'd the technical function so so you are the working design so we you're working design and then it functional design
+C :  Yeah functions design
+B :  Okay
+A :  And the marketing manager is coming up with some user requirements specification like friendliness and what we just discussed in general
+A :  That would be you were idea and of course price
+A :  But they they did that the price is a good price
+D :  Uh-huh
+A :  I mean the price is given but
+A :  That that was
+D :  We have to justify that was by having sufficient features to make it so that price
+A :  That's right
+A :  That's right
+A :  And you know piece that you you will get specific key um instructions for that i think that's the end of the show
+A :  So um
+A :  We have four we haven't tried to to to three minutes
+A :  Um any questions at this point or uh suggestions
+D :  Mm
+A :  I think basically basically do will get instructions to work with
+A :  And if you have any questions uh
+B :  "'kay"
+A :  Uh i guess you can yeah
+D :  I think i have to think about one next meeting
+A :  Uh-huh
+C :  You know
+D :  About two people uh-huh
+C :  Yeah yeah yeah
+A :  Uh-huh
+A :  Okay
+D :  Right well um mm
+A :  Then uh we see you in about thirty minutes
+A :  And see what we can come up with
+C :  Uh-huh
+D :  Okay very good
+A :  Okay
+B :  Yes
+C :  Yeah

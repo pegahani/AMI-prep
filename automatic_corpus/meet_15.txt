@@ -1,0 +1,809 @@
+D :  Uh-huh
+A :  Hmm
+A :  So let's start our second me
+A :  Meeting um
+A :  Conceptual design um
+D :  Uh-huh
+A :  So um as the previous meeting i will
+A :  Be the six or three
+A :  Um we will have three presentations
+A :  And we'll have to decide on the remote control concepts and
+A :  Fine maybe we will close the
+A :  The session uh-huh
+A :  So uh-huh i will
+A :  First um
+D :  So you you the mean that's that's all
+A :  What
+A :  I i i think i will let's uh-huh
+A :  Our
+A :  User interface designer speak first
+A :  Mister they jordan
+A :  So on wall hmm
+A :  Technical as the sun
+C :  No no
+A :  Interface
+C :  So i'll first i will present the concept of user interface
+C :  Um there's three concepts
+C :  And uh
+C :  User interface
+C :  The first line so we'll go
+C :  Come from
+C :  The second be there
+C :  Fancy come from
+C :  So that's like the had it come from
+C :  So there are three concepts you know a compartment
+C :  Um
+C :  Next every o. extend my mail and the first is the logo control
+C :  Um
+C :  So i want to comparable to be easy to use that to be said fifty functions
+B :  Uh-huh
+C :  So it's a combination of you need to use and the the fifty functions
+C :  Well i did see the five
+C :  Concept of a control
+C :  The second concept is a fancy control
+C :  Um so we're but keep the cut some of the impression that
+C :  A compromise very attractive
+C :  No we can't easy like that all come from a lot of products
+C :  So you so
+C :  Do you say you have the the
+C :  User interface would be very
+C :  Where are cute
+C :  Very
+C :  Very um
+B :  Yeah
+C :  Attack to you
+C :  Fast as these there's several
+C :  Uh examples t. v. "'s" nice
+A :  Sure
+A :  Or or three
+C :  Yeah it's uh
+C :  In in a few
+A :  Very many i
+C :  It's hard it is easy vote to remember it
+C :  To recognise it
+A :  "'kay" yeah why not
+A :  Well how big is good so i suppose after that
+A :  So
+C :  So the last the concept do you think i didn't
+C :  He wants uh we want power control to be
+C :  Smart
+C :  So maybe you should uh use um
+C :  Uh
+C :  Technology such as
+C :  Speech recognition technology and just recognition technology
+C :  So we need to
+C :  Have caught some corporation these
+D :  I agree
+C :  Some research things to do with a speech
+C :  Recognition and on just recognition
+C :  Or
+C :  Well we've is uh the last features that i think we can attract a lot of user
+D :  Thank you
+A :  Okay
+A :  Something else
+C :  Yeah this is the three concepts
+C :  Or five or
+A :  I just have one question because for the intelligent control
+A :  You said that we can use the voice recognition are they just recognition that's
+A :  As team
+A :  Um
+A :  Expert told us most of the people want to
+A :  Use the remote control to zap
+A :  To zap between channels
+C :  Yeah so
+A :  You think that will be able to use gestures
+A :  Because if they do all the time the same gesture
+A :  As you said previously in the last meeting
+A :  Maybe you will get
+A :  Injuries because uh that's or if you say channel three channel three two three four six light
+B :  Yeah okay
+A :  I think they will
+A :  Be born after a while
+A :  You don't think so
+C :  Oh okay
+C :  I think sometime it's very
+C :  Um coming is to use voice interface and just interface then use button but that way if you look at not funny all
+A :  Yeah sure
+B :  It's okay
+C :  Uh speak something that yes
+B :  One and
+A :  Yeah but suppose you gotta called
+C :  Yeah why is
+A :  You have a mute
+A :  Remote control
+C :  So you case there's yes sure
+C :  The top floor
+D :  How is
+D :  A risk easy to
+D :  Trust like speak recognition all
+D :  Just a recognition
+C :  The fall in the immediate what can be very speech recognition is more reliable
+D :  Okay
+D :  Okay
+C :  And the fall of the immediate vocabulary gets recognition is also worries
+A :  Yeah but suppose you have a family watching t. v. and if we want to use
+C :  Yeah
+A :  Primates remote control in the same time do you think it will work everybody wanting to change channels in the same time
+D :  But this this but this would never happen anyway
+C :  Yeah they can now speak as the same time
+A :  If you have one brother and one sister and they want to
+D :  Yeah but that
+A :  What to their favourite sent to the programme so this a a channel four channel three channel four
+B :  Yeah
+A :  All the time
+B :  Is that can happen even really know is kind of remote control
+C :  Yeah
+D :  I don't think it
+A :  Yeah but you have a remote control so maybe
+A :  Would be you know you're not obliged to share it
+D :  Oh okay okay you mean it could be a problem for
+A :  Yeah we can
+C :  Yeah that that's the other one teed off and kind income for a d. v. you
+B :  Yes it's
+C :  But are a lot i can i can say ten oh three so it
+B :  Yes
+D :  No but this is design and disadvantage
+C :  Channel three i don't have to do
+A :  I think it's a disadvantage
+C :  So the wanted
+B :  I mean maybe can have a switching more apart from you know voice control or two
+A :  Yeah that's one other question how
+B :  Controller so
+A :  How much would cost
+B :  No more expensive maybe
+C :  How much
+A :  Yeah because i suppose we need to do research to have something working
+C :  No we we we just
+D :  Oh i see
+C :  Are you some
+A :  Some efficient
+D :  To use it
+D :  Basic
+C :  No we just um
+C :  Have some corporation be some research and c. d. we we don't have to do some basic research on this
+A :  So you think it will cost and
+A :  Not a lot for us
+C :  Yeah i think it's the because that this technology is the
+C :  Um for the immediate were really need to the mexican recognition
+C :  It's very
+A :  Yeah that's what i'm
+C :  Is it yeah
+D :  That is changing
+D :  How the remote control is gonna be bit
+D :  Because then you need uh
+D :  I mean this doesn't have a
+D :  The port to do recognition for example
+C :  Um
+B :  You you you have also the language part
+C :  You have all the
+B :  Yeah
+C :  Oh um
+C :  Because the the look
+B :  It it has to be you know wasn't so
+A :  Yeah i agree let's not
+C :  Look at areas where small so we
+D :  Yeah
+C :  That's not a problem
+A :  Yeah but there's one problem that's a about that
+B :  Yeah
+A :  Talked about us is the international
+A :  Remote control we need something that's easy international suppose we're
+A :  Want to sell it and false
+A :  Be recognition system will be able to instead of french if you want to go to in but
+A :  It will be able to understand english so
+C :  Yeah the key the key uh um
+D :  You know this could be downloaded by the way they may
+C :  Take it a lot of the key feature a file control and that's nice
+C :  It has some
+C :  Some um
+C :  But that keychain
+B :  Yeah but you
+C :  "'kay" need um
+C :  If we if they you
+C :  When you sell this car for you can uh is can check that handy if it's true if you sell this comparably friends you can recognise strange
+B :  It's a very
+D :  Yeah
+B :  So this is not good
+A :  And with no increase in the private production price of the remote control
+B :  Oh yeah yeah
+C :  You got the this product it is technology has already been developed
+A :  Yeah but how we
+B :  The product is not this you know if you see the pushbutton controller you can send these can use remote control ever in the world
+B :  The same one
+B :  If you have the language you have to
+C :  And yeah yeah that that slide we have to do that we do adaptation
+B :  In the flash country you have to do one
+B :  Because it was for a number four so
+C :  You have all use a value of all different family we have to do that
+C :  Yeah we we we have to do
+B :  That's it
+C :  Adapt to use it to
+D :  Yeah but then
+A :  Since to be quite cool
+D :  Yeah we have to take care of the twelve euros
+C :  No not too complex
+D :  Problem
+A :  And what about for voice recognition do we have microphones and where will be they do you think if we have far from television that will work
+C :  The
+C :  I think there's no way of of of war because you
+C :  We don't have to wear a microphone
+C :  You just the matter for eighteen bad eating comparable
+A :  Yeah but where's the controller
+C :  Yes control
+C :  If you offend you all here
+D :  No but then it's it's like this
+A :  Yeah but we're here it's uh huh
+D :  Well
+A :  No object
+A :  But here you say you want to use it uh
+C :  Yeah you can you can you get e. d. and
+A :  Technology
+B :  The microphone array
+C :  Or from here
+A :  Yeah but what what is the use of
+A :  Voice or just recognition if you have a remote control that like basically have an object
+A :  If you want to use voice suggest you you need to be
+B :  To go to the to the t. v.
+A :  Without any objects
+A :  You just want to interact
+C :  I i did you
+A :  But the television
+C :  What's that called earlier
+C :  Then you'd
+B :  If you say one he said
+C :  You see oh come and
+C :  And you do get gesture
+A :  Yeah but you can lose it
+C :  Uh it's a
+A :  Hmm
+C :  If you lose it
+B :  So but find out if it is somewhere in the room if you may be feeding in the table is there you go to say it's triangle one and this is the remote control it gives order to the t. v. c. for sure
+C :  Yeah
+A :  Okay so you can build a kind of
+B :  You're right
+A :  Black box and put it on t. v. and
+D :  Yeah
+A :  Just to
+A :  Recognise gestures and voice
+B :  Yeah but so you need to come out and you know a microphone
+A :  Oh
+B :  Sitting there is a remote control
+D :  But you would still have the buttons or is it
+D :  Do you think it should be only voice recognition then just recognition wall you you still have the possibility to use
+D :  Buttons
+C :  I think it we should use um
+C :  Flat c. d. v. d. the user
+D :  Okay so you
+C :  Yeah
+A :  Yeah that's
+C :  You can see it as speech from my mother you can either
+D :  Yeah
+D :  Oh it's big mistake risky
+A :  I think so and maybe it will be quite
+C :  Quite attractive
+B :  I think that you know switching from one country the corners it'd be a problem so late
+C :  But if you do then we did that mission or something or
+D :  Yeah
+D :  Oh
+A :  Okay um it's
+C :  We should
+C :  I'll copy this new technology
+B :  Yeah we should have it
+B :  Yeah
+A :  So what do you think which are be
+A :  Control is you'd prefer
+B :  Mm
+D :  What
+A :  Which kind of controller would you prefer to use
+A :  You guys on the remote control user
+D :  I mean uh i'm sure it's the user
+D :  They use the same price he's happy to have recognition
+C :  More features yep
+D :  But if if if it's like those well
+B :  I think he need to know controller that is very reliable
+D :  No one we we've been just
+B :  So
+A :  So i think it would be they're not to tune into the channel control and just a would be cool cool controller fancy controller
+A :  Maybe tried to makes the go go controller and the fancy control i mean
+B :  Yeah
+A :  And just want to have something
+A :  Cutler which is
+A :  And it kind of intelligent control uh easy to use sophisticated and fancy
+C :  Yeah but even if you speak to um
+A :  I think it's possible
+C :  Stick to the first part
+C :  So what's that
+C :  Difference between our comparable with other products in the market
+C :  That's a look features of our control
+C :  But isn't a then it necessary to design you come from a weed out
+B :  Yeah yeah
+C :  Any breaks are in features
+D :  No i mean
+C :  Would you would you agree if you all controller
+C :  With the cover of a single function
+C :  If you do not have some some function i did that
+B :  Is that we can add for a lot of some function like for browsing in the internet
+B :  So or something like that
+B :  But i i think the user need
+C :  Yeah you
+C :  That's the file that's not the function of the controller that the functional t. v. you can retrieve that t. v. we then you t. v. be seen that program
+D :  No but you need you need new remote control and then
+D :  Because if you wanna browse internet or i don't know
+B :  Don't have a is a is it
+D :  If you wanna type something or
+C :  Okay
+B :  Yeah even send a man from
+C :  No it's not the only the probably only the user of compromise that is also the use of the t. v.
+D :  You know
+D :  No
+B :  That's up to the prom i can see uses the voice of the gesture so
+D :  "'cause" like
+B :  I can happen if only you for example
+C :  But we don't we don't we we we cannot rely my hand or percent on these features we to use the comp are but it's the features of our corporate site as you have the feature of voice recognition you and you know more about
+D :  Yeah
+A :  Yeah but once
+C :  But you still don't use it
+C :  Your mother out but you we used to send you mobile out
+D :  Yeah you you would
+C :  Is the line b. "'s" was recognition
+D :  True
+C :  That's the features not by hand or percent reliable but
+C :  It's a
+C :  Feature to distinguish our product from our from other products
+A :  Yeah but we we we want something of that words "'cause" all the time
+A :  Every day
+A :  Every how where
+C :  Yeah
+A :  For
+B :  All that was it as a family
+C :  Yeah if you if you if you
+A :  You do need to me
+C :  Uh if you are you have a product it works matter percent reliable
+C :  Would you replace it with another man
+A :  One else
+D :  I mean it for example the go you use a way we would we would like to have a go go to like
+B :  Do you have you
+D :  Controller
+D :  I don't see how i doing speech or
+D :  Just to recognition would make the remote control look more like go go
+D :  Good good is it
+D :  You simple works fine
+D :  So i i guess if we can have a remote control that is really basic simple then works fine
+D :  It's already know
+C :  Oh yes but there's no
+D :  And it's
+C :  Big difference between that and it's a comparable
+D :  I mean the user is not only interested in having speech or just recognition well
+C :  But then
+D :  If you had something that works fine and he's really a fancy looks nice
+D :  And
+A :  Not too expensive
+C :  "'cause" there's there's doesn't doesn't not in a small t. v.s you for them to read please they're all comparable we've anyway
+D :  Easy easy to use easy to use
+D :  See it
+C :  That's a low key features and then you come from
+D :  That's the problem in them
+C :  The thing yeah
+D :  I mean yeah i know it's more interesting to develop a remote control always
+D :  Speech and gesturing whatever
+D :  But you have to think
+D :  The user uses the one who gonna buy the product then
+D :  So
+A :  Okay
+D :  Yeah that's it
+A :  So let's go to the industrial designer
+B :  Okay
+A :  Maybe would be able to take a decision after that's
+A :  So
+B :  Yeah that's mm mm mm
+A :  Working
+B :  Yeah and uh so
+B :  So
+B :  And
+A :  I can
+B :  Can you go to the next one but it's not it's not that those are so uh it's the remote and it yeah
+A :  Okay
+B :  Sorry
+B :  Component do that
+A :  Uh-huh
+B :  So this is uh
+B :  So these are used to describe to use
+A :  Hmm
+B :  Oh yes
+A :  Um i think there's something wrong with the year
+C :  E. d. t. into c. v. d. t. v.
+A :  Maybe you you record it somewhere else
+B :  I don't think so
+C :  That's right
+C :  I think in line
+A :  Interface concept
+D :  Uh-huh
+A :  Mm mm
+B :  Or
+B :  Yeah very good record it directly on the
+B :  Computer
+D :  Yeah
+A :  Oh
+D :  No no
+A :  Yeah
+B :  Okay
+A :  It seems that we have a problem with the
+D :  I dunno if you remember what
+D :  You have to say oh
+B :  And then say that so without
+A :  Yeah so
+C :  And maybe we can first
+C :  Come to
+A :  I think would be more interesting to start with uh
+C :  Um
+C :  For a home
+C :  It's from i mean you can't keep a real slice
+D :  I think it's more interesting way of saying okay
+C :  The president
+A :  Yeah
+B :  Yeah yeah
+A :  It will hands
+A :  Some more information and i think be interesting after you some tuition to have on that bus presentation
+D :  Yeah
+B :  Yeah
+C :  Okay
+B :  In fact that i don't know i use that in my presentation i don't have to wait for
+A :  Okay
+A :  Okay but
+B :  It was in fact to design used to show use the design of what the inside
+C :  Okay
+B :  At what the inside and out as a different component of sir
+B :  Of the remote control
+C :  Okay
+B :  So it would be interesting so i could show you some some picture
+C :  Okay
+B :  What is inside and so
+B :  So i
+B :  Inside those looks something i want to discuss ease which kind of much i i'm going to use
+B :  So we you we'd be a wooden
+B :  Wouldn't be a wooden remote control or or
+B :  A plastic remote control like this one
+B :  So and
+B :  In which which
+B :  Which can be these are the different but but i'm
+A :  Uh-huh
+B :  So it can be some know
+B :  Plastic
+B :  But then like this one
+B :  Well you have what's uh some button like a c. d. where you know
+B :  Is a button that is the buttons are and that's it
+B :  The in the night or you know you can see that in the darkness
+A :  Okay
+C :  Okay
+B :  And
+B :  As the other thing i want to discuss it so easy which kind of
+B :  And in addition a piece and in addition we want to have
+B :  So really be for example that are
+B :  So are our
+B :  Energy argumentation well we'd be a battery like as a classic of battery
+B :  And i think that for example for that in addition it would be good to have
+B :  They are
+B :  Well how's them so
+B :  So for example in some country where you live in the countryside enough far from the c. d.s
+B :  For example in some place and
+B :  Instead they are so
+B :  If you have it at least if you have solar
+B :  A limitation you just
+B :  When you want to have a recharger or
+B :  Remote control or you just put it on the side and after one or you can come and so it can be interesting for people to have this kind of
+B :  No it can't be something interesting to
+B :  Make people buy okay
+A :  Yeah i think it's an added value to the remote control
+B :  Yeah mm
+A :  And maybe can attract will be
+A :  A call to call
+D :  Yeah
+B :  Look at it is there
+D :  Yeah
+A :  Yeah consumers
+D :  Yeah
+A :  And that's
+A :  That we we price of adding be solar battery would it be something
+A :  Really that will increase the price of prediction more uh
+B :  Fact having them both
+B :  Weighted
+B :  If we want to have a battery a regular battery and
+B :  And
+B :  Is this on our initial battery it could be you you you can add it in because the price
+A :  So
+B :  But it to be an added value it so that would be compensated so
+D :  Yeah
+A :  Okay
+B :  Mm
+A :  And what that
+A :  What about the uh
+A :  Materials
+B :  And jean uh chairs
+B :  It depends for example you if you have a wooden much it can't be more
+B :  The president of the eighties
+B :  More come on it it's rereleased time but
+A :  Some personal
+B :  You know something wouldn't be like i don't know
+D :  Special well
+A :  Yeah
+B :  Hi so uh suspicion high class or you know
+D :  Uh-huh
+A :  Yeah maybe if you we want to put fashion in electronics maybe we can try to do something we would
+B :  You can have some
+B :  Yeah i mean if you did not want that you would but just a part of the
+B :  Maybe wood and in wood and the christine
+A :  Okay so it'd be interesting
+B :  And
+B :  So the last point easy it was so we do want to have some very
+B :  Sheep
+B :  And you read it sort of circuits chips
+B :  Or do we have to lower level
+B :  Well very very expensive depends but i think that or whatever will be in it as an intermediate
+A :  Yeah want something easy to use and
+A :  So i think maybe something very little would would be enough
+B :  Yeah
+A :  And you think that will be
+B :  Yeah i think it should fit on the price you want point five euros
+A :  So woods and what about the buttons
+B :  I think the buttons i did
+B :  I prefer you know
+B :  As a as c. d.
+B :  Mm like to
+B :  Buttons because you know it's uh huh
+A :  That session yeah
+B :  And yeah in the dark it's fish and and
+B :  It's related to how beautiful it does so
+B :  And if you want to watch t. v. in the darkness so if you want to
+B :  Fine you know
+B :  Fine you know
+B :  Your remote control of these are lost in the dark and it's very easy
+D :  What about the touch touch screen
+D :  Yeah
+D :  It's it's expensive right
+D :  Yes
+B :  Huh
+B :  I think the touch screen
+B :  We'll be as expensive as the l. c. d. but and so
+B :  But uh it is a kind of wasn't design
+B :  It can be as interesting to have this kind of
+C :  You got you
+A :  I dunno
+A :  I think we have only hmm
+A :  Oh five minutes left
+D :  Okay
+A :  Spends four
+A :  Functional requirements
+D :  Uh-huh know trend watching
+D :  Yeah the one
+D :  Cool
+A :  This one
+D :  Oh i think so
+D :  Yeah so
+D :  Just to meet the user requirements i'm just to scroll and the and the use of the remote control market
+D :  And
+D :  To kind of um
+D :  Have a better overview of what is the fashion in general i've checked
+D :  More than only the
+D :  Remote control market so
+D :  Next
+D :  So again it's pretty much similar to what i've said
+D :  In the previous meeting um
+D :  User really we want a fancy look-and-feel
+D :  Yeah not so so interested enough functional look-and-feel mm "'kay" like the one you've jordan david was all the buttons and
+D :  I mean you
+D :  Sounds good technically but it's it's not what they want and uh
+D :  So a second point is this d. wanted it to be technologically innovative
+D :  So maybe sort of related to what you said was the uh speech recognition as well
+A :  Okay
+D :  As the same time it's important that it's easy to use
+D :  So that where the three first points from the remote control uh and then use
+D :  No if we look at fashion in general
+D :  Um
+D :  Okay
+D :  What what we really see this year is that um
+D :  Everything from clothes shoes and furniture
+D :  Is
+D :  He's inspired by fruits and vegetables okay
+D :  So i think we really have to
+D :  Take this into account for the design of the uh
+B :  Yeah yeah
+B :  Yeah
+D :  "'cause" it's it's early what people want
+D :  Even if it's in general fashion we want it to be in the remote control
+D :  And then
+D :  Uh it if
+D :  If we take the uh or doing all the ranking all for the points
+D :  Fancy look-and-feel has
+D :  On the score of seven
+D :  Would have six as important
+D :  Uh
+D :  The remote control has to be technologically innovative it's three then easy to use uh it's not so important actually with respect to the other ones
+D :  So we see fancy looking look-and-feel is the most important one and then if we combine this with the fashion uh from me and then paris
+B :  But fruits and vegetables
+D :  We go to the fruits and but it vegetables and the other point i haven't mentioned these
+D :  People want want to have a spongy
+B :  Spongy
+D :  Touch okay
+D :  So this is this maybe doesn't really fit with the wood and
+D :  Design
+B :  But yeah
+D :  I don't know
+B :  But the prison which kind of marketed do need to
+B :  Spongy
+D :  Yeah the this is this would be like
+D :  Um
+D :  Plastic like that
+B :  There is
+D :  Rubber maybe maybe you know or rubber like uh
+B :  Rubber gate
+B :  Yeah yeah
+D :  Device so
+D :  Okay that that was the main point i think from the trend
+D :  And fashion
+A :  So we have to say decisions about be
+A :  Components concepts about the energy
+A :  So uh-huh
+A :  As you say you want something technologically innovative
+B :  Yeah
+A :  Maybe using
+B :  Sorry
+A :  Solar energy uh-huh
+D :  Yeah so i think it's
+B :  Yeah
+A :  Uh-huh with
+A :  Battery would be something interesting maybe would attract
+B :  Yeah
+B :  To be it
+A :  Pro ecology comes in this hmm
+A :  Um
+A :  Chip on print so you if you propose a little
+B :  Yeah i think
+A :  She would be a
+A :  And off to have something
+B :  Yeah yeah
+A :  Working well
+A :  Case
+C :  You did
+A :  So you think
+A :  Ooh case
+A :  Some thing's spongy
+A :  So in that would
+B :  From the wood
+D :  Maybe not not always but i mean
+B :  Would some
+D :  I mean maybe not the part two
+C :  Ah
+D :  Touching know
+A :  Maybe you
+B :  I think you can have one for example in the bottom and
+D :  Yeah maybe the base
+B :  It it on the design you want so
+A :  It's it's natural
+D :  But still you
+B :  Yeah is that right
+A :  Feeling is that or false and maybe we can stay with wood
+B :  And it can be credited to energy solar energy source for the marketing aspect of saying yeah
+D :  Yeah i mean it's not exactly right for the spongy
+B :  It's a
+B :  Mm yeah it's not that
+A :  But it's still fashion
+D :  Or we could maybe have balls like out of wood and some rubber for the buttons all
+B :  Okay
+A :  Yeah something that you can
+D :  Oh
+D :  Yeah
+A :  Okay
+A :  Um and what about the user interface concept
+B :  Good um
+A :  Go cool and fancy
+B :  And fancy for one of the the voice
+A :  Because i think that would be voice and just recognition there's still some
+A :  Disadvantages for this
+C :  Oh yeah
+B :  Yeah maybe we can do some marketing studies asking people or is that interesting and
+B :  How
+B :  It's even get an interesting concept to see how are
+B :  Voice control right
+C :  The smartkom or
+B :  But and support you i i'm we can have that you if you have of what voice control why not to put it back on the t. v.s
+B :  Speed add to the t. v. and
+B :  You don't need a remote control activity so
+A :  Yeah but you need is receiver to record a nice gestures and
+A :  Double a.s
+B :  But it to be image on the t. v. and not on a remote control so
+A :  That's true
+D :  Yeah
+C :  Okay
+D :  Oh
+A :  So maybe we're just focus on the google control or less the fancy control maybe try to mix them is to concepts together just in one um
+C :  Mm
+A :  Do the remote control with solar energy
+A :  And batteries and well the low level cheap seven
+A :  And l. c. d. buttons
+A :  Uh-huh
+A :  Uh-huh
+A :  Mm
+A :  Yeah i think more of these supplements the uh
+A :  Solar energy would be something quite interesting and not maybe
+A :  Too difficult
+B :  Yeah yeah
+A :  To add a
+B :  And
+B :  Okay send a supplement to
+D :  What interface
+A :  Yeah for the interface something
+A :  I did value
+B :  I think the supplement can use a voice
+B :  It is yes
+B :  It is not the most important but
+B :  And the power of
+A :  With them but you you mean a remote control with them you do what you if you want you can
+A :  Just use
+A :  Commands words
+A :  And use them
+A :  When you don't want to use the thing is
+B :  Pushbutton yeah
+B :  U. i. d.s for c. d. is some keys like you know swedish and as one two three four
+A :  Turning the t. v. or
+B :  Yeah training
+A :  On wall or off
+B :  Not very complex come on
+A :  Uh-huh
+B :  Easy come and so
+A :  Mm so i did some vocal commons
+A :  Mm
+A :  Simple ones uh-huh
+B :  Yes important
+A :  Okay
+A :  So the next meeting will start in thirty meeting minutes so
+A :  We'll you will all have
+A :  To work in
+A :  We are
+A :  Direction
+A :  So you will have to work on be look-and-feel design
+A :  To have the
+A :  Easy to use board for an fancy remote control
+A :  With some added value such as the uh
+A :  Simple vocal commands recognition
+A :  Um you will have to work more
+A :  Well uh on the um
+A :  Spongy way to
+A :  Jed spongy even touch
+B :  That's a good but it's
+A :  To the buttons
+B :  Made some new
+A :  And try to find
+A :  Maybe a nice shape for them
+A :  Wood and
+B :  Yeah
+A :  Remote control
+A :  Nice
+A :  I think we'll have to evaluated the project
+D :  Yeah not not forgetting about the fruits and vegetables
+A :  Two
+B :  Okay that's
+D :  Trends
+A :  Yeah
+D :  If possible
+B :  Okay
+A :  And remember as as i said last meeting
+A :  We're really have to you um
+A :  Bill to fashion remote control
+A :  And so the colour of the um the society will be really
+B :  Yeah yeah
+A :  It will be seen in the remote control
+A :  So you will have bob and david jordan you'll have to work together
+A :  On the prototype
+A :  And you will have next time to show was um
+A :  Modelling
+A :  At the play-doh remote control so you want to model model something
+A :  And so i think that some specific instructions will be sent to you by your personal coach
+B :  Okay
+C :  Okay
+A :  So normal questions we can close the session
+D :  Uh-huh
+B :  Sounds good
+D :  Okay
+A :  Yeah
+C :  Okay
+A :  Okay cool

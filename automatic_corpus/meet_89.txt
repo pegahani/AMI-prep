@@ -1,0 +1,800 @@
+D :  Oh
+C :  Uh-huh
+D :  Oh
+D :  I i
+B :  What
+D :  Okay
+B :  What
+B :  Whoa
+D :  Uh-huh
+B :  What
+A :  Uh huh
+B :  Mm
+A :  Right okay
+A :  So uh hum
+A :  So where's the powerpoint presentation
+A :  Sorry
+A :  Actually the powerpoint right
+A :  Right uh okay
+A :  So
+A :  Uh-huh right
+A :  Okay so we've got to uh
+A :  So we got new project requirements uh um
+A :  So this is about three things we've got forty minutes um which to first meeting to read to discuss
+A :  The various options
+A :  And
+A :  Three presentations
+A :  Mm
+B :  We have a i guess we're presentation each i've got one
+D :  Yeah
+A :  I see right that's nice no one from each of you
+A :  And new project requirements um so do we want to do the presentation first or do we want to it um
+A :  Oh i'd i'd go to um
+A :  The keys are are three things basically um
+A :  Relating to the mall being only for t. v. we discussed that
+A :  Last time
+A :  An an actual find out which
+A :  Pretty pretty well
+A :  But we came up with anyway so in fact that actually from
+A :  Uh-huh be forestalled i guess aims and we got the teletext leds did um
+B :  Okay
+A :  Did you get any information on that to
+B :  Uh we didn't uh huh
+A :  Right and the corporate image was the year final thing
+B :  Hide i didn't pay so
+A :  So oh okay
+A :  I got that an email form um
+A :  Right okay so
+A :  I guess if we go ahead with the uh
+A :  With three presentations
+A :  So we'll start with yourself on the basis that to
+B :  I'll just uh mock-up the
+B :  Uh huh
+A :  Sorry yep yeah
+A :  Uh-huh
+A :  Oh
+A :  Oh
+A :  We have
+A :  Or or
+B :  Um not quite sure how that
+C :  I think what do and control f. eight
+B :  Control
+B :  This into account working at the moment
+C :  Shift f. eight
+C :  Cool
+B :  All function
+B :  I think and not doing anything
+D :  Is this is a little thing in the top right to the other hand this is coming on
+B :  Well
+C :  On a
+C :  And something
+B :  How about it so
+B :  Press a five times now
+B :  Okay that's me you know
+A :  Mm
+B :  Okay and i don't again
+A :  Is it going
+B :  Officially this time
+B :  Okay thing whether it's good
+B :  Mm
+B :  Okay and we looking in the way i can design
+B :  Um of that
+B :  Have the remote control and uh discuss three sections faced is the research i
+B :  Made on uh on the remote control itself um
+B :  And i'm balls the components require the and the systems a sign of the actual
+B :  Fashion right
+B :  And so having this this this is the models within the market
+B :  I'm a pharmacist with internet
+B :  Um now to start is for the components required for the remote control the function as they are
+B :  And also the masses to which these components in try together
+B :  For the remote i see it do what you want to do and how it
+B :  Connect to the television
+B :  Um the basic components
+B :  Uh and energy source
+B :  Which i guess um the mouse is is the malls would be a battery supply
+B :  What about be so with two batteries for batteries and it may very
+B :  We don't have the user interface way she is basically the play the the person's on the actual remote um
+B :  The best function to school with changing channel uh channel up and down volume things like that
+B :  Um there's also a chip inside the remote
+B :  Which does all the computer type things
+B :  And then this and the way it's
+B :  Um
+B :  Is usually have found an infrared
+B :  Device
+B :  Which sends the signal to the actual television
+B :  And then the last part is receiver which simple in the system that's nice tea pots the remote itself is that some second television
+B :  Is it um
+B :  And left i should run the port because it was little tricky in powerpoint is working so
+B :  This case you uh
+B :  And um
+B :  To have a class two points down with all
+A :  Uh there's the the rubber on the right
+B :  O. c. r. i. k.
+A :  I think
+A :  Four
+B :  Get rid of the uh
+A :  It's magic uh-huh
+B :  Okay so we used offer of a
+B :  Um but she's oh no power supply we should with public it's pouring it but she
+B :  And
+B :  But then have
+B :  A particular pass and which maybe not so see there's lots lots of different buttons
+B :  Um this is uh the basic
+B :  System works
+B :  And that sends your ass you press uh sends message to
+B :  The chip which um
+B :  Then sends
+B :  It's all been to to switch button you pressed and then sends the power p. message to
+B :  This and uh
+B :  Um
+B :  That's that's um that's the motion itself us components to learn how to work together "'cause" this is the
+B :  Uh use uh
+B :  Interface
+B :  Um this is the chip itself which
+B :  Then senses and that's the that's the infrared
+B :  So and uh
+B :  And then on the separate thing we have one uh
+B :  On the television
+B :  I have a
+B :  It's even
+B :  And this and the sends a message to the receiver
+A :  So that the top is the power source yes
+B :  Uh yes this power source
+A :  Yeah okay
+B :  Um
+B :  Scale and to to suppress is as i said the patch it seems best option for the uh show mode
+B :  This is the size you wanna
+B :  Okay paul the touch the remote oh it's it's not a really remote
+B :  Um and then this and uh an infrared um there's been use quite successfully
+B :  And the batteries sound reasonable power they all seem to wait for a way to have to be point directly or television itself
+A :  So the batteries the in the centre for
+B :  And that's it for a them and
+D :  Okay
+A :  Oh okay
+A :  So
+A :  Name or designed uh-huh
+C :  Thank you
+C :  Well it's not quite as complicated as well
+A :  Hmm
+A :  So like here
+C :  To press function
+A :  Hmmm to control function i know
+C :  Um
+A :  I know
+C :  Oh okay so i'm gonna talk a bit about the technical functions design
+C :  Um and we said the user interface design as you know
+C :  And um so
+C :  Uh-huh basic method is this is to send a signal from the remote to the television set
+C :  So that the desired function is performed
+C :  Um an example of a function could be to change the volume up or down
+C :  Uh so obviously need to different buttons for that
+C :  Um to change the channel
+C :  Either by pressing the
+C :  Number that you want or by channel up or down
+C :  Um to switch the television on off maybe stand-by button
+C :  Um here to an example remotes
+C :  Um by the look of at the polls have um kind of play and fast forward rewind functions so i think they're incorporated kinda video function
+C :  Which we would have to worry about
+C :  Um but as you can see the left a rule is quite um
+C :  Quite busy look and quite complicated
+C :  Um
+C :  Whereas the right remote is
+C :  Much simpler it looks much more user-friendly
+C :  Um so my personal preference would be
+C :  The right remote
+C :  So that it's got nice big buttons it's got a very limited number of buttons um
+C :  The nice kinda clearly labelled
+C :  Um
+C :  I like the use of the kind of them
+C :  Symbols like the triangles in the squares and arrows
+C :  As well as the words on them terribly functions more
+C :  So to a very user-friendly
+C :  Um it's got a special colour
+C :  Could maybe do a small colour
+C :  Um
+A :  Well there's a couple of things they're hum
+A :  We have to remember that we cover one um logo and colour scheme
+A :  So basically we have to uh
+A :  We'd have to be putting that at all
+A :  Um the
+A :  The product
+C :  Do we get to see that
+C :  We be present nine a bit
+A :  I haven't as the age i know but i think that say i got to uh i got an email and uh basically said to uh make sure that to whatever device we come up with at the end of the had to incorporate
+A :  And the corporate colour and slogan
+A :  So where
+A :  I'm guessing that
+A :  Uh
+A :  I i do this on the bottom there's got to
+A :  That's at e. p.
+A :  All
+A :  G. e. that might be
+A :  The
+A :  Corporate
+A :  Colour scheme
+A :  Although
+A :  We only we only colour in c. n. as the red
+B :  But we have to do with the the expense here the source it could sections s. e. c. for a video as well
+B :  We could dispense of a little bit as well that's good that's just the numbers and the bowling
+C :  What you mean by the second section like all of a problem there
+B :  Possibly
+B :  So the idea to get this is all day is that they're still um of it here
+C :  Yeah
+B :  Remote possibility of as well
+C :  Yeah i don't really think that you need to nine numbers i mean how often to use any nine i think just want to six and then channel up and down should be no
+A :  Well but mm oh
+A :  Well the the on that
+C :  He had nine
+A :  Well for for a general television purposes of a say you have channels one two five this point in time and we'd have to have some room for
+A :  Yeah
+A :  Feature such channels but
+B :  As as people use to see now so we can have them
+A :  But
+B :  Then them i think it's
+A :  Well possibly but do the other thing is that with um the current expansion of the channels uh in the process of taking place
+A :  Seven button up and down but i mean how many channels do we have to um actual television channels do we have to uh
+A :  Prepare for i would've thought that to
+A :  If it if it is for ever expanding and you add them all we've got a well you know you got five standard you've got the b. b. c. have come up with a five or six and others um
+A :  I don't know exactly how many channels that are on the
+A :  When you take into account to spend their summer
+A :  Um this others
+A :  So i would've thought that we would need you know round and
+A :  Okay is that enough looking from one to other but presumably it'll take a saying "'cause" you have to build the stock but maybe you could have a fast forward on that
+A :  On the channels up and then you could dispense bit more otherwise
+A :  You want you want to give very quickly to the channel that you wanted to
+C :  Um some remotes have kind of different options
+C :  Way if you always pick from channel one to channel six
+C :  Um i thought if either you just
+C :  Like bypassed
+A :  Uh-huh
+C :  Take a five
+A :  Yeah i was i suppose in a sense you could have done if you've got a hundred channels
+A :  Then if you had sort of an easy way of getting rather than go one two hundred you go one
+A :  One to ten kinda trendy and in
+A :  Have a second button to get you to the actual channel you want and that would
+A :  Then you're doing
+A :  Anyway
+C :  But i think a lot of um like keyboard and stuff out be cheaper one channel and then you have another remote
+C :  Four
+C :  All of those channels
+C :  I'd to get a fifty five and
+B :  Okay
+C :  Hi numbers
+A :  Mm whatever i
+C :  Yeah
+A :  Okay
+A :  Okay number number of buttons user friendly
+C :  That's post nine it's not really excessive
+B :  As as a nine you've got the the like the last one which makes a tandem easy yeah it's like uh well to see that and cats you make any number
+C :  It does make the patent
+B :  So without the bypass any problems with
+A :  Yeah
+A :  Well that's true yeah if you get fifty by five and as it or whatever that that makes sense
+B :  Does that facilitates having all of them as you can have a nice
+A :  Yeah
+B :  Um
+A :  That's
+C :  Oh okay
+A :  So what's what was a circular thing that sure
+C :  Um i think that's just raw video so we wouldn't need any of that at all
+B :  So you get and say well that's
+A :  If it's just for t. v. which is what is at the moment
+B :  To get any buttons we do is cut ten eleven twelve or fourteen do we need
+B :  I guess
+B :  Um which is a reading may not be quite easy to make a user guys for fourteen bus remote
+A :  Uh-huh
+A :  Well we've we've got to um
+A :  This remote for t. v. only otherwise project
+A :  Would become too complex with uh which would endanger the time to market
+A :  Was one of the considerations and i don't know what they did you have that information gonna marketing i was i mean to give you that information
+D :  Um
+D :  I'm not sure i have i've had some more information
+A :  Right
+D :  Not from the company yeah
+A :  Right okay so basically time to market seems to be important therefore
+A :  Speed of
+A :  To the very will only call that number four hours like it i it it it it
+B :  Right
+C :  Well cases everyone
+C :  Happy with a
+B :  Uh yes things
+D :  Okay
+C :  Right well what's that
+C :  And if my presentation
+A :  But
+D :  All this
+B :  I think it's gonna second yeah
+A :  Yeah like she's a twenty seconds to um
+B :  Yeah because yeah
+D :  Okay
+B :  I'm sure happens there
+D :  Okay economic uh
+D :  Yeah okay
+D :  I've written some research into the functional requirements
+D :  The people want to have a remote control
+D :  And
+D :  The stuff we should stay that
+D :  The the remote controls for controlling the t. v.
+D :  And um how the people use it to we have some sort of which buttons are useful for them
+D :  Um how to how does the remote control look-and-feel for them and what improvements put
+B :  Or
+D :  But they like to remote control
+D :  How we did uh by sort of giving them a questionnaire that we had
+D :  Ask him to fill in the ounces
+D :  And three quarters of them found their remote controls locally
+D :  And uh
+D :  So that even high proportion what
+D :  Spend more for
+B :  Oh
+D :  So that uh a fancy remote control
+D :  And that
+D :  All buttons on the remote control
+D :  A set of setting buttons for sort of the picture
+D :  Picture and brightness
+D :  And the audio settings um they weren't used very often at all
+D :  People concentrate on the channel buttons
+D :  And the volume buttons and the power buttons
+D :  Um we also asked them about speech recognition
+D :  Uh for remote control and young people quite receptive to this
+D :  This is legal sort of over about
+D :  Instead of thirty five to forty age forty five age group and and older
+D :  People people were quite so keen on speech recognition
+A :  I
+A :  Yeah
+D :  There's a lot more than a lot more older people you didn't know
+D :  Are they want to or not as well
+D :  Um we also asked what frustrated people about remote controls
+D :  And the number one for stray she was that
+D :  The remote was lost somewhere else in the room
+D :  And we couldn't find it to
+D :  And the second second biggest frustration was the effect on your remote control
+D :  It was difficult to learn um all buttons are all the functions and to find a way around it to
+D :  Okay
+D :  So
+A :  I
+D :  My personal preferences from the marketing
+D :  Is every school with some sort of sleek
+D :  It's a good-looking high high-tech
+D :  A design which looks high-tech
+A :  I
+D :  Basically
+A :  Yeah
+D :  Um
+D :  And uh we should go with few buttons than most the controls on the market
+D :  Um which is to concentrate on the channels and the power and also
+A :  Mm
+D :  Volume
+D :  So i think as a series that
+D :  Um
+D :  We could maybe come up with the menu instead of uh an l. c. d. menu for all the functions
+D :  On the remote control that's worth thinking about
+D :  Um and
+D :  Maybe we could think about speech recognition as well because
+D :  Um
+D :  So young people uh
+D :  That was the ones that are gonna buy buy a new product if we aim at sort of
+A :  I
+D :  You know sort of high-tech design
+D :  That that might be the market that we're we're looking for
+D :  And we can maybe think about using speech recognition recognition as a way to find the remote control is lost in a room
+A :  Mm
+D :  Well since it a
+D :  Um
+D :  Having it to you
+D :  The speech recognition change the channel
+D :  "'cause" as a problem with that in that the television makes noise so it could end up talking to itself and changing the channel
+D :  Okay um and a sentence like yeah that's it
+A :  It was a mouse with the the
+D :  Um
+D :  About speech
+A :  Speech recognition yeah okay but that was only for young people prefer to older people didn't
+D :  Yeah and young people but yeah least they said that they be interested a remote control which offer that possibility and as you go to the age groups people were less and less interested
+D :  Instead of uh remote control you can talk to use a
+B :  Oh i'm everything "'cause" um
+A :  Yeah
+A :  I
+B :  I see the technology requirements from the mind that costing more not twelve fifty budget for
+D :  Yeah
+A :  Well that's right
+B :  For speech recognition
+B :  And
+B :  And lastly thing about the bottom or been lost we could have
+B :  There you know both very nice that you can ring email gonna stick in a sense which is cut some way you can just get a buzz assist between the two
+D :  Yeah
+B :  So you press a button which is always kept in one place and then it
+B :  It does to
+D :  Yeah
+B :  Somewhere else where the right actually it's
+D :  Yeah which have that that would be read have to
+D :  Two products together as well which
+B :  That's true
+D :  As you can look for me it's expensive but
+C :  The scaling the sound that you kind of whistle a a clap a problem but
+D :  Yeah
+C :  And then the whistle back or something like that
+A :  Sound reasonable
+C :  That part be really simple they're cheap
+A :  Uh-huh
+A :  Yeah
+B :  So i guess it's um we could like attach to the all the the same
+A :  So
+B :  Technology to be put inside the
+A :  Well that's
+B :  And seven right
+A :  You trying to avoid having a second product goes overseas to do the same for the t. v. like i should we try to set the remote off to see if you'd um so like
+A :  No but
+A :  Send recognition but
+A :  If you
+A :  I dunno um
+A :  Oh i see a shark now he's
+A :  Yeah wrapping up and do whatever
+A :  Mm
+A :  You want to try to just have the one product that
+B :  Yeah
+A :  If
+A :  Yeah
+B :  Yeah it it would have it in yeah i sure where everything in one one
+D :  Yeah
+A :  Yeah um i don't know um
+A :  I thought about what i mean obviously if you've got a voice recognition then you can do it
+A :  In that way because it'll recognise the voice and you can give it a command the second and whatever that happened to be
+D :  Yeah
+A :  But you think the point of view if you're not going with the voice recognition then
+B :  As soon as an option to turn it off
+B :  Or
+B :  Huh
+B :  Um
+D :  Yeah
+B :  So i was all comes with the t. v. and speaking from are in the changes in channels
+A :  I
+A :  So uh i have any sense that well we couldn't
+D :  And would it take
+D :  Quite a while to solidify what the speech recognition software in the remote control
+A :  Well if it does that we can't
+D :  Considering
+A :  It's that simple because we've got to uh uh three um
+A :  Primary um a requisite it's
+A :  From uh
+A :  From an email uh that was sent to me
+A :  Or by we had to design logo was one which are already mentioned we've got to um
+A :  The remote was only for television and not for because that would make it too complex enough to get a market quickly
+A :  And the uh third thing was that to um
+A :  Teletext yeah as far as uh the management is concerned and it's become outdated
+A :  And you to the popularity of the internet
+D :  Okay
+A :  So that means that uh so these are the side of three um extra parameters that have been put on this uh project
+A :  So
+A :  We're being focused effectively
+A :  Directly at a television and it seems to me that the management or just uh wanting us to go down and now we have
+A :  And not on the yeah so anything that yeah
+A :  Used to be added such as voice recognition except right
+B :  Has to be simple enough to
+A :  Has to be very simple and has to be very quick
+A :  Because time to market is
+A :  It's critical
+B :  Passes if we could get something which was quite quick and simple i would give us the parts you about other remotes
+A :  It's
+A :  It would
+A :  But probably quick and simple is
+A :  Primary rather than
+A :  I did extras that is extras would be nice but
+A :  The primary considerations to get the project finished with an uh has short time one of which fact when i was
+A :  So four hours so
+A :  And if i'm we're gonna get to the ink and i think i think first and foremost what you get the ending at the end with um at the extras as possible
+A :  Okay hmmm hmmm screen is this
+D :  So
+A :  Hmmm from one to me right okay
+A :  Yeah so i need to
+A :  Right so
+A :  I don't know how long we have left or for uh tying
+A :  But we have to make the decisions oh and uh
+A :  The remote control functions
+A :  And how we were planning to proceed so that that the next uh
+A :  No
+A :  Each person that's got a a a task to do is clear from this meeting all that task is
+A :  Yeah
+B :  And
+A :  Well some know when the next meeting is any um
+A :  So one know how long we've got a complete at times
+A :  And we can report back to the next meeting it's a vital key is the chief this so we have achieved a sister for we've progressed
+A :  Does that make
+A :  Reasonable cents
+B :  Yes sure
+A :  So
+A :  You have to come to think of it a decision on the remote functions so that you can decide what you're gonna be doing
+A :  And that if you do between the time was this meeting finishing and the next meeting starts think if you get any additional information that to uh
+A :  Well you have to that point in time
+A :  Using would be relevant to other people in terms of their doesn't decision making um process the way you should communicate that as quickly as possible and not
+A :  Wait until the next meeting go via
+D :  Okay
+A :  The email
+A :  So nothing coming you know what you get information just before the next mean that's fine come along with the next meeting you discuss it then and
+A :  Take whatever actions appropriate if you get a well before the next meeting
+A :  But everybody else know is that might have an impact on their uh
+D :  Yeah
+A :  What they come up with i i i next meeting okay
+A :  Right as or
+D :  Should we need to decide on the functions now
+A :  I would
+A :  "'kay" so
+C :  I think it'd be really seen it'd be a big advantage if we did have some sort of them
+C :  Kind of whistle back
+C :  Kind of function
+D :  Yeah and
+C :  "'cause" that'll solve kind of frustration of losing it
+D :  Yeah that was that was the number one so the frustration people said so
+A :  Yep
+D :  And does it as anything else on the market but does that is uh
+C :  Yeah
+C :  But do we know about the voice recognition thing
+A :  Uh you know well uh it
+B :  But we should consider just and uh whistle by functions the moment gonna something comes back
+A :  Something simple uh there for for primary consideration is together there are in time
+A :  I think short
+A :  You want something to me to the major concerns of the consumer
+A :  So we can
+A :  How does a selling point for the product
+A :  Something that's
+A :  Quite a simple
+C :  Yeah
+A :  So sense
+C :  And that wanna put off the kind of older generation you know "'cause" several can whistle a clap
+C :  And the wouldn't have to be kinda scared of this new technology
+A :  Well
+A :  So maybe a clap rather than i was so would be a
+A :  Add on the basis that that if we've got over
+A :  Takes into the whole age range
+A :  You want something that's easy to do now is something that delay it was uh
+D :  And and i don't always look on the uh
+A :  Well i i don't know well if you think the more people can uh put some cabinets finding go for that option but if i would've thought of more people
+D :  I think i think clapping yeah
+B :  I care more yeah for for uh
+A :  We have run was also uh
+A :  So clap option
+A :  O. k.
+C :  Okay well what it decided that we don't need a teletext button have a while
+A :  Uh
+C :  So one of the
+A :  I thought effectively that's for that that's what they're saying that to a fair people are now using the internet and you don't need teletext so
+D :  Taking out teletext okay
+A :  To take a teletext
+B :  Do we decide on having the hand and that and numbers and then uh
+C :  Yeah i think so so zero to nine
+B :  The little church an extra which kind of their participants can uh
+D :  I think nowadays you can just get ones where it gives you a sort of a second or to to press another number
+A :  Yeah
+D :  So you press any to
+D :  And i also put them together
+B :  "'kay" ten numbers and then some kind of device to i'll i'll uh
+B :  Not that they liked about um
+B :  Multiple numbers
+B :  Or multiple digits
+B :  To resign thing about um
+B :  The other functions as in assessing the what you and
+B :  She needs and stuff like that you have an uh an idea about the menu
+D :  Yeah i did it because people in our uh sort of
+D :  The l. c. d. menu and but that again is probably
+D :  An expense that
+B :  This is thinking and people pop we i mean in that you have a pitch in a t. v. ones p. hospitals jean uh ones
+D :  Yeah
+B :  So in of find the t. v. pretty skinny when you gonna have to be able to change it
+B :  Can we avoid that
+A :  No
+B :  It's avenue additional markets which two buttons cells
+D :  Yeah
+B :  So it up in
+A :  But the but that's relying on that but
+A :  Television market changing to an automatic and if it is at the moment that's fine but uh the moment is not so it seems to me that you have to have a device that teachers "'cause" otherwise you can make it
+B :  Yes
+A :  I your device will become
+A :  You know probable or only a probable in certain circumstances and
+B :  Yeah
+A :  Yeah i just have an international market which is
+D :  Yeah
+A :  And it's all some it's the the private we've got is something that's up to you i would set the lower end of this of the cost scale so we're not really going for something that's uh
+D :  I suppose pose um
+A :  To the high tech
+D :  If people are buying remotes then the trip buying it replace another remote
+A :  Possibly
+D :  "'cause" of most telly's come with remote so
+A :  That's right
+D :  Yeah maybe talking about replacing remotes are slightly older televisions so
+D :  Or maybe need to keep the the tuning function in
+C :  Yeah
+B :  So how this menu function way but you maybe have like one menu bus then you'd use the other buttons in the number buttons to actually do separate functions
+D :  Yeah that would be good idea yeah
+C :  Yeah it the volume or something
+C :  Yeah "'cause" you do need to um the brightness in contrast things well my dad's watch it from the other week and it's too dark so hard to go through it and
+C :  To the brightness of
+B :  So you so you're gonna have the the individual numbers and then the menu function and maybe sort uh slightly more
+B :  Advanced um instruction booklet with the two guys g. at any be quite hard
+B :  Just for people to grasp um
+B :  Justify the menu with the u. n. use different buttons are be have to like
+B :  Some better instructions a part of us to work
+D :  Yeah
+D :  I'm not sure if instead of having
+D :  People have a booklet "'cause" when the second most annoying thing that you found was having to learn a new one
+A :  Uh-huh
+B :  Right okay
+D :  So maybe it
+D :  Next to each of the buttons they teach them could have a number and then also a function right next to it
+D :  So you basically
+D :  Pressing
+B :  Well else "'cause" but it's a racial design or so there's two windows on the left on site which are like double functions and stuff which can lead to be seen
+B :  Have too much on this uh
+D :  Right
+D :  Okay
+A :  Okay well
+C :  Sleek and sexy as well
+C :  You see those remotes we're kind of them on the slides down
+C :  So that's kind of and everything else revealed so you don't use that much you don't have to say what time
+A :  See
+A :  Ah
+A :  Oh that's a very good idea
+C :  Or if you need it
+B :  Uh that's good yeah yeah
+D :  Yeah
+B :  So so a second
+A :  So you you keep them that we've got five minutes before we wind up this meeting so i've been told i don't know if you've got the same
+B :  I'm not quite but
+A :  Okay
+A :  So so keep it um
+B :  Keep the other buttons but hide them away
+A :  Keep detailed
+A :  Functions
+A :  Um
+A :  And uh the back
+C :  And a topic that for the older generation as well as
+C :  Well my dad doesn't like
+A :  Yeah
+C :  What kind of flip through menu
+C :  But you can pretty much read a button
+B :  So
+A :  Uh-huh
+C :  Speak up a
+B :  So um
+B :  We're gonna have to have to work i was gonna on these other functions as as well
+B :  To have like two separate
+A :  That's right
+B :  To separately second
+D :  Yeah
+A :  You do to functions hidden it back
+D :  So that's
+A :  Can bring it when you did
+D :  The detailed ones for peace out of
+D :  Right yes
+C :  Yeah
+D :  Yeah
+A :  That's right so where does it so you've got which ones are gonna be on the front which ones are gonna be in the back
+B :  So
+A :  We have to decide
+B :  She's side those components and then
+A :  Yeah so
+B :  So on uh
+A :  So
+A :  On the front
+B :  But the number and uh
+A :  Numbers
+C :  And the volume
+B :  Volume up down
+A :  Volume
+B :  If you have um you press as well
+A :  Sorry
+B :  I'm use buttons well
+C :  Yeah
+B :  Yeah or
+C :  Yeah we handy
+D :  And for the power one as well
+C :  Actually like damn
+C :  Nonissue juries yeah
+C :  But and whole thing about not using a stand-by
+C :  Uh because of the
+C :  Like with connectors don't know how easy matter
+C :  And if you buy okay let's vote so we
+D :  Yeah
+A :  Uh-huh
+C :  If you carry on standby power supply of us in the time
+C :  We should maybe try to discourage people from stand-by
+B :  Than the men uh by titanium go
+D :  Yeah
+B :  Speak my speech effect on the wanna change
+C :  Yes maybe too much or big issue for here
+D :  Yeah
+A :  Yes
+B :  Okay so i'll fly with the device saying you should be for the summer
+A :  So so we have in the stand-by on the front man
+B :  As you probably should
+C :  Yeah but a little bit smaller
+D :  Yeah
+C :  Calmer
+A :  Well how is it true
+B :  And uh we can have a channel up and down as well as a number buttons
+D :  Um
+D :  Yeah the market we say is that there is
+D :  Quite a lot people to just sat around and flicks yeah
+B :  Okay so we'll have um
+B :  To go out and stuff is fourteen fifteen sixteen yeah
+D :  And
+A :  Channel and then what else we're out what was at sixteen
+D :  Numbers is ten volume is
+D :  Oh
+A :  Volume button how many volumes
+D :  Yeah see
+D :  One not one now
+A :  Oh okay
+C :  Oh neat
+D :  And i mean yeah uh sixty this year
+B :  So anything else
+B :  Um
+D :  I don't think so no
+A :  Are we on standby
+A :  Channel on the
+A :  So those are that's
+B :  Yeah she
+C :  I think so
+A :  Okay
+A :  And sixteen button direction
+A :  And then at the back
+D :  You've got
+D :  Brightness in contrast to
+B :  Maybe they're gonna run out of time one of the scroll the list of these and uh and get back to the next meeting just at the start and say we're gonna be
+A :  Okay
+A :  So on the back
+A :  A lot brightness contrast
+A :  Yeah yeah it's
+A :  You're also gonna have the channel children or as it were
+B :  So she in uh up and down i guess
+C :  Yeah
+A :  True or wood i haven't done mm hmm
+B :  And
+B :  Well she more which in a as a as a house
+C :  I think the normative
+A :  Yeah okay yeah
+D :  Yeah
+C :  Yeah
+A :  Okay
+D :  Then maybe seven and a button for
+D :  So that's gonna stay in that you want that
+D :  Particular
+D :  Thank you and and
+D :  So you go up and down right
+B :  Oh yeah and that and and spends the slides yeah
+D :  You find some than anyone of that
+D :  And uh
+D :  It's like yeah
+A :  Uh
+B :  Um
+B :  I guess a keeping system for the read any other what if i'm sure functions this is just
+B :  Volume up volume down
+A :  We are volume yeah i would've thought so
+B :  Um
+D :  Yeah
+C :  So i think i am
+C :  That's quite a lot of like dolby surround to do some violence of things
+D :  Yeah
+B :  To learn
+C :  Maybe for younger market
+B :  So they have their own controls on there are supposed to what you have to do via the remote
+C :  Um
+C :  I think got all controls in this kind of like hidden panel
+B :  Yeah as is related to go the road control so we can avoid or for us to keep it simple
+A :  Yeah
+A :  Yep
+C :  Oh no i mean and like this kind of individual buttons for them
+B :  Oh okay
+C :  Like on the t. v. remote
+C :  But during the one for them to use them
+B :  Um
+C :  I just know that something to do with
+B :  Maybe less something comes up then we should i think
+C :  Dolby
+A :  When you might get some research i am
+B :  We should look inside and just get back to uh
+A :  Okay right so i'll do the minutes of the this meeting
+D :  Okay
+A :  And we'll meet back
+A :  Uh
+A :  I'm not sure i am forty minutes i believe is the time
+D :  Okay
+A :  Come on
+C :  Mm

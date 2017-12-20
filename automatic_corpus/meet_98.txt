@@ -1,0 +1,756 @@
+A :  Uh-huh
+A :  Uh-huh
+A :  Mm
+A :  I think
+D :  Mm
+A :  Well
+A :  Uh-huh
+A :  Mm
+A :  Okay yeah
+D :  No
+A :  O. g. i.
+A :  Alright is everyone here
+D :  Hmm yeah
+A :  Okay
+A :  This is our conceptual design meeting
+A :  Okay and it's
+A :  Let's take a few minutes and uh
+A :  Go through d. previous minutes um
+A :  Then each of you will have your presentation
+A :  Um and then we will need to make a decision on
+A :  The concept for the remote control
+A :  And then we'll have uh forty minutes for
+A :  Finishing up
+A :  Um
+A :  Go through me through the minutes first
+A :  Um
+A :  We just for fresh door
+A :  Are uh
+A :  Call of making the finest remote control
+A :  Available
+A :  Um we decided that are we know that we need to use company colours company logo
+A :  Um
+A :  And
+A :  Our marketing expert
+A :  Uh i give us some eight uh information from
+A :  Interviews with a hundred different remote users
+A :  Um with some statistics that backed basically what we were thinking before people but they are remotes were ugly
+A :  Um
+A :  Uh
+A :  That remotes zap a lot
+A :  Um they only use uh a finite amount of buttons
+A :  And and that they often lose that that's easy to lose remote
+A :  Um
+A :  Which we were all things we were thinking we would wanna make it simple
+A :  Um
+A :  And uh some sort of locator
+A :  They're button or
+A :  Tracking device
+A :  Um
+A :  And
+A :  That it should look different than what's out there
+A :  Um
+A :  Kind of mixed
+A :  Mixed response on the speech recognition the younger people so they want it
+A :  Older people did not um and i think we decided that
+A :  Um
+A :  The expense was
+A :  Not necessarily worth it and it was probably a gimmick
+A :  That
+A :  But increasingly where on the consumers years
+A :  Um
+A :  Then uh
+A :  D. the user interface designer
+A :  Um explored some of the technical functions of the remote
+A :  Um d.
+A :  Simple versus v.
+A :  Um
+A :  Complex
+A :  The simple one been better for user the complex better for an engineer
+A :  Um
+A :  Um and some personal preferences they were fine and that would be that it should be a user oriented remote something simple
+A :  Um and that we didn't want it
+A :  Go with a universal remote because uh
+A :  Increasing cost in increasing complexity
+A :  Um we we just have a t. v. remote
+A :  Um
+A :  And that we should also focus on
+A :  Mm the appearance of the remote
+A :  Habits be something that looks different
+A :  And finally uh our um industrial designer
+A :  Uh give us a a rundown of how oh dear immobile work
+A :  Um from energy source um
+A :  Uh what we would use batteries because we don't wanna have a a cable
+A :  Um
+A :  How that would power d. remotes and the lamp
+A :  If we were to to have one um
+A :  Um the user interface then we connect to a chip
+A :  Can which would work with the infra-red
+A :  Controls
+A :  Uh to send a signal to the t. v.
+A :  Um
+A :  All these then we
+A :  Came up with a couple ideas for
+A :  What we think the design of a remote will be
+A :  Um
+A :  Um
+A :  Something that will fit into
+A :  Uh easily in the someone's hand
+A :  And with a
+A :  Just a few buttons just the basics
+A :  And with a
+A :  Scrolling
+A :  Function
+A :  Okay and i will leave that
+A :  I think that that's
+A :  So
+A :  Marketing
+D :  Okay
+A :  We're watching trends
+D :  Yep can i have a
+A :  I suppose that you can have six
+D :  He's a few years
+D :  Okay so i it was looking at trend watching
+D :  Um
+D :  Unfortunately i wasn't given too much information i was given a fruit executive summary
+D :  And then an update on some recent fashion trends that we might like to look at
+D :  And then i'll just tell you some personal preferences that i got from that
+D :  Um okay the most important fine and
+D :  Was that the fancy look and feel seems to be twice as important to the user is at the current functional look and feel
+D :  Design but i think we've kind of already discussed before
+D :  Um the second most important finding was that the remote should be technologically innovative
+D :  And again these are all things we've kind of already come up with on our own posters back set up
+D :  And terribly of the remote should be easy to use
+D :  As far as fashion update we were in the fruits and vegetables
+D :  Would be the most important theme for clark's
+D :  Shoes and furniture
+D :  It's that might be a bit of a challenge to incorporate this into our remote we can try it um and also
+D :  As opposed to last year this year
+D :  The material is expected to be spongy and feel
+D :  Okay so from that
+D :  Um as we've already said we need to focus on a fancy look-and-feel
+D :  Um i think with a really
+D :  Discover that it's kind of hard to uh
+D :  Go away from the traditional rectangular design but i think that even if it's very subtle we need to kind of track our consumers so they always get the idea that they're getting something that's new one mother and and sleek can
+D :  Whether it's in the shape of the colours are all of that
+D :  Um for technologically innovative we've talked about the tracking of i. is we brought up the idea of having to pieces
+D :  Which we could discuss further
+D :  And then you know had suggested
+D :  Um the energy source and the user interface discussing some of those
+D :  Um that we could change a little but
+D :  We need to keep it simple have limited buttons but i think that to peace idea of might
+D :  Be really beneficial for
+D :  Um i think it's a
+D :  Incorporate those fashion trend of fruits and vegetables
+D :  I don't know
+D :  I mean i guess the two options are free had a remote in the shape of a fruit or vegetable
+C :  That was a banana shape so
+D :  He he
+A :  Banana shape
+D :  Right
+D :  All uh with the exterior design is but my question uh is
+D :  I mean this area technically speaking you kind of
+D :  Takes their mails what their remote controls and i'm not sure how they feel about having fruity logos
+D :  On the outside so maybe we have something that's
+D :  Someone removable or i dunno different options for female male target groups
+D :  And then the spongy feel
+D :  I guess we could but the mobile phones and
+D :  Either technology that out there and look at different types of material that
+D :  Might these are users who wants spongy feeling
+D :  Remote controls
+D :  That's that
+A :  It's possible eh
+B :  Alright
+A :  Like okay uh
+A :  So it's too but in first second
+A :  Possibly um like a cover like they have for mobile phones
+D :  That's what i was going here
+C :  "'cause" like yeah
+C :  For spongy want
+A :  Yeah one with a flag in one with the banana and
+A :  One that's a a spongy
+D :  He
+A :  Feel to it
+D :  When you buy a remote you can buy
+A :  You can
+D :  Very is covering
+A :  There is covers
+C :  Also calls
+D :  Personalise your remote
+C :  The summariser
+A :  We could leave that to the cover department
+C :  Yeah
+A :  We are know they've got nothing to do all day
+C :  Okay
+C :  Okay oh i see
+C :  Crazy
+C :  Um
+C :  Yep
+C :  I thought about the interface concept of how the customer relates to
+C :  We use the consumer use the actual device
+C :  Um
+C :  Some notes
+C :  As a list of us and
+C :  Um
+C :  China's inspiration
+C :  But keep in mind our own ideas of had
+C :  Um i was sensor information from the companies are they i. d. technology department have
+C :  Devised a new speech
+C :  Recognition technology
+C :  Where you can program questions in such devices
+C :  They give an example of a coffee machine
+C :  We program a question you program the answer
+C :  And machine is phones calling
+C :  Um
+C :  Okay
+C :  Just get away use all of
+C :  A user can use
+C :  Counsel
+C :  Like remote um there's a graphical use well you
+C :  You know the pictures
+C :  And
+C :  But on the screen
+C :  Uh command line where you have to type things in
+C :  Yeah response
+C :  Um
+C :  That's just that's just point out so inconsistent it
+C :  So user interface in remotes you can see the pitch a while
+C :  As a state of the mobile phones can will also differ buttons on
+C :  Make it more complicated
+A :  Mm
+C :  So then i look at new product that on the market
+C :  Not as uh remote controls
+C :  Ones you recognise um
+C :  This is the voice
+C :  There is a voice recognition remote control
+C :  Which can control is mostly rice is out there is a picture on about it and
+C :  It's a design channels
+C :  Uh with your voice don't i see speech samples controls four devices t. v. cable satellite v. c. r. d. v. d.
+C :  An audio
+C :  Did you call the on the the labels like i did it remote control functions of the technology is uh
+C :  Um
+C :  The one on the left is a similar to what we'd
+C :  To upon the
+C :  Board
+C :  The previous meeting well as scroll down functions on the side users make those out
+C :  And then on the right
+C :  Is also an ipod
+C :  Which is
+C :  You know possible the same these things to use that that really is knowledge this is a a nice big scroll menu you
+C :  Is a go through
+C :  That is it
+C :  Possibility and the things simple really
+C :  Um
+C :  And this things like this which is it a a kid you know
+C :  But
+C :  Depends have the
+C :  Facility to control a problem what should we can watch before
+C :  General john l. only allows them to access
+C :  D.
+C :  Channels that depends on to watch
+C :  And um
+C :  It means that children all three of having their remote control
+C :  Side of it it it is a possibility of having
+C :  One remote country you know that we decide to components that we got more components you know
+C :  Different remotes
+C :  Um
+C :  The point mary and then a sight you'd have to stop it need to be clear on your um
+C :  Devices
+C :  As to what you know
+C :  To use sometimes and i know pointing down which may suggest volume down could become v. is just as a v. for volume
+C :  Just little things like that which
+C :  We need to make clear in the design
+C :  Um
+C :  I think
+C :  The time for a set
+C :  A user friendly now what the minimum buttons
+C :  Maybe with source suggested is to
+C :  Part thing
+C :  Well if it was to have a speech recognition thing
+C :  Maybe control on that
+C :  Do not all problem all on the control that
+C :  And then just had a simple sort of handheld thing as a devised uh yeah
+C :  As actually no um
+C :  I don't it could be graphical display the actual
+C :  Remote control the actual control paul maybe could have
+C :  Like an apple we'd is a control for the menus
+C :  So like you think it's more more complex complicated and then they
+C :  The hand held it should be
+C :  Yeah ergonomically designed
+C :  Hmmm that is it's
+C :  Uh
+C :  Just
+C :  Oh it's uh
+C :  Just thought surely
+C :  It is at the end of things like that she's things which is just
+C :  That's something
+C :  So you could ninety or grandma right
+B :  It's industrial design
+B :  Cranes stuff like that
+D :  Okay
+C :  And that
+B :  Make sense
+A :  No it's designed are going to
+A :  Also good for animals
+C :  Yeah say
+C :  Things
+C :  Uh huh
+C :  Well i ask me
+C :  I guess
+B :  Well let's see
+B :  I'm going to bore you with uh
+B :  Couple of descriptions of the interior
+B :  Just a
+B :  To make it more obvious what we have to fit in there and that we do
+B :  Have to fit stuff in there
+B :  I have more information on
+B :  Possible materials
+B :  Um
+B :  As well what we can and cannot do
+B :  Um
+B :  But
+B :  It's just wait for the start-up and
+B :  I'll show you
+B :  We're talking about you know okay
+B :  The details of the components design as you can see there we have is
+B :  The board
+B :  Main board of me
+B :  The remote control the underside that's pretty cheap
+B :  Piece of
+B :  Of technology we in top left side you can see the chip
+B :  We just be
+B :  We're talking about this was just a device to
+B :  Recognise the signals the input
+B :  And it could pass it on
+B :  Two
+B :  Uh a row off
+B :  Um for the transistors and stuff like that on the right side that actually amplify the signal
+B :  Which later on as being
+B :  Is being transferred to
+B :  A infrared lamp
+B :  Which
+B :  Then
+B :  Um of course
+B :  Shines infrared light on to the television but i will recognise what's
+B :  Signal
+B :  Um it's getting and we'll do
+B :  Would you tell it
+B :  Um
+B :  So much for the the workings of v.
+B :  Of the uh
+B :  Remote control itself
+B :  Its job was to wait
+B :  For you to press a key then to translate that key press into infrared light signals um
+B :  The received by the television
+B :  When you press a key um you complete a specific connection the chip senses the connection and knows what but you press it produces a morse code a line signal specific to that button
+B :  Pre clear
+B :  Transistor amplifies signal
+B :  And uh and sets them so as a signal to the l. e. d. which translates the signal to a infrared light the sense in the t. v. can see the infrared light and seeing the signal reacts appropriately
+B :  This is the circuit board from the other side
+B :  Um
+B :  The lower part of it um if you can see the properly it green greenish
+B :  Borders is what we what we saw on the first
+B :  The first slide just flip over
+B :  Um you can see the circuit board itself that's the cheapest the
+B :  Way to make electronic connections basically on the market
+B :  Um what you do
+B :  "'cause" you have
+B :  Don't have cables but you have the connections actually in these
+B :  Nice lines on the on the board
+B :  Keys
+B :  All the actual keys that are being pressed the close of the electric circuits
+B :  But then sends a signal to the chip on the other side to be behind here
+B :  Um which just sends it over to the transistors and all that stuff that
+B :  Amplify the signal and all that is being sent to the infrared them up there
+B :  Now you can see this is the the rubber button version of it
+B :  Um the way it works is that
+B :  You have the keys here the rubber buttons as well matched well
+B :  Uh-huh played on the other side which close the circuit here
+B :  Does it is on the signal
+B :  Now this is the simple version
+B :  "'kay"
+B :  Um
+B :  We are talking um "'cause" that's the simple and cheap as the version of the same time
+B :  We're talking something more complicated of course
+B :  It's going to be more expensive as well
+B :  Not only that
+B :  Um we also restricted and
+B :  The use of
+B :  Are outer shell
+B :  Or in the material that we could use for all the shelf
+B :  Um
+B :  I haven't gotten some information
+B :  That's
+B :  We could use for the case material plastic
+B :  Rubber
+B :  As well
+B :  Um rubber that is used in
+B :  Sandy stress balls so it's pre squishy that would
+D :  Three
+B :  That would serve that purpose um
+B :  We could also use a wood or titanium
+A :  That's the approximate cost per hundred doesn't for the titanium
+B :  Oh here oh i don't have an information on that however our company obviously can provide us with uh with the titanium so
+A :  Oh
+B :  I'd assume i'm i was given an okay to use it
+B :  It it certainly is an expense of material i'm aware of that but
+B :  I was given an o. k. a.
+B :  But there's certain restrictions to certain materials
+B :  Now oh let's first go through it was material so we we we can use it's plastic rubber wood titanium
+B :  Some makes these
+B :  Um
+B :  As for the energy source um
+B :  We're talking about that shortly
+B :  And the other meeting
+B :  Um
+B :  Well we could use this uh what i was offered a what we could use
+B :  Is a basic a clear a battery
+B :  Right
+B :  Yeah it dynamo
+B :  Interestingly enough
+B :  Um
+B :  We could use solar cells
+B :  Or a device that was not nnn much further specified that provides kinetic energy
+B :  So just like watches
+B :  You just move them
+B :  Move be the actual device and disprove provided with
+B :  With uh some energy
+B :  So
+B :  Um
+B :  Obviously
+B :  I personally have to say that dynamo is
+B :  I have question three
+B :  You wanna wind up your remote control if we can use it right
+B :  Um solar cell is interesting
+B :  Hmmm a if a little every can there
+C :  But you have to leave about a window or not
+B :  Mm yeah are
+B :  You know you lose it buys behind the couch for we can yeah and
+B :  Oh we see
+A :  Works well in arizona but in denver ah
+B :  But it's
+D :  Probably
+B :  Exactly
+A :  Not so
+B :  Um the kinetic energy thing um might work
+B :  Um but the same probably lying around you first have to shake it before
+B :  It's that's
+B :  To work so i'd say what we're stuck with really is
+B :  Um the basic battery
+B :  Which also makes a base station basically up so we don't need that uh
+B :  Um
+B :  How ever
+B :  Our interface a chance have pushbuttons
+B :  In which um the production of a preacher and and for sure which um our company is expert
+B :  Um
+B :  However we've discussed that scroll wheels are a better option and they are possible
+B :  We have an okay for scroll wheels okay
+B :  Um however many comes to the scroll wheel of the ipod
+B :  I have one big objection and that is that we have to fit an l. c. d.
+B :  Into the remote controls well
+B :  This however may exclude certain um
+B :  Materials
+B :  You have the squishy uh
+B :  Kind of
+B :  Remote control than an l. c. d. screen may be affected by the movement
+B :  As we might not be able to put it in there
+B :  So um
+B :  There's also restrictions too
+B :  It comes to the chip
+B :  If we have uh most of the six use sophisticated scroll-wheel or rather than
+B :  This very basic uh setup that we that just presented um the chip has to be most more sophisticated and that's more expensive as well
+B :  I don't have any details to comes to the cost but
+B :  Um
+B :  It will
+B :  You significant difference
+B :  I'd rather say drop the titanium and therefore let's have more sophisticated chip but that's a lot to me to decide great
+B :  Mm
+B :  So
+B :  That's for the for the scroll wheel
+B :  Um it limits a choice and squishy is hip so i'd say
+B :  Well the not go for
+B :  For that
+B :  Let's see now um
+B :  Um solar cells cannot be used on a curved or latex um surface or um remote control what do we see that's not
+B :  A problem
+B :  Um since we have decided or
+B :  Against
+B :  Solar cells i assume right
+B :  So anybody still
+A :  Yeah i think
+A :  I think batteries are probably the way to go
+B :  Alright um which makes it very conventional but there for
+B :  Traditional ice you
+B :  Um
+B :  Um
+B :  With be titanium
+B :  Um
+B :  We cannot see
+B :  Make it a curved design it would just be able to make it flat and
+B :  And um
+B :  Straight design pretty much
+B :  Which i assume would exclude uh
+B :  So the more sophisticated versions
+C :  But they use all of that
+C :  Spongy and uh
+C :  The plastic casing you can get out of mobile phones and and if you have a
+C :  It's plastic
+C :  But then the house all the
+D :  Mm
+D :  The cover and
+C :  A cover on it which is just sort of soft
+D :  Yeah
+C :  Stuff
+C :  So the net up so it possible so you know it'll mean plastic them
+C :  Whether people hold it
+C :  Still there's a spongy
+D :  And we can have the fruits and vegetables on the spongy to to remove it
+C :  So we
+C :  Was that the possibility of having uh
+C :  A graphical display like like a screen
+C :  Like the ipod
+B :  You can have an l. c. d. screen um but there for know rubber will be used
+C :  Right
+B :  Mm liked so plastic is titanium yes but this well of course and phones
+B :  The form of plastic
+B :  As i understand that
+B :  You can use
+B :  Any form um latex
+B :  It's tricky
+B :  The rubber
+B :  Uh and uh
+B :  And titanium also seems to be tricky
+B :  And comes to the form so a way to go is if you wanna scroll wheel you you make it flat and angular
+B :  Uh and an l. c. d. screen
+B :  And uh
+B :  Then you can basically
+B :  Choose either plastic or titanium
+B :  What would
+B :  And if you wanna make it a particular shape use plastic
+B :  And an l. c. d. screen at the scroll wheel that would be fine
+B :  Or make it just push buttons basically plastic give you the biggest
+B :  The righty of options
+B :  Maybe not the nicest feel uh not much originality read
+A :  So the rubber and what the rubbery
+A :  We can should have are we want and rubber a week now
+B :  With rubber we could tush pretty much shape of the way we wanted it but we can all that scroll wheels and we can all to add an l. c. d. screen
+B :  That's a tricky thing
+C :  Could we not
+A :  Uh-huh
+C :  You know how the shape of the scroll on the screen
+C :  And then this all on issues like that
+C :  That's which is
+C :  That's all of the now i ask
+C :  That's the truth think it'd be yellow
+C :  And um you know you just stick on
+C :  Just a lot of things that the socket from the
+C :  I would nominate pages
+C :  A next year it will be necessary
+C :  The actual shape of thing
+A :  As an optional plastic shell with the rubber a coding on
+A :  Had certain spots
+B :  Does certainly can be done yes
+B :  Yeah
+B :  That doesn't affect
+B :  The functional side of it all
+B :  Like say just the underside or so
+B :  Can be done
+B :  I assume yeah
+B :  So
+B :  The fruit
+B :  Design um
+B :  How about um affecting be surface of the actual
+B :  Remote control
+B :  Say you know make it a particular fruit
+D :  Uh-huh
+B :  Shape always d.
+B :  But uh do that
+B :  Like the surface off
+B :  And orange banana whatever you name it
+A :  What about the smell
+B :  Just design wise
+A :  The remote
+B :  In nice one
+C :  You did to sell in different colours or or scrolls and different
+D :  Great so at risk of what is the
+C :  Yep yellow's
+C :  All those files is that
+B :  Well we're we're supposed to stick to the company colour so that's yellow and grey
+C :  It's the it's the colours yeah
+D :  Oh yeah
+D :  Yellow and grey
+A :  Yellow and grey
+B :  So what have we lemon banana
+B :  Is
+C :  Mm go for it
+A :  Right true
+B :  Grapefruit
+B :  Is what we go for
+B :  Hmmm comes to the outer appearance perhaps
+A :  I would say if i were to make a decision i would probably put a fruit aspect
+A :  That to be lower
+C :  Yeah
+A :  Lower end of the spectrum of of importance
+C :  Wilson's
+A :  Um
+D :  I think having a shape could be a little ridiculous
+B :  Well we have that
+B :  Banana shaped already have so
+D :  Well we can do though yeah
+C :  The
+A :  Well perhaps the implied shape all be enough
+A :  To lower that
+A :  Fruit mind that the remote buyer
+D :  And if it's yellow
+C :  Personnel
+B :  Uh-huh
+C :  And if it was to me at all
+C :  Should we can
+A :  It's it's yellow
+B :  It's yellow
+D :  Great buttons yep
+A :  It's curved
+B :  So why not at a couple of grey stripes to make it look like a banana
+A :  It's sort of
+A :  Couple a couple agree is stripes
+A :  Maybe we can put the grey stripes on the bottom so that
+A :  That person could turn it over
+C :  On the the the rubber a great school with
+A :  But look like a banana just sit on the table
+D :  Mm
+B :  There you go
+A :  Rather than rather
+B :  Okay
+C :  Because it and then you gotta zap
+C :  Put the banana shaped thing on the football
+D :  Oh
+C :  On the coffee table and we will is nowhere else
+A :  Maybe holder
+D :  Now with
+A :  If we were have a holder a could be shaped like a fruit
+D :  Completely different roles
+B :  It could be a great
+D :  Oh
+B :  I
+A :  I i didn't tape
+B :  I think
+A :  Or a fruit bowl okay we can have a variety of options here
+B :  Yeah yeah
+B :  No
+D :  Yeah
+B :  Yeah
+A :  Do you have more tear
+A :  Presentation
+B :  That's pretty much a them and from you about
+B :  The materials will be interference to look like and what limitations a certain materials are on
+B :  There you go
+A :  Okay i'm gonna plug in here real quick
+B :  Sure
+A :  That could either
+B :  Yeah
+A :  Okay so we have to make a decision on
+A :  A couple of these items here
+A :  Um
+D :  Does that to peace idea
+D :  Are are we not decided
+C :  We sold
+C :  I wanna do that because if we can use a battery
+C :  The base station might not be necessary
+D :  Oh right
+B :  Well we can still designed it to peace the remote
+C :  Yeah
+B :  Um without having a base having one of them be a base station but just how would be
+C :  Yeah
+B :  An optional even be "'kay"
+B :  Remote with lots of functions or you take a small piece we can still do that
+D :  Mm
+B :  However no of course it would be like design two remotes pretty much
+A :  Uh-huh
+B :  So
+B :  Um
+B :  Which then design the standard would probably them at the
+B :  Mm limiting and the e. d. u.
+B :  The use of certain materials because they would be too expensive say like a scroll wheel
+B :  And uh on both of them or have an l. c. d. screen and so on so
+B :  You'd probably have to stay grab the weather just traditional rubber button
+B :  Design which we saw there
+D :  Yeah
+B :  But could be done
+B :  Of course
+A :  Okay
+A :  Uh so these are the decisions that we do need to make by the end of this meeting
+A :  Um
+A :  For components concept we need to come up with the energy source um d.
+A :  Chip on print
+A :  And the case
+A :  Probably case um
+A :  Material
+A :  And probably a shape also
+A :  Um and then for the user interface concept we need to decide what the tape what
+A :  What the type is
+A :  And what kind of supplements we'll have
+A :  Energy source i think we've i think we've decided batteries
+A :  Although
+A :  Not exciting are probably our best bet
+A :  And we have five minutes
+B :  Okay one comes to the chip on print as a society the more advanced features you want
+B :  Um
+B :  The fancy of the chip has to be in the more expensive
+B :  Uh if you want just the normal button version chip on print is gonna be
+B :  A chip one
+A :  So
+A :  Um i guess we should pick the case then
+A :  If we go with the plastic key case
+A :  Or that the plastic case
+A :  Um
+A :  Then the chip on print is still kind of we can have either were
+A :  You have
+A :  A complex one or uh or not complex
+A :  Did we decide that the rubbery feel was
+A :  Important enough to us
+D :  What about what you said like that and uh
+C :  Just
+C :  Just maybe
+D :  Finger grips just on top of the class that
+C :  Yeah
+C :  So that we will
+A :  Okay
+A :  So we would
+A :  We would have the l. c. d. screen
+B :  As long as the plight of the rubber is no when you the controls yes
+A :  So
+A :  I guess the case would be plastic with
+A :  Perhaps that's not enough rubber to qualify as being part of it it's more of uh it's it's more of a supplement maybe
+C :  Yeah
+B :  Right now or
+D :  Yeah
+B :  More of uh a lemon nation perhaps uh
+D :  So then for the scroll are we going for the ipod tape
+C :  Yeah i think so i think
+D :  Yeah okay
+A :  Which will require a
+A :  Mm more expensive
+A :  Chip on print right
+B :  Yes it does
+A :  Okay so
+A :  I guess that that said about it
+A :  So we have a good idea of what we're gonna need to
+A :  To do on this
+A :  Um okay so we will have another meeting in thirty minutes
+A :  Um
+A :  Here's what's gonna be going on um
+A :  Um brian you'll be working on be user interface design
+A :  Um
+A :  Menu or you'll be working on t. look and feel design
+A :  Trend will want a product evaluation
+A :  And the two of you get to play with the um modelling components
+A :  And uh
+A :  Maybe and and give us a prototype
+A :  Which should go along well what do you look and feel design danger interface so that
+A :  Basically
+A :  Would just be working on the prototype
+A :  Uh accomplished your other connections
+A :  Alright
+A :  Okay
+A :  What to do it
+A :  Yeah

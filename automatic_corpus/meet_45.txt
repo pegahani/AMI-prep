@@ -1,0 +1,293 @@
+B :  Okay well i think we're ready to begin
+B :  Right
+B :  My name's i'm do that we're here because of real reaction and
+B :  We have
+B :  In a group
+C :  A lebanese uh huh gonna say
+C :  Like a sponge
+B :  Um yeah go for that
+C :  And any z.
+B :  And you said
+C :  E. r.
+B :  And user and your role is
+C :  And uh marketing expert
+B :  You're the marketing expert okay
+B :  Next we have
+D :  Our crime and see it or okay
+B :  Yeah okay
+B :  And you roll misses
+D :  Industrial designer
+B :  Industrial designer
+B :  And lastly we have
+A :  They've got one
+B :  And you're gonna be the user interface designer okay
+A :  User interface design and i guess
+B :  Right
+B :  This is the agenda for today's meeting it's you know opening acquaintance tool training project plan discussion and close it
+B :  Um
+B :  We already going to opening and the parsley for the clean tents
+B :  So the reason we're here we're gonna design a new remote control as you probably all know
+B :  The very broad overview is original trendy and user-friendly
+B :  "'cause" love to go into a bit more um
+B :  Do you tell from that
+B :  But uh uh
+B :  Personal i think that the original is gonna be a very key aspect to this design
+B :  Um there's a lot of remote controls are there anyway so we're gonna need something that really gonna say apart
+B :  The society they seems to be is going to work on on the three kate faces that i should probably already been told the functional conceptual and the detailed design
+B :  Um
+B :  First one gonna be covering the user requirement spec technical functions working design
+B :  Second seems to be conceptual components properties materials the last one is uh
+B :  Detailed analysis of our design so far of course of all got a similar emails i believe
+B :  What can i say
+B :  Ebenezer don't have a
+B :  You wanna draw your favourite animal
+C :  Sure
+C :  Okay
+C :  What ball
+C :  Oh okay
+C :  Or make this quick since we don't have much time
+C :  Um
+C :  Okay so it's not the best picture in the world
+C :  Here we have an elephant
+C :  First point
+C :  You guys have any
+C :  Saying like ebenezer
+C :  Also elephants have a very good memory much for myself
+C :  And i can remember back when i use that nigeria but i think i used to have a pet elephant
+C :  So if there's a big strong nintendo and i have great memories any began
+A :  I
+C :  They they they decide to be nice and
+B :  Brilliant light on thank you
+C :  Thank you
+B :  Right but you like to have a shows that uh
+B :  The artistry
+D :  It's a scroll wheel and
+B :  Old and you can clip "'em" to your belt
+D :  We take them off
+C :  Oh i think you okay
+D :  Oh okay
+B :  You should also well um i've your lapel mic on as well
+C :  That
+C :  But uh
+C :  Does it
+D :  Uh
+C :  Oh that's good we can click the more um okay yeah there's this microphone authority
+D :  Uh huh
+C :  Just round somewhere
+B :  Yeah the other is discourse or so
+A :  I
+A :  I
+D :  This was with that as well
+A :  I
+C :  I think so
+B :  Yeah all for you if you
+A :  I
+C :  Really
+A :  I i
+B :  Control would stick in your pocket for now i would worry too much
+B :  Sure okay great
+A :  I
+A :  I
+D :  And destroying relevant here
+C :  I have
+A :  Oh
+A :  Hmm
+D :  She
+D :  All right here we have a tiger yeah
+D :  Well some of time is just the big to be a scouts
+D :  Other projects um cats are the weather was a kid
+D :  And uh
+D :  It was a set of the cost is "'cause" it was lost the past
+D :  Stripes are arrangement that is to talk about use one button and actually it's a timing of the two men is
+D :  Was a kid
+D :  And uh they just
+D :  The most feared of
+D :  Of a
+D :  Animals in the wild so uh that's why not
+D :  Than same internet me really but
+B :  Excellent think are much
+B :  Did you like to uh
+B :  Have a dash
+A :  Hmm
+A :  Yes
+C :  Uh
+A :  Uh
+A :  The monkey
+A :  Um the of the
+A :  No that's that's so some of oblique reference in fact to uh we might have a three a three year old daughter who who loses affectionately known as miss monkey
+A :  Um
+A :  What's had a cheap
+A :  I think it's a good thing
+A :  And
+A :  And for the
+A :  And from uh from from the users study of human lives in a in a life right it's a terribly interesting
+A :  Um
+A :  Case
+A :  And the the the this is this one seems to have pets more attitude just
+A :  I
+B :  Ah
+B :  Hardly what call that strong the world will be for uh
+B :  Also not quite easy it is your average tiger but uh
+B :  Cats are one of my favourite animals there
+B :  Very independent they're sloppy as hell are the best of times
+B :  And uh
+B :  Okay so you call those qualities of that animal
+B :  Right right before my list of mass of a whiteboard rubber what's that
+B :  So on to
+B :  Project plan that's
+B :  As you can see
+B :  Four point five euros per unit
+B :  Not terrible as far as i'm aware
+B :  Well silver twenty five
+B :  It's really for fifty million euros we have to be still an awful lot
+C :  Would that was profit aim that wasn't
+C :  Not so that's the martin made okay
+B :  Yep
+B :  Well fifty million and if you're making twelve point five
+B :  Euros and each one then
+B :  Awful lot need to be sold
+B :  Okay
+B :  That would actually just get a movie yeah maybe to the project
+B :  So i'm gonna guess so we've all use remote controls
+B :  Any ideas of where you think a new remote control could go into this market
+A :  Um
+A :  One thing or where is the uh uh
+A :  Um as a very high price and that the market there's
+A :  Uh in emerging markets a touch screen
+A :  L. c. d. remotes
+A :  They can be that programmed in
+A :  Much more sophisticated ways to convention little so you get the sort of
+A :  You get to um
+A :  You you can redesign the interface to your own needs you can program in back rooms
+A :  And you get a a much greater degree that um when you get in these sort of in three in one five know there's you can get integration between the different uh
+A :  Look at the at the different things is designed to control too much greater extent you can have
+A :  One million one macro to turn that uh-huh
+A :  In turn the t. v. to the right channel get but we will rewind the tape and the v. c. r. and get it to play with this rewind for instance
+B :  Mm "'kay"
+A :  Um
+A :  Mm
+A :  Yeah cursing again you sure uh
+A :  For remote that
+A :  Aim towards some of that
+A :  Sort of functionality but using it just conventional pushbutton design
+A :  And
+A :  Therefore putting it into the um
+A :  How much lower price bracket
+B :  Okay in the ghetto that's true with the price range we're looking at
+B :  Mm going for a touch screen would probably possibly of alright yeah
+A :  Uh absolute prohibitive yeah
+B :  Do you think uh again something to control multiple units in a simple fashion
+A :  Yeah i mean i wanna see "'em" you get ones that you can switch between
+A :  Multiply in the sense that could um operate could multiple you need some more integrated fashion
+A :  So is it an idea something to which
+A :  We have some
+A :  At least limited facility for
+A :  Um running backwards
+B :  Would you be idea something along the lines of the one on button would turn on say the video recorder d. t. v. maybe the same system as well uh one go as a kind of
+A :  For instance
+A :  Um
+A :  I'd say oh
+A :  Um
+A :  Or um
+A :  You need you you you you press uh
+A :  Play button for the d. v. d. player and it turns the t. v. on on quite channels well
+A :  Um
+B :  Okay that sounds like uh
+B :  Good strong idea
+B :  Um
+B :  Any takes this
+C :  Well i'm have noticed that uh
+C :  Caning can become quite popular with television
+C :  I'm not sent to me see play again is using the table using the cable
+C :  Subscribe to cable provides
+A :  Uh-huh
+C :  But our remote controls get one that will easily
+C :  And
+C :  The remote controls now agreed to can i keep all um
+C :  Keypad for playing games so perhaps one that was more um
+B :  Okay
+C :  Specialised so again playing or interactive television
+C :  The the reason people that this new remote control
+C :  But it is it
+C :  The baby channel so um
+C :  To record thinks it's the people entering get more time things that you simply star a slight the body say what time it begins
+C :  And slide and everybody say with um and as you know that's
+B :  Okay
+B :  You have hurt us in a bar code design go for yeah
+A :  Uh-huh
+C :  Yeah it's it's taken out there
+C :  You you don't have to be uh
+C :  Pretty clever to use the remote control i think the gaming you know you want you wasn't big buttons for up down left and right shoot
+C :  No
+C :  Uh uh you wanna be able to change n. goes in the interactive television so you need buttons to change the television angle the camera angles and stuff like that
+B :  Okay or beginning to run out of time there's so we've got a couple of ideas we can
+C :  Yeah
+B :  Well after work fast
+B :  Um
+B :  Right "'cause" you've got thirty minutes into a next meeting so
+B :  We'll have to try and decide on so the basic functionality um how the user interface might work i'll be a key aspect especially if the idea of
+B :  Um some kind of market facility because you have to programme that you have to have a lot of response back or at least some kinda
+A :  Uh-huh
+B :  Um
+B :  And
+B :  We're needing find have to figure out
+C :  For the user wants yeah
+B :  What the user wants yes
+C :  Okay
+B :  Um
+B :  Right as anybody got anything you'd like to add at this stage anything you think that might be missed so far
+D :  Right on okay minutes of using tissue not
+D :  Some sort of
+D :  Stick on much rather than buttons
+C :  Oh okay yeah so mm
+D :  But
+D :  The control button of "'kay" as well
+D :  Has a bit
+D :  Predictions
+B :  I i don't see one almost everybody's probably use to a console by now and all them corporate small
+B :  Keep answer them in fact even a mobile phone c. c.s are beginning to use them as well so
+D :  Yeah
+B :  It's probably an interface the most people are used it
+B :  Um
+B :  And that could a low
+B :  And easy navigation use as a joystick as well
+A :  Uh-huh the other
+A :  Key feature
+A :  That uh
+A :  The big good idea to do is the is is to make something
+A :  In fairness of economic some things
+A :  It's it's it's it's as comfortable as possible into the hand
+A :  The court uh all also allows for
+A :  Rather than
+A :  The possibility of more sort of
+A :  Slightly unconventional attractive uh
+A :  She issued forth overall uh-huh
+B :  Okay
+B :  So
+B :  Small stylish
+A :  For
+A :  Uh-huh
+B :  And something that just a little bit different
+A :  So and so so so so it's a buy more for can on that
+A :  Uh i would would need to be sort of conform to the shape the hand more efficiently anyway
+B :  Okay
+B :  That's that's why something that we should be able to do it quite easily
+B :  I would i would hope so anyway
+B :  Um right
+B :  I'd say we
+B :  Finish this one i'll put it started okay them alright what we've um
+B :  Kind of quickly done
+B :  I'll get that it to everybody
+C :  "'kay"
+B :  Yeah
+C :  Sure
+B :  Okay
+C :  And the germans or
+B :  And as far as a more where we leave the microphones here um
+B :  What's it called otherwise and
+A :  Yeah
+B :  Just a laptop lost
+D :  Yeah
+A :  I
+C :  Yeah
+C :  Yeah

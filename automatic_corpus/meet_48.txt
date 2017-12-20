@@ -1,0 +1,976 @@
+B :  If we do the trick
+B :  Um
+D :  Mm
+B :  Okay sorry about the small too late
+B :  One all the lines schedule
+B :  And that's uh you can uh yeah
+A :  Okay
+B :  Okay so just to try and off you go over what we
+B :  Agreed in the last one
+B :  Um
+B :  We're gonna go for something uh it
+B :  Uh huh was it to have a new black a belief
+C :  Very
+B :  Um something that looks good "'cause" that seems to be preference to actual functionality in in for should never
+B :  Avoid functionality of course
+B :  And many of our components are gonna be standard off the shelf but it seemed like we were gonna require at least advanced chip
+B :  And we we still very much for the idea of using an l. c. d. display
+B :  Um
+B :  Or things where we were hoping to use rubber most likely to be double curved except right
+B :  Okay
+B :  So um to to your hard work we might as well what be a two designers go first and uh
+B :  Shows the prototype
+A :  Okay so
+B :  What are the best way to do this as i'm not sure about
+A :  Uhuh
+A :  And he was
+A :  Step up and uh
+A :  Oh yeah ideas
+A :  Okay
+A :  Yeah
+A :  Do you doing the prototype
+A :  "'kay" was a bit more insight into the ergonomics of the design
+A :  Um for one thing
+A :  It turned out to the only point at which it needs to be
+A :  Articulated handedness
+A :  Is um
+A :  Is he is down here for the uh
+A :  Any t. as it turned out to
+A :  The whole thing transfers
+A :  From right to left hand
+A :  Fairly well from the point of view of
+A :  Operating the uh function buttons and joystick
+A :  So it might be an idea to be able to it
+A :  Adjust the position as for the base of the joystick just a little bit
+A :  For
+B :  Mm "'kay"
+A :  How much on and just just a thought
+A :  You could simply have a slightly
+A :  Oh void shaped joystick it in to speak
+A :  Try and twist it around
+A :  So the uh
+A :  Sticky it so that that that sticks out a bit more is on one side or the other
+A :  But
+A :  As you as you see let's see a lot of holding it and left hand
+A :  Be
+A :  L. and the l. c. d. is no for a useful
+A :  So that would need to be a calculated
+A :  Uh if we're entertaining very ergonomic design
+A :  Um
+A :  Now like uh you know to but uh
+A :  Keeping the cost down
+B :  Uh for yeah for going to a bit more but this one
+A :  Yeah
+A :  Yeah the
+A :  This design could be done
+A :  Wait
+A :  Um
+A :  With a plastic casing
+A :  Do i would recommend around the great part here in the middle
+A :  Having the beach to rubber purple over that
+A :  For a while for a slightly more should buy more for for my a bit more ergonomic as well
+A :  As for v. um
+A :  As for the single curve
+A :  Um
+A :  Mm they said sh
+A :  And they said like this it would be nice to have some courage to do is not so it is uh really the curve it's mostly did
+A :  Is the on the sides of the
+A :  Because of the joystick or s. over tea
+A :  Yeah to the hand like this
+A :  Um
+A :  I have
+A :  Yeah
+A :  Transmitter here
+A :  No me
+A :  Because for the uh
+A :  For the for the yeah fine you have a v. remote control finder
+B :  Uh-huh
+A :  So
+A :  And for the product
+D :  Um mm of this can be popular than ever looks because
+D :  It's can be flat on one side
+D :  So the l. c. d. we just stick and then like this one
+A :  Uh-huh
+A :  Yeah
+D :  Because it can get a curved
+D :  Yeah "'cause" it costs
+A :  Yeah i mean the
+A :  Yeah
+D :  And as plastic as well so
+D :  Or p. is course one hand
+A :  Yeah that that was the rubber design it could
+A :  It
+A :  You could pretty much mould
+A :  That should be to be uses hand on my c. features we could if we could still do the rubber
+A :  Uh uh for was to have
+A :  The
+A :  You get the uh rubber extend beyond the end of the uh
+A :  Of of digits of structure so it has a research tail we do trip over your wrist so it stays and station that's right
+A :  Of
+A :  Um
+D :  Yeah so yeah
+B :  Okay yeah great
+B :  Um
+C :  Yeah the key lot of my evaluation docking
+B :  Yeah okay and what go for the
+A :  Mm
+B :  Excellent work
+A :  Yes
+B :  Um yeah mm
+C :  Uh-huh
+A :  Mm
+C :  Evaluation
+C :  Basic point uh have a list of criteria do we need to rate their prototype by
+C :  And then we will
+C :  It's a seven stands up and
+C :  Seven step kinda evaluation process so on
+C :  Also sets of the scale
+C :  So i have to we finished all the ratings for each criteria we average that analogy was
+C :  Some type of a confidence in our prototype
+C :  And uh the criteria all based on
+C :  Real reaction is uh
+C :  You go listen policies marketing strategies and also those uh put together of uh from the user
+C :  Requirements
+C :  Yeah it's
+C :  And if you flip the
+C :  So those are the
+C :  Criteria
+C :  Yeah
+C :  Have to to put in a bit better but you know it's a few things that we've
+C :  Taliban in which means
+C :  Is that uh
+C :  But what it was called very badly in some of those points
+B :  Yeah
+C :  But not be
+C :  So we have um
+C :  True
+C :  One
+A :  But
+C :  Seven eight
+C :  No
+C :  Forth okay so we have to go for each point
+C :  If we imagine such be straight
+C :  And this gives the the school
+C :  So um
+C :  How what would you say the prototype is uh
+C :  How well we realise a dream of being able to install a mouse from from being lost a tape to find them once they lost i mean
+C :  Is the homing thing still
+C :  The locator is that still
+A :  Yeah that's still part of the design
+C :  Sure and and and we can keep that in
+B :  Yeah i believe so so i mean
+B :  I don't think anybody can actually stop or warping lost "'cause" that would be doing something a bit human
+C :  Sure
+B :  Element but
+B :  I'd like to think that we've done something about
+C :  Uh-huh
+B :  Finding down thing was we have
+A :  Hmm
+C :  So
+A :  Yeah i'm making it a bright colour hell some personal income for powerpoint mm no
+B :  Yeah
+C :  Like others so we still have to noise thing and
+A :  Uh-huh
+C :  Oh so on a scale of one to seven how would you guys rated four finding them that's fine and it once it's lost
+A :  I think number one
+C :  The more
+C :  Okay number
+D :  I
+C :  Number one for the first criteria
+A :  I think we if it was trust
+A :  The sound there
+A :  Then the the uh something i found was uh
+A :  Well we we since we're trying to find a cordless phone right
+A :  Mobile you can hear it you can't quite
+A :  And in temp end up where it is
+C :  Yeah it can tell what what um the mobile is
+D :  What about what uh
+A :  But uh
+D :  The volume and t. v.s
+D :  Turn up last week
+D :  And uh
+D :  Yes wondering and volume you can't find the remote
+D :  Suppose you have to go to t. v. in
+C :  Yeah
+D :  Do my knowledge
+A :  Yeah
+C :  Yeah
+B :  Um
+D :  Like it you wouldn't hear the speakers yes
+B :  Just before we go through all of the steps
+C :  You wanna say so
+B :  Here i am old do is
+B :  Um if we can look at the criteria you know evaluate animal come back to the product evaluation that's alright
+C :  That's fine
+B :  Yeah so
+C :  That's that's on
+B :  Um so is there anything here
+B :  That you
+B :  Do you want to to covers and the criteria that you've covered animal combat pretty much probably to this
+C :  With the link where there's anything on uh
+B :  Uh is there any of these criteria need any explaining or is there anything be used for but that would stand out compared to the office
+C :  Um i see
+C :  So we don't need that it's a minus your research is that we're reactions has uh and colour strategy that all of the products
+C :  Be inspired by interior
+C :  Fashion think on fashion
+C :  That is why
+C :  From the age being popular in a home and call them was important
+C :  And they want or their products to be it somehow inspired
+C :  By current trends and fashion so they say we put the fashion in electronics what they've really mean it they are very big on fashion
+C :  So
+B :  Okay
+C :  That's display right here
+C :  And
+C :  And this bit
+C :  Is this one easy to use visitors all for anybody
+C :  I guess it's just the same as an easy to use interface so
+C :  Kind of contestant a one
+C :  And we can come back to use it so
+B :  Okay
+B :  Well and which we will do very very shortly
+B :  Um
+B :  Okay
+B :  Slight problem we had was that we both
+B :  An amazing four euros over
+B :  Project
+B :  For what we're hoping to do
+B :  Um
+B :  Most of it stands from the use of the l. c. d. which i think any and accounted for
+B :  About half of our expenditure because of course would require the chip as well
+B :  Um
+B :  The only way to get this down was see that too
+B :  That's d. a. l. c. d. uh which one was removed a large
+B :  Part how we're gonna interface would require a more buttons etcetera
+B :  Or oh
+B :  What we did we say we um
+B :  We as an eye as as quickly going over it was
+B :  All trendy actual structure
+B :  Um changing the plastic and a solid unit of a single curve design would allow us to come back into u. v. um proposed
+B :  Costs
+B :  And we're just scraping and we've got point to the euro left over there
+B :  So we're just managing it really
+B :  Even then as well um there was no criteria technically define for a joystick sort of use what things appropriate
+B :  We've done a lot but what i mean it was incurred more costly can actually afford to
+B :  Oh
+B :  It pulls all of our really good ideas kind of
+B :  Slightly to one side for example be possible as having the u. s. b. connections definite no viable i
+B :  Um
+C :  Different languages
+B :  That should still be file we've got an advanced chip cookies of the l. c. d. so been able to indicate multiple languages is still
+B :  Very much possibility
+B :  Um
+A :  Oh
+B :  But also to we need to decide on us how we're gonna go from here
+B :  We do need to try come up with an idea which could be continued move over people need be
+B :  Um
+B :  We can i can bring x. l. c. r. and they're actually if you wish um
+B :  I really think as in watches it pains me is that we might have to go with plastic
+B :  And some kind of solid design possibly
+B :  Meeting at the l. c. d. wouldn't be in this perfect
+B :  Place it might be stuck like slightly between what would be good for left-handed what would be good for right-handed person
+A :  Uh-huh suppose what wanting to be done is that is hard time circular in-house so the so the uh
+A :  It the pink if it's outside is a bit over the pinkie finger
+B :  Okay
+A :  So uh
+B :  It very much is about making concessions unfortunately um
+A :  Hmm
+C :  Do you have any data or one how much and different plants cost i mean can you get the entire thing planned to do with the design and
+B :  Um but we'll put uh if you mean on the plastic or
+C :  On the plastic
+B :  To work
+A :  I
+B :  Yeah i have as much information as idea
+C :  Yeah
+B :  Um
+B :  So is it it's easier for example the battery
+B :  Really not very little choice in that one called wanna cheaper options as well
+B :  And for some require the advanced chip if we're going to do what we need into
+B :  I said single curved we really do need it to be that we have for the ergonomics of it
+B :  Um plastic for some reason incredible cost of stuff at the very much making about it off despite the fact that rubber's only got a value for two euros per unit
+B :  Problem comes here is you can see in the interface
+B :  Um
+B :  If i've read this incorrectly thing we can save point five year old here in it
+B :  It's not per push button
+B :  That might make sense because then a numeric keypad would come in that um
+B :  Or four point five euros which is an awful lot so it could well be wrong
+B :  Even if we save point five yeah it would just mean it would
+B :  Most likely placing and actually just getting a colour
+B :  For the unit which that could put this one side
+B :  As you can see
+B :  The use of an l. c. display
+B :  Um advanced chip
+B :  And what would turn on a scroll-wheel here as well because it's integrate scroll
+B :  Scroll-wheel pushbutton that wasn't quite what
+B :  Think that might be a joystick
+C :  Well it won't that be more expensive than an individual pushbutton a scroll-wheel together
+C :  That's quite significant expensive
+B :  Hi
+B :  That's something to have to take up with encounters
+D :  Yeah
+B :  Um
+A :  Mm i like a
+B :  As you can see women that's taken up well over half price
+C :  Yeah
+B :  So all
+B :  Um i'm very much open to suggestions of where we goal but because we need to share the ball was
+B :  Four euros awful v.
+B :  Um
+B :  The price of for what we're
+B :  Really decided
+B :  This one comes in
+B :  And the prices you can see that this is the one to sacrifice be
+A :  Mm
+B :  Material for the case
+B :  And for the actual case design
+C :  We don't even have a speech is he doing like a wee in
+C :  What about speech isn't as many of the stuff like that and we affected and and
+D :  Mm
+A :  Mm
+B :  Uh really know we haven't
+C :  And transmitter a receiver the speaker is
+B :  Ah
+C :  Plus the extra device itself that's gonna be on the t. v. is a menu button or
+B :  That'll do it looks we would just be a button
+C :  Yeah
+B :  We might have to
+D :  Oh that's too expensive than than is there
+B :  Looks like almost nothing
+B :  Mm
+B :  No could call and this that
+C :  I mean it's not on here but
+C :  Um
+B :  No that's a very valid point
+C :  The basic do we have to use an advanced chip for the l. c. d.
+C :  Okay much less
+B :  So for gonna go t. l. c. display then that's
+C :  Yeah
+C :  Was a handout dynamo
+C :  You have to wonder
+B :  I think so yeah
+C :  Yeah
+B :  That would probably not be in keeping with the um the fashion statement such yeah
+C :  Technology
+D :  Fashion
+C :  Yeah
+C :  Okay
+D :  It's busy the only new thing is the l. c. d.
+D :  On the remote there
+B :  Being manipulated by a joystick yeah
+D :  Well angeles
+B :  Which i'm
+B :  If i think a scroll wheel
+B :  Um
+C :  And we can replace the joystick right because we would need for two buttons replace it up down left and right and that would be more expensive than the
+C :  There is a scroll-wheel no the spectrum for
+A :  Uh-huh
+B :  Yeah it's just because there was no actual definition for like joystick might be that
+B :  That's what i've labelled it for purposes of this uh valuation
+D :  The l. c. d. this is the big selling point of
+B :  If we remove the l. c. display we can save ourselves
+D :  The remote
+B :  Fair amount
+B :  Which you can
+D :  But that's a nice as the original about that
+A :  Yeah
+C :  Yeah
+A :  I think if if we remove the the l. c. display that know roughly know point point is is meetings and we just do it but it just power branding on a on a remote control
+C :  I
+C :  Yeah
+C :  Yeah um
+C :  Okay
+B :  It's a shame we should possibly have
+B :  If we could increase the price we could nine factors that and then we could have got something
+B :  Park over to what we were
+C :  "'cause" it's
+B :  All okay
+C :  This is the um mind that
+C :  I mean it's a bit ridiculous that they can charge us
+C :  Was it like this much money for free maybe in it for that uh
+C :  By three main components you know
+B :  And then you have to argue the accountants that one um
+B :  But for the purposes of this meeting um we're gonna have to stick with these figures
+B :  So
+B :  I will save it would seem like a general opinion is we're gonna keep the l. c. display which is about what really separates l. c. display the cost is gonna in care
+C :  I think so
+B :  Um
+B :  Are people maybe not happy with our want to go ahead we've
+B :  And this and going for plastic solid case
+B :  To keep the l. c. d.
+A :  Uh-huh um
+A :  Yeah um one thing i had a how much extra would it be to to keep
+A :  And you keep the um the ejaculation
+B :  It's hard to tell um
+B :  I would say that
+A :  This is what i'm wondering
+B :  You're least gonna take
+B :  Double curved and even then um not quite sure flats incorporating the idea to take elation
+C :  Yeah
+A :  Well i think uh it do it that evening required to be
+A :  Double curve
+D :  You can use yeah you can still be single curve ball
+A :  Is it is just the this is the u. i. s. so the case would come and tuning in would be making two parts and then come together with an education
+D :  You just yeah
+B :  Single curve of a calculation
+C :  Could we
+C :  Could we not get rid of the curvy because of this because patients this and focus on the menu think
+C :  The best interface
+C :  "'cause" i would do we have these restrictions on software
+D :  That's we need for the joystick and uh
+C :  Oh but that has to be
+A :  Mm yeah i mean it i mean that
+A :  Uh i mean if you if you look was really uh-huh
+A :  Uh the prototype here the lines here along the grip
+A :  Alright likewise straight
+A :  Um i had that one
+B :  But the curves all over the hand is it
+A :  You know on the all on the l. c. d. or no vote on it was a cover could just as easily be done
+A :  Um without curves
+A :  Curved is really need to use up here
+C :  A joystick
+A :  To put it to them to keep the joystick in a good ergonomic position had to have it
+A :  Rest on top of the hand
+C :  Okay
+C :  Okay okay
+B :  We wouldn't actually say a lot by reducing anyway so i mean
+B :  For purposes of this meeting maybe we can state that single curve still lies articulation
+A :  Uh-huh
+B :  Um
+B :  Unless we hear otherwise we could call it but uh proposal
+A :  Uh-huh
+C :  But but it is not gonna perform so well
+C :  For my criteria
+B :  Which is what we can get on the net as long as so we're gonna say
+B :  Could we will have to keep in mind that time as well but we're gonna say
+B :  Um
+C :  Well wait a minute
+B :  Single curve design
+C :  Sample speaker
+A :  Mm
+C :  What is the sample speaker is that is somewhat similar to what we want
+B :  It could well be a bit a cost of
+A :  Mm know as the voice response thing that we got the email about it
+D :  Costs four
+C :  Yeah
+A :  I thought it was completely pointless
+C :  You're in about voice as well
+A :  Yeah
+C :  I did not
+A :  Um right but it basically is uh is saying that are words that come up with a chip that you could do it in
+A :  Say hello to an would say hello back and if and if you know wasn't it
+B :  Okay all that they will all of that one
+A :  Mm
+C :  We won't go with that one is uh
+C :  I mean like we
+B :  That's voice recognition so
+C :  Oh okay okay
+B :  And
+B :  So okay uh battery definitely
+C :  So that so we're gonna
+C :  Get rid of the whole okay to locator fine
+B :  It looks like a unless we can manage to put it in under point two euros
+C :  Okay
+B :  Um
+C :  Yeah
+C :  Okay
+B :  Maybe even slip no no you that much point two euros that's a uh-huh
+A :  Uh-huh
+B :  So we've got one for now
+B :  All sorts of
+D :  Are we going for a special colour at all
+B :  It's a a case all of um
+B :  I'm a slightly i'm sure
+B :  One point five euro for one pushbutton doesn't sound quite right so maybe it's a case of
+B :  A push button is maybe one or more
+B :  Um
+A :  Uh-huh
+D :  Well i was a black fur case
+B :  It which point it
+D :  But you're already incorporated
+C :  Oh so should go for the case
+B :  When you go point five yeah it's likely case of whether or not this is correct i'm not quite sure don't i don't think they mean point five euros per hour
+B :  But then
+A :  Okay well well let's say that and then we can have a special colour case and then we least have
+B :  So
+A :  And make it a little hard to lose
+B :  There we go on
+A :  Because most most remotes are fairly dingy colour that it's camouflaged and ernie pyle of
+A :  Crap and whatever
+C :  What was it the full colour white or black
+B :  Black from in normal colour it's a yeah
+A :  And grey
+B :  I quite like that colours that you're fading it's a display
+A :  Yeah
+B :  For make it glow in the dark even better
+B :  So all
+B :  Well we go with that and
+A :  Okay
+C :  Yeah
+B :  It's not and we can see you all come back to the
+C :  That's true
+B :  Your evaluation which you probably know going to panels but there we go
+C :  Okay
+C :  Oh okay
+C :  So uh
+C :  I
+B :  Just to give you an idea um you want to go maybe a bit quickly as well not sure how much time we've got the five minute more
+C :  Well okay okay
+B :  Warning yeah but
+D :  Things time so
+C :  "'kay" ability to store remotes um and also to find them once they lost
+C :  Um okay
+D :  Special colour
+C :  Special colour
+B :  Hmm
+C :  Uh
+B :  Mm hmm for
+C :  A four
+B :  Three of them
+C :  For you for being generous offer
+A :  Three
+A :  I think we can do three
+B :  Uh-huh
+D :  Three
+C :  That would engender say we're for it
+A :  Uh-huh you know the special colour doesn't know what i think we could definitely to stand out from
+A :  You know is lost in a big pile of crap it stands out from the rest of the crap
+A :  Uh-huh
+C :  I "'kay"
+B :  Okay
+C :  Could use the number of unused buttons without that if two buttons is it
+A :  Two buttons are stick
+B :  Two buttons
+C :  Okay so that's the one you know where that's
+A :  Talk to
+B :  Yeah
+B :  That's a wooden well there
+C :  There is good
+C :  Easy to use interface the buttons menu menu school that's yeah that's good
+B :  I
+C :  Okay
+C :  Okay that's what it does so badly um
+B :  Mm hmm hmm
+C :  Easy to use oh okay let's forget that one
+C :  Fancy look and
+A :  Oh
+B :  I guess you've all girls and
+A :  It doesn't get much fancier
+C :  So are we could do whatever we like with the l. c. d.
+C :  Yeah as as as soon as you get the l. c. d. display or maybe i was panicking for no reason
+B :  Uh-huh
+D :  Oh we don't want us to have
+D :  I'd say you go to "'cause"
+D :  Like for the fanciest would be that all the curve
+C :  Yeah it really be a bit too yeah
+D :  With us
+A :  Hmm
+B :  Yeah we
+D :  With dear take you lose
+B :  Yeah
+C :  There we go off yeah some
+D :  Bells on this
+C :  Yeah that's that's better
+C :  Two more acrid numbers
+C :  Technologically innovative
+B :  Oh
+C :  Well we get rid of the the locator language
+B :  This is a shame
+C :  Which yeah
+A :  Uh-huh
+A :  I'd give it a three for this for that
+D :  No need for teletext
+C :  You for it
+A :  Yeah
+A :  I mean the main use thing
+A :  Is something you don't normally see on
+A :  Um
+A :  On the remote but
+A :  And you see a lot of places
+C :  Yeah it mobile phones and you but you don't have it in the menu from the television to the
+B :  Mm
+C :  Remote control so it's
+A :  Uh-huh
+C :  It's a free
+C :  Ah my "'cause" was two and a three
+A :  I'll give it a three
+B :  Like ten to thirty yeah
+C :  Three okay
+C :  Oh okay
+B :  We'll get um then the next one anyway
+C :  There's there's several if i'm pleasing
+C :  Spongy this is what they've really we wanna about uh yeah
+B :  Yeah well
+B :  It is yeah complain um um
+C :  Yeah
+B :  Because of the v. with a with minimalised the number of buttons as such
+C :  Yeah
+B :  Mm plastic it's socks and but it's no worse than any fewer people remote controls a half
+C :  That's true that's not a step backwards
+D :  So yeah
+A :  Uh-huh
+D :  Five six
+A :  Right so i i'd give it a six
+D :  Six yeah
+C :  I
+B :  I
+C :  Yeah okay there's this is x.
+C :  Yeah
+C :  Okay that's a telephone everything goes that's
+B :  Uh-huh
+C :  Yes but well l. a.'s since they're in common fashion we we can what colour well we gonna make it
+D :  Leopard print on
+A :  Well uh i would say uh i would say give a city give a selection of colours
+A :  Um
+C :  A rabbit
+A :  Well with yellow won't yellow for the prototype "'cause" we had yellow
+A :  Which are buying one at golf are all
+A :  Like a practical
+C :  But um
+C :  But it's i think it's more okay so
+D :  Yeah we gotta find a it's
+C :  For engage
+C :  Yeah
+D :  I'd say the colour of the border there
+D :  You'd find out
+D :  But that's that's done it
+B :  That yellow yeah it would also help keep the the product
+B :  Placement
+D :  Logo
+B :  Yeah
+C :  Uh-huh
+D :  Brand
+C :  But
+B :  Is inspired going to the encoding fashion
+C :  But they're they're referring to the fruit and veg thing
+B :  I know
+C :  Uh is this like a banana type colour could be scratched
+B :  Mm
+C :  No it's there's not shaped like a banana is
+B :  Yeah
+B :  It's i thought it probably
+A :  That's a
+A :  Well we we won't be fun has been
+B :  Okay
+C :  Oh that "'cause" it's flat
+A :  But that's it
+C :  What is where fruit i guess it's flat
+A :  I thought i think
+A :  Is uh i think is is in
+A :  Not particularly fruit and veggie
+C :  Yeah
+A :  Um
+C :  Well we might have to suffer badly for this one as well
+D :  Yeah of course yeah
+C :  Yeah
+B :  I
+D :  I
+B :  Well it it's probably more fruit and veg than most other things that they are part fruit and veg so you could not for
+C :  Four
+C :  Oh yes
+B :  That than two genders
+C :  It was very ambitious yeah um
+A :  Mm
+A :  I'd uh i'd i don't think fruit and veg is the sole at it
+B :  Could i used it
+A :  This is all criteria for being
+A :  Um
+C :  It's libellous
+A :  Five four and five ones by uh and fashions
+A :  Um
+A :  Like it it's very highly from the point
+B :  Uh-huh
+D :  Has this orleans this is their motto
+C :  Yeah
+D :  I'm not doing well
+C :  This is the strategy
+C :  And i imagine we actually had so many vested interests and
+C :  They're not they're we've rest is gonna be a proportional to the marks
+C :  Might
+C :  We're i wanna be a bit more scripted more sceptical about
+C :  This one
+B :  What would you think yourself
+C :  Oh it's a
+C :  I mean is it's not at all i see i see
+B :  I know
+C :  In any way or shape or form
+B :  Well it's kind of curved and we can make it yellow and that's
+C :  We can do
+B :  Pretty much banana like
+C :  Okay they they're it yellow banana like thing "'cause" i think is okay
+B :  Is that it's got a curved or
+C :  But five is that all of its own reasonable
+B :  My speaking on stretching yeah the use of a banana
+D :  Yeah i go five
+C :  Four
+C :  Yeah
+C :  Okay so we have one two three four five six seven
+C :  So far is seven and and sixteen and twenty one
+A :  Mm
+C :  That is an average of three
+C :  That's cool well
+C :  This would be in the middle so when
+C :  It's it's not bad it's in a good section
+B :  It's not binding considering be
+B :  Compared to ten
+C :  Oh oops sorry
+B :  Um
+C :  On on sorry
+B :  I would hope batteries
+B :  Um right okay it's
+D :  But design okay
+C :  I
+B :  Considering the price we have to get the same time opposed to have
+B :  Yeah even based on the four of us being heavily biased
+B :  Um
+C :  Yeah
+B :  It was gonna be quite hard to get anything standing i i'd say possibly
+B :  Based on
+B :  And that the cost features
+D :  Mm
+A :  Mm
+C :  Even if we were to increase this entire thing by
+C :  By seven
+C :  Good to go down a great to to fall we have to do
+C :  I mean we didn't we went that
+C :  Kinda optimistic to opt overly optimistic you know like we didn't
+C :  We can add because of the idaho seven points and these things so
+C :  I think we're definitely wanna get that
+C :  Even if we gave this one seven and this one seven
+C :  Yes go on you three extra points over seven
+C :  You know it's
+A :  Um
+C :  Yeah we did do is okay that's good
+A :  Personally
+A :  I think
+A :  Given that
+A :  The product
+A :  Um
+A :  Only replace is a single remote control
+A :  You've already got
+A :  I've we've only got a shell out twenty five euros for something that's only marginally good
+B :  Hmm
+D :  Well
+D :  It's fancy or is
+D :  With the targets
+D :  People are like it's a
+D :  Maybe
+D :  Fashion conscious
+B :  Maybe it's been targeted
+D :  Women would be don't know look at that school it looks like uh
+D :  It's
+D :  Yellow was like a banana screw it's gotta look gotten the same room
+D :  Uh rather than the l. c. d. or as
+B :  I didn't fruit basket mm hmm hmm
+D :  Yeah more technical it
+D :  Like more
+D :  And people in the device technology like "'cause" it's got it's gonna c. d. screens
+D :  Only got two buttons are joysticks
+D :  So
+D :  Which which kind of people would be more
+D :  Likely to buy
+B :  Probably people technologically the user wants a point point was tough uh-huh
+C :  I think so
+D :  Yeah yeah
+A :  Uh-huh yeah
+C :  I mean my mom still has a learn how to use text messaging on the phone and she's out of a long time you know she's it to make phone calls and that's it
+D :  Yes and no
+C :  Yeah
+C :  So i think it should have my mom's a remote control like yes
+C :  We're only two buttons and a joystick i mean they are probably be the first one she decides not to buy you know
+B :  Uh-huh
+C :  Should like is this a remote control i don't i had to use and stuff like that
+C :  So even if it is really user friendly to us but we use to use and menus all the time
+A :  Uh-huh that's uh
+A :  As one thing is a bit because it's technically innovative
+A :  Um
+A :  For someone who's so techno for pick fact it's simply looks unfamiliar
+C :  Yeah
+A :  Will be daunting
+C :  Yeah i think it's totally uh radical to have a remote control know
+A :  Uh-huh
+C :  No number buttons
+D :  Yeah
+C :  Well i try to call good maybe
+B :  Okay um
+B :  Well a much longer we've got at least five minutes i think
+B :  And quickly will pop on the project evaluation
+B :  Um
+B :  So
+B :  Uh-huh
+B :  We've got these uh for criteria here for uh satisfaction
+B :  Does anybody want to um
+A :  Mm
+B :  Uh you have any opinions on any of them
+B :  For example um
+A :  Mm
+B :  Or backwards a suppose
+B :  The ability to
+B :  Work in this project using the technology we've been presented with
+B :  Um
+A :  Uh-huh
+B :  If people made could use of d.
+B :  Uh a pen and paper
+B :  I would say i am well
+A :  Uh-huh the notes and oodles
+D :  Yeah
+C :  Remote ninety a page and that mm
+C :  Uh-huh
+B :  Not quite sure what be advantage for a season the digital pen might be
+C :  I think tracking
+A :  Well i think is uh i think the digital pens most of the back of the uh
+B :  Mm
+A :  With the distractions to be yes the top what goes into the corpus
+B :  Most
+A :  But would it be nice to be able to transfer that um
+A :  Transfer another paper notes on to the uh
+A :  Computer or so
+C :  Yeah no didn't read it
+B :  It does seem like a paper still heavy consideration for taking all so
+B :  So maybe this is which we just the way around it um
+B :  Oh
+B :  Her people satisfy the teamwork was minus d. display today
+C :  Uh the i like that yeah
+A :  Yeah
+B :  Leadership
+B :  As much as can be later in this uh
+D :  Three euros
+B :  Then
+C :  L. a. yeah
+C :  But once
+B :  Um
+B :  Last one was room for creativity
+C :  Where are all
+B :  And um
+A :  Uh and to a until uh until can scare moment
+B :  I think we got
+C :  Yeah
+A :  It's kitsch
+D :  The person per se of creativity
+C :  Yeah
+C :  You're right
+B :  Yeah
+C :  We were not liking can ideas yeah that's
+C :  That was not a problem
+B :  Yeah i think of
+B :  In the end ideas it can be used and so at least meaning
+B :  Not so much that we were full of ideas ball of ones are gonna lie was to actually
+B :  Builder thing
+C :  Uh-huh
+B :  It's a bit of a pity
+B :  Um
+B :  I would have to do that
+B :  I think we need a larger budget
+B :  If you're going to be in your right arm product maybe at a technological kind of sectors and
+B :  You can afford to maybe chat a price up slightly from what it is because they will pay are they just cash to be for
+A :  Hmm
+A :  Yeah i have uh and i think for
+B :  First in the market
+A :  Pertaining
+A :  There's a more to buy more for for many a calculation
+A :  Wood
+A :  You gain warrants the
+A :  The key more profit and sales and would lose and uh
+A :  Yeah added expense
+B :  Mm
+D :  And the prices that
+D :  Was twice the
+D :  Or assembly cost
+D :  And
+D :  Wouldn't have to be twice uh it could be like
+D :  You could have this and because of that maybe
+D :  Fifteen euro
+B :  You could you
+D :  Still sell it for twenty five
+D :  Maybe
+B :  That's true yeah um
+B :  I suppose these are all all have to be taken with uh
+B :  Uh a different group i guess
+D :  Yeah
+B :  I stay yeah
+B :  We are the costs involved
+A :  Oh
+B :  But i mean
+B :  We've got a a a prototype
+A :  Such that is
+B :  Yeah yeah
+A :  Mm
+B :  So no but i think it's gone locate a consider any information that we've
+B :  I i this was all and um so
+C :  Maybe cats but but in there if we had a list
+C :  A more
+C :  Yeah uh to begin with
+D :  In the beginning yeah
+C :  Yeah
+A :  Mm
+B :  But we would've mean we could come up a lot more solid
+B :  Designing and that would have to agree
+B :  It is very much picky to um
+B :  "'kay" so far and the station and uh
+B :  Find it but maybe some your ideas or just a bit too expensive
+B :  All it's hard to tell do you know the costs
+B :  Um
+B :  Okay
+B :  Are the costs within budget well
+D :  I i
+B :  They are now we have are
+B :  Slightly less than capable product
+B :  We've evaluated that and we can see we came out with the value of free
+A :  At on that
+A :  One thing i'd say
+A :  I mean something like a perhaps be part of the product that the um
+A :  I'm part testing market research process of data
+A :  Um produce mock-up suppose for our finance
+A :  And see just how much of a difference
+A :  Yeah over the going over budget
+A :  Um would make the sales
+B :  That's yeah
+C :  I like response um consumers
+A :  And we could even yeah
+A :  Market to their actions
+B :  I
+A :  We keep your from the nineties uh
+B :  And then the final one where you get to call it how
+B :  All going to that later
+A :  Yes
+C :  Oh sure
+B :  Right um
+B :  Is anything else anybody would like to
+B :  And um no
+B :  And if anything it's not been covered before i
+A :  Oh
+B :  Quickly pick up the final from i see
+B :  Um i don't know i mean we've got a product we maybe at the top of it is would like to be but
+B :  We've got something within we can maybe stick on to the market and sell
+B :  And of course something we have been avoiding talking about "'cause" we've we've no information is
+B :  Selling them directly to the manufacturers
+B :  There's a huge market and we briefly touched and above no more knowledge and that's what we can see in that
+B :  Yeah
+B :  So um
+B :  Question where is the anything we'd like to
+B :  And
+B :  We can maybe even this up slightly earlier and we need to and then we can
+A :  Uh yeah my boss
+B :  Finish up the writing and such
+B :  Yeah
+A :  Okay
+A :  Uh
+C :  Okay that's
+B :  Yeah thank you for your participation
+A :  Uh
+A :  Yeah
+C :  Thank you
+A :  Thank you
+C :  I
+C :  Yeah
+C :  Oh that's a kind of upset
+C :  Yeah the the budget and uh we have to cut almost uh-huh
+A :  Okay
+D :  Mm
+C :  And then we can have it the the locator the thing
+D :  Oh
+C :  That's yeah that's a spare
+D :  Yeah
+D :  Yeah
+C :  Today maybe we're the prices of a
+C :  For me
+B :  That's it
+C :  Oh

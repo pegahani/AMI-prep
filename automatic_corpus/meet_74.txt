@@ -1,0 +1,801 @@
+B :  Mm mm
+A :  Mm
+B :  Uh-huh
+B :  Uh-huh
+D :  But i know
+B :  Both my known
+A :  Mm india
+B :  Uh-huh
+A :  Yeah
+B :  Mm uh-huh
+A :  Mm
+B :  Uh-huh
+B :  Mm mm
+B :  Uh-huh
+C :  Yeah
+B :  Uh-huh
+B :  Uh-huh
+B :  Mm mm mm
+B :  Mm
+B :  Uh-huh
+A :  Okay hiding top get a good lunch
+B :  Uh-huh
+A :  Okay we're back for the conceptual design meeting
+B :  Uh-huh
+A :  Um let's get started
+B :  Uh-huh
+A :  "'kay" here's the agenda for today's meeting
+B :  Uh-huh
+A :  Um i'm gonna open it and i'm gonna keep the minutes as price manager when have three presentations one from each of you again
+B :  Uh-huh
+B :  Uh-huh
+B :  Uh-huh
+A :  And then we're going to come to a decision on the remote control concepts and then we're gonna close that
+B :  Uh-huh
+B :  Mm mm
+A :  We have forty minutes yeah
+B :  Uh-huh
+A :  And just to reiterate um
+B :  Uh-huh
+A :  After this meeting a team or reach a decision on the concepts of the remote control
+B :  Uh-huh
+B :  Uh-huh
+A :  Okay
+B :  Uh-huh
+A :  Let's go ahead and start off with your presentations would like to go first
+B :  Uh-huh
+B :  Uh-huh
+B :  Just kind of minor uh-huh
+A :  Um corny would you mind saying stuff
+B :  Mm
+D :  Yeah
+B :  Mm
+B :  Uh-huh
+A :  Trend watching
+D :  Yep
+B :  Uh-huh
+B :  Uh-huh
+B :  Uh-huh
+D :  Okay so trendwatching
+B :  Uh-huh
+D :  Uh it's sense we do put the fashion in electronics it is kind of important how what our product box so i guess we know hiding
+D :  The next so what they wanna right now customers what fancy versus functional um
+D :  Basically about fifty per cent of what they like of the product that they want
+D :  Describe i like the
+D :  In order of how much they want fifty percent of
+D :  The decision of what it should look like
+D :  They have to versus functional and then it has to also be technologically innovative and yet easy to use so because we're basically is confusions they don't know exactly what they what they want us to tell them
+B :  They want everything but simply okay
+D :  Yes
+D :  Exactly
+D :  So we know next okay
+D :  So in milan and paris recently the terms of in showing that clothing shoes and furniture
+D :  Are basically just covered with fruit and vegetable patch and it's
+D :  So i don't know what if we want to go with that so um
+D :  And also the spongy feel is in in contrast to last year i don't know really i mean i guess spongy could relate to the buttons
+A :  Mm
+D :  If we want to do rather than like a hard click e. button that you final like some mobiles and stuff you like a soft or
+D :  Patch i mean you guys know i mean
+A :  Right yes
+B :  Yeah
+D :  Um
+D :  But as for the fruit and vegetable patterns i don't know if we really want to go with that because it is just to try and and our product we want to stay around for
+A :  Right
+D :  Much longer than just
+D :  A few months because
+A :  Right people don't buy a new remote every so often
+B :  I can
+D :  Yeah i mean i could just be a spring thing right now
+B :  I can and uh some of that issue i think uh with uh my presentation
+D :  Okay
+D :  Awesome
+D :  Um so we design preferences um we need easy to read like warren should buttons clearly labelled so that
+C :  Right
+D :  I mean "'cause" we talked about that being a problem um
+D :  And also buttons all the meeting point and she said that in your design with the ball
+D :  Um
+D :  And that could also tie in with the colour scheme
+D :  Uh that we need of real reaction mother colour scheme obviously that's one of work he calls or rubber product and i was thinking about different times a designs and i came up or something
+D :  Actually very here
+D :  So what we could two is something like a a fashion telephone
+D :  Like this
+D :  We're we put the buttons around like we put a big on off button or something else um no i mean it could be the arrows are red or for for channel up and down and then put the numbers around in like it will fashion dial shape
+D :  "'cause" they're all killed older generation and like separate rooms call
+D :  So it's
+D :  Yes clear air travel
+D :  So i mean that's just an idea
+A :  Yeah and then i like it
+D :  Yeah it's like a
+A :  Okay ready for the next slide
+D :  And
+D :  And that's it i
+A :  Okay
+B :  Okay
+A :  Great great presentation
+A :  Right
+C :  Okay yeah
+B :  Uh-huh
+C :  It's if it's there
+B :  Mm
+A :  Which was it
+C :  I don't know hang on
+C :  Interface concept know
+C :  Oh
+A :  Interface concept is new
+C :  Uh there are fashion in orange away me that that was in there
+C :  Yeah
+B :  Mine will always read copy of something or
+A :  Sorry
+B :  And i copied mind before it is sent to do
+A :  Oh okay
+C :  Sorry yeah
+C :  Would
+A :  There we go
+C :  Okay um looking at the interface concept is gonna be mostly examples of possibilities of
+A :  Okay
+C :  We're we can go with this um if you wanna start the next slide
+A :  Sure
+C :  Um can i say place to possible ways on the left
+C :  If you see it on the on the sides of of the remote you have to sort of scroll down so you have that option right there
+C :  And then also this the idea of the base that sort of like an idea yeah
+C :  And then on the right you have what's really big trend right now is the ipod's becoming really fast thing and so you have this sort of very very simplistic menu
+B :  Mm
+C :  Section
+C :  Uh with the round buttons and it's
+C :  Sort of like you have the base of the kinda trendy it had but also very sleek and
+C :  Um and very simple
+C :  But technologically advanced so if you wanna do that but if we could find a way of sort of like
+B :  Uh-huh
+C :  Using that idea
+C :  In a remote control and sort of
+C :  Look into it
+C :  And in that
+C :  Um there's the idea of like be able to do it by feel as well spy
+C :  Um by site
+C :  You know you're in the dark you know wanna be looking at your remote control and the picture particularly is point yeah if you look at the top volume button
+C :  It's a v. and so you you kinda feeling a v. like volume up
+C :  What it really is is a v. on what you think it is this down because of that down arrow
+A :  Mm
+C :  And so it's like sort of "'cause" the utah it turned out the other way up
+C :  Um but then you have you could i did do it by race type which could be you know if she
+C :  Um sort of
+C :  Old-fashioned in a way
+A :  Mm
+C :  Either that or just have it by shape for example you have a specific triangular shape it you know you're looking at the up and down a row and the round once it's sort of feel by you know the third one down a sort of things that sort of looking into
+B :  Yeah
+C :  How we want to do it by feel
+A :  Okay
+C :  Okay
+C :  Um the sort of example of going for a certain demographic
+C :  Um this particularly geared towards children
+D :  That's cute huh
+C :  Um
+A :  We know
+C :  It's a cute we call it changed to yellow bright yellow for like a
+C :  But for the company logo
+C :  Um you have the shapes that's a simplistic and friendly looking
+C :  Um
+C :  And then the other thing that would be able to do is just to probe be a be programme certain
+C :  Channels that only this show watch
+C :  To say that are watching on c. b. v.s or something like that
+C :  And keep them away from other channels
+C :  It's that's like another uh um
+C :  I mean these are three examples sort of looking at it if you have be quite a section for the main controls there
+C :  Uh you could see how many buttons are
+C :  And then on the left you have an example of the round buttons and and simpler design
+C :  On the bottom we probably wouldn't need that is more for like a d. v. d. function which are not gonna be you think
+C :  Um
+C :  So again it's sort of like
+D :  Yeah
+C :  Just give you ideas and and down at the bottom you have the logo is not we could put the r. r.
+C :  Real reaction
+C :  And then finally so like that sort of same examples but also some more just possible is a week go with
+C :  Number one particularly keen on by the way
+D :  Yeah
+A :  No
+C :  Uh-huh
+C :  But it's sort of like just taking aspect of it and say well i have this one we like you know the round section of um or we'd like
+C :  The the buttons size and this
+A :  Mm
+A :  Or i like you know the black finish this over finish or whatever
+C :  Right
+D :  I have four of those remote
+A :  Right
+A :  Okay
+A :  Ready
+C :  That's it
+A :  Okay
+A :  Okay john
+B :  Okay um hm
+A :  Okay
+D :  Okay
+B :  I
+A :  Was that i do
+B :  It'll be copy of component design
+C :  Uh-huh
+B :  Yeah uh huh looks like it
+B :  Okay
+B :  So a basic remote operation runs as well as
+B :  That's button and makes a connection
+B :  With the power source nurse the circuit
+B :  Chip senses the connection to produces morse code infrared signal
+B :  Specific to that button
+B :  So you press the button a produces a a signal it's encoded specifically for that button
+B :  Transistors amplify that signal and it goes to the t. v.s sender which interprets a signal responds accordingly changes channel et cetera
+B :  So that being said next slide please
+B :  Findings wheel which where the required materials for the basic internal construction so all the really simplistic functions that we just discussed
+B :  We need rubber for buttons uh well known for battery contacts integrated circuit which consists of a diode transistor resonator resistors and a capacitor
+B :  All those basic things that make a circuit function
+B :  Um fibreglass something copper wire to create the actual circuit board itself
+B :  And l. e. d. which is a light emitting diode
+B :  Um contact disks for the buttons plastic for the casing and a
+B :  Power source whatever power source we've actually to turn and we want
+B :  Next slide please
+B :  Thank you
+B :  Um personal preferences uh to save money for the components the remote should be mass produced in basic material should be but on that as
+B :  Um if we find another company you can produce the required chips
+B :  Casing l. e. d. any additional materials we decide we require at a less expensive rate then we are cells are producing we should go for
+B :  Next slide please
+B :  Um just talking to the um
+B :  Manufacturing division
+B :  They suggested power options solar cells hand dynamo
+B :  In kinetic power so you shake it and in creases the power
+B :  Um i'm not sure have a hand dynamo work say that to get back to be on that
+B :  It's too a next slide please
+A :  Interesting
+B :  So just in casing option it's okay we're now for options for casing such as straight curved double curved
+B :  You know very specific to the customer
+B :  Options for materials plastic rubber titanium wood
+B :  I don't think anyone's gonna go forward one because splinters
+A :  Yeah
+D :  That would be amazing that out yeah
+A :  Uh-huh
+B :  You hum
+D :  That splinters it
+B :  Um a certain restrictions to apply here though uh wait x. t. k. do solar power with a latex one so if they want so what i saw squishy rubber or they can't have the solar powered option
+B :  Double curved he can't do titanium um that would be to curvature so would actually if you the shape of your hand you curve here in you curve here
+D :  What is that
+A :  Mm
+B :  So you could have two curves and match the shape of the hand to make it more palatable to whole
+D :  Mm
+B :  Now if you wanna that you can do titanium
+B :  And uh suggested functions for the buttons scrolling
+C :  Right
+B :  Function could be very
+B :  Beneficial to us
+B :  In stead of actual buttons themselves
+B :  Again one more slide know it and
+A :  Okay
+B :  Oh and he manufacturing division also has said that um
+B :  They have several types of chips
+B :  And they've just developed a sample sensor or or sample speaker chip
+B :  Which we could utilise
+B :  Um pushbutton requires a simple shape
+B :  And scroll requires more complicated chip
+B :  So depends on what we decide we wanna do
+B :  In addition to that in for our for and all those different options to the customer for producing their remote
+B :  We're going to have to have multiples of each type like
+B :  I'd double curved in rubber um you know each option should have
+B :  A certain select number
+B :  Produced with all those options
+B :  So we'll have to make setup make sure we produce enough of everyone
+B :  But that could also drive up the price of the actual remote itself if they know that we only produced five thousand
+B :  You know
+D :  Right
+B :  Double curved a wooden
+B :  Remotes
+D :  Uh huh
+B :  And solid um
+A :  Okay
+A :  Well thank you for those inform the presentations
+A :  Let's go back to you um
+A :  Yeah i have to make some decisions
+B :  Mm
+A :  Are we
+C :  Well we just have more thing that i couldn't say before and that's just that
+A :  Sure
+B :  Uh-huh
+C :  This new technology that they've developed on the voice recognition
+B :  Uh-huh
+C :  Um
+D :  Oh that's the thing or time earlier
+B :  Mm
+C :  Right
+C :  Except it's sort of arnold not exactly
+B :  Uh-huh
+C :  Sure why they're explaining in the way they are
+B :  Uh-huh
+C :  Um this sample sensor and sample speaker unit
+C :  For a so you say like good morning coffee maker and it would respond good morning joe
+B :  Mm
+C :  But
+C :  I'm not sure exactly how it's gonna work is to you program the reprogram
+B :  Uh-huh
+B :  Uh-huh
+C :  Their sponsors and the question is does that mean that the user then have task
+C :  Does specific question
+B :  Mm
+C :  And can change it
+B :  Uh-huh
+A :  Mm
+C :  In order for it to be recogniser can it be all sweetness certain way or just the actual use a program it to say channel mean to us
+B :  Uh-huh
+B :  Mm
+A :  Right
+D :  Yeah like using the menu to be like in your name into the screen like on the menu options of the way there
+A :  Right
+B :  Mm
+C :  So it's got a limited memory in to to programme it
+D :  Remote read to
+C :  So so that they see that that's
+A :  Mm
+C :  Kind of a used a
+D :  If you like voice recognition would be
+B :  Uh-huh
+D :  I don't know
+A :  Hmm
+D :  Are we too hard to really i mean we could do it right
+A :  Programme
+A :  If it's within our price to get that kind of chip that would you know technology
+D :  Okay
+B :  Well we are making the chip
+A :  Hmm
+B :  So
+B :  I mean
+B :  But i guess we have to look at uh wide
+B :  Our production cost is for the chip itself anyway
+D :  And it is the current trend
+B :  Yeah
+A :  Mm
+D :  The higher technological
+D :  Like
+D :  Did i mean just like the more advanced it is
+B :  Yeah
+D :  Better it'll sell
+B :  I thought you are offering some of those options for different materials that it could be made of different you know
+B :  I think we'd have to decide on the power options maybe
+A :  Uh-huh
+D :  Yeah "'cause" we know how big it's gonna be and how heavy
+B :  So the we could reduce cost
+B :  Yeah
+A :  Okay i kinda brings us to this looks but if we can decide what kind of energy source we want to have first and foremost
+A :  Um
+A :  Do we wanna go for battery is or a
+A :  Stay and like the one that we saw go straight at earlier
+D :  Oh the base yeah
+A :  The base
+A :  The charging base
+B :  I think that
+C :  I was still like first to wanna know what it looks like four
+A :  Rechargeable batteries
+A :  Hmm
+C :  This is something really really small
+C :  Then
+C :  Sort of harder to mention the basis for it that was quite a substantial a size sort of standing up
+A :  Yeah and we don't have multiple things i have to control just as control the t. v.
+A :  It's not gonna be huge universal remote
+C :  Right
+D :  We need to decide well also we can figure out how big it's gonna be like exactly what buttons we wanna and exactly
+A :  What's as a battery um
+C :  Well
+C :  That that thing is like it even if it's got a few buttons we want it to be bigger than s.
+D :  It could be like there's
+D :  Yes i've well i
+C :  "'cause" it's still fits in your hand see still wanna something that's comfortable on substantial but not necessarily full of buttons
+D :  This one is really comparable like i like the sides
+D :  Whatever because
+C :  You're gonna lose it easier
+D :  But if we have that um
+D :  The locator
+D :  Do we do have to worry about that
+B :  That's true
+D :  So we can make it small of we have like all locating device
+C :  Yeah
+B :  We do a voice activated locator no we're gonna have been looking at a more substantial chip
+D :  Mm
+B :  So
+C :  Sorry
+C :  That's the other thing is like
+C :  You know what
+C :  Are we gonna have certain chips are gonna require a bigger size that period
+D :  To double a.s
+D :  And so yes
+C :  But like you know if we get more complicated than uh it's gonna have to be bigger to just a comedy the chip size
+D :  Right
+B :  Honestly i think the customer would be kind of irritated by the fact that it has a base if we did you do a nice small compact
+A :  Right
+A :  I agree it is gonna be bigger with the base are smaller with just
+D :  Yeah
+C :  So it's
+D :  Smaller with that
+D :  Yeah
+A :  A battery like this guy
+C :  Yeah
+B :  Yeah
+A :  Alright so what direction you wanna go in
+A :  You wanna vote
+D :  I think if we had a locating device that a small one i think that seems way more advanced
+A :  I'm kind of
+B :  Yeah
+A :  I'm kind of leaning in that direction of this kind of
+C :  I'm away from
+C :  The pace
+A :  Bigger than the base
+D :  Yeah
+B :  Okay so
+A :  I just seems clunky and
+D :  Yeah because i mean if even looking at cell phones right now
+D :  Those trends the smaller the
+C :  Smaller and smaller yeah yeah
+D :  Harder it is yeah
+A :  Okay
+B :  The palm of that is you forget to take a river park it goes know or
+D :  Oh no
+C :  We can think
+B :  Um you know what happens
+D :  Yeah
+B :  I've had three watches go that way too
+C :  Oh watches at the at the course of a
+D :  Ouch
+D :  Phone or that would wow
+D :  Pat heard yeah
+A :  Okay so what kind of material do we want to be
+B :  Pieces everywhere
+B :  Well we have a two options i don't think wood is a viable option and
+D :  Yeah well in
+C :  Well titanium
+A :  Oh what did you uh sorry go ahead
+C :  As a saying the titanium if we're being restricted than
+C :  How are you we away from them
+D :  Yeah it's it's in classes were produce a chip taking would be more expensive
+A :  Right
+B :  However
+A :  But would you recommend
+D :  Yeah
+B :  Well we only wanna sell it for twenty five euro right
+C :  Yeah
+B :  "'cause" i was thinking if we wanted to get the high end market then you could produce if you in titanium
+C :  Yeah it's uh
+A :  Mm
+B :  Make them are we ready so to speak
+C :  Selling point yeah
+D :  We could say that they has or research shows that
+D :  People are definitely willing to spend more
+C :  Are we are structured by this
+B :  Yeah
+B :  Well be original
+A :  I i think we should just focus on one design and one concept right now i'm not sure that we'll have the time and money to
+C :  Twenty five years
+B :  Okay
+A :  Produce a whole way of
+A :  Remotes
+A :  If this was a successful remote we might
+A :  Then produce a higher and version of it i think
+B :  Yeah
+D :  Good point
+B :  Good point
+A :  Okay so
+A :  We wanna go for plastic or what would you recommend for materials
+B :  Honestly i i'd recommend like um uh since we're going with batteries instead of solar power
+B :  I would recommend maybe a uh a soft wait wait x.
+B :  Because we could produce you know how cellphones have those overlay is that you can change the colour
+B :  We could do uh one that fits in with the trends of the year so here's this here's a fruit
+D :  Oh
+A :  Uh-huh
+A :  Uh-huh
+B :  That um n. s. y.
+D :  Yeah no no it's
+B :  Um
+B :  We could do for a cherry cover for this year and then if x. array stripes or solids
+B :  You know
+A :  Okay
+C :  So you say about like
+C :  What if we use our sales try and then at all gonna reach a colour or is it gonna be the kind of thing where people come back and swap it
+D :  Or we could like take off this
+B :  Make a comeback
+A :  They can buy
+A :  Cases maybe
+B :  And by the extra case
+C :  Okay
+A :  Yes a one and i think it's good to sell basic thing and then sell
+B :  So we could do like of a hard base plastic and then we could to give
+A :  Options
+D :  Yeah
+B :  To latex covers
+C :  But at this right
+D :  Yeah
+A :  Okay
+B :  To start
+A :  Okay
+D :  Yeah because that's awfully text definitely a squishy that then
+D :  Well i mean squishy or the mike
+A :  Right
+D :  Yeah so hard plastic
+A :  Right
+A :  Okay what kind of chip would we need for this guy
+B :  How complicated are we gonna go with the voice activated
+C :  Yeah
+A :  I don't think we should do voice i think we should just do um
+A :  The recognition for one is lost
+A :  You know
+A :  Could we
+C :  Tracker yeah
+A :  Yeah
+D :  "'cause" that a wide type of yeah for voice activation would it be like a certain turn well we say like
+A :  Mm
+D :  Because if people would just be talking and we don't want to one off all the time
+A :  Right
+D :  So
+B :  Well we could give it a specific code you know remote missing
+D :  Mm
+D :  I see i'm not i'm just really trying to because i know that's
+D :  It's only gonna be big because it
+D :  I dunno which is so high tech
+C :  Well
+C :  My little sister got for christmas two that one is key finders that's a hearing
+C :  We have to whistle
+C :  In a certain frequency for it work
+B :  Yeah see that would just your t. v. um
+C :  And then should laugh and it's are going off in a person you can turn it off
+A :  Oh there
+D :  How then maybe voice
+C :  So it became highly irritating
+A :  Okay
+D :  They voice activation would be good
+B :  So i think having a key phrases much better
+A :  Okay
+A :  Alright but it's not gonna be voice activated in the fact that you would say channel up and it would work right
+D :  Yeah i dunno we just wanted to be a finder
+C :  But that that
+B :  No
+A :  Just uh okay alright
+C :  Hmm
+B :  Mm
+D :  But you can you're kinda department mate
+B :  That would be like i made class um
+D :  Oh brilliant then
+B :  Yeah
+B :  So we don't actually have to go for
+B :  Well if they're just about the sample sensor sample speaker
+B :  It's a brain you chip one introduce a nice way
+D :  Yeah good point
+A :  Okay
+A :  Uh and what size batteries
+A :  Double a. or triple a.
+D :  I think triple a. it'll be later
+A :  Two
+D :  I mean more
+A :  Could you run off of two
+D :  What kind of package
+C :  Well it depends on what the energy is needed
+B :  I think well we could do would do too
+B :  Or we could do one small with him
+B :  "'cause" you know the lithium batteries are doing quite well yeah and most other
+B :  Electronic products right
+B :  So there were more widely available now
+B :  And they also have a longer battery life than most batteries
+A :  The more expensive than two
+B :  But if you have to replace it every five years
+D :  That's right
+A :  That's in there
+C :  As long as we saw with that
+B :  Well how about uh an initial
+B :  Make uh one battery menu by
+B :  "'cause" i'm pretty sure we can get them pretty cheap on top
+C :  Right that's what i meant
+D :  We could think about it come back to our next meeting someone really
+A :  Okay
+B :  Yeah
+A :  Yeah
+A :  Right
+A :  Okay
+A :  So it cover that first category
+A :  User interface concept
+A :  Meaning it
+A :  Design
+C :  So yeah what's gonna look like
+A :  Okay
+C :  Um
+A :  I i kind of like your idea about the retro phone dial and that
+A :  The central
+A :  Button could have maybe a a logo on it
+A :  It might be the four way scroll to i mean if
+D :  Yeah it could be whatever
+A :  Yeah
+D :  As long as or something
+D :  Big in the middle which is like the old phones there's like that
+A :  Yeah
+D :  Just like piece of metal or like a picture or something and then all
+C :  Well
+A :  Uh-huh
+C :  Make sure that is if it got to pick though
+C :  Have you have the circle and the button and the middle then is it gonna get a wider than your if your hands are
+A :  Mm
+D :  Oh that's true
+C :  Well and then
+C :  With the buttons be too small if it was enough to fit on it
+D :  Two point
+B :  In these simple one so you showed us there is one that had the scroll buttons on the side
+A :  Yeah
+C :  Yeah
+B :  Which i think if we make it curved is like a a like a hand shape
+B :  Like if we put that
+B :  The scroll button on the side
+A :  Oh i see which mean
+B :  That could be particularly useful
+A :  I think so
+D :  So scroll buttons on the side and the buttons on top
+A :  Yeah i like that
+D :  But we don't know if we have scroll thing on the side we definitely have time labelled
+D :  Yeah
+D :  Like on the side of it
+B :  Well if it's just up and down um mm
+D :  If it's just up and down
+C :  But is that for
+B :  Volume or channel
+C :  What it's
+B :  I don't know
+D :  Well you could do some on both sides
+C :  Do we have both sides
+A :  Can we
+B :  And yeah
+B :  We should probably make it we have to do press it to activate it then
+D :  Yeah
+A :  So that you just not holding it it it changes that yeah
+B :  "'cause" that it otherwise you know i just holding it in going like this you know
+D :  That squishy
+D :  A squishy
+C :  Well there are so is that sort of a scroll you just have the buttons are on the side which are on the side
+D :  No buttons
+A :  Mm
+B :  Okay
+D :  Yeah you did uh
+A :  Yeah
+B :  Mm
+B :  Mm
+A :  He any other ideas
+C :  Um
+B :  Mm
+C :  Colour
+A :  Oh yeah
+A :  Latex covers
+B :  We have to make sure that the logo all
+B :  Oh we stick say when we put the latex currents we'll have to like have a little square or something
+B :  So that yeah a logo is available
+C :  Well it's sort of like have a the uh yellow strip at the bottom
+C :  With the r. r. like that
+D :  You know
+C :  And uh so the bottom of it
+A :  I think maybe we should do it on um
+A :  Button itself though because people are able to change the covers
+C :  Which buttons
+A :  I dunno maybe on off button something so um
+A :  The menu button i don't know but you know if we're gonna put our company logo on there and somebody could just get
+A :  Another one or they are gonna have a company logo on them
+A :  Every cover
+B :  Yeah i don't think we should do that because that would just be you key um so i think maybe putting another button is probably a good idea
+A :  Yeah
+A :  If we want to be visible and
+A :  Um are all those those ones that you showed it
+A :  Or they were um it's that sold or metallic looking
+C :  Yeah
+A :  But there's a plastic right or not titanium i kind of like that look
+C :  Yeah
+A :  But worth it was really yeah
+B :  For a base one
+A :  For the base or
+A :  If we're going for the right or a look i think like a really shiny black would be cool
+D :  Yeah or like a gun battle great "'cause" they combine it's the silver and black
+A :  Yeah that's
+A :  Kind of grey
+A :  There you go and that would great
+C :  I'm just really where is the putting anything on a button
+A :  Why
+B :  We're off
+C :  What's the button twelve all that was the button do and how do you know that that is what about that
+D :  Yeah buttons wear off
+B :  Uh-huh
+A :  Mm
+C :  Yes
+C :  Just a few examples you just don't ever see the logo on a button at all was on the actual casing
+A :  Right
+D :  Hmm
+B :  There's nothing saying that we have to put the logo on the front
+D :  Well we want it to be seen
+B :  Of the actual
+C :  But you don't
+A :  On the back that visible to the telly though
+C :  But it yeah you don't see uh
+D :  We need to be seen
+A :  "'cause" if it was only on the back really on tennessee it is when you drop it or when you change the battery
+C :  Well
+C :  Yeah
+C :  Yeah option is
+C :  Don't know if you can see it was like if
+A :  I can find it again
+C :  Yeah
+C :  It's like the second last slide
+A :  Okay in yours was called a
+C :  Interface yeah
+A :  Interface concept
+A :  This one
+C :  Um
+A :  For some reason i can give it to just go to that slide directly
+C :  Okay it's the very right one
+C :  You say at the bottom is kind of difficult c. b. have like a sort of
+C :  Division between the bottom like where the logo is and if we have a replaceable section it's like the top
+C :  Doesn't necessarily replace the entire top
+A :  Mm
+C :  Let's see have that one piece to stays in the rest some clips and
+A :  Okay
+A :  Yes
+C :  You're losing it and so that's a say when you have the logo
+A :  Yes
+C :  And then you have this slip like like clubs and and that's a bit changes
+A :  Okay
+B :  Yeah the problem is we're using latex over listen to it actually would go over top of everything and have holes for the buttons
+B :  So i was thinking me be in stating that we could do is leave space for a with a logo should be
+C :  Yeah yeah yeah
+A :  Like a little cut out kind of
+B :  Yeah
+C :  Right
+C :  That's like you know what i can add cell phone it's like the the screen
+A :  Okay
+D :  Right
+C :  It's all was just left open
+C :  And so what are we gonna do it like bright yellow with the r. r.
+D :  Yeah
+D :  Some of the
+A :  Anybody see anything that they liked in these ones
+D :  Well some of those buttons that are blue based um
+D :  All others but that would be useful kind of
+D :  Um
+D :  And then if we do have them although many upon contact eliminate yellow
+C :  You know
+A :  Yellow i like that idea
+D :  Like if we like the one all the way on the left you can you can see it on your computer better
+D :  Um
+D :  With the button is actually blue but the number itself
+D :  Is
+D :  Clear or white or whatever so if you pressed it would all the make yellow
+A :  Mm
+D :  So you're blue and yellow
+D :  The touch buttons
+C :  Oh that one
+A :  I like the yellow elimination idea
+D :  Yeah
+A :  Good
+A :  Okay
+A :  Any other ideas
+A :  Or
+A :  Parts
+C :  Uh-huh
+A :  Nice to be fairly in agreement about what we wanna do with this project so
+C :  Right here
+D :  Yeah
+C :  Oh we catch up
+C :  Do we finalise what buttons or including or did we just everything that we said before
+A :  I think
+A :  There will be time to that later
+B :  Um
+A :  I'm guessing
+A :  Okay well we're gonna write a thought
+A :  Um the next meeting is to the start and thirty minutes
+A :  And here's what we're each of us going to do the ideas going to be the look and feel design the u. i. d. the user interface design
+A :  I think you're going to get a lot of i mean the final say what buttons okay but
+B :  Mm
+A :  Well i'll talk about it but i think that's pretty much we are gonna do right
+C :  Yeah
+A :  And you're gonna do some product evaluation
+A :  A an right now the i. d. in u. i. d. you two are going to work together on a prototype using modelling clay
+B :  Great play doh
+C :  Fine
+A :  Okay and you shall be getting it you know be seen
+B :  Mm
+A :  Well thank you for their project meeting
+B :  Wonderful
+B :  Who um
+B :  Uh-huh
+B :  Um mm
+C :  Uh-huh
+A :  Uh-huh

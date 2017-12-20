@@ -1,0 +1,489 @@
+D :  It's
+A :  Welcome back
+A :  "'s" right come back you're ready
+A :  So this meeting again that would be the detailed
+A :  Design meeting
+A :  And uh
+A :  Opening and the p. of the second of the me minutes uh prototype presentation and from uh this d.
+A :  And the egg me
+B :  Uh yes yes
+A :  This and uh evaluation criteria
+A :  The finance so it's uh from my said from the management and the production evaluation
+A :  Then uh closing so we have uh forty minutes
+A :  To discuss and uh finalise and close though product and project
+A :  And double for that okay
+A :  So
+A :  Okay let's talk about uh maybe a forced to uh
+A :  For the prototype
+C :  Mm okay
+A :  Fine and a two
+C :  I'm gonna presentation but they match covers work that we pass and so
+C :  If i missing anything thing can just
+A :  So shall i go to war
+B :  Thank you so you do
+C :  Correct me
+B :  Powerpoint presentation
+A :  "'kay" to go to
+A :  Yeah mine
+C :  It's not the biggest powerpoint presentation know
+A :  In two or three or
+C :  Three
+C :  Um
+D :  Oh
+C :  I think i saw last one
+D :  Technical
+D :  Yeah yeah that's a
+C :  No but this is a look at that we can
+C :  Final design
+A :  Yep
+C :  It is named appropriately this can see the name
+D :  Mm
+C :  Um okay okay that's
+A :  It's
+C :  Alright so
+C :  From when we were discussing specifying the case in the last meeting we decided that we wanted me ergonomic shapes material that we chose was words
+C :  And that the colour would be customisable "'cause" you can stay in the world
+C :  Whatever colour
+C :  Um
+C :  So in terms of function you have to be able to turn the t. v. on and off volume and channel control menu control voice recognition control
+C :  And we've incorporated the l. c. d. screen on the flat panels part of the design
+C :  If we could read it's too expensive on and off
+C :  Um so
+C :  Two and they all are a lot of products
+C :  This is
+C :  Our remote control
+C :  With a flat panel is you can see
+C :  So if you looked at the panel
+C :  You can see the lovely yellow l. c. d. display
+C :  Um
+C :  Is that a hard to do the yellow button you have is the on off button so it's really big hard to mess
+C :  You have the the red um triangles that that troubles for
+C :  Changing the volume set up
+C :  Volume up down volume down
+C :  The green are the channel changing
+C :  So and that's one of those very like very touchable displays
+C :  And then you have the numeric pads
+C :  In the dark blue at the bottom
+C :  And on the right hand side you have
+C :  The e. access to the menu on the t. v. and on the left hand side
+C :  You have v.
+C :  The the ability to turn off the voice recognition
+C :  So this is pretty much what we had on the whiteboard the last time
+B :  Um and uh uh "'cause"
+C :  Oh yes
+B :  Yeah
+C :  Additional feature on the back
+C :  As you can have your own customised
+C :  Backing i suppose you could do the same thing on the flat case on the facts
+C :  So that you can really make this a highly highly customisable remote control
+B :  We haven't um uh specified where the speaker or the microphone be placed
+B :  That depends um as design the circuit board inside and uh what room is left
+B :  Um
+A :  I think the microphone is on on the top so on but in the and the the flip
+B :  Yes okay
+B :  Aha
+A :  So that would be the same
+A :  So and the the chip it's not on the chip because uh you need to have my remote system
+B :  Nom it depends on the design of the circuit board
+A :  Yes
+C :  We shouldn't be under the flat are there because
+C :  You can have a remote control close but you still might want to
+A :  But it's it's
+C :  Activated via voice
+A :  Yeah but uh
+A :  Oh my oh peeing in it in its but under the flip because when are you want to
+A :  And the talk okay so then you can speak then you can close it
+A :  But if you put it on the on the fly if okay then uh technical uh i don't think it's a feasible
+A :  "'cause" most of the time you speak then it will be recognised
+C :  But if you're already got the remote control your hand need to open the flip to use the voice why use the voice why not just use your hand
+C :  And the whole point of the voices they're of remote control is sitting there and i'm too lazy to reach over and pick it up
+C :  I can just use my voice
+B :  But we have got my hand in the popcorn ball on um holman acapulco call um the other hand
+C :  Yeah
+C :  We don't wanna like of i i
+D :  Nice
+D :  Louder
+C :  I'm a doesn't have to be on a flip it can be on the side somewhere
+D :  Can also be the size
+A :  Yeah the sites maybe some board so that's great
+C :  Yeah
+B :  Uh-huh
+C :  So i mean i can pass this around of
+A :  Yes so it's not a good idea
+C :  Anyone wants to
+B :  Is there a pass around with the napkins
+D :  Nobody use to put a microphone inside it would have no problem would have been of the day mission anything it'd be access of all the time to voice
+C :  Yeah exactly
+A :  So it would be good idea
+B :  So um
+D :  Couple most of the artist
+B :  It's so um
+B :  You did work on the wait a little bit
+D :  Ah
+C :  Yes
+A :  I'm fine i'm side it's a
+C :  And maybe the shape of the buttons the little x. ray cyrus
+A :  I'm satisfied
+C :  The most economical that
+B :  We're glad you're satisfied
+A :  Of course it's it's it's looks more hero heavy but at the minute come to the reality that that's uh that's great
+C :  I mean this is plasticine there's only so much you can do it we could have possibly made of a lot of thing as well
+A :  Yes
+C :  But it's
+C :  Mm part of the thing is that a lot of people say that they don't like something that's too light because they don't feel like they have enough control over it
+C :  I mean maybe this is excessively have a
+C :  I think it needs to have some way it needs to feel like you're still holding something
+C :  So that's pretty much
+C :  It for a presentation actually
+A :  That's your prototype more this
+A :  Okay that's good thing to our much
+A :  So any comments or uh
+D :  On the prototype as israel within the design ideas that we've we've talked about the previous meetings
+D :  Now goes into is is next phase is the financial well
+A :  Yes that the uh
+D :  Marketing uh
+A :  So i'll come back to the
+A :  So evaluation criteria i think uh that would be good so
+A :  And it's compare the finance i have some uh annotations which i made uh as for the
+A :  The budget
+A :  So here you can look alike uh the energy false and uh a hand it hand "'em" all and uh and it taken solar cells
+A :  Uh it's optional some other option uh and uh it was a chip on print that's what uh we were talking about that
+A :  So
+A :  Then we have sample sensor and sample speaker
+A :  Then uh we have the word my t. v.
+A :  Then special colour
+A :  And push button
+A :  So it's uh x. a lot but it was uh four point five euro but uh it's coming to nine point nine four euros so we are and the the the lower the budget
+A :  Okay so still sending some money
+A :  I think it's a good figure
+B :  Yes great but i i'm surprised
+B :  Congratulations
+A :  Okay thank you
+D :  Oh yeah we got them idea it's a real and i have a pen yes yeah yeah
+B :  It's gonna cost a long way to it can cost lot of money the market it as that
+A :  So maybe it's uh some money we can utilise for order uh marketing
+A :  But the say it's okay in the
+D :  Well just depends a over and over
+D :  Oh on this
+D :  Problem
+D :  Provision you're a cost analysis we do not have an l. c. display
+D :  L. c. display is gonna be very expensive can be
+C :  No we do but it's not filled in this number thirty
+D :  Is that doesn't say we don't have the price up there
+B :  Thirty
+C :  Oh yeah yeah you're right sorry yes
+D :  Okay
+D :  So if we had the apartment to do three euro corps
+D :  Remote
+D :  Now or up around about twelve twelve and a half
+D :  As to what uh the company
+D :  And initially uh request it
+B :  That means we can put yeah
+D :  Display in
+B :  The l. c. d. and yeah
+D :  The source of production um i'm putting of a question because we're talking about profit also
+D :  And mine you'll see uh
+D :  The problem with uh our survey that the possibility of how many units can be sold what percentage of the market it's a trendsetter because the cost has to be taken in
+D :  Into consideration
+D :  Oh this is just production class it is not uh advertising classes not transportation car stuff
+A :  Yes so still uh uh we have two point five
+D :  And that will inflate
+A :  Yes
+D :  Quite a bit the cost of the uh uh cost of the unit for the company
+A :  Yeah but
+A :  Yes
+D :  So to come up with what the company wants as a fifty million pound profit
+D :  We have to go one way
+A :  Yes this we are talking about one you want it okay so when it's going to the quantity okay and the cost will come down
+D :  Yes
+D :  Slightly
+B :  Although customisation because this is being and you know and go on on order basis
+D :  Never harder to do this
+B :  Might be uh uh the the quantity well not by the circuit board will you write would be produced in coney but the cost of the case would uh and be fixed at the
+B :  Uh you get some pretty cheap labour they can do this case for one euro
+D :  That's that's that
+B :  Plus really that's the cost the material and i have like uh standing
+A :  But you know still we are under control okay so what uh i will do that so i will try to negotiate with them and that's okay to get the
+A :  The production cost less okay so that we can save some money
+A :  Okay to put in that our marketing or uh a little the promotions whatever okay
+A :  So that uh i will look off to i will speak to the management and how to get to you know some more uh
+A :  Cost on
+D :  If we can go to to my display
+D :  I will come back to your ears
+A :  Yes
+D :  Just to give everybody an idea of the market
+D :  No i mean it's clear but yeah this project
+D :  Different so you're pressing the person yeah
+A :  You and fall
+D :  Yep
+D :  For disney's gonna be uh trendwatch
+A :  Trend watch
+B :  So it's the same when you did before
+B :  Uh-huh
+D :  Should be nice at the right one
+C :  That's
+C :  Now think that's the same one
+D :  No no we are not the same when you have to go back and find another one
+D :  Whatever name a pop-up button or
+D :  Uh functional try function um might not be a t. that but we'll see
+C :  Should know
+C :  That looks like it
+D :  Yep that's it so ago screen my screen
+D :  Well since so uh we need have some time but the uh market uh we had independence day this as it does this market has an availability of the world you'd need a million units per year
+D :  Okay
+D :  Our internal company evaluation put a between eighty nine million which is part of the same as the independence day
+D :  So if we continue
+D :  Look at the findings
+D :  Make screen
+D :  Which means that uh if we have a target of two million with the company has to take twenty five percent of the market in the first year
+D :  Which is actually a tremendous amount
+B :  Yeah okay okay
+D :  No kidding
+B :  But maybe they are really expected something
+D :  So if we put an inflated price of fifty euro later production plastic and exceed twenty five euro okay we're already in that that price
+A :  Yes
+D :  Okay with transport promotion labour because we i mean included a promotion the cost
+D :  Transport for the material to the store the whatever how how we're gonna break this down between or
+D :  Our retailers
+D :  Twenty five percent of the market
+D :  To get to two million units are too many units we have to have a profit of twenty five euro per unit to get to the fifty million euro euro profit
+D :  Okay
+D :  So i was too i just did a rundown the evaluation of the form of thing a fancy stylish most of the of the unit the ease of use speech recognition
+D :  Past we've gone through this now the company most of that anyway
+D :  The feasibility of being able to take in uh for the market
+D :  To justify in production
+D :  Or we project that's over two years
+D :  I've been at the market changes very very quickly maybe there's no more just in buying this thing in eighteen months from
+D :  So
+D :  Now we have to come up with a decision can the company sell two main units
+D :  Can sell it
+D :  For fifty euros
+B :  Could have the findings
+B :  Yeah
+B :  Um
+B :  I would uh like to explore the possibility of using an alternative
+B :  Um delivery in sales channel which could be um see you use the internet
+C :  I was thinking the same thing yeah
+A :  Yes
+B :  For promotion and ordering and then to drop ship the product to the customers residents that we have no storage
+C :  Right right
+B :  You know um you do have transportation
+C :  Uh-huh
+B :  Star the label cost but you don't have the transport to the
+B :  Uh point of sale
+A :  Yes
+C :  Yeah
+B :  The point of sale was on mine
+A :  So it it it's
+C :  Yeah you do shopping centre somewhere or stress you could place shopping centres
+B :  Right like amazon that we should sell through amazon do you think
+C :  To minimise
+C :  Dozens costs
+A :  Or a bit or
+B :  Or a yeah yeah
+A :  Yes
+C :  Yeah
+B :  It's an idea i'm going with the um
+A :  That's right yeah
+A :  Two or more for for it and uh
+D :  Upscale technology
+B :  Oh our work you know selling uh
+D :  Yeah
+B :  Unique product uh
+C :  That actually makes more sense if we're gonna make it so highly customisable don't know where people can look at the different options they have
+C :  See
+C :  Maybe what other people have done know what the range of possibilities as where is if you're in a store
+B :  Mm
+D :  First of october is it going that way
+C :  You can't
+C :  Unless you're highly imagine of per cent you may not really know what it is you want
+C :  Where's on the web if you have a bunch of pictures a construct your ideas and
+B :  Mm
+B :  And you can even have uh in a movie that you can rotate the object and look at that that don't think you're missing really is the you wait
+C :  Yeah
+C :  The weight and you know
+D :  Wait the feel of the product but
+B :  Hmm
+B :  We're getting used to that's not quite like trying an issue you but
+B :  People are getting used to buying things online that they can't touch
+C :  Yeah
+B :  Before time
+D :  There are several that come through of the watches to you can customise a watch you can see how it is that's at the end of the production you can change it to uh
+B :  Mm
+D :  There's a lot of online it's it is doing this now
+D :  We are rotating you look behind like that's why yeah
+D :  As possible do this maybe there's a possible uh selling more than two million units and when you're which
+D :  Feasible you feasibility uh or the price unit
+A :  You can
+B :  Great
+A :  I don't think that's uh huh well the one that's uh
+A :  Okay then uh let's wait for the production a kid and uh you can evaluate the product so i would looks like technique really and uh would look like the the the uh
+C :  What turnaround time doing that
+C :  Can you production evaluation can you very very quick or a very very long
+A :  A part
+A :  It's it's it's very quick of course it will not come back in two weeks
+A :  Okay but not in two weeks
+B :  Works for me
+A :  Whatever it is an okay
+B :  Prototypes you mean
+A :  Yes the prototype our prototype product evaluation
+B :  And um
+B :  Aw should do some market tests uh once we have prototypes into some orders and things like that and
+D :  All these things
+C :  Yeah
+B :  Test market it
+D :  Mm it'd be thrown out on the market for people to get an idea to see
+A :  So you can take a minimum to explore make some four weeks
+D :  Get there
+C :  The minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use
+C :  It's not true uh
+A :  Yeah because we we are not going to do it in our olfactory okay so we can go to a product so this
+C :  No no
+C :  We definitely shouldn't do it in a factory
+A :  Yes yes
+A :  So all do it in the other place
+A :  And i don't think it's take more than four weeks time
+A :  Uh
+A :  Okay so then the the approach and we will start once v. product evaluation
+A :  Okay then uh
+A :  It's uproar from uh
+A :  The technical team and uh
+A :  Your t. okay
+A :  From the management then we can on to the market
+B :  Any outstanding
+A :  So any any uh the the questions or uh comments to be
+A :  Discuss
+C :  Whatever
+B :  No i'm
+D :  I think we've pretty much covered everything
+B :  Uh-huh
+A :  Okay so then uh
+B :  Did you have something
+C :  I was wondering about if we're gonna do product evaluation and one of the time for redesign
+C :  Yeah of
+C :  The users come back and tell us know this is that this is bad we want this done differently
+A :  Okay um let's take it like this that was it with this more to locate for the for the
+A :  Marketing deduction okay so no more changes would be made okay
+A :  In this
+A :  The basic design
+A :  Okay
+A :  We will introduce me this more than and uh let's introduce in the market and let's take the feedback from the customers then
+A :  We can uh i'll go for the
+B :  Second generation
+A :  Second generation
+A :  Okay
+A :  There's not and there's no limit
+C :  The problem is there may not be a second generation of the first generation flops first some silly reason
+A :  Yeah that yeah that that's
+D :  Why not be
+A :  But every customer okay they're how they're all idea
+C :  That we have a lot uh
+D :  Are people like what
+A :  They have their own taste
+A :  Okay so there's no and
+A :  There's no limits
+C :  No but there's a difference is he really saying a product that has then minimally tested and find him to see it
+C :  A general range of requirements first is releasing a product that
+C :  We think will work but we don't really have anything to back it out
+D :  "'cause" very specific
+A :  Yeah so that's it is in your here for the the design okay i hope you made a good design
+C :  Yes but i'm not
+C :  Everybody i mean the whole point uh the user evaluation is to see
+C :  What real people need we have our own motivations in mind we have around ideas in mind but that doesn't mean that that's what's gonna sell
+A :  Yeah but the c. v. how to take a few considerations okay one of the price consideration one of the future consideration okay like uh you can you tell you can or do it more tree like a need more chili okay
+A :  So it's a depends on the individual test
+A :  And also we have we have to balance somewhere
+C :  Yeah of course i'm just trying to point out that i think that your evaluation and redesign to run-time is to
+C :  Short well you had no redesign not you personally but
+A :  Yes
+C :  And the project we have no
+B :  Our project doesn't
+C :  Redesign time and it's
+B :  Um
+B :  Yes
+B :  Do you know what season of the year time of the years the most important for t. v. remote control sales
+B :  Would be the christmas season by any chance
+A :  The sports time
+B :  Sports is
+D :  Room for your role cup
+B :  Which sports season
+A :  Football
+D :  The world soccer
+B :  So
+C :  I
+B :  So
+D :  I can start really need also use it or do we have a hands kayak you buy it maybe give it to the can we go control that's
+A :  Football it
+B :  Maybe what
+B :  So i think what we need to do is perhaps to synchronise v. findable go on to the user tested device with some uh special events
+A :  Yes
+C :  Yeah that's a good idea
+B :  And and then um so that gives us a little more time perhaps then we anticipated because
+B :  I don't know when i woke up this but i'm sure there's gonna be one
+D :  Too many major sports
+B :  Or not it might major sports of that probably not the um the football games coming at the end of january i think that might be a little too aggressive
+B :  Um but
+B :  So i'm just a yeah pointing at uh at uh a a strategy to uh do some additional user testing prior and then to launch
+A :  This so it's
+B :  Um at uh a major sports event or uh perhaps to a also
+C :  That's that's a good place to advertise it sell
+B :  And to work with motion pictures and that might be some motion picture that are coming out
+B :  Um there are coming out on d. v. d. they uh they need
+B :  To have and special remote control the work with it so we could if you work at a campaign with up with sony pictures for example might be some management has got that relationships there we can leverage
+A :  Yes
+C :  Uh-huh
+A :  Yes the the top "'cause" uh i will convince the management to do that
+B :  That's great
+C :  Is it something to to keep in mind is is really really important a lot of products have gone out there without being properly user tested and completely flopped one in fact
+A :  Sure sure
+C :  He gets re released a few years down the line that was proper testing and it takes off like crazy
+B :  Disposable diapers as an example of that in fact
+C :  Really i tried to
+B :  Yes
+B :  It's one of the first consumer products that was launched about thirty years that was the disposable consumer product
+B :  And the people at the market hadn't really
+B :  Button on the the concept that you could use something and then throw it away
+C :  Uh-huh
+B :  "'cause" it wasn't uh
+B :  But then maybe lanston three years later they're virtually the same design
+B :  The people have gotten for a way you know paper cups in yeah you you all kinds of things that
+A :  But it's
+B :  Hadn't um so
+C :  Yeah
+B :  You write timing is very important but i think we've got a good product
+A :  That's it is an ad is yeah i think you can or more the the brand like you
+B :  That's right
+A :  And the power button
+B :  It's gonna be very important to the company
+A :  Yes
+A :  We are behind the scene and he's of friends screen so
+D :  Number one take the heat
+A :  He's on the big screen
+C :  I like it
+B :  Good luck at it
+D :  Yeah so not the market there
+B :  You look very relaxed considering the end of the uh
+D :  Yes
+D :  Yes
+D :  Stress
+B :  Wait on your shoulders yeah
+A :  Okay so then uh let's come to the closing think there are the costs within the budget
+D :  Celebration
+A :  And the the project evaluated okay so that will uh a console
+A :  Okay for it um but that time being said thanks for audio referred send great work and uh a great design
+A :  And uh let's leave it to the uh at a later for once production is
+A :  Or or and i mean the time that's a great
+A :  So let's meet up the this evening to hang up for some party
+B :  Sounds good
+A :  Good
+B :  Thank you nice working with it
+D :  Really
+A :  No
+D :  Thank you very much
+A :  Thank you
+A :  I think a controls
+A :  I see any need for drinks
+D :  Yeah but
+C :  Exactly
+D :  Yeah well okay see you later on
+A :  Okay
