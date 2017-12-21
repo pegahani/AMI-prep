@@ -1,0 +1,56 @@
+minutes : MEANS_OF_WORKING
+minute : MEANS_OF_WORKING
+minutes : MEANS_OF_WORKING
+Mike : MARKETING
+presentation : MEANS_OF_WORKING
+ twelve and a half Euros : MONEY
+ two hundred Euros : MONEY
+volume : DRAWING
+channel : DRAWING
+channels : DRAWING
+button : DRAWING
+button : DRAWING
+ fifty minutes : DURATION
+ Real Reaction : ORGANIZATION
+black : COLOUR
+black : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+black : COLOUR
+yellow : COLOUR
+black : COLOUR
+five : CARDINAL
+Five : CARDINAL
+Nokia : ORGANIZATION
+plastic : MATERIALS
+fluff : MATERIALS
+plastic : MATERIALS
+Blue : COLOUR
+Blue : COLOUR
+red : COLOUR
+green : COLOUR
+plastic : MATERIALS
+square : SHAPE
+rounded : SHAPE
+plastic : MATERIALS
+plastic : MATERIALS
+rounded : SHAPE
+ four centimetres : MEASURE
+wheel : DRAWING
+rounded : SHAPE
+choose : DRAWING
+numbers : DRAWING
+switch : DRAWING
+volume : DRAWING
+volume : DRAWING
+LED : DRAWING
+five : CARDINAL
+five : CARDINAL
+ remote control : DRAWING
+button : DRAWING
+Rubber : MATERIALS
+ one minute : DURATION
+square : SHAPE
+wheel : DRAWING
+yellow : COLOUR
+ Real Reaction : ORGANIZATION

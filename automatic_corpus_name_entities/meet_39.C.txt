@@ -1,0 +1,62 @@
+two : CARDINAL
+slide : MEANS_OF_WORKING
+plastic : MATERIALS
+plastic : MATERIALS
+blue : COLOUR
+red : COLOUR
+green : COLOUR
+ thirty-eight degrees : MEASURE
+ forty degrees : MEASURE
+slide : MEANS_OF_WORKING
+one : CARDINAL
+slide : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+slide : MEANS_OF_WORKING
+ remote controller : DRAWING
+ remote controller : DRAWING
+slide : MEANS_OF_WORKING
+buttons : DRAWING
+ circuit board : DRAWING
+components : DRAWING
+chip : DRAWING
+eighteen : CARDINAL
+capacitor : DRAWING
+three : CARDINAL
+resistors : DRAWING
+resonator : DRAWING
+transistor : DRAWING
+ one eight three five : CARDINAL
+chip : DRAWING
+green : COLOUR
+two : CARDINAL
+green : COLOUR
+things : DRAWING
+resistors : DRAWING
+transistor : DRAWING
+cylinder : SHAPE
+capacitor : DRAWING
+diode : DRAWING
+slide : MEANS_OF_WORKING
+board : DRAWING
+green : COLOUR
+board : DRAWING
+green : COLOUR
+thing : DRAWING
+board : DRAWING
+slide : MEANS_OF_WORKING
+circuits : DRAWING
+black : COLOUR
+round : SHAPE
+marks : DRAWING
+one : CARDINAL
+slide : MEANS_OF_WORKING
+plastic : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+titanium : MATERIALS
+titanium : MATERIALS
+ten : DURATION
+ ten years : DURATION

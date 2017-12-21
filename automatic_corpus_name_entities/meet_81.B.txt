@@ -1,0 +1,16 @@
+function : MEANS_OF_WORKING
+F_ : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+schematic : DRAWING
+source : DRAWING
+chip : DRAWING
+switch : DRAWING
+subcomponent : DRAWING
+bulb : DRAWING
+bulb : DRAWING
+television : DRAWING
+watcher : DRAWING
+five : DURATION
+ ten years : DURATION
+two : CARDINAL

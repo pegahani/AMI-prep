@@ -1,94 +1,17 @@
 import xml.etree.ElementTree as ET
 from collections import Counter
 
-class manage_meeting:
+from meeting import meeting
 
-    def __init__(self,_corpus_type, _meeting):
-
-        self.corpus_type = _corpus_type
-        self.file = None
-        self.meeting = _meeting
-
-    def initializations(self):
-        """if corpus type is manual"""
-        if self.corpus_type == "MAN":
-            self.file = "../../AMI/ami_public_manual"
-        #if corpus type is automatic
-        elif self.corpus_type == "AUT":
-            self.file = "../../AMI/ami_public_auto"
-
-        schema = self.file+ "/corpusResources/meetings.xml"
-
-        if file != None:
-            self.tree_resource = ET.parse(schema)
-            self.root_resources = self.tree_resource.getroot()
-            self.num_meetings = len(self.root_resources.getchildren())
-
-        else:
-            raise ValueError('entered corpus type not exist')
-
-    def get_meeting_list(self):
-
-        self.meeting_list = []
-
-        for i in range(self.num_meetings):
-            self.meeting_list.append(self.root_resources[i].attrib['{http://nite.sourceforge.net/}id'])
-
-        return self.meeting_list
-
-    def get_meeting_id_by_name(self):
-        return self.meeting_list.index(self.meeting)
-
-    def get_participants(self):
-
-        participant = {}
-        _meeting_id = self.get_meeting_id_by_name()
-
-        for child in self.root_resources[_meeting_id].findall('speaker'):
-            participant[child.attrib['nxt_agent']] = child.attrib["global_name"]
-
-        return participant
-
-    def get_files(self):
-
-        words_files = []
-        segments_file = []
-
-        _meeting_id = self.get_meeting_id_by_name()
-        file_name = self.root_resources[_meeting_id].attrib["observation"]
-
-        if self.corpus_type == 'MAN':
-            for key in self.get_participants().iterkeys():
-                words_files.append(self.file + "/words/" + file_name + '.' + key + '.words.xml')
-                segments_file.append(self.file + "/segments/" + file_name + '.' + key+'.segments.xml' )
-
-        elif self.corpus_type == 'AUT':
-            for key in self.get_participants().iterkeys():
-                words_files.append(self.file + "/ASR/ASR_AS_CTM_v1.0_feb07/" + file_name + '.' + key + '.words.xml')
-                segments_file.append(self.file + "/ASR/ASR_AS_CTM_v1.0_feb07/" + file_name + '.' + key+'.segments.xml' )
-
-        return (words_files, segments_file)
-
-    def get_roots_words(self):
-
-        tempo = self.get_files()
-        word_list = tempo[0]
-
-        self.participants = [item for item in self.get_participants().iterkeys()]
-        word_roots = dict.fromkeys(self.participants)
-
-        for item in range(len(self.participants)):
-            tree_ = ET.parse(word_list[item])
-            word_roots[self.participants[item]] = tree_.getroot()
-
-        return word_roots
+class manage_meeting(meeting):
 
     def get_roots_segments(self):
 
-        tempo = self.get_files()
+        #tempo = self.get_files()
         segment_roots = dict.fromkeys(self.participants)
 
-        segment_list = tempo[1]
+        #segment_list = tempo[1]
+        segment_list = self.get_segments_files()
 
         for item in range(len(self.participants)):
             tree = ET.parse(segment_list[item])
@@ -197,51 +120,6 @@ class manage_meeting:
             file.close()
         return
 
-    #takes the href in xml segmentation and separates the start and finish words
-    def get_words_interval_for_speaker(self, tempo):
-
-        start_word = tempo[(tempo.index('(') + len('(')):tempo.index(')')]
-        tempo = tempo[tempo.index(')') + 1:]
-        finish_word = tempo[(tempo.index('..id(') + len('..id(')):tempo.index(')')]
-
-        return (start_word, finish_word)
-
-    def get_word_interval(self, start_word, stop_word, word_root_speaker):
-        """
-        take start word and stop word in word xml file and returns back the generated phrase
-        :param start_word:
-        :param stop_word:
-        :param word_root_speaker:
-        :return:
-        """
-
-        _phrase = ''
-
-        for word in word_root_speaker.iter('w'):
-
-
-            if self.compare_word_id(word.attrib['{http://nite.sourceforge.net/}id'], stop_word) and \
-                    self.compare_word_id( start_word, word.attrib['{http://nite.sourceforge.net/}id'] ):
-                _phrase = _phrase + ' ' + word.text
-
-            if self.compare_word_id(stop_word, word.attrib['{http://nite.sourceforge.net/}id']) :
-                break
-
-        return _phrase
-
-    def compare_word_id(self, param1, param2):
-
-        if len(param1) > len(param2):
-            return False
-        elif len(param1) < len(param2):
-            return True
-        else:
-            #if they have the same size
-            if param1 == param2:
-                return True
-
-        return param1 < param2
-
     def count_segment_length(self, speaker_segment_root):
         """
         it counts the total number of children in xml tree
@@ -271,7 +149,16 @@ class manage_meeting:
 # ex = manage_meeting("AUT", None)
 # ex.generate_all_texts()
 
-ex = manage_meeting("AUT", "meet_130")
+#TODO add speakers roles to text files
+
+
+#TODO change your code for AUTOMATIC part w.r.t some other xml fomrs such as: meet_30, meet_31, meet_51, meet_59
+#TODO meet_112 ...  meet_135 and the rest
+
+#TODO meet_10 and meet_59 return error not found ....
+#TODO meet_14 says that IS1003b.words.xml not exist
+
+ex = manage_meeting("AUT", "meet_1")
 ex.initializations()
 ex.get_meeting_list()
 print ex.meeting_list

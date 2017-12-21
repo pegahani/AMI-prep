@@ -1,0 +1,29 @@
+ function F_ eight : MEANS_OF_WORKING
+Function : MEANS_OF_WORKING
+blue : COLOUR
+button : MEANS_OF_WORKING
+control : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ten : MONEY
+ ten quid : MONEY
+ twenty five : MEASURE
+ thirty five : MEASURE
+ thirty five : MEASURE
+forty-ish : MEASURE
+one : CARDINAL
+notepad : MEANS_OF_WORKING
+one : CARDINAL
+slide : MEANS_OF_WORKING
+ power source : DRAWING
+ power source : DRAWING
+interface : DRAWING
+receiver : DRAWING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+chair : FURNITURE
+one : CARDINAL
+ twenty batteries a month : MEASURE
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL

@@ -1,0 +1,23 @@
+one : CARDINAL
+metal : MATERIALS
+metal : MATERIALS
+metal : MATERIALS
+plastic : MATERIALS
+metal : MATERIALS
+plastic : MATERIALS
+silicon : MATERIALS
+ two hundred foot : MEASURE
+plastic : MATERIALS
+metal : MATERIALS
+plastic : MATERIALS
+laptop : MEANS_OF_WORKING
+Computer : MEANS_OF_WORKING
+one : CARDINAL
+ twelve pou : MONEY
+ twelve fifty Euro : MONEY
+one : CARDINAL
+three : CARDINAL
+four : CARDINAL
+one : CARDINAL
+black : COLOUR
+red : COLOUR

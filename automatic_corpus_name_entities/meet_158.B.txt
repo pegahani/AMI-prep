@@ -1,0 +1,10 @@
+Andre : PROJECT_MANAGER
+Agnes : OTHER
+supervisor : OTHER
+room : DRAWING
+office : DRAWING
+one : CARDINAL
+E_T_P_F_L_ : ORGANIZATION
+room : DRAWING
+cafeteria : DRAWING
+cafeteria : DRAWING

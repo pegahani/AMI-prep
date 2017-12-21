@@ -1,0 +1,42 @@
+one : CARDINAL
+ fifty per cent : PERCENT
+one : CARDINAL
+three : CARDINAL
+two : CARDINAL
+slide : MEANS_OF_WORKING
+Martin : INDUSTRIAL_DESIGNER
+room : DRAWING
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+room : DRAWING
+Bruno : OTHER
+Pierrette : OTHER
+Nikos : OTHER
+Martin : INDUSTRIAL_DESIGNER
+Andrei : PROJECT_MANAGER
+Maria : OTHER
+Yalina : OTHER
+Nancy : OTHER
+two : CARDINAL
+lab : DRAWING
+one : CARDINAL
+one : CARDINAL
+room : DRAWING
+room : DRAWING
+ fifty per cent : PERCENT
+lounge : DRAWING
+ one person : MEASURE
+room : DRAWING
+Maria : OTHER
+Yalina : OTHER
+lounge : DRAWING
+two : CARDINAL
+lounge : DRAWING
+two : CARDINAL
+room : DRAWING
+two : CARDINAL
+room : DRAWING
+one : CARDINAL
+two : CARDINAL
+laptop : MEANS_OF_WORKING
+lounge : DRAWING

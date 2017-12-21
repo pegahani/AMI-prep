@@ -1,0 +1,19 @@
+ ten per cent : PERCENT
+two : CARDINAL
+four : CARDINAL
+three : CARDINAL
+ fifty second : DURATION
+source : DRAWING
+switch : DRAWING
+source : DRAWING
+switch : DRAWING
+bulb : DRAWING
+subcomponent : DRAWING
+chip : DRAWING
+bulb : DRAWING
+schematic : DRAWING
+infra-red : DRAWING
+bulb : DRAWING
+one : CARDINAL
+ ten per cent : PERCENT
+yellow : COLOUR

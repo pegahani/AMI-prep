@@ -1,0 +1,146 @@
+microphones : RECORDING_DEVICES
+rooms : DRAWING
+ one person : MEASURE
+ two person : MEASURE
+ three person : MEASURE
+rooms : DRAWING
+eighteen : CARDINAL
+fifteen : CARDINAL
+rooms : DRAWING
+doors : DRAWING
+walls : DRAWING
+ four years : DURATION
+Gisella : OTHER
+four : CARDINAL
+one : CARDINAL
+ three person : MEASURE
+rooms : DRAWING
+four : CARDINAL
+four : CARDINAL
+one : CARDINAL
+red : COLOUR
+ half an hour : DURATION
+four : CARDINAL
+red : COLOUR
+office : DRAWING
+Susan : MARKETING
+Maggie : OTHER
+Bruno : OTHER
+Pierrette : OTHER
+Marianne : OTHER
+office : DRAWING
+Susan : MARKETING
+office : DRAWING
+lounge : DRAWING
+rooms : DRAWING
+windows : DRAWING
+office : DRAWING
+two : CARDINAL
+Gisella : OTHER
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+room : DRAWING
+slide : MEANS_OF_WORKING
+David : INTERFACE_SPECIALIST
+Pierrette : OTHER
+ three person : MEASURE
+office : DRAWING
+Martin : INDUSTRIAL_DESIGNER
+ three person : MEASURE
+room : DRAWING
+Marianne : OTHER
+Marianne : OTHER
+Nikos : OTHER
+Maria : OTHER
+Yalina : OTHER
+Nancy : OTHER
+office : DRAWING
+Nancy : OTHER
+David : INTERFACE_SPECIALIST
+Agnes : OTHER
+Agnes : OTHER
+Maria : OTHER
+ one and a half : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+offices : DRAWING
+one : CARDINAL
+ one person : MEASURE
+offices : DRAWING
+Susan : MARKETING
+lounge : DRAWING
+room : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+two : CARDINAL
+Three : CARDINAL
+office : DRAWING
+two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+two : CARDINAL
+Maria : OTHER
+Yalina : OTHER
+office : DRAWING
+Martin : INDUSTRIAL_DESIGNER
+Maria : OTHER
+Paola : OTHER
+Paola : OTHER
+Paola : OTHER
+two : CARDINAL
+Martin : INDUSTRIAL_DESIGNER
+Paola : OTHER
+office : DRAWING
+Maria : OTHER
+office : DRAWING
+Paola : OTHER
+Maria : OTHER
+room : DRAWING
+two : CARDINAL
+ fifty per cent : PERCENT
+Paola : OTHER
+three : CARDINAL
+windows : DRAWING
+David : INTERFACE_SPECIALIST
+Maria : OTHER
+Maria : OTHER
+David : INTERFACE_SPECIALIST
+two : CARDINAL
+room : DRAWING
+two : CARDINAL
+Susan : MARKETING
+lounge : DRAWING
+Susan : MARKETING
+Susan : MARKETING
+David : INTERFACE_SPECIALIST
+David : INTERFACE_SPECIALIST
+Maria : OTHER
+Paola : OTHER
+David : INTERFACE_SPECIALIST
+Yalina : OTHER
+June : DATE
+four : CARDINAL
+ two days : DURATION
+doors : DRAWING
+two : CARDINAL
+rooms : DRAWING
+Agnes : OTHER
+Martin : INDUSTRIAL_DESIGNER
+ two days : DURATION
+ three per room : MEASURE
+two : CARDINAL
+two : CARDINAL
+computers : MEANS_OF_WORKING
+chairs : FURNITURE
+blue : COLOUR
+desk : FURNITURE
+light-brown : COLOUR
+lounge : DRAWING
+lounge : DRAWING
+violet : COLOUR
+mailboxes : DRAWING
+box : DRAWING

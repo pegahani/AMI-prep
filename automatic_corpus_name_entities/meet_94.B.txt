@@ -1,0 +1,25 @@
+screen : MEANS_OF_WORKING
+ fifty years : DURATION
+curved : SHAPE
+flat : SHAPE
+metal : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+Wood : MATERIALS
+titanium : MATERIALS
+computer : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+pads : MEANS_OF_WORKING
+Rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+ few hours : DURATION
+mouse : MEANS_OF_WORKING
+transparent : COLOUR
+curves : SHAPE
+documents : MEANS_OF_WORKING
+rubber : MATERIALS
+Rubber : MATERIALS
+Plastic : MATERIALS
+rubber : MATERIALS
+one : CARDINAL

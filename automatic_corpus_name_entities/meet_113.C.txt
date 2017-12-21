@@ -1,0 +1,20 @@
+ twelve and a half Euros : MONEY
+presentation : MEANS_OF_WORKING
+plate : DRAWING
+disks : DRAWING
+button : DRAWING
+button : DRAWING
+LED : DRAWING
+device : DRAWING
+buttons : DRAWING
+source : DRAWING
+button : DRAWING
+chip : DRAWING
+chip : DRAWING
+bulb : DRAWING
+bulb : DRAWING
+button : DRAWING
+button : DRAWING
+plastics : MATERIALS
+high-tech : MATERIALS
+high-tech : MATERIALS

@@ -1,0 +1,33 @@
+Four : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+two : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+Seven : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+Six : CARDINAL
+six : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+Four : CARDINAL
+six : CARDINAL
+ Six point five : CARDINAL
+Seven : CARDINAL
+seven : CARDINAL
+Seven : CARDINAL
+six : CARDINAL
+Thirteen : CARDINAL
+twenty : CARDINAL
+ twenty six point five : CARDINAL
+seven : CARDINAL
+ thirty two : CARDINAL
+ thirty six : CARDINAL
+Six : CARDINAL
+seven : CARDINAL
+six : CARDINAL
+six : CARDINAL

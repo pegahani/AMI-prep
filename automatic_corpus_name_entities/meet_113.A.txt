@@ -1,0 +1,38 @@
+ air conditioning : INCIDENTAL
+ air conditioning : INCIDENTAL
+ couple of days : DURATION
+minutes : MEANS_OF_WORKING
+ forty minutes : DURATION
+ seven minutes : DURATION
+ forty minutes : DURATION
+One : CARDINAL
+ Project Manager : PROJECT_MANAGER
+forty : MEASURE
+ Marketing uh Expert : MARKETING
+forty : MEASURE
+two : CARDINAL
+three : CARDINAL
+ forty percent : PERCENT
+Holland : LOCATION
+forty : MEASURE
+fifty : MEASURE
+few : CARDINAL
+few : CARDINAL
+one : CARDINAL
+zero : CARDINAL
+Sony : ORGANIZATION
+Few : CARDINAL
+titanium : MATERIALS
+plastic : MATERIALS
+forty : MEASURE
+eighty : MEASURE
+sixty : MEASURE
+sixty : MEASURE
+eighty : MEASURE
+Sixty : MEASURE
+ five minutes : DURATION
+minutes : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+coach : OTHER

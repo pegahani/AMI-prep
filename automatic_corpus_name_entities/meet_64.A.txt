@@ -1,0 +1,36 @@
+ Rose Lindgren : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+ twenty five minutes : DURATION
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+Amina : INDUSTRIAL_DESIGNER
+Alima : INDUSTRIAL_DESIGNER
+Alima : INDUSTRIAL_DESIGNER
+whiteboard : MEANS_OF_WORKING
+one : CARDINAL
+Rose : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+California : LOCATION
+coyote : DRAWING
+snout : DRAWING
+teeth : DRAWING
+California : LOCATION
+ twenty five Euro : MONEY
+ fifteen million Euro : MONEY
+ twelve fifty Euro : MONEY
+five : CARDINAL
+one : CARDINAL
+one : CARDINAL
+five : CARDINAL
+one : CARDINAL
+ thirty minutes : DURATION
+twenty : DURATION
+ industrial design : INDUSTRIAL_DESIGNER
+Alima : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+coach : EXPERIMENTER
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL

@@ -1,0 +1,41 @@
+Hamed : INTERFACE_SPECIALIST
+Bob : MARKETING
+Fabien : PROJECT_MANAGER
+two : CARDINAL
+board : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+one : CARDINAL
+seven : MEASURE
+seven : MEASURE
+seven : MEASURE
+ seven inch : MEASURE
+two : CARDINAL
+ seven to seven centimetres : MEASURE
+ seven to seven : MEASURE
+ seven inch : MEASURE
+one : CARDINAL
+ seven to seven centimetres : MEASURE
+ seven inches : MEASURE
+ seven to seven inches : MEASURE
+ seven centimetres : MEASURE
+ seven inches : MEASURE
+ one fourth : CARDINAL
+four : CARDINAL
+ Seven to seven : MEASURE
+ three millimetres : MEASURE
+ seven to seven : MEASURE
+ three to five centimetres : MEASURE
+ Five to ten : MEASURE
+one : CARDINAL
+ five to ten : MEASURE
+ five to ten : MEASURE
+ Five by ten : MEASURE
+ five by ten : MEASURE
+ Seven to ten : MEASURE
+square : SHAPE
+four : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ seven to seven inches : MEASURE
+two : CARDINAL
+two : CARDINAL

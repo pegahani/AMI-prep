@@ -1,0 +1,34 @@
+base : CONSTRUCTED
+ gunmetal gray : COLOUR
+plastic : MATERIALS
+latex : MATERIALS
+cover : CONSTRUCTED
+red : COLOUR
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+blue : COLOUR
+blue : COLOUR
+yellow : COLOUR
+button : CONSTRUCTED
+one : CARDINAL
+button : CONSTRUCTED
+bottom : CONSTRUCTED
+logo : CONSTRUCTED
+yellow : COLOUR
+side : CONSTRUCTED
+buttons : CONSTRUCTED
+one : CARDINAL
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+Thumb-shaped : SHAPE
+black : COLOUR
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+one : CARDINAL
+four : CARDINAL
+plastic : MATERIALS
+ twenty nine : CARDINAL
+Two : CARDINAL
+whiteboard : MEANS_OF_WORKING
+one : CARDINAL

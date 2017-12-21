@@ -1,0 +1,23 @@
+Frank : MARKETING
+swordfish : DRAWING
+black : COLOUR
+Sheep : DRAWING
+blue : COLOUR
+dot : DRAWING
+butts : DRAWING
+animal : DRAWING
+animals : DRAWING
+thingy : DRAWING
+ User Interface Designer : INTERFACE_SPECIALIST
+rabbit : DRAWING
+Garfield : OTHER
+message : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+minutes : MEANS_OF_WORKING
+one : CARDINAL
+ Half an hour : DURATION

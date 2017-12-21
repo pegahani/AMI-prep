@@ -1,0 +1,51 @@
+Kate : INDUSTRIAL_DESIGNER
+drive : MEANS_OF_WORKING
+ forty minutes : DURATION
+ twenty five after two : TIME
+ forty minutes : DURATION
+ five after three : TIME
+four : CARDINAL
+Sarah : MARKETING
+fifteen : MEASURE
+ thirty five year : MEASURE
+Steph : INTERFACE_SPECIALIST
+Kate : INDUSTRIAL_DESIGNER
+whiteboard : MEANS_OF_WORKING
+ twelve and a half Pence : MONEY
+fifteen : MEASURE
+ thirty five : MEASURE
+Sarah : MARKETING
+Steph : INTERFACE_SPECIALIST
+Kate : INDUSTRIAL_DESIGNER
+three : CARDINAL
+Sarah : MARKETING
+Kate : INDUSTRIAL_DESIGNER
+Sarah : MARKETING
+three : CARDINAL
+four : CARDINAL
+Kate : INDUSTRIAL_DESIGNER
+ forty minutes : DURATION
+Kate : INDUSTRIAL_DESIGNER
+yellow : COLOUR
+ ten minutes : DURATION
+Kate's : INDUSTRIAL_DESIGNER
+Kate : INDUSTRIAL_DESIGNER
+three : CARDINAL
+ five minutes : DURATION
+wood : MATERIALS
+plastic : MATERIALS
+titanium : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+curves : SHAPE
+wood : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+Plastic : MATERIALS
+ couple minutes : DURATION
+ thirty minutes : DURATION
+ thirty minutes : DURATION
+Kate : INDUSTRIAL_DESIGNER
+Steph : INTERFACE_SPECIALIST
+two : CARDINAL
+clay : MODELLING_STUFF

@@ -1,0 +1,107 @@
+prototype : CONSTRUCTED
+two : CARDINAL
+Cat's : MARKETING
+product : CONSTRUCTED
+Cat : MARKETING
+ forty minutes : DURATION
+ fifteen thirty five : TIME
+four : TIME
+fifteen : TIME
+ four fifteen : TIME
+buttons : CONSTRUCTED
+thing's : CONSTRUCTED
+rubber : MATERIALS
+Six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+wheel : CONSTRUCTED
+black : COLOUR
+yellow : COLOUR
+intermediate : COLOUR
+couple : CARDINAL
+Wales : LOCATION
+ Marketing Expert : MARKETING
+one : MEASURE
+seven : MEASURE
+Seven : MEASURE
+Six : MEASURE
+locator : CONSTRUCTED
+six : MEASURE
+numbers : CONSTRUCTED
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL
+Five : MEASURE
+five : MEASURE
+Six : MEASURE
+Six : MEASURE
+seven : MEASURE
+slide : MEANS_OF_WORKING
+components : CONSTRUCTED
+five : MEASURE
+six : MEASURE
+remote : CONSTRUCTED
+one : MEASURE
+seven : MEASURE
+ Fifty one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+Six : MEASURE
+ six point five : MEASURE
+Computer : MEANS_OF_WORKING
+prototype : CONSTRUCTED
+presentation : MEANS_OF_WORKING
+spreadsheet : MEANS_OF_WORKING
+One : CARDINAL
+single-curved : SHAPE
+Case : CONSTRUCTED
+rubber : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+wood : MATERIALS
+zero : MONEY
+pushbutton : CONSTRUCTED
+ Scroll wheel : CONSTRUCTED
+pushbutton : CONSTRUCTED
+wheel's : CONSTRUCTED
+display : CONSTRUCTED
+pushbutton : CONSTRUCTED
+one : CARDINAL
+pushbutton : CONSTRUCTED
+button : CONSTRUCTED
+ twelve point five : MONEY
+locator : CONSTRUCTED
+ one fifty : MONEY
+ scroll wheel : CONSTRUCTED
+L_C_ : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+ point three : MONEY
+three : CARDINAL
+Play-Doh : MODELLING_STUFF
+pen : MEANS_OF_WORKING
+banana : CONSTRUCTED
+ ten minutes : DURATION
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+one : CARDINAL
+whiteboard : MEANS_OF_WORKING
+notes : MEANS_OF_WORKING
+banana : CONSTRUCTED
+remote : CONSTRUCTED
+Google : ORGANIZATION
+ remote control : CONSTRUCTED
+ One Euro : MONEY
+file : MEANS_OF_WORKING
+ five minutes : DURATION
+pink : COLOUR
+blue : COLOUR
+board : COLOUR

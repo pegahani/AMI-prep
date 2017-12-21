@@ -1,0 +1,53 @@
+Nathan : INDUSTRIAL_DESIGNER
+Nathan : INDUSTRIAL_DESIGNER
+Nathan : INDUSTRIAL_DESIGNER
+Sarah : MARKETING
+Ron : INTERFACE_SPECIALIST
+Ron : INTERFACE_SPECIALIST
+three : CARDINAL
+Nathan : INDUSTRIAL_DESIGNER
+ twelve fifty : MONEY
+fift : PERCENT
+ hundred per cent : PERCENT
+ seventeen fifty : MONEY
+two : CARDINAL
+ thirty five : MONEY
+ eight zillion : CARDINAL
+ twenty-five Euros : MONEY
+ twenty five : MONEY
+thirty : MONEY
+Ron : INTERFACE_SPECIALIST
+seventeen : MONEY
+Nathan : INDUSTRIAL_DESIGNER
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Ron : INTERFACE_SPECIALIST
+lithium : MATERIALS
+Ron : INTERFACE_SPECIALIST
+Apple : ORGANIZATION
+glass : MATERIALS
+white : COLOUR
+aluminium : MATERIALS
+wood : MATERIALS
+plastics : MATERIALS
+rubber : MATERIALS
+pen : INCIDENTAL
+plastic : MATERIALS
+ovoidal : SHAPE
+three : CARDINAL
+four : CARDINAL
+four : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+eighteen : MEASURE
+ thirty five year : MEASURE
+wood : COLOUR
+wood : COLOUR
+ olive green : COLOUR
+ half an hour : DURATION
+Nathan : INDUSTRIAL_DESIGNER
+Ron : INTERFACE_SPECIALIST
+coaches : EXPERIMENTER

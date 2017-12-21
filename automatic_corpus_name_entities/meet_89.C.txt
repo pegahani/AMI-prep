@@ -1,0 +1,36 @@
+control : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+Shift : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+function : MEANS_OF_WORKING
+Louisa : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+two : CARDINAL
+two : CARDINAL
+remotes : DRAWING
+remote : DRAWING
+remote : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+triangles : SHAPE
+squares : SHAPE
+section : DRAWING
+bit : DRAWING
+nine : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+six : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+six : CARDINAL
+two : CARDINAL
+five : CARDINAL
+Sky : ORGANIZATION
+one : CARDINAL
+ fifty five : CARDINAL
+nine's : CARDINAL
+one : CARDINAL
+zero : CARDINAL
+nine : CARDINAL

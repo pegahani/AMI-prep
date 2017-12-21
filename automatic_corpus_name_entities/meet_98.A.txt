@@ -1,0 +1,41 @@
+ few minutes : DURATION
+ forty minutes : DURATION
+company : COLOUR
+ Marketing Expert : MARKETING
+hundred : CARDINAL
+ User Interface Designer : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+couple : CARDINAL
+Marketing : MARKETING
+banana : SHAPE
+second : DURATION
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+bone : SHAPE
+ per hundred thousand : MEASURE
+titanium : MATERIALS
+Arizona : LOCATION
+Edinburgh : LOCATION
+rubbery : MATERIALS
+plastic : MATERIALS
+rubbery : MATERIALS
+Yellow : COLOUR
+grey : COLOUR
+yellow : COLOUR
+curved : SHAPE
+grey : COLOUR
+presentation : MEANS_OF_WORKING
+couple : CARDINAL
+ five minutes : DURATION
+plasticky : MATERIALS
+plastic : MATERIALS
+rubbery : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+ thirty minutes : DURATION
+Ryan : INTERFACE_SPECIALIST
+Manuel : INDUSTRIAL_DESIGNER
+Corrine : MARKETING
+two : CARDINAL
+two : CARDINAL

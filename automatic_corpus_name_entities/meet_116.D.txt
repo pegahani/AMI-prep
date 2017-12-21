@@ -1,0 +1,24 @@
+Plate : RECORDING_DEVICES
+computers : MEANS_OF_WORKING
+ F_ eleven : MEANS_OF_WORKING
+Folder : MEANS_OF_WORKING
+dinosaurs : DRAWING
+one : CARDINAL
+water : DRAWING
+animal : DRAWING
+animal : DRAWING
+water : DRAWING
+water : DRAWING
+animal : DRAWING
+fish : DRAWING
+worm : DRAWING
+Paul : OTHER
+pig : DRAWING
+dog : DRAWING
+sheep : DRAWING
+pen : MEANS_OF_WORKING
+ Half past ten : TIME
+ twenty uh Euros : MONEY
+Paul : OTHER
+ Marketing Expert : MARKETING
+Paul : OTHER

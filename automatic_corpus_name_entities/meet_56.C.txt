@@ -1,0 +1,29 @@
+whiteboard : MEANS_OF_WORKING
+ twenty five minutes : DURATION
+ eleven twenty five : TIME
+three : CARDINAL
+laptops : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pen's : MEANS_OF_WORKING
+ears : DRAWING
+dog : DRAWING
+Estonia : LOCATION
+cow : DRAWING
+Jen : PROJECT_MANAGER
+gecko : DRAWING
+Cambodia : LOCATION
+Australia : LOCATION
+Australia : LOCATION
+Melbourne : LOCATION
+ Project Manager : PROJECT_MANAGER
+ five minutes : DURATION
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+U_K_ : LOCATION
+ twelve and a half Euro : MONEY
+ couple of minutes : DURATION
+one : CARDINAL
+ thirty minutes : DURATION
+ half an hour : DURATION
+laptops : MEANS_OF_WORKING

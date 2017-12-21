@@ -1,0 +1,28 @@
+ couple years : DURATION
+sixteen : MONEY
+one : CARDINAL
+cord : MEANS_OF_WORKING
+technology : MEANS_OF_WORKING
+stuff : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+coach : EXPERIMENTER
+four : CARDINAL
+board : MEANS_OF_WORKING
+ six months' : DURATION
+ three hours' : DURATION
+mics : RECORDING_DEVICES
+wires : RECORDING_DEVICES
+slide : MEANS_OF_WORKING
+square : SHAPE
+box : SHAPE
+car : SHAPE
+ two minute : DURATION
+slides : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+one : CARDINAL
+apple : CONSTRUCTED
+red : COLOUR
+button : CONSTRUCTED
+eighties : DATE
+ ninety four : DATE
+States : LOCATION

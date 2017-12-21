@@ -1,0 +1,65 @@
+report : MEANS_OF_WORKING
+three : CARDINAL
+presentations : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+one : CARDINAL
+doubly : CARDINAL
+curved : SHAPE
+Rubber : MATERIALS
+doubly : CARDINAL
+curved : SHAPE
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+Arrow : DRAWING
+bright : COLOUR
+singly : CARDINAL
+curved : SHAPE
+doubly : CARDINAL
+curved : SHAPE
+single : CARDINAL
+curved : SHAPE
+ one hand : MEASURE
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+rubber : MATERIALS
+two : CARDINAL
+ergonomical : SHAPE
+female : SHAPE
+two : CARDINAL
+primary : COLOUR
+Buttons : DRAWING
+Orange : COLOUR
+yellow : COLOUR
+Banana : COLOUR
+yellow : COLOUR
+red : COLOUR
+green : COLOUR
+buttons : DRAWING
+Blue : COLOUR
+green : COLOUR
+Red : COLOUR
+Black : COLOUR
+ five minutes : DURATION
+LEDs : DRAWING
+red : COLOUR
+LEDs : DRAWING
+number : DRAWING
+transparent : COLOUR
+two : CARDINAL
+smartboard : MEANS_OF_WORKING
+ thirty minutes : DURATION
+two : CARDINAL
+page : MEANS_OF_WORKING
+ thirty minutes : DURATION
+board : MEANS_OF_WORKING
+Jesus : OTHER
+ few minutes : DURATION
+ Five minutes : DURATION
+flip : DRAWING
+flip : DRAWING
+two : CARDINAL
+product : DRAWING

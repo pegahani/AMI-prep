@@ -1,0 +1,16 @@
+ User Interface Design : INTERFACE_SPECIALIST
+sheep : DRAWING
+beaver : DRAWING
+wings : DRAWING
+snail : DRAWING
+legs : DRAWING
+giraffe : DRAWING
+dinosaur : DRAWING
+Giraffe : DRAWING
+rabbit : DRAWING
+dolphin : DRAWING
+eraser : MEANS_OF_WORKING
+Britain : LOCATION
+B_B_C_ : ORGANIZATION
+ five minutes : DURATION
+interface : INTERFACE_SPECIALIST

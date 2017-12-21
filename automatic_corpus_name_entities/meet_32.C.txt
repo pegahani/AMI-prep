@@ -1,0 +1,91 @@
+two : CARDINAL
+prototypes : CONSTRUCTED
+display : CONSTRUCTED
+joystick : CONSTRUCTED
+joystick-like : CONSTRUCTED
+button : CONSTRUCTED
+microphone : CONSTRUCTED
+system : CONSTRUCTED
+switch : CONSTRUCTED
+array : CONSTRUCTED
+microphone : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+switch : CONSTRUCTED
+system : CONSTRUCTED
+charger : CONSTRUCTED
+prototype : CONSTRUCTED
+fifteen : MONEY
+ fifteen dollars : MONEY
+ fifteen dollars : MONEY
+prototype : CONSTRUCTED
+ ten dollars : MONEY
+charger : CONSTRUCTED
+one : CARDINAL
+ remote control : CONSTRUCTED
+charger : CONSTRUCTED
+button : CONSTRUCTED
+Norman : INTERFACE_SPECIALIST
+version : CONSTRUCTED
+button : CONSTRUCTED
+version : CONSTRUCTED
+microphone : CONSTRUCTED
+four : CARDINAL
+buttons : CONSTRUCTED
+one : CARDINAL
+button : CONSTRUCTED
+button : CONSTRUCTED
+ remote control : CONSTRUCTED
+ four dollars : MONEY
+system : CONSTRUCTED
+Norman : INTERFACE_SPECIALIST
+Norman : INTERFACE_SPECIALIST
+two : CARDINAL
+modules : CONSTRUCTED
+ remote control : CONSTRUCTED
+module : CONSTRUCTED
+modules : CONSTRUCTED
+module : CONSTRUCTED
+buttons : CONSTRUCTED
+titanium : MATERIALS
+ four dollars : MONEY
+charger : CONSTRUCTED
+ two dollars : MONEY
+microphone : CONSTRUCTED
+systems : CONSTRUCTED
+ Two dollars : MONEY
+modules : CONSTRUCTED
+ three dollars : MONEY
+charger : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+ two dollar : MONEY
+two : MONEY
+four : MONEY
+four : MONEY
+two : MONEY
+two : MONEY
+ fifteen dollars : MONEY
+four : CARDINAL
+buttons : CONSTRUCTED
+sponge : MATERIALS
+three : MEASURE
+four : MEASURE
+three : MEASURE
+L_C_D_ : CONSTRUCTED
+five : MEASURE
+six : MEASURE
+five : MEASURE
+Norman : INTERFACE_SPECIALIST
+six : MEASURE
+six : MEASURE
+L_C_D_ : CONSTRUCTED
+few : CARDINAL
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+six : MEASURE
+Six : MEASURE
+six : MEASURE
+three : CARDINAL
+pieces : CONSTRUCTED
+module : CONSTRUCTED
+prototype : CONSTRUCTED
+presentation : MEANS_OF_WORKING

@@ -1,0 +1,26 @@
+minutes : MEANS_OF_WORKING
+ marketing manager : MARKETING
+ marketing manager : MARKETING
+ technical manager : INDUSTRIAL_DESIGNER
+Francino : INDUSTRIAL_DESIGNER
+ interface designer : INDUSTRIAL_DESIGNER
+T-shaped : SHAPE
+three : CARDINAL
+slides : MEANS_OF_WORKING
+two : CARDINAL
+Three : CARDINAL
+Nine : CARDINAL
+Nine : CARDINAL
+Nine : CARDINAL
+ five minutes : DURATION
+ thirty minutes : DURATION
+I_D_ : INTERFACE_SPECIALIST
+U_I_D_ : INTERFACE_SPECIALIST
+ marketing expert : MARKETING
+two : CARDINAL
+Jana : INDUSTRIAL_DESIGNER
+Francine : INTERFACE_SPECIALIST
+clay : MODELLING_STUFF
+coaches : EXPERIMENTER
+coach : EXPERIMENTER
+ thirty minutes : DURATION

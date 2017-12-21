@@ -1,0 +1,28 @@
+Six : CARDINAL
+Five : CARDINAL
+six : CARDINAL
+three : CARDINAL
+three : CARDINAL
+ two Euros : MONEY
+one : CARDINAL
+two : CARDINAL
+curve : SHAPE
+curved : SHAPE
+curve : SHAPE
+curved : SHAPE
+curve : SHAPE
+curve : SHAPE
+curved : SHAPE
+ fourteen point six Euros : MONEY
+ eleven Euros sixty : MONEY
+ twelve Euros fifty : MONEY
+One : CARDINAL
+buttons : MEANS_OF_WORKING
+ Loch Ness : LOCATION
+cool : SHAPE
+two : CARDINAL
+button : MEANS_OF_WORKING
+Eleven : MONEY
+ couple of days : DURATION
+board : MEANS_OF_WORKING
+four : CARDINAL

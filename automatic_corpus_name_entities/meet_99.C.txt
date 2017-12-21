@@ -1,0 +1,48 @@
+prototype : CONSTRUCTED
+banana : INCIDENTAL
+yellow : COLOUR
+banana : INCIDENTAL
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+grips : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+screen : CONSTRUCTED
+one : CARDINAL
+beam : CONSTRUCTED
+switch : CONSTRUCTED
+blue : COLOUR
+bits : CONSTRUCTED
+yellow : COLOUR
+Play-Doh : MODELLING_STUFF
+scroll : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+curved : SHAPE
+angles : SHAPE
+one : CARDINAL
+four : CARDINAL
+controls : CONSTRUCTED
+channel : CONSTRUCTED
+volume : CONSTRUCTED
+ bright yellow : COLOUR
+ Bright yellow's : COLOUR
+yellow : COLOUR
+rectangle : SHAPE
+three : MEASURE
+four : MEASURE
+million : CARDINAL
+Two : MEASURE
+ two point four two eight five : MEASURE
+ Two point four two : MEASURE
+ three hundred quid : MONEY
+integrated : CONSTRUCTED
+one : CARDINAL
+single : CARDINAL
+button : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+display : CONSTRUCTED
+display's : CONSTRUCTED
+display : CONSTRUCTED
+Screen : CONSTRUCTED
+yellow : COLOUR
+whiteboard : MEANS_OF_WORKING

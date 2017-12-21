@@ -1,0 +1,27 @@
+computer : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+ interface design designer : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+button : MEANS_OF_WORKING
+Raj : MARKETING
+ twenty five : MEASURE
+ thirty five : MEASURE
+ F_ five : MEANS_OF_WORKING
+two : CARDINAL
+ remote controls : DRAWING
+grey : COLOUR
+buttons : DRAWING
+silver : COLOUR
+ F_ five : MEANS_OF_WORKING
+box : SHAPE
+Raj : MARKETING
+ ten percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+ seven inch : MEASURE
+ seven inches : MEASURE
+one : CARDINAL
+thingamibobsy : MEANS_OF_WORKING
+rubber : MATERIALS
+yellow : COLOUR

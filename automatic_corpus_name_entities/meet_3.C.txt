@@ -1,0 +1,27 @@
+slides : MEANS_OF_WORKING
+red : COLOUR
+ eighty word : MEASURE
+eighty : CARDINAL
+eighty : CARDINAL
+hundred : CARDINAL
+ten : CARDINAL
+twelve : CARDINAL
+hundred : CARDINAL
+three : CARDINAL
+four : CARDINAL
+Joe : OTHER
+two : CARDINAL
+six : MEASURE
+ six volt : MEASURE
+ three volts : MEASURE
+ twelve point five Euro : MONEY
+wood : MATERIALS
+wood : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+Two : CARDINAL
+One : CARDINAL
+one : CARDINAL

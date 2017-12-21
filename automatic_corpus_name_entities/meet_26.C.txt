@@ -1,0 +1,26 @@
+ F_ five : MEANS_OF_WORKING
+two : CARDINAL
+two : CARDINAL
+five : CARDINAL
+two : CARDINAL
+five : CARDINAL
+Two : CARDINAL
+Ramaro : INDUSTRIAL_DESIGNER
+one : CARDINAL
+five : CARDINAL
+ Marketing Expert : MARKETING
+ User Interface : INTERFACE_SPECIALIST
+ User Interface : INTERFACE_SPECIALIST
+ Marketing Expert : MARKETING
+battery : DRAWING
+battery : DRAWING
+chip : DRAWING
+ five Euros : MONEY
+millions : CARDINAL
+eight : CARDINAL
+three : CARDINAL
+one : CARDINAL
+chip : DRAWING
+ twelve point five Euros : MONEY
+ one hour : DURATION
+Mark : INTERFACE_SPECIALIST

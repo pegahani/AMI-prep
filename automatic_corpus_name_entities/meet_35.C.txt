@@ -1,0 +1,27 @@
+presentation : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+curved : SHAPE
+rubber : MATERIALS
+plastic : MATERIALS
+titanium : MATERIALS
+wood : MATERIALS
+titanium's : MATERIALS
+curved : SHAPE
+titanium : MATERIALS
+Apple : ORGANIZATION
+wood : MATERIALS
+woods : MATERIALS
+woods : MATERIALS
+wood : MATERIALS
+ several hundred years : DURATION
+Ed : MARKETING
+copper : MATERIALS
+foam : MATERIALS
+rubber : MATERIALS
+ball : SHAPE
+wood : MATERIALS
+Ed : MARKETING
+display : DRAWING
+display : DRAWING
+wooden : MATERIALS
+rubber : MATERIALS

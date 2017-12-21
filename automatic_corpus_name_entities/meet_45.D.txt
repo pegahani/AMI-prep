@@ -1,0 +1,6 @@
+ Tarik Rahman : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+elephant : DRAWING
+tiger : DRAWING
+orange : COLOUR
+Bangladesh : LOCATION

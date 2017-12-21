@@ -1,0 +1,42 @@
+ Freek Van Ponnen : MARKETING
+ Market Expert : MARKETING
+ one hundred : CARDINAL
+three : CARDINAL
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+ Fifty percent : PERCENT
+ ten percent : PERCENT
+ fifty percent : PERCENT
+ten : MEASURE
+one : MEASURE
+ten : MEASURE
+nine : MEASURE
+ six and a half : MEASURE
+one-time : MEASURE
+ One hundred and sixty eight times per hour : MEASURE
+ sixty percent : PERCENT
+sixteen : MEASURE
+ forty f six : MEASURE
+ forty six : MEASURE
+ sixty five years : MEASURE
+ forty percent : PERCENT
+sixteen : MEASURE
+ forty five : MEASURE
+ one quarter : CARDINAL
+ thirty four percent : PERCENT
+two : CARDINAL
+ ten percent : PERCENT
+few : CARDINAL
+sixteen : MEASURE
+ twenty five : MEASURE
+ forty five : MEASURE
+forty : MEASURE
+ twenty years : DURATION
+forty : MEASURE
+sixteen : MEASURE
+ forty five : MEASURE
+forty : MEASURE
+one : CARDINAL
+zero : CARDINAL
+ thirty five : CARDINAL
+ fifty percent : PERCENT

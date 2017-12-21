@@ -1,0 +1,95 @@
+agenda : MEANS_OF_WORKING
+minutes : MEANS_OF_WORKING
+prototype : CONSTRUCTED
+two : CARDINAL
+ Marketing Experts : MARKETING
+ twelve point five uh uh Euro : MONEY
+minutes : MEANS_OF_WORKING
+camera : RECORDING_DEVICES
+button : CONSTRUCTED
+wheel : CONSTRUCTED
+leaves : CONSTRUCTED
+antennas : CONSTRUCTED
+cells : CONSTRUCTED
+batteries : CONSTRUCTED
+station : CONSTRUCTED
+slide : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING
+six : MEASURE
+seven : MEASURE
+Six : MEASURE
+seven : MEASURE
+Five : MEASURE
+ six point five : MEASURE
+Seven : MEASURE
+seven : MEASURE
+seven : MEASURE
+six : MEASURE
+ six point five : MEASURE
+Four : MEASURE
+four : MEASURE
+Five : MEASURE
+Four : MEASURE
+Four : MEASURE
+Seven : MEASURE
+Six : MEASURE
+six : MEASURE
+seven : MEASURE
+six : MEASURE
+Seven : MEASURE
+Seven : MEASURE
+Seven : MEASURE
+banana : CONSTRUCTED
+ Twenty five Euros : MONEY
+Europe : LOCATION
+U_K_ : LOCATION
+Five : MEASURE
+two : MEASURE
+five : MEASURE
+two : CARDINAL
+five : MEASURE
+six : MEASURE
+five : MEASURE
+Three : MEASURE
+six : MEASURE
+five : MEASURE
+four : MEASURE
+zero : MEASURE
+one : MEASURE
+two : MEASURE
+Two : MEASURE
+three : MEASURE
+five : MEASURE
+two : MEASURE
+three : MEASURE
+two : MEASURE
+ three point five : MEASURE
+five : MEASURE
+connectors : CONSTRUCTED
+sheet : MEANS_OF_WORKING
+ twelve point five : MONEY
+one : MONEY
+banana : CONSTRUCTED
+banana : CONSTRUCTED
+one : MONEY
+curved : SHAPE
+two : CARDINAL
+one : MONEY
+one : MONEY
+plastic : MATERIALS
+eleven : MONEY
+rubber : MATERIALS
+yellow : COLOUR
+three : CARDINAL
+two : CARDINAL
+scroll : CONSTRUCTED
+three : CARDINAL
+buttons : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+buttons : CONSTRUCTED
+button : CONSTRUCTED
+two : MONEY
+battery : CONSTRUCTED
+battery : CONSTRUCTED
+ white board : MEANS_OF_WORKING
+ digital pen : MEANS_OF_WORKING

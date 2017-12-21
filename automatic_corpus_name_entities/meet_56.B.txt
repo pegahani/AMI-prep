@@ -1,0 +1,12 @@
+Cat : MARKETING
+rabbit : DRAWING
+rabbit : DRAWING
+rabbit : DRAWING
+blue : COLOUR
+blue : COLOUR
+pink : COLOUR
+ Marketing Expert : MARKETING
+Leicester : LOCATION
+pink : COLOUR
+rabbit : DRAWING
+lizard : DRAWING

@@ -1,0 +1,5 @@
+ industrial design : INDUSTRIAL_DESIGNER
+ user interface : INTERFACE_SPECIALIST
+ industrial design : INDUSTRIAL_DESIGNER
+ users interface designers : INTERFACE_SPECIALIST
+four : CARDINAL

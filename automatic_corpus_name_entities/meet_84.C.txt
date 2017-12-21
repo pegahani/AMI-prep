@@ -1,0 +1,10 @@
+cat : DRAWING
+ratty : DRAWING
+ratty : DRAWING
+clothes : DRAWING
+clothes : DRAWING
+ratty : DRAWING
+tail : DRAWING
+whiskers : DRAWING
+shark : DRAWING
+five : CARDINAL

@@ -1,0 +1,78 @@
+one : CARDINAL
+minutes : MEANS_OF_WORKING
+one : CARDINAL
+ remote controls : DRAWING
+iPod : DRAWING
+ M_P_ three players : DRAWING
+ remote con control : DRAWING
+one : CARDINAL
+few : CARDINAL
+buttons : DRAWING
+base : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+On-off : DRAWING
+mute : DRAWING
+two : CARDINAL
+buttons : DRAWING
+button : DRAWING
+buttons : DRAWING
+display : DRAWING
+iPod : DRAWING
+buttons : DRAWING
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+ten : CARDINAL
+two : CARDINAL
+buttons : DRAWING
+volume : DRAWING
+scrolls : DRAWING
+volume : DRAWING
+buttons : DRAWING
+rubber : MATERIALS
+buttons : DRAWING
+two : CARDINAL
+curved : SHAPE
+square : SHAPE
+Black : COLOUR
+yellow : COLOUR
+black : COLOUR
+yellow : COLOUR
+one : CARDINAL
+rubber : MATERIALS
+buttons : DRAWING
+transparent : COLOUR
+Blue : COLOUR
+red : COLOUR
+ two D_ : MEASURE
+rubber : MATERIALS
+Titanium : MATERIALS
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+board : MEANS_OF_WORKING
+ thirty minutes : DURATION
+ thirty minutes : DURATION
+black : COLOUR
+plastic : MATERIALS
+ grey black : COLOUR
+one : CARDINAL
+one : CARDINAL
+round : SHAPE
+iPod : DRAWING
+rounded : SHAPE
+rounded : SHAPE
+curves : SHAPE
+Curves : SHAPE
+curves : SHAPE
+iPod : DRAWING
+light : COLOUR
+light : COLOUR
+rubber : MATERIALS
+ M_P_ three player : DRAWING
+ M_ P_ three player : DRAWING
+iPod : DRAWING
+wheel : DRAWING
+wheel : DRAWING
+iPod : DRAWING

@@ -1,0 +1,28 @@
+ forty minutes : DURATION
+ Twenty-five Euros : MONEY
+black : COLOUR
+yellow : COLOUR
+three : CARDINAL
+two : CARDINAL
+three : CARDINAL
+Pedro : INTERFACE_SPECIALIST
+ twenty-five Euros : MONEY
+Pedro's : INTERFACE_SPECIALIST
+four : CARDINAL
+twelve-fifty : MONEY
+twelve-fifty : MONEY
+Hitachi : ORGANIZATION
+one : CARDINAL
+four-digit : CARDINAL
+one : CARDINAL
+ Real Reaction : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ few minutes : DURATION
+ twenty-five Euros : MONEY
+fifteen : MONEY
+twenty-five : MONEY
+ five minutes : DURATION
+ Real Reactions : ORGANIZATION
+one : CARDINAL
+Pedro : INTERFACE_SPECIALIST
+eighties : DATE

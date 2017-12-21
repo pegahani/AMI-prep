@@ -1,0 +1,31 @@
+red : COLOUR
+black : COLOUR
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ function F_ eight : MEANS_OF_WORKING
+polymers : MATERIALS
+plastics : MATERIALS
+white : COLOUR
+laptops : MEANS_OF_WORKING
+plastic : MATERIALS
+Nathan : INDUSTRIAL_DESIGNER
+ User Interface Developer : INTERFACE_SPECIALIST
+ function F_ eight : MEANS_OF_WORKING
+Ron : INTERFACE_SPECIALIST
+Sarah : MARKETING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+plastic : MATERIALS
+Sarah : MARKETING
+ seventy five percent : PERCENT
+ thirty five : MEASURE
+plastics : MATERIALS
+Ron : INTERFACE_SPECIALIST
+ seven P_M_ : TIME
+Nokia : ORGANIZATION
+ten : CARDINAL
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+folder : MEANS_OF_WORKING

@@ -1,0 +1,19 @@
+ Project Manager : PROJECT_MANAGER
+ Christa Pavlov : PROJECT_MANAGER
+whiteboard : TIME
+rabbit : DRAWING
+rabbit : DRAWING
+human : DRAWING
+worm : DRAWING
+ Christa Pavlov : PROJECT_MANAGER
+fish : DRAWING
+ twelve fifty Euros : MONEY
+Three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+ twenty five : CARDINAL
+ten : CARDINAL
+ thirty minutes : DURATION
+ thirty minutes : DURATION

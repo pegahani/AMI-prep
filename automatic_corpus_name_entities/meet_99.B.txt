@@ -1,0 +1,35 @@
+plastic : MATERIALS
+Plastic : MATERIALS
+rubber : MATERIALS
+button : CONSTRUCTED
+button : CONSTRUCTED
+chrome : MATERIALS
+ three feet : MEASURE
+one : MEASURE
+one : MEASURE
+yellow : COLOUR
+one : CARDINAL
+one : CARDINAL
+remote : CONSTRUCTED
+ remote control : CONSTRUCTED
+one : CARDINAL
+Two : MEASURE
+one : MEASURE
+One : MEASURE
+four : MEASURE
+L_C_D_ : CONSTRUCTED
+ Fifty percent : PERCENT
+Two : CARDINAL
+four : CARDINAL
+Double : CARDINAL
+curved : SHAPE
+Plastic : MEASURE
+one : CARDINAL
+one : CARDINAL
+single : CARDINAL
+buttons : CONSTRUCTED
+wood : MATERIALS
+mahogany : MATERIALS
+titanium : MATERIALS
+One : CARDINAL
+ half a day : DURATION

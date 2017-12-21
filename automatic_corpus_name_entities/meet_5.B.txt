@@ -1,0 +1,16 @@
+thing : RECORDING_DEVICES
+cables : RECORDING_DEVICES
+ twenty-five minutes : DURATION
+drawing : DRAWING
+orangutan : DRAWING
+orangutan : DRAWING
+red : COLOUR
+red : COLOUR
+red : COLOUR
+beast : DRAWING
+monster : DRAWING
+cat : DRAWING
+Caramel : OTHER
+bong : DRAWING
+ five minutes : DURATION
+ Half an hour : DURATION

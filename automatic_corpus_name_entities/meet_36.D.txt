@@ -1,0 +1,30 @@
+prototype : CONSTRUCTED
+two : MONEY
+ three Euro : MONEY
+twelve : MONEY
+ twelve and a half : MONEY
+ fifty million Pound : MONEY
+display : MEANS_OF_WORKING
+four : CARDINAL
+ eight mi eight million units per year : MEASURE
+eight : MEASURE
+ nine million : MEASURE
+ two million : CARDINAL
+ twenty five percent : PERCENT
+year : DURATION
+ fifty Euro : MONEY
+ twenty-five Euro : MONEY
+ Twenty-five percent : PERCENT
+ two million : CARDINAL
+ two million : CARDINAL
+ twenty-five Euro : MONEY
+ fifty million unit Eu Euro : MONEY
+unit : CONSTRUCTED
+ two years : DURATION
+thing : CONSTRUCTED
+ eighteen months : DURATION
+ two million : CARDINAL
+ fifty Euros : MONEY
+ two million : CARDINAL
+ one year : DURATION
+wood : MATERIALS

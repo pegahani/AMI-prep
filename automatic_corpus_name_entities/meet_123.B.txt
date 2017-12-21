@@ -1,0 +1,151 @@
+prototype : DRAWING
+ remote control : DRAWING
+green : COLOUR
+fresh : COLOUR
+screen : DRAWING
+ light blue : COLOUR
+button : DRAWING
+microphone : DRAWING
+logo : DRAWING
+button : DRAWING
+thing : DRAWING
+screen : DRAWING
+numbers : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+one : CARDINAL
+two : CARDINAL
+button : DRAWING
+page : DRAWING
+sound : DRAWING
+mute : DRAWING
+indicator : DRAWING
+knop : DRAWING
+knop : DRAWING
+green : COLOUR
+logo : DRAWING
+ smart board : MEANS_OF_WORKING
+curve : SHAPE
+green : COLOUR
+two : MEASURE
+one : MEASURE
+one : MEASURE
+one : MEASURE
+screen : DRAWING
+microphone : DRAWING
+rubber : MATERIALS
+one : MEASURE
+screen : DRAWING
+screen : DRAWING
+two : MEASURE
+button : DRAWING
+two : MEASURE
+Three : MEASURE
+ Two and a half : MEASURE
+Three : MEASURE
+one : MEASURE
+seven : MEASURE
+wood : MATERIALS
+rubber : MATERIALS
+rubber : MEASURE
+three : MEASURE
+Two : MEASURE
+six : MEASURE
+two : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+Two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+screen : DRAWING
+microphone's : DRAWING
+remote : DRAWING
+two : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+ R_ and R_ yellow : COLOUR
+One : MEASURE
+remote : DRAWING
+two : MEASURE
+twos : MEASURE
+twos : MEASURE
+One : CARDINAL
+three : MEASURE
+few : CARDINAL
+ones : MEASURE
+Two : CARDINAL
+threes : MEASURE
+twos : MEASURE
+ eight o'clock : TIME
+ eight o'clock : TIME
+sheet : MEANS_OF_WORKING
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+One : CARDINAL
+single : CARDINAL
+single : CARDINAL
+rubber : MATERIALS
+Thirteen : MONEY
+Fifteen : MONEY
+fifteen : MONEY
+curve : SHAPE
+curve : SHAPE
+ scroll wheel : DRAWING
+curve : SHAPE
+curve : SHAPE
+table : FURNITURE
+ Sixteen point three : MONEY
+single : CARDINAL
+curved : SHAPE
+uncurved : SHAPE
+titanium : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+three : MONEY
+ point three : MONEY
+wood : MATERIALS
+green : COLOUR
+rubber : COLOUR
+rubber : MATERIALS
+green : COLOUR
+green : COLOUR
+rubber : MATERIALS
+ scroll wheel : DRAWING
+rubber : MATERIALS
+black : COLOUR
+four : CARDINAL
+five : CARDINAL
+one : CARDINAL
+one : CARDINAL
+curved : SHAPE
+single : CARDINAL
+curve : SHAPE
+one : MONEY
+microphone : DRAWING
+mic : DRAWING
+half : CARDINAL
+presentation : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+ ten minutes : DURATION
+one : CARDINAL
+ ten minutes : DURATION
+ ten minutes : DURATION
+screen : MEANS_OF_WORKING
+screen : DRAWING
+screen : DRAWING
+laptops : MEANS_OF_WORKING
+ Five minutes : DURATION
+Three : CARDINAL

@@ -1,0 +1,17 @@
+ F_ eight : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+ function eight : MEANS_OF_WORKING
+ User Interface Designer : INTERFACE_SPECIALIST
+two : CARDINAL
+single : CARDINAL
+single : CARDINAL
+single : CARDINAL
+single : CARDINAL
+fifteen : MEASURE
+ twenty five year : MEASURE
+ twenty five Euros : MONEY
+twenties : MEASURE
+Twenties : MEASURE
+glow-in-the-dark : MATERIALS
+ Real Reaction : ORGANIZATION
+glow-in-the-dark : MATERIALS

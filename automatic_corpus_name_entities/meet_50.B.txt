@@ -1,0 +1,20 @@
+screen's : MEANS_OF_WORKING
+black : CARDINAL
+one : CARDINAL
+three : CARDINAL
+Marketing : MARKETING
+F_N_ : MEANS_OF_WORKING
+ function F_ eight : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+ F_ function : MEANS_OF_WORKING
+Sky : ORGANIZATION
+rubber : MATERIALS
+rubber : MATERIALS
+Japan : LOCATION
+one : CARDINAL
+one : CARDINAL
+ two days : DURATION
+five : CARDINAL
+six : CARDINAL
+ ten o'clock : TIME
+seventeenth : DATE

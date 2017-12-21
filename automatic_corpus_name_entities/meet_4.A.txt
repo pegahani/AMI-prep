@@ -1,0 +1,101 @@
+pen's : MEANS_OF_WORKING
+seats : FURNITURE
+seat : FURNITURE
+Jo's : EXPERIMENTER
+remote : CONSTRUCTED
+sixteen : MONEY
+ thirteen Euros : MONEY
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+two : CARDINAL
+whiteboard : MEANS_OF_WORKING
+ eight Euros : MONEY
+pink : COLOUR
+green : COLOUR
+one : CARDINAL
+pen : MEANS_OF_WORKING
+one's : CARDINAL
+seven's : CARDINAL
+one's : CARDINAL
+seven's : CARDINAL
+One's : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+Four : CARDINAL
+Battery's : INCIDENTAL
+battery : INCIDENTAL
+battery : INCIDENTAL
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+plasticine : MODELLING_STUFF
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+Two : CARDINAL
+seven : CARDINAL
+screen : CONSTRUCTED
+one : CARDINAL
+one : CARDINAL
+ Eight Euros : MONEY
+ sixteen Euros : MONEY
+two : CARDINAL
+One : CARDINAL
+Two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+Three : CARDINAL
+four : CARDINAL
+Three : CARDINAL
+three's : CARDINAL
+twenty : MEASURE
+ forty year : MEASURE
+ few Euros : MONEY
+screen : CONSTRUCTED
+screen : CONSTRUCTED
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+six : CARDINAL
+nine : CARDINAL
+five : CARDINAL
+five : CARDINAL
+nine : CARDINAL
+five : CARDINAL
+ one point s eight : CARDINAL
+eleven : CARDINAL
+thirteen : CARDINAL
+nineteen : CARDINAL
+ twenty one : CARDINAL
+five : CARDINAL
+ four point two : CARDINAL
+two : CARDINAL
+twelve : CARDINAL
+curved : SHAPE
+two : CARDINAL
+curved : SHAPE
+curved : SHAPE
+curves : SHAPE
+curved : SHAPE
+ five minutes : DURATION
+ sixteen Euros : MONEY
+seven : CARDINAL
+seven : CARDINAL
+ three Francs : MONEY
+ three Euros : MONEY
+ twelve Euro fifty : MONEY
+two : MONEY
+ ten fifty : MONEY
+ seven fifty : MONEY
+ seven fifty : MONEY
+ Project Manager : PROJECT_MANAGER

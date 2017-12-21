@@ -1,0 +1,50 @@
+presentation : MEANS_OF_WORKING
+seven : CARDINAL
+Nineties : DATE
+slides : MEANS_OF_WORKING
+six : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+presentation : MEANS_OF_WORKING
+wall : MEANS_OF_WORKING
+wall : MEANS_OF_WORKING
+ fifty years : DURATION
+Sixty : DURATION
+fifty : DURATION
+nineties : DATE
+ Steven Spielberg : OTHER
+slide : MEANS_OF_WORKING
+Wednesday : DATE
+three : CARDINAL
+three : CARDINAL
+Scorsese's : OTHER
+nineties : DATE
+F_B_I_ : ORGANIZATION
+Anthony : OTHER
+ Anthony Hop Hopkins : OTHER
+ ninety one : DATE
+ Ninety one : DATE
+twelve : MEASURE
+thirteen : MEASURE
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+projector : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+Denis : INDUSTRIAL_DESIGNER
+Denis : INDUSTRIAL_DESIGNER
+fifty : CARDINAL
+copy : MEANS_OF_WORKING
+Normandy : LOCATION
+Ryan : OTHER
+ John Miller : OTHER
+Ryan : OTHER
+ Tom Hanks : OTHER
+ Tom Hanks : OTHER
+whiteboard : MEANS_OF_WORKING
+six : CARDINAL
+six : CARDINAL
+May : DATE
+May : DATE
+Ascension : DATE
+ Twenty nine : DATE

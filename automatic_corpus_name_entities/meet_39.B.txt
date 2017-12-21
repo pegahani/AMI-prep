@@ -1,0 +1,33 @@
+ Interface designer : INDUSTRIAL_DESIGNER
+slide : MEANS_OF_WORKING
+Three : CARDINAL
+three : CARDINAL
+ interface designer : INTERFACE_SPECIALIST
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+nine : CARDINAL
+nine : CARDINAL
+slide : MEANS_OF_WORKING
+one : CARDINAL
+interface : DRAWING
+interface : DRAWING
+slide : MEANS_OF_WORKING
+remotes : DRAWING
+slide : MEANS_OF_WORKING
+interface : DRAWING
+remote : DRAWING
+slide : MEANS_OF_WORKING
+interface : DRAWING
+remote : DRAWING
+interface : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+interface : DRAWING
+slide : MEANS_OF_WORKING
+remote : DRAWING
+ remote control : DRAWING
+interface : DRAWING
+one : CARDINAL
+ eight o'clock : TIME

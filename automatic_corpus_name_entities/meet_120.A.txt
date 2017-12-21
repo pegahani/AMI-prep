@@ -1,0 +1,56 @@
+ few minutes : DURATION
+ Project Manager : PROJECT_MANAGER
+two : CARDINAL
+things : MEANS_OF_WORKING
+black : COLOUR
+laptop : MEANS_OF_WORKING
+cameras : RECORDING_DEVICES
+cameras : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+ Project Manager : PROJECT_MANAGER
+three : CARDINAL
+two : CARDINAL
+tools : MEANS_OF_WORKING
+cameras : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+two : CARDINAL
+things : MEANS_OF_WORKING
+boards : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+boards : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ tool bar : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+blue : COLOUR
+five : CARDINAL
+three : CARDINAL
+one : CARDINAL
+thing : DRAWING
+turtle : DRAWING
+snail : DRAWING
+turtle : DRAWING
+rabbits : DRAWING
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+ twelve Euro fifty : MONEY
+ thirty minutes : DURATION
+laptop : MEANS_OF_WORKING
+ five minutes : DURATION
+ Marketing Expert : MARKETING
+ User Interface Designer : INTERFACE_SPECIALIST
+ Interface Designer : INTERFACE_SPECIALIST
+ Interaction Designer : INTERFACE_SPECIALIST
+I_D_ : INDUSTRIAL_DESIGNER
+ Interface Designer : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+one : CARDINAL
+ thirty minutes : DURATION

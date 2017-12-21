@@ -1,0 +1,14 @@
+ few minutes : DURATION
+Sebastian : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+three : CARDINAL
+tools : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+Guillermo : MARKETING
+Hemant : INDUSTRIAL_DESIGNER
+ twenty-five Euro : MONEY
+ fifty million Euros : MONEY
+three : DURATION
+ three minutes : DURATION
+ market person : MARKETING

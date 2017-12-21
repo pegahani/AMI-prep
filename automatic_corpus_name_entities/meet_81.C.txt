@@ -1,0 +1,8 @@
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+one : CARDINAL

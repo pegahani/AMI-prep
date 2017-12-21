@@ -1,0 +1,15 @@
+folder : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+ function F_ eight : MEANS_OF_WORKING
+blue : CARDINAL
+silver : COLOUR
+gold : COLOUR
+yellow : COLOUR
+silver : COLOUR
+yellow : COLOUR
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+four : CARDINAL
+ five thousand : CARDINAL
+ thirty minutes : DURATION

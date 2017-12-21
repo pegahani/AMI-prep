@@ -1,0 +1,16 @@
+Rabbit : DRAWING
+white : MEANS_OF_WORKING
+cobra : DRAWING
+Chris : PROJECT_MANAGER
+fish : DRAWING
+ two million : CARDINAL
+black : COLOUR
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+one : CARDINAL
+Marketing : MARKETING

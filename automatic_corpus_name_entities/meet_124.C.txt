@@ -1,0 +1,15 @@
+pen : MEANS_OF_WORKING
+line : DRAWING
+turtle : DRAWING
+shell : DRAWING
+legs : DRAWING
+nails : DRAWING
+tail : DRAWING
+holes : DRAWING
+animal : DRAWING
+cat : DRAWING
+face : DRAWING
+cat : DRAWING
+animal : DRAWING
+three : CARDINAL
+two : CARDINAL

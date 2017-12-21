@@ -1,0 +1,57 @@
+prototype : CONSTRUCTED
+seven : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+prototype : CONSTRUCTED
+ Real Reactions' : ORGANIZATION
+One : CARDINAL
+Seven : CARDINAL
+eight : CARDINAL
+prototype : CONSTRUCTED
+Adam : PROJECT_MANAGER
+one : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ Real Reactions : ORGANIZATION
+four : CARDINAL
+ three million : CARDINAL
+ three million : CARDINAL
+White : COLOUR
+black : COLOUR
+four : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+three : CARDINAL
+two : CARDINAL
+Three : CARDINAL
+Three : CARDINAL
+six : CARDINAL
+Four : CARDINAL
+yellow : COLOUR
+Five : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+five : CARDINAL
+seven : CARDINAL
+ten : CARDINAL
+sixteen : CARDINAL
+ twenty one : CARDINAL
+three : CARDINAL
+seven : CARDINAL
+four : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+three : CARDINAL
+seven : CARDINAL
+two : CARDINAL

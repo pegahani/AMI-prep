@@ -1,0 +1,33 @@
+Raj : MARKETING
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+blue : COLOUR
+blue : COLOUR
+ Function F_ eight : MEANS_OF_WORKING
+ twenty five : MEASURE
+ thirty five : MEASURE
+two : CARDINAL
+escape : MEANS_OF_WORKING
+one : CARDINAL
+ twelve fifty : MONEY
+black : COLOUR
+white : COLOUR
+latex : MATERIALS
+latex : MATERIALS
+plastic : MATERIALS
+silver : COLOUR
+double-curved : SHAPE
+pennies : MONEY
+ fifty million Euros : MONEY
+plastic : MATERIALS
+fruitish : SHAPE
+ half a dozen : CARDINAL
+Raj : MARKETING
+Raj : MARKETING
+clay : MODELLING_STUFF
+clay : MODELLING_STUFF
+difficult : SHAPE
+simple : SHAPE
+ half an hour : DURATION

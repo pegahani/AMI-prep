@@ -1,0 +1,25 @@
+one : CARDINAL
+ Real Reaction : ORGANIZATION
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+one : CARDINAL
+slide : MEANS_OF_WORKING
+fruit : SHAPE
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+curved : SHAPE
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+Nokia : ORGANIZATION
+rubber : MATERIALS
+rubber : MATERIALS
+curves : SHAPE
+curve : SHAPE
+Plasticine : MODELLING_STUFF
+curve : SHAPE
+curve : SHAPE

@@ -1,0 +1,39 @@
+three : CARDINAL
+ User Interface Designer : INTERFACE_SPECIALIST
+ David Jordan : INTERFACE_SPECIALIST
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+six : CARDINAL
+five : CARDINAL
+one : CARDINAL
+and : CARDINAL
+four : CARDINAL
+three : CARDINAL
+four : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+Baba : INDUSTRIAL_DESIGNER
+France : LOCATION
+England : LOCATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Two : CARDINAL
+Baba's : INDUSTRIAL_DESIGNER
+wood : MATERIALS
+wood : MATERIALS
+ five minutes : DURATION
+four : CARDINAL
+wood : MATERIALS
+wood : MATERIALS
+two : CARDINAL
+one : CARDINAL
+wood : MATERIALS
+ thirty meeti minutes : DURATION
+Baba : INDUSTRIAL_DESIGNER
+Baba : INDUSTRIAL_DESIGNER
+ David Jordan : INTERFACE_SPECIALIST
+clay : MODELLING_STUFF

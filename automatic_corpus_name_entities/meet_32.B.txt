@@ -1,0 +1,75 @@
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+Guillaume : INDUSTRIAL_DESIGNER
+two : CARDINAL
+prototypes : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+One : CARDINAL
+one : CARDINAL
+L_C_D_s : CONSTRUCTED
+charger : CONSTRUCTED
+module : CONSTRUCTED
+buttons : CONSTRUCTED
+microphone : CONSTRUCTED
+microphone : CONSTRUCTED
+two : CARDINAL
+charger : CONSTRUCTED
+single : CARDINAL
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+ three hundred and sixty degrees : MEASURE
+single : CARDINAL
+button : CONSTRUCTED
+single : CARDINAL
+button : CONSTRUCTED
+ three hundred and sixty degree : MEASURE
+version : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+version : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+prototype : CONSTRUCTED
+charger : CONSTRUCTED
+charger : CONSTRUCTED
+module : CONSTRUCTED
+charger : CONSTRUCTED
+ Marketing Manager : MARKETING
+controller : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+ speech recogniser : CONSTRUCTED
+microphone : CONSTRUCTED
+microphone : CONSTRUCTED
+ speech recogniser : CONSTRUCTED
+system : CONSTRUCTED
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+ speech recogniser : CONSTRUCTED
+Titanium : MATERIALS
+charger : CONSTRUCTED
+buttons : CONSTRUCTED
+designer : OTHER
+prototype : CONSTRUCTED
+few : CARDINAL
+buttons : CONSTRUCTED
+product : CONSTRUCTED
+six : MEASURE
+seven : MEASURE
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+module : CONSTRUCTED
+buttons : CONSTRUCTED
+ speech recogniser : CONSTRUCTED
+module : CONSTRUCTED
+component : CONSTRUCTED
+control : CONSTRUCTED
+couple : CARDINAL
+ Marketing Manag : MARKETING
+product : CONSTRUCTED
+add-ons : CONSTRUCTED
+Microsoft : ORGANIZATION
+modules : CONSTRUCTED

@@ -1,0 +1,34 @@
+ few days : DURATION
+Milan : LOCATION
+Paris : LOCATION
+half : CARDINAL
+sixty : MEASURE
+ eighty y years : MEASURE
+dark : COLOUR
+wood : MATERIALS
+telephone-shaped : SHAPE
+two : CARDINAL
+one : CARDINAL
+wood-like : COLOUR
+one : CARDINAL
+grey-black : COLOUR
+wood-like : COLOUR
+grey-black : COLOUR
+flat : SHAPE
+board : MEANS_OF_WORKING
+SMARTboard : MEANS_OF_WORKING
+wooden : COLOUR
+wood : MATERIALS
+wood-coloured : COLOUR
+one : CARDINAL
+wooden : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+wood : MATERIALS
+plastic : MATERIALS
+flat : SHAPE
+curved : SHAPE
+curved : SHAPE
+curved : SHAPE
+one : CARDINAL
+round : SHAPE

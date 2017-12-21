@@ -1,0 +1,37 @@
+screen : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+yellow : COLOUR
+button : CONSTRUCTED
+red : COLOUR
+ two seconds : DURATION
+screen : CONSTRUCTED
+jog-dial : CONSTRUCTED
+ five centimetres : MEASURE
+L_C_D_ : CONSTRUCTED
+jog-dial : CONSTRUCTED
+one : CARDINAL
+thing : CONSTRUCTED
+one : CARDINAL
+one : CARDINAL
+rubber : MATERIALS
+ones : MONEY
+curved : SHAPE
+one : MONEY
+one : CARDINAL
+rubber : MATERIALS
+twelve : CARDINAL
+one : CARDINAL
+five : CARDINAL
+One's : CARDINAL
+two : CARDINAL
+three : CARDINAL
+Eight : CARDINAL
+three : CARDINAL
+one : CARDINAL
+five : CARDINAL
+plastic : MATERIALS
+ ten cents : MONEY
+ Ninja Homer : CONSTRUCTED
+Play-Doh : MODELLING_STUFF
+two-year-olds : MEASURE

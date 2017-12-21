@@ -1,0 +1,10 @@
+notes : MEANS_OF_WORKING
+Zenith : OTHER
+ fifty years : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+slide : MEANS_OF_WORKING
+Titanium : MATERIALS
+titanium : MATERIALS
+titanium : MATERIALS
+ Industrial Designer's : INDUSTRIAL_DESIGNER
+slide : MEANS_OF_WORKING

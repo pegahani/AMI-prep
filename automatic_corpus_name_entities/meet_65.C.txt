@@ -1,0 +1,17 @@
+plug : MEANS_OF_WORKING
+ function F_ eight : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+two : CARDINAL
+examples : DRAWING
+control : DRAWING
+buttons : DRAWING
+two : CARDINAL
+Apple've : ORGANIZATION
+States : LOCATION
+hundred : CARDINAL
+ nineteen eighties : DATE
+yellow : COLOUR
+twelve : MONEY
+ twelve and a half Euros : MONEY
+ twelve and a half Euros : MONEY
+one : CARDINAL

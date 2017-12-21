@@ -1,0 +1,12 @@
+one : CARDINAL
+ten : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ hundred and fifty pounds : MONEY
+ twenty five Euros : MONEY
+one : CARDINAL
+drawing : DRAWING
+ five Euro : MONEY
+four : CARDINAL
+three : CARDINAL

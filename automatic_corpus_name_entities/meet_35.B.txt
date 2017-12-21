@@ -1,0 +1,25 @@
+plastic : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+ One point three : CARDINAL
+slide : MEANS_OF_WORKING
+ergonomic : SHAPE
+Christine's : INDUSTRIAL_DESIGNER
+straight : SHAPE
+wood : MATERIALS
+switch : DRAWING
+displays : DRAWING
+pad : DRAWING
+ remote control : DRAWING
+light : DRAWING
+flip : DRAWING
+wood : MATERIALS
+screen : DRAWING
+screen : DRAWING
+ remote control : DRAWING
+ remote control : DRAWING
+pad : DRAWING
+pad : DRAWING
+ remote control : DRAWING
+pad : DRAWING
+wood : MATERIALS

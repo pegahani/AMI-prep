@@ -1,0 +1,33 @@
+Martin : OTHER
+mountains : DRAWING
+town : DRAWING
+windows : DRAWING
+lines : DRAWING
+windows : DRAWING
+town : DRAWING
+ three p person : MEASURE
+rooms : DRAWING
+three : CARDINAL
+lounge : DRAWING
+ fifty per cents : PERCENT
+room : DRAWING
+secretary : OTHER
+ two person : MEASURE
+room : DRAWING
+Pierrette : OTHER
+Martin : OTHER
+ fifty per cent : PERCENT
+ three piece : MEASURE
+room : DRAWING
+ fifty per cent : PERCENT
+room : DRAWING
+single : MEASURE
+ fifty per cent : PERCENT
+three : CARDINAL
+ two person : MEASURE
+rooms : DRAWING
+Paola : OTHER
+office : DRAWING
+three : CARDINAL
+room : DRAWING
+three : MEASURE

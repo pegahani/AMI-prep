@@ -1,0 +1,4 @@
+arrow : MEANS_OF_WORKING
+badger : DRAWING
+Brian : OTHER
+Sony : ORGANIZATION

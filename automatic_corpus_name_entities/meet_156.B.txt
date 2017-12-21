@@ -1,0 +1,133 @@
+ISSCO : ORGANIZATION
+ three weeks : DURATION
+ November second : DATE
+Tuesday : DATE
+nine : CARDINAL
+eighteen : CARDINAL
+fifteen : CARDINAL
+two : CARDINAL
+two : CARDINAL
+ three people : MEASURE
+five : CARDINAL
+ two person : MEASURE
+two : CARDINAL
+two : CARDINAL
+ one person : MEASURE
+building : DRAWING
+room : DRAWING
+courtyard : DRAWING
+windows : DRAWING
+bathrooms : DRAWING
+elevators : DRAWING
+hall : DRAWING
+purple : COLOUR
+bar : DRAWING
+mail-boxes : DRAWING
+windows : DRAWING
+terrace : DRAWING
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+Andre : OTHER
+one : CARDINAL
+Susan : OTHER
+Gisella : OTHER
+office : DRAWING
+wall : DRAWING
+hall : DRAWING
+map : DRAWING
+half-circular : SHAPE
+ quater circles : SHAPE
+doors : DRAWING
+one : CARDINAL
+two : CARDINAL
+doors : DRAWING
+ three person : MEASURE
+room : DRAWING
+room : DRAWING
+eighteen : CARDINAL
+fifteen : CARDINAL
+two : CARDINAL
+half : CARDINAL
+Martin : OTHER
+David : OTHER
+half : CARDINAL
+E_P_F_L_ : ORGANIZATION
+Geneva : LOCATION
+Gisella's : OTHER
+administrator : OTHER
+ two person : MEASURE
+room : DRAWING
+ hundred percent : PERCENT
+rooms : DRAWING
+Marianne : OTHER
+three : CARDINAL
+offices : DRAWING
+offices : DRAWING
+office : DRAWING
+eleven : TIME
+eight : TIME
+ eighty per cent : PERCENT
+five : CARDINAL
+office : DRAWING
+ three person : MEASURE
+room : DRAWING
+room : DRAWING
+office : DRAWING
+eighteen : CARDINAL
+three : CARDINAL
+fifteen : CARDINAL
+room : DRAWING
+ one person'll : MEASURE
+Two : MEASURE
+three : CARDINAL
+ two person : MEASURE
+rooms : DRAWING
+two : CARDINAL
+windows : DRAWING
+room : DRAWING
+office : DRAWING
+room : DRAWING
+room : DRAWING
+library : DRAWING
+mini-library : DRAWING
+office : DRAWING
+two : CARDINAL
+one : CARDINAL
+room : DRAWING
+Gisella : OTHER
+ fifty percent : PERCENT
+ fifty percent : PERCENT
+Gisella : OTHER
+room : DRAWING
+mailbox : DRAWING
+office : DRAWING
+mailboxes : DRAWING
+office : DRAWING
+Gisella's : OTHER
+office : DRAWING
+ one person : MEASURE
+rooms : DRAWING
+ two months : DURATION
+year : DURATION
+office : DRAWING
+Geneva : LOCATION
+Nikos : INDUSTRIAL_DESIGNER
+town : DRAWING
+town : DRAWING
+Gisella : OTHER
+room : DRAWING
+Six : CARDINAL
+eight : CARDINAL
+fourteen : CARDINAL
+fourteen : CARDINAL
+Gisella's : OTHER
+room : DRAWING
+Gisella : OTHER
+ one person : MEASURE
+office : DRAWING
+one : CARDINAL
+Two : CARDINAL
+ three person : MEASURE
+offices : DRAWING
+two : CARDINAL

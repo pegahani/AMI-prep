@@ -1,0 +1,20 @@
+desktop : MEANS_OF_WORKING
+ Marketing Expert : MARKETING
+ User Interface Designer : INTERFACE_SPECIALIST
+ Industrial engineer , or Designer : INDUSTRIAL_DESIGNER
+folder : MEANS_OF_WORKING
+ Marketing Expert's : MARKETING
+I_B_M_ : ORGANIZATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+one : CARDINAL
+ Marketing Expert : MARKETING
+one : CARDINAL
+one : CARDINAL
+Ebenezer : MARKETING
+ Marketing Expert : MARKETING
+one : CARDINAL
+laptop : MEANS_OF_WORKING
+ Real reaction : ORGANIZATION
+plastic : MATERIALS
+two : CARDINAL
+ real reaction : ORGANIZATION

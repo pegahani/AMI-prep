@@ -1,0 +1,4 @@
+David : INDUSTRIAL_DESIGNER
+ industrial designer : INDUSTRIAL_DESIGNER
+Tail's : DRAWING
+one : CARDINAL

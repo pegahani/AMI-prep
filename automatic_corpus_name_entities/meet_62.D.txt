@@ -1,0 +1,17 @@
+rubber's : MATERIALS
+rubber : MATERIALS
+two : CARDINAL
+five : CARDINAL
+five : CARDINAL
+rubber : MATERIALS
+rubber's : MATERIALS
+strawberry : SHAPE
+Rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+ lime green : COLOUR
+yellow : COLOUR
+pink : COLOUR
+pink : COLOUR
+pink : COLOUR

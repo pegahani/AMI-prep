@@ -1,0 +1,59 @@
+copy : MEANS_OF_WORKING
+nineties : DATE
+two : CARDINAL
+slide : MEANS_OF_WORKING
+ Kevin Spacey : OTHER
+ Gabriel Byrne : OTHER
+ Bryan Singer : OTHER
+one : CARDINAL
+ Christopher McQuarrie : OTHER
+ Rolling Stone : ORGANIZATION
+ M_ Night uh Shyamalan : OTHER
+ Bruce Willis : OTHER
+ Haley Joel Osment : OTHER
+ Toni Collette : OTHER
+ Rolling Stone : ORGANIZATION
+couple : CARDINAL
+slides : MEANS_OF_WORKING
+ hundred and five minutes : DURATION
+Andrei : INTERFACE_SPECIALIST
+ nineteen ninety five : DATE
+ North America : LOCATION
+eighteen : MEASURE
+five : CARDINAL
+ New York : LOCATION
+ eight point seven : MEASURE
+ten : MEASURE
+ Internet Movie Database : ORGANIZATION
+ two hundred and fifty : CARDINAL
+Denis's : INDUSTRIAL_DESIGNER
+ nineteen nineties : DATE
+I_M_D_B_ : ORGANIZATION
+slide : MEANS_OF_WORKING
+ nineteen ninety nine : DATE
+half : CARDINAL
+nineties : DATE
+ two hundred fifty : CARDINAL
+five : CARDINAL
+Denis : INDUSTRIAL_DESIGNER
+two : CARDINAL
+two : CARDINAL
+ Bruce Willis : OTHER
+ three hours : DURATION
+ Uma Thurman : OTHER
+I_M_D_B_ : ORGANIZATION
+ Kevin Spacey : OTHER
+ Morgan Freeman : OTHER
+ bright blue : COLOUR
+Ryan : OTHER
+one : CARDINAL
+Lebowski : OTHER
+Buscemi : OTHER
+poster : DRAWING
+two : CARDINAL
+one : CARDINAL
+ Annette Bening : OTHER
+images : DRAWING
+ Two thousands : DATE
+ Monday May third : DATE
+fifties : DATE

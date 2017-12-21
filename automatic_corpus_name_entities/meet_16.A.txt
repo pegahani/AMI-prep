@@ -1,0 +1,70 @@
+ User Interface Designer : INTERFACE_SPECIALIST
+ David Jordan : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Baba : INDUSTRIAL_DESIGNER
+prototype : CONSTRUCTED
+ remote control : CONSTRUCTED
+slide : MEANS_OF_WORKING
+base : CONSTRUCTED
+Seven : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+buttons : CONSTRUCTED
+two : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+remote : CONSTRUCTED
+one : CARDINAL
+twenty : CARDINAL
+twenty : CARDINAL
+twenty : CARDINAL
+four : CARDINAL
+ David Jordan : INDUSTRIAL_DESIGNER
+cherry : CONSTRUCTED
+three : CARDINAL
+Three : CARDINAL
+ten : CARDINAL
+ten : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+Trois : CARDINAL
+Three : CARDINAL
+ twelve and point fifty Euros : MONEY
+Three : CARDINAL
+one : CARDINAL
+One : CARDINAL
+Zero : CARDINAL
+One : CARDINAL
+curved : SHAPE
+curved : SHAPE
+curved : SHAPE
+One : CARDINAL
+wood : MATERIALS
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+red : COLOUR
+Red : COLOUR
+yellow : COLOUR
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ twelve fifty : MONEY
+ Twelve fifty : MONEY
+clay : MODELLING_STUFF
+ remote control : CONSTRUCTED
+yellow : COLOUR
+Squared : SHAPE
+ twelve fifty Euros : MONEY
+ David Jordan : INDUSTRIAL_DESIGNER
+yellow : COLOUR
+red : COLOUR
+control : CONSTRUCTED
+ remote control : CONSTRUCTED
+One : CARDINAL
+ remote control : INCIDENTAL
+Baba : INDUSTRIAL_DESIGNER
+prototype : CONSTRUCTED

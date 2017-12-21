@@ -1,0 +1,7 @@
+Jessy : MARKETING
+D_C_ : LOCATION
+U_S_ : LOCATION
+whiskers : DRAWING
+seal : DRAWING
+four : CARDINAL
+four : CARDINAL

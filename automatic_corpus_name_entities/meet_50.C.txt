@@ -1,0 +1,16 @@
+ F_ eight : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ five metres : MEASURE
+ interface designer : INTERFACE_SPECIALIST
+power : DRAWING
+bulb : DRAWING
+chip : DRAWING
+interface : DRAWING
+chip : DRAWING
+ Function F_ eight : MEANS_OF_WORKING
+cable : MEANS_OF_WORKING
+Sky : ORGANIZATION
+two : CARDINAL
+Japan : LOCATION
+one : CARDINAL
+Sky : ORGANIZATION

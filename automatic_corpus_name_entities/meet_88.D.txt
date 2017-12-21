@@ -1,0 +1,7 @@
+Robin : MARKETING
+ Marketing Manager : MARKETING
+microphone's : RECORDING_DEVICES
+dachshund : DRAWING
+dog : DRAWING
+one : CARDINAL
+return : MEANS_OF_WORKING

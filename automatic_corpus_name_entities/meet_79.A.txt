@@ -1,0 +1,40 @@
+broccoli : CONSTRUCTED
+strawberry : CONSTRUCTED
+folder : MEANS_OF_WORKING
+plastic : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+ eleven point nine : MONEY
+ twelve point five : MONEY
+one : CARDINAL
+one : CARDINAL
+One : CARDINAL
+four : CARDINAL
+marker : MEANS_OF_WORKING
+Five : CARDINAL
+Six : CARDINAL
+Three : CARDINAL
+Two : CARDINAL
+One : CARDINAL
+Two : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+ two point one : CARDINAL
+ One point four : CARDINAL
+ one point five : CARDINAL
+two : CARDINAL
+Three : CARDINAL
+Three : CARDINAL
+Two : CARDINAL
+Five : CARDINAL
+Four : CARDINAL
+Two : CARDINAL
+four : CARDINAL
+rubber : MATERIALS
+broccoli : CONSTRUCTED
+one : CARDINAL
+three : CARDINAL
+pens : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+box : SHAPE

@@ -1,0 +1,12 @@
+Michael : INTERFACE_SPECIALIST
+ user interface designer : INTERFACE_SPECIALIST
+ white board : MEANS_OF_WORKING
+web : DRAWING
+eight : CARDINAL
+legs : DRAWING
+web : DRAWING
+two : CARDINAL
+three : CARDINAL
+pink : COLOUR
+one : CARDINAL
+ twenty-five Euro : MONEY

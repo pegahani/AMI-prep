@@ -1,0 +1,13 @@
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+Nokia : ORGANIZATION
+screen : MEANS_OF_WORKING
+two : CARDINAL
+mouse : MEANS_OF_WORKING
+rubber : MATERIALS
+one : CARDINAL
+banana-shaped : SHAPE
+plastic : MATERIALS
+purple : COLOUR
+triangle : SHAPE

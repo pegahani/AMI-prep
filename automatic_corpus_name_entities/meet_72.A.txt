@@ -1,0 +1,28 @@
+Mandy : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+Courtney : MARKETING
+Fenella : INTERFACE_SPECIALIST
+Amber : INDUSTRIAL_DESIGNER
+PowerPoint : MEANS_OF_WORKING
+button : MEANS_OF_WORKING
+tools : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+one : DURATION
+cat : DRAWING
+Fenella : INTERFACE_SPECIALIST
+Badger : DRAWING
+badger : DRAWING
+giraffe : DRAWING
+couple : CARDINAL
+ twenty-five Euro : MONEY
+ fifty million Euro : MONEY
+States : LOCATION
+Europe : LOCATION
+Asia : LOCATION
+ twelve fifty Euro : MONEY
+mother : OTHER
+ thirty minutes : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+marketing : MARKETING
+Courtney : MARKETING

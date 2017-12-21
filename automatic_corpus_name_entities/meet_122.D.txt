@@ -1,0 +1,122 @@
+giraffe : DRAWING
+Bright : COLOUR
+Fancy : COLOUR
+button : DRAWING
+two : CARDINAL
+one : CARDINAL
+four : CARDINAL
+fruity : COLOUR
+ banana yellow : COLOUR
+ strawberry red : COLOUR
+round : SHAPE
+rubber : MATERIALS
+ Sponge Bob : OTHER
+autumn : DATE
+woods : MATERIALS
+ dark brown : COLOUR
+red : COLOUR
+ deep reds : COLOUR
+square : SHAPE
+round : SHAPE
+wood : MATERIALS
+titanium : MATERIALS
+fruity : COLOUR
+blue : COLOUR
+red : COLOUR
+white : COLOUR
+yellow : COLOUR
+banana : DRAWING
+yellow : COLOUR
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+round : SHAPE
+round : SHAPE
+squares : SHAPE
+Autumn : DATE
+red : COLOUR
+brown : COLOUR
+wood : MATERIALS
+wooden : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+ Sponge Bob : OTHER
+screen : DRAWING
+ three quarter : CARDINAL
+screen : DRAWING
+Nine : CARDINAL
+ten : CARDINAL
+eleven : CARDINAL
+twelve : CARDINAL
+thirteen : CARDINAL
+fourteen : CARDINAL
+fifteen : CARDINAL
+screen : DRAWING
+One : CARDINAL
+zero : CARDINAL
+two : CARDINAL
+three : CARDINAL
+buttons : DRAWING
+screen : DRAWING
+L_C_D_ : DRAWING
+screen : DRAWING
+square : SHAPE
+round : SHAPE
+round : SHAPE
+round : SHAPE
+square : SHAPE
+ forty years : MEASURE
+screen : DRAWING
+paper : MEANS_OF_WORKING
+buttons : DRAWING
+button : DRAWING
+minus : DRAWING
+plus : DRAWING
+minus : DRAWING
+plus : DRAWING
+buttons : DRAWING
+options : DRAWING
+P_ : DRAWING
+sound : DRAWING
+Plus : DRAWING
+minus : DRAWING
+plus : DRAWING
+minus : DRAWING
+one : CARDINAL
+ Per hour one hundred and sixty eight : MEASURE
+ four times an hour : MEASURE
+two : CARDINAL
+One : CARDINAL
+one : CARDINAL
+round : SHAPE
+R_ : DRAWING
+scroll : DRAWING
+remote : DRAWING
+screen : DRAWING
+button : DRAWING
+scroll's : DRAWING
+black : COLOUR
+silver : COLOUR
+silver : COLOUR
+silver : COLOUR
+black : COLOUR
+silver : COLOUR
+black : COLOUR
+silver : COLOUR
+black : COLOUR
+five : CARDINAL
+ banana yellow : COLOUR
+red : COLOUR
+Green : COLOUR
+wood : MATERIALS
+brown : COLOUR
+fruity : COLOUR
+autumn : DATE
+red : COLOUR
+brown : COLOUR
+ dark red : COLOUR
+brown : COLOUR

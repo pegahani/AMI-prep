@@ -1,0 +1,77 @@
+Matthew : INTERFACE_SPECIALIST
+ twelve Euro and fifty cents : MONEY
+Anna : MARKETING
+Matthew : INDUSTRIAL_DESIGNER
+buttons : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+screen : CONSTRUCTED
+screen : CONSTRUCTED
+Anna : MARKETING
+ eight Euros : MONEY
+ four and a half Euro : MONEY
+ twenty five Euros : MONEY
+ twenty five Euro : MONEY
+ twelve Euro uh fifty cents : MONEY
+pen : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+five : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+Two : CARDINAL
+Two's : CARDINAL
+screen : CONSTRUCTED
+Eight : MONEY
+Two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+Three : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+twenty : MEASURE
+forty : MEASURE
+ surfing shape : SHAPE
+six : MONEY
+ twenty five Euros : MONEY
+screen : CONSTRUCTED
+screen : CONSTRUCTED
+two : CARDINAL
+Two : CARDINAL
+plastic : MATERIALS
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+One : CARDINAL
+two : CARDINAL
+Three : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+curve : SHAPE
+curves : SHAPE
+plastic : MATERIALS
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+Twelve : CARDINAL
+eighteen : MONEY
+two : CARDINAL
+fifteen : MONEY
+seven : CARDINAL
+twelve : MONEY
+ twelve fifty : MONEY
+One : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+twelve : CARDINAL
+ twelve Euros : MONEY
+ fifty cents : MONEY

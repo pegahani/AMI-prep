@@ -1,0 +1,69 @@
+ real reaction : ORGANIZATION
+whiteboard : MEANS_OF_WORKING
+Maine : LOCATION
+U_C_S_B_ : ORGANIZATION
+Harvard : ORGANIZATION
+ John Lewis : ORGANIZATION
+Debenham's : ORGANIZATION
+ User Interface Designers : INTERFACE_SPECIALIST
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+I_D_ : INDUSTRIAL_DESIGNER
+three : CARDINAL
+ white board : MEANS_OF_WORKING
+five : CARDINAL
+one : CARDINAL
+five : CARDINAL
+one : CARDINAL
+five : CARDINAL
+five : CARDINAL
+ Project Manager : PROJECT_MANAGER
+Marty : PROJECT_MANAGER
+ U_C_ Santa Barbara : ORGANIZATION
+Nathan : INDUSTRIAL_DESIGNER
+ six six : MEASURE
+ Jeff Buckley : OTHER
+ Jeff Buckley : OTHER
+ three years : DURATION
+two : MONEY
+ two bucks : MONEY
+California : LOCATION
+ San Diego : LOCATION
+ North Carol : LOCATION
+ San Diego : LOCATION
+ Santa Barbara : LOCATION
+California : LOCATION
+ two bucks : MONEY
+ two bucks : MONEY
+ San Diego : LOCATION
+ five minutes : DURATION
+ North Park : LOCATION
+ half a mile : MEASURE
+whiteboard : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+twenty : MONEY
+ forty bucks : MONEY
+ fifty million Euros : MONEY
+one : CARDINAL
+ twelve fifty : MONEY
+ hundred percent : PERCENT
+ Project Manager : PROJECT_MANAGER
+ half an hour : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+ five minutes : DURATION
+one : CARDINAL
+one : CARDINAL
+Apple : ORGANIZATION
+white : COLOUR
+ forty Pound : MONEY
+ forty Dollar : MONEY
+ twenty five Euro : MONEY
+black : COLOUR
+ Twenty five Euros : MONEY
+Dollar : MONEY
+Fry's : ORGANIZATION
+America : LOCATION
+ twenty thirty Pounds : MONEY

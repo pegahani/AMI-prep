@@ -1,0 +1,39 @@
+computer : MEANS_OF_WORKING
+map : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+button : MEANS_OF_WORKING
+Computer : MEANS_OF_WORKING
+two : CARDINAL
+examples : DRAWING
+examples : DRAWING
+forty : MEASURE
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ remote control : DRAWING
+button : DRAWING
+ remote control : DRAWING
+documents : MEANS_OF_WORKING
+ remote control : DRAWING
+screen : DRAWING
+screen : DRAWING
+two : CARDINAL
+display : DRAWING
+one : CARDINAL
+ remote control : DRAWING
+button : DRAWING
+display : DRAWING
+line : DRAWING
+button : DRAWING
+button : DRAWING
+two : CARDINAL
+buttons : DRAWING
+button : DRAWING
+one : CARDINAL
+one : CARDINAL
+button : DRAWING
+one : CARDINAL
+button : DRAWING
+button : DRAWING
+newsflash : MEANS_OF_WORKING

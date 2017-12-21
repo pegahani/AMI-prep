@@ -1,0 +1,19 @@
+Ryan : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+three : CARDINAL
+one : CARDINAL
+Black : COLOUR
+spherical : SHAPE
+ball : SHAPE
+ball : SHAPE
+sphere : SHAPE
+hinge : DRAWING
+hinge : DRAWING
+two : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+ball : SHAPE
+hinge : DRAWING
+one : CARDINAL
+rectangle : SHAPE
+rectangle : SHAPE

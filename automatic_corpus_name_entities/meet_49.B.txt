@@ -1,0 +1,33 @@
+lights : INCIDENTAL
+Sarah : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+ twenty five minutes : DURATION
+metal : MATERIALS
+pens : MEANS_OF_WORKING
+white : COLOUR
+board : MEANS_OF_WORKING
+blue : COLOUR
+tiger : DRAWING
+lapel : RECORDING_DEVICES
+bird : DRAWING
+bird : DRAWING
+seagu : DRAWING
+seagull : DRAWING
+ twenty five Euros : MONEY
+fifteen : MONEY
+Seventeen : MONEY
+folder : MEANS_OF_WORKING
+ twelve fifty : MONEY
+ fifty million Euros : MONEY
+Australia : LOCATION
+America : LOCATION
+three : CARDINAL
+one : CARDINAL
+six : CARDINAL
+million : CARDINAL
+ half an hour : DURATION
+Sky : ORGANIZATION
+Telewest : ORGANIZATION
+silver : COLOUR
+plastic : MATERIALS
+ half an hour : DURATION

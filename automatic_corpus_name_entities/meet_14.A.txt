@@ -1,0 +1,20 @@
+ Marketing Expert : MARKETING
+ David Jordan : INTERFACE_SPECIALIST
+Twelve : MONEY
+ twelve a half : MONEY
+one : CARDINAL
+four : CARDINAL
+slide : MEANS_OF_WORKING
+ one hundred : CARDINAL
+ seventy five percent : PERCENT
+David : INTERFACE_SPECIALIST
+ eighty percent : PERCENT
+ ten percent : PERCENT
+one : CARDINAL
+slide : MEANS_OF_WORKING
+ thirty five percent : PERCENT
+ twenty six percent : PERCENT
+slide : MEANS_OF_WORKING
+ twelve Euros : MONEY
+yellow : COLOUR
+ Industrial Designer : INDUSTRIAL_DESIGNER

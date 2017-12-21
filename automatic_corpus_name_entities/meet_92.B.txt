@@ -1,0 +1,10 @@
+Poppy : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+elk : DRAWING
+elk : DRAWING
+drawing : DRAWING
+Heather's : PROJECT_MANAGER
+drawing : DRAWING
+dog : DRAWING
+half : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER

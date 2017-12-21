@@ -1,0 +1,76 @@
+two : CARDINAL
+slide : MEANS_OF_WORKING
+seven : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+slide : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+one : CARDINAL
+seven : CARDINAL
+One : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+One : CARDINAL
+seven : CARDINAL
+two : CARDINAL
+One : CARDINAL
+seven : CARDINAL
+Two : CARDINAL
+Two : CARDINAL
+four : CARDINAL
+six : CARDINAL
+five : CARDINAL
+eleven : CARDINAL
+four : CARDINAL
+ two and three quarters : CARDINAL
+ Two and three quarters : CARDINAL
+ Two point seven five : CARDINAL
+three : CARDINAL
+designer : INDUSTRIAL_DESIGNER
+two : CARDINAL
+ Two point five : CARDINAL
+one : CARDINAL
+Two : CARDINAL
+eight : CARDINAL
+two : CARDINAL
+one : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+prototype : CONSTRUCTED
+one : CARDINAL
+four : CARDINAL
+five : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+ Twenty one : CARDINAL
+ twenty one : CARDINAL
+ four point two five : CARDINAL
+one : CARDINAL
+One : CARDINAL
+one : CARDINAL
+two : CARDINAL
+six : CARDINAL
+one : CARDINAL
+curve : SHAPE
+curves : SHAPE
+ point five : CARDINAL
+rubber : MATERIALS
+aubergines : COLOUR
+square : SHAPE
+rubber : MATERIALS
+curved : SHAPE
+ten : CARDINAL
+ point zero one of a Euro : MONEY
+ ten P_ : MONEY

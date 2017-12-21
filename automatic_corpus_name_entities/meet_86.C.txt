@@ -1,0 +1,36 @@
+titanium : MATERIALS
+Kate : INDUSTRIAL_DESIGNER
+yellow : COLOUR
+plastic : MATERIALS
+black : COLOUR
+ Real Reaction : ORGANIZATION
+F_N_ : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+Kate : INDUSTRIAL_DESIGNER
+plastic : MATERIALS
+rubber : MATERIALS
+thing : DRAWING
+wheels : DRAWING
+Sky : ORGANIZATION
+ half hour : DURATION
+plastic : MATERIALS
+plastic : MATERIALS
+yellow : COLOUR
+black : COLOUR
+Sky : ORGANIZATION
+plastic : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+plastic's : MATERIALS
+one : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+circle : SHAPE
+mouse : DRAWING
+mouse : DRAWING
+thing : DRAWING
+circle : SHAPE
+four : CARDINAL
+plastic : MATERIALS
+four : CARDINAL
+Play-Doh : MODELLING_STUFF

@@ -1,0 +1,39 @@
+one : CARDINAL
+fifteen : CARDINAL
+ three person : MEASURE
+room : DRAWING
+ one person : MEASURE
+room : DRAWING
+Gisella : OTHER
+room : DRAWING
+office : DRAWING
+room : DRAWING
+three : CARDINAL
+windows : DRAWING
+Two : MEASURE
+one : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+window : DRAWING
+Gisella : OTHER
+ three person : MEASURE
+office : DRAWING
+Gisella : OTHER
+two : CARDINAL
+ fifty per cent : PERCENT
+three : MEASURE
+room : DRAWING
+ fifty per cent : PERCENT
+mailboxes : DRAWING
+mailboxes : DRAWING
+office : DRAWING
+Gisella : OTHER
+office : DRAWING
+office : DRAWING
+map : DRAWING
+ three people : MEASURE
+room : DRAWING
+summer : DATE
+fourteen : CARDINAL
+Maggie : OTHER
+Susan : OTHER

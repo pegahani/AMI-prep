@@ -1,0 +1,25 @@
+computer : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+ couple of minutes : DURATION
+presentation : MEANS_OF_WORKING
+newsflash : MEANS_OF_WORKING
+button : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+keys : MEANS_OF_WORKING
+remote : DRAWING
+four : CARDINAL
+display : DRAWING
+display : DRAWING
+button : DRAWING
+remote : DRAWING
+two : CARDINAL
+remote : DRAWING
+one : CARDINAL
+button : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+one : CARDINAL
+button : DRAWING
+one : CARDINAL
+button : DRAWING

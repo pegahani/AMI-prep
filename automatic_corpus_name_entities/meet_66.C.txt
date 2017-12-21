@@ -1,0 +1,25 @@
+two : CARDINAL
+device : DRAWING
+iPod : DRAWING
+Apple : ORGANIZATION
+four : CARDINAL
+buttons : DRAWING
+four : CARDINAL
+buttons : DRAWING
+screen : DRAWING
+button : DRAWING
+three : CARDINAL
+buttons : DRAWING
+example : DRAWING
+buttons : DRAWING
+ two hundred and fifty : CARDINAL
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+four : CARDINAL
+five : CARDINAL
+one : CARDINAL
+four : CARDINAL
+Clay : MODELLING_STUFF

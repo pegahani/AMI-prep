@@ -1,0 +1,13 @@
+three : CARDINAL
+ Manager Expert : MARKETING
+square : SHAPE
+Peter : INDUSTRIAL_DESIGNER
+ Bob Morris : MARKETING
+two : CARDINAL
+Peter : INDUSTRIAL_DESIGNER
+ Real Reaction : ORGANIZATION
+ five minutes : DURATION
+one : DURATION
+ two minutes : DURATION
+ one P_M_ : TIME
+ thirteen minutes : DURATION

@@ -1,0 +1,65 @@
+slides : MEANS_OF_WORKING
+Michael : INTERFACE_SPECIALIST
+one : CARDINAL
+banana : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+antennas : CONSTRUCTED
+cells : CONSTRUCTED
+batteries : CONSTRUCTED
+ basis station : CONSTRUCTED
+batteries : CONSTRUCTED
+batteries : CONSTRUCTED
+Eight : DURATION
+ten : DURATION
+eight : DURATION
+ ten hours : DURATION
+eight : DURATION
+eight : DURATION
+ ten hours : DURATION
+buttons : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+banana : CONSTRUCTED
+one : CARDINAL
+seven : MEASURE
+one : MEASURE
+ten : MEASURE
+Seven : MEASURE
+Seven : MEASURE
+seven : MEASURE
+six : MEASURE
+seven : MEASURE
+Five : MEASURE
+seven : MEASURE
+Seven : MEASURE
+five : MEASURE
+Five : MEASURE
+ four point two : MEASURE
+four : MEASURE
+seven : MEASURE
+locator : CONSTRUCTED
+buttons : CONSTRUCTED
+Seven : MEASURE
+seven : MEASURE
+five : MEASURE
+five : MEASURE
+five : MEASURE
+Six : MEASURE
+Six : MEASURE
+five : MEASURE
+four : MEASURE
+five : MEASURE
+ three point five : MEASURE
+five : MEASURE
+one : MONEY
+ scroll wheel : CONSTRUCTED
+rubber : MATERIALS
+plastic : MATERIALS
+ base station : CONSTRUCTED
+ ninety centimes : MONEY
+battery : CONSTRUCTED

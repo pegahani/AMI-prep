@@ -1,0 +1,35 @@
+Madonna : OTHER
+Madonna : OTHER
+minute : DURATION
+three : CARDINAL
+computer : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+Catherine : INDUSTRIAL_DESIGNER
+fifties : DATE
+curved : SHAPE
+rubber : MATERIALS
+Rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+Gabriel : INTERFACE_SPECIALIST
+ One hundred per cent : PERCENT
+two : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+pink : COLOUR
+blue : COLOUR
+green : COLOUR
+Catherine : INDUSTRIAL_DESIGNER
+Gabriel : INTERFACE_SPECIALIST
+two : CARDINAL
+clay : MODELLING_STUFF
+rubber : MATERIALS
+ couple of minutes : DURATION
+two : CARDINAL
+two : CARDINAL

@@ -1,0 +1,20 @@
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+one : CARDINAL
+slides : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ One month : DURATION
+ twenty five Euros : MONEY
+ four million : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ Marketing Expert : MARKETING
+ ten per cent : PERCENT
+one : CARDINAL
+one : CARDINAL
+ eight months : DURATION
+folder : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL

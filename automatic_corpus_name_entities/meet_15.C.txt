@@ -1,0 +1,20 @@
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+China : LOCATION
+France : LOCATION
+two : CARDINAL
+ one hundred percent : PERCENT
+ one hundred percent : PERCENT
+ one hundred percent : PERCENT
+one : CARDINAL
+one : CARDINAL
+Frahan : MARKETING
+Frahan : MARKETING
+slides : MEANS_OF_WORKING

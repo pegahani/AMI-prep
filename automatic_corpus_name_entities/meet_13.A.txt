@@ -1,0 +1,17 @@
+ Ada Longmund : PROJECT_MANAGER
+ project manager : PROJECT_MANAGER
+board : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ twelve Euros and fifty centimes : MONEY
+ thirty minutes : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+U_K_ : LOCATION
+ twelve dot fifty Euros : MONEY
+ Product manager : PROJECT_MANAGER
+eyes : DRAWING
+eyes : DRAWING
+clown : DRAWING
+Rabbit : DRAWING
+rabbit : DRAWING
+Fish : DRAWING
+chips : DRAWING

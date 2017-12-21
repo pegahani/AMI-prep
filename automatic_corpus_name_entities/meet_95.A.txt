@@ -1,0 +1,77 @@
+prototype : CONSTRUCTED
+two : CARDINAL
+prototype : CONSTRUCTED
+ten : CARDINAL
+button : CONSTRUCTED
+button : CONSTRUCTED
+zero : CONSTRUCTED
+plus : CONSTRUCTED
+one : CONSTRUCTED
+plus : CONSTRUCTED
+ sixty five : CARDINAL
+six : CONSTRUCTED
+plus : CONSTRUCTED
+six : CONSTRUCTED
+five : CONSTRUCTED
+C_ : CONSTRUCTED
+V_ : CONSTRUCTED
+button : CONSTRUCTED
+Genevieve : MARKETING
+Christmas : DATE
+prototype : CONSTRUCTED
+prototype : CONSTRUCTED
+second : DURATION
+ function eight : MEANS_OF_WORKING
+red : COLOUR
+black : COLOUR
+two : MEASURE
+three : MEASURE
+One : MEASURE
+flat : SHAPE
+two : MEASURE
+ Marketing Expert : MARKETING
+two : MEASURE
+six : CONSTRUCTED
+enter : CONSTRUCTED
+zeros : CARDINAL
+twelve : CARDINAL
+enter : CONSTRUCTED
+yellow : COLOUR
+grey : COLOUR
+grey : COLOUR
+two : MEASURE
+two : MEASURE
+ One point nine : MEASURE
+one : MEASURE
+two : MEASURE
+ one point nine : MEASURE
+ Heather Pauls : PROJECT_MANAGER
+computer's : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+cable : MEANS_OF_WORKING
+file : MEANS_OF_WORKING
+ One moment : DURATION
+screen : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+ three Euros : MONEY
+double : CARDINAL
+curved : SHAPE
+curved : SHAPE
+three : MONEY
+five : MONEY
+plastic : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+eight : MONEY
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+case : CONSTRUCTED
+one : CARDINAL
+buttons : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+ twelve twenty Euros : MONEY
+ Play Doh : MODELLING_STUFF
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING

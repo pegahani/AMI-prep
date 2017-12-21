@@ -1,0 +1,18 @@
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Seal : DRAWING
+seal : DRAWING
+tail : DRAWING
+mouth : DRAWING
+Snail : DRAWING
+rabbit : DRAWING
+dolphin : DRAWING
+One : CARDINAL
+Eraser : MEANS_OF_WORKING
+Pen : MEANS_OF_WORKING
+Black : COLOUR
+one : CARDINAL
+Sony : ORGANIZATION
+Panasonic : ORGANIZATION
+Philips : ORGANIZATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ usability interaction : INTERFACE_SPECIALIST

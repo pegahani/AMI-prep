@@ -1,0 +1,27 @@
+screen : MEANS_OF_WORKING
+function : MEANS_OF_WORKING
+screw : MEANS_OF_WORKING
+ Real Reaction : ORGANIZATION
+hundred : CARDINAL
+ seventy five per cent : PERCENT
+hundred : CARDINAL
+ eighty per cent : PERCENT
+sixty : MEASURE
+ fifty percent : PERCENT
+ ten per cent : PERCENT
+ sixty five per cent : PERCENT
+ thirty five : MEASURE
+fifteen : MEASURE
+ thirty five : MEASURE
+fifteen : MEASURE
+ thirty five : MEASURE
+two : CARDINAL
+one : CARDINAL
+hundred : CARDINAL
+hundred : CARDINAL
+Twenty : MEASURE
+ fifty five : MEASURE
+ fifty per cent : PERCENT
+folder : MEANS_OF_WORKING
+three : CARDINAL
+three : CARDINAL

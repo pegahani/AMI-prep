@@ -1,0 +1,10 @@
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+Paris : LOCATION
+Milan : LOCATION
+Milan : LOCATION
+Paris : LOCATION
+ ten year : MEASURE
+year : DURATION

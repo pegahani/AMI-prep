@@ -1,0 +1,30 @@
+two : CARDINAL
+Wood : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+curve : SHAPE
+one : CARDINAL
+forty : CARDINAL
+six : CARDINAL
+ nineteen fifty seven : DATE
+plastic : MATERIALS
+rubber : MATERIALS
+ ten minutes : DURATION
+five : CARDINAL
+zero : CARDINAL
+five : CARDINAL
+ thirty six : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+ five minutes : DURATION
+one : CARDINAL
+ Project Manager : PROJECT_MANAGER
+ hundred Euro : MONEY
+forty : MONEY
+ Thirty five : MONEY
+ fifty Euros : MONEY
+ thirty minutes : DURATION
+ three twenty one : TIME
+ thirty minutes : DURATION
+fifty : DURATION
+ three twenty one : TIME

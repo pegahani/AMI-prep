@@ -1,0 +1,21 @@
+two : CARDINAL
+Computer's : MEANS_OF_WORKING
+One : CARDINAL
+ user interface designer : INTERFACE_SPECIALIST
+controls : DRAWING
+eighty : CARDINAL
+control : DRAWING
+Apple : ORGANIZATION
+wheel : DRAWING
+display : DRAWING
+iPod : DRAWING
+button : DRAWING
+push-button : DRAWING
+controls : DRAWING
+control : DRAWING
+plastic : MATERIALS
+one : CARDINAL
+red : COLOUR
+two : CARDINAL
+Apple's : ORGANIZATION
+Apple's : ORGANIZATION

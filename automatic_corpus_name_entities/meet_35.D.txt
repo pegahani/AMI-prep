@@ -1,0 +1,30 @@
+wood : MATERIALS
+wood : MATERIALS
+woods : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+Houston : LOCATION
+one : CARDINAL
+ six months : DURATION
+whiteboard : MEANS_OF_WORKING
+two : CARDINAL
+ forty-five thousand : CARDINAL
+buttons : DRAWING
+display : DRAWING
+flip-up : DRAWING
+flip-up : DRAWING
+display : DRAWING
+flip-up : DRAWING
+display : DRAWING
+wood : MATERIALS
+designer : COLOUR
+three : CARDINAL
+Nokia : ORGANIZATION
+millions : CARDINAL
+millions : CARDINAL
+mahogany : MATERIALS
+red : COLOUR
+wooden : MATERIALS

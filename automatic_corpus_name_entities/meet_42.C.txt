@@ -1,0 +1,11 @@
+laptop : MEANS_OF_WORKING
+two : CARDINAL
+button : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+wire : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+hours : DURATION
+three : CARDINAL

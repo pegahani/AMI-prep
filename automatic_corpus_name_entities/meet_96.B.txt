@@ -1,0 +1,18 @@
+Manuel : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+one : CARDINAL
+one : CARDINAL
+ half a year : DURATION
+One : CARDINAL
+ball : SHAPE
+ball : SHAPE
+flat : SHAPE
+hinges : DRAWING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+thing : DRAWING
+lid : DRAWING
+round : SHAPE
+numbers : DRAWING
+buttons : DRAWING
+two : CARDINAL
+sensors : DRAWING

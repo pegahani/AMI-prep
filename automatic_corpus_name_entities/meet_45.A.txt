@@ -1,0 +1,12 @@
+ Dave Cochrane : INTERFACE_SPECIALIST
+ User Interface Defin Designer : INTERFACE_SPECIALIST
+monkey : DRAWING
+three : MONEY
+ three y year : MONEY
+ Miss Monkey : OTHER
+one : CARDINAL
+three : CARDINAL
+one : CARDINAL
+five : CARDINAL
+one : CARDINAL
+curve : SHAPE

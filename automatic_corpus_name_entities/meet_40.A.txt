@@ -1,0 +1,53 @@
+minutes : MEANS_OF_WORKING
+ interface um : INTERFACE_SPECIALIST
+designer : INTERFACE_SPECIALIST
+nine : CARDINAL
+one : CARDINAL
+star : SHAPE
+ industrial designer : INDUSTRIAL_DESIGNER
+plastic : MATERIALS
+ marketing expert : MARKETING
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+minutes : MEANS_OF_WORKING
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+uncurved : SHAPE
+curved : CARDINAL
+curved : CARDINAL
+curved : CARDINAL
+One : CARDINAL
+Plastic : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+ seven point six : MONEY
+ Eight , eight point two : MONEY
+ Eight point two : MONEY
+ marketing expert : MARKETING
+slide : MEANS_OF_WORKING
+one : CARDINAL
+ Eight , eight twenty : MONEY
+ four point three euros : MONEY
+ four thirty : MONEY
+ four thirty : MONEY
+slide : MEANS_OF_WORKING
+ marketing expert : MARKETING
+one : CARDINAL
+four : CARDINAL
+two : CARDINAL
+One : CARDINAL
+two : CARDINAL
+three : CARDINAL
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING

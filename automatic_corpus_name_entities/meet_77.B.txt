@@ -1,0 +1,11 @@
+ three set setting cycle : MEASURE
+function : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+cable : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ two part package : MEASURE
+one : CARDINAL
+four : CARDINAL
+circle : SHAPE

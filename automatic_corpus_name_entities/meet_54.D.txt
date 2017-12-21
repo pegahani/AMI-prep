@@ -1,0 +1,39 @@
+rubber : MATERIALS
+gel : MATERIALS
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+blue : COLOUR
+ F_ five : MEANS_OF_WORKING
+ Escape F_ five : MEANS_OF_WORKING
+Escape : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ twenty five : MEASURE
+ thirty five year : MEASURE
+L_C_D_ : DRAWING
+scroll : DRAWING
+boring : SHAPE
+grey : COLOUR
+buttons : DRAWING
+organic : SHAPE
+circle : SHAPE
+buttons : DRAWING
+symbols : DRAWING
+ twelve Euros fifty : MONEY
+one : CARDINAL
+round : SHAPE
+whiteboard : MEANS_OF_WORKING
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+two : CARDINAL
+green : COLOUR
+red : COLOUR
+Rubber : MATERIALS
+ergonomically : SHAPE
+screen : MEANS_OF_WORKING

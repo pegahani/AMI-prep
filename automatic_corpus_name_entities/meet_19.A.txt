@@ -1,0 +1,41 @@
+minutes : MEANS_OF_WORKING
+presentations : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+ Marketing Experts : MARKETING
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+banana : SHAPE
+ Marketing Expert : MARKETING
+banana : SHAPE
+ User Interface : INTERFACE_SPECIALIST
+banana : SHAPE
+slides : MEANS_OF_WORKING
+banana : SHAPE
+plastic : MATERIALS
+wood : MATERIALS
+Green : COLOUR
+banana : SHAPE
+yellow : COLOUR
+banana : COLOUR
+slides : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+banana : SHAPE
+bana : SHAPE
+banana : SHAPE
+basis : DRAWING
+ base station : DRAWING
+ base station : DRAWING
+button : DRAWING
+basis : DRAWING
+ Basis station : DRAWING
+wheels : DRAWING
+button : DRAWING
+wheel : DRAWING
+two : CARDINAL
+wheels : DRAWING
+ Twenty five : MONEY
+ few minutes : DURATION
+two : CARDINAL
+ Marketing Expert : MARKETING
+orange : SHAPE

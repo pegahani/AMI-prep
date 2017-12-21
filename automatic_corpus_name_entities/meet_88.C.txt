@@ -1,0 +1,5 @@
+Louisa : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+cat : DRAWING
+five : CARDINAL
+slide : MEANS_OF_WORKING

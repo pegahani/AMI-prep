@@ -1,0 +1,7 @@
+Rolls-Royce : ORGANIZATION
+mouse : MEANS_OF_WORKING
+Pedro : INTERFACE_SPECIALIST
+eighties : DATE
+ couple of years : DURATION
+One : CARDINAL
+two : CARDINAL

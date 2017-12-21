@@ -1,0 +1,5 @@
+Kendra : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+black : COLOUR
+grey : COLOUR
+plastic : MATERIALS

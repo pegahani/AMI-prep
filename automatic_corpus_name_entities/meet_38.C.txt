@@ -1,0 +1,16 @@
+two : CARDINAL
+ cup cup shape : SHAPE
+slide : MEANS_OF_WORKING
+metal : MATERIALS
+slide : MEANS_OF_WORKING
+one : CARDINAL
+ animals shapes : SHAPE
+two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+ seventy percent : PERCENT
+ thirty percent : PERCENT

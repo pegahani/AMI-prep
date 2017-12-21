@@ -1,0 +1,28 @@
+ fourteen twenty five : TIME
+ forty minutes : DURATION
+ three o'clock : TIME
+three : CARDINAL
+three : CARDINAL
+ Function F_ eight : MEANS_OF_WORKING
+one : CARDINAL
+Eight : MEANS_OF_WORKING
+carrot : SHAPE
+one : CARDINAL
+four : CARDINAL
+ fifteen minutes : DURATION
+one : CARDINAL
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+latex : MATERIALS
+titanium : MATERIALS
+ five minutes : DURATION
+titanium : MATERIALS
+latex : MATERIALS
+Latex : MATERIALS
+one : CARDINAL
+zero : CARDINAL
+ thirty minutes : DURATION
+two : CARDINAL
+clay : MODELLING_STUFF
+coach : OTHER
+folder : MEANS_OF_WORKING

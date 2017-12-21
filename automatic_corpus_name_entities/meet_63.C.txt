@@ -1,0 +1,31 @@
+Mom : OTHER
+Moms : OTHER
+Play-Doh : MODELLING_STUFF
+rubber : MATERIALS
+curved : SHAPE
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+keypad : CONSTRUCTED
+keys : CONSTRUCTED
+keys : CONSTRUCTED
+rubber : MATERIALS
+black : COLOUR
+yellow : COLOUR
+blue : COLOUR
+red : COLOUR
+curved : SHAPE
+rubber : MATERIALS
+one : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+ fifty mil : MONEY
+ fifty million : MONEY
+one : CARDINAL
+one : CARDINAL
+ five minutes : DURATION

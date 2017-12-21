@@ -1,0 +1,39 @@
+three : CARDINAL
+ forty minutes : DURATION
+Three : CARDINAL
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+rubber : MEANS_OF_WORKING
+source : DRAWING
+control : MEANS_OF_WORKING
+function : MEANS_OF_WORKING
+red : COLOUR
+one : CARDINAL
+five : CARDINAL
+five : CARDINAL
+B_B_C_ : ORGANIZATION
+six : CARDINAL
+Sky : ORGANIZATION
+hundred : CARDINAL
+one : CARDINAL
+hundred : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ten : CARDINAL
+ten : CARDINAL
+twenty : CARDINAL
+fifty : CARDINAL
+five : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+ four hours : DURATION
+ twenty seconds : DURATION
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+ four hours : DURATION
+ five minutes : DURATION
+sixteen : CARDINAL
+sixteen : CARDINAL
+ forty minutes : DURATION

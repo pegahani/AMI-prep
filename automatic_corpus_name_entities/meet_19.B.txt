@@ -1,0 +1,64 @@
+banana : SHAPE
+fruit : SHAPE
+Apple : ORGANIZATION
+banana : SHAPE
+cucumber : SHAPE
+green : COLOUR
+cylindrical : SHAPE
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+mock-up : DRAWING
+square : SHAPE
+two : CARDINAL
+ scroll wheels : DRAWING
+ scroll wheel : DRAWING
+two : CARDINAL
+ scroll wheels : DRAWING
+one : CARDINAL
+one : CARDINAL
+button : DRAWING
+button : DRAWING
+ scroll wheel : DRAWING
+button : DRAWING
+two : CARDINAL
+banana : SHAPE
+couple : CARDINAL
+ scroll wheels : DRAWING
+button : DRAWING
+banana : SHAPE
+ scroll wheels : DRAWING
+banana : SHAPE
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+hundred : CARDINAL
+hundred : CARDINAL
+ one second : DURATION
+curve : SHAPE
+whiteboard : MEANS_OF_WORKING
+convex : SHAPE
+concave : SHAPE
+wood : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+banana : SHAPE
+Green : COLOUR
+banana : SHAPE
+banana : SHAPE
+capsicum : SHAPE
+banana : SHAPE
+banana : SHAPE
+banana : SHAPE
+yellow : COLOUR
+silver : COLOUR
+banana : SHAPE
+banana : SHAPE
+ twenty first century : DATE
+sixties : DATE
+seventies : DATE
+banana : SHAPE
+device : DRAWING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+banana : SHAPE
+ Four point four million : CARDINAL

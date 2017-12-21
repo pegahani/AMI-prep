@@ -1,0 +1,16 @@
+things : MEANS_OF_WORKING
+ two minutes : DURATION
+one : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+red : COLOUR
+black : COLOUR
+white : COLOUR
+beige : COLOUR
+black : COLOUR
+black : COLOUR
+pink : COLOUR
+ five minutes : DURATION
+ forty minutes : DURATION
+ forty minutes : DURATION

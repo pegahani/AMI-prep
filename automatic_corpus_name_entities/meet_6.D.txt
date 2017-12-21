@@ -1,0 +1,12 @@
+one : CARDINAL
+ one hundred : CARDINAL
+ seventy five per cent : PERCENT
+ Eighty per cents : PERCENT
+Eighty : PERCENT
+ hundred per cent : PERCENT
+Fifty : PERCENT
+ seventy five per cent : PERCENT
+ fifty per cents : PERCENT
+ ten per cents : PERCENT
+fifteen : MEASURE
+ twenty five : MEASURE

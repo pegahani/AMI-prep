@@ -1,0 +1,25 @@
+Matthew : INDUSTRIAL_DESIGNER
+Matthew : INTERFACE_SPECIALIST
+Matthew : INTERFACE_SPECIALIST
+three : CARDINAL
+four : CARDINAL
+one : CARDINAL
+ twelve Euros : MONEY
+two : CARDINAL
+Two : CARDINAL
+fibreglass : MATERIALS
+plastic : MATERIALS
+mouse : MEANS_OF_WORKING
+ twelve Euros : MONEY
+ four million : CARDINAL
+ U_R_I_ Expert : INTERFACE_SPECIALIST
+one : CARDINAL
+one : CARDINAL
+twenty : MONEY
+ twenty uh Euros : MONEY
+plastic : MATERIALS
+wood : MATERIALS
+ User Interface Designer : INTERFACE_SPECIALIST
+Two : CARDINAL
+three : CARDINAL
+Two : CARDINAL

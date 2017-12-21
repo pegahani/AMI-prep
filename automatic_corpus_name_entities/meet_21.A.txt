@@ -1,0 +1,19 @@
+ project manager : PROJECT_MANAGER
+ Fabien Cardinaux : PROJECT_MANAGER
+tool : MEANS_OF_WORKING
+ twenty five minutes : DURATION
+tools : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+Switzerland : LOCATION
+ twelve point fifty Euro : MONEY
+ five minutes : DURATION
+ thirty minutes : DURATION
+ User Interface Designer : INTERFACE_SPECIALIST
+Hamed : INTERFACE_SPECIALIST
+ Marketing uh : PROJECT_MANAGER
+Manager : PROJECT_MANAGER
+Bob : MARKETING
+ thirty minutes : DURATION

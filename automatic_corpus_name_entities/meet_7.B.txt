@@ -1,0 +1,7 @@
+three : CARDINAL
+slides : MEANS_OF_WORKING
+one : CARDINAL
+fifty : CARDINAL
+squarey : SHAPE
+rubber : MATERIALS
+blue : COLOUR

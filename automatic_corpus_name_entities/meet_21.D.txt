@@ -1,0 +1,14 @@
+ Bob Mor : MARKETING
+ Bob Morris : MARKETING
+ Marketing Expert : MARKETING
+Bob : MARKETING
+head : DRAWING
+microphone's : RECORDING_DEVICES
+four : CARDINAL
+six : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+I_D_ : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+marketing : MARKETING

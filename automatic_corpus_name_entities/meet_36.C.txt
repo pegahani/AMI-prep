@@ -1,0 +1,39 @@
+presentation : MEANS_OF_WORKING
+Christine : INDUSTRIAL_DESIGNER
+presentation : MEANS_OF_WORKING
+Three : CARDINAL
+mouse : MEANS_OF_WORKING
+ergonomic : SHAPE
+wood : MATERIALS
+wood : MATERIALS
+product : CONSTRUCTED
+ remote control : CONSTRUCTED
+panel : CONSTRUCTED
+panel : CONSTRUCTED
+yellow : COLOUR
+display : CONSTRUCTED
+yellow : COLOUR
+button : CONSTRUCTED
+button : CONSTRUCTED
+red : COLOUR
+triangles : SHAPE
+toggles : CONSTRUCTED
+green : COLOUR
+displays : CONSTRUCTED
+pad : CONSTRUCTED
+ dark blue : COLOUR
+ white board : MEANS_OF_WORKING
+backing : CONSTRUCTED
+case : CONSTRUCTED
+flip : CONSTRUCTED
+ remote control : CONSTRUCTED
+ remote control : CONSTRUCTED
+flip : CONSTRUCTED
+ remote control : CONSTRUCTED
+flip : CONSTRUCTED
+buttons : CONSTRUCTED
+egg : SHAPE
+plasticene : MODELLING_STUFF
+thirty : CARDINAL
+ two weeks : DURATION
+ few years : DURATION

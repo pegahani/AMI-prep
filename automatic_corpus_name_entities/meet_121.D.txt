@@ -1,0 +1,92 @@
+Animation : DRAWING
+sixteen : MEASURE
+ forty five um years : MEASURE
+ two third : CARDINAL
+ forty five years : MEASURE
+ sixty five years : MEASURE
+ two third : CARDINAL
+ two fifth : CARDINAL
+ Fifty percent : PERCENT
+ Seventy five percent : PERCENT
+ seventy five : PERCENT
+ seventy five percent : PERCENT
+ one time an hour : MEASURE
+ one time an hour : MEASURE
+two : CARDINAL
+one : CARDINAL
+ forty five : MEASURE
+ sixty five years : MEASURE
+one : CARDINAL
+two : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ five secs : DURATION
+twelve : CARDINAL
+ Forty five : MEASURE
+Forties : MEASURE
+sixteen : MEASURE
+ twenty five : MEASURE
+ eighty one percent : PERCENT
+ twenty six : MEASURE
+ thirty five : MEASURE
+ sixty six percent : PERCENT
+ thirty six : MEASURE
+ forty five : MEASURE
+ fifty five percent : PERCENT
+ two years : DURATION
+sixteen : MEASURE
+ forty five : MEASURE
+sixteen : MEASURE
+ forty five : MEASURE
+ forty six : MEASURE
+ forty five : MEASURE
+ thirty three percent : PERCENT
+sixty : MEASURE
+ fifty six : MEASURE
+ sixty five : MEASURE
+ twelve percent : PERCENT
+forty : MEASURE
+ forty years : MEASURE
+ sixty five : MEASURE
+rubber : MATERIALS
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+ seventy five percent : PERCENT
+one : CARDINAL
+ two minutes : DURATION
+two : DURATION
+ three minutes : DURATION
+hour : DURATION
+hours : DURATION
+ six hours : DURATION
+five : DURATION
+ six hours : DURATION
+ couple of days : DURATION
+Twelve : MONEY
+ ninety one percent : PERCENT
+sixteen : MEASURE
+ twenty five : MEASURE
+ twenty six : MEASURE
+ thirty five years : MEASURE
+ seventy six percent : PERCENT
+ thirty six : MEASURE
+ forty five : MEASURE
+ thirty five percent : PERCENT
+Ninety : CARDINAL
+ Twenty five : CARDINAL
+twelve : CARDINAL
+ thirty six : MEASURE
+ forty five : MEASURE
+ thirty percent : PERCENT
+ fifty five : PERCENT
+ thirty five : PERCENT
+ Fifty Euro cents : MEASURE
+Curved : SHAPE
+one : CARDINAL
+zero : CARDINAL
+presentation : MEANS_OF_WORKING
+four : CARDINAL
+ Eighty percent : PERCENT
+green : COLOUR
+one : CARDINAL

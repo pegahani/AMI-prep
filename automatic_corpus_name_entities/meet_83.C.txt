@@ -1,0 +1,4 @@
+plastic : MATERIALS
+grey : COLOUR
+circle : SHAPE
+million : CARDINAL

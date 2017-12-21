@@ -1,0 +1,24 @@
+ Adam Duguid : PROJECT_MANAGER
+ real reaction : ORGANIZATION
+Ebenezer : MARKETING
+ Marketing Expert : MARKETING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface : INTERFACE_SPECIALIST
+three : CARDINAL
+Ebenezer : MARKETING
+Tarik : INDUSTRIAL_DESIGNER
+belt : INCIDENTAL
+mic : RECORDING_DEVICES
+Dave : INTERFACE_SPECIALIST
+drawing : DRAWING
+whiteboard : MEANS_OF_WORKING
+ twelve point five Euros : MONEY
+ twenty five : MONEY
+ fifty million Euros : MONEY
+ fifty million : MONEY
+ twelve point five Euros : MONEY
+one : CARDINAL
+one : CARDINAL
+ thirty minutes : DURATION
+microphones : MEANS_OF_WORKING
+laptops : MEANS_OF_WORKING

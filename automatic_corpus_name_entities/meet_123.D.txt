@@ -1,0 +1,159 @@
+microphone : DRAWING
+ remote control : DRAWING
+ seven point : MEASURE
+one : MEASURE
+seven : MEASURE
+One : MEASURE
+seven : MEASURE
+three : CARDINAL
+ remote control : DRAWING
+ Project Manager : PROJECT_MANAGER
+two : CARDINAL
+one : MEASURE
+seven : MEASURE
+two : MEASURE
+two : MEASURE
+one : MEASURE
+two : MEASURE
+two : MEASURE
+scroller : DRAWING
+one : MEASURE
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+screen : DRAWING
+three : MEASURE
+button : DRAWING
+button : DRAWING
+button : DRAWING
+two : MEASURE
+sixteen : MEASURE
+ forty years : MEASURE
+ forty eight : MEASURE
+ sixty years : MEASURE
+ sixty years : MEASURE
+two : MEASURE
+seven : MEASURE
+three : MEASURE
+one : MEASURE
+one : MEASURE
+ Remote control : DRAWING
+rubber : MATERIALS
+one : MEASURE
+one : MEASURE
+rubber : MEASURE
+ Remote control : DRAWING
+ sixty years : MEASURE
+microphone : DRAWING
+two : MEASURE
+ sixty years : MEASURE
+ Remote control : DRAWING
+buttons : DRAWING
+three : MEASURE
+screen : DRAWING
+three : CARDINAL
+screen : DRAWING
+microphone : DRAWING
+one : MEASURE
+buttons : DRAWING
+microphone : DRAWING
+screen : DRAWING
+thing : DRAWING
+two : MEASURE
+two : MEASURE
+ remote control : DRAWING
+black : COLOUR
+yellow : COLOUR
+two : MEASURE
+one : CARDINAL
+three : MEASURE
+one : MEASURE
+Two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+ fifty five Euros : MONEY
+microphone : DRAWING
+nine : MONEY
+double : CARDINAL
+curved : SHAPE
+Single : CARDINAL
+curved : SHAPE
+curved : SHAPE
+curves : SHAPE
+two : CARDINAL
+curves : SHAPE
+Rubber : MATERIALS
+button : DRAWING
+button : DRAWING
+display : DRAWING
+ Eighteen and a half : MONEY
+six : MONEY
+ Twelve and half : MONEY
+four : MONEY
+four : MONEY
+Curved : SHAPE
+square : SHAPE
+single : CARDINAL
+curve : SHAPE
+one : MONEY
+one : MONEY
+screen : DRAWING
+Single : CARDINAL
+curved : SHAPE
+Flat : SHAPE
+four : MONEY
+four : MONEY
+wood : MATERIALS
+rubber : MATERIALS
+one : MONEY
+three : MONEY
+ Point three : MONEY
+ Point twelve : MONEY
+ scroll wheel : DRAWING
+wood : MATERIALS
+brown : COLOUR
+ dark brown : COLOUR
+wood : MATERIALS
+fruit : COLOUR
+ twelve and half : MONEY
+display : DRAWING
+Five : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+yellow : COLOUR
+red : COLOUR
+black : COLOUR
+titanium : MATERIALS
+rubbers : MATERIALS
+black : COLOUR
+red : COLOUR
+two : CARDINAL
+black : COLOUR
+two : MONEY
+one : MONEY
+ scroll wheel : DRAWING
+mic : DRAWING
+mic : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+ five minutes : DURATION
+computer : MEANS_OF_WORKING
+seven : CARDINAL
+remote : DRAWING
+ remote control : DRAWING
+four : MONEY
+ half past four : TIME
+ half past three : TIME
+ Six hundred : MEASURE
+ eight hundred six hundred : MEASURE
+Ten : CARDINAL
+Ten : CARDINAL

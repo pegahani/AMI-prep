@@ -1,0 +1,4 @@
+Agnes : INTERFACE_SPECIALIST
+ user interface designer : INTERFACE_SPECIALIST
+Christine : INDUSTRIAL_DESIGNER
+three : CARDINAL

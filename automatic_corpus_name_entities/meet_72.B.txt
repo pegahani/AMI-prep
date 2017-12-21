@@ -1,0 +1,5 @@
+whiteboard : MEANS_OF_WORKING
+kitty : DRAWING
+cat : DRAWING
+One : CARDINAL
+lithium : MATERIALS

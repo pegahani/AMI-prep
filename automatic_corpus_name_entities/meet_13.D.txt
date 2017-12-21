@@ -1,0 +1,11 @@
+ Marketing Expert : MARKETING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ twelve Euros and f fifty : MONEY
+cat : DRAWING
+whiteboard : MEANS_OF_WORKING
+Pikachu : DRAWING
+ Bugs Bunny : DRAWING
+fish : DRAWING
+ twenty five minutes : DURATION

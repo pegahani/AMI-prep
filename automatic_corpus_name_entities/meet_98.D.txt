@@ -1,0 +1,14 @@
+cable : MEANS_OF_WORKING
+twice : CARDINAL
+rectangular : SHAPE
+two : CARDINAL
+Manuel : INDUSTRIAL_DESIGNER
+two : CARDINAL
+two : CARDINAL
+ Bright citrus : COLOUR
+Yellow : COLOUR
+grey : COLOUR
+yellow : COLOUR
+Grey : COLOUR
+two : CARDINAL
+plastic : MATERIALS

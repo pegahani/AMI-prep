@@ -1,0 +1,31 @@
+ twelve point f : MONEY
+day : DURATION
+green : COLOUR
+ parrot green : COLOUR
+ chilli red : COLOUR
+titanium : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+two : CARDINAL
+picture : DRAWING
+models : DRAWING
+ marketing team : MARKETING
+black : COLOUR
+white : COLOUR
+rectangular : SHAPE
+designs : DRAWING
+control : DRAWING
+control : DRAWING
+William : INDUSTRIAL_DESIGNER
+rubber : MATERIALS
+ red chilli : COLOUR
+ tomato red : COLOUR
+slide : MEANS_OF_WORKING
+pattern : DRAWING
+pattern : DRAWING
+black : COLOUR
+white : COLOUR
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+William : INDUSTRIAL_DESIGNER

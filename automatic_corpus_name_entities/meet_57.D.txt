@@ -1,0 +1,5 @@
+computer : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+one : CARDINAL
+red : COLOUR
+seventy : PERCENT

@@ -1,0 +1,18 @@
+cable : MEANS_OF_WORKING
+hundred : CARDINAL
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+six : CARDINAL
+ seventy five percent : PERCENT
+ seventy five percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+nine : CARDINAL
+two : CARDINAL
+ten : CARDINAL
+ eighty percent : PERCENT
+cable : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+ twenty seconds : DURATION
+ hundred and sixty eight : MEASURE
+second : DURATION

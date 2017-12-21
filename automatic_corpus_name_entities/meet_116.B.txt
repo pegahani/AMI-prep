@@ -1,0 +1,14 @@
+Two : CARDINAL
+one : CARDINAL
+One : CARDINAL
+Purple : COLOUR
+pink : COLOUR
+elephant : DRAWING
+water : DRAWING
+dog : DRAWING
+pig : DRAWING
+dog : DRAWING
+cat : DRAWING
+paper : MEANS_OF_WORKING
+paper : MEANS_OF_WORKING
+donkey : DRAWING

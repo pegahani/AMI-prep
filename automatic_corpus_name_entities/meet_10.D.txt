@@ -1,0 +1,29 @@
+ eighty percent : PERCENT
+ ninety percent : PERCENT
+ ninety-five percent : PERCENT
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+two : CARDINAL
+ eighty-nine Euros : MONEY
+ twenty-five Euros : MONEY
+Pedro : INTERFACE_SPECIALIST
+one : CARDINAL
+ United States : LOCATION
+ twenty-five Euros : MONEY
+ seven more minutes : DURATION
+ ten minutes : DURATION
+ fifty Euros : MONEY
+ sixty Euros : MONEY
+ Rolls Royce : ORGANIZATION
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ twenty percent : PERCENT
+eighteen : MONEY
+ nineteen Euro : MONEY
+four : CARDINAL
+five : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL

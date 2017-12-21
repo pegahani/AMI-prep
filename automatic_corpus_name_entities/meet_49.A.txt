@@ -1,0 +1,8 @@
+one : CARDINAL
+three : CARDINAL
+dog : DRAWING
+Eagle : DRAWING
+ One point four : MONEY
+ One point four Euro : MONEY
+Pound : MONEY
+one : CARDINAL

@@ -1,0 +1,24 @@
+one : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+one : CARDINAL
+curved : SHAPE
+curved : SHAPE
+two : CARDINAL
+curved : SHAPE
+plastic : MATERIALS
+rubber : MATERIALS
+curved : SHAPE
+year's : DURATION
+curved : SHAPE
+rubber : MATERIALS
+one : CARDINAL
+yellow : COLOUR
+one : CARDINAL
+rubber : MATERIALS
+ Industrial Designer : INDUSTRIAL_DESIGNER
+sixty : MEASURE
+ twenty five Euros : MONEY
+ five minute : DURATION
+clay : MODELLING_STUFF
+rubber : MATERIALS
+ half hour : DURATION

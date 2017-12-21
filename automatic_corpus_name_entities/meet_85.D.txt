@@ -1,0 +1,25 @@
+ four million : CARDINAL
+ Real Reaction : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ fifty percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+ eighty percent : PERCENT
+ eighty percent : PERCENT
+hundred : CARDINAL
+eighty : CARDINAL
+hundred : CARDINAL
+ Real Reaction : ORGANIZATION
+ ninety one percent : PERCENT
+ ninety one percent : PERCENT
+fifteen : MEASURE
+ twenty five : MEASURE
+ three quarters : CARDINAL
+ twenty five : MEASURE
+ thirty five : MEASURE
+ Ozzy Osbourne : OTHER
+Kate : INDUSTRIAL_DESIGNER
+whiteboard : MEANS_OF_WORKING
+Whiteboard : MEANS_OF_WORKING
+Kate : INDUSTRIAL_DESIGNER
+one : CARDINAL

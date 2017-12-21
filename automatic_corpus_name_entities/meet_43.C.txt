@@ -1,0 +1,10 @@
+red : COLOUR
+red : COLOUR
+red : COLOUR
+one : CARDINAL
+square : SHAPE
+fruit : SHAPE
+curvy : SHAPE
+snowman : SHAPE
+two : CARDINAL
+yellow : COLOUR

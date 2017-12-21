@@ -1,0 +1,17 @@
+Nathan : INDUSTRIAL_DESIGNER
+California : LOCATION
+U_C_L_A_ : ORGANIZATION
+ eight Pounds : MONEY
+ San Diego : LOCATION
+ La Jolla : LOCATION
+P_B_ : LOCATION
+ San Francisco : LOCATION
+Cali : LOCATION
+California : LOCATION
+eighteen : MEASURE
+ San Diego : LOCATION
+California : LOCATION
+ San Diego : LOCATION
+ thirty second : LOCATION
+coach : EXPERIMENTER
+one : CARDINAL

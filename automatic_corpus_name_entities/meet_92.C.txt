@@ -1,0 +1,8 @@
+Tara : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+dog : DRAWING
+dog : DRAWING
+dog : DRAWING
+dog : DRAWING
+dog : DRAWING
+dog : DRAWING

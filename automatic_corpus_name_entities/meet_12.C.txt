@@ -1,0 +1,10 @@
+ fifteen point eight Euros : MONEY
+one : CARDINAL
+station : CONSTRUCTED
+button : CONSTRUCTED
+scroll : CONSTRUCTED
+mic : RECORDING_DEVICES
+Lapel : RECORDING_DEVICES
+lapel : RECORDING_DEVICES
+lapel : RECORDING_DEVICES
+headsets : RECORDING_DEVICES

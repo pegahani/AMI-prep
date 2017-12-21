@@ -1,0 +1,9 @@
+ Ebenezer Ademesoye : MARKETING
+ Marketing Expert : MARKETING
+Whiteboard : MEANS_OF_WORKING
+picture : DRAWING
+elephant : DRAWING
+Ebenezer : MARKETING
+Nigeria : LOCATION
+Ebenezer : MARKETING
+microphone : RECORDING_DEVICES

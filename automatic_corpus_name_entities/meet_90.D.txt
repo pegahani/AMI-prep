@@ -1,0 +1,16 @@
+Paris : LOCATION
+Milan : LOCATION
+two : CARDINAL
+rubber : MATERIALS
+plastic : MATERIALS
+banana : SHAPE
+one : CARDINAL
+fruit : SHAPE
+rubber : MATERIALS
+year : DURATION
+Rubber : MATERIALS
+Rubber : MATERIALS
+one : CARDINAL
+fruit : SHAPE
+rubber : MATERIALS
+a : COLOUR

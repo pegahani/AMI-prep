@@ -1,0 +1,67 @@
+cable : MEANS_OF_WORKING
+five : CARDINAL
+eleven : CARDINAL
+table : DRAWING
+one : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+whiteboard : MEANS_OF_WORKING
+ one point one : CARDINAL
+circle : SHAPE
+One : CARDINAL
+Five : CARDINAL
+Two : CARDINAL
+four : CARDINAL
+thirteen : CARDINAL
+One : CARDINAL
+five : CARDINAL
+five : CARDINAL
+two : CARDINAL
+One : CARDINAL
+five : CARDINAL
+five : CARDINAL
+two : CARDINAL
+thirteen : CARDINAL
+four : CARDINAL
+Two : CARDINAL
+ One point three : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+ one point one : CARDINAL
+Two : CARDINAL
+ one point two : CARDINAL
+Two : CARDINAL
+ one point three : CARDINAL
+ Two point one : CARDINAL
+Two : CARDINAL
+one : CARDINAL
+ two point two : CARDINAL
+ one point five : CARDINAL
+ Three point one : CARDINAL
+slide : MEANS_OF_WORKING
+One : CARDINAL
+four : CARDINAL
+three : CARDINAL
+three : CARDINAL
+ three point two : CARDINAL
+ Three point three : CARDINAL
+ Four point one : CARDINAL
+Two : CARDINAL
+ Four point two : CARDINAL
+Two : CARDINAL
+ four point three : CARDINAL
+One : CARDINAL
+two : CARDINAL
+ three point one : CARDINAL
+slide : MEANS_OF_WORKING
+ Three point one : CARDINAL
+Slide : MEANS_OF_WORKING
+ three point one : CARDINAL
+ Four point one : CARDINAL
+ Four point two : CARDINAL
+three : CARDINAL
+two : CARDINAL
+eight : CARDINAL
+nine : CARDINAL

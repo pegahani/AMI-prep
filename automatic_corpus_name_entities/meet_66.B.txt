@@ -1,0 +1,34 @@
+curved : SHAPE
+double-curved : SHAPE
+plastic : MATERIALS
+plastic : MATERIALS
+wood : MATERIALS
+latex : MATERIALS
+titanium : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+ Real Reaction : ORGANIZATION
+latex : MATERIALS
+ fifty years : DURATION
+curved : SHAPE
+titanium : MATERIALS
+wood : MATERIALS
+titanium : MATERIALS
+titanium : MATERIALS
+titanium : MATERIALS
+latex : MATERIALS
+latex : MATERIALS
+latex : MATERIALS
+fruit-shaped : SHAPE
+four : CARDINAL
+fibreglass : MATERIALS
+copper : MATERIALS
+latex : MATERIALS
+latex : MATERIALS
+plastic : MATERIALS
+latex : MATERIALS
+latex : MATERIALS
+curved : SHAPE
+one : CARDINAL
+five : CARDINAL
+Clay : MODELLING_STUFF

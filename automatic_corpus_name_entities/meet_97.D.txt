@@ -1,0 +1,21 @@
+ F_ eight : MEANS_OF_WORKING
+report : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+hundred : CARDINAL
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+ Seventy five percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+one : CARDINAL
+ fifty percent : PERCENT
+ thirty four percent : PERCENT
+ twenty six percent : PERCENT
+fifteen : MEASURE
+ twenty five : MEASURE
+ ninety percent : PERCENT
+one : CARDINAL
+five : CARDINAL
+ ninety one percent : PERCENT
+ fifteen year : MEASURE
+Power : DRAWING

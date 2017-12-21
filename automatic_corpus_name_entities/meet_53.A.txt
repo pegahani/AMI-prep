@@ -1,0 +1,22 @@
+ F_ five : MEANS_OF_WORKING
+ Function F_ five : MEANS_OF_WORKING
+ function F_ eight : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Raj : MARKETING
+one : CARDINAL
+ fifty million Euros : MONEY
+ twenty five : CARDINAL
+plastic : MATERIALS
+tenth : CARDINAL
+parts : DRAWING
+parts : DRAWING
+Yellow : COLOUR
+ two years : DURATION
+desktop : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+desktop : MEANS_OF_WORKING
+red : COLOUR
+foam : MATERIALS
+yellow : COLOUR
+yellow : COLOUR
+ Twelve thirty : TIME

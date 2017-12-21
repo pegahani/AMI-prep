@@ -1,0 +1,110 @@
+Andre : PROJECT_MANAGER
+room : DRAWING
+two : CARDINAL
+three : CARDINAL
+ two and a half : CARDINAL
+room : DRAWING
+Susan : MARKETING
+room : DRAWING
+fifteen : CARDINAL
+eighteen : CARDINAL
+ two people : MEASURE
+room : DRAWING
+room : DRAWING
+sixteen : CARDINAL
+zero : CARDINAL
+Andre : PROJECT_MANAGER
+ half per cent : PERCENT
+ fifty per cent : PERCENT
+E_P_F_L_ : ORGANIZATION
+part-time : MEASURE
+room : DRAWING
+part-time : MEASURE
+room : DRAWING
+office : DRAWING
+ISSCO : ORGANIZATION
+E_P_F_L_ : ORGANIZATION
+E_P_F_L_ : ORGANIZATION
+rooms : DRAWING
+walls : DRAWING
+Four : CARDINAL
+walls : DRAWING
+two : CARDINAL
+room : DRAWING
+room : DRAWING
+room : DRAWING
+Susan's : MARKETING
+lounge : DRAWING
+lounge : DRAWING
+room : DRAWING
+rooms : DRAWING
+fifteen : CARDINAL
+four : CARDINAL
+two : CARDINAL
+rooms : DRAWING
+E_P_F_L_ : ORGANIZATION
+balcony : DRAWING
+Andre : PROJECT_MANAGER
+Andre : PROJECT_MANAGER
+mountains : DRAWING
+town : DRAWING
+toilets : DRAWING
+ one person : MEASURE
+ one person : MEASURE
+rooms : DRAWING
+two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+ half part : MEASURE
+half-time : MEASURE
+room : DRAWING
+one : CARDINAL
+admin : OTHER
+two : CARDINAL
+one : CARDINAL
+ one person : MEASURE
+rooms : DRAWING
+admin : OTHER
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ one person : MEASURE
+rooms : DRAWING
+admin : OTHER
+ two person : MEASURE
+room : DRAWING
+admin : OTHER
+two : CARDINAL
+full-time : MEASURE
+one : CARDINAL
+Maggie : OTHER
+Pierrette : OTHER
+ two person : MEASURE
+room : DRAWING
+admin : OTHER
+office : DRAWING
+secretary : OTHER
+Susan : MARKETING
+Andre : PROJECT_MANAGER
+Maggie : OTHER
+Pierrette : OTHER
+ two hours : DURATION
+room : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+Susan : MARKETING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+one : CARDINAL
+cafeteria : DRAWING
+cafeteria : DRAWING
+room : DRAWING
+Five : TIME
+room : DRAWING
+Tuesday : DATE
+Tuesday : DATE
+twice : CARDINAL

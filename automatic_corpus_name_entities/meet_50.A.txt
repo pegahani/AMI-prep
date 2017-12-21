@@ -1,0 +1,23 @@
+ F_ eight : MEANS_OF_WORKING
+William's : INDUSTRIAL_DESIGNER
+William : INDUSTRIAL_DESIGNER
+hundred : CARDINAL
+two : CARDINAL
+thirty : PERCENT
+ forty percent : PERCENT
+ fifty million : MONEY
+ Ten perc : PERCENT
+Pens : MEANS_OF_WORKING
+five : CARDINAL
+six : CARDINAL
+U_S_ : LOCATION
+Japan : LOCATION
+twenty : MEASURE
+ thirty five : MEASURE
+Nokia : ORGANIZATION
+six : DURATION
+ seven years : DURATION
+five : CARDINAL
+six : CARDINAL
+five : CARDINAL
+six : CARDINAL

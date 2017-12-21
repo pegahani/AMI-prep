@@ -1,0 +1,43 @@
+Pierrette : OTHER
+ fifty per cent : PERCENT
+ three person : MEASURE
+office : DRAWING
+ couple of years : DURATION
+mountains : DRAWING
+room : DRAWING
+two : CARDINAL
+town : DRAWING
+purple : COLOUR
+thing : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+offices : DRAWING
+lounge : DRAWING
+room : DRAWING
+lounge : DRAWING
+mailboxes : DRAWING
+printer : DRAWING
+restrooms : DRAWING
+offices : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+two : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+room : DRAWING
+room : DRAWING
+One : CARDINAL
+room : DRAWING
+one : CARDINAL
+professor : OTHER
+four : CARDINAL
+office : DRAWING
+four : CARDINAL
+four : CARDINAL
+wall : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+ person to square meter : MEASURE
+office : DRAWING
+room : DRAWING

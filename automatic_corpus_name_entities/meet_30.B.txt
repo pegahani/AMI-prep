@@ -1,0 +1,17 @@
+ F_ five : MEANS_OF_WORKING
+chip : DRAWING
+two : CARDINAL
+slide : MEANS_OF_WORKING
+two : CARDINAL
+prototypes : DRAWING
+two : CARDINAL
+One : CARDINAL
+prototypes : DRAWING
+buttons : DRAWING
+hundred : CARDINAL
+button : DRAWING
+hundred : CARDINAL
+ hundred pages : MEASURE
+Harry : MARKETING
+buttons : DRAWING
+hundred : CARDINAL

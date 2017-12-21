@@ -1,0 +1,27 @@
+four : CARDINAL
+mouse : MEANS_OF_WORKING
+Paris : LOCATION
+Milan : LOCATION
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Paris : LOCATION
+Milan : LOCATION
+Fabian : PROJECT_MANAGER
+one : CARDINAL
+ Real Reaction : ORGANIZATION
+two : CARDINAL
+half : CARDINAL
+half : CARDINAL
+ seven inch : MEASURE
+seven : MEASURE
+ seven centimetres by seven centimetres : MEASURE
+ seven centimetres square : MEASURE
+five : MEASURE
+ five centimetres by ten centimetres : MEASURE
+yellow : COLOUR
+Velcro : MATERIALS
+vinyl : MATERIALS
+suede : MATERIALS
+One : CARDINAL

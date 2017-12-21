@@ -1,0 +1,17 @@
+five : CARDINAL
+Five : CARDINAL
+four : CARDINAL
+rubber : MATERIALS
+four : CARDINAL
+Six : CARDINAL
+Six : CARDINAL
+Six : CARDINAL
+six : CARDINAL
+ six point five : CARDINAL
+seven : CARDINAL
+Six : CARDINAL
+rubber : MATERIALS
+Six : CARDINAL
+five : CARDINAL
+Five : CARDINAL
+Six : CARDINAL

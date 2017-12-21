@@ -1,0 +1,82 @@
+Bart : PROJECT_MANAGER
+Bart : PROJECT_MANAGER
+Bart : PROJECT_MANAGER
+cameras : RECORDING_DEVICES
+wires : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+folder : MEANS_OF_WORKING
+notes : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+administrator : OTHER
+ Real Reaction : ORGANIZATION
+Bart : PROJECT_MANAGER
+ project manager : PROJECT_MANAGER
+ Real Remote : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ Real Remote : ORGANIZATION
+ Marketing Expert : MARKETING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ marketing expert : MARKETING
+boards : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+bar : MEANS_OF_WORKING
+document : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+eraser : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+page : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+boards : MEANS_OF_WORKING
+document : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+bar : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+Mouse : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+sensors : MEANS_OF_WORKING
+grey : COLOUR
+seven : MEASURE
+dolphin : DRAWING
+nose : DRAWING
+swordfish : DRAWING
+eye : DRAWING
+eraser : MEANS_OF_WORKING
+Pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+sheep : DRAWING
+sheet : MEANS_OF_WORKING
+cat : DRAWING
+cat : DRAWING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+ twelve and a half Euros : MONEY
+ twenty five : MONEY
+ fifty million : MONEY
+ twelve and a half Euros : MONEY
+five : DURATION
+ ten minutes : DURATION
+message : MEANS_OF_WORKING
+ Five minutes : DURATION
+laptops : MEANS_OF_WORKING
+eight : CARDINAL
+one : CARDINAL
+few : CARDINAL
+minutes : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+minutes : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ half an hour : DURATION

@@ -1,0 +1,28 @@
+ Abigail Claflin : PROJECT_MANAGER
+Abbie : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+ white board : MEANS_OF_WORKING
+dolphin : DRAWING
+ten : CARDINAL
+cat : DRAWING
+horse : DRAWING
+cord's : MEANS_OF_WORKING
+pig : DRAWING
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+Scotland : LOCATION
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+ fifty percent : PERCENT
+ Five minutes : DURATION
+hundred : CARDINAL
+ twelve point : MONEY
+ twelve fifty : MONEY
+ thirty minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_ : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+M_E_ : MARKETING
+Marketing : MARKETING
+ thirty minutes : DURATION

@@ -1,0 +1,27 @@
+ Real Reaction's : ORGANIZATION
+year : DURATION
+Andrew : MARKETING
+marketing : MARKETING
+Kendra : INTERFACE_SPECIALIST
+Kate : INDUSTRIAL_DESIGNER
+Andrew : MARKETING
+Kendra : INTERFACE_SPECIALIST
+slides : MEANS_OF_WORKING
+screens : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+wires : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+white : COLOUR
+Kendra : INTERFACE_SPECIALIST
+ twenty five Euro : MONEY
+ fifty million Euros : MONEY
+ fifty percent : PERCENT
+ twelve Euros fifty : MONEY
+Andrew : MARKETING
+millions : CARDINAL
+Kendra : INTERFACE_SPECIALIST
+Andrew : MARKETING
+ thirty minutes : DURATION
+ thirty minutes : DURATION

@@ -1,0 +1,23 @@
+ F_ eight : MEANS_OF_WORKING
+Genevieve : MARKETING
+ Marketing Expert : MARKETING
+Tara : INTERFACE_SPECIALIST
+Pinocchio : OTHER
+Spring : DATE
+Scotland : LOCATION
+brown : COLOUR
+blue : COLOUR
+green : COLOUR
+green : COLOUR
+red : COLOUR
+body : DRAWING
+butterfly : DRAWING
+Scotland : LOCATION
+March : DATE
+ two minutes : DURATION
+animal : DRAWING
+Spring : DATE
+ hundred percent : PERCENT
+ Twelve fifty : MONEY
+shell-shaped : SHAPE
+ Marketing Expert : MARKETING

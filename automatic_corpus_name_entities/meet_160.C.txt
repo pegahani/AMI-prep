@@ -1,0 +1,206 @@
+Martin : OTHER
+ fifty per cent : PERCENT
+office : DRAWING
+one : CARDINAL
+two : CARDINAL
+mountains : CARDINAL
+Susan : OTHER
+Martin : OTHER
+David : OTHER
+Susan : OTHER
+Maggie : OTHER
+Pierrette : OTHER
+offices : DRAWING
+Susan : OTHER
+office : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+one : CARDINAL
+room : DRAWING
+two : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+room : DRAWING
+two : CARDINAL
+mountains : DRAWING
+office : DRAWING
+Gisella : OTHER
+ fifty per cent : PERCENT
+ half time : MEASURE
+ fax machine : DRAWING
+Gisella : OTHER
+half : CARDINAL
+office : DRAWING
+office : DRAWING
+Gisella : OTHER
+office : DRAWING
+one : CARDINAL
+ one person : MEASURE
+rooms : DRAWING
+Maggie : OTHER
+office : DRAWING
+Pierrette : OTHER
+Pierrette : OTHER
+office : DRAWING
+two : CARDINAL
+assistant : OTHER
+Pierrette : OTHER
+office : DRAWING
+Marianne : OTHER
+assistant : OTHER
+Maggie : OTHER
+Bruno : OTHER
+room : DRAWING
+Paola : OTHER
+Susan : OTHER
+ two month : DURATION
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+rooms : DRAWING
+two : CARDINAL
+Paola : OTHER
+Yalina : OTHER
+two : CARDINAL
+Maria : OTHER
+David : OTHER
+one : CARDINAL
+room : DRAWING
+room : DRAWING
+one : CARDINAL
+Maria : OTHER
+David : OTHER
+ fifty per cent : PERCENT
+room : DRAWING
+two : CARDINAL
+three : DURATION
+ four month : DURATION
+Gisella : OTHER
+one : DURATION
+two : DURATION
+one : DURATION
+ two years : DURATION
+three : CARDINAL
+lounge : DRAWING
+office : DRAWING
+Gisella : OTHER
+three : CARDINAL
+Martin : OTHER
+ fifty per cent : PERCENT
+Martin : OTHER
+ eighty per cent : PERCENT
+ fifty per cent : PERCENT
+one : CARDINAL
+room : DRAWING
+two : CARDINAL
+doors : DRAWING
+lounge : DRAWING
+room : DRAWING
+lounge : DRAWING
+room : DRAWING
+lounge : DRAWING
+offices : DRAWING
+lounge : DRAWING
+room : DRAWING
+Gisella : OTHER
+office : DRAWING
+Gisella : OTHER
+ fifty per cent : PERCENT
+half : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+room : DRAWING
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+ three person : MEASURE
+rooms : DRAWING
+room : DRAWING
+Martin : OTHER
+ fifty per cent : PERCENT
+office : DRAWING
+ fifty per cent : PERCENT
+E_P_F_L_ : ORGANIZATION
+ assistant professor : OTHER
+ assistant professor : OTHER
+professor : OTHER
+room : DRAWING
+Pierrette : OTHER
+Pierrette : OTHER
+Martin : OTHER
+offices : DRAWING
+one : CARDINAL
+two : CARDINAL
+Pierrette : OTHER
+Marianne : OTHER
+office : DRAWING
+Marianne : OTHER
+Pierrette : OTHER
+two : CARDINAL
+Mariannes : OTHER
+Martin : OTHER
+David : OTHER
+ fifty per cent : PERCENT
+Gisella : OTHER
+Gisella : OTHER
+Gisella : OTHER
+ one person : MEASURE
+room : DRAWING
+Maggie : OTHER
+Bruno : OTHER
+office : DRAWING
+three : CARDINAL
+Nancy : OTHER
+Maria : OTHER
+Nancy : OTHER
+ full time : MEASURE
+Nikos : OTHER
+Yalina : OTHER
+Yalina's : OTHER
+Yalina's : OTHER
+ couple of months : DURATION
+office : DRAWING
+Nancy : OTHER
+Nikos : OTHER
+Yalina : OTHER
+Maria : OTHER
+one : CARDINAL
+Yalina : OTHER
+Paola : OTHER
+Susan : OTHER
+Nikos : OTHER
+Yalina : OTHER
+Nikos : OTHER
+ research student : OTHER
+Yalina : OTHER
+Paola : OTHER
+Paola : OTHER
+Maggie : OTHER
+Bruno : OTHER
+David : OTHER
+Martin : OTHER
+office : DRAWING
+Martin : OTHER
+Agnes : PROJECT_MANAGER
+Marianne : OTHER
+David : OTHER
+ fifty per cent : PERCENT
+office : DRAWING
+Susan : OTHER
+Susan : OTHER
+Maggie : OTHER
+Pierrette : OTHER
+Martin : OTHER
+room : DRAWING
+four : CARDINAL
+ three person : MEASURE
+room : DRAWING
+eighteen : CARDINAL
+eighteen : CARDINAL
+seventeen : CARDINAL
+fifteen : CARDINAL
+Paola : OTHER
+summer : DATE
+room : DRAWING
+offices : DRAWING

@@ -1,0 +1,22 @@
+camera : RECORDING_DEVICES
+ one point : CARDINAL
+ one point eight : CARDINAL
+two : CARDINAL
+curved : SHAPE
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+ one and a half : CARDINAL
+buttons : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+clay : MODELLING_STUFF
+blue : COLOUR
+marker : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+ seven fourths : CARDINAL
+four : CARDINAL
+yellow : COLOUR

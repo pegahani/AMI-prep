@@ -1,0 +1,211 @@
+lounge : DRAWING
+lounge : DRAWING
+Gisella : OTHER
+Nancy : OTHER
+Gisella : OTHER
+Gisella : OTHER
+ one person : MEASURE
+room : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+room : DRAWING
+town : DRAWING
+Pierrette : OTHER
+Maggie : OTHER
+Maggie : OTHER
+Maggie's : OTHER
+Pierrette's : OTHER
+Andrei : PROJECT_MANAGER
+David : INTERFACE_SPECIALIST
+Agnes : OTHER
+Agnes : OTHER
+Maria : OTHER
+Yalina : OTHER
+two : CARDINAL
+ three person : MEASURE
+rooms : DRAWING
+Maria : OTHER
+Yalina : OTHER
+Nikos : OTHER
+Nancy : OTHER
+Marianne : OTHER
+Nancy : OTHER
+Nancy : OTHER
+David : INTERFACE_SPECIALIST
+Nancy : OTHER
+David : INTERFACE_SPECIALIST
+two : CARDINAL
+ three people : MEASURE
+rooms : DRAWING
+Nancy : OTHER
+Agnes : OTHER
+ two person : MEASURE
+room : DRAWING
+room : DRAWING
+two : CARDINAL
+ three people : MEASURE
+room : DRAWING
+David : INTERFACE_SPECIALIST
+David : INTERFACE_SPECIALIST
+ part time : MEASURE
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+lounge : DRAWING
+room : DRAWING
+offices : DRAWING
+balcony : DRAWING
+summer : DATE
+lounge : DRAWING
+Susan's : MARKETING
+office : DRAWING
+Susan's : MARKETING
+Susan : MARKETING
+lounge : DRAWING
+three : CARDINAL
+lounge : DRAWING
+lounge : DRAWING
+ three people : CARDINAL
+room : DRAWING
+two : CARDINAL
+Susan : MARKETING
+wall : DRAWING
+lounge : DRAWING
+ two person : MEASURE
+room : DRAWING
+three : CARDINAL
+ two years : DURATION
+year : DURATION
+ three people : MEASURE
+lounge : DRAWING
+lounge : DRAWING
+office : DRAWING
+office : DRAWING
+Susan : MARKETING
+one : CARDINAL
+one : CARDINAL
+lounge : DRAWING
+Maria : OTHER
+Yalina : OTHER
+lounge : DRAWING
+one : CARDINAL
+one : CARDINAL
+room : DRAWING
+Maria : OTHER
+Yalina : OTHER
+one : CARDINAL
+three : CARDINAL
+rooms : DRAWING
+lounge : DRAWING
+lounge : DRAWING
+corridor : DRAWING
+toilet : DRAWING
+room : DRAWING
+Nikos : OTHER
+lounge : DRAWING
+Andrei : PROJECT_MANAGER
+ half time : MEASURE
+full-time : MEASURE
+Paola : OTHER
+office : DRAWING
+office : DRAWING
+Paola : OTHER
+Maria : OTHER
+Yalina : OTHER
+Yalina : OTHER
+two : CARDINAL
+part-time : MEASURE
+Paola : OTHER
+Maria : OTHER
+ two people : MEASURE
+room : DRAWING
+two : CARDINAL
+Yalina : OTHER
+David : OTHER
+ three people : MEASURE
+room : DRAWING
+ two people : MEASURE
+room : DRAWING
+Yalina : OTHER
+David : INTERFACE_SPECIALIST
+Paola : OTHER
+January : DATE
+two : CARDINAL
+full-time : MEASURE
+one : CARDINAL
+part-time : MEASURE
+one : CARDINAL
+David : INTERFACE_SPECIALIST
+ two people : MEASURE
+room : DRAWING
+Maria : OTHER
+Maria : OTHER
+one : CARDINAL
+half-time : MEASURE
+Paola : OTHER
+Yalina : OTHER
+one : CARDINAL
+Marianne : OTHER
+Nikos : OTHER
+lounge : DRAWING
+lounge : DRAWING
+two : CARDINAL
+lounge : DRAWING
+two : CARDINAL
+doors : DRAWING
+David : INTERFACE_SPECIALIST
+Maria : OTHER
+lounge : DRAWING
+Maggie : OTHER
+Bruno : OTHER
+Maggie : OTHER
+Bruno : OTHER
+office : DRAWING
+Pierrette : OTHER
+Marianne : OTHER
+office : DRAWING
+Marianne : OTHER
+ Marianne F_ : OTHER
+Nikos : OTHER
+Paola : OTHER
+Yalina : OTHER
+Yalina : OTHER
+ three person : MEASURE
+room : DRAWING
+Paola : OTHER
+Paola : OTHER
+David : INTERFACE_SPECIALIST
+Paola : OTHER
+ two people : MEASURE
+room : DRAWING
+David : INTERFACE_SPECIALIST
+ three person : MEASURE
+room : DRAWING
+Paola : OTHER
+June : DATE
+Susan : MARKETING
+David : INTERFACE_SPECIALIST
+room : DRAWING
+doors : DRAWING
+Susan : MARKETING
+January : DATE
+Paola : OTHER
+ three person : MEASURE
+room : DRAWING
+two : CARDINAL
+Agnes : OTHER
+Pierrette : OTHER
+Marianne : OTHER
+mountain : DRAWING
+office : DRAWING
+room : DRAWING
+three : CARDINAL
+one : CARDINAL
+red : COLOUR
+blue : COLOUR
+chair : FURNITURE
+desk : FURNITURE
+office : DRAWING
+laptops : MEANS_OF_WORKING
+four : CARDINAL

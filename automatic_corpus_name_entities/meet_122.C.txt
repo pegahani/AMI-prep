@@ -1,0 +1,92 @@
+one : CARDINAL
+Giraffe's : DRAWING
+rubber : MATERIALS
+one : CARDINAL
+titanium : MATERIALS
+rubber : MATERIALS
+fancy : COLOUR
+rubber : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+single : CARDINAL
+curved : SHAPE
+single : CARDINAL
+curved : SHAPE
+ two dimensional : MEASURE
+green : COLOUR
+black : COLOUR
+ three D_ : MEASURE
+plastic : MATERIALS
+ remote control : DRAWING
+ two minutes : DURATION
+ thirty minutes : DURATION
+ forty minutes : DURATION
+business : COLOUR
+rubber : MATERIALS
+machine : DRAWING
+rubber : MATERIALS
+fantastic : COLOUR
+grey : COLOUR
+black : COLOUR
+rubber : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+titanium : MATERIALS
+single : CARDINAL
+curved : SHAPE
+ remote control : DRAWING
+Danny : MARKETING
+Danny : MARKETING
+Fruity : COLOUR
+Fruity : COLOUR
+round : SHAPE
+square : SHAPE
+rubber : MATERIALS
+ three quarters : CARDINAL
+screen : DRAWING
+ remote control : DRAWING
+button : DRAWING
+rubber : MATERIALS
+screen : DRAWING
+buttons : DRAWING
+button : DRAWING
+button : DRAWING
+screen : DRAWING
+screen : DRAWING
+case : DRAWING
+case : DRAWING
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+single : CARDINAL
+curve : SHAPE
+single : CARDINAL
+curved : SHAPE
+rubber : MATERIALS
+fancy : COLOUR
+screen : DRAWING
+screen : DRAWING
+rectangle : SHAPE
+Square : SHAPE
+remote : DRAWING
+L_C_D_ : DRAWING
+scroll : DRAWING
+rubber : MATERIALS
+yellow : COLOUR
+remote : COLOUR
+Silver : COLOUR
+silver : COLOUR
+silver : COLOUR
+rubber : MATERIALS
+silver : COLOUR
+rubber : MATERIALS
+titanium : MATERIALS
+silver : COLOUR
+silver : COLOUR
+rubber : MATERIALS
+Silver : COLOUR
+rubber : MATERIALS
+rubber : MATERIALS
+Fruity : COLOUR

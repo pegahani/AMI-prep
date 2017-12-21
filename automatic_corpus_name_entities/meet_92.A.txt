@@ -1,0 +1,37 @@
+Heather : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+Poppy : INDUSTRIAL_DESIGNER
+Heather : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+one : CARDINAL
+One : CARDINAL
+one : CARDINAL
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+microphones : RECORDING_DEVICES
+antlers : DRAWING
+holly : DRAWING
+head : DRAWING
+elk : DRAWING
+animal : DRAWING
+creature : DRAWING
+legs : DRAWING
+antlers : DRAWING
+person : DRAWING
+peacock : DRAWING
+eraser : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ fifty million Euro : MONEY
+ twelve Euro and fifty cents : MONEY
+ five minutes : DURATION
+one : CARDINAL
+ half an hour : DURATION
+ half an hour : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+ thirty minutes : DURATION
+ Marketing Expert : MARKETING
+ half an hour : DURATION
+ half an hour : DURATION

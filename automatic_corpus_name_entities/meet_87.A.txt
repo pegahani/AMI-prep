@@ -1,0 +1,43 @@
+one : CARDINAL
+one : CARDINAL
+ quarter of four : TIME
+ forty minute : DURATION
+ four twenty five : TIME
+two : CARDINAL
+Sarah : MARKETING
+ forty minute : DURATION
+three : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+Kate : INDUSTRIAL_DESIGNER
+yellow : CARDINAL
+black : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+one : CARDINAL
+curve : SHAPE
+Plastic : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+ nine Pounds twenty : MONEY
+ twelve and a half : MONEY
+ twelve fifty : MONEY
+slide : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+Melissa : OTHER

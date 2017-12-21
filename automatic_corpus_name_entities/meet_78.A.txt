@@ -1,0 +1,13 @@
+. : MATERIALS
+go : MATERIALS
+'S : COLOUR
+ Yeah , : CARDINAL
+ have to : CARDINAL
+Yeah : COLOUR
+the : MATERIALS
+. : MATERIALS
+head : COLOUR
+and : SHAPE
+it : COLOUR
+like : COLOUR
+we're : CARDINAL

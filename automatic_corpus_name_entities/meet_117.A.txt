@@ -1,0 +1,45 @@
+ forty minutes : DURATION
+ forty minutes : DURATION
+presentation : MEANS_OF_WORKING
+coach : OTHER
+forty : MEASURE
+presentation : MEANS_OF_WORKING
+ ten percent : PERCENT
+forty : MEASURE
+Paul : INTERFACE_SPECIALIST
+one : CARDINAL
+zero : CARDINAL
+ten : CARDINAL
+ two level : MEASURE
+ twenty five Euros : MONEY
+green : COLOUR
+green : COLOUR
+red : COLOUR
+green : COLOUR
+Red's : COLOUR
+green : COLOUR
+red : COLOUR
+green : COLOUR
+green : COLOUR
+Green : COLOUR
+red : COLOUR
+LED : DRAWING
+L_E_D_ : DRAWING
+light : DRAWING
+light : DRAWING
+button : DRAWING
+green : COLOUR
+button : DRAWING
+button : DRAWING
+one : CARDINAL
+LED : DRAWING
+few : CARDINAL
+four : CARDINAL
+Four : CARDINAL
+one : CARDINAL
+forty : MEASURE
+forty : MEASURE
+ few seconds : DURATION
+green : COLOUR
+red : COLOUR
+one : CARDINAL

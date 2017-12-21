@@ -1,0 +1,5 @@
+ account manager : OTHER
+ account manager : OTHER
+Norman : INTERFACE_SPECIALIST
+screen : MEANS_OF_WORKING
+Norman : INTERFACE_SPECIALIST

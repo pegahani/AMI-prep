@@ -1,0 +1,36 @@
+Titanium : MATERIALS
+metal : MATERIALS
+titanium : MATERIALS
+Two : CARDINAL
+curves : SHAPE
+three : CARDINAL
+eight : CARDINAL
+six : CARDINAL
+ twelve Pounds fifty : MONEY
+ twelve Euros : MONEY
+ twelve Pounds : MONEY
+ Twelve Euros : MONEY
+ eight pounds : MONEY
+ nine Pounds : MONEY
+rubber : MATERIALS
+two : CARDINAL
+Europe : LOCATION
+black : COLOUR
+slide : MEANS_OF_WORKING
+black : COLOUR
+slide : MEANS_OF_WORKING
+black : COLOUR
+black : COLOUR
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+white : COLOUR
+black : COLOUR
+titanium : MATERIALS
+ interface guy : INTERFACE_SPECIALIST
+plastic : MATERIALS
+plastic : MATERIALS
+titanium : MATERIALS
+black : COLOUR
+black : COLOUR
+one : CARDINAL

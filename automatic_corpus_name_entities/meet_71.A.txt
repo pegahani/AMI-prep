@@ -1,0 +1,31 @@
+coach : EXPERIMENTER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Nathan : INDUSTRIAL_DESIGNER
+Ron : INTERFACE_SPECIALIST
+Sarah : MARKETING
+U_I_D_ : INTERFACE_SPECIALIST
+I_D_ : INDUSTRIAL_DESIGNER
+rubber : MATERIALS
+two : CARDINAL
+wood : MATERIALS
+square : SHAPE
+one : CARDINAL
+Sarah : MARKETING
+slide : MEANS_OF_WORKING
+coach : EXPERIMENTER
+whiteboard : MEANS_OF_WORKING
+coach : EXPERIMENTER
+one : CARDINAL
+ Project Manager : PROJECT_MANAGER
+paper : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+forty : DURATION
+slides : MEANS_OF_WORKING
+mug's : INCIDENTAL
+Sarah's : MARKETING
+ten : DURATION
+ fifteen years : DURATION
+ten : DURATION
+five : DURATION
+ twenty eight eight : MEASURE
+ David Burns : OTHER

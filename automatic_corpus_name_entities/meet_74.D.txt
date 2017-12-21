@@ -1,0 +1,40 @@
+ fifty eight percent : PERCENT
+ fifty eight per cent : PERCENT
+Milan : LOCATION
+Paris : LOCATION
+ few months : DURATION
+Spring : DATE
+ Real Reaction : ORGANIZATION
+one : CARDINAL
+telephone : DRAWING
+buttons : DRAWING
+button : DRAWING
+arrows : DRAWING
+numbers : DRAWING
+dial : SHAPE
+four : CARDINAL
+remotes : DRAWING
+buttons : INCIDENTAL
+Two : CARDINAL
+wood : MATERIALS
+titanium : MATERIALS
+latex : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+metal : MATERIALS
+ gun-metal grey : COLOUR
+silver : COLOUR
+black : COLOUR
+buttons : DRAWING
+blue-based : COLOUR
+buttons : DRAWING
+blue-based : COLOUR
+yellow : COLOUR
+computer : MEANS_OF_WORKING
+button : DRAWING
+blue : COLOUR
+white : COLOUR
+yellow : COLOUR
+blue : COLOUR
+yellow : COLOUR
+buttons : DRAWING

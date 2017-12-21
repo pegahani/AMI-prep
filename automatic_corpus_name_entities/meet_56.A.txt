@@ -1,0 +1,12 @@
+Gaurav : INDUSTRIAL_DESIGNER
+body : DRAWING
+legs : DRAWING
+tail : DRAWING
+face : DRAWING
+grass : DRAWING
+ industrial designer : INDUSTRIAL_DESIGNER
+India : LOCATION
+cow : DRAWING
+one : CARDINAL
+ ninety percent : PERCENT
+ ten percent : PERCENT

@@ -1,0 +1,20 @@
+slides : MEANS_OF_WORKING
+Anna : MARKETING
+whiteboard : MEANS_OF_WORKING
+ twelve Euro fi and fifty cents : MONEY
+Mael : INDUSTRIAL_DESIGNER
+chair : FURNITURE
+sender : DRAWING
+receiver : DRAWING
+Mael : INDUSTRIAL_DESIGNER
+Matthew : INTERFACE_SPECIALIST
+Matthew : INTERFACE_SPECIALIST
+forty : MEASURE
+ forty plus : MEASURE
+Forty : MEASURE
+Mael : INDUSTRIAL_DESIGNER
+ five min : DURATION
+twenty : MEASURE
+forty : MEASURE
+ twelve Euro fifty : MONEY
+ thirty minutes : DURATION

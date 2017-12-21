@@ -1,0 +1,81 @@
+ fifteen forty : TIME
+latex : MATERIALS
+curved : SHAPE
+eight : CARDINAL
+nine : CARDINAL
+five : CARDINAL
+rhombus : CONSTRUCTED
+rhombus : CONSTRUCTED
+one : CARDINAL
+white : COLOUR
+board : MEANS_OF_WORKING
+joystick : CONSTRUCTED
+stem : CONSTRUCTED
+stem : CONSTRUCTED
+potato : CONSTRUCTED
+button : CONSTRUCTED
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+year : DURATION
+four : CARDINAL
+two : CARDINAL
+black : COLOUR
+yellow : COLOUR
+One : CARDINAL
+four : CARDINAL
+two : CARDINAL
+four : CARDINAL
+four : CARDINAL
+Three : CARDINAL
+one : CARDINAL
+Martian : CONSTRUCTED
+One : CARDINAL
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+One : CARDINAL
+wood : MATERIALS
+rubber : MATERIALS
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+Six : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+ Thirteen point seven : MONEY
+ thirteen point three : MONEY
+curve : SHAPE
+rubber : MATERIALS
+Six : CARDINAL
+six : CARDINAL
+twelve : MONEY
+ Twelve point five : MONEY
+folder : MEANS_OF_WORKING
+ twelve fifty Euro : MONEY
+pens : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ twelve point three : MONEY
+remote : CONSTRUCTED
+one : CARDINAL
+toggle : CONSTRUCTED
+penguin : CONSTRUCTED
+one : CARDINAL
+thing : MEANS_OF_WORKING
+technology : MEANS_OF_WORKING
+prototypes : CONSTRUCTED
+five : DURATION
+ ten minutes : DURATION
+ fifty percent : PERCENT
+slides : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+three : CARDINAL
+three : CARDINAL
+yellow : COLOUR
+grey : COLOUR
+yellow : COLOUR
+ marketing um expert : MARKETING

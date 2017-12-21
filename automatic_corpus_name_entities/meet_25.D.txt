@@ -1,0 +1,23 @@
+cat : DRAWING
+rabbit : DRAWING
+human : DRAWING
+snake : DRAWING
+Cobra : DRAWING
+Christa : PROJECT_MANAGER
+fish : DRAWING
+fish : DRAWING
+whiteboard : MEANS_OF_WORKING
+ Twenty five Euro : MONEY
+black : COLOUR
+purple : COLOUR
+One : CARDINAL
+one : CARDINAL
+ twelve Euro : MONEY
+Three : CARDINAL
+three : CARDINAL
+ twenty five : CARDINAL
+ twenty five : CARDINAL
+three : CARDINAL
+four : CARDINAL
+M_E_ : MARKETING
+M_E_ : MARKETING

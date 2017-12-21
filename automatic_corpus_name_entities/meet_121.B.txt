@@ -1,0 +1,24 @@
+ remote controls : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+remote : DRAWING
+one : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ twelve fifty : MONEY
+ twelve fifty : MONEY
+ couple of days : DURATION
+ twelve fifty : MONEY
+ twelve fifty : MONEY
+ twelve fifty : MEASURE
+red : COLOUR
+ one hundred two : CARDINAL
+two : CARDINAL
+ Five minutes : DURATION
+one : CARDINAL
+rubber : MATERIALS

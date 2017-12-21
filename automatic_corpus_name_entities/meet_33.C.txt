@@ -1,0 +1,8 @@
+Christine : INDUSTRIAL_DESIGNER
+ industrial designer : INDUSTRIAL_DESIGNER
+ seven inch : MEASURE
+ four member : MEASURE
+month : DURATION
+ six months : DURATION
+ two weeks : DURATION
+slides : MEANS_OF_WORKING

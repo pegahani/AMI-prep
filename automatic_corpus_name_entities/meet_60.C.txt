@@ -1,0 +1,13 @@
+elephant : DRAWING
+liger : DRAWING
+dog : DRAWING
+squirrel : DRAWING
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+thousand : CARDINAL
+ twelve fifty : MONEY
+two : CARDINAL
+one : CARDINAL
+ thirty minutes : DURATION

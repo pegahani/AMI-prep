@@ -1,0 +1,58 @@
+Two : CARDINAL
+Six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+ten : CARDINAL
+eleven : CARDINAL
+twelve : CARDINAL
+thirteen : CARDINAL
+fourteen : CARDINAL
+fifteen : CARDINAL
+sixteen : CARDINAL
+seventeen : CARDINAL
+eighteen : CARDINAL
+Pierrette : OTHER
+Maggie : OTHER
+ half time : MEASURE
+ half time : MEASURE
+ faculty of law : ORGANIZATION
+rooms : DRAWING
+one : MEASURE
+ two people : MEASURE
+rooms : DRAWING
+office : DRAWING
+office : DRAWING
+one : CARDINAL
+rooms : DRAWING
+office : DRAWING
+Maggie : OTHER
+Pierrette : OTHER
+Marianne : OTHER
+office : DRAWING
+lounge : DRAWING
+offices : DRAWING
+office : DRAWING
+Bruno : OTHER
+Agnes : OTHER
+October : DATE
+ six thousand : CARDINAL
+balcony : DRAWING
+Gisella : OTHER
+hall : DRAWING
+offices : DRAWING
+half : CARDINAL
+Pierrette : OTHER
+Gisella : OTHER
+offices : DRAWING
+law : ORGANIZATION
+socio-economics : ORGANIZATION
+office : DRAWING
+ law faculty : ORGANIZATION
+Maggie : OTHER
+Pierrette : OTHER
+room : DRAWING
+five : TIME
+two : CARDINAL
+Tuesday : DATE
+ nine thirty : TIME

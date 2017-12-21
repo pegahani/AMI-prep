@@ -1,0 +1,36 @@
+desktop : MEANS_OF_WORKING
+Ebenezer : MARKETING
+ one hundred : CARDINAL
+hundred : CARDINAL
+fifteen : MEASURE
+ twenty five : MEASURE
+ twenty five : MEASURE
+ thirty five : MEASURE
+ten : CARDINAL
+fifteen : CARDINAL
+ few minutes : DURATION
+ ten minutes : DURATION
+yellow : COLOUR
+one : CARDINAL
+one : CARDINAL
+fifteen : MEASURE
+ twenty five : MEASURE
+white : COLOUR
+black : COLOUR
+red : COLOUR
+green : COLOUR
+five : CARDINAL
+seven : CARDINAL
+ ninety eight percent : PERCENT
+ ninety eight percent : PERCENT
+two : CARDINAL
+three : CARDINAL
+week : DURATION
+ two weeks : DURATION
+ twelve point five Euros : MONEY
+ three million : CARDINAL
+ once per hour : MEASURE
+ hundred and sixty eight per hour : MEASURE
+fourteen : MEASURE
+two : CARDINAL
+three : CARDINAL

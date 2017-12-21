@@ -1,0 +1,28 @@
+P_M_s : PROJECT_MANAGER
+Christine : INDUSTRIAL_DESIGNER
+Agnes : INTERFACE_SPECIALIST
+ forty minutes : DURATION
+prototype : CONSTRUCTED
+A_M_I_ : ORGANIZATION
+two : CARDINAL
+three : CARDINAL
+flip : CONSTRUCTED
+flip : CONSTRUCTED
+flip : CONSTRUCTED
+ prototype model : CONSTRUCTED
+Ed : MARKETING
+wood : MATERIALS
+ twelve point five Euro : MONEY
+ nine point nine five Euro : MONEY
+ twelve point five Euro : MONEY
+one : CARDINAL
+four : CARDINAL
+eBay : ORGANIZATION
+ two weeks : DURATION
+ two weeks : DURATION
+ four weeks : DURATION
+ four weeks : DURATION
+model : CONSTRUCTED
+model : CONSTRUCTED
+Ed : MARKETING
+Ed : MARKETING

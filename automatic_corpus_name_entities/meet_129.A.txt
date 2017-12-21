@@ -1,0 +1,44 @@
+minute : DURATION
+laptop : MEANS_OF_WORKING
+ half hour : DURATION
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ Marketing uh Expert : MARKETING
+ forty years : MEASURE
+forty : MEASURE
+ forty minutes : DURATION
+ ten minutes : DURATION
+SMARTboards : MEANS_OF_WORKING
+Tim : MARKETING
+Tim : MARKETING
+Janus : INDUSTRIAL_DESIGNER
+Janus : INDUSTRIAL_DESIGNER
+Tim : MARKETING
+Janus : INDUSTRIAL_DESIGNER
+ ten minutes : DURATION
+one : CARDINAL
+one : CARDINAL
+screen : DRAWING
+one : CARDINAL
+screen : DRAWING
+screen : DRAWING
+screen : DRAWING
+minutes : MEANS_OF_WORKING
+four : CARDINAL
+few : CARDINAL
+Moment : DURATION
+one : CARDINAL
+controller : DRAWING
+ remote control : DRAWING
+ five minutes : DURATION
+ thirty minutes : DURATION
+ Thirty minutes : DURATION
+ thirty minutes : DURATION
+ thirty minutes : DURATION
+ thirty minutes : DURATION
+ Thirty minutes : DURATION
+ Forty five : DURATION
+ one o'clock : TIME
+ smart board : MEANS_OF_WORKING
+ Project documents : MEANS_OF_WORKING

@@ -1,0 +1,22 @@
+ Ada Longmund : PROJECT_MANAGER
+whiteboard : MEANS_OF_WORKING
+ Twenty five : MONEY
+I_D_ : INDUSTRIAL_DESIGNER
+ Industrial Design : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+manager : PROJECT_MANAGER
+ Industrial Design : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ user interface design : INTERFACE_SPECIALIST
+ industrial designer : INDUSTRIAL_DESIGNER
+ marketing expert : MARKETING
+board : MEANS_OF_WORKING
+cat : DRAWING
+cat : DRAWING
+rabbit : DRAWING
+fish : DRAWING
+fish : DRAWING
+dog : DRAWING
+dog : DRAWING
+village : DRAWING

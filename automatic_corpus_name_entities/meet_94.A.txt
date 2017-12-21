@@ -1,0 +1,33 @@
+three : CARDINAL
+ forty minutes : DURATION
+Poppy : INDUSTRIAL_DESIGNER
+rubber : MATERIALS
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+keyboard : MEANS_OF_WORKING
+keyboard : MEANS_OF_WORKING
+one : CARDINAL
+black : COLOUR
+white : COLOUR
+rubber : MATERIALS
+rubber : MATERIALS
+flat : SHAPE
+flat : SHAPE
+one : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+Plastic : MATERIALS
+rubber : MATERIALS
+ five minutes : DURATION
+ five minutes : DURATION
+ thirty minutes : DURATION
+Poppy : INDUSTRIAL_DESIGNER
+Poppy : INDUSTRIAL_DESIGNER
+Tara : INTERFACE_SPECIALIST
+ modelling clay : MATERIALS
+coach : OTHER
+five : CARDINAL
+ thirty minutes : DURATION

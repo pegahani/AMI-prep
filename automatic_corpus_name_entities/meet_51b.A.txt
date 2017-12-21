@@ -1,0 +1,45 @@
+William : INDUSTRIAL_DESIGNER
+William : INDUSTRIAL_DESIGNER
+hinges : CONSTRUCTED
+black : COLOUR
+white : COLOUR
+Market : MARKETING
+four : CARDINAL
+three : CARDINAL
+two : CARDINAL
+ two point f : CARDINAL
+One : CARDINAL
+seven : CARDINAL
+Two : CARDINAL
+Two : CARDINAL
+White : COLOUR
+plastic : MATERIALS
+blue : COLOUR
+rubber : MATERIALS
+One : CARDINAL
+Four : CARDINAL
+Single-curved : SHAPE
+Two : CARDINAL
+curves : SHAPE
+Plastic : MATERIALS
+rubber : MATERIALS
+Plastic : MATERIALS
+one : CARDINAL
+rubber : MATERIALS
+ point five : CARDINAL
+rubber : MATERIALS
+ point five : CARDINAL
+ point five : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+One : CARDINAL
+One : CARDINAL
+ Two five : MONEY
+ twelve point five : MONEY
+ fifty percent : PERCENT
+half : CARDINAL
+Sarah : PROJECT_MANAGER
+Sarah : PROJECT_MANAGER
+Sarah : PROJECT_MANAGER
+ fifty percent : PERCENT

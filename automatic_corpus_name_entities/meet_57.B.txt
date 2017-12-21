@@ -1,0 +1,28 @@
+cable : MEANS_OF_WORKING
+hundred : CARDINAL
+ seventy five percent : PERCENT
+ twenty five percent : PERCENT
+ eighty percent : PERCENT
+slide : MEANS_OF_WORKING
+ fifty percent : PERCENT
+ ten percent : PERCENT
+one : CARDINAL
+ten : CARDINAL
+pink : COLOUR
+white : COLOUR
+ thirty five : MEASURE
+ five minutes : DURATION
+Cat's : MARKETING
+ Seventy six point three percent : PERCENT
+fifteen : MEASURE
+ twenty five year : MEASURE
+ fifteen Pounds : MONEY
+ ninety one point two percent : PERCENT
+fifteen : MEASURE
+ twenty five year : MEASURE
+five : CARDINAL
+ten : CARDINAL
+ one two nine : CARDINAL
+Sky : ORGANIZATION
+Sky : ORGANIZATION
+Sky : ORGANIZATION

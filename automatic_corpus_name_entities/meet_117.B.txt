@@ -1,0 +1,36 @@
+ Paul Wiezer : INTERFACE_SPECIALIST
+ Paul Wiezer : INTERFACE_SPECIALIST
+Jens : MARKETING
+ ten percent : PERCENT
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+six : CARDINAL
+ six six six : CARDINAL
+Six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+five : CARDINAL
+ten : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+ five seconds : DURATION
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ five seconds : DURATION
+one : CARDINAL
+two : CARDINAL
+four : CARDINAL
+red : COLOUR
+red : COLOUR
+ ninety percent : PERCENT
+one : CARDINAL
+one : CARDINAL
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL

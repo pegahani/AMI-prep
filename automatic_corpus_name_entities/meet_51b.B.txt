@@ -1,0 +1,50 @@
+three : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+camera's : RECORDING_DEVICES
+two : CARDINAL
+two : CARDINAL
+ two point five : CARDINAL
+two : CARDINAL
+ One point seven f five : CARDINAL
+One : CARDINAL
+Four : CARDINAL
+One : CARDINAL
+screen : MEANS_OF_WORKING
+Double-curved : SHAPE
+two : CARDINAL
+One : CARDINAL
+One : CARDINAL
+curve : SHAPE
+curve : SHAPE
+one : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+half : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+zero : CARDINAL
+ seven five : MONEY
+three : MONEY
+three : MONEY
+ two point five : MONEY
+ twelve point two five : MONEY
+two : CARDINAL
+ twelve point two five : MONEY
+two : CARDINAL
+ twenty five : MONEY
+ Twelve point five : MONEY
+two : CARDINAL
+Play-Doh : MATERIALS
+model : CONSTRUCTED
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+black : CARDINAL
+plastic : MATERIALS
+plastic : MATERIALS
+ fifty percent : PERCENT
+ fifty minutes : DURATION
+ Project Supervisor : PROJECT_MANAGER
+ twenty five pounds : MONEY
+two : CARDINAL

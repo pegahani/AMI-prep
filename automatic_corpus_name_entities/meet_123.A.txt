@@ -1,0 +1,98 @@
+folders : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+one : CARDINAL
+document : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+two : CARDINAL
+two : CARDINAL
+button : DRAWING
+green : COLOUR
+curves : SHAPE
+single : CARDINAL
+curve : SHAPE
+one : CARDINAL
+microphone : DRAWING
+screen : DRAWING
+two : MEASURE
+two : MEASURE
+one : MEASURE
+two : MEASURE
+one : MEASURE
+buttons : DRAWING
+two : MEASURE
+Two : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+three : MEASURE
+two : MEASURE
+two : CARDINAL
+one : CARDINAL
+three : MEASURE
+three : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+three : MEASURE
+one : CARDINAL
+one : MEASURE
+seven : MEASURE
+one : MEASURE
+single : CARDINAL
+wood : COLOUR
+one : CARDINAL
+single : CARDINAL
+wood-like : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+one : MEASURE
+two : MEASURE
+Two : MEASURE
+few : CARDINAL
+one : MEASURE
+three : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+logo : DRAWING
+two : MEASURE
+sheet : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ twelve Euro fifty : MONEY
+sheet : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+button : DRAWING
+rubber : MATERIALS
+ scroll wheel : DRAWING
+one : MONEY
+curve : SHAPE
+wooden : MATERIALS
+ remote control : DRAWING
+half : MONEY
+half : CARDINAL
+curved : SHAPE
+curved : SHAPE
+ scroll wheel : DRAWING
+remote : DRAWING
+ Twelve Euro fifty : MONEY
+white : COLOUR
+pen : MEANS_OF_WORKING
+prototype : DRAWING
+green : COLOUR
+slide : MEANS_OF_WORKING
+ several weeks : DURATION
+SMARTboard : MEANS_OF_WORKING
+ smart board : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+five : CARDINAL
+ one moment : DURATION
+ five minutes : DURATION
+slide : MEANS_OF_WORKING
+three : CARDINAL
+folder : MEANS_OF_WORKING

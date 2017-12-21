@@ -1,0 +1,29 @@
+Matthew : INDUSTRIAL_DESIGNER
+ forty minutes : DURATION
+Anna : MARKETING
+presentation : MEANS_OF_WORKING
+Matthew : INTERFACE_SPECIALIST
+presentation : MEANS_OF_WORKING
+Matthew : INTERFACE_SPECIALIST
+three : MONEY
+ five Euro : MONEY
+Matthew's : INTERFACE_SPECIALIST
+ twelve Euro and fifty cents : MONEY
+ twelve Euro : MONEY
+furry : MATERIALS
+plastic : MATERIALS
+wooden : MATERIALS
+one : CARDINAL
+plastic : MATERIALS
+two : CARDINAL
+board : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Two : CARDINAL

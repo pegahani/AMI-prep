@@ -1,0 +1,5 @@
+three : CARDINAL
+Norman : INTERFACE_SPECIALIST
+ five minutes : DURATION
+Norman : INTERFACE_SPECIALIST
+ five minutes : DURATION

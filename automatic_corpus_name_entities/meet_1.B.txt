@@ -1,0 +1,42 @@
+Anna : MARKETING
+ few minutes : DURATION
+screen : MEANS_OF_WORKING
+tools : MEANS_OF_WORKING
+tools : MEANS_OF_WORKING
+ twenty five minutes : DURATION
+two : CARDINAL
+tool : MEANS_OF_WORKING
+notebooks : MEANS_OF_WORKING
+blocks : MEANS_OF_WORKING
+white-board : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+white-board : MEANS_OF_WORKING
+Mael : INDUSTRIAL_DESIGNER
+Anna : MARKETING
+cord : RECORDING_DEVICES
+white-board : MEANS_OF_WORKING
+dog : DRAWING
+cord : RECORDING_DEVICES
+horse : DRAWING
+Africa : LOCATION
+Matthew : INTERFACE_SPECIALIST
+horse : DRAWING
+Mael : INDUSTRIAL_DESIGNER
+cat : DRAWING
+cat : DRAWING
+Matthew : INTERFACE_SPECIALIST
+swordfish : DRAWING
+tool : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+Mael : INDUSTRIAL_DESIGNER
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+Europe : LOCATION
+ Northern America : LOCATION
+twelve : MONEY
+ twelve Euro and fifty cents : MONEY
+Nanne : PROJECT_MANAGER
+two : CARDINAL
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+ thirty minutes : DURATION

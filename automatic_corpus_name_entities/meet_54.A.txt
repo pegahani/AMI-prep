@@ -1,0 +1,33 @@
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+banana : SHAPE
+ one one eight three five : CARDINAL
+whiteboard : MEANS_OF_WORKING
+board : DRAWING
+chip : DRAWING
+processor : DRAWING
+amplifier : DRAWING
+light : DRAWING
+red : COLOUR
+wood : MATERIALS
+titanium : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+latex : MATERIALS
+double-curved : SHAPE
+curved : SHAPE
+sponge : MATERIALS
+sponge : MATERIALS
+plastic : MATERIALS
+latex : MATERIALS
+Yellow : COLOUR
+double-curved : SHAPE
+single-curved : SHAPE
+marketing : MARKETING
+latex : MATERIALS
+rubber : MATERIALS
+ control F_ eight : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+mics : RECORDING_DEVICES

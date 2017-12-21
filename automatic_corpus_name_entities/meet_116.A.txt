@@ -1,0 +1,38 @@
+mouse : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+ twenty five minutes : DURATION
+three : CARDINAL
+smartboards : MEANS_OF_WORKING
+red : COLOUR
+map : MEANS_OF_WORKING
+Folder : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+page : MEANS_OF_WORKING
+pink : COLOUR
+pink : COLOUR
+purple : COLOUR
+blue : COLOUR
+ten : MEASURE
+elephant : DRAWING
+elephant : DRAWING
+animal : DRAWING
+snake : DRAWING
+whiteboard : MEANS_OF_WORKING
+page : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+ twenty five minutes : DURATION
+pens : MEANS_OF_WORKING
+ Half past : TIME
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+Europe : LOCATION
+ fifty million : MONEY
+ twenty five Euros : MONEY
+black : COLOUR
+square : SHAPE
+ thirty minutes : DURATION
+ thirty minutes : DURATION
+square : SHAPE
+laptop : MEANS_OF_WORKING

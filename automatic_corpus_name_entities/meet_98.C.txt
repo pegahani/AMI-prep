@@ -1,0 +1,33 @@
+banana : SHAPE
+eighty : CARDINAL
+four : CARDINAL
+board : MEANS_OF_WORKING
+functions : DRAWING
+iPod : DRAWING
+one : CARDINAL
+remote : DRAWING
+ remote control : DRAWING
+ remote control : DRAWING
+one : CARDINAL
+remote : DRAWING
+two : CARDINAL
+components : DRAWING
+components : DRAWING
+remotes : DRAWING
+devices : DRAWING
+arrow : DRAWING
+two-part : CARDINAL
+ ninety year : MEASURE
+screen : MEANS_OF_WORKING
+plasticky : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+banana-esque : SHAPE
+yellow : COLOUR
+rubber : MATERIALS
+yellows : COLOUR
+yellow : COLOUR
+company : COLOUR
+rubbery : MATERIALS
+grey : COLOUR
+banana-shaped : SHAPE

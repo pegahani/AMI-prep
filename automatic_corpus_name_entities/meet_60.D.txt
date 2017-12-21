@@ -1,0 +1,10 @@
+elephant : DRAWING
+cat : DRAWING
+body : DRAWING
+tail : DRAWING
+ Twelve fifty : MONEY
+three : CARDINAL
+four : CARDINAL
+one : CARDINAL
+five : CARDINAL
+six : CARDINAL

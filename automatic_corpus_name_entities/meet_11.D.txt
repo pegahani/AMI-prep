@@ -1,0 +1,25 @@
+Mike : PROJECT_MANAGER
+Thirty's : MEASURE
+camera : RECORDING_DEVICES
+rubber : MATERIALS
+Mike : PROJECT_MANAGER
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+five : CARDINAL
+ thirty two : CARDINAL
+five : CARDINAL
+ thirty two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+four : CARDINAL
+ fifty million : MONEY
+ thirty five : MONEY
+fifty : MONEY
+one : CARDINAL
+one : CARDINAL
+six : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+ three twenty one : TIME
+ fifty minutes : DURATION

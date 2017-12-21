@@ -1,0 +1,16 @@
+one : CARDINAL
+one : CARDINAL
+thing : INCIDENTAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+layout : DRAWING
+ power source : DRAWING
+interface : DRAWING
+chip : DRAWING
+L_E_D_ : DRAWING
+television : DRAWING
+layout : DRAWING
+ five percent : PERCENT
+Pedro : INTERFACE_SPECIALIST
+ seventy-five Euro : MONEY
+ several hours : DURATION
+one : CARDINAL

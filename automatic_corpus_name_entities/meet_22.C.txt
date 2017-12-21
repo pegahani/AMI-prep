@@ -1,0 +1,12 @@
+ User Interface Manager : INTERFACE_SPECIALIST
+cable : RECORDING_DEVICES
+button : MEANS_OF_WORKING
+three : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Bob : MARKETING
+one : CARDINAL
+Five : CARDINAL
+nine : CARDINAL
+ten : CARDINAL
+one : CARDINAL

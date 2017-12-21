@@ -1,0 +1,58 @@
+slides : MEANS_OF_WORKING
+three : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+One : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+red : COLOUR
+one : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+Three : CARDINAL
+Three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+twenty : CARDINAL
+twenty : CARDINAL
+two : CARDINAL
+fifty : CARDINAL
+fifty : CARDINAL
+one : CARDINAL
+two : CARDINAL
+four : CARDINAL
+one : CARDINAL
+three : CARDINAL
+five : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+one : CARDINAL
+Four : CARDINAL
+Three : CARDINAL
+nineteen : CARDINAL
+curved : SHAPE
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+yellow : COLOUR
+black : COLOUR
+Black : COLOUR
+curved : SHAPE
+ one Euro : MONEY
+one : CARDINAL
+one : CARDINAL
+ twelve Euros and a half : MONEY
+four : CARDINAL
+twelve : CARDINAL
+one : CARDINAL
+ ten years : DURATION
+ two years : DURATION
+ fifteen years : DURATION
+ fifteen years : DURATION
+ Twenty five Euros : MONEY
+ fruit shape : SHAPE
+ twelve Euros : MONEY
+prototype : CONSTRUCTED

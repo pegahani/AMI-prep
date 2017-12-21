@@ -1,0 +1,24 @@
+Cable : RECORDING_DEVICES
+camera : RECORDING_DEVICES
+folder : MEANS_OF_WORKING
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+One : CARDINAL
+one : CARDINAL
+ Ten years : DURATION
+ one million : CARDINAL
+ one hundred thousand : CARDINAL
+ one hundred thousand : CARDINAL
+ Four million : CARDINAL
+Christine : MARKETING
+one : CARDINAL
+one : CARDINAL
+ten : CARDINAL
+one : CARDINAL
+eight : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL

@@ -1,0 +1,31 @@
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+black : COLOUR
+Milan : LOCATION
+ New York : LOCATION
+Paris : LOCATION
+ Real Remote : ORGANIZATION
+three : CARDINAL
+Paris : LOCATION
+Milan : LOCATION
+rubber : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+presentations : MEANS_OF_WORKING
+one : CARDINAL
+presentations : MEANS_OF_WORKING
+ zero point five times an hour : MEASURE
+twice : CARDINAL
+once : CARDINAL
+ two hours : DURATION
+ one point five : MEASURE
+ zero point eight times an hour : MEASURE
+ once an hour : MEASURE
+two : MEASURE
+five : CARDINAL
+fifteen : MEASURE
+ twenty five year : MEASURE

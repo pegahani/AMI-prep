@@ -1,0 +1,28 @@
+ marketing person : MARKETING
+ user interface person : INTERFACE_SPECIALIST
+three : CARDINAL
+source : DRAWING
+cell : DRAWING
+chip : DRAWING
+interface : DRAWING
+chip : DRAWING
+chip : DRAWING
+infrared : DRAWING
+chip : DRAWING
+receiver : DRAWING
+bulb : DRAWING
+one : CARDINAL
+one : CARDINAL
+Kate : MARKETING
+Cat : MARKETING
+Cat's : MARKETING
+slide : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+ twenty five : MEASURE
+ thirty five : MEASURE
+ seventy six percent : PERCENT
+ twenty five : MEASURE
+ thirty five : MEASURE
+one : CARDINAL
+Cat : MARKETING
+ forty five : MONEY

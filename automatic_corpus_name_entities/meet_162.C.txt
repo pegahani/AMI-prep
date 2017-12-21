@@ -1,0 +1,59 @@
+ One hundred thousand : CARDINAL
+ One hundred and two : CARDINAL
+presentation : MEANS_OF_WORKING
+seven : CARDINAL
+screen : MEANS_OF_WORKING
+ Andy uh Dufresne : OTHER
+Andy : OTHER
+nineties : DATE
+ Steven Spielberg : OTHER
+ Oskar Schindler : OTHER
+Poland : LOCATION
+ three hours : DURATION
+Agnes : PROJECT_MANAGER
+nineties : DATE
+ Quentin Tarantino : OTHER
+ John Travolta : OTHER
+ Bruce Willis : OTHER
+Wednesday : DATE
+ Henry Hill : OTHER
+ sixty six thousand : CARDINAL
+ nineteen twen twenties : DATE
+twenties : DATE
+ Clarice Starling : OTHER
+F_B_I_ : ORGANIZATION
+ Anthony Hopkins : OTHER
+picture : DRAWING
+projector : MEANS_OF_WORKING
+ ninety one : DATE
+ ninety one : DATE
+ fourteen years : MEASURE
+twelve : MEASURE
+thirteen : MEASURE
+America : LOCATION
+ Morgan Freeman : OTHER
+Europe : LOCATION
+ Matt Damon : OTHER
+one : CARDINAL
+single : CARDINAL
+single : CARDINAL
+table : DRAWING
+table : DRAWING
+friend : DRAWING
+Vietnam : LOCATION
+Lebowski : OTHER
+table : DRAWING
+ fifty thousand : CARDINAL
+two : CARDINAL
+One : CARDINAL
+one : CARDINAL
+nineties : DATE
+nineties : DATE
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+images : DRAWING
+nineties : DATE
+ Two thousand : DATE
+Monday : DATE
+May : DATE

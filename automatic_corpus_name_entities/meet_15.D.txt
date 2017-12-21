@@ -1,0 +1,12 @@
+ twelve Euros : MONEY
+David : INTERFACE_SPECIALIST
+three : CARDINAL
+seven : CARDINAL
+six : CARDINAL
+three : CARDINAL
+Milan : LOCATION
+Paris : LOCATION
+rubber : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS

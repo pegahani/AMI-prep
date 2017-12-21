@@ -1,0 +1,36 @@
+One : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+ quarter after twelve : TIME
+ forty minutes : DURATION
+ three minutes : DURATION
+ seven minutes : DURATION
+Kate : INDUSTRIAL_DESIGNER
+Steph : INTERFACE_SPECIALIST
+Sarah : MARKETING
+four : CARDINAL
+ four million : CARDINAL
+three : CARDINAL
+ Project Manager : PROJECT_MANAGER
+ ninety one percent : PERCENT
+ seventy six percent : PERCENT
+ four million : CARDINAL
+ eight million : CARDINAL
+F_N_ : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+control : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+Kate : INDUSTRIAL_DESIGNER
+white : CARDINAL
+rectangle : SHAPE
+interface : DRAWING
+ half hour : DURATION
+ forty minutes : DURATION
+F_N_ : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+ five minutes : DURATION
+Kate : INDUSTRIAL_DESIGNER
+Steph : INTERFACE_SPECIALIST
+coach : EXPERIMENTER
+Steph : INTERFACE_SPECIALIST

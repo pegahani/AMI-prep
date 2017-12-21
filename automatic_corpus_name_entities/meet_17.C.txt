@@ -1,0 +1,15 @@
+Hemant : INDUSTRIAL_DESIGNER
+ industrial designer : INDUSTRIAL_DESIGNER
+lapel : RECORDING_DEVICES
+elephant : DRAWING
+four : CARDINAL
+feet : DRAWING
+trunk : DRAWING
+eye : DRAWING
+one : CARDINAL
+ few hundred years : DURATION
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ Marketing person : MARKETING

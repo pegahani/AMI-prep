@@ -1,0 +1,85 @@
+snowman : SHAPE
+rubber : MATERIALS
+prototype : CONSTRUCTED
+Six : MEASURE
+seven : MEASURE
+eight : MEASURE
+nine : MEASURE
+ten : MEASURE
+ ten centimetres : MEASURE
+ ten centimetres : MEASURE
+button : CONSTRUCTED
+jog-dial : CONSTRUCTED
+jog-dial : CONSTRUCTED
+double-curved : SHAPE
+rubber : MATERIALS
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+plastic : MATERIALS
+ sixteen point eight : MONEY
+ two point t three Euro : MONEY
+ four point three : MONEY
+One : MONEY
+ point three : MONEY
+four : CARDINAL
+four : CARDINAL
+Twelve : CARDINAL
+one : CARDINAL
+twelve : CARDINAL
+ point three : MONEY
+ point five Euro : MONEY
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ three centimetres : MEASURE
+ two centimetres : MEASURE
+ two point five : MEASURE
+four : CARDINAL
+six : CARDINAL
+five : CARDINAL
+six : CARDINAL
+David : INDUSTRIAL_DESIGNER
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+four : CARDINAL
+three : CARDINAL
+three : CARDINAL
+yellow : COLOUR
+yellow : COLOUR
+one : CARDINAL
+Five : CARDINAL
+ forty nine : CARDINAL
+ thirty one : CARDINAL
+ sixty nine : PERCENT
+ seventy percent : PERCENT
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+Andrew : MARKETING
+four : CARDINAL
+four : CARDINAL
+Craig : INTERFACE_SPECIALIST
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+projector : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+computers : MEANS_OF_WORKING
+ fifteen minutes : DURATION
+one : CARDINAL
+hour : DURATION
+ five minutes : DURATION
+ Five minutes : DURATION
+ Ninja Homer : CONSTRUCTED
+plastic : MATERIALS
+rubber : MATERIALS
+ real reaction : ORGANIZATION
+Play-Doh : MODELLING_STUFF
+Play-Doh : MODELLING_STUFF

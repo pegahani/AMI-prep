@@ -1,0 +1,14 @@
+ F_ eight : MEANS_OF_WORKING
+function : MEANS_OF_WORKING
+two : CARDINAL
+remotes : DRAWING
+buttons : DRAWING
+thingy : MEANS_OF_WORKING
+nineteen : MEASURE
+ thirty five : MEASURE
+ two-part thing : MEASURE
+one : CARDINAL
+circle : SHAPE
+circle : SHAPE
+cool : SHAPE
+circle : SHAPE

@@ -1,0 +1,15 @@
+Chiara : MARKETING
+ Marketing Expert : MARKETING
+Chiara : MARKETING
+ Marketing Expert : MARKETING
+two : CARDINAL
+two : CARDINAL
+ two million : CARDINAL
+two : CARDINAL
+ four million : CARDINAL
+ Four million : CARDINAL
+ twelve fifty : MONEY
+ four million : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+Marketing : MARKETING

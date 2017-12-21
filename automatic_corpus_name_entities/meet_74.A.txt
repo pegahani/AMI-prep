@@ -1,0 +1,36 @@
+ Project Manager : PROJECT_MANAGER
+three : CARDINAL
+one : CARDINAL
+ forty minutes : DURATION
+Courtney : MARKETING
+slide : MEANS_OF_WORKING
+black : COLOUR
+silver : COLOUR
+guy : INCIDENTAL
+base : DRAWING
+one : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+Two : CARDINAL
+two : CARDINAL
+dial : DRAWING
+button : DRAWING
+four : CARDINAL
+Latex : MATERIALS
+one : CARDINAL
+silver-metallic : COLOUR
+plastic : MATERIALS
+titanium : MATERIALS
+black : COLOUR
+ Gun-metal gray : COLOUR
+ gun-metal gray : COLOUR
+slide : MEANS_OF_WORKING
+Yellow : COLOUR
+yellow : COLOUR
+ thirty minutes : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+two : CARDINAL
+clay : MATERIALS

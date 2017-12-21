@@ -1,0 +1,19 @@
+presentation : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+one : CARDINAL
+two : CARDINAL
+schema : DRAWING
+components : DRAWING
+battery : DRAWING
+two : CARDINAL
+chips : DRAWING
+connection : DRAWING
+red : COLOUR
+green : COLOUR
+two : CARDINAL
+four : CARDINAL
+five : CARDINAL
+buttons : DRAWING
+presentation : MEANS_OF_WORKING
+ few years : DURATION
+ few years : DURATION

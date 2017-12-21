@@ -1,0 +1,17 @@
+folder : MEANS_OF_WORKING
+plastic : MATERIALS
+three : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ Market Expert : MARKETING
+slide : MEANS_OF_WORKING
+ twelve Euros : CARDINAL
+ twelve Euros : CARDINAL
+ designer of user interface : INTERFACE_SPECIALIST
+yellow : COLOUR
+One : CARDINAL
+ odd shaped : SHAPE
+ odd shape : SHAPE
+ banana shape : SHAPE
+yellow : COLOUR
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST

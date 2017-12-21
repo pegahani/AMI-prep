@@ -1,0 +1,6 @@
+hundred : CARDINAL
+ fifty percent : PERCENT
+ two hundred foot : MEASURE
+four : CARDINAL
+five : CARDINAL
+ twelve Euros : MONEY

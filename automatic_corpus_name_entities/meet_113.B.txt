@@ -1,0 +1,28 @@
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ remote control : DRAWING
+ remote control : DRAWING
+few : CARDINAL
+buttons : DRAWING
+ remote control : DRAWING
+buttons : DRAWING
+button : DRAWING
+red : COLOUR
+button : DRAWING
+ remote control : DRAWING
+button : DRAWING
+sound : DRAWING
+display : DRAWING
+touchscreen : DRAWING
+buttons : DRAWING
+button : DRAWING
+display : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+one : CARDINAL
+device : DRAWING
+touchscreen : DRAWING
+one : CARDINAL
+ few uh weeks : DURATION
+ twenty uh Euros : MONEY

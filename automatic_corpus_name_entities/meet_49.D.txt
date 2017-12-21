@@ -1,0 +1,16 @@
+dog : DRAWING
+chair : FURNITURE
+Crocodile : DRAWING
+top : INCIDENTAL
+bat : DRAWING
+eagle : DRAWING
+animal : DRAWING
+seagull : DRAWING
+eagle : DRAWING
+pen's : MEANS_OF_WORKING
+Seventeen : MONEY
+ Seventeen Pounds : MONEY
+year : DURATION
+plastic : MATERIALS
+metal : MATERIALS
+plastic : MATERIALS

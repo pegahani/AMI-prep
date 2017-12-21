@@ -1,0 +1,58 @@
+email : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+cable : MEANS_OF_WORKING
+three : DURATION
+presentations : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+forty : MEASURE
+forty : MEASURE
+forty : MEASURE
+ F_ five : MEANS_OF_WORKING
+Jurgen : INTERFACE_SPECIALIST
+ F_ four : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+forty : MEASURE
+forty : MEASURE
+forty : MEASURE
+sixteen : MEASURE
+forty : MEASURE
+twenty : MEASURE
+forty : MEASURE
+thirty : MEASURE
+remote : DRAWING
+screen : DRAWING
+paper : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+screen : DRAWING
+screen : DRAWING
+display : DRAWING
+ Channel up : DRAWING
+down : DRAWING
+control : DRAWING
+screen : DRAWING
+presentation : MEANS_OF_WORKING
+Veronica : ORGANIZATION
+ Ninety nine : CARDINAL
+ User Interface Designer : INTERFACE_SPECIALIST
+buttons : DRAWING
+ User Interface Designer : INTERFACE_SPECIALIST
+screen : DRAWING
+screen : DRAWING
+button : DRAWING
+screen : DRAWING
+buttons : DRAWING
+Jurgen's : INTERFACE_SPECIALIST
+two : CARDINAL
+buttons : DRAWING
+four : CARDINAL
+L_C_D_ : DRAWING
+button : DRAWING
+screen : DRAWING
+ five minutes : DURATION
+buttons : DRAWING
+four : CARDINAL
+ thirty minutes : DURATION
+laptop : MEANS_OF_WORKING
+ Smart board : MEANS_OF_WORKING
+minutes : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING

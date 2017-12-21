@@ -1,0 +1,24 @@
+three : CARDINAL
+Three : CARDINAL
+ seven by seven : MEASURE
+seven : MEASURE
+seven : MEASURE
+ seven inch : MEASURE
+One : CARDINAL
+one : CARDINAL
+two : CARDINAL
+month : DURATION
+ five by s ten : MEASURE
+yellow : COLOUR
+square : SHAPE
+curves : SHAPE
+Bob : MARKETING
+plastic : MATERIALS
+ thirty minutes : DURATION
+ Industrial Manager : INDUSTRIAL_DESIGNER
+ User Interface uh uh Mana uh Manager : INTERFACE_SPECIALIST
+ Marketing Expert : MARKETING
+ thirty minutes : DURATION
+Hamed : INTERFACE_SPECIALIST
+Peter : INDUSTRIAL_DESIGNER
+ thirty minutes : DURATION

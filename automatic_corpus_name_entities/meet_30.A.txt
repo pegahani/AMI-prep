@@ -1,0 +1,4 @@
+ industrial designer : INDUSTRIAL_DESIGNER
+whiteboard : MEANS_OF_WORKING
+Harry : MARKETING
+ couple of minutes : DURATION

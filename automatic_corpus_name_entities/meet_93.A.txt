@@ -1,0 +1,29 @@
+ thirty minutes : DURATION
+presentation : MEANS_OF_WORKING
+Poppy's : INDUSTRIAL_DESIGNER
+presentation : MEANS_OF_WORKING
+Poppy : INDUSTRIAL_DESIGNER
+one : CARDINAL
+metal : MATERIALS
+metals : MATERIALS
+One : CARDINAL
+ one hundred percent : PERCENT
+Tara : INTERFACE_SPECIALIST
+ F_ eight : MEANS_OF_WORKING
+Genevieve : MARKETING
+ eighty percent : PERCENT
+ thirty five : MEASURE
+ sixty five : MEASURE
+yellow : COLOUR
+ Real Reaction : ORGANIZATION
+notes : MEANS_OF_WORKING
+second : DURATION
+ North America : LOCATION
+U_K_ : LOCATION
+glow-in-the-dark : MATERIALS
+glow-in-the-dark : MATERIALS
+plastic : MATERIALS
+ five minutes : DURATION
+glow-in-the-dark : MATERIALS
+funny : COLOUR
+one : CARDINAL

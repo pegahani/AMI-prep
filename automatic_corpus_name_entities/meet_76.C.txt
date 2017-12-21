@@ -1,0 +1,12 @@
+Stephanie : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+fin : DRAWING
+dolphin : DRAWING
+tail : DRAWING
+pen's : MEANS_OF_WORKING
+Horse : DRAWING
+tail : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ eight thousand : CARDINAL
+one : CARDINAL
+ User Interface design : INTERFACE_SPECIALIST

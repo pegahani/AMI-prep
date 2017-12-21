@@ -1,0 +1,4 @@
+laptop : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+cat : DRAWING
+five : CARDINAL

@@ -1,0 +1,82 @@
+April : DATE
+three : CARDINAL
+documents : MEANS_OF_WORKING
+Agnes : PROJECT_MANAGER
+presentation : MEANS_OF_WORKING
+ one hundred : CARDINAL
+ one hundred thousand : CARDINAL
+two : CARDINAL
+three : CARDINAL
+ five minutes : DURATION
+Mirek : MARKETING
+presentation : MEANS_OF_WORKING
+ control L_ : MEANS_OF_WORKING
+Agnes : PROJECT_MANAGER
+ John Travolta : OTHER
+ Bruce Willis : OTHER
+poster : DRAWING
+ Uma Thurman : OTHER
+girl : DRAWING
+document : MEANS_OF_WORKING
+two : CARDINAL
+Tuesday : DATE
+ Jodie Foster : OTHER
+ Ninety one : DATE
+ Kevin Spacey : OTHER
+ Kevin Spacey : OTHER
+rose : DRAWING
+roses : DRAWING
+ Tim Robbins : OTHER
+ Morgan Freeman : OTHER
+Andrei : INTERFACE_SPECIALIST
+document : MEANS_OF_WORKING
+table : DRAWING
+two : CARDINAL
+Coen : OTHER
+Coen : OTHER
+ Joel Co Coen : OTHER
+Dude : OTHER
+Lebowksi : OTHER
+L_A_ : LOCATION
+L_A_ : LOCATION
+Vietnam : LOCATION
+Lebowski : OTHER
+ Jeff Bridges : OTHER
+ John Goodman : OTHER
+ John Goodman : OTHER
+ Jeff Bridges : OTHER
+guy : DRAWING
+Vietnam : LOCATION
+posters : DRAWING
+characters : DRAWING
+hero : DRAWING
+guy : DRAWING
+Vietnam : LOCATION
+guy : DRAWING
+ John Turturro : OTHER
+ Julianne Moore : OTHER
+Buscemi : OTHER
+Buscemi : OTHER
+picture : DRAWING
+Lebowski : OTHER
+ Montreux English Movie Club : ORGANIZATION
+posters : DRAWING
+ Montreux Club : ORGANIZATION
+two : CARDINAL
+images : DRAWING
+hero : DRAWING
+cowboy : DRAWING
+Lebowski : OTHER
+two : CARDINAL
+nineties : DATE
+Andrei : INTERFACE_SPECIALIST
+two : CARDINAL
+one : CARDINAL
+ Julianne Moore : OTHER
+Monday : DATE
+Monday : DATE
+Monday : DATE
+May : DATE
+June : DATE
+June : DATE
+ two thousand : DATE

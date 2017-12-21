@@ -1,0 +1,38 @@
+bunny : DRAWING
+one : CARDINAL
+ few seconds : DURATION
+components : DRAWING
+source : DRAWING
+source : DRAWING
+source : DRAWING
+button : DRAWING
+button : DRAWING
+chip : DRAWING
+subcomponent : DRAWING
+switch : DRAWING
+switch : DRAWING
+switch : DRAWING
+button : DRAWING
+button : DRAWING
+bulb : DRAWING
+button : DRAWING
+button : DRAWING
+chip : DRAWING
+bulb : DRAWING
+one : CARDINAL
+few : CARDINAL
+one : CARDINAL
+screen : DRAWING
+one : CARDINAL
+one : CARDINAL
+screen : DRAWING
+fifteen : CARDINAL
+buttons : DRAWING
+three : CARDINAL
+few : DRAWING
+buttons : DRAWING
+screen : DRAWING
+button : DRAWING
+one : CARDINAL
+ my documents : MEANS_OF_WORKING
+ my own messenger : MEANS_OF_WORKING

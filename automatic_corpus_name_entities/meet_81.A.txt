@@ -1,0 +1,29 @@
+boring : SHAPE
+three : CARDINAL
+three : CARDINAL
+ forty minutes : DURATION
+two : CARDINAL
+grey : COLOUR
+yellow : COLOUR
+Forty : MEASURE
+ forty five : MEASURE
+ fifty five : MEASURE
+one : CARDINAL
+ nought point eight percent : PERCENT
+yellow : COLOUR
+grey : COLOUR
+oblong : SHAPE
+box : SHAPE
+Andy : MARKETING
+vertical : SHAPE
+Kate : INDUSTRIAL_DESIGNER
+lithium : MATERIALS
+five : DURATION
+ ten years : DURATION
+wife : OTHER
+minutes : DURATION
+ tenth of a second : DURATION
+ five minutes : DURATION
+ user interface des designer : INTERFACE_SPECIALIST
+grey : COLOUR
+yellow : COLOUR

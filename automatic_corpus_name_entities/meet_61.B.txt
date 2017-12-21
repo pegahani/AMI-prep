@@ -1,0 +1,7 @@
+Catherine : INDUSTRIAL_DESIGNER
+blue : COLOUR
+two : CARDINAL
+Gabriel : INTERFACE_SPECIALIST
+ six months : DURATION
+ Project Manager : PROJECT_MANAGER
+one : CARDINAL

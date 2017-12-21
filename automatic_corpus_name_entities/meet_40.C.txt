@@ -1,0 +1,28 @@
+model : CONSTRUCTED
+ remote control : CONSTRUCTED
+ snail shape : SHAPE
+blue : COLOUR
+yellow : COLOUR
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+plastic : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+led : CONSTRUCTED
+green : COLOUR
+ button button's : CONSTRUCTED
+Francina : INTERFACE_SPECIALIST
+case : CONSTRUCTED
+case : CONSTRUCTED
+buttons : CONSTRUCTED
+rubbers : MATERIALS
+ Eight twenty : MONEY
+ four euros : MONEY
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+two : CARDINAL

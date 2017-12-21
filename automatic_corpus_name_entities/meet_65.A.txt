@@ -1,0 +1,35 @@
+ twelve thirteen : TIME
+folder : MEANS_OF_WORKING
+three : CARDINAL
+ twelve thirteen : TIME
+ forty minutes : DURATION
+three : CARDINAL
+Function : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+blue : COLOUR
+F_N_ : MEANS_OF_WORKING
+Draw : DRAWING
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+desk : DRAWING
+screen : MEANS_OF_WORKING
+yellow : COLOUR
+black : COLOUR
+yellow : COLOUR
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+one : CARDINAL
+fifteen : MEASURE
+ thirty five : MEASURE
+ sixty five : MEASURE
+fifty : MEASURE
+ four minutes : DURATION
+ thirty minutes : DURATION
+slides : MEANS_OF_WORKING
+I_D_ : INDUSTRIAL_DESIGNER
+ Industrial Design : INDUSTRIAL_DESIGNER
+ User Interface : INTERFACE_SPECIALIST
+market : MARKETING
+coach : EXPERIMENTER
+folder : MEANS_OF_WORKING

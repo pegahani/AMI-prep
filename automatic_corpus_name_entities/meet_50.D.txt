@@ -1,0 +1,33 @@
+plug : MEANS_OF_WORKING
+fifteen : MEASURE
+ seventy five percent : PERCENT
+ Eighty percent : PERCENT
+ seventy five percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+ fifty percent : PERCENT
+ thirty four percent : PERCENT
+ ten percent : PERCENT
+quarter : CARDINAL
+ thirty five : MEASURE
+ thirty fives : MEASURE
+two : CARDINAL
+ thirty five : MEASURE
+ forty five : MEASURE
+ ten percent : PERCENT
+two : CARDINAL
+ fifteen year : MEASURE
+sixty : MEASURE
+ Carphone Warehouse : ORGANIZATION
+one : CARDINAL
+brown : COLOUR
+brown : COLOUR
+rectangles : SHAPE
+curved : SHAPE
+curved : SHAPE
+plastic : MATERIALS
+two : CARDINAL
+plastic : MATERIALS
+plastic : MATERIALS
+brown : COLOUR
+four : CARDINAL

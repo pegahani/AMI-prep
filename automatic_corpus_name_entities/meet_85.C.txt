@@ -1,0 +1,16 @@
+microphones : DRAWING
+Sarah : MARKETING
+two : CARDINAL
+models : DRAWING
+ remote controls : DRAWING
+ remote control : DRAWING
+Sky : ORGANIZATION
+hundreds : CARDINAL
+ remote controls : DRAWING
+Kate : INDUSTRIAL_DESIGNER
+plastic : MATERIALS
+two : CARDINAL
+ couple of hours : DURATION
+chart : DRAWING
+yellow : COLOUR
+black : COLOUR

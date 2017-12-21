@@ -1,0 +1,23 @@
+mic : RECORDING_DEVICES
+ Alt F_ five : MEANS_OF_WORKING
+Whitebo : MEANS_OF_WORKING
+sensor : MEANS_OF_WORKING
+cat : DRAWING
+wires : RECORDING_DEVICES
+microphone : RECORDING_DEVICES
+horse : DRAWING
+cat : DRAWING
+fish : DRAWING
+rat : DRAWING
+shark : DRAWING
+cat : DRAWING
+ Twenty four : MONEY
+ four million : CARDINAL
+ four million : CARDINAL
+ four million : CARDINAL
+ Fifty mill : MONEY
+Marketing : MARKETING
+Matthew : INTERFACE_SPECIALIST
+Matth : INTERFACE_SPECIALIST
+Anna : MARKETING
+Matthew : INTERFACE_SPECIALIST

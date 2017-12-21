@@ -1,0 +1,20 @@
+ Fourteen twenty six : TIME
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+curve : SHAPE
+F_ : MEANS_OF_WORKING
+five : MEANS_OF_WORKING
+Paris : LOCATION
+Milan : LOCATION
+year : DURATION
+ Real Reaction : ORGANIZATION
+one : CARDINAL
+year : DURATION
+ Real Reaction : ORGANIZATION
+five : CARDINAL
+one : CARDINAL
+black : COLOUR
+red : COLOUR
+curved : SHAPE
+latex : MATERIALS

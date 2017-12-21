@@ -1,0 +1,13 @@
+slides : MEANS_OF_WORKING
+picture : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+ Technical um Designer : INDUSTRIAL_DESIGNER
+eighty : CARDINAL
+wood : MATERIALS
+wood : MATERIALS
+rubber : MATERIALS
+yellow : COLOUR
+grey : COLOUR
+black : COLOUR
+yellow : COLOUR

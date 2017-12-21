@@ -1,0 +1,26 @@
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ Marketing Expert : MARKETING
+ twenty-five Euros : MONEY
+one : CARDINAL
+ ninety five percent : PERCENT
+ ninety seven perc : PERCENT
+slide : MEANS_OF_WORKING
+button : DRAWING
+switch : DRAWING
+two : CARDINAL
+one : CARDINAL
+button : DRAWING
+decoder : DRAWING
+decoder : DRAWING
+chip : DRAWING
+green : COLOUR
+device : DRAWING
+decoder : DRAWING
+ Marketing Expert : MARKETING
+presentation : MEANS_OF_WORKING
+ twenty five Euros : MONEY

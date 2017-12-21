@@ -1,0 +1,18 @@
+coffee : INCIDENTAL
+Sarah : MARKETING
+Michigan : LOCATION
+ Marketing Manager : MARKETING
+ Marketing , yeah Expert : MARKETING
+ Tom Willing : OTHER
+mikes : RECORDING_DEVICES
+pen : MEANS_OF_WORKING
+ Chris Bathgate : ORGANIZATION
+Michigan : LOCATION
+ five by five : MEASURE
+million : CARDINAL
+one : CARDINAL
+titanium : MATERIALS
+silver : COLOUR
+ couple of years : DURATION
+Euros : MONEY
+ half an hour : DURATION

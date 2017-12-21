@@ -1,0 +1,19 @@
+ Juergen Toffs : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+pen : MEANS_OF_WORKING
+frog : DRAWING
+dog : DRAWING
+turtle : DRAWING
+shell : DRAWING
+pen : MEANS_OF_WORKING
+ few years : DURATION
+ Graphical User Designer : INTERFACE_SPECIALIST
+animal : DRAWING
+screen : MEANS_OF_WORKING
+white : COLOUR
+green : COLOUR
+rabbit : DRAWING
+ Hundred million : CARDINAL
+pen : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+one : CARDINAL

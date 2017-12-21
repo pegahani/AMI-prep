@@ -1,0 +1,15 @@
+Florence : PROJECT_MANAGER
+Stephanie : INTERFACE_SPECIALIST
+twenty : MONEY
+ sixty Euros : MONEY
+Paris : LOCATION
+Milan : LOCATION
+three : CARDINAL
+fifteen : MEASURE
+ thirty five : MEASURE
+titanium : MATERIALS
+ twelve Euros fifty : MEASURE
+Kate : INDUSTRIAL_DESIGNER
+Florence : PROJECT_MANAGER
+ F_ eight : MEANS_OF_WORKING
+plastic : MATERIALS

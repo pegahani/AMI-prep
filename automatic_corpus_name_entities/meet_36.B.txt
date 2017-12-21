@@ -1,0 +1,16 @@
+Agnes : INTERFACE_SPECIALIST
+presentation : MEANS_OF_WORKING
+napkin : INCIDENTAL
+Thirty : CARDINAL
+L_C_D_ : CONSTRUCTED
+case : CONSTRUCTED
+ one Euro : MONEY
+Amazon : ORGANIZATION
+Amazon : ORGANIZATION
+eBay : ORGANIZATION
+Ed : MARKETING
+Christmas : DATE
+January : DATE
+ Sony Pictures : ORGANIZATION
+ thirty years : DURATION
+Ed : MARKETING

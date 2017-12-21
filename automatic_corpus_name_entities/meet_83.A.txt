@@ -1,0 +1,15 @@
+one : CARDINAL
+one : CARDINAL
+curves : SHAPE
+plastic : MATERIALS
+ twelve point five : MONEY
+Andrew : MARKETING
+microphone : RECORDING_DEVICES
+Seven : CARDINAL
+On : CARDINAL
+seven : CARDINAL
+one : CARDINAL
+cable : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING

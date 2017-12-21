@@ -1,0 +1,37 @@
+ Nick Debusk : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+ twenty five minutes : DURATION
+three : CARDINAL
+rectangular : SHAPE
+ball-shaped : SHAPE
+ball-shaped : SHAPE
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+board : MEANS_OF_WORKING
+ball : SHAPE
+ball : SHAPE
+flat : SHAPE
+ball : DRAWING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ball : SHAPE
+keyboard : DRAWING
+one : CARDINAL
+ five minutes : DURATION
+couple : CARDINAL
+ball : DRAWING
+ball : DRAWING
+ball : DRAWING
+cover : DRAWING
+grip : DRAWING
+flat : SHAPE
+ball : DRAWING
+flat : SHAPE
+hinge : DRAWING
+flat : SHAPE
+ball : DRAWING
+ball : DRAWING
+keyboard : DRAWING
+rectangular : COLOUR
+couple : CARDINAL
+sensor : DRAWING
+ Project Manager : PROJECT_MANAGER

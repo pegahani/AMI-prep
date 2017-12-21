@@ -1,0 +1,23 @@
+Paris : LOCATION
+Milan : LOCATION
+Paris : LOCATION
+Paris : LOCATION
+Milan : LOCATION
+U_S_A_ : LOCATION
+Milan : LOCATION
+ninety : PERCENT
+ ninety five percent : PERCENT
+fruit : SHAPE
+ twenty five Euros : MONEY
+button : DRAWING
+ one hundred : CARDINAL
+banana : SHAPE
+Green : COLOUR
+curve : SHAPE
+banana : SHAPE
+ one month : DURATION
+one : CARDINAL
+two : CARDINAL
+ Four millions : CARDINAL
+few : CARDINAL
+five : CARDINAL

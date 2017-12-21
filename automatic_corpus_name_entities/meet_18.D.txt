@@ -1,0 +1,12 @@
+five : DURATION
+ ten years : DURATION
+ thirty years : MEASURE
+report : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+eighty : MEASURE
+eighty : MEASURE
+ eighty pushes per hour : MEASURE
+good : SHAPE
+one : CARDINAL
+ twenty five Dollars : MONEY
+ ninety five percent : PERCENT

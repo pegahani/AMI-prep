@@ -1,0 +1,10 @@
+ Industrial Designer : INDUSTRIAL_DESIGNER
+red : COLOUR
+turtle : DRAWING
+dog : DRAWING
+rabbit : DRAWING
+pen : MEANS_OF_WORKING
+rabbit : DRAWING
+ Twenty million : CARDINAL
+ Two million : CARDINAL
+ two million : CARDINAL

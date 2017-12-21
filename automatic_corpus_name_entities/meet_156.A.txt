@@ -1,0 +1,115 @@
+hall : DRAWING
+hall : DRAWING
+rooms : DRAWING
+room : DRAWING
+room : DRAWING
+Gisella : OTHER
+Gisella's : OTHER
+secretary : OTHER
+office : DRAWING
+Gisella : OTHER
+ fifty per cent : PERCENT
+ fifty per cent : PERCENT
+Gisella : OTHER
+Gisella : OTHER
+one : CARDINAL
+ one person : MEASURE
+room : DRAWING
+Gisella : OTHER
+room : DRAWING
+Marianne : MARKETING
+office : DRAWING
+One : CARDINAL
+office : DRAWING
+three : CARDINAL
+two : CARDINAL
+office : DRAWING
+one : CARDINAL
+ three person : MEASURE
+room : DRAWING
+room : DRAWING
+room : DRAWING
+three : CARDINAL
+room : DRAWING
+ three person : MEASURE
+room : DRAWING
+two : CARDINAL
+three : CARDINAL
+room : DRAWING
+ two person : MEASURE
+room : DRAWING
+black : COLOUR
+stripe : DRAWING
+windows : DRAWING
+one : CARDINAL
+windows : DRAWING
+room : DRAWING
+one : CARDINAL
+room : DRAWING
+three : CARDINAL
+windows : DRAWING
+wall : DRAWING
+room : DRAWING
+library : DRAWING
+library : DRAWING
+ two person : MEASURE
+rooms : DRAWING
+office : DRAWING
+board : MEANS_OF_WORKING
+map : DRAWING
+Three : CARDINAL
+mountain : DRAWING
+town : DRAWING
+Gisella : OTHER
+Gisella : OTHER
+ two people : MEASURE
+room : DRAWING
+mailbox : DRAWING
+Nikos : INDUSTRIAL_DESIGNER
+ mail box : DRAWING
+door : DRAWING
+Gisella's : OTHER
+mailbox : DRAWING
+ two pe people : MEASURE
+room : DRAWING
+ three people : MEASURE
+room : DRAWING
+ one people : MEASURE
+room : DRAWING
+ mail box : DRAWING
+Gisella : OTHER
+room : DRAWING
+Gisella : OTHER
+office : DRAWING
+Gisella's : OTHER
+office : DRAWING
+room : DRAWING
+room : DRAWING
+Gisella's : OTHER
+office : DRAWING
+Gisella's : OTHER
+office : DRAWING
+Gisella : OTHER
+map : DRAWING
+mountain : DRAWING
+mountains : DRAWING
+town : DRAWING
+ three piece : MEASURE
+room : DRAWING
+ six floor : MEASURE
+rooms : DRAWING
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+six : CARDINAL
+nine : CARDINAL
+Fourteen : CARDINAL
+fourteen : CARDINAL
+Marianne : OTHER
+Mariannes' : OTHER
+office : DRAWING
+two : CARDINAL
+two : CARDINAL
+ three person : MEASURE
+room : DRAWING
+file : MEANS_OF_WORKING

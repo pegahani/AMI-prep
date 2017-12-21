@@ -1,0 +1,12 @@
+T-shape : SHAPE
+slide : MEANS_OF_WORKING
+Christmas : DATE
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+fruit : SHAPE
+ vegetable shapes : SHAPE
+plastic : MATERIALS
+metal : MATERIALS
+cloth : MATERIALS
+ industrial engineer : INDUSTRIAL_DESIGNER

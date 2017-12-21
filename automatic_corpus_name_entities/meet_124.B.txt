@@ -1,0 +1,11 @@
+giraffe : DRAWING
+yellow : COLOUR
+spots : DRAWING
+animal : DRAWING
+animal : DRAWING
+giraffe : DRAWING
+eye : DRAWING
+green : COLOUR
+rabbit : DRAWING
+Kangaroo : DRAWING
+Fox : DRAWING

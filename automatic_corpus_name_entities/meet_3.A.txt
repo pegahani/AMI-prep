@@ -1,0 +1,25 @@
+Matthew : INDUSTRIAL_DESIGNER
+presentation : MEANS_OF_WORKING
+file : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+microphone : RECORDING_DEVICES
+twice : CARDINAL
+twice : CARDINAL
+bright : COLOUR
+furry : MATERIALS
+plastic : MATERIALS
+bright : COLOUR
+oranges : COLOUR
+ bright yellows : COLOUR
+florescent : COLOUR
+one : CARDINAL
+presentation : MEANS_OF_WORKING
+two : CARDINAL
+three : CARDINAL
+B_B_C_ : ORGANIZATION
+ten : CARDINAL
+ Two thirty five : TIME
+non-rectangular : SHAPE
+straight : SHAPE
+curved : SHAPE

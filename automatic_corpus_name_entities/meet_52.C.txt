@@ -1,0 +1,6 @@
+ fifty million Euros : MONEY
+one : CARDINAL
+ twenty five Euros : MONEY
+ fifteen Pounds : MONEY
+ twelve Euros fifty : MONEY
+ half an hour : DURATION

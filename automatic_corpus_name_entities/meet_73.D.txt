@@ -1,0 +1,18 @@
+hundred : CARDINAL
+ Seventy five percent : PERCENT
+ Eighty percent : PERCENT
+ ten percent : PERCENT
+ thirty four percent : PERCENT
+slide : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+square : SHAPE
+round : SHAPE
+ Weather Channel : ORGANIZATION
+ Disney Channel : ORGANIZATION
+ Cartoon Network : ORGANIZATION
+black : COLOUR
+ twenty five : MEASURE
+ thirty five : MEASURE
+yellow : COLOUR
+yellow : COLOUR
+ Los Angeles : LOCATION

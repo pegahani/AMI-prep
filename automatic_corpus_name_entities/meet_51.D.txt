@@ -1,0 +1,21 @@
+hundred : CARDINAL
+ Project Manager : PROJECT_MANAGER
+one : CARDINAL
+Paris : LOCATION
+Milan : LOCATION
+Paris : LOCATION
+Milan : LOCATION
+Paris : LOCATION
+Milan : LOCATION
+two : CARDINAL
+titanium : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+curved : SHAPE
+rubber : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+Sarah : PROJECT_MANAGER
+rubber : MATERIALS
+plastic : MATERIALS

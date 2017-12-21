@@ -1,0 +1,58 @@
+ forty minutes : DURATION
+thing : CONSTRUCTED
+Maarika : INTERFACE_SPECIALIST
+L_C_D_ : CONSTRUCTED
+scroll : DRAWING
+rubber : MATERIALS
+cover : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+One : CARDINAL
+locator : CONSTRUCTED
+scroll : CONSTRUCTED
+seven : MEASURE
+L_C_D_ : CONSTRUCTED
+buttons : CONSTRUCTED
+remote : CONSTRUCTED
+remote : CONSTRUCTED
+remote : CONSTRUCTED
+sixes : MEASURE
+One : CARDINAL
+two : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+one : CARDINAL
+five : MEASURE
+ twenty eight : CARDINAL
+ thirty eight : CARDINAL
+ forty six : CARDINAL
+ Forty six : CARDINAL
+five : CARDINAL
+ fifty one : CARDINAL
+ Fifty one : CARDINAL
+pushbutton : CONSTRUCTED
+ zero point five : MONEY
+ scroll wheel : CONSTRUCTED
+pushbutton : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+display : CONSTRUCTED
+three : CARDINAL
+one : CONSTRUCTED
+one : CARDINAL
+locator : CONSTRUCTED
+curved : SHAPE
+rubber : MATERIALS
+flat : SHAPE
+rubber : MATERIALS
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+button : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+wheel : CONSTRUCTED
+thing : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+two : CARDINAL
+display : CONSTRUCTED
+buttons : CONSTRUCTED
+locator : CONSTRUCTED
+one : CARDINAL
+five : DURATION

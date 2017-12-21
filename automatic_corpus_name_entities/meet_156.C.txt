@@ -1,0 +1,17 @@
+administrator : OTHER
+ fifty pro percent : PERCENT
+ two months : DURATION
+summertime : DATE
+Gisella : OTHER
+ one person : MEASURE
+room : DRAWING
+room : DRAWING
+ two people : MEASURE
+room : DRAWING
+room : DRAWING
+two : CARDINAL
+ two person : MEASURE
+rooms : DRAWING
+fifteen : CARDINAL
+Marianne : MARKETING
+Marianne : OTHER

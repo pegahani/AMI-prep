@@ -1,0 +1,14 @@
+one : CARDINAL
+slide : MEANS_OF_WORKING
+control : DRAWING
+picture : DRAWING
+twelve : CARDINAL
+twenty : CARDINAL
+slide : MEANS_OF_WORKING
+Google : DRAWING
+Google : DRAWING
+slide : MEANS_OF_WORKING
+one : CARDINAL
+red : COLOUR
+black : COLOUR
+Yellow : COLOUR

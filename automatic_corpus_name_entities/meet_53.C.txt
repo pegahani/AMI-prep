@@ -1,0 +1,38 @@
+one : CARDINAL
+four : CARDINAL
+ function F_ eight : MEANS_OF_WORKING
+blue : COLOUR
+Blue : COLOUR
+ F_ eight : MEANS_OF_WORKING
+one : CARDINAL
+ F_ five : MEANS_OF_WORKING
+ twenty five : MEASURE
+ thirty five : MEASURE
+Fifteen : MEASURE
+Helen : INTERFACE_SPECIALIST
+cable's : MEANS_OF_WORKING
+ Function F_ eight : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+ F_ five : MEANS_OF_WORKING
+button : MEANS_OF_WORKING
+button : MEANS_OF_WORKING
+Arlo : INDUSTRIAL_DESIGNER
+Raj's : MARKETING
+ Function F_ eight : MEANS_OF_WORKING
+ fifty million Euros : MONEY
+ twelve and a half Euros : MONEY
+Oracle : ORGANIZATION
+Yellow : COLOUR
+yellow : COLOUR
+globular : SHAPE
+Raj : MARKETING
+Arlo : INDUSTRIAL_DESIGNER
+Raj : MARKETING
+yellow : COLOUR
+Raj's : MARKETING
+ Five minutes : DURATION
+folder : MEANS_OF_WORKING
+desktop : MEANS_OF_WORKING
+yellow : CONSTRUCTED
+foam : MATERIALS
+all-yellow : COLOUR

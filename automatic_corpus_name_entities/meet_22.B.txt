@@ -1,0 +1,30 @@
+ user interface : INTERFACE_SPECIALIST
+ couple of months : DURATION
+two : CARDINAL
+two : CARDINAL
+slide : MEANS_OF_WORKING
+blue : COLOUR
+M_E_ : MARKETING
+U_I_D_ : INTERFACE_SPECIALIST
+metal : MATERIALS
+plastic : MATERIALS
+three : CARDINAL
+three : CARDINAL
+five : CARDINAL
+ten : CARDINAL
+ user interface : INTERFACE_SPECIALIST
+ management man : MARKETING
+one : CARDINAL
+two : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ten : CARDINAL
+five : CARDINAL
+one : CARDINAL
+one : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+ five minutes : DURATION
+ five minutes : DURATION
+one : CARDINAL

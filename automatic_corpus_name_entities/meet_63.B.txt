@@ -1,0 +1,8 @@
+prototype : CONSTRUCTED
+curved : SHAPE
+Play-Doh : MODELLING_STUFF
+Rubber : MATERIALS
+one : CARDINAL
+Two : CARDINAL
+yellow : COLOUR
+Two : CARDINAL

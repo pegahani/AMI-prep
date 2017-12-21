@@ -1,0 +1,5 @@
+fish : DRAWING
+fish : DRAWING
+cat : DRAWING
+summer : DATE
+ Las Vegas : LOCATION

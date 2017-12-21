@@ -1,0 +1,90 @@
+yellow : COLOUR
+remote : CONSTRUCTED
+ base station : CONSTRUCTED
+banana : CONSTRUCTED
+remote : CONSTRUCTED
+two : CARDINAL
+ scroll wheels : CONSTRUCTED
+one : CARDINAL
+one : CARDINAL
+button : CONSTRUCTED
+wheel : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+button : CONSTRUCTED
+seven : CARDINAL
+zero : CARDINAL
+zero : CARDINAL
+button : CONSTRUCTED
+port : CONSTRUCTED
+banana : CONSTRUCTED
+ base station : CONSTRUCTED
+button : CONSTRUCTED
+banana : CONSTRUCTED
+one : CARDINAL
+one : CARDINAL
+ base station : CONSTRUCTED
+cells : CONSTRUCTED
+ base station : CONSTRUCTED
+black : COLOUR
+cells : CONSTRUCTED
+ base station : CONSTRUCTED
+five : MEASURE
+Five : MEASURE
+six : MEASURE
+six : MEASURE
+ scroll wheels : CONSTRUCTED
+four : MEASURE
+Four : MEASURE
+four : MEASURE
+five : MEASURE
+five : MEASURE
+five : MEASURE
+seven : MEASURE
+seven : MEASURE
+Seven : MEASURE
+ sixty million Dollar : MONEY
+ twenty five : MONEY
+ twenty five Euro : MONEY
+two : MEASURE
+banana : CONSTRUCTED
+remote : CONSTRUCTED
+two : MEASURE
+ remote control : CONSTRUCTED
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+four : MEASURE
+three : MEASURE
+three : MEASURE
+banana : CONSTRUCTED
+curved : SHAPE
+two : CARDINAL
+curved : SHAPE
+one : CARDINAL
+one : CARDINAL
+three : MONEY
+rubber : MATERIALS
+two : CARDINAL
+buttons : CONSTRUCTED
+plastic : MATERIALS
+recharger : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+plastic : MATERIALS
+rubber : MATERIALS
+ ten cents : MONEY
+ base station : CONSTRUCTED
+plastic : MATERIALS
+Milan : LOCATION
+Paris : LOCATION
+Milan : LOCATION
+Paris : LOCATION
+Milan : LOCATION
+banana : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+two : CARDINAL
+scrollers : CONSTRUCTED

@@ -1,0 +1,29 @@
+ Sammy Benjo : MARKETING
+ F_ F_ five : MEANS_OF_WORKING
+ twenty six percent : PERCENT
+ Twenty five : PERCENT
+four : CARDINAL
+one : CARDINAL
+ Market Expert : MARKETING
+three : CARDINAL
+ Mark Dwight : INTERFACE_SPECIALIST
+ Project Manager : PROJECT_MANAGER
+slide : MEANS_OF_WORKING
+ remote control : DRAWING
+titanium : MATERIALS
+concept : DRAWING
+titanium : MATERIALS
+two : CARDINAL
+two : CARDINAL
+ twenty five : CARDINAL
+four : CARDINAL
+five : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+five : CARDINAL
+ twenty fives : CARDINAL
+ twenty five : CARDINAL
+ sixty four : CARDINAL
+ twelve Euros : MONEY
+ Market Expert : MARKETING

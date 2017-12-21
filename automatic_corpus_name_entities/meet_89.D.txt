@@ -1,0 +1,16 @@
+ three quarters : CARDINAL
+ thirty five : MEASURE
+forty : MEASURE
+ forty five : MEASURE
+Louisa : INTERFACE_SPECIALIST
+two : CARDINAL
+ five minutes : DURATION
+one : CARDINAL
+second : DURATION
+two : DURATION
+two : CARDINAL
+ten : CARDINAL
+twelve : CARDINAL
+One : CARDINAL
+one : CARDINAL
+sixteen : CARDINAL

@@ -1,0 +1,30 @@
+ Sammy Benjo : MARKETING
+slide : MEANS_OF_WORKING
+one : CARDINAL
+ten : CARDINAL
+six : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ten : CARDINAL
+one : CARDINAL
+two : CARDINAL
+slide : MEANS_OF_WORKING
+One : CARDINAL
+one : CARDINAL
+ twenty five : CARDINAL
+eight : CARDINAL
+hundreds : CARDINAL
+hundreds : CARDINAL
+one : CARDINAL
+three : CARDINAL
+ twenty eight : CARDINAL
+ forty eight : CARDINAL
+ sixty four : CARDINAL
+ twenty five : CARDINAL
+One : CARDINAL
+four : CARDINAL
+five : CARDINAL
+ one hundred : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL

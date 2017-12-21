@@ -1,0 +1,32 @@
+Play-Doh's : MODELLING_STUFF
+one : CARDINAL
+cable : MEANS_OF_WORKING
+One : CARDINAL
+curved : SHAPE
+rubber : MATERIALS
+wood : MATERIALS
+titanium : MATERIALS
+rubber : MATERIALS
+ten : MONEY
+ ten Euro seventy cents : MONEY
+ twelve fifty : MONEY
+ F_ eight : MEANS_OF_WORKING
+Play-Doh : MODELLING_STUFF
+seven : CARDINAL
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Reissa : MARKETING
+ Project Manager : PROJECT_MANAGER
+two : CARDINAL
+Sony : ORGANIZATION
+ two years' : DURATION
+six : CARDINAL
+one : CARDINAL
+pens : MEANS_OF_WORKING
+pads : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+camera : MEANS_OF_WORKING

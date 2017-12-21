@@ -1,0 +1,24 @@
+laptop : MEANS_OF_WORKING
+hundred : CARDINAL
+ seventy five percent : PERCENT
+ ten percent : PERCENT
+hundred : MEASURE
+ sixty eight times per hour : MEASURE
+ fourteen times per hour : MEASURE
+ four times per hour : MEASURE
+ one times per hour : MEASURE
+ one times per hour : MEASURE
+ fifty percent : PERCENT
+ ninety one percent : PERCENT
+fifteen : MEASURE
+ twenty five : MEASURE
+ twelve fifty Euros : MONEY
+three : CARDINAL
+ten : CARDINAL
+Petre's : INDUSTRIAL_DESIGNER
+ five minutes : DURATION
+ two hours : DURATION
+five : DURATION
+ five minute : DURATION
+nine : CARDINAL
+ten : CARDINAL

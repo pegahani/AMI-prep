@@ -1,0 +1,55 @@
+ F_ eight : MEANS_OF_WORKING
+single : CARDINAL
+single : CARDINAL
+one : CARDINAL
+microphone : RECORDING_DEVICES
+ seventy five percent : PERCENT
+ twenty five percent : PERCENT
+ Eighty percent : PERCENT
+oval : SHAPE
+black : SHAPE
+ seventy five percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+hour : DURATION
+nine : MEASURE
+ten : MEASURE
+ sixty eight times on average per hour : MEASURE
+ten : MEASURE
+ten : MEASURE
+ten : MEASURE
+ten : MEASURE
+ten : MEASURE
+ four times an hour : MEASURE
+ zero point eight times an hour : MEASURE
+two : MEASURE
+ zero point five times an hour : MEASURE
+ one point five : MEASURE
+ fourteen times an hour : MEASURE
+ six point five : MEASURE
+ Zero point zero one times an hour : MEASURE
+three : MEASURE
+Poppy : INDUSTRIAL_DESIGNER
+fifteen : MEASURE
+ twenty five : MEASURE
+ Ninety one point two percent : PERCENT
+ twenty five : MEASURE
+ thirty five : MEASURE
+ ninety percent : PERCENT
+ ninety percent : PERCENT
+screen : MEANS_OF_WORKING
+fifteen : MEASURE
+ twenty five years : MEASURE
+ fifty million : MONEY
+ sixteen year : MEASURE
+ three months : DURATION
+screen : MEANS_OF_WORKING
+yellow : COLOUR
+ fifteen seconds : DURATION
+ten : DURATION
+ fifteen seconds : DURATION
+ ten seconds : DURATION
+ ten seconds : DURATION
+Eighties : DATE
+five : CARDINAL
+ Bart Simpson : OTHER

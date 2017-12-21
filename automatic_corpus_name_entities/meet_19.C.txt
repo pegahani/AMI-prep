@@ -1,0 +1,54 @@
+fruits : SHAPE
+fruits : SHAPE
+apple : SHAPE
+banana : SHAPE
+Banana : SHAPE
+two : CARDINAL
+plastic : MATERIALS
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+curves : SHAPE
+curve : SHAPE
+convex : SHAPE
+concave : SHAPE
+flats : SHAPE
+curve : SHAPE
+curves : SHAPE
+three : CARDINAL
+plastic : MATERIALS
+curve : SHAPE
+curve : SHAPE
+wood : MATERIALS
+titanium : MATERIALS
+plastic : MATERIALS
+Wooden : MATERIALS
+Banana : SHAPE
+capsicum : SHAPE
+three : CARDINAL
+slide : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ hundred per cent : PERCENT
+slide : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+slide : MEANS_OF_WORKING
+ base station : DRAWING
+ Basis station : DRAWING
+remote : DRAWING
+buttons'll : DRAWING
+remote : DRAWING
+remote : DRAWING
+scroll : DRAWING
+buttons : DRAWING
+ fifty million Euros : MONEY
+ Twenty five : MONEY
+ Twelve point five : MONEY
+one : CARDINAL
+ forty th four : CARDINAL
+ point four million : CARDINAL
+ Point four million : CARDINAL

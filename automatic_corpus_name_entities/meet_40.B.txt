@@ -1,0 +1,56 @@
+led : CONSTRUCTED
+L_E_D_ : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+model : CONSTRUCTED
+one : CARDINAL
+nine : CARDINAL
+buttons : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+model : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+green : COLOUR
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+ elongated shaped : SHAPE
+button : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+remote : CONSTRUCTED
+model : CONSTRUCTED
+ marketing expert : MARKETING
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+two : CARDINAL
+two : CARDINAL
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+ oyster shape : SHAPE
+ shell shape : SHAPE
+curve : CARDINAL
+Plastic : MATERIALS
+One : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+Nine : MONEY
+One : CARDINAL
+One : CARDINAL
+One : CARDINAL
+three : CARDINAL
+Two : CARDINAL
+Whiteboard : MEANS_OF_WORKING
+ forty minutes : DURATION

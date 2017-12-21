@@ -1,0 +1,21 @@
+titanium : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+three : CARDINAL
+ remote control : DRAWING
+buttons : DRAWING
+explanation : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+button : MEANS_OF_WORKING
+concept : DRAWING
+buttons : DRAWING
+Nokia : ORGANIZATION
+one : CARDINAL
+one : CARDINAL
+titanium : MATERIALS
+fruit-shaped : SHAPE
+double-curved : SHAPE
+titanium : MATERIALS
+rubber : MATERIALS
+clay : MODELLING_STUFF

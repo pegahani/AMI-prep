@@ -1,0 +1,5 @@
+Krista : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+pen : MEANS_OF_WORKING
+ Two million : CARDINAL
+Marketing : MARKETING

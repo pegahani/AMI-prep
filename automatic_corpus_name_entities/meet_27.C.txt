@@ -1,0 +1,32 @@
+Ramaro : INDUSTRIAL_DESIGNER
+two : CARDINAL
+two : CARDINAL
+three : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+titanium : MATERIALS
+ twelve Euros : MONEY
+titanium : MATERIALS
+rubber : MATERIALS
+double-curved : SHAPE
+two : CARDINAL
+curves : SHAPE
+rubber : MATERIALS
+four : CARDINAL
+titanium : MATERIALS
+rubber : MATERIALS
+ five Euros : MONEY
+one : CARDINAL
+five : CARDINAL
+six : CARDINAL
+Three : CARDINAL
+ two Euro : MONEY
+Four : CARDINAL
+two : CARDINAL
+rubber : MATERIALS
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+titanium : MATERIALS
+plastic : MATERIALS
+two : CARDINAL

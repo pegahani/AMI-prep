@@ -1,0 +1,10 @@
+tomato : SHAPE
+wood : MATERIALS
+leather : MATERIALS
+wood : MATERIALS
+curve : SHAPE
+rubber : MATERIALS
+ twelve fifty : MONEY
+ twelve fifty : MONEY
+Terracotta : MATERIALS
+four : CARDINAL

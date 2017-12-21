@@ -1,0 +1,16 @@
+slide : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+plastic : MATERIALS
+steel : MATERIALS
+titanium : MATERIALS
+Christine's : INDUSTRIAL_DESIGNER
+two : CARDINAL
+Ed's : MARKETING
+Christine's : INDUSTRIAL_DESIGNER
+two : CARDINAL
+ remote control : DRAWING
+buttons : DRAWING
+labels : DRAWING
+ remote control : DRAWING
+Christine : INDUSTRIAL_DESIGNER
+Ed : MARKETING

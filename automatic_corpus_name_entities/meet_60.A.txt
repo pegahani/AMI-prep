@@ -1,0 +1,20 @@
+whiteboard : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+elephant : DRAWING
+ aesthetics designer : INTERFACE_SPECIALIST
+Marketing : MARKETING
+cat : DRAWING
+squirrel : DRAWING
+equipment : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+ twelve fifty : MONEY
+ thirty minutes : DURATION
+ quarter to twelve : TIME
+ five minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ Industrial Designer : INDUSTRIAL_DESIGNER
+marketing : MARKETING
+two : CARDINAL
+two : CARDINAL

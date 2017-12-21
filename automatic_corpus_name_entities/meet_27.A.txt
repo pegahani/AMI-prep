@@ -1,0 +1,27 @@
+three : CARDINAL
+Rama : INDUSTRIAL_DESIGNER
+Mark : INTERFACE_SPECIALIST
+Sammy : MARKETING
+ forty minutes : DURATION
+one : CARDINAL
+Rama : INDUSTRIAL_DESIGNER
+two : CARDINAL
+rubber : MATERIALS
+titanium : MATERIALS
+Three : CARDINAL
+ Marketing Expert : MARKETING
+two : CARDINAL
+Four : CARDINAL
+titanium : MATERIALS
+Mark : INTERFACE_SPECIALIST
+ thirty minutes : DURATION
+Rama : INDUSTRIAL_DESIGNER
+Mark : INTERFACE_SPECIALIST
+Sammy : MARKETING
+clay : MODELLING_STUFF
+titanium : MATERIALS
+titanium : MATERIALS
+curved : SHAPE
+titanium : MATERIALS
+titanium : MATERIALS
+ thirty minutes : DURATION

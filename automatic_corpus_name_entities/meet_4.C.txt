@@ -1,0 +1,74 @@
+pen : MEANS_OF_WORKING
+two : CARDINAL
+ eight Euros : MONEY
+seven : MONEY
+ eight Euros : MONEY
+ interesting shape : SHAPE
+led : CONSTRUCTED
+L_E_D_ : CONSTRUCTED
+button : CONSTRUCTED
+red : COLOUR
+Matthew : INTERFACE_SPECIALIST
+Seven : MONEY
+eight : MONEY
+ eight Euros : MONEY
+orange : COLOUR
+button : CONSTRUCTED
+microphone : RECORDING_DEVICES
+ sixteen Francs : MONEY
+ Sixteen Euros : MONEY
+ three Francs per item : MEASURE
+ three Euros : MONEY
+Four : CARDINAL
+led : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+two : CARDINAL
+two : CARDINAL
+three : CARDINAL
+buttons : CONSTRUCTED
+one : CARDINAL
+two : CARDINAL
+Eight : MONEY
+Sixteen : MONEY
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+four : CARDINAL
+ one hundred : CARDINAL
+ twenty five Euros : MONEY
+ four millions : CARDINAL
+screen : CONSTRUCTED
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+computer : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+black : COLOUR
+black : COLOUR
+two : CARDINAL
+blue : COLOUR
+Nine : CARDINAL
+ sixteen Fr Euros : MONEY
+Matthew : INTERFACE_SPECIALIST
+ zero Franc : MONEY
+ twelve Euro : MONEY
+twelve : CARDINAL
+curved : SHAPE
+curved : SHAPE
+curve : SHAPE
+curved : SHAPE
+sixteen : MONEY
+seventeen : MONEY
+twelve : CARDINAL
+Matthew : INTERFACE_SPECIALIST
+Matthew : INTERFACE_SPECIALIST
+ twelve fifty : MONEY
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL

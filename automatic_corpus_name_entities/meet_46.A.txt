@@ -1,0 +1,18 @@
+folder : MEANS_OF_WORKING
+two : CARDINAL
+Ebenezer's : MARKETING
+four : CARDINAL
+ couple of hours : DURATION
+black : COLOUR
+white : COLOUR
+twenty : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+Blue : COLOUR
+one : CARDINAL
+one : CARDINAL
+arc : SHAPE

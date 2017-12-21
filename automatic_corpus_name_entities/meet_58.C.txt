@@ -1,0 +1,32 @@
+documents : MEANS_OF_WORKING
+ Marketing Expert : MARKETING
+ forty minutes : DURATION
+pen : MEANS_OF_WORKING
+Wood : MATERIALS
+wood : MATERIALS
+board : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+two : CARDINAL
+latex : MATERIALS
+ball : SHAPE
+rubber : MATERIALS
+plastic : MATERIALS
+curved : SHAPE
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+five : DURATION
+curved : SHAPE
+one : CARDINAL
+curved : SHAPE
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+ thirty minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ Interface Designer : PROJECT_MANAGER
+ Marketing Expert : MARKETING
+two : CARDINAL
+clay : MODELLING_STUFF
+folder : MEANS_OF_WORKING

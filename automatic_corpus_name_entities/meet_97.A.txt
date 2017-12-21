@@ -1,0 +1,64 @@
+presentation : MEANS_OF_WORKING
+couple : CARDINAL
+ forty minutes : DURATION
+Corinne : MARKETING
+ Marketing Expert : MARKETING
+Ryan : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+Manuel : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+Ryan : INTERFACE_SPECIALIST
+Ball-shaped : SHAPE
+keyboard : SHAPE
+one : CARDINAL
+presentation : MEANS_OF_WORKING
+guy : DRAWING
+ F_ eight : MEANS_OF_WORKING
+screens : MEANS_OF_WORKING
+escape : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+one : CARDINAL
+couple : CARDINAL
+ fifty percent : PERCENT
+half : CARDINAL
+ ten percent : PERCENT
+grey : COLOUR
+yellow : COLOUR
+black : COLOUR
+three : CARDINAL
+three : CARDINAL
+ball : SHAPE
+flat : SHAPE
+yellow : COLOUR
+grey : COLOUR
+black : COLOUR
+rectangular : SHAPE
+bone : DRAWING
+square : SHAPE
+buttons : DRAWING
+one : DRAWING
+nine : DRAWING
+volume : DRAWING
+Channel : DRAWING
+Power : DRAWING
+mute : DRAWING
+button : DRAWING
+one : CARDINAL
+button : DRAWING
+button : DRAWING
+wheel : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+buttons : DRAWING
+scroll : DRAWING
+two : CARDINAL
+one : CARDINAL
+rounded : SHAPE
+two-piece : CARDINAL
+one : CARDINAL
+one : CARDINAL
+rounded : SHAPE
+Ryan : INTERFACE_SPECIALIST
+ half an hour : DURATION
+ half an hour : DURATION

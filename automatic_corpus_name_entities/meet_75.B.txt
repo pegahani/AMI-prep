@@ -1,0 +1,18 @@
+Vanna : OTHER
+buttons : CONSTRUCTED
+switch : CONSTRUCTED
+prototype : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+prototype : CONSTRUCTED
+two : CARDINAL
+ Three and an half : CARDINAL
+whiteboard : MEANS_OF_WORKING
+laptops : MEANS_OF_WORKING
+microphones : RECORDING_DEVICES
+Toronto : LOCATION
+ Project Leader : PROJECT_MANAGER

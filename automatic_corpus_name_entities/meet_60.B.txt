@@ -1,0 +1,4 @@
+things : RECORDING_DEVICES
+ Twelve fifty : MONEY
+one : CARDINAL
+two : CARDINAL

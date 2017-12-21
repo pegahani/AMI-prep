@@ -1,0 +1,42 @@
+one : CARDINAL
+two : CARDINAL
+ twenty three : CARDINAL
+ twenty fi : MONEY
+Mael : INDUSTRIAL_DESIGNER
+Anna : MARKETING
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ ninety nine : CARDINAL
+ one fifty : CARDINAL
+ two hundred : CARDINAL
+ few days : DURATION
+ couple of years : DURATION
+zero : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+one : CARDINAL
+two : CARDINAL
+keys : DRAWING
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+keys : DRAWING
+keys : DRAWING
+ Forty minutes : DURATION
+keys : DRAWING
+keys : DRAWING
+one : CARDINAL
+three : CARDINAL
+four : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+keys : DRAWING
+keys : DRAWING

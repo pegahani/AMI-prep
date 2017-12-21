@@ -1,0 +1,31 @@
+cable : MEANS_OF_WORKING
+hundred : CARDINAL
+ ten per cent : PERCENT
+ hundred and sixty times per hour : MEASURE
+ zero point eight : MEASURE
+ zero point five times per hour : MEASURE
+one : CARDINAL
+fifteen : MEASURE
+ thirty five year : MEASURE
+ ninety one : PERCENT
+ seventy six percent : PERCENT
+ thirty five years : MEASURE
+ thirty five percent : PERCENT
+ eight percent : PERCENT
+ sixty five : MEASURE
+ Function F_ eight : MEANS_OF_WORKING
+red : COLOUR
+red : COLOUR
+one : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL

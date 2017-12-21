@@ -1,0 +1,14 @@
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+five : DURATION
+ ten years : DURATION
+yellow : COLOUR
+yellow : COLOUR
+circle : SHAPE
+yellow : COLOUR
+white : COLOUR
+grey : COLOUR
+black : COLOUR
+pen : MEANS_OF_WORKING
+play-dough : MODELLING_STUFF

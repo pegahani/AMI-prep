@@ -1,0 +1,34 @@
+ Program Ma Manager : PROJECT_MANAGER
+three : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ Marketing Experts : MARKETING
+ User Interface Designer : INTERFACE_SPECIALIST
+two : CARDINAL
+one : CARDINAL
+Jordan : INTERFACE_SPECIALIST
+ David Jordan : INTERFACE_SPECIALIST
+ Industrial User Interface : INDUSTRIAL_DESIGNER
+Baba : INDUSTRIAL_DESIGNER
+Industrial : INDUSTRIAL_DESIGNER
+Designer : INDUSTRIAL_DESIGNER
+Twelve : MONEY
+thirteen : MONEY
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ David Jordan's : INTERFACE_SPECIALIST
+ User Interface Designer : INTERFACE_SPECIALIST
+one : CARDINAL
+Florent : MARKETING
+ seventy five percent : PERCENT
+one : CARDINAL
+ real reaction : ORGANIZATION
+ real reaction : ORGANIZATION
+yellow : COLOUR
+ real reaction : ORGANIZATION
+reaction : ORGANIZATION
+ thirty minutes : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+Florent : MARKETING
+ David Jordan : INTERFACE_SPECIALIST

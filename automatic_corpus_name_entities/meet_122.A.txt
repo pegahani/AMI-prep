@@ -1,0 +1,32 @@
+presentation : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+three : CARDINAL
+ forty minutes : DURATION
+presentation : MEANS_OF_WORKING
+business : COLOUR
+corporate : COLOUR
+coach : OTHER
+screen : DRAWING
+buttons : DRAWING
+screen : DRAWING
+drawing : DRAWING
+buttons : DRAWING
+remote : DRAWING
+button : DRAWING
+remote : DRAWING
+L_C_D_ : DRAWING
+ five minutes : DURATION
+silver : COLOUR
+black : COLOUR
+yellow : COLOUR
+red : COLOUR
+yellow : COLOUR
+green : COLOUR
+blue : COLOUR
+Maroon : COLOUR
+ thirty minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ smart board : MEANS_OF_WORKING
+four : CARDINAL
+coach : OTHER

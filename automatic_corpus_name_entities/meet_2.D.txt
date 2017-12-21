@@ -1,0 +1,13 @@
+Matthew : INTERFACE_SPECIALIST
+chair : FURNITURE
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ Marketing uh Expert : MARKETING
+Anna : MARKETING
+sender : DRAWING
+receiver : DRAWING
+schema : DRAWING
+Fourteen : MEASURE
+ for O : MEASURE
+ twelve point five Euros : MONEY
+four : CARDINAL
+ four million : CARDINAL

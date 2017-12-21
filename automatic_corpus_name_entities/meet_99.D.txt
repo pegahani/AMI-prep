@@ -1,0 +1,27 @@
+prototype : CONSTRUCTED
+ seven point : MEASURE
+one : MEASURE
+seven : MEASURE
+Three : MEASURE
+Four : MEASURE
+Five : MEASURE
+Four : MEASURE
+controls : CONSTRUCTED
+One : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : MEASURE
+two : MEASURE
+Two : MEASURE
+Two : MEASURE
+Three : MEASURE
+Six : MEASURE
+eight : MEASURE
+twelve : MEASURE
+sixteen : MEASURE
+Seventeen : MEASURE
+Eight : CARDINAL
+two : MEASURE
+ two point four two : MEASURE
+ Bright yellow : COLOUR
+blue : COLOUR

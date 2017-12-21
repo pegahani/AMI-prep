@@ -1,0 +1,16 @@
+mic : RECORDING_DEVICES
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+Mael : INDUSTRIAL_DESIGNER
+legs : DRAWING
+Matthew : INTERFACE_SPECIALIST
+rat : DRAWING
+pen : MEANS_OF_WORKING
+shark : DRAWING
+Australia : LOCATION
+ Four million : CARDINAL
+ marketing guy : MARKETING
+marketing : MARKETING
+ user interface uh design : INTERFACE_SPECIALIST
+ industrial designer : INDUSTRIAL_DESIGNER
+Mael : INDUSTRIAL_DESIGNER

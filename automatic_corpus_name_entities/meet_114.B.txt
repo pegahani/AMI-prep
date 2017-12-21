@@ -1,0 +1,25 @@
+few : CARDINAL
+one : CARDINAL
+one : CARDINAL
+zero : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+picture : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+display : DRAWING
+display : DRAWING
+button : DRAWING
+one : CARDINAL
+button : DRAWING
+one : CARDINAL
+ six months : DURATION
+one : CARDINAL
+Nokia : ORGANIZATION
+one : CARDINAL
+few : CARDINAL
+display : DRAWING
+buttons : DRAWING
+ Five minutes : DURATION
+button : DRAWING

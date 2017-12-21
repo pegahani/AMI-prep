@@ -1,0 +1,13 @@
+three : CARDINAL
+Three : CARDINAL
+cube : SHAPE
+two : CARDINAL
+ seven centimetre by seven centimetre : MEASURE
+seven : MEASURE
+seven : MEASURE
+ five by ten : MEASURE
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS

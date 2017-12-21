@@ -1,0 +1,45 @@
+ Real Reaction : ORGANIZATION
+ twenty minut : DURATION
+ twenty five minutes : DURATION
+Steph : INTERFACE_SPECIALIST
+Sarah : MARKETING
+whiteboard : MEANS_OF_WORKING
+Kate : INDUSTRIAL_DESIGNER
+things : MEANS_OF_WORKING
+things : RECORDING_DEVICES
+whiteboard : MEANS_OF_WORKING
+Steph : INTERFACE_SPECIALIST
+pen : MEANS_OF_WORKING
+mouse-y : DRAWING
+rat : DRAWING
+Kate : INDUSTRIAL_DESIGNER
+fish : DRAWING
+Steph : INTERFACE_SPECIALIST
+pen's : MEANS_OF_WORKING
+cat's : DRAWING
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+ hundred million : CARDINAL
+ twenty five Euros : MONEY
+ fifty million : MONEY
+ twelve and a half Euros : MONEY
+ twelve and a half : MONEY
+ twenty five : MONEY
+ twelve and a half Euros : MONEY
+ fifty million : MONEY
+ fifty million Euros : MONEY
+ fifty million Euros : MONEY
+ twelve and a half : MONEY
+Two : CARDINAL
+four : CARDINAL
+fifty : MONEY
+ four million : CARDINAL
+ four million : CARDINAL
+three : CARDINAL
+one : CARDINAL
+three : CARDINAL
+Kate : INDUSTRIAL_DESIGNER
+Steph : INTERFACE_SPECIALIST
+kitty-cat : DRAWING
+rat : DRAWING
+fish : DRAWING

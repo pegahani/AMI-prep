@@ -1,0 +1,86 @@
+white : COLOUR
+paper : MATERIALS
+Agnes : PROJECT_MANAGER
+ ninety four : DATE
+ ninety five : DATE
+Denis's : INDUSTRIAL_DESIGNER
+twice : CARDINAL
+ Bruce Willis : OTHER
+ Uma Thurman : OTHER
+ Ninety one : DATE
+ fifteen years : MEASURE
+picture : DRAWING
+rose : DRAWING
+ Frank Darabont : OTHER
+slide : MEANS_OF_WORKING
+director : OTHER
+paper : MATERIALS
+copies : MEANS_OF_WORKING
+nineties : DATE
+one : CARDINAL
+one : CARDINAL
+Ryan : OTHER
+ Tom Hanks : OTHER
+picture : DRAWING
+page : MEANS_OF_WORKING
+notes : MEANS_OF_WORKING
+ John Miller : OTHER
+Europe : LOCATION
+Normandy : LOCATION
+fifties : DATE
+sixties : DATE
+page : MEANS_OF_WORKING
+notes : MEANS_OF_WORKING
+black : COLOUR
+white : COLOUR
+grey-ish : COLOUR
+dark-ish : COLOUR
+grey : COLOUR
+ Matt Damon : OTHER
+one : CARDINAL
+page : MEANS_OF_WORKING
+table : DRAWING
+table : DRAWING
+two : CARDINAL
+poster : DRAWING
+image : DRAWING
+Lebowski : OTHER
+picture : DRAWING
+characters : DRAWING
+guy : DRAWING
+glasses : DRAWING
+Vietnam : LOCATION
+square : SHAPE
+black : COLOUR
+poster : DRAWING
+dark : COLOUR
+two : CARDINAL
+three : CARDINAL
+poster : DRAWING
+ Julianne Moore : OTHER
+America : LOCATION
+Agnes : PROJECT_MANAGER
+Denis : INDUSTRIAL_DESIGNER
+Denis : INDUSTRIAL_DESIGNER
+two : CARDINAL
+Denis : INDUSTRIAL_DESIGNER
+two : CARDINAL
+one : CARDINAL
+Agnes : PROJECT_MANAGER
+four : CARDINAL
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ Julianne Moore : OTHER
+May : DATE
+ two thousands : DATE
+May : DATE
+Monday : DATE
+second : DATE
+Monday : DATE
+third : DATE
+Godard : OTHER
+ April ni twenty ninth : DATE

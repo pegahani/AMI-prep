@@ -1,0 +1,40 @@
+black : COLOUR
+presentation : MEANS_OF_WORKING
+ smart board : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+toolbar : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+Julian : INTERFACE_SPECIALIST
+four : MEANS_OF_WORKING
+legs : DRAWING
+button : MEANS_OF_WORKING
+giraffe : DRAWING
+turtle : DRAWING
+legs : DRAWING
+fins : DRAWING
+gum : MEANS_OF_WORKING
+gum : MEANS_OF_WORKING
+Niels : INDUSTRIAL_DESIGNER
+paper : MEANS_OF_WORKING
+Orange : COLOUR
+Kangaroo : DRAWING
+Dog : DRAWING
+Cat : DRAWING
+cat : DRAWING
+cat : DRAWING
+pen : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ fifty million Euros : MONEY
+half : CARDINAL
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+ Marketing uh Expert : MARKETING
+ Marketing Expert : MARKETING
+folder : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+folder : MEANS_OF_WORKING
+few : CARDINAL
+computer : MEANS_OF_WORKING

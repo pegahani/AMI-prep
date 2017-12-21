@@ -1,0 +1,16 @@
+Alima : INDUSTRIAL_DESIGNER
+one : CARDINAL
+ Alima Bucciantini : INDUSTRIAL_DESIGNER
+Maine : LOCATION
+US : LOCATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+shell : DRAWING
+eyes : DRAWING
+turtle : DRAWING
+turtle : DRAWING
+Snake : DRAWING
+snake : DRAWING
+cat : DRAWING
+dad : OTHER
+one : CARDINAL
+two : CARDINAL

@@ -1,0 +1,20 @@
+silvers : COLOUR
+blacks : COLOUR
+silvers : COLOUR
+blacks : COLOUR
+board : MEANS_OF_WORKING
+cable : RECORDING_DEVICES
+one : CARDINAL
+three : CARDINAL
+One : CARDINAL
+thirty : MONEY
+ thirty five : MONEY
+ fifty Euros : MONEY
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+curve : SHAPE
+two : CARDINAL
+microphone : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+cables : RECORDING_DEVICES

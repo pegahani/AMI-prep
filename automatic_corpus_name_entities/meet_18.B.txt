@@ -1,0 +1,42 @@
+U_S_ : LOCATION
+one : CARDINAL
+remote : INCIDENTAL
+sides : INCIDENTAL
+ twenty five Euro : MONEY
+presentation : MEANS_OF_WORKING
+button : INCIDENTAL
+mouse : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+couple : CARDINAL
+ Epinions dot com : ORGANIZATION
+ remote control : DRAWING
+screen : DRAWING
+couple : CARDINAL
+buttons : DRAWING
+screens : DRAWING
+screen : DRAWING
+ remote control : DRAWING
+slide : MEANS_OF_WORKING
+ scroll wheel : DRAWING
+presentation : MEANS_OF_WORKING
+two : CARDINAL
+two-digit : MEASURE
+two : CARDINAL
+ scroll wheel : DRAWING
+screen : DRAWING
+ twenty five Eu uh Euro : MONEY
+screen : DRAWING
+screen : DRAWING
+ remote control : DRAWING
+few : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+Epinions : ORGANIZATION
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+ twenty five Euro : MONEY
+ Ninety five percent : PERCENT

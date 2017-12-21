@@ -1,0 +1,37 @@
+ forty minutes : DURATION
+Courtney : MARKETING
+six : CARDINAL
+two : CARDINAL
+one : CARDINAL
+One : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+ Two point five : CARDINAL
+curved : SHAPE
+Two : CARDINAL
+two : CARDINAL
+eight : CARDINAL
+three : CARDINAL
+four : CARDINAL
+ three point five : CARDINAL
+ twelve fifty Euro : MONEY
+one : CARDINAL
+lithium : MATERIALS
+one : CARDINAL
+lithium : MATERIALS
+one : CARDINAL
+one : CARDINAL
+Plastic : MATERIALS
+Courtney's : MARKETING
+two : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+ Twelve point five : MONEY
+ eleven point two : MONEY
+guy : CONSTRUCTED
+model : CONSTRUCTED
+prototype : CONSTRUCTED
+pens : MEANS_OF_WORKING
+Nokia : ORGANIZATION

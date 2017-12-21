@@ -1,0 +1,78 @@
+ remote control : CONSTRUCTED
+ remote control : CONSTRUCTED
+curvy : SHAPE
+curvy : SHAPE
+button : CONSTRUCTED
+wheel : CONSTRUCTED
+wheel : CONSTRUCTED
+remote : CONSTRUCTED
+Play-Do : MODELLING_STUFF
+Wales : LOCATION
+ seven point : MEASURE
+seven : MEASURE
+minute : DURATION
+seven : MEASURE
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+five : MEASURE
+locator : CONSTRUCTED
+locator : CONSTRUCTED
+two : MEASURE
+seven : MEASURE
+five : MEASURE
+five : MEASURE
+six : MEASURE
+Six : MEASURE
+fifty : CARDINAL
+six : MEASURE
+seven : MEASURE
+ remote control : CONSTRUCTED
+Six : MEASURE
+seven : MEASURE
+Seven : MEASURE
+four : CARDINAL
+sevens : MEASURE
+ twenty eight : CARDINAL
+three : CARDINAL
+sixes : MEASURE
+eighteen : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+Seven : CARDINAL
+eight : CARDINAL
+rubber : MATERIALS
+one : CARDINAL
+pushbutton : CONSTRUCTED
+ twenty five : CARDINAL
+buttons : CONSTRUCTED
+ Twelve point five : MONEY
+display : CONSTRUCTED
+locator : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+thing : CONSTRUCTED
+ point three : MONEY
+wheel : CONSTRUCTED
+L_C_ : CONSTRUCTED
+ point three : MONEY
+ scroll wheel : CONSTRUCTED
+ scroll wheel's : CONSTRUCTED
+single : CARDINAL
+curve : SHAPE
+ scroll wheel : CONSTRUCTED
+two : CARDINAL
+vegetable-like : COLOUR
+thing : CONSTRUCTED
+Jen : PROJECT_MANAGER
+pen : MEANS_OF_WORKING
+ three days : DURATION
+Jen's : PROJECT_MANAGER
+pens : MEANS_OF_WORKING
+microphone : RECORDING_DEVICES
+board : MEANS_OF_WORKING
+Jen : PROJECT_MANAGER
+pen : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+ five minutes : DURATION
+board : MEANS_OF_WORKING
+Play-Doh : MODELLING_STUFF

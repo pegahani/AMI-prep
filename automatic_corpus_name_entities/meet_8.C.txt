@@ -1,0 +1,15 @@
+banana : CONSTRUCTED
+five : CARDINAL
+Christine : MARKETING
+ five point five : CARDINAL
+four : CARDINAL
+ twenty five : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+six : CARDINAL
+Six : CARDINAL
+Twenty : CARDINAL
+Thirty : CARDINAL
+eight : CARDINAL
+ hundred Euros : MONEY
+ two hundred Euros : MONEY

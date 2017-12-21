@@ -1,0 +1,59 @@
+ fifteen twenty five : TIME
+black : COLOUR
+rubber : MATERIALS
+curved : SHAPE
+two : CARDINAL
+prototype : CONSTRUCTED
+ four Euros : MONEY
+plastic : MATERIALS
+curve : SHAPE
+ point two of a Euro : MONEY
+plastic : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+curved : SHAPE
+plastic : MATERIALS
+rubber's : MATERIALS
+ two Euros : MONEY
+ point five of a Euro : MONEY
+ four point five Euros : MONEY
+ point five : MONEY
+ four Euros : MONEY
+plastic : MATERIALS
+curved : SHAPE
+curved : SHAPE
+curves : SHAPE
+curve : SHAPE
+curved : SHAPE
+ point two Euros : MONEY
+ point two Euros : MONEY
+One : CARDINAL
+ point five of a Euro : MONEY
+one : CARDINAL
+one : CARDINAL
+ point five : MONEY
+ point five Euros : MONEY
+Black's : COLOUR
+ five minute : DURATION
+Ten : DURATION
+four : CARDINAL
+Three : CARDINAL
+Two : CARDINAL
+three : CARDINAL
+Plastic : MATERIALS
+yellow : COLOUR
+four : CARDINAL
+curved : SHAPE
+yellow : COLOUR
+curve : SHAPE
+pen : MEANS_OF_WORKING
+batteries : INCIDENTAL
+four : CARDINAL
+ five minutes : DURATION
+four : CARDINAL
+pen : MEANS_OF_WORKING
+paper : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+paper's : MEANS_OF_WORKING
+prototype : CONSTRUCTED
+three : CARDINAL

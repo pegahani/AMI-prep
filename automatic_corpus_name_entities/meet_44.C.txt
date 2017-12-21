@@ -1,0 +1,62 @@
+pad : CONSTRUCTED
+nine : MEASURE
+ ten centimetres : MEASURE
+ Three and a half : MEASURE
+ Two point three : MONEY
+ Four point three : MONEY
+Two's : MEASURE
+three : MEASURE
+ two and a half : MEASURE
+nine : CARDINAL
+nine : CARDINAL
+Square : SHAPE
+board : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+yellow : COLOUR
+yellow's : COLOUR
+five : CARDINAL
+three : CARDINAL
+one : CARDINAL
+ two point five : CARDINAL
+three : CARDINAL
+two : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+Five : CARDINAL
+rubber : MATERIALS
+plastic : MATERIALS
+ forty nine : CARDINAL
+zero : CARDINAL
+two : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+ten : CARDINAL
+ fifteen point five : CARDINAL
+ seventy two percent : PERCENT
+hundred : CARDINAL
+ thirty one : CARDINAL
+seventy : PERCENT
+ seventy percent : PERCENT
+ hundred pound : MONEY
+pen : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+green : COLOUR
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+ twelve and a half pounds : MONEY
+Craig : INTERFACE_SPECIALIST
+whiteboard : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+Craig's : INTERFACE_SPECIALIST
+paper : MEANS_OF_WORKING
+book : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+computers : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+one : CARDINAL
+computer : MEANS_OF_WORKING
+Play-Dohs : MODELLING_STUFF

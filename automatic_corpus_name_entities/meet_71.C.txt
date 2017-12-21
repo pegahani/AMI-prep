@@ -1,0 +1,26 @@
+television : CONSTRUCTED
+device : CONSTRUCTED
+back : CONSTRUCTED
+console : CONSTRUCTED
+red : COLOUR
+ring : CONSTRUCTED
+Apple's : ORGANIZATION
+orange : COLOUR
+green : COLOUR
+one : CARDINAL
+Sarah : MARKETING
+whiteboard : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+Play-Doh : MODELLING_STUFF
+paper : MEANS_OF_WORKING
+paper : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+box : SHAPE
+five : CARDINAL
+slides : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING
+eight : CARDINAL
+nine : CARDINAL
+ eighteen years : DURATION
+eighties : DATE
+seven : CARDINAL

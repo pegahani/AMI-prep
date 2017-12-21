@@ -1,0 +1,84 @@
+ Big Brother : OTHER
+cameras : RECORDING_DEVICES
+thing : RECORDING_DEVICES
+microphones : RECORDING_DEVICES
+laptops : MEANS_OF_WORKING
+camera : RECORDING_DEVICES
+laptops : MEANS_OF_WORKING
+cameras : RECORDING_DEVICES
+ Danny Wolfs : PROJECT_MANAGER
+two : CARDINAL
+ smart boards : MEANS_OF_WORKING
+ Danny Wolfs : PROJECT_MANAGER
+ Project Manager : PROJECT_MANAGER
+two : CARDINAL
+three : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+ smart boards : MEANS_OF_WORKING
+ smart board : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+save : MEANS_OF_WORKING
+print : MEANS_OF_WORKING
+undo : MEANS_OF_WORKING
+blank : MEANS_OF_WORKING
+select : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+thing : MEANS_OF_WORKING
+thingy : MEANS_OF_WORKING
+ few seconds : DURATION
+red : COLOUR
+pen : MEANS_OF_WORKING
+ One minute : DURATION
+five : MEASURE
+orc : DRAWING
+orc : DRAWING
+cat : DRAWING
+Simba : OTHER
+Simba : OTHER
+face : DRAWING
+ twenty five minutes : DURATION
+pen : MEANS_OF_WORKING
+red : COLOUR
+red : COLOUR
+red : COLOUR
+turtle : DRAWING
+turtle : DRAWING
+Tim : MARKETING
+turtle : DRAWING
+Tim : MARKETING
+Jurgen : INTERFACE_SPECIALIST
+red : COLOUR
+green : COLOUR
+five : MEASURE
+Tim : MARKETING
+Tim : MARKETING
+dog : DRAWING
+dog : DRAWING
+Janus : INDUSTRIAL_DESIGNER
+elephant : DRAWING
+rabbit : DRAWING
+white : COLOUR
+rabbit : DRAWING
+white : COLOUR
+rabbit : DRAWING
+ twenty five Euro : MONEY
+ twenty and a half Euro : MONEY
+ twelve and a half Euro : MONEY
+ fifty million : MONEY
+ twenty five : MONEY
+ two million : CARDINAL
+ two million : CARDINAL
+table : FURNITURE
+fly : DRAWING
+screens : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ Five minutes : DURATION
+ thirty minutes : DURATION
+ Industrial uh Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+one : CARDINAL
+ thirty minutes : DURATION

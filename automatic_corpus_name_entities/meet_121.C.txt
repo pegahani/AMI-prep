@@ -1,0 +1,49 @@
+One : CARDINAL
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+fibreglass : MATERIALS
+animation : DRAWING
+sub-component : DRAWING
+sub-component : DRAWING
+button : DRAWING
+switch : DRAWING
+wire : DRAWING
+chip : DRAWING
+battery : DRAWING
+chip : DRAWING
+bulb : DRAWING
+bulb : DRAWING
+one : CARDINAL
+rubber : MATERIALS
+two : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+twelve : CARDINAL
+Philip's : ORGANIZATION
+one : CARDINAL
+two : CARDINAL
+twelve : CARDINAL
+two : CARDINAL
+screen's : DRAWING
+four : CARDINAL
+buttons : DRAWING
+screen : DRAWING
+ Twelve fifty : MONEY
+folder : MEANS_OF_WORKING
+ Marketing uh Expert : MARKETING
+ two minutes : DURATION
+ three minutes : DURATION
+ ten points : MEASURE
+one : CARDINAL
+forty : CARDINAL
+two : CARDINAL
+ Twelve Euro : MONEY
+ twelve Euro fifty : MONEY
+ Twelve Euro fifty : MEASURE
+Red : COLOUR
+white : COLOUR
+blue : COLOUR
+black : COLOUR
+Grey : COLOUR

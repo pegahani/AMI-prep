@@ -1,0 +1,32 @@
+ half an hour : DURATION
+folder : MEANS_OF_WORKING
+equipment : MEANS_OF_WORKING
+three : CARDINAL
+yellow : COLOUR
+yellow : COLOUR
+three : CARDINAL
+ five minutes : DURATION
+ couple of minutes : DURATION
+function : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+one : CARDINAL
+ twenty five Euro : MONEY
+sixteen : MONEY
+ seventeen pounds : MONEY
+Craig : INTERFACE_SPECIALIST
+fifteen : MEASURE
+ thirty five : MEASURE
+fifteen : MEASURE
+ thirty five : MEASURE
+fifteen : MEASURE
+ thirty five : MEASURE
+Craig : INTERFACE_SPECIALIST
+ five minutes : DURATION
+ thirty minutes : DURATION
+folder : MEANS_OF_WORKING
+ thirty minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+marketing : MARKETING
+David : INDUSTRIAL_DESIGNER
+Andrew : MARKETING

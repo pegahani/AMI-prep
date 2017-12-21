@@ -1,0 +1,48 @@
+fifty : CARDINAL
+fifty : CARDINAL
+fifty : CARDINAL
+remote : DRAWING
+teletext : DRAWING
+ half an hour : DURATION
+play : DRAWING
+back : DRAWING
+stop : DRAWING
+few : CARDINAL
+remotes : DRAWING
+menu : DRAWING
+okay : DRAWING
+one : PERCENT
+button : DRAWING
+two : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+three : CARDINAL
+ five seconds : DURATION
+few : CARDINAL
+buttons : DRAWING
+remote : DRAWING
+logo : DRAWING
+buttons : DRAWING
+screen : DRAWING
+one : CARDINAL
+one : CARDINAL
+screen : DRAWING
+buttons : DRAWING
+screen : DRAWING
+buttons : DRAWING
+screen : DRAWING
+ remote control : DRAWING
+screens : DRAWING
+remote : DRAWING
+remote : DRAWING
+Philips : ORGANIZATION
+Philips : ORGANIZATION
+ four five five : CARDINAL
+ four five five : CARDINAL
+three : CARDINAL
+ four hundreds : CARDINAL
+buttons : DRAWING
+remote : DRAWING
+ quarter to one : TIME
+P_C_s : MEANS_OF_WORKING
+P_C_ : MEANS_OF_WORKING

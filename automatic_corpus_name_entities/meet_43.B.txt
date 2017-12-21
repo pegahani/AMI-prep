@@ -1,0 +1,44 @@
+fifteen : MEASURE
+ thirty five : MEASURE
+three : CARDINAL
+three : CARDINAL
+Andrew : MARKETING
+Craig : INTERFACE_SPECIALIST
+David : INDUSTRIAL_DESIGNER
+Craig : INTERFACE_SPECIALIST
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+David : INDUSTRIAL_DESIGNER
+plastic : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+ fifteen minutes : DURATION
+yellow : COLOUR
+yellow : COLOUR
+plastic : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+curved : SHAPE
+wood : MATERIALS
+titanium : MATERIALS
+lemon : SHAPE
+snowman : SHAPE
+distinctive : SHAPE
+board : MEANS_OF_WORKING
+snowman-shape : SHAPE
+yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+white : COLOUR
+three : CARDINAL
+slide : MEANS_OF_WORKING
+ five minutes : DURATION
+David : INDUSTRIAL_DESIGNER
+rubber : MATERIALS
+yellow : COLOUR
+yellow : COLOUR
+ thirty minutes : DURATION
+Play-doh : MODELLING_STUFF

@@ -1,0 +1,51 @@
+prototype : CONSTRUCTED
+banana : CONSTRUCTED
+prototype : CONSTRUCTED
+two : CARDINAL
+yellow : COLOUR
+ banana shaped : SHAPE
+rubber : MATERIALS
+ ten point seven Euros : MONEY
+ twelve point five Euros : MONEY
+ marketing expert : MARKETING
+four : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+Seven : CARDINAL
+six : CARDINAL
+One : CARDINAL
+seven : CARDINAL
+five : CARDINAL
+six : CARDINAL
+five : CARDINAL
+ Five point five : CARDINAL
+rubber : MATERIALS
+five : CARDINAL
+Four : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+five : CARDINAL
+four : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+seven : CARDINAL
+ six point five : CARDINAL
+ fruit shape : SHAPE
+seven : CARDINAL
+Seven : CARDINAL
+yellow : COLOUR
+seven : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+six : CARDINAL
+Six : CARDINAL
+Six : CARDINAL
+six : CARDINAL
+prototype : CONSTRUCTED
+ twenty five Euros : MONEY
+prototype : CONSTRUCTED
+two : CARDINAL
+ twenty five Euros : MONEY

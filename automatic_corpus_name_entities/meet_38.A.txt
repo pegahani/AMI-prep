@@ -1,0 +1,30 @@
+ Marketing Manager : MARKETING
+four : CARDINAL
+slide : MEANS_OF_WORKING
+three : CARDINAL
+two : CARDINAL
+square : SHAPE
+Francine : INTERFACE_SPECIALIST
+two : CARDINAL
+three : CARDINAL
+slide : MEANS_OF_WORKING
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+pink : COLOUR
+banana : COLOUR
+one : CARDINAL
+ twenty five Euros : MONEY
+one : CARDINAL
+ forty percent : PERCENT
+plastic : MATERIALS
+blue : COLOUR
+blue : COLOUR
+blue : COLOUR
+ few uh Francs : MONEY
+Euros : MONEY
+two : CARDINAL
+one : CARDINAL
+ Five minutes : DATE

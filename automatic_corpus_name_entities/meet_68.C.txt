@@ -1,0 +1,16 @@
+Ron : INTERFACE_SPECIALIST
+Victoria : LOCATION
+ User Interface Designer : INTERFACE_SPECIALIST
+one : CARDINAL
+one : CARDINAL
+Brooklyn : LOCATION
+Belgium : LOCATION
+Brussels : LOCATION
+ April first : DATE
+Brussels : LOCATION
+Edinburgh : LOCATION
+Glasgow : LOCATION
+ twenty five pounds : MONEY
+winter : DATE
+ twenty five Pounds : MONEY
+ twenty five Euros : MONEY

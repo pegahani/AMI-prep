@@ -1,0 +1,45 @@
+microphone : RECORDING_DEVICES
+slides : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING
+four : CARDINAL
+slide : MEANS_OF_WORKING
+ Industrial Expert : INDUSTRIAL_DESIGNER
+ five years : DURATION
+slide : MEANS_OF_WORKING
+ Industrial Engineer : INDUSTRIAL_DESIGNER
+Christmas : DATE
+ Twenty five Euros : MONEY
+September : DATE
+September : DATE
+Christmas : DATE
+ User Interface person : INTERFACE_SPECIALIST
+Christmas : DATE
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+ thirty four percent : PERCENT
+two : CARDINAL
+slide : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ twenty five Euros : MONEY
+ twenty five Euros : MONEY
+ fun shape : SHAPE
+ animal shape : SHAPE
+ User Interface person : INTERFACE_SPECIALIST
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+four : CARDINAL
+triangle : SHAPE
+square : SHAPE
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+Betsy : PROJECT_MANAGER
+six : MEASURE
+ banana shaped : SHAPE
+ one one : CARDINAL
+three : CARDINAL
+plastic : MATERIALS
+plastic : MATERIALS
+ industrial person : INDUSTRIAL_DESIGNER
+one : CARDINAL
+two : CARDINAL

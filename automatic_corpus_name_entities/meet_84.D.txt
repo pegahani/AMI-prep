@@ -1,0 +1,9 @@
+fish : DRAWING
+ fifty percent : PERCENT
+ sixty percent : PERCENT
+two : CARDINAL
+ One hundred : PERCENT
+ fifty percent : PERCENT
+ twenty five : MONEY
+ four million : CARDINAL
+ Four million : CARDINAL

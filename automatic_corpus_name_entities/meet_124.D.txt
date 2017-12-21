@@ -1,0 +1,26 @@
+ Marketing Expert : MARKETING
+screen : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+Giraffe's : DRAWING
+yellow : COLOUR
+sheet : MEANS_OF_WORKING
+dinosaur : DRAWING
+leaf : DRAWING
+legs : DRAWING
+tank : DRAWING
+spots : DRAWING
+eye : DRAWING
+turtle : DRAWING
+ears : DRAWING
+ears : DRAWING
+Eraser : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+turtle : DRAWING
+fox : DRAWING
+Firefox : DRAWING
+cat : DRAWING
+few : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+single : CARDINAL

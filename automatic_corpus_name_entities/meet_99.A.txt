@@ -1,0 +1,63 @@
+prototype : CONSTRUCTED
+twice : CARDINAL
+prototype : CONSTRUCTED
+two : CARDINAL
+prototype : CONSTRUCTED
+prototype : CONSTRUCTED
+button : CONSTRUCTED
+black : COLOUR
+angular : SHAPE
+modern : COLOUR
+four : MEASURE
+four : MEASURE
+one : MEASURE
+two : MEASURE
+two : MEASURE
+Two : MEASURE
+yellow : COLOUR
+yellow : COLOUR
+four : MEASURE
+grips : CONSTRUCTED
+four : MEASURE
+five : MEASURE
+ Carmen Miranda : OTHER
+Seven : CARDINAL
+ Two point : MEASURE
+ two point four : MEASURE
+ fifty percent : PERCENT
+ Twelve and a half Euros : MONEY
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+two : CARDINAL
+four : CARDINAL
+Two : CARDINAL
+one : CARDINAL
+double : CARDINAL
+curved : SHAPE
+plastic : MEASURE
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+zero : MONEY
+display : CONSTRUCTED
+integrated : CONSTRUCTED
+titanium : MATERIALS
+one : CARDINAL
+L_C_D_ : CONSTRUCTED
+scroll : CONSTRUCTED
+ fifteen point five : MONEY
+ three Euros : MONEY
+banana-shaped : SHAPE
+display : CONSTRUCTED
+ Twelve point five : MONEY
+L_C_D_ : CONSTRUCTED
+remote : CONSTRUCTED
+ twelve point five Euro : MONEY
+slide : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+remote : CONSTRUCTED

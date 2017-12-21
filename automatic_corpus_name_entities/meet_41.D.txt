@@ -1,0 +1,17 @@
+Andrew : MARKETING
+marketing : MARKETING
+beagle : DRAWING
+blue : OTHER
+ Blue beagle : OTHER
+beagle : DRAWING
+sketch : DRAWING
+dog : DRAWING
+rooster : DRAWING
+ twelve fifty : MONEY
+ twenty five Euro : MONEY
+London : LOCATION
+Greece : LOCATION
+ twenty five Euros : MONEY
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL

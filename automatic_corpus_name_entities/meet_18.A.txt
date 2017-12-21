@@ -1,0 +1,20 @@
+Michael : INTERFACE_SPECIALIST
+minutes : DRAWING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+U_I_ : INTERFACE_SPECIALIST
+ Marketing Expert : MARKETING
+three : CARDINAL
+presentations : MEANS_OF_WORKING
+three : CARDINAL
+presentations : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+palm : SHAPE
+sides : INCIDENTAL
+presentations : MEANS_OF_WORKING
+wheel : MEANS_OF_WORKING
+Mi : INTERFACE_SPECIALIST
+ few centimetres : MEASURE
+slide : MEANS_OF_WORKING
+good : SHAPE
+one : CARDINAL

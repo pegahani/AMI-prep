@@ -1,0 +1,31 @@
+ function F_ eight : MEANS_OF_WORKING
+one : CARDINAL
+two : CARDINAL
+apple : SHAPE
+one : CARDINAL
+three : CARDINAL
+ ten gigabytes : MEASURE
+slide : MEANS_OF_WORKING
+green : COLOUR
+ F_ eight : MEANS_OF_WORKING
+cable : MEANS_OF_WORKING
+curved : SHAPE
+one : CARDINAL
+one : CARDINAL
+ once a week : MEASURE
+one : CARDINAL
+one : CARDINAL
+yellow : COLOUR
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+rubber : MATERIALS
+plastic : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS
+rubber : MATERIALS
+plastic : MATERIALS

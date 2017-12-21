@@ -1,0 +1,77 @@
+two : CARDINAL
+Friday : DATE
+April : DATE
+February : DATE
+ Milos Forman : OTHER
+March : DATE
+nineties : DATE
+presentation : MEANS_OF_WORKING
+Agnes : PROJECT_MANAGER
+twice : CARDINAL
+nineties : DATE
+fifty : CARDINAL
+ two hundred fifty : CARDINAL
+one : CARDINAL
+ one hundred forty thousand : CARDINAL
+Sixty : DURATION
+ sixty years : DURATION
+nineties : DATE
+ Steven Spielberg : OTHER
+Steven : OTHER
+Agnes's : PROJECT_MANAGER
+six : CARDINAL
+Tuesday : DATE
+nineties : DATE
+Scorsese's : OTHER
+ Robert de Niro : OTHER
+two : CARDINAL
+ Joe Pesci : OTHER
+ Ninety one : DATE
+seven : CARDINAL
+ fifty years : MEASURE
+Mirek : MARKETING
+fifty : CARDINAL
+Kieslowski : OTHER
+ Lars von Trier : OTHER
+document : MEANS_OF_WORKING
+ one hundred : CARDINAL
+two : CARDINAL
+two : CARDINAL
+Spielberg : OTHER
+ Tom Hanks : OTHER
+Ryan : OTHER
+ Tom Hanks : OTHER
+ Joel Coen : OTHER
+ Raymond Chandler : OTHER
+Dude : OTHER
+L_A_ : LOCATION
+one : CARDINAL
+one : CARDINAL
+Vietnam : LOCATION
+Vietnam : LOCATION
+posters : DRAWING
+posters : DRAWING
+poster : DRAWING
+ Jeff Bridges : OTHER
+Goodman : OTHER
+Turturro : OTHER
+Buscemi : OTHER
+ Julianne Moore : OTHER
+ Jeffrey Lebowski : OTHER
+Lebowski : OTHER
+poster : DRAWING
+poster : DRAWING
+poster : DRAWING
+dark : COLOUR
+one : CARDINAL
+ eight Francs : MONEY
+three : CARDINAL
+ eighteen Francs : MONEY
+ sixty Francs : MONEY
+ Jeffrey Lebowski : OTHER
+Dude : OTHER
+poster : DRAWING
+one : CARDINAL
+one : CARDINAL
+Agnes : PROJECT_MANAGER
+ twenty ninth : DATE

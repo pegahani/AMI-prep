@@ -1,0 +1,53 @@
+presentation : MEANS_OF_WORKING
+notes : MEANS_OF_WORKING
+report : MEANS_OF_WORKING
+microphone : DRAWING
+one : CARDINAL
+button : DRAWING
+file : MEANS_OF_WORKING
+drawing : DRAWING
+three : CARDINAL
+buttons : DRAWING
+red : COLOUR
+red : COLOUR
+green : COLOUR
+three : CARDINAL
+black : COLOUR
+ yellow light : COLOUR
+ yellow light : COLOUR
+cover : DRAWING
+light : DRAWING
+black : COLOUR
+grey : COLOUR
+one : MEASURE
+two : MEASURE
+number : DRAWING
+numbers : DRAWING
+one : MEASURE
+layer : DRAWING
+scrollwheel : DRAWING
+two : MEASURE
+Slide : DRAWING
+ nineteen eighty eight : DATE
+one : MEASURE
+two : MEASURE
+map : MEANS_OF_WORKING
+map : MEANS_OF_WORKING
+ Smart board : MEANS_OF_WORKING
+two : MEASURE
+one : MEASURE
+two : MEASURE
+forty : MEASURE
+eleven : MEASURE
+ one point eight three : MEASURE
+ twelve point three Euros : MONEY
+curved : SHAPE
+curved : SHAPE
+Paul : INTERFACE_SPECIALIST
+ smart board : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+ remote control : DRAWING
+ remote control : DRAWING
+report : MEANS_OF_WORKING
+ four minutes : DURATION

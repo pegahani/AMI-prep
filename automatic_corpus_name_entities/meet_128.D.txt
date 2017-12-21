@@ -1,0 +1,24 @@
+ Big Brother : OTHER
+Tim : MARKETING
+ Marketing Expert : MARKETING
+pork : DRAWING
+pen : MEANS_OF_WORKING
+ Smart board : MEANS_OF_WORKING
+apple : DRAWING
+nine : MEASURE
+animal : DRAWING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+paper : MEANS_OF_WORKING
+rabbit : DRAWING
+legs : DRAWING
+ Project Manager : PROJECT_MANAGER
+screen : MEANS_OF_WORKING
+Screen : MEANS_OF_WORKING
+ twenty five Euros : MONEY
+ Five minutes : DURATION
+one : CARDINAL
+dozen : CARDINAL
+ Project Manager : PROJECT_MANAGER

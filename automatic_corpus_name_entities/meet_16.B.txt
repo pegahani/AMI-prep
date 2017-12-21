@@ -1,0 +1,85 @@
+one : CARDINAL
+slide : MEANS_OF_WORKING
+ lemon shape : SHAPE
+yellow : COLOUR
+base : CONSTRUCTED
+ four point : CARDINAL
+ three point five : CARDINAL
+ bowl shape : SHAPE
+red : COLOUR
+two : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+Two : CARDINAL
+two : CARDINAL
+fifty : CARDINAL
+fifty : CARDINAL
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+Four : CARDINAL
+three : CARDINAL
+four : CARDINAL
+Five : CARDINAL
+two : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+Four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+nine : CARDINAL
+nine : CARDINAL
+three : CARDINAL
+ball : CONSTRUCTED
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+three : CARDINAL
+One : CARDINAL
+wood : MATERIALS
+plastic : MATERIALS
+curve : SHAPE
+curve : SHAPE
+One : CARDINAL
+rubber : MATERIALS
+Five : CARDINAL
+one : CARDINAL
+wood : MATERIALS
+plastic : MATERIALS
+wood : MATERIALS
+plastic : MATERIALS
+red : COLOUR
+yellow : COLOUR
+One : CARDINAL
+five : CARDINAL
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+Two : CARDINAL
+One : CARDINAL
+One : CARDINAL
+one : CARDINAL
+ twelve fifty : MONEY
+Yellow : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+autumn : DATE
+winter : DATE
+yellow : COLOUR
+yellow : COLOUR
+ball : CONSTRUCTED
+ remote controls : CONSTRUCTED
+ remote control : CONSTRUCTED
+ remote control : CONSTRUCTED
+ remote control : CONSTRUCTED
+prototype : CONSTRUCTED
+ remote control : CONSTRUCTED

@@ -1,0 +1,21 @@
+ Abdul al-Hasred : INTERFACE_SPECIALIST
+folder : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+two : CARDINAL
+buttons : DRAWING
+ten : CARDINAL
+control : DRAWING
+control : DRAWING
+two : CARDINAL
+buttons : DRAWING
+plastic : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+ market researcher : MARKETING
+metal : MATERIALS
+Plastic : MATERIALS
+Two : CARDINAL
+curve : SHAPE
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL

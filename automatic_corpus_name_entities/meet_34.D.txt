@@ -1,0 +1,17 @@
+Titanium : MATERIALS
+ twenty-five Euro : MONEY
+ twelve and a half Euro : MONEY
+fifteen : MEASURE
+thirty-five : MEASURE
+ eighty percent : PERCENT
+ Twenty-five Euros : MONEY
+fifteen : MEASURE
+ thirty-five year-old : MEASURE
+seventy-five : PERCENT
+ ninety percent : PERCENT
+ Thirty-five percent : PERCENT
+ fifty percent : PERCENT
+ ten tons : MEASURE
+ half a day : DURATION
+States : LOCATION
+ United States : LOCATION

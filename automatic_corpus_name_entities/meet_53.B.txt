@@ -1,0 +1,30 @@
+ F_ eight : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+Rajan : MARKETING
+ Marketing Expert : MARKETING
+ Seventy five percent : PERCENT
+ eighty percent : PERCENT
+ twenty five Euros : MONEY
+ fifty percent : PERCENT
+ ten percent : PERCENT
+ ninety percent : PERCENT
+slide : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+ thirty five years : MEASURE
+fifteen : MEASURE
+ thirty five : MEASURE
+ thirty five percent : PERCENT
+ thirty four percent : PERCENT
+Brian : PROJECT_MANAGER
+Brian : PROJECT_MANAGER
+ F_ eight : MEANS_OF_WORKING
+ Function F_ eight : MEANS_OF_WORKING
+ Function F_ eight : MEANS_OF_WORKING
+Computer : MEANS_OF_WORKING
+Computer : MEANS_OF_WORKING
+ Fifty million : MONEY
+ fifty percent : PERCENT
+documents : MEANS_OF_WORKING
+documents : MEANS_OF_WORKING
+yellow : COLOUR
+yellow : COLOUR

@@ -1,0 +1,36 @@
+few : CARDINAL
+ few minutes : DURATION
+three : MEANS_OF_WORKING
+ forty minutes : DURATION
+sixty : MEASURE
+ eighty year : MEASURE
+wood : MATERIALS
+black : COLOUR
+grey : COLOUR
+wood : MATERIALS
+Black : COLOUR
+grey : COLOUR
+two : CARDINAL
+screen : DRAWING
+normal : SHAPE
+curved : SHAPE
+curve : SHAPE
+angle : SHAPE
+mouse : MEANS_OF_WORKING
+screen : DRAWING
+ hundred and eighty degrees : MEASURE
+display : DRAWING
+curve : DRAWING
+display : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+mouse : MEANS_OF_WORKING
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interface Designer : INTERFACE_SPECIALIST
+coach : OTHER
+minutes : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+folders : MEANS_OF_WORKING
+SMARTboard : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+ thirty minutes : DURATION

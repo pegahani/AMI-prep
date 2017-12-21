@@ -1,0 +1,55 @@
+twelve : CARDINAL
+keys : CONSTRUCTED
+ten : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ eight Euros : MONEY
+one : CARDINAL
+model : CONSTRUCTED
+model : CONSTRUCTED
+six : CARDINAL
+keys : CONSTRUCTED
+twelve : CARDINAL
+ infrared eye : CONSTRUCTED
+button : CONSTRUCTED
+display : CONSTRUCTED
+switch : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+microphone : RECORDING_DEVICES
+button : CONSTRUCTED
+display : CONSTRUCTED
+L_E_D_ : CONSTRUCTED
+cover : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+ Sixteen Euros : MONEY
+ Three Euros : MONEY
+L_E_D_ : CONSTRUCTED
+four : CARDINAL
+Four : CARDINAL
+batteries : INCIDENTAL
+battery : INCIDENTAL
+battery : INCIDENTAL
+battery : INCIDENTAL
+led : CONSTRUCTED
+ eight Euros : MONEY
+ Sixteen Euros : MONEY
+two : CARDINAL
+two : CARDINAL
+Three : CARDINAL
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+ One point six : CARDINAL
+ one point : CARDINAL
+ One point eight : CARDINAL
+ Four point : CARDINAL
+ four point two : CARDINAL
+Mael : INDUSTRIAL_DESIGNER
+Curved : SHAPE
+curved : SHAPE
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+two : MONEY
+ two Euros : MONEY
+two : CARDINAL

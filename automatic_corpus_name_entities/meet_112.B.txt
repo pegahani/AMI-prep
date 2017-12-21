@@ -1,0 +1,3 @@
+sheep : DRAWING
+head : DRAWING
+ Five minutes : DURATION

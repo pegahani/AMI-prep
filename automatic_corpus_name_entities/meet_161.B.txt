@@ -1,0 +1,113 @@
+Mirek : MARKETING
+Denis : INDUSTRIAL_DESIGNER
+two : CARDINAL
+presentations : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+image : DRAWING
+poster : DRAWING
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+nineties : DATE
+ four thousand : CARDINAL
+ten : CARDINAL
+one : CARDINAL
+Denis : INDUSTRIAL_DESIGNER
+slide : MEANS_OF_WORKING
+ sixty years : DURATION
+ forty five : DATE
+ seventeen eighties : DATE
+eighties : DATE
+slides : MEANS_OF_WORKING
+ eight point seven : MEASURE
+ eight point seven : MEASURE
+Denis's : INDUSTRIAL_DESIGNER
+ eight point six : MEASURE
+ one hundred and thousand : CARDINAL
+ten : CARDINAL
+fifty : CARDINAL
+images : DRAWING
+ Jodie Foster : OTHER
+ Anthony Hopkins : OTHER
+Denis's : INDUSTRIAL_DESIGNER
+ sixty thousand : CARDINAL
+ ten thousand : CARDINAL
+ twenty thousand : CARDINAL
+ twenty thousand : CARDINAL
+ eleven thousand : CARDINAL
+Kieslowski : OTHER
+photocopies : MEANS_OF_WORKING
+Denis : INDUSTRIAL_DESIGNER
+one : CARDINAL
+Europe : LOCATION
+States : LOCATION
+Vietnam : LOCATION
+nineties : DATE
+one : CARDINAL
+four : CARDINAL
+three : CARDINAL
+forty : DATE
+ summer forty four : DATE
+one : CARDINAL
+Ryan : OTHER
+one : CARDINAL
+nineties : DATE
+ three hours : DURATION
+five : CARDINAL
+ Steven Spielberg : OTHER
+page : MEANS_OF_WORKING
+four : CARDINAL
+five : DURATION
+ ten minutes : DURATION
+ Tom Hanks : OTHER
+Ryan : OTHER
+Tom : OTHER
+Tom : OTHER
+ John Miller : OTHER
+Ryan : OTHER
+Tom : OTHER
+Ryan : OTHER
+Denis : INDUSTRIAL_DESIGNER
+Coen : OTHER
+ Catherine Zeta-Jones : OTHER
+ Raymond Chandler : OTHER
+page : MEANS_OF_WORKING
+poster : DRAWING
+Lebowskis : OTHER
+two : CARDINAL
+poster : DRAWING
+dark : COLOUR
+dark : COLOUR
+brighter : COLOUR
+brighter : COLOUR
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Mirek : MARKETING
+Agnes : PROJECT_MANAGER
+one : CARDINAL
+two : CARDINAL
+Denis : INDUSTRIAL_DESIGNER
+seven : CARDINAL
+one : CARDINAL
+paper : MEANS_OF_WORKING
+one : CARDINAL
+Denis : INDUSTRIAL_DESIGNER
+one : CARDINAL
+Agnes : PROJECT_MANAGER
+Denis : INDUSTRIAL_DESIGNER
+Mirek : MARKETING
+Mirek : MARKETING
+May : DATE
+May : DATE
+Ascension : DATE
+fifth : DATE
+Tuesday : DATE
+Ascensions : DATE
+ May third : DATE
+Denis : INDUSTRIAL_DESIGNER
+ April twenty sixth : DATE
+ twenty ninth : DATE

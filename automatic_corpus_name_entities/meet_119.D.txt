@@ -1,0 +1,88 @@
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+eight : CARDINAL
+nine : CARDINAL
+zero : CARDINAL
+two : CARDINAL
+one : CARDINAL
+level : DRAWING
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+button : DRAWING
+LEDs : DRAWING
+buttons : DRAWING
+green : COLOUR
+blue : COLOUR
+red : COLOUR
+buttons : DRAWING
+one : CARDINAL
+one : CARDINAL
+button : DRAWING
+one : CARDINAL
+ one hundred : CARDINAL
+ two hundred : CARDINAL
+one : CARDINAL
+ couple of years : DURATION
+buttons : DRAWING
+rubber : MATERIALS
+model : DRAWING
+presentation : MEANS_OF_WORKING
+two : CARDINAL
+one : MEASURE
+zero : MEASURE
+model : DRAWING
+one : MEASURE
+seven : MEASURE
+lights : DRAWING
+LEDs : DRAWING
+black : COLOUR
+green : COLOUR
+yellow : COLOUR
+Black : COLOUR
+yellow : COLOUR
+Black : COLOUR
+white : COLOUR
+two : MEASURE
+lights : DRAWING
+lights : DRAWING
+buttons : DRAWING
+panel : DRAWING
+one : MEASURE
+ scroll wheel : DRAWING
+ scroll wheel : DRAWING
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+three : CARDINAL
+ scroll wheel : DRAWING
+slide : DRAWING
+three : MEASURE
+scrollwheel : DRAWING
+slide : DRAWING
+Scrollwheel : DRAWING
+ remote control : DRAWING
+forty : MEASURE
+three : MEASURE
+ twelve point three : MONEY
+ point three : MONEY
+Four : MONEY
+ four Euros : MONEY
+ twenty Euros : MONEY
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+prototype : DRAWING
+Paul : INTERFACE_SPECIALIST
+one : CARDINAL
+bomb : DRAWING
+bomb : DRAWING
+Pen : MEANS_OF_WORKING
+smiley : DRAWING

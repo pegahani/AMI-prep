@@ -1,0 +1,22 @@
+whiteboard : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ears : DRAWING
+dog : DRAWING
+tail : DRAWING
+horse : DRAWING
+designer : INDUSTRIAL_DESIGNER
+marketing : MARKETING
+blue : COLOUR
+black : COLOUR
+zebra : DRAWING
+blue : COLOUR
+zebras : DRAWING
+dog : DRAWING
+rat : DRAWING
+cat : DRAWING
+shark : DRAWING
+swordfish : DRAWING
+marketing : MARKETING
+Anna : MARKETING
+ Ninety percent : PERCENT
+ ninety nine percent : PERCENT

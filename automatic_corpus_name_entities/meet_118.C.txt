@@ -1,0 +1,79 @@
+rubber : MATERIALS
+display : DRAWING
+Scroll : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+buttons : DRAWING
+two : CARDINAL
+green : COLOUR
+blue : COLOUR
+red : COLOUR
+flashy : COLOUR
+curved : SHAPE
+round : SHAPE
+square-like : SHAPE
+round : SHAPE
+square : SHAPE
+flashy : COLOUR
+red : COLOUR
+yellow : COLOUR
+blue : COLOUR
+ remote control : DRAWING
+components : DRAWING
+case : DRAWING
+black : COLOUR
+transparent : COLOUR
+blue : COLOUR
+transparent : COLOUR
+rubber : MATERIALS
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+plastic : MATERIALS
+buttons : DRAWING
+case : DRAWING
+transparent : COLOUR
+transparent : COLOUR
+green : COLOUR
+board : DRAWING
+board : DRAWING
+transistors : DRAWING
+resonators : DRAWING
+contacts : DRAWING
+chip : DRAWING
+flat : SHAPE
+uncurved : SHAPE
+ two D_ : MEASURE
+curved : SHAPE
+ three D_ : MEASURE
+curved : SHAPE
+ three D_ : MEASURE
+curved : SHAPE
+rubber : MATERIALS
+flat : SHAPE
+rubber : MATERIALS
+plastic : MATERIALS
+Titanium : MATERIALS
+curved : SHAPE
+round : SHAPE
+ two D_ : MEASURE
+scroll-wheel : DRAWING
+plastic : MATERIALS
+numbers : DRAWING
+switch : DRAWING
+button : DRAWING
+numbers : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+round : SHAPE
+ remote control : DRAWING
+ remote control : DRAWING
+ two D_ : MEASURE
+round : SHAPE
+square : SHAPE

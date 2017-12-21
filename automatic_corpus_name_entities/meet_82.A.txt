@@ -1,0 +1,56 @@
+ Real Reaction : ORGANIZATION
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+one : CARDINAL
+Kate's : INDUSTRIAL_DESIGNER
+Kendra's : INTERFACE_SPECIALIST
+Kate : INDUSTRIAL_DESIGNER
+Kendra : INTERFACE_SPECIALIST
+Andrew : MARKETING
+Kate : INDUSTRIAL_DESIGNER
+Kendra : INTERFACE_SPECIALIST
+three : CARDINAL
+Kate : INDUSTRIAL_DESIGNER
+five : CARDINAL
+Kendra : INTERFACE_SPECIALIST
+cable : MEANS_OF_WORKING
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL
+buttons : DRAWING
+slider : DRAWING
+Three : CARDINAL
+buttons : DRAWING
+one : CARDINAL
+two : CARDINAL
+two : CARDINAL
+three : CARDINAL
+year : DURATION
+year : DURATION
+one : CARDINAL
+Euros : MONEY
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+one : CARDINAL
+square : SHAPE
+yellow : COLOUR
+ Real Reaction : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ Real Reaction : ORGANIZATION
+ five minutes : DURATION
+Kate : INDUSTRIAL_DESIGNER
+Kendra : INTERFACE_SPECIALIST
+Plasticine : MODELLING_STUFF
+play-dough : MODELLING_STUFF
+Atlantic : LOCATION
+Andrew : MARKETING
+five : DURATION
+five : DURATION
+ ten years : DURATION
+ five years : DURATION
+one : CARDINAL
+mum : OTHER
+ thirty minutes : DURATION

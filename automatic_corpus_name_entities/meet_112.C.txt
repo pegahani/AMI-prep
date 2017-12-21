@@ -1,0 +1,6 @@
+Garfield : OTHER
+Garfield : OTHER
+cat : DRAWING
+cats : DRAWING
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING

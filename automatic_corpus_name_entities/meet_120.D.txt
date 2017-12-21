@@ -1,0 +1,19 @@
+ Marketing Expert : MARKETING
+Dinosaur : DRAWING
+Beaver : DRAWING
+Turtle : DRAWING
+ four months : DURATION
+giraffe : DRAWING
+giraffe : DRAWING
+mouse : DRAWING
+rabbit : DRAWING
+ Bob Ross : OTHER
+Dolphin : DRAWING
+Black : COLOUR
+black : COLOUR
+Britain : LOCATION
+ twelve fifty : MONEY
+Britain : LOCATION
+two : CARDINAL
+Interface : INTERFACE_SPECIALIST
+one : CARDINAL

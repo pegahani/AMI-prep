@@ -1,0 +1,29 @@
+Nathan's : INDUSTRIAL_DESIGNER
+Nathan : INDUSTRIAL_DESIGNER
+two : CARDINAL
+lithium : MATERIALS
+one : CARDINAL
+plastic : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+curved : SHAPE
+curved : SHAPE
+three : MEASURE
+ four millimetres : MEASURE
+rubber : MATERIALS
+curved : SHAPE
+rubber : MATERIALS
+Euro : MONEY
+one : CARDINAL
+one : CARDINAL
+lithium : MATERIALS
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+balls : SHAPE
+rubber : MATERIALS
+rubber : MATERIALS
+ seventeen fifty Euro : MONEY
+ few hours : DURATION
+Rubber : MATERIALS
+one : CARDINAL

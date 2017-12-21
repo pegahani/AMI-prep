@@ -1,0 +1,81 @@
+L_E_D_ : CONSTRUCTED
+ five second : DURATION
+two : CARDINAL
+buttons : CONSTRUCTED
+volume : CONSTRUCTED
+R_ : CONSTRUCTED
+five : CONSTRUCTED
+four : CONSTRUCTED
+computer : MEANS_OF_WORKING
+computer's : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+protoptype : CONSTRUCTED
+notes : MEANS_OF_WORKING
+one : MEASURE
+seven : MEASURE
+one : MEASURE
+seven : MEASURE
+whiteboard : MEANS_OF_WORKING
+one : MEASURE
+two : MEASURE
+two : MEASURE
+One : MEASURE
+Two : MEASURE
+rubber : MATERIALS
+L_E_D_ : CONSTRUCTED
+remote : CONSTRUCTED
+ seventy five percent : PERCENT
+three : CONSTRUCTED
+flat : SHAPE
+remote : CONSTRUCTED
+two : MEASURE
+ twenty five Euros : MONEY
+ eighty percent : PERCENT
+ remote control : CONSTRUCTED
+buttons : CONSTRUCTED
+one : MEASURE
+Heather : PROJECT_MANAGER
+ remote control : CONSTRUCTED
+ fifty percent : PERCENT
+prototype : CONSTRUCTED
+remote : CONSTRUCTED
+ thirty four percent : PERCENT
+button : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+six : CONSTRUCTED
+enter : CONSTRUCTED
+one : CONSTRUCTED
+two : CONSTRUCTED
+enter : CONSTRUCTED
+one : MEASURE
+quarter : CARDINAL
+keyboard : MEANS_OF_WORKING
+ remote control : CONSTRUCTED
+one : MEASURE
+two : MEASURE
+Two : MEASURE
+logo : CONSTRUCTED
+yellow : COLOUR
+yellow's : COLOUR
+R_R_ : CONSTRUCTED
+buttons : CONSTRUCTED
+three : MEASURE
+Three : MEASURE
+four : MEASURE
+four : MEASURE
+two : MEASURE
+five : MEASURE
+six : MEASURE
+eight : MEASURE
+ten : MEASURE
+eleven : MEASURE
+twelve : MEASURE
+thirteen : MEASURE
+fifteen : MEASURE
+nineteen : MEASURE
+ twenty one : MEASURE
+eleven : CARDINAL
+one : MEASURE
+computer : MEANS_OF_WORKING

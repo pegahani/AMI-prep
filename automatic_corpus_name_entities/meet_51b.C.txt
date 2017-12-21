@@ -1,0 +1,50 @@
+plastic : MATERIALS
+white : COLOUR
+blue : COLOUR
+screen : CONSTRUCTED
+buttons : CONSTRUCTED
+two : CARDINAL
+two : CARDINAL
+two : CARDINAL
+black : COLOUR
+white : COLOUR
+two : CARDINAL
+two : CARDINAL
+three : CARDINAL
+three : CARDINAL
+Three : CARDINAL
+one : CARDINAL
+Two : CARDINAL
+Two : CARDINAL
+One : CARDINAL
+white : COLOUR
+blue : COLOUR
+rubber : MATERIALS
+plastic : MATERIALS
+one : CARDINAL
+five : CARDINAL
+one : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+curved : SHAPE
+Two : CARDINAL
+One : CARDINAL
+double-curved : SHAPE
+one : CARDINAL
+double-curved : SHAPE
+plastic : MATERIALS
+one : CARDINAL
+one : CARDINAL
+twelve : MONEY
+one : MONEY
+ twelve point three five : MONEY
+three : MONEY
+two : MONEY
+ twenty five Euros : MONEY
+ Twelve point three five : MONEY
+ twelve point : MONEY
+ twelve point fifty : MONEY
+seven : CARDINAL

@@ -1,0 +1,24 @@
+ project manager : PROJECT_MANAGER
+folder : MEANS_OF_WORKING
+three : CARDINAL
+ forty minutes : DURATION
+one : CARDINAL
+Denni : MARKETING
+ smart board : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+laptop : MEANS_OF_WORKING
+forty : MEASURE
+forty : MEASURE
+forty : MEASURE
+forty : MEASURE
+one : CARDINAL
+one : CARDINAL
+zero : CARDINAL
+zero : CARDINAL
+nine : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ five minutes : DURATION
+ half an hour : DURATION
+folder : MEANS_OF_WORKING

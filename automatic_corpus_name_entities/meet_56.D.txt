@@ -1,0 +1,5 @@
+Maarika : INTERFACE_SPECIALIST
+pen : MEANS_OF_WORKING
+ Interface Designer : INTERFACE_SPECIALIST
+Estonia : LOCATION
+gecko : DRAWING

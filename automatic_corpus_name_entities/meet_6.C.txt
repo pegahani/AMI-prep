@@ -1,0 +1,19 @@
+two : CARDINAL
+whiteboard : MEANS_OF_WORKING
+cables : RECORDING_DEVICES
+battery : DRAWING
+interface : DRAWING
+chip : DRAWING
+L_E_D_ : DRAWING
+chip : DRAWING
+ one month : DURATION
+ one month : DURATION
+ eight months : DURATION
+eight : DURATION
+ twelve point five Euro : MONEY
+ two dollars per chip : MEASURE
+ thirty per cent : PERCENT
+six : CARDINAL
+five : CARDINAL
+five : CARDINAL
+ Ten years : DURATION

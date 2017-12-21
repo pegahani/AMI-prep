@@ -1,0 +1,23 @@
+Betty : PROJECT_MANAGER
+ project manager : PROJECT_MANAGER
+presentation : MEANS_OF_WORKING
+tools : MEANS_OF_WORKING
+tool : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+thing : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+Eileen : MARKETING
+cat : DRAWING
+Francine : INTERFACE_SPECIALIST
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+ twelve fifty Euro : MONEY
+kidney : SHAPE
+ thirty minutes : DURATION
+computer : MEANS_OF_WORKING
+ industrial designer : INDUSTRIAL_DESIGNER
+ marketing manager : MARKETING
+ twen two two two three minutes : DURATION
+ thirty minutes : DURATION

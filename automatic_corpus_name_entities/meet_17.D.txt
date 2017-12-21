@@ -1,0 +1,6 @@
+Guillermo : MARKETING
+ Marketing Expert : MARKETING
+pink : COLOUR
+panther : DRAWING
+black : COLOUR
+black : COLOUR

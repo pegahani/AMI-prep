@@ -1,0 +1,50 @@
+ Marketing Expert : MARKETING
+ one hundred : CARDINAL
+couple : CARDINAL
+three : CARDINAL
+three : CARDINAL
+two : CARDINAL
+sixteen : MONEY
+ forty five : MEASURE
+ sixty four : MEASURE
+ forty six : MEASURE
+ sixty five : MEASURE
+ sixty percent : PERCENT
+ sixty five : PERCENT
+ thirty five percent : PERCENT
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+ User Interface uh Designer : INTERFACE_SPECIALIST
+hour : DURATION
+three : CARDINAL
+three : CARDINAL
+sixteen : MEASURE
+ forty five : MEASURE
+ sixty five percent : PERCENT
+sixteen : MEASURE
+ forty five : MEASURE
+hundreds : CARDINAL
+hundreds : CARDINAL
+keys : DRAWING
+functions : DRAWING
+play : DRAWING
+switching : DRAWING
+menus : DRAWING
+device : DRAWING
+screen : DRAWING
+pictures : DRAWING
+pictures : DRAWING
+screen : DRAWING
+screen : DRAWING
+forty : MEASURE
+screen : DRAWING
+Microsoft : ORGANIZATION
+one : CARDINAL
+ one four one zero : CARDINAL
+one : CARDINAL
+ Thirty minutes : DURATION
+ Thirty minutes : DURATION
+ forty five : DURATION
+laptop : MEANS_OF_WORKING
+ A_ four : MEASURE
+directory : MEANS_OF_WORKING

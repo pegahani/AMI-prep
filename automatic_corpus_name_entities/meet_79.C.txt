@@ -1,0 +1,21 @@
+three : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+three : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+One : CARDINAL
+three : CARDINAL
+One : CARDINAL
+two : CARDINAL
+one : CARDINAL
+one : CARDINAL
+One : CARDINAL
+One : CARDINAL
+One : CARDINAL
+Two : CARDINAL
+One : CARDINAL
+ Three point one : CARDINAL
+broccoli : CONSTRUCTED
+microphones : RECORDING_DEVICES
+whiteboard : MEANS_OF_WORKING

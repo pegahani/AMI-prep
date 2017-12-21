@@ -1,0 +1,34 @@
+Reissa : MARKETING
+blue : COLOUR
+thing : MEANS_OF_WORKING
+ function F_ eight : MEANS_OF_WORKING
+hundred : CARDINAL
+ seventy five per cent : PERCENT
+eighty : PERCENT
+ eighty per cent : PERCENT
+ per cent : PERCENT
+ ten per cent : PERCENT
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+ten : CARDINAL
+ seventy five per cent : PERCENT
+fifteen : MEASURE
+ twenty five : MEASURE
+fifteen : MEASURE
+ twenty five : MEASURE
+ ninety two : PERCENT
+ ninety one per cent : PERCENT
+ forty five : MEASURE
+ fifty five year : MEASURE
+ twenty five : MEASURE
+ thirty five year : MEASURE
+ thirty five : MEASURE
+ thirty five : MEASURE
+ forty five : MEASURE
+ forty five point seven per cent : PERCENT
+one : CARDINAL
+ Real Reaction : ORGANIZATION
+one : CARDINAL

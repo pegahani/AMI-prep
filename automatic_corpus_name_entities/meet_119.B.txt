@@ -1,0 +1,90 @@
+four : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+buttons : DRAWING
+button : DRAWING
+red : COLOUR
+scrollwheel : DRAWING
+scrollwheel : DRAWING
+twelve : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+round : SHAPE
+rounded : SHAPE
+round : SHAPE
+plastic : MATERIALS
+ two D_ : MEASURE
+buttons : DRAWING
+non-rubber : MATERIALS
+buttons : DRAWING
+changeable : COLOUR
+backlight : DRAWING
+thing : DRAWING
+buttons : DRAWING
+num-pads : DRAWING
+light : DRAWING
+buttons : DRAWING
+button : DRAWING
+arrows : DRAWING
+one : CARDINAL
+zero : CARDINAL
+one : CARDINAL
+one : CARDINAL
+buttons : DRAWING
+arrows : DRAWING
+button : DRAWING
+buttons : DRAWING
+ scroll wheel : DRAWING
+logo : DRAWING
+button : DRAWING
+three : CARDINAL
+ remote control : DRAWING
+plastic : MATERIALS
+buttons : DRAWING
+Black : COLOUR
+yellow : COLOUR
+yellow : COLOUR
+ light yellow : COLOUR
+white : COLOUR
+ dark grey : COLOUR
+item : DRAWING
+buttons : DRAWING
+green : COLOUR
+blue : COLOUR
+semi-transparent : COLOUR
+three : MEASURE
+two : MEASURE
+scrollwheel : DRAWING
+backlights : DRAWING
+slide : DRAWING
+slide : DRAWING
+buttons : DRAWING
+ twelve Euro : MONEY
+One : CARDINAL
+ fifteen Euros : MONEY
+ smart board : MEANS_OF_WORKING
+mouse : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+ remote control : DRAWING
+ four o'clock : TIME
+One : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+five : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+cameras : RECORDING_DEVICES
+ Project Manager : PROJECT_MANAGER
+bomb : DRAWING
+pen : MEANS_OF_WORKING
+two : CARDINAL
+pen : MEANS_OF_WORKING
+screen : DRAWING
+house : DRAWING
+pen : MEANS_OF_WORKING
+Pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+house : DRAWING
+plant : DRAWING

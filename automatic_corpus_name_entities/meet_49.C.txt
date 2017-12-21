@@ -1,0 +1,16 @@
+beak : DRAWING
+crocodile : DRAWING
+crocodile : DRAWING
+ T_ Rex : DRAWING
+pelican : DRAWING
+crocodile : DRAWING
+bird : DRAWING
+eagle : DRAWING
+seventeen : MONEY
+ seventeen Pounds : MONEY
+ twenty pounds : MONEY
+ twenty fi : MONEY
+ twelve Euros fifty : MONEY
+black : COLOUR
+white : COLOUR
+plastic : MATERIALS

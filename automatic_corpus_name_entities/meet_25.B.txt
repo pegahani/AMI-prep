@@ -1,0 +1,9 @@
+rabbit : DRAWING
+cobra : DRAWING
+cobra : DRAWING
+Christa : PROJECT_MANAGER
+Christa : PROJECT_MANAGER
+ User Interface Designer : INTERFACE_SPECIALIST
+three : CARDINAL
+three : CARDINAL
+ Market Expert : MARKETING

@@ -1,0 +1,10 @@
+control : DRAWING
+red : COLOUR
+control : DRAWING
+control : DRAWING
+buttons : DRAWING
+slide : MEANS_OF_WORKING
+lithium : MATERIALS
+ twenty years : DURATION
+ half a millisecond : DURATION
+folder : MEANS_OF_WORKING

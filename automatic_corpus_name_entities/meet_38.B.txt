@@ -1,0 +1,21 @@
+two : CARDINAL
+three : CARDINAL
+ User Interface Designer : INTERFACE_SPECIALIST
+slide : MEANS_OF_WORKING
+ nine o'clock : TIME
+one : CARDINAL
+one : CARDINAL
+eight : TIME
+ eight P_M_ : TIME
+ John Reece : OTHER
+slide : MEANS_OF_WORKING
+ ten o'clock : TIME
+ ten o'clock : TIME
+ten : MEASURE
+forty : MEASURE
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+three : CARDINAL
+three : CARDINAL

@@ -1,0 +1,18 @@
+table : FURNITURE
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ twelve Euros fifty : MONEY
+ twelve Euros fifty : MONEY
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+source : DRAWING
+battery : DRAWING
+interface : DRAWING
+chip : DRAWING
+mechanism : DRAWING
+receiver : DRAWING
+ twelve Euros fifty : MONEY
+ four million : CARDINAL
+ one in every tenth household : MEASURE
+coach : EXPERIMENTER
+gizmo : MEANS_OF_WORKING

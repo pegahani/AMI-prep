@@ -1,0 +1,19 @@
+keys : MEANS_OF_WORKING
+Corinne : MARKETING
+two : CARDINAL
+ remote controls : DRAWING
+ remote controls : DRAWING
+one : CARDINAL
+buttons : DRAWING
+buttons : DRAWING
+ ten percent : PERCENT
+ ten percent : PERCENT
+ fifty percent : PERCENT
+buttons : DRAWING
+buttons : DRAWING
+cord : MEANS_OF_WORKING
+ball : SHAPE
+rectangle : SHAPE
+rectangle : SHAPE
+buttons : DRAWING
+buttons : DRAWING

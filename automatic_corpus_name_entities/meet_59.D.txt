@@ -1,0 +1,67 @@
+ four fifteen : TIME
+buttons : CONSTRUCTED
+things : DRAWING
+Rubber : MATERIALS
+one : CARDINAL
+rounder : SHAPE
+round : SHAPE
+cover : CONSTRUCTED
+things : CONSTRUCTED
+channels : CONSTRUCTED
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
+four : CARDINAL
+seven : CARDINAL
+nine : CARDINAL
+zero : CARDINAL
+zero : CARDINAL
+button : CONSTRUCTED
+red : COLOUR
+cover : CONSTRUCTED
+lid : CONSTRUCTED
+screen : CONSTRUCTED
+wheel : CONSTRUCTED
+screen : CONSTRUCTED
+button : CONSTRUCTED
+button : CONSTRUCTED
+screen : CONSTRUCTED
+display : CONSTRUCTED
+logo : CONSTRUCTED
+logo : CONSTRUCTED
+grey : COLOUR
+seven : MEASURE
+seven : MEASURE
+six : MEASURE
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+hinges : CONSTRUCTED
+buttons : CONSTRUCTED
+Six : MEASURE
+ remote control : CONSTRUCTED
+six : MEASURE
+six : MEASURE
+six : MEASURE
+three : CARDINAL
+sixes : MEASURE
+Four : CARDINAL
+sevens : MEASURE
+ Six point something : MEASURE
+ Six point five : MEASURE
+Rubber : MATERIALS
+pushbuttons : CONSTRUCTED
+ scroll wheel : CONSTRUCTED
+display : CONSTRUCTED
+display : CONSTRUCTED
+wheel : CONSTRUCTED
+pushbutton : CONSTRUCTED
+thing : CONSTRUCTED
+phone : CONSTRUCTED
+yellow : COLOUR
+case : CONSTRUCTED
+pens : MEANS_OF_WORKING
+ remote control : CONSTRUCTED
+thing : CONSTRUCTED
+animal : CONSTRUCTED

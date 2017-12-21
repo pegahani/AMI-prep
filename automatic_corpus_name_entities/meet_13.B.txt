@@ -1,0 +1,9 @@
+ Twenty five Euros : MONEY
+ user interface design : INTERFACE_SPECIALIST
+ user interface design : INTERFACE_SPECIALIST
+ industrial design : INDUSTRIAL_DESIGNER
+Kemy : OTHER
+Kemy : OTHER
+cat : DRAWING
+person : DRAWING
+Dog : DRAWING

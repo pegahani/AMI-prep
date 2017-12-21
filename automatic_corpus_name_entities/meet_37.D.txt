@@ -1,0 +1,10 @@
+ marketing person : MARKETING
+Eileen : MARKETING
+Three : CARDINAL
+cat : DRAWING
+cat : DRAWING
+cat : DRAWING
+fifty : MONEY
+ twelve fifty Euros : MONEY
+designer : INDUSTRIAL_DESIGNER
+friendly : SHAPE

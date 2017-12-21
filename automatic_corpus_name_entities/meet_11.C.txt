@@ -1,0 +1,11 @@
+one : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+two : CARDINAL
+slide : MEANS_OF_WORKING
+four : CARDINAL
+four : CARDINAL
+four : CARDINAL
+ thirty five : MONEY
+fifty : MONEY
+rubber : MATERIALS

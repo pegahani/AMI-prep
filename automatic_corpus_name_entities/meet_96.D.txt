@@ -1,0 +1,6 @@
+ Corinne Whiting : MARKETING
+ Marketing Expert : MARKETING
+three : CARDINAL
+ International Remote Control Association : ORGANIZATION
+one : CARDINAL
+keyboard : SHAPE

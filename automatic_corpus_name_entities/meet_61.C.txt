@@ -1,0 +1,25 @@
+ function F_ eight : MEANS_OF_WORKING
+Gabriel : INTERFACE_SPECIALIST
+One : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ five minutes : DURATION
+Reissa : MARKETING
+years : DURATION
+two : CARDINAL
+one : CARDINAL
+ function F_ eight : MEANS_OF_WORKING
+ twelve fifty : MONEY
+ project manager : PROJECT_MANAGER
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+yellow : COLOUR
+black : COLOUR
+white : COLOUR
+white : COLOUR
+blue : COLOUR
+black : COLOUR
+white : COLOUR
+yellow : COLOUR

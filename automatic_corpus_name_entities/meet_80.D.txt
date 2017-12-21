@@ -1,0 +1,12 @@
+Andrew : MARKETING
+ Market Research : MARKETING
+black : COLOUR
+white : COLOUR
+one : CARDINAL
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+plastic : MATERIALS
+rubber : MATERIALS
+ two million : CARDINAL
+ four million : CARDINAL
+two : CARDINAL

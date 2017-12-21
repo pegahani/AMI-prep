@@ -1,0 +1,111 @@
+presentations : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+fresh : COLOUR
+bright : COLOUR
+twice : CARDINAL
+twice : CARDINAL
+one : CARDINAL
+document : MEANS_OF_WORKING
+example : DRAWING
+buttons : DRAWING
+sponge : MATERIALS
+ F_ five : MEANS_OF_WORKING
+one : CARDINAL
+rubber : MATERIALS
+double : CARDINAL
+curved : SHAPE
+Rubber : MATERIALS
+Double : CARDINAL
+curved : SHAPE
+ twelve and a half : MONEY
+homepage : MEANS_OF_WORKING
+arrow : DRAWING
+menu : DRAWING
+menu : DRAWING
+rubber : MATERIALS
+curvy : SHAPE
+singly : CARDINAL
+single : CARDINAL
+curved : SHAPE
+screen : DRAWING
+screen : DRAWING
+screen : DRAWING
+screen : DRAWING
+double : CARDINAL
+double : CARDINAL
+curved : SHAPE
+screen : DRAWING
+buttons : DRAWING
+straight : SHAPE
+screen : DRAWING
+buttons : DRAWING
+button : DRAWING
+buttons : DRAWING
+rubber : MATERIALS
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+thumb : DRAWING
+button : DRAWING
+thngs : DRAWING
+arrows : DRAWING
+numbers : DRAWING
+primary : COLOUR
+ soft green : COLOUR
+ dark blue : COLOUR
+bright : COLOUR
+yellow : COLOUR
+green : COLOUR
+bright : COLOUR
+ Two hours : DURATION
+twenty : CARDINAL
+ dark blue : COLOUR
+basic : COLOUR
+ yellow banana : COLOUR
+orange : COLOUR
+purple : COLOUR
+ dark blue : COLOUR
+device : DRAWING
+display : DRAWING
+sixty : CARDINAL
+ sixty six five thousand : CARDINAL
+blue : COLOUR
+blue : COLOUR
+Green : COLOUR
+blue : COLOUR
+blue's : COLOUR
+White : COLOUR
+buttons : DRAWING
+ dark blue : COLOUR
+yellow : COLOUR
+orange : COLOUR
+red : COLOUR
+buttons : DRAWING
+buttons : DRAWING
+white : COLOUR
+black : COLOUR
+ five minutes : DURATION
+buttons : DRAWING
+buttons : DRAWING
+red : COLOUR
+green : COLOUR
+red : COLOUR
+buttons : DRAWING
+LED : DRAWING
+button : DRAWING
+board : MEANS_OF_WORKING
+plastic : MATERIALS
+plastic : MATERIALS
+buttons : DRAWING
+buttons : DRAWING
+plastic : MATERIALS
+screen : DRAWING
+screen : DRAWING
+mechanism : DRAWING
+screen : DRAWING
+screen : DRAWING
+rubber : MATERIALS
+ remote uh control : DRAWING
+two : CARDINAL
+ half an hour : DURATION

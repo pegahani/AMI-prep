@@ -1,0 +1,17 @@
+ white board : MEANS_OF_WORKING
+drawing : DRAWING
+Christine : MARKETING
+animal : DRAWING
+cat : DRAWING
+Olivier : INDUSTRIAL_DESIGNER
+cable : RECORDING_DEVICES
+cow : DRAWING
+cow : DRAWING
+donkey : DRAWING
+ twelve point five Euros : MONEY
+ fifty uh million Euros : MONEY
+ Industrial um Designer : INDUSTRIAL_DESIGNER
+ thirty minutes : DURATION
+ Industrial Designer : INDUSTRIAL_DESIGNER
+ User Interf Interface Designer : INTERFACE_SPECIALIST
+ Market Expert : MARKETING

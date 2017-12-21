@@ -1,0 +1,10 @@
+three : CARDINAL
+three : CARDINAL
+ Marketing Expert : MARKETING
+ F_ five : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+ thirty minutes : DURATION
+U_I_D_ : INTERFACE_SPECIALIST
+Mark : INTERFACE_SPECIALIST
+ Market Expert : MARKETING
+ Sammy Benjo : MARKETING

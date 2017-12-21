@@ -1,0 +1,5 @@
+ Hamed Getabdar : INTERFACE_SPECIALIST
+ Interface Designer : INTERFACE_SPECIALIST
+line : RECORDING_DEVICES
+bird : DRAWING
+Four : CARDINAL

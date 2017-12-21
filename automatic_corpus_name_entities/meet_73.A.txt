@@ -1,0 +1,32 @@
+three : CARDINAL
+one : CARDINAL
+ forty minutes : DURATION
+minute : DURATION
+notes : MEANS_OF_WORKING
+three : CARDINAL
+documents : MEANS_OF_WORKING
+Courtney : MARKETING
+slide : MEANS_OF_WORKING
+slide : MEANS_OF_WORKING
+five : CARDINAL
+five : CARDINAL
+Amber : INDUSTRIAL_DESIGNER
+red : COLOUR
+PowerPoint : MEANS_OF_WORKING
+States : LOCATION
+black : COLOUR
+ twenty four hour : DURATION
+paper : MEANS_OF_WORKING
+minutes : MEANS_OF_WORKING
+ ten percent : PERCENT
+hundred : CARDINAL
+fifty : CARDINAL
+yellow : COLOUR
+yellow : COLOUR
+examples : DRAWING
+one : CARDINAL
+ thirty minutes : DURATION
+folder : MEANS_OF_WORKING
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+coach : EXPERIMENTER

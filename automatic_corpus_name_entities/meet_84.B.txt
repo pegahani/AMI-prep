@@ -1,0 +1,12 @@
+bits : MEANS_OF_WORKING
+pieces : RECORDING_DEVICES
+cat : DRAWING
+ears : DRAWING
+mouth : DRAWING
+whiskers : DRAWING
+tail : DRAWING
+mouse : DRAWING
+wombat : DRAWING
+foot : DRAWING
+fish : DRAWING
+cat : DRAWING

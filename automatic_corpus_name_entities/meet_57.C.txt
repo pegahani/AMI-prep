@@ -1,0 +1,41 @@
+folder : MEANS_OF_WORKING
+folder : MEANS_OF_WORKING
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+ forty minutes : DURATION
+laptop : MEANS_OF_WORKING
+three : CARDINAL
+ function F_ eight : MEANS_OF_WORKING
+blue : COLOUR
+key : MEANS_OF_WORKING
+ F_ eight : MEANS_OF_WORKING
+computer : MEANS_OF_WORKING
+function : MEANS_OF_WORKING
+three : CARDINAL
+one : CARDINAL
+Maarika : INTERFACE_SPECIALIST
+key : MEANS_OF_WORKING
+ten : DURATION
+ fifteen minutes : DURATION
+fifteen : MEASURE
+ twenty five : MEASURE
+ twenty five : MEASURE
+ thirty five : MEASURE
+ twenty five Euros : MONEY
+fifteen : MEASURE
+ thirty five : MEASURE
+five : CARDINAL
+fifteen : MEASURE
+ thirty five : MEASURE
+ thirty five : MEASURE
+Sky : ORGANIZATION
+two : CARDINAL
+two : CARDINAL
+fifteen : MEASURE
+ thirty five year : MEASURE
+one : CARDINAL
+ thirty minutes : DURATION
+folder : MEANS_OF_WORKING
+desktop : MEANS_OF_WORKING
+ thirty minutes : DURATION

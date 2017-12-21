@@ -1,0 +1,34 @@
+prototype : CONSTRUCTED
+ remote control : CONSTRUCTED
+folder : MEANS_OF_WORKING
+presentation : MEANS_OF_WORKING
+one : CARDINAL
+array : CONSTRUCTED
+ Fifteen dollars : MONEY
+one : CARDINAL
+one : CARDINAL
+one : DURATION
+ two months : DURATION
+ four dollars : MONEY
+charger : CONSTRUCTED
+ remote control : CONSTRUCTED
+charger : CONSTRUCTED
+ twelve and a half Euro : MONEY
+ twenty five Euros : MONEY
+charge : CONSTRUCTED
+charger : CONSTRUCTED
+Charger : CONSTRUCTED
+charger : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+ speech recognition : CONSTRUCTED
+ speech recognition : CONSTRUCTED
+modules : CONSTRUCTED
+ remote control : CONSTRUCTED
+modules : CONSTRUCTED
+L_C_D_ : CONSTRUCTED
+ speech recognition : CONSTRUCTED

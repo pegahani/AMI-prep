@@ -1,0 +1,32 @@
+ twenty five minutes : DURATION
+Alastair : PROJECT_MANAGER
+ project leader : PROJECT_MANAGER
+whiteboard : MEANS_OF_WORKING
+ white board : MEANS_OF_WORKING
+whiteboard : MEANS_OF_WORKING
+microphone : RECORDING_DEVICES
+camera : RECORDING_DEVICES
+bits : RECORDING_DEVICES
+pieces : RECORDING_DEVICES
+three : CARDINAL
+pens : MEANS_OF_WORKING
+face : DRAWING
+ couple of weeks : DURATION
+ couple of months : DURATION
+ twenty five Euros : MONEY
+ marketing manager : MARKETING
+Europe : LOCATION
+ twelve and an half Euro : MONEY
+three : CARDINAL
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ five minutes : DURATION
+ thirty minutes : DURATION
+I_D_ : INDUSTRIAL_DESIGNER
+I_D_ : INDUSTRIAL_DESIGNER
+U_I_D_ : INTERFACE_SPECIALIST
+Marketing : MARKETING
+coach : OTHER
+ thirty minutes : DURATION
+ half and hour : DURATION

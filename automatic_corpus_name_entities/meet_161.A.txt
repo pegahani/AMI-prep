@@ -1,0 +1,73 @@
+presentation : MEANS_OF_WORKING
+nineties : DATE
+two : CARDINAL
+slide : MEANS_OF_WORKING
+ Bryan Singer : OTHER
+ Christopher McQuarrie : OTHER
+ Kevin Spacey : OTHER
+ Gabriel Byrne : OTHER
+five : CARDINAL
+one : CARDINAL
+five : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ Rolling Stone : ORGANIZATION
+ Rolling Stone : ORGANIZATION
+ M_ Night uh Shyamalan : OTHER
+ Bruce Willis : OTHER
+ Haley Joel Osment : OTHER
+ Toni Collette : OTHER
+poster : DRAWING
+slide : MEANS_OF_WORKING
+ hundred and five minutes : DURATION
+eighteen : MEASURE
+ eight point seven : MEASURE
+ten : MEASURE
+ Internet Movie Database : ORGANIZATION
+ two hundred and fifty : CARDINAL
+nineties : DATE
+ Kevin Spacey : OTHER
+nineties : DATE
+ two hundred and fifty : CARDINAL
+ British Film Association : ORGANIZATION
+ seven hundred and forty something : CARDINAL
+ eight point one : MEASURE
+ten : MEASURE
+ two hundred and fifty : CARDINAL
+ ninety six thousand : CARDINAL
+two : CARDINAL
+two : CARDINAL
+slides : MEANS_OF_WORKING
+one : CARDINAL
+eighties : DATE
+ nineteen eighty four : DATE
+Three : CARDINAL
+ Ray Liotta : OTHER
+ Joe Pesci : OTHER
+ Ray Liotta : OTHER
+ Hannibal Lecter : OTHER
+F_B_I_ : ORGANIZATION
+F_B_I_ : ORGANIZATION
+ Hannibal Lecter : OTHER
+ Anthony Hopkins : OTHER
+ ninety one : DATE
+Europe : LOCATION
+ two thirds : CARDINAL
+Ryan : OTHER
+ Matt Damon : OTHER
+ Julianne Moore : OTHER
+two : CARDINAL
+like : CARDINAL
+posters : DRAWING
+poster : DRAWING
+pictures : DRAWING
+strip : DRAWING
+two : CARDINAL
+two : CARDINAL
+one : CARDINAL
+seven : CARDINAL
+ Quentin Tarantino : OTHER
+Ascension : DATE
+Ninth : DATE
+ninth : DATE
+ twenty ninth : DATE

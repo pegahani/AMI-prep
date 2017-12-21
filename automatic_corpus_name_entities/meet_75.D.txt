@@ -1,0 +1,27 @@
+seven : CARDINAL
+Two : CARDINAL
+one : CARDINAL
+clay : MODELLING_STUFF
+two : CARDINAL
+two : CARDINAL
+ Project Manager : PROJECT_MANAGER
+three : CARDINAL
+two : CARDINAL
+millions : CARDINAL
+Two : CARDINAL
+lithium : MATERIALS
+plastic : MATERIALS
+two : CARDINAL
+One : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+three : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ twenty nine : CARDINAL
+ twenty nine : CARDINAL
+one : CARDINAL
+pens : MEANS_OF_WORKING
+amber : COLOUR

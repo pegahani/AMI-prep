@@ -1,0 +1,48 @@
+Jens : MARKETING
+Damman : MARKETING
+ Jens Damman : MARKETING
+three : CARDINAL
+ seventy five percent : PERCENT
+ eighty percent : PERCENT
+Michael : PROJECT_MANAGER
+ seventy five percent : PERCENT
+ seventy five percent : PERCENT
+ fifty percent : PERCENT
+ ten percent : PERCENT
+Martijn : INDUSTRIAL_DESIGNER
+ ten percent : PERCENT
+ thirty four : PERCENT
+ thirty four percent : PERCENT
+ five hours : DURATION
+ forty five : MEASURE
+forty : MEASURE
+ twenty five Euros : MONEY
+ twenty five Euros : MONEY
+ twenty Euros : MONEY
+presentation : MEANS_OF_WORKING
+seconds : DURATION
+Paul : INTERFACE_SPECIALIST
+one : CARDINAL
+two : CARDINAL
+ two seconds : DURATION
+ three seconds : DURATION
+ one second : DURATION
+one : CARDINAL
+two : CARDINAL
+blue : COLOUR
+yellow : COLOUR
+buttons : DRAWING
+one : CARDINAL
+one : CARDINAL
+button : DRAWING
+Paul : INTERFACE_SPECIALIST
+ twenty five Euros : MONEY
+ Twelve and a half : MONEY
+ twelve and a half Euros : MONEY
+Twelve : MONEY
+twelve : MONEY
+one : CARDINAL
+twenty : CARDINAL
+one : CARDINAL
+one : CARDINAL
+ twenty seconds : DURATION

@@ -1,0 +1,36 @@
+prototype : CONSTRUCTED
+buttons : CONSTRUCTED
+button : CONSTRUCTED
+buttons : CONSTRUCTED
+two : CARDINAL
+buttons : CONSTRUCTED
+buttons : CONSTRUCTED
+panel : CONSTRUCTED
+rubber : MATERIALS
+plastic : MATERIALS
+apple : INCIDENTAL
+ twelve fifty Euro : MONEY
+ eleven ninety nine : MONEY
+One : CARDINAL
+rubber : MATERIALS
+rubber : MATERIALS
+one : CARDINAL
+curve : SHAPE
+ ninety nine per cent : PERCENT
+ one per cent : PERCENT
+ twelve fifty : MONEY
+Six : CARDINAL
+coach : EXPERIMENTER
+two : DURATION
+ three months : DURATION
+Play-Doh : MODELLING_STUFF
+one : CARDINAL
+one : CARDINAL
+four : CARDINAL
+slides : MEANS_OF_WORKING
+board : MEANS_OF_WORKING
+mics : RECORDING_DEVICES
+circle : SHAPE
+slides : MEANS_OF_WORKING
+slides : MEANS_OF_WORKING
+ forty minutes : DURATION

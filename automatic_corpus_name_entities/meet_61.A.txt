@@ -1,0 +1,44 @@
+Marketing : MARKETING
+Gabriel : INTERFACE_SPECIALIST
+ Project Manager : PROJECT_MANAGER
+three : CARDINAL
+three : CARDINAL
+ thirty five minutes : DURATION
+five : DURATION
+ five minutes : DURATION
+one : CARDINAL
+noteboard : MEANS_OF_WORKING
+Reissa : MARKETING
+Catherine : INDUSTRIAL_DESIGNER
+Catherine : INDUSTRIAL_DESIGNER
+ fifty years : DURATION
+Catherine : INDUSTRIAL_DESIGNER
+Gabriel : INTERFACE_SPECIALIST
+yellow : CARDINAL
+blue : CARDINAL
+Gabriel : INTERFACE_SPECIALIST
+Reissa : MARKETING
+five : CARDINAL
+thirty : MEASURE
+ thirty five : MEASURE
+ thirty five : MEASURE
+ fifty five : MEASURE
+ twenty years : DURATION
+fifty : PERCENT
+fifty : PERCENT
+ thirty five per cent : PERCENT
+ ten years' : DURATION
+Reissa : MARKETING
+ fifty years : DURATION
+ ten years' : DURATION
+yellow : COLOUR
+black : COLOUR
+yellow : COLOUR
+blue : COLOUR
+blue : COLOUR
+yellow : COLOUR
+ Real Reaction : ORGANIZATION
+Sony : ORGANIZATION
+Panasonic : ORGANIZATION
+ five minutes : DURATION
+ five minutes : DURATION

@@ -1,0 +1,38 @@
+hundred : CARDINAL
+ seventy five : PERCENT
+ seventy five percent : PERCENT
+ Eighty percent : PERCENT
+ seventy five percent : PERCENT
+ Fifty percent : PERCENT
+ ten percent : PERCENT
+ hundred and sixty eight : CARDINAL
+ fourteen times in the hour : MONEY
+fifty : PERCENT
+ fifty percent : PERCENT
+ Thirty four percent : PERCENT
+ Thirty four percent : PERCENT
+thirty : PERCENT
+ twenty six percent : PERCENT
+One : CARDINAL
+one : CARDINAL
+ Ninety percent : PERCENT
+fifteen : MEASURE
+ twenty five year : MEASURE
+ seventy six percent : PERCENT
+ twenty five : MEASURE
+ thirty five : MEASURE
+ thirty five percent : PERCENT
+ thirty five : MEASURE
+ forty five : MEASURE
+ twenty two percent : PERCENT
+ forty five : MEASURE
+ fifty five : MEASURE
+ eight percent : PERCENT
+ fifty five : MEASURE
+ sixty five : MEASURE
+figure : DRAWING
+ Ninety one : DATE
+five : CARDINAL
+fifteen : MEASURE
+ twenty five : MEASURE
+three : CARDINAL

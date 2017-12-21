@@ -1,0 +1,18 @@
+email : MEANS_OF_WORKING
+email : MEANS_OF_WORKING
+ account manager : OTHER
+three : CARDINAL
+mail : MEANS_OF_WORKING
+few : CARDINAL
+six : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+seven : CARDINAL
+hundred : CARDINAL
+hundred : CARDINAL
+six : CARDINAL
+seven : CARDINAL
+screen : MEANS_OF_WORKING
+white-board : MEANS_OF_WORKING
+ Five minutes : DURATION
+one : CARDINAL

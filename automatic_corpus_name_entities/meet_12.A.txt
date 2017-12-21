@@ -1,0 +1,29 @@
+ five minutes : DURATION
+ forty minutes : DURATION
+wheel : CONSTRUCTED
+button : CONSTRUCTED
+two : CARDINAL
+blue : COLOUR
+scroll : CONSTRUCTED
+wheels : CONSTRUCTED
+folder : MEANS_OF_WORKING
+ twenty f five : MONEY
+ fifteen point eight Euros : MONEY
+ four Euros : MONEY
+ sixteen point four : MONEY
+single-curved : SHAPE
+double-curved : SHAPE
+single-curve : SHAPE
+ one Euro : MONEY
+ Fifteen point four : MONEY
+greys : COLOUR
+silvers : COLOUR
+wheel : CONSTRUCTED
+ fifteen point eight Euros : MONEY
+Paul : EXPERIMENTER
+Paul : EXPERIMENTER
+board : MEANS_OF_WORKING
+lapel : RECORDING_DEVICES
+pen : MEANS_OF_WORKING
+ twelve fifty Euros : MONEY
+ twenty Euros : MONEY

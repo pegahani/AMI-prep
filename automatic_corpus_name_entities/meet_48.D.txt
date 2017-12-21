@@ -1,0 +1,20 @@
+L_C_D_ : CONSTRUCTED
+curved : SHAPE
+plastic : MATERIALS
+One : CARDINAL
+curved : SHAPE
+four : MONEY
+ ten minutes : DURATION
+Three : CARDINAL
+one : CARDINAL
+two : CARDINAL
+curved : SHAPE
+five : CARDINAL
+Six : CARDINAL
+Six : CARDINAL
+Yellow : COLOUR
+five : CARDINAL
+yellow : CARDINAL
+two : CARDINAL
+ fifteen Euro : MONEY
+ twenty five : MONEY

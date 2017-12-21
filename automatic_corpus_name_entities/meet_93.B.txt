@@ -1,0 +1,26 @@
+ F_ eight : MEANS_OF_WORKING
+Genevieve's : MARKETING
+alloys : MATERIALS
+metals : MATERIALS
+alloy : MATERIALS
+alloys : MATERIALS
+metal : MATERIALS
+ hundred percent : PERCENT
+alloys : MATERIALS
+diagram : DRAWING
+components : DRAWING
+source : DRAWING
+battery : DRAWING
+chip : DRAWING
+ it F_ eight : MEANS_OF_WORKING
+escape : MEANS_OF_WORKING
+Tara : INTERFACE_SPECIALIST
+ F_ eight : MEANS_OF_WORKING
+Genevieve : MARKETING
+single : CARDINAL
+Heather : PROJECT_MANAGER
+company : COLOUR
+blue : COLOUR
+green : COLOUR
+yellow : COLOUR
+phosphorescent : COLOUR

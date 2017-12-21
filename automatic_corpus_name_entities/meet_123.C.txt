@@ -1,0 +1,128 @@
+folder : MEANS_OF_WORKING
+one : CARDINAL
+prototype : DRAWING
+microphone : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+button : DRAWING
+menu : DRAWING
+screen : DRAWING
+menu : DRAWING
+screen : MEANS_OF_WORKING
+single : CARDINAL
+curved : SHAPE
+pen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+single : CARDINAL
+curve : SHAPE
+curve : SHAPE
+ remote control : DRAWING
+screen : DRAWING
+one : MEASURE
+ remote control : DRAWING
+scroll : DRAWING
+rubber : MATERIALS
+two : MEASURE
+three : MEASURE
+two : MEASURE
+two : MEASURE
+God : OTHER
+ remote control : DRAWING
+controls : DRAWING
+screen : MEANS_OF_WORKING
+screen : DRAWING
+one : CARDINAL
+two : MEASURE
+two : MEASURE
+Two : MEASURE
+three : MEASURE
+screen : DRAWING
+Two : MEASURE
+cursor : MEANS_OF_WORKING
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+two : MEASURE
+button : DRAWING
+ remote control : DRAWING
+Two : MEASURE
+One : MEASURE
+two : MEASURE
+three : MEASURE
+icon : DRAWING
+button : DRAWING
+two : MEASURE
+three : MEASURE
+screen : DRAWING
+Danny : MARKETING
+Danny : MARKETING
+Single : CARDINAL
+single : CARDINAL
+curved : SHAPE
+Double : CARDINAL
+curved : SHAPE
+ three dimensional : MEASURE
+ three dimensional : MEASURE
+curved : SHAPE
+single : CARDINAL
+curved : SHAPE
+curve : SHAPE
+curved : SHAPE
+ scroll wheel : DRAWING
+button : DRAWING
+ scroll wheel : DRAWING
+ scroll wheel : DRAWING
+button : DRAWING
+button : DRAWING
+ scroll wheel : DRAWING
+single : CARDINAL
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+curve : SHAPE
+curves : SHAPE
+two : MONEY
+two : MONEY
+four : MONEY
+ remote control : DRAWING
+wood : MATERIALS
+ remote control : DRAWING
+thirteen : MONEY
+fourteen : MONEY
+fruity : COLOUR
+green : COLOUR
+ scroll wheel : DRAWING
+screen : DRAWING
+ eleven point five : MONEY
+single : CARDINAL
+curve : SHAPE
+one : CARDINAL
+four : CARDINAL
+four : CARDINAL
+one : CARDINAL
+one : CARDINAL
+single : CARDINAL
+curve : SHAPE
+ Twenty minutes : DURATION
+ scroll wheel : DRAWING
+microphone : DRAWING
+mic : DRAWING
+pen : MEANS_OF_WORKING
+pens : MEANS_OF_WORKING
+keyboard : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+pen : MEANS_OF_WORKING
+screen : MEANS_OF_WORKING
+two : MEASURE
+ three centimetres : MEASURE
+presentations : MEANS_OF_WORKING
+table : FURNITURE
+screen : DRAWING
+laptop : MEANS_OF_WORKING
+ five minutes : DURATION
+ one thousand twenty four : MEASURE

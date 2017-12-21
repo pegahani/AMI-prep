@@ -1,0 +1,29 @@
+ twenty five minutes : DURATION
+Laura : PROJECT_MANAGER
+ project manager : PROJECT_MANAGER
+David : INDUSTRIAL_DESIGNER
+Andrew : MARKETING
+Craig : INTERFACE_SPECIALIST
+three : CARDINAL
+three : CARDINAL
+whiteboard : TIME
+whale : DRAWING
+pig : DRAWING
+tail : DRAWING
+ twenty five Euro : MONEY
+ fifty million Euro : MONEY
+ twelve fifty Euros : MONEY
+ fifty percent : PERCENT
+ twenty five Euro : MONEY
+ eighteen pounds : MONEY
+Sixteen : MONEY
+seventeen : MONEY
+ eighteen pounds : MONEY
+ Five minutes : DURATION
+ couple of minutes : DURATION
+ industrial designer : INDUSTRIAL_DESIGNER
+ thirty minutes : DURATION
+ ten to twelve : TIME
+ industrial designer : INDUSTRIAL_DESIGNER
+ user interface : INTERFACE_SPECIALIST
+ marketing executive : MARKETING

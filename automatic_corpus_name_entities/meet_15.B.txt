@@ -1,0 +1,22 @@
+One : CARDINAL
+one : CARDINAL
+one : CARDINAL
+one : CARDINAL
+two : CARDINAL
+Computer : MEANS_OF_WORKING
+plastic : MATERIALS
+Senegal : LOCATION
+ one hour : DURATION
+plastic : MATERIALS
+wood : MATERIALS
+wood : MATERIALS
+ twelve Euros : MONEY
+rubber : MATERIALS
+rubber : MATERIALS
+wood : MATERIALS
+Plastic : MATERIALS
+wood : MATERIALS
+one : CARDINAL
+two : CARDINAL
+three : CARDINAL
+four : CARDINAL
