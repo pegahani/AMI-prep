@@ -1,0 +1,239 @@
+Decision1
+
+A :  I just have one question , because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition , but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels . Do you think they will be able to use gestures ? Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ? or if you say channel three channel three two three four six five , I think they will be bored after a while . You don't think so ?
+C :  Yeah . Yeah , so Y
+D : B :  Yeah . Maybe .
+C :  Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button . For example , if you cannot find your uh controller , you can just uh just just uh speak something such as , yeah , one two .
+A :  Yeah , sure . I That's true .
+B :  Oh yeah , that's a good that's a good point , so . One and
+A :  Yeah , but suppose you got a cold . You have a mute remote controller .
+C :  Yeah .
+B : D :  Mm .
+C :  So you can use your gesture . That's no problem .
+B : D :  Yeah but how how is how risky is it to trust like speech recognition or gesture recognition ?
+A :  Broken arm ?
+C :  For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very
+D :  Okay . Okay .
+A :  Yeah , but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?
+C :  Yeah .
+B :  Yep .
+D :  But this this but this would never happen anyway .
+C :  Yeah , they cannot speak at the same time .
+A :  Why ?
+D :  Yeah
+A :  If you have one brother and one sister and they want to watch their favourite uh T_V_ programme , so they say oh channel four channel three channel four channel three all the time , so .
+D :  Yeah , but the
+B :  Yeah but Yeah but the same can happen even with it you know this kind of remote control because the
+C :  Yeah , it's very interesting .
+D :  Yeah but this Yeah .
+C :  Yeah .
+D :  I don't think it
+A :  Yeah , but you have the remote control , so maybe you can keep it f with you . You're not you're not obliged to share it .
+B :  That's right .
+D :  Oh , okay , okay , you mean it could be a problem for this kind of stuff .
+A :  Yeah , we can yeah .
+C :  Yeah , that's that's the advantage of intelligent controller . Even you h you have the controller , I can I can say channel three , so it's c come to channel three , I don't have to
+D :  No .
+B :  It's it's
+D :  No , but this is disadvant disadvantage .
+A :  Yeah , I think it's a disadvantage .
+C :  It's advantage .
+D :  Yeah .
+B :  And mayb maybe we can have the switching mode to pass from you know voice controller to
+A :  Yeah , but one other question . How how much will it cost ?
+B :  manual controllers , eh . No , more expensive maybe .
+C :  How much ?
+A :  Yeah . Because I suppose we need to do research to have something working .
+C :  No no we we d we we just are use um
+D :  Uh if you if if you use the basic
+A :  Some some efficient .
+C :  No no we just um have some cooperation with some research institute , we don't have to do some basic research on this field .
+A :  So you think it won't cost an Not a lot for us ?
+C :  Yeah , I think it's uh because uh this technology is uh
+A :  Or ?
+C :  um for limited wor or limited wor uh lexical recognition , it's very
+A :  Yeah , but uh uh
+C :  it's uh yeah .
+D :  But it's it's changing how the remote control is gonna be built . Because then you need uh
+C :  It's
+D :  I mean this doesn't have uh the power to do recognition , for example .
+B :  Well y y you have also the language problem , you know when you
+C :  No it's uh Even for the f um because the the vocabulary the
+A :  Mm-mm .
+B :  'Cause it it have to be universal , so .
+A :  Yeah . I agree with uh
+C :  The vocabulary is very small , so that's not a problem .
+D :  Yeah .
+A :  Yeah , but there is one problem that uh Baba talked about is the international
+B :  Yeah .
+C :  Yeah .
+D : B : A :  remote control . We need something that is international . Suppose we're we want to sell it in France .
+C :  Yeah .
+A :  The recognition system will be able to understand French . If you want to go to England , it will be able to understand English , so .
+C :  Yeah . Yeah , the key , the key um the key of our the key feature of our controller is that it's it has some some um adaptation
+D :  Yeah , this could be downloaded by the web maybe , or
+B :  Yeah but you know . The product The pro
+C :  mechanism . It's It's it means when you when you sell this controller in China it's can recognise Chinese . It's r if you sell this controller in France it can recognise French .
+B :  It's a very smart , it's a very smart controller maybe
+D :  Yeah .
+A :  Mm , okay .
+C :  Yeah , it's
+A :  And with no increase in the pri production price of the remote control ?
+B :  Oh yeah yeah yeah yeah .
+C :  Because of this product uh this technology has already been developed . So
+B :  But
+A :  Yeah , but how will you
+B :  Yeah but the problem is how to s you know if this is a push button controller , you can send this con this remote control everywhere in the world , the same one . If you have the language , you have to develop for each country .
+C :  Yeah . Yeah .
+D :  Mm .
+C :  Oh n Yeah , yeah tha that's why we have to do language adaptation .
+B :  Yeah , but for each country you have to do one , because uh the for example for Se
+C :  Yeah . Even for each f for even for different family we have to do d yeah we would we have to do adaptation to
+B :  Oh really ? That's
+A :  Oh . Seems to be quite complex .
+D :  Yeah , but then w Yeah , we have to take care of the twelve Euros
+B : Comple
+C :  No , it's not so complex .
+D :  problem .
+A :  And what about voice recognition , do we have microphones ? And where will be they ? Do you think if we're far from television it will work ?
+C :  No no no it's not I think that's n that's not a problem because you you don't have to wear a microphone . It it just the microphone is embedded in the controller .
+A :  Yeah , but where is the controller ?
+D :  Okay .
+C :  Where is the controller ?
+A :  Yeah .
+C :  It's in your family , in your home .
+B : D :  No , but then it's it's like this uh
+A :  Yeah , but we're here it's uh an object . But here you say you want to use i uh s technology .
+C :  Yeah . Yeah you can you can embed it uh microphone here .
+B :  A microphone maybe .
+A :  Yeah , but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object . If you want to use voice or gesture you need to be free , without any object . You just want to interact with television .
+B :  To talk to the to the T_V_ maybe .
+C :  Yeah yeah just you just put the controller here , then you
+B :  I if you say one , he switch to channel , yeah .
+C :  you use your command and you do s your gesture .
+A :  Yeah , but you can lose it .
+C :  No no it's n y if you lose it
+A : B :  So well for example if it is somewhere in the room if i maybe if it is in the table there you can always say s channel one and the t the remote control gives the order to the T_V_ to switch to channel one .
+D : C :  Yeah .
+A :  Okay you so you can build a kind of black box and put it on T_V_ and just to recognize gestures and voice .
+B : Devic
+D :  Yeah .
+B :  Yeah . Yeah . Yeah but so you need a camera and you know a microphone inside your remote control .
+C :  Yeah .
+A :  Ah .
+D :  But you would still have the buttons . Or is it do you think it should be only voice recognition and gesture recognition ? Or you you still have the possibility to use buttons ?
+C :  I think it we should give the uh flexibility to the user and we think yeah . You can see they can switch form one modality to another .
+D :  Okay , so you yeah .
+A :  Yeah , but Mm .
+D :  Yeah , I dunno . It's a bit risky risky .
+B :  Yeah .
+A :  I think so . And maybe it will be quite
+C :  No , that's quite inter quite attractive .
+B :  But I think that , you know , switching from one country to to another will be a problem , so although y y
+C :  Well , if you do language adaptation , there should be no problem .
+D :  Yeah , I dunno .
+B :  Yeah but i i
+A :  Okay .
+C :  We should have confidence in technology .
+B :  Yeah , we should . Uh .
+A :  Hmm . So , what do you think ? We'll try the controllers you'd prefer .
+B :  Mm .
+D :  What ?
+A :  Which kind of controller would you prefer to use , you as a remote control user ?
+D :  If if I mean , uh I'm sure if the user pays the same price , he's happy to have recognition . But if if if it like doubles uh
+C :  More features , yeah .
+B :  Yeah , but I think he need a control that is very reliable , so .
+D :  no one would would be interested .
+A :  So I think it would be better not to do any intelligent controller and to stay with the Google controller or a fancy controller . Maybe try to mix the Google controller and the fancy controller ? Hmm ?
+C : B :  Yeah . Yeah .
+
+Decision2
+
+D :  So , second point is they still want it it to be technologically innovative , so maybe it's sort of related to what you've said with the speech recognition and so on .
+A :  Okay .
+
+Decision3
+
+A :  So we have to take decisions about the component concepts , about the energy . So , as you say you want something technologically innovative , maybe using solar energy and with battery would be something interesting , maybe will attract
+B :  Yeah . Solar .
+D :  Yeah , so when I think it's
+B :  Okay .
+D :  Mm-hmm .
+B :  Yeah . It will be a
+A :  pro-ecology consumers .
+
+Decision4
+
+A :  Uh cheap imprint so you s you propose low level chips would be uh enough to have something working well .
+B :  Yeah . Yeah , I think Yeah , yeah . Yeah .
+
+Decision5
+
+A :  Case .
+C :  Later ?
+A :  So you think case . Something spongy . Someth no wood .
+B : C : D : B :  No wood but Plastic ?
+D :  Maybe not no wood , but I mean ma maybe not the part you touching you know .
+B :  Would some
+C : Pla
+A :  Maybe you
+B :  I think we can have wood for example in the bottom and , you know . It depends on the design we want , so .
+D :  Yeah , maybe the base .
+A :  It's it's natural .
+D :  But still y
+B :  Yeah , it's natural and i
+D :  Yeah .
+A :  Th The feeling is natural , so maybe we can stay with wood .
+B :  And it can be correlated to energy , solar energy , so for the marketing aspect , you know , saying that it's ecol
+D :  Yeah , I mean it's not exactly right for the spongy point of view .
+B :  Mm , yeah , it's not right , so .
+A :  But it's still fashion .
+D :  But we could maybe have both like part of wood and some rubber for the buttons , or I dunno .
+B :  Okay .
+A :  Yeah , something that you can into it .
+D :  Yeah .
+
+Decision6
+
+A :  Uh and what about the user interface concept ?
+B :  Google and
+A :  Google and fancy ?
+B :  and fancy , f how about the the voice ? And
+A :  Because I think that with the voice and gesture recognition there are still some disadvantages with this .
+C :  Uh yes .
+B :  Uh maybe we can do some marketing studies asking people if they're interested and how It It is an an interesting concept to see to have uh voice control .
+D :  Yeah .
+C :  Yeah . Yeah . The smart controller .
+B :  Mm . Yeah . But and the problem is I I'm we can infer i if you have v voice control why not to put it directly on the the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually , so .
+A :  Yeah , but you need a receiver to recognize the gestures and the voice .
+B :  But it will be embedded on the T_V_ and not on the remote control , so .
+A :  That's true .
+D :  Yeah d
+C :  Okay .
+D :  I dunno .
+A :  So maybe we'll just focus on the Google controller plus the fancy controller , maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood .
+C :  Mm . Yeah . It's good .
+
+Decision7
+
+A :  And L_C_D_ buttons .
+B :  Yeah , L_C_D_ .
+
+Decision8
+
+B :  And pf what can we think a supplement to
+D :  What interface ?
+A :  Yeah , for the interface something added value .
+B :  I think the supplement can be the voice . It is just , you know , it is not the most important , but it can be a part of
+A :  With a module ? You mean the remote control with a mur module if you want you can just use
+B :  Yeah , yeah .
+A :  commands , words and use them when you don't want to use your fingers .
+B :  Yeah . Mm .
+C :  Mm-hmm .
+B :  To push button , yeah , yeah . Even it is for s just some kids , you know , switching channels one two three four . Yeah , turning yeah , yeah . Not very complex commands , but easy commands , so .
+A :  Turning the T_V_ o on o or off . So , adding some vocal commands .
+B :  Yeah .
+A :  Simple ones ?
+B :  Yeah , simple ones for
+A :  Okay .
+

@@ -1,0 +1,107 @@
+Decision1
+
+A :  Right so I think we've covered most of these important questions through this um through you guys's presentations um we've got uh y the Industrial Designer suggests uh or pretty much emphatically suggested that we need to go with plastic . Um Sarah , she's recommended that we go for simpler functions , so fewer functions um but we need to decide who are we selling this to , you s your stats suggested that seventy five percent of people under thirty five wanted , thought about voice control , um so do we wanna go for that , or do we want to go for an older demographic , and my thought is um we've got w if we're gonna go for a sleek look I mean we are putting the fashion in electronics um .
+D :  Oh right .
+B : D :  We're not catering to the pensioners of the world I don't think so .
+C : A :  Yes . So maybe this we should look into this younger demographic . Um . So
+D :  Right .
+A :  uh we need to wonder ah h about how we make it better and smaller and faster um think we're constrained to plastics very well , we've got this idea , Ron was saying we need to think about uh revolutionising the way it's looking um , which might be easier given that we're going for simpler function and that we're only going for a telly .
+D :  Right .
+
+Decision2
+
+B :  Right . I think it would be possible to uh combine the locator device and the voice recognition technology .
+A :  Mm .
+D :  Oh . That could work . I like that .
+B :  With a simple command like locate . And then it could start to beep and
+D :  Yeah . Something very basic . Right .
+A :  Right .
+B :  therefore be found .
+C :  Sounds good .
+D :  Is that only gonna be within our two hundred foot range then ?
+B :  Oh yeah I think that's very doable .
+D :  Okay .
+A :  The difficulty wh would be in um I think like i you couldn't speak into the remote that you're trying to find . 'Kay you have something that picks up
+B :  Mm .
+A :  a voice from far away
+D :  Yeah .
+B :  It's a good point .
+A :  If it's hidden under the couch but then again you have this wee this wee thing you know that's just a little chip or whatever that has the page button , maybe that could be voice activated too .
+C :  A little sticky pad to stick on top of your uh television . And you just say something to into that and it
+D :  Mm . Yeah .
+A :  Yeah .
+B :  Yeah .
+C :  finds your
+D :  K
+A :  Or an isolated magnet or something like , or you know something that wouldn't interfere I don't know that'd be the technical thing but yeah I like that , I like that , the voice recognition for the paging system .
+D :  Yeah .
+
+Decision3
+
+D :  Are we still thinking about this screen sorry . Go ahead .
+B :  Oh go ahead .
+D :  The uh if we're gonna do this touch pad screen thing , it would be still , do we know if that's an option technically right now to that ? Okay .
+A :  Mm-hmm .
+C :  'S definitely an option technically . I've looked into uh costs of uh touch screen methods and what not , they seem to be uh you know almost as cheap as a button method at this point .
+D :  Okay . We're doing okay . 'Cause it seems like an interesting option especially because then you could have like your primary screen just be these you know four or five basic functions , you can have
+A :  Okay . Mm .
+D :  menu options or something to have all these other complicated voice recognition , settings , things that you're not gonna use every day and that a lot of people aren't gonna use but it is an option there for this hi-tech market that sort of re is the sleek thing we're going for .
+B :  Yeah .
+
+Decision4
+
+A :  Mm 'kay um so I'm seeing that we're gonna just basically focus on this young demographic group , aim it at them , but then in a sense that its bells and whistles are available for anybody who wants them but basically we'll make a sleek simple functioned um uh remote control . Um I think this voice recognition thing is a we've got a market for it uh I don't think there's too many , we'd more or less be cornering the market on it as well , we don't have many um .
+D :  Mm-hmm . Mm . Yeah .
+A :  I appear to have lost my microphone . Mm . Right um we don't have many people or there's not very many competitors out there that do that so cool .
+
+Decision5
+
+C :  Well have we confirmed that we're gonna go ahead with a uh touch screen um
+A :  Yeah yeah okay . Um
+C :  Interface ?
+A :  Yeah I think that would be best . Let's based on what sh on what you guys have all said to me let's go for a plastic built or uh b plastic cased 'cause tha tha that's easy on the cost , try to look for some kind of high quality recycled plastic as you recommended and I think that's a great idea . With a touch screen for the basic functions . Um And we'll yeah tha let's provisionally let's go for a touch screen one with several submenus um for possible extra stuff that one basically put the channel and the on and off switch on the touch screen .
+
+Decision6
+
+A :  Um it's th uh with this voice recognition option as well um just as for the simple functions the um the on off , channels , volume , um
+B :  Right .
+A :  and um a small paging function . Even if you can't do voice recognition for the paging you know just some kind of simple button that's just a I guess another infrared signal to the remote control and while to emit some kind of paging . Just a beep .
+B :  Okay .
+
+Decision7
+
+B :  What what would be on that touch screen ? 'Cause you said earlier that we have to think about company colours and um
+D :  And oh . Yeah the the fashion do . Yeah .
+B :  logo or something or motto , I can't remember exactly what you said .
+C :  We put fashion into electronics .
+A :  W it's my understanding that if you were going to do a skin you'd need to have some way for people to download or import skins into the remote control . Yeah I think perhaps good idea but yeah I think that that one m might just be um
+D :  Right , and then you're dealing with ports and cords and
+B :  'S too much .
+D :  Yeah .
+A :  and they just yeah I think that one might just be out of the range for this particular a P_D_A_ would they would makes a lot of sense for a P_D_A_ 'cause you're gonna be using it to connect up to things anyway but
+D :  For now .
+A :  I dunno , what do you guys think ?
+B :  Think we just need to come up with a nice black and red interface on the touch screen . That'd be okay .
+D :  Yeah . Nice .
+C :  Yeah . Uh I I'm I'm in agreement with that , I'm wondering how we're gonna get uh we put fashion into electronics onto this device .
+D :  Um . Well but if we're gonna use a touch screen where it's gonna come on like on your cell phone it'll have your your carrier provider name come up first like while it's loading and then it goes away , perhaps it could be like a temporary
+A :  Hmm . Mm .
+D :  Comes on every time you turn it on and then that's it 'cause it is a bit much to have it like engraved on the back or something I think .
+C : B :  Mm . True .
+A :  Yeah . Yeah .
+C :  I'm hoping for a subliminal maybe half a millisecond as it turns on .
+D :  Yeah .
+A : D :  Y
+B : A :  Yeah . Yeah I know I d it seems like it would suffice to have just the R_R_ on there .
+C :  Mm-hmm .
+D :  Yeah you would think . But .
+A :  Jus But apparently not . So .
+D :  If it comes from above .
+B :  People aren't gonna want their remote to boot up and to see flashing things come on . They just want it to be on and ready to go .
+C : D :  Yeah .
+A :  Yeah .
+D : A :  Well fair enough . Um and yeah that would help the battery life too and if it the remote they do have to press a button for the remote to turn on . But then again who wants to turn on a remote control . Kind of if i
+C :  Well all you have to do is touch the screen and it automatically goes on . Yep . Goes into a sleep mode .
+D :  Mm .
+A :  Oh to wake up okay or go into like a dormant mode . Okay . Oh yeah I like that I like the idea of um putting the logo in the boot up screen , nice .
+

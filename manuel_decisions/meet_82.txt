@@ -1,0 +1,241 @@
+Decision1
+
+B :  Um also with battery connections the company has some limits on the batteries we can use , so I was thinking perhaps a combination of solar cells with a back-up basic battery and somehow between the combination of that two we might be able to come up with something that uh will last the the lifetime or the five to ten years and we could still keep that original idea .
+
+Decision2
+
+B :  Um we also need to look at the chips , uh v custom-designed versus off the shelf , and the custom-designed will give us much more flexibility and enable us to incorporate the voice function that we all uh seem to have agreed upon . Um , however that's gonna cost more , but uh the off the shelf is gonna be uh cheaper and it's gonna be allow us to produce it quicker and get out there faster , but it's going to be less flexible with the features , especially things like uh voice activation , which haven't really been used much on remotes , so there's not really chips out there that would be easy to uh to convert , so if we were uh definitely gonna go with the the voice option we'd probably have to design um our own chip . And that pretty much sums it up .
+A :  Okay , so how um sorry , can you uh just put that one back up again , please ? Um .
+B :  Mm . Oh yep , sorry . Yep .
+A :  Uh d d d okay , I mean uh inevitably a b a custom design chip is gonna be more expensive . Do we do we know uh by how much ?
+B :  Mm . Um I don't actually have any price information , no .
+A :  And and do we know how long it'll take to uh develop a a custom chip .
+B :  Um it a lot longer than an off the shelf chip .
+
+Decision3
+
+B :  Oh w yeah , we did the the problem is the the the voice technology is not really highly developed , it's sort of still still in an ex experimental form , uh so it would uh it's hard to predict the time .
+A :  Right , okay . Right , I think we need to make a a decision here . Uh given that the company wants this on the market quickly and cheaply , that would appear to uh effectively constrain us to an existing chip and thus therefore conventional button technology .
+B :  Mm .
+A :  Um uh now before we go round everybody else , does anybody um
+C :  I
+A :  h have any have anyti ha anything to say about that ?
+C :  I just have a question about that . Um does it make a difference if there are just a few commands , for example if you um can pre-programme in like numbers one through ten and pre-programme say , you know , nine channels and then just use the voice recognition to say channel one and then you've programmed in say B_B_C_ four as your channel one , as your favourite , it's like to have a certain number of favourites um and that w
+B :  W just to to incorporate the voice activation in it is is sorta the trick . Once you've got the whole voice chip in there , then it's pretty much the the world the the sky is your limit , but to actually the the big step is to actually get the voice activation chips in there and working .
+C :  Okay . Then it doesn't matter . Okay . Okay .
+A :  Cause uh I must say I find it slightly surprising given that , you know , mobile phones incorporate voice activated dialling . So uh um I mean I d d for slightly different well no , I mean , it's if you you
+C :  Yeah .
+A :  speak somebody's name and it'll dial the number for you , so uh bu I mean the this this information is from is this is the internal company information , is it ?
+B :  Uh bits of it , yeah .
+A :  So uh
+C :  Of course mobile phones do tend to be more expensive , you know , hundred and fifty pounds or something .
+B :  Yes , as well .
+A : C :  As opposed to the twenty Euros , twenty five Euros .
+A :  Yeah , mm true , again but if it's without any without any uh p price informations that's uh difficult to uh
+B : A :  uh decide .
+D :  Also lots of mobile phones have got a lot of technology in them , not just that , so .
+C :  Yeah .
+B :  Mm .
+A :  Yeah , that's that's right . It's like it's it's you can't 'cause mobile phones are expensive , you can't say it's the voice recognition bit that is . But we don't know . Um .
+C :  Yeah .
+A :  I mean uh I su i I mean if given that the um the technology is not well developed and and given that it's it's never been done before , um th th the double risk , uh perhaps we ought to uh stick to uh to buttons , since the last thing we want to do is present a product that doesn't work . Um . Thoughts ?
+C :  Well , another thought I oh , sorry , go ahead .
+D :  Would Oh I was just gonna say mayb maybe it sh like um maybe we can like cut corners somewhere else to bring in over cost .
+A :  I mean do w do we think that the voice technology is fundamental to the project ?
+B :  Uh it's fundament well I mean I guess it it's something we've discussed uh since the the sort of the beginning , so I th I think in in our in our minds it's it's fundamental , but I don't know that the uh the upper echelons of the company would necessarily agree with that , so I think you have to
+A :  I mean I think we
+C :  Oh yeah .
+B : C : A :  Mm .
+B :  Hm .
+C :  Okay .
+B : C :  Well , I kinda think if we're gonna have the voice recognition for part of it , then maybe we should have it for the whole thing .
+A :  Yeah , I I I I I think that's uh
+B :  Mm .
+C :  And we've been talking about it the whole time . Anyway , I'm I'm incli kinda inclined to say that we should just go for it .
+B :  Mm , mm .
+A :  Yeah , yeah . Mm , right , okay .
+B :  Mm .
+D :  Uh yeah , it's the second most important aspect to users that the device should be technologically innovative .
+C :  Yeah .
+A : D :  From uh my presentation show , so . Uh technologically innovative .
+A :  Yeah , it should be Right , okay , so .
+B :  No , that sounds good . Mm .
+A :  Fine . Okay . I it will have voice recognition um uh if if that means uh if that means we can't afford buttons but I mean b b second question , do we need the five buttons for channel change , up down , volume up down and on off , just as a a backup or just so that people can uh j j just sit there pressing buttons ?
+B :  Mm . Cool .
+C :  Okay .
+B :  Um
+C :  Yeah .
+B :  Yeah , I I would say we do , yeah .
+C :  I think so .
+A :  Right .
+
+Decision4
+
+D :  Uh you could you could as l as like a mouse you could
+B :  Ye yeah , 'cause I've definitely picked up remotes and like meant to change the channel and turn the volume , or vice versa , so it'd be kinda good to have them be feel completely different . You'd know what you were fiddling with .
+A :  Yeah .
+C :  Yeah .
+A :  Yeah .
+B :  Yeah .
+D :  Yeah , like the shape of it almost like a mouse , with a
+A :  Yeah , or yeah uh th th the I mean thi this is what the we have to come up with is the the actual shape that people can ins instantly pick it up and and know know uh know what it's going to do .
+C :  That was
+B :  Mm .
+C :  Yeah .
+
+Decision5
+
+B :  Well that can kinda tie into our changing uh face things , like we could have the fruit and vegetable theme this year and uh whatever happens next year , we can have the face plates , yeah .
+D :  Mm .
+A : D :  Yeah .
+C :  Yeah .
+D :  Yeah , we can have a sp like a spongy skin on it and then we can just whip that off and
+B :  Yeah , yeah .
+A :  Uh .
+C :  Yeah like the kind you get on like hand weights . You know , that kind of spongy yeah .
+B :  Mm , yeah , that weird I dunno what that is , but yeah .
+A :  Uh .
+D :  A kind of yeah . Oh
+B :  Mm .
+A :  Also means you can drop it without damaging it .
+D :  Yeah . That's c cool .
+B :  Uh , yeah , it's good as well . Mm-hmm .
+C :  Yeah , that's true .
+D :  Um you have we could if we could save depending on the cost of the product itself , you know , could we have uh a cheaper b cheaper power source and then just have it annually renewed ? Instead of having a ten year guarantee ? With interchangeable covers , could just buy a new one every year , a new one when new fashions come out .
+C :  Yeah .
+B :  Mm .
+C : A :  I I mean it its uh I that's an interesting idea , it's like the old Swatch watch where uh um on only batteries ever got changed in those , 'cause people just bought a new one when it went out of fashion , but it's just never been seen as a a fashion item before . Um that's yes if if if they're made in sufficient quantity
+B :  Mm .
+D :  Yeah .
+C : Wh
+B :  I I think it's easier sometimes to have them buy changeable covers for it than to buy a whole new one , because you don't feel like you're investing in a whole new product .
+A :  W I mean we we can uh uh b but I mean my feeling is that current power sources are such that for relatively little cost you can make it last , you know , a long time . Um but if we also make it cheap enough that people either change the cover every year or even buy a new one every year then it it's it's even better .
+B :  Yeah . Mm . Yeah . Mm . Mm .
+C :  What if we included the batteries in the cover ?
+D :  Mm-hmm .
+B :  Oh yeah . I like that . That all c also kind of encourages 'em to buy new covers and yeah .
+C :  So um like Yeah , so can I see that thing ? Just this as examples .
+B :  Um .
+A :  S Yeah , yeah , I n I know the only p I mean the the the the immediate thing that comes to mind with that is that it it it y you've then got the connection and you've immediately got a sort of unreliability , whereas the advantage of having it plumbed in is that that the whole thing is all , you know , completely soldered together and it it it you know , total reliability , but I mean I d I I uh
+C :  So f
+B :  Uh yeah .
+C :  Yeah , I guess that's
+B :  Mm .
+C :  true .
+A :  I know what you're saying and uh understand where you're coming from .
+D :  Or well , but like uh like more than just the battery , like a complete different like you've only got like , you know like th uh this bit's the bit you keep , and this is the expensive bit , this is like the chip and this is the microphone . And then this is the power source and the bit everyone sees . And then
+B :  Mm-hmm .
+A :  I th I s I think if we're gonna go down that route , then we're talking about uh even if it costs slightly more than that , um just building the whole thing in one , then having getting cheaper production costs um and , you know giving people the option of buying a new uh a a complete new thing , the advantage of a replaceable cover is that even if they don't it doesn't have a cover on at all , it will still work um totally . Um then if , you know , if people lose the cover , I mean they they might be well inclined to go out and spend however many Euros on a on a new one um rather than a a complete new re remote .
+D :  Yeah , you probably are right .
+B :  Mm .
+C :  Yeah , that's true .
+B :  Mm .
+C :  Yeah , yeah . Yeah .
+B :  Well that that's just it with the covers , you're sort of tricking 'em into continuing to spend their money on our products without making 'em feel like they're being ripped off having to buy a new product . So , yeah .
+C :  Yeah .
+A :  Yeah , I mean it is it's up to it's up to
+C :  Yeah , just another five Euro to get
+B :  Yeah .
+A :  Yeah , it's it's up to our marketing people to to ma to ma turn it into a a fashion item . Um and , you know , as as external fashions change , then we get new new covers on the market and , you know , readily available . And um
+B :  Mm .
+C :  Right .
+B :  Mm , yeah . Mm .
+C :  Yeah .
+B :  And that's the sort of thing , once you get the mould set , you can just whip out different colours , different pictures very very quickly . Yeah , yeah , exactly , exactly .
+A :  that's that's right , yeah , yeah .
+C :  Yeah , like they have for mobile phones that are just fruits and animal prints and colours . Yeah , okay .
+B :  Yeah .
+
+Decision6
+
+C :  Well I was sort of mm kinda picturing like maybe um a shape that's almost like a mouse . So that , you know , when they hold it it's because a mouse is pretty comfortable to hold in your hand um maybe we could make it a slightly different shape so they could hold on to it , but that way they can have the volume on the side and then the channel buttons and
+B :  Mm . Yeah .
+A :  Yeah . Yeah . Yeah .
+B :  Mm .
+C :  have the power , wherever , somewhere .
+B :  Yeah .
+C :  I mean that was just an idea that I had .
+A :  I mean I've uh yeah . Oh no that well there's the sim my my idea was something a b probably you know a bit fatter than this but sort of tha that sorta shape so that you can just sort of ho hold it .
+C :  Yeah . Yeah , maybe . Kind of a c
+B :  Yeah , you'd want it narrower than a mouse though 'cause it a mouse you're kinda just resting on it , you want something you can definitely grip . So maybe it'd be
+A :  W it I mean well it's sort of it's it's sort of uh a a mouse , but held , you know , so it's you sorta hold it in your hand like that , i with , you know , and fiddling with the buttons .
+C :  Yeah . Sort of a combination .
+B :  Yeah , yeah . Yeah .
+C :  Yeah .
+B :  Yeah , and fiddle around with it and press it .
+C :  Yeah so yeah , kind of maybe maybe a little wider than this , 'cause this is pretty comfortable to hold , and then if you had
+B :  Maybe almost like a hairbrush , like you could get the about the width of that end of the pen and then it widens up top and you can fiddle an yeah .
+C :  Yeah , then wider up here . And then it would have a l uh wider thing to uh have the light , the infrared light at the T_V_ and just kinda change channels and adjust the volume and the power could be wherever , up up the top or something . What do you guys think about that ?
+B :  Yeah , yeah . Yeah . Mm . Yeah , cool .
+D :  Yeah , that sounds
+A :  Okay , yeah , yeah .
+
+Decision7
+
+D :  Um I'm just I'm suddenly realising that yeah we're discussing how much how good it's gonna be to change channels t we still can just tell it to . I mean are we are we starting to get away from the the voice functionality of it ?
+C :  Oh yeah .
+B :  Yeah .
+D : A :  It's a very good point .
+C :  It is a very good point .
+B :  Yeah .
+A :  I think we d I think we decided that w we're actually going down both routes . That um the we n we need the the manual controls and that they should be of that form , but that uh yeah .
+B :  Yeah , yeah .
+C :  Yeah . Yeah .
+B :  But do you know , this shape also kind of les lend itself to to voice 'cause if you're you're holding it and you're fiddling , but you can also bring it up like that and it's microphone-esque , yeah , yeah .
+A :  Then you just bring it up to your mouth and just speak to it , yeah , yeah .
+C :  Yeah , and just say
+D :  Yeah , maybe we cou like w like we're leaving out the buttons for the the f less frequently used stuff , but maybe we could incorporate that into the voice .
+B :  Mm .
+A :  I th I th honest uh my personal view is that if it's not there , people wouldn't use it anyway um .
+D :  Mm I suppose , but t there is the off chance that , you know , th the brightness is wrong on your T_V_ or the contrast needs changing .
+A :  It's cer it's certainly possible I mean , but they we we're going beyond w w given the state of the technology we want something that we kno we know will will work um .
+B :  Bu Mm .
+D :  Hmm yeah .
+B :  Well you can still i incorporate the voice with with less buttons . I mean uh if the power button was also somehow like a menu button you could press that and or do voice commands , and either volume thing could also be to scroll through other options like y and you could scroll through brightness and and sc and then you can you can minimise the buttons and still have those , you know , brightness and tint and stuff .
+A :  Uh
+D :  Yeah , that's a good idea .
+C :  Yeah , I suppose I sup
+A :  Yeah .
+D :  Yeah .
+A :  If we we're I mean I'm getting a clear message that we think that we should have those facilities available .
+C :  So I guess we could have a menu button as well . We could have the channels and the power and then a menu button and then the volume . So have four buttons and the volume instead of three buttons and the volume .
+B :  Yeah Yeah .
+
+Decision8
+
+A :  Okay , if we if we're going down that route , then we need some sort of display . Do we need some sort of display ? We actually use the television , okay . Okay , okay , okay .
+B :  But the television would be the display that things like that usually c pop up on a televi like you hit menu and menu will come up on television and have like tint brightness , and you'd use the scroll , scroll through it yeah .
+C :  Yeah , that's on the T_V_ , yeah . Yeah , and then y
+D :  Well I mean on a onto like a mouse , the ru the scrolling button , is actually a button as well , you could press it , you could press that and have it as a menu button .
+A :  Yep .
+B :  Yeah , yeah , that's true .
+C :  Yeah , press that is t yeah , that might work . Yeah , it's like um yeah , it's like the mouse where you just kinda click it . You just press it .
+B :  I never understood how that worked though , but yeah .
+A : B :  Yeah , mm .
+C :  Yeah , and you could just click that to so if you had like the menu then you could scroll through and then click it to select .
+B :  Mm , oka yeah . Yeah .
+D :  Uh yeah .
+
+Decision9
+
+A :  I think I think we decided that we're gonna for for simplicity of , you know , manufacturing and uh maintenance that we will go for a a long term battery source um , I you know , on the basis that um that , you know , if we're going for making it a fashion statement , then uh people are more likely to change it anyway uh before i it runs out and um make an assumption that we we can aim for a battery that will last most people for uh we'll say at least five five ten years and that we'll w we will guarantee it for for five years um .
+D :  long term .
+B :  Mm .
+D :  Cool .
+
+Decision10
+
+D :  And we're having a custom chip ?
+A :  We're having a a custom chip , but given the the we've cut the functions down , um that will hopefully not be too problematic , but given that um technol technological innovation is important , then we need to , I'll say it again , technologically innovate .
+B : 
+D : 
+Decision11
+
+D :  And interchangeable case ?
+A :  I i interchangeable case seems to be um um important to the concept . Um it it should be cheap , you know , if if we avoid any , you know , electrical connections . And uh i you know , i if we can come up with some way of of allowing people to actually personalise it uh to whatever they want , then uh I mean uh uh this is totally new . We d we don't know whether
+B :  Mm .
+C :  Yeah .
+B :  Mm .
+D :  Mm , mm-hmm .
+A :  that to what extent people do it or not , but if they've at least got a a good selection of um covers that they can use anyway , and uh and if if we can keep them , you know , rolling , then uh you know , so they can get them in the supermarket when they go down to um a any of the famous supermarkets , I won't mention any mention any names , um it's uh it's good for the supermarket and it's good for us and it hopefully makes them feel better .
+B : D : C : 

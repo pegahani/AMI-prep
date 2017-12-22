@@ -1,0 +1,75 @@
+Decision1
+
+B :  Um as for the energy source , um we were talking about that shortly in the other meeting . Um what we could use is , or what I was offered , or what we could use , is a basic bateer battery . Right ? Uh a dynamo . Interestingly enough .
+D : B :  Um we could use solar cells . Or a device that was not n not further specified that provides kinetic energy . Such as like watches you know . Where you just move them m move the the actual device and this pr uh provides it with with uh some energy . So um obviously I personally have to say that dynamo is out of the question really . You don't wanna wind up your remote control before you can use it right ? Um solar cell is interesting . May fail though , every here and there .
+A : C :  Mm .
+D : C :  Would you have to leave it by the window ? yeah .
+B :  Mm . Yeah . Or you know you lose it , it lies behind the couch for a week and yeah mm .
+C :  Yeah .
+B :  Always the you
+A :  Works well in Arizona but in Edinburgh not so
+B :  But exactly . Um the kinetic energy thing um might work , um but the same problem . You leave it lying around and you first have to shake it before it it starts to work . So I'd say what we're stuck with really is um the basic battery .
+D :  Y probably not yeah .
+C :  Yeah .
+
+Decision2
+
+B :  Um um solar cells cannot be used on a curved or latex um surface or um remote control . But obviously that's not our problem um since we have decided or against solar cells , I assume right ? Or is anybody still alright .
+D :  Mm .
+C :  Yeah .
+A :  No I think I think batteries are probably the way to go .
+D :  No . Hmm .
+
+Decision3
+
+B :  Um With the titanium um we cannot make it a curved design . We would just be able to make it flat and and um yeah a straight design pretty much . Which I assume would exclude uh some of the more sophisticated versions .
+C :  Would the sort of spongy and the the plasticky thing y you can get those mobile phones that initially have a it is plastic but then they have sort of a a s a cover on it which is just sort of soft and stuff . So I don't know if that would still be possible to have you know in plastic . But then where do people hold it ? Just all be sort of spongy .
+D :  Mm . Like a covering . Yeah .
+A :  Yeah .
+D :  The we can have the fruits and vegetables on the spongy parts , so they can remove it .
+C :  So you as the the possibility of having a a graphical display on it , like a screen ? Like the iPod ?
+B :  You can have an L_C_D_ screen . Um but therefore no rubber will be used . Alright ? So plastic yes , titanium yes , but this will of course influence the form . With plastic , as I understand it , you can use any form . Um latex
+C :  Right .
+B :  is tricky . Or rubber and um and titanium also seems to be tricky when it comes to the form . So the way to go is if you want a scroll wheel you either make it flat and angular , uh add an L_C_D_ screen , and um then you can basically choose either plastic or titanium . Or wood even . Um if you wanna make it a particular shape , use plastic .
+C :  Yeah .
+B :  Add an L_C_D_ screen , add a scroll wheel , that'll be fine . Or make it just push-buttons . Basically plastic gives you the b biggest variety of of options . Maybe not the nicest feel . Or not much originality really .
+C :  Yeah .
+A :  So the ru wait the rubbery we can shape it however we want ? Or the rubbery we cannot ?
+B :  With rubber we could uh sh pretty much shape it the way we wanted it , but we cannot add scroll wheels , and we cannot add an L_C_D_ screen .
+A :  'Kay . Mm .
+D :  Mm .
+A :  Mm .
+B :  That's the tricky thing .
+C :  Could we not you know have a shape with a scroll and the screen , and then j just sort of that initial shape we had , just which is uh sort of banana-esque . So that's thing if we did it yellow . And um you know you just p stick on just sort of rubber things that that sort of grip the thumb bit . They wouldn't have any they're just on the exterior . They wouldn't be necessary to the actual shape of the thing .
+A :  Yeah . Is that an option , a plastic shell with a rubbery coating on at certain spots ?
+B :  S Certainly can be done yes . Um yeah . if that doesn't affect the functional side of it all . Like say just the underside or so then it can be done . I assume . Yeah .
+C :  Yeah .
+
+Decision4
+
+A :  Um Energy source I think we've , I think we've decided batteries , although not exciting , are probably our best bet .
+B :  Right .
+
+Decision5
+
+A :  Um I guess we should pick the case then . If we go with the plasticky case , or the the plastic case , um then the chip-on-print is still kind of , we could have either or . We could have a complex one or a a non-complex . But did we decide that the rubbery feel was important enough to us ?
+B :  Yeah .
+D :  Well what about what you said , like putting the
+C :  Just just maybe yeah . Just a little bit of .
+A :  .
+D :  finger grips just on top of the plastic ?
+A :  Okay . So we would , we would have the L_C_D_ screen ?
+B :  as long as the pla uh the rubber is nowhere near the controls , yes .
+A :  'Kay . So I guess the case would be plastic , with Perhaps that's not even enough rubber to qualify as being part of it . It's more of a su it's more of a supplement maybe .
+C :  Yeah .
+B :  .
+D :  Yeah .
+B :  M more of a l lamination perhaps .
+C :  Yeah .
+D :  So then for the scroll , are we going for the iPod type ?
+C :  Yeah I think so . I think
+D :  Yeah ? Okay .
+A :  Which will require a more expensive chip-on-print right ?
+B :  Yes . It does .
+A :  'Kay .
+

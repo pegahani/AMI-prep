@@ -62,7 +62,7 @@ class manage_name_enity(meeting):
 
     def get_entity_list(self, speaker):
 
-        file = open('./automatic_corpus_name_entities/' + self.meeting + '.' + speaker + '.txt', 'w')
+        file = open('./manuel_corpus_name_entities/' + self.meeting + '.' + speaker + '.txt', 'w')
 
         root_entities_speaker = self.get_entities_roots()[speaker]
         root_words_speaker = self.get_roots_words()[speaker]

@@ -1,0 +1,171 @@
+Decision1
+
+B :  in our case we are using a um a wheel control . So uh uh I was looking basically for that chip , which is uh very very standard , and uh I just looked for the wheel sensor and the standard push button . And um yeah we can change directly . In fact I have the number of that element which is very standard for remote control . The push button are usually extremely cheap , but I just have one problem and this is related with the wheel sensor , which seems to be quite expensive .
+A :  Yeah . Okay .
+C :  Mm-hmm .
+B :  And I think we if we could just talk about that if we really need a wheel sensor or if we can not if if we could combine something with the push button .
+A :  Okay .
+B :  Uh a wheel sensor is fifty time the price of a a a push button .
+C :  Yeah .
+A :  But is it a significant price on the whole remote control ? Because we can afford up to twelve Euros for the price of the remote control .
+C :  Mm .
+B :  Yeah . Yeah I I th
+A :  So will will will this with uh including all possible things , so buttons , wheel and the chip , be uh lower than twelve Euros to produce ?
+B :  But I don't think that uh we should We should talk about uh the design of the box also which needs some money . But
+C :  Yeah .
+A : Okay
+
+Decision2
+
+C :  Also have to say Did you receive the email about the voice recognition ?
+B :  Um that's all yeah . I haven't chec
+C :  No ?
+A :  You received something
+C :  Yeah . You we uh an email from the manufacturing division that they have basically a voice recognition chip already developed .
+A :  Hmm .
+C :  Says Yeah . It says that ri right now they just use it to uh to record uh answers to particular questions . But I guess it could be
+A :  And could it be adapted ?
+C :  I guess it's possible . I mean instead of recording the answers you can just uh record uh something simpler like a command .
+A :  Okay and there can uh recognize some commands and stuff ?
+C :  Yeah you reco recognize commands and you can record new commands and stuff , so if they already have it as uh as a chip
+A :  Okay . Yeah .
+C :  then we we could use it .
+A :  Okay maybe we can just uh listen to this presentation and then take decision later on according to those news .
+C :  Okay .
+
+Decision3
+
+B :  We we have already some good things uh with um um with the backlight of the push button .
+C :  Mm-hmm . I have a question about that actually . Um , what is the purpose of the light ?
+B :  Just to to make something which is uh slightly more design that uh a squarey box with a rubber
+C :  Is
+A :  You can easily find the button in the dark or so ?
+C :  But But in th in the dark uh Yeah but is going to be always turned on , the light ?
+A :  It will be turned on when the when the user move the remote control I think , no ?
+C :  But if you move it then you have it , you don't need to find it .
+A :  Hmm .
+C :  You can see the buttons better , of course . Yeah .
+A :  Yeah . Yeah . Yeah . True .
+B :  Yeah . Actually .
+C :  But if you move it then you have to have some sensor to when you move it to detect your movement .
+B :  As soon as you thought to move the the remote control you have the light .
+C :  Yeah , but you need another sensor for that , right ?
+B :  Yeah . Again .
+C :  Yeah no it's too expensive .
+B :  I don't think that this is really expensive , but at the end this is plenty of unexpen eh very cheap devices but uh the bill starts to be
+C :  Okay . Mm . Extra . Yeah , okay . Mm . Yeah , but I expected also the wheel would be cheap but you tell me that it is very expensive so , yeah .
+B :  First of all I was thinking to have a a continuous light and you w when t you you you you press the on button you have the light on your remote control , when you want to turn off your device
+C :  Mm . Mm-hmm .
+A :  But it can be uh battery consuming , no ? To have the light always on ?
+B :  Yeah , a little bit . A little bit .
+C :  Mm .
+A :  Well we will discuss that after maybe
+B :  Yeah .
+C :  Okay .
+
+Decision4
+
+A :  Yeah . I think it's innovative to use the mm the wheel because I think no one else has . Has it ?
+B :  Yeah .
+D :  Yeah that's why Yeah that's why I think we have to keep that if it's possible .
+A :  Yeah . I think it's it makes it both easy and both innos innovative . So I think it's a good aspect and it should be kept .
+B :  Mm-hmm .
+D :  Innovative . Mm .
+
+Decision5
+
+C :  How do we make it look cool is the question .
+A :  Cool , fancy ?
+C :  Yeah .
+A :  We have to make it l look like a fruit or vegetable .
+D :  Yeah . Mm .
+C : A :  Maybe uh um a colour that remember some fruit uh , things like that .
+B :  What about um
+D :  Oh , colour , yeah .
+C :  Well the obvious thing is a banana , I guess .
+D :  Oh i i
+A :  Maybe yeah .
+B : D :  I thought about a a pear , for example . You know the pear , is like that and it's it's easy to to have in in hand and uh
+A :  Yeah , and it's ergonomic as well .
+D :  Yeah .
+A :  A pear .
+C :  The banana is also ergonomic .
+D : A :  Yeah . Maybe pear yeah or something like that .
+D :  Or a fruit like that . I dunno .
+A :  Yeah . We can discuss that uh . D D Is is there anything you want to add ?
+C :  Is there any fruit that is spongy ?
+D : 
+A :  I don't think so . I think we we can have like yeah a pear is good , fit well , or banana as you told .
+C :  Yeah .
+D : B :  And for maybe look and feel , what about a a piece of ice ,
+A :  Something like that .
+B :  with blue L_E_D_ inside ?
+A :  But that's not in the trend . . The trend is spongy , and vegetable fruits .
+C :  You can make it um
+D : B :  Yeah . Yeah .
+D : B : C :  It's not hard , the metal .
+D : B :  Yeah .
+A :  I think p spongy is good because it it will be robust as well .
+C :  Plastic .
+B :  Yep .
+
+Decision6
+
+A :  So , I think we can keep the wheel because it's uh easy , it's innovative , even if the cost is a bit higher , and we also have to find a , so , a fruit like pear or banana wit uh any others idea you have .
+B :  Yeah .
+
+Decision7
+
+A :  What kind of fr fruit would you like to to control your T_V_ with ?
+D : C :  Mm .
+A : Odi
+B :  Banana I think , it's a nice idea .
+A :  Banana is also yellow so you you can't lost your remote control then .
+B :  Because But
+D :  Yeah .
+C :  Yeah .
+B :  You y you don't use the banana when the banana is curving like that , but when the banana is curving like that , with the wheel on the top and to control , and here you have a a push button to
+C :  Two of the button , yeah . Yeah . Yeah .
+D :  But you don't have
+A :  I think it's a good idea , yeah .
+C :  Yeah so you can just have uh just have this curve , yeah , and you move uh your hand here to press the buttons and then you move uh on the other side . So you can have it on on two sides and it'll be cool , no ?
+A :  Yeah .
+B :  Yeah .
+A :  Yeah . I think it's a good design and it's innovative as well then . Maybe we can keep the banana . And it will be very easy to find .
+C :  You can put also vibrator inside .
+B :  And everybody knows what is a banana . Basically . If you if you start with uh fancy fruits and fra s and tha
+D :  Yeah .
+C :  Ah-ha . You can also take into account the fact that the banana fits with the colour scheme of our company . Yeah .
+D : B :  Oh , yeah
+A :  Yeah . Yeah it's really uh really a good point .
+
+Decision8
+
+B :  So we will just use a a standard battery ?
+A :  Yeah .
+
+Decision9
+
+B :  Uh what do you mean by case ?
+A :  I think it's the box that should be spongy , banana's shape .
+B :  Yeah . Uh I mean for me if we use a a spongy banana case , doesn't matter . I just want to have so something to prin to to fix my my components onto that box , and that's it .
+A : C :  The only th Yeah . Y Yeah that can be in inside th in the structure . But uh the thing is that the buttons and the wheel have to be I mean if it's spongy then the buttons and the wheel have to I mean if it's spongy then it's going to move , right ? So , it's going to be bend a lot .
+B :  Yeah yeah . Yeah . Spongy also .
+C :  So if we try to push the buttons , it You think it's possible ?
+B :  Oh no I think it's possible .
+A :  But No the button would be In fact it it should be something odd shaped , with a spongy cover .
+B :  Yeah .
+C :  Okay .
+B :  Yeah . This is uh like the
+C :  Yeah .
+A :  Okay odd shape with spongy cover .
+
+Decision10
+
+B :  And uh the chip we chip imprint we know exactly which one we are going to use .
+
+Decision11
+
+A :  And standard battery okay , a chip imprint , there's no specific problem . So we agree to put the wheel
+B :  Mm-hmm . Wheel on the top .
+

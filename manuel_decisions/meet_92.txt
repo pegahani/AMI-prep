@@ -1,0 +1,25 @@
+Decision1
+
+B :  So this is a television remote control ? Yeah .
+A :  Yes , it's a television remote control .
+
+Decision2
+
+A :  So , now that we know how to use the whiteboard , um , the next , um , thing we need to address is our financial department , to meet our our budget , um or not meet our budget but more , um , like what kind of , uh , selling range we'll be looking at , um , wanna make this um selling price of twenty five Euros . And so we have to , um , come up with a way to , to create a , a uh remote control , where um
+B :  Okay .
+A :  we can like the price to create it will be significantly less .
+
+Decision3
+
+A :  Um , we'd like to , um to , uh , make fifty million Euro . I'm assuming that's what the M_ means .
+
+Decision4
+
+A :  Um , and make it for an international market . Um , one thing we'd have to think about internationally is in the design of , um , like different kinds of , uh , V_C_R_s . Things like that , depending on which country you are . Another thing for the design team to think about .
+
+Decision5
+
+A :  Um , we want it to cost , uh , absolute maximum of twelve Euro and fifty cents .
+D :  Okay , so we'll have a hundred percent profit then ? Twelve fifty .
+A :  I'm bad at math . 'Kay .
+

@@ -1,0 +1,84 @@
+Decision1
+
+A :  Boo-hoo . It's already too expensive . Apparently .
+C :  Yeah .
+D :  So what is Are we supposed to cut things out now ? Uh , until we get twelve fifty .
+A :  Yeah . Mm . Mm-hmm . Mm .
+C :  Oh .
+D : A : C : A :  So think of what we can cut uh here .
+D :  Well ,
+A : C : D :  if I look at what is the most expensive things , uh it's the L_C_D_ and the speaker .
+C :  Sample speaker . Yeah .
+A :  Apparently , we have to choose one or the other .
+D :  Yeah .
+C :  Yeah .
+D :  Yeah .
+
+Decision2
+
+B :  Well , as you may know there's some research done in the field of producing energy from mechanical eng , I mean , producing electricity from mechanical energy .
+D : A : B :  So , the point is that when you take device and push the button , you produce enough energy
+A :  But you don't need a battery ? Mm .
+B :  to make electricity . Yeah , that you don't need a battery . So , it's something like hand dynamo robot .
+D :  Mm-hmm .
+B :  A real high-tech version of it .
+D :  So that would
+A :  But um it's like the hand dynamo , no ?
+C :  Maybe the jog wheel can be like kind of hand
+D :  So , but if we select the hand dynamo it's okay , we only We we win one . That's already that . Okay , let's do that .
+C :  is
+B :  Okay , but l
+C :  Yeah .
+A :  Uh it's a it's a beginning . Okay .
+C :  Yeah .
+B :  Why not . Let's do that .
+
+Decision3
+
+B :  So , put minus one there , please .
+C : S
+A :  Mm-hmm .
+D :  I'm not sure if this is legal .
+A :  Mm . That's right .
+C :  Yeah .
+B :  Why not ?
+C :  Uh , no .
+B :  And ?
+D :  And ?
+A :  M maybe minus uh three , no ?
+D :  No . Okay , let's see .
+C :  Yeah .
+B :  So , was there result ? Let's have a look .
+C :  No , no . It's not
+A :  Mm-hmm . Mm .
+C :  It's not changing , no ? It you don't
+D :  Yeah , yeah , yeah , if Click somewhere , you'll see features . Yes , it does .
+B :  Why ? Oops .
+A :  So Oh , sorry . Mm-hmm .
+D :  Maybe put minus two , so it looks uh more reasonable .
+C : B :  Yeah . Why not .
+D :  Yeah , anyway No , minus two .
+B :  Minus .
+C : D :  Nobody will know . It's not recorded , is it ? Okay , we're on time . Good .
+A :  Mm .
+B :  Good .
+A :  Okay .
+C :  So now on , we can increase our Still you have two more . Maybe we can use it for our party .
+D : A : B : A :  Oh , we can put uh a hand dynamo and a battery if you want . Oh . Both its it's cool .
+D : 
+B :  And a battery and a battery , yeah .
+C :  Yeah . Yeah , yeah .
+D :  No , now we are exp exceeding I think . It
+B :  Now it's fancy , let's add one instead of two .
+C :  Yeah , that
+A :  Mm .
+D :  Is it ?
+C : A :  Yeah , yeah y
+D :  I think we're exceeding now . We have to remove the
+C :  No , but point five point three .
+D :  Uh , it's better . I think they are counting uh We would prefer , yeah . Maximum is maximum . So , remove one of them . Yeah . Okay . Okay , we're uh on target .
+C :  Okay .
+A :  Yeah . Mm . It's maximum and don't have to Yeah , yeah . Uh
+C :  Is really strict ? Oh . Oh yeah .
+A :  Uh , mm-mm . Yeah . Mm . Okay . Mm . So target reached .
+

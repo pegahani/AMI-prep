@@ -1,0 +1,172 @@
+Decision1
+
+B :  Yeah so uh following our decision to uh make a yellow well to make a banana
+A :  Yeah can you show it to the the camera maybe .
+B :  remote okay so we actually have a
+C :  You can pull it out first , maybe .
+B :  We've well first first of all we made a an attractive base station uh with a banana leaf uh look and feel um and uh
+A :  Mm-hmm .
+B :  bana sit the banana sits in there k you know nicely weighted so that it's not gonna tip over and um this is the remote itself , it's kind of it's it's ergonomic , it fits in the hand uh rather well . We've got the two uh uh scroll wheels here which you know one on the the left for the uh volume and the one on the right for for the channel
+
+Decision2
+
+C :  Additional button .
+D :  What this button for ?
+B :  This is a teletext button . So once you press that then you get teletext and you can use the the channel selector scroll wheel as uh
+D :  Okay .
+A :  To navigate it through th through teletext .
+D :  But if you want to go to page seven hundred ?
+B :  To navigate yeah .
+C :  That's right , that's right .
+B :  Yeah .
+A :  with the wheel it's easy .
+D :  How man
+B :  Well then you can you you have like a little uh number selection thing , you press the the the teletext button uh to move between uh the fields and then you can just scroll the number back and forth so you have s you go you scroll to seven and then zero zero and then you can uh
+D :  I don't understand it . Can you repeat it ?
+B :  Well you can you can press press the teletext button and then you then you can you can f
+C : D :  Yeah .
+C :  So then then both the scroll buttons they are for teletext browsing . And you can tele yeah , once you press the teletext button then the scroll buttons they are more for teletext , they are no more for channel or vol volume . Yeah .
+D :  Ah okay okay . Okay . Okay okay .
+B :  Mm uh
+D :  Okay . I see . I see . Okay . Okay .
+
+Decision3
+
+B :  And this is the uh the infrared uh port .
+C :  That's right .
+B :  Also the top of the banana . So . And then we have in the uh in the base station we have the the button at the front for uh for calling the uh the banana .
+C :  Yeah .
+A :  Excellent . Calling .
+C :  Yeah .
+A :  Excellent .
+
+Decision4
+
+D :  Is it really weight ? Is it light or
+C :  It is very light .
+A :  Yeah , they're light .
+D :  Okay .
+B :  It's it's uh it's about the weight of a banana .
+A : D :  Okay .
+B :  You know , to give you the correct look and feel .
+A : C :  Yeah . And we have put these different colours so that people don't mistake them mistake it as a banana . Otherwise it's you know a child comes and so
+D : Ok
+B : D :  Okay . Yeah yeah yeah , I see . I under I understand .
+B :  I think a child would try to eat it anyway , so maybe we should
+C :  Yeah .
+B :  consider that . maybe health and safety aspects .
+A :  Ah yeah .
+C :  Mm-hmm .
+B : C :  Oh we didn't think of that yet . Yeah .
+B :  Yeah .
+
+Decision5
+
+A :  So for the power source , apparently you still you you want to use both solar cells and batteries .
+C :  Oh yeah that's right .
+A :  Uh you mean okay . So
+B :  I don't really know if the solar cells are actually necessary any more if you have a recharging base station .
+A :  Yeah , where are going to where are you are you going to place them ?
+C :  Mm-hmm mm-hmm . It'll It'll be always at top somewhere at there .
+B :  If I was gonna place them I'd put them on the on the top here since that's like uh the black bit but yeah I don't I really don't think it's necessary to have the solar cells anymore .
+A :  You have enough surface ? You
+C :  Yeah because now we are having rechargeable batteries so that that is .
+A :  Okay . What will be the autonomy ? Roughly ?
+B :  Mm . The what sorry ?
+A :  The autonomy . Autonomy .
+B :  What do you mean ?
+A :  Uh I mean how long does i how how how long can it be held off a station ?
+D :  How long the how long the bit the batteries long .
+B :  Ah . Ah . A long time .
+A :  Yeah . A long
+B :  No no no , it can it should be weeks .
+C :  Eight to ten eight to ten hours .
+D : C :  N most no most of the time it's not being used .
+A :  Yeah , so it's
+B :  Yeah but y people don't like to put it back in the base station all the time people leave wanna leave it on the couch so
+C :  So when when you are making it on
+A :  It's used only when you
+C :  Mm . Mm-hmm . No eight or eight or ten hours of working . If you are just leaving like that it'll be much longer .
+B :  Ah , okay . Okay .
+A :  Yeah . F weeks .
+C :  Yeah . That's right .
+B :  Yeah .
+A :  Right .
+
+Decision6
+
+C :  And we are having the speakers regular chip for control . Pricing is was a factor so that's why we have gone for a regular chip only not the advanced chip . And uh that's it .
+A :  Okay . Okay . Those really sounds very good .
+
+Decision7
+
+A :  So I already uh put some pu some numbers here , okay . We are going to go through so this is the number the mm number of components we need for this thing . So it appears that there were things that we didn't thought about . Uh and also things that I uh I d I forget to uh to put like solar cells .
+C :  Mm-hmm .
+B :  Well we decided against the solar cells so
+A :  Oh yeah finally we say no . Okay so let's let's go let's go let go through all the lines . So hand dynamo . This something we didn't thought about .
+C :  Solar cells , yeah yeah yeah yeah yeah , we said no to that .
+A :  But
+B :  You mean , charging it by shaking the banana .
+A :  Yeah .
+C :  I think rechargeable batteries will take care of the power thing . Yeah . To bring the cost
+A :  Yeah . Okay so we we stick to battery , one .
+C :  Yeah .
+
+Decision8
+
+C :  So we have the regular chip on the print , which is one .
+A :  Yeah . Yeah .
+
+Decision9
+
+A :  Okay so in for the case um
+B :  Mm .
+A :  I put single curved .
+C :  Okay . To reduce the cost , it's okay .
+B :  Well , wait a second , no , it's it's double curved , it's got a c , it's uh
+A :  Because we have two things .
+C :  Oh it's got all the directions so don't worry .
+A :  No .
+B :  Well d yeah it's monotonic but
+D : C :  It's got a direction .
+B :  it's got but if you hold it if you hold it that way that's two curved , one on this side , one on that side , but they're opposite sides .
+A :  Well .
+D :  Actually what's the differen
+A :  What a what i if I put one here .
+B :  This is actually I mean this probably this probably actually costs more than three if you
+A :  Yeah so let's put one here in the then instead of single oka all right .
+
+Decision10
+
+A :  So we stick to plastic , it cost nothing .
+C :  Okay . Okay .
+B :  Yeah .
+C :  Yeah . That's right .
+B :  Well no didn't we say we wanted to do a rubber
+A :  No , it's too no .
+D :  Too expensive .
+B :  if you drop it ?
+A :  It's too expensive .
+B :  Well when okay . Well we we'll come back we'll come back and see if we can fit it in .
+A :  We're already at eleven . Okay so I put rubber one .
+
+Decision11
+
+A :  Uh for the interface we have
+B :  Yeah .
+C :  We don't have any push buttons .
+B :  No , we have two push buttons .
+A :  We have three .
+C :  No that is a scroll wheel itself , it'll be put in that .
+B :  Huh .
+A :  No no . We have two scroll , and we have three push buttons .
+C :  Ah okay , okay .
+B :  Uh .
+C :  Okay , okay .
+
+Decision12
+
+B :  Make it plastic instead of rubber . And then we're basically o on budget except for you know ten cents .
+C :  instead of rubber , let it be plastic .
+A :  Yeah .
+

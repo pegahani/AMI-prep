@@ -1,0 +1,94 @@
+Decision1
+
+B :  Yeah . So the only time problem is the sp voice recognition . Yeah . Yeah .
+D : C :  Yeah . Definitely .
+A :  So do you have any idea of how long it would take to have voice recognition now ?
+B :  Ten years .
+C :  I would say . I would say uh about eight months to have the first results .
+A : 
+B : A :  Okay so i it's a bit long yeah .
+C :  Yeah . I can Um .
+A :  One month for the standard one with button . Even if we have a L_C_D_ display ?
+C :  Yeah . Yeah even . I mean that this is really standard devices now . Um eight . For uh speech recognition .
+A :  Okay yeah . Okay so we can take this into account . So who think it would be good to go for uh like speech recognition ?
+B :  But we don't have time to market .
+A :  Yeah it will .
+C :  And also how much uh I think
+B :  I think we should contact management .
+
+Decision2
+
+C :  Uh I know that som you say that many people are doing plenty of a lot of zapping .
+D :  Mm-hmm .
+A :  Mm .
+B : C :  I know tha I discovered that when I did a quick look , uh they do now som they do something which is quite nice now , you have a button , you you press it , and this is uh the previous channel which has come back .
+B :  It's a memory , yeah .
+A :  Okay . Yeah this is cool . Maybe we can include that also . Previous previous channel button . So we have like channel button , the previous channel button , the volume button , plus a mute button , and uh just the the traditional on off button .
+C :  Mm-hmm . Mm-hmm . Mm-hmm .
+B :  And uh and of course the channel changing buttons .
+A :  Yeah . I I talk about that , yeah ?
+B :  How should they how should we implement that ? Because uh could be numerical only or could be also incremental .
+A :  Yeah . Incremental definitely because zapping you you switch them .
+C : B :  Mm-hmm .
+C :  Let's say that we can do something like that . This is uh incremental , but once you press it for a long time , you go five by five .
+A :  We go faster ?
+C :  To go fa to go faster .
+A :  Mm .
+B :  Mm . It's an interesting idea , that if you press it for a long time it does something else , in general . So if you you have your ten buttons for the for the numeric the numerical buttons and you have instead of having just one memory
+D : C :  Yeah .
+B :  you have if you press them for a long time No . Doesn't work does it .
+A :  Maybe we should have also a digit button
+B :  Maybe we should have a complete keyboard and just type console commands . Change channel to eight .
+A : C : A :  Yeah . Maybe we have also to have digits or only incremental . I dunno bec because if you have the
+B :  No . Well if it's useful like if if you want to change between three channels for example then you h you cannot you cannot cannot work with just memory being incremental .
+A :  Uh . Yeah . Because you have your previous channel button if you have incremental only it's not uh it isn't worth it because the previous channel is eith either minus one or plus one . So I think we need also digits . Maybe we we can make very obvious the channel and volume button button and smaller button down there with the the digits .
+C :  Yeah .
+B :  Yeah . Yeah .
+C :  Okay .
+B :  Yeah when you zap usually you will have to press the same button all the time and
+A :  Yeah .
+C :  Or we can do something like that . We can design the remote control to have access . You know some remote control have uh protection and so you you y
+B :  Yeah .
+D : B :  Mm-hmm .
+A :  Yeah .
+B :  Hey I just thought this thing there is a I mean you know there is are some with a wheel like this . Instead of having the up down buttons for uh you can have the wheel . Yeah .
+C :  You
+A :  Yeah .
+C :  Yeah , a kind of joystick .
+A :  Yeah . Maybe we can have a wheel for incremental . Okay . So have a wheel for incremental , have the digits uh on the lower side that can be closed so as you say protected ,
+B :  Yeah .
+C :  Mm-hmm .
+B :  Mm-hmm .
+A :  and uh yeah I think this is the basi
+B :  On the lower side I think it you have to turn it . No ? If we do that .
+A :  And do we do we have a
+C :  Or a or a ball , yeah , not a a wheel but a ball , and you say uh to
+A :  No , a wheel is better . I would say the wheel is better . What is the expert of uh
+B :  Yeah . Because of that
+C :  Yeah .
+B :  Because it's uh it's it's not like a volume which is smooth yeah ? The channels change one by one . So you have to the user has to like to should feel the the the discrete sense a bit .
+C :  Yeah . Yeah , the yeah .
+A :  Okay . Yeah . That's a good idea .
+B :  Yeah .
+
+Decision3
+
+A :  Yeah , and do we put an L_C_D_ display ? Because it was important for young customers if you remember .
+D : B :  Yeah . I think it's only put on if cou have multi function . If you do not multi function then there is no p point in having L_C_D_ . Just increase the cost . The user does not have an advantage really .
+C :  Yeah .
+A :  Okay . So no L_C_D_ ?
+C :  Mm-hmm .
+D :  Hmm .
+
+Decision4
+
+A :  And so no speech as well because it w it would delay too much the development process .
+C :  Okay .
+B :  Well if it's going to delay yeah but uh it will be cool . It would . Because a user could say C_N_N_ for example and it would go C_N_N_ . Mm .
+D :  Mm-hmm .
+A :  Yeah . That would be cool . But eight months is really long and
+B :  Yeah .
+A :  Maybe we can just uh
+C :  Ten years
+A : B : A :  Okay .
+

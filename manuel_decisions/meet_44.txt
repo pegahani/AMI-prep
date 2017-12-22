@@ -1,0 +1,89 @@
+Decision1
+
+B :  Okay um right I g I guess that's it , so we can now um We can now have a little look at the the Excel sheet and price listing , and see if we need to
+D :  Mm-hmm .
+B :  um if we need to rethink anything at all . So um for this first part here power-wise , have we got battery ? Do we have kinetic as well ? No . Okay , just battery .
+A :  The battery . No . Um . We need an
+B :  And that's because of cost restraints is it ?
+
+Decision2
+
+B :  Okay um what about the electronics here ? Advanced chip .
+A :  Yep .
+D :  Yeah .
+A :  Yeah advanced chip . We need an advanced chip I think , yep . Let me just confirm that . Yes I think so . Yep .
+
+Decision3
+
+B :  Okay um the case , what does it mean by single and double , do you know ?
+D :  Um I think single would just be sort of one sort of oval whereas double is this sort of thing .
+A :  Yeah .
+B :  So we want double-curved ? Okay .
+A :  Yep .
+
+Decision4
+
+B :  Okay and then buttons , we have what , two colours ?
+A :  How many
+D :  Um we have um got some push buttons as well .
+C :  Or even clear .
+A :  We've got push buttons as well .
+B :  Like uh oh wait so push button and integrated scroll wheel push okay .
+D :  'Kay .
+
+Decision5
+
+A :  How much would that save us ? That will only save you one . The other thing could be that um you could take away the L_C_D_ panel and the advanced chip together , um because when you
+B :  How much would that save us ? One .
+D :  That is one .
+A :  do something on the T_V_ , the T_V_ responds and reacts as well , so the user could be looking at the T_V_ and pushing his thing so we may not need to so when we scroll we need just some way to get the T_V_ to respond , which I think is a technically doable thing so
+C :  Mm-hmm .
+D :  That's fair enough , yeah .
+C :  Mm-hmm . Mm-hmm .
+B :  Okay so
+C :  Mm-hmm . Mm-hmm .
+B :  So w what's our reviewed suggestion ? Um take away the L_C_ display ?
+A :  Yep . And the advanced chip goes away as well .
+C :  Mm-hmm .
+B :  To be replaced with a regular chip .
+A :  Regular chip . Yep .
+C :  Mm-hmm .
+B :  Okay .
+
+Decision6
+
+B :  Okay well we have point three to get rid of somewhere .
+A :  We just report that it has to be over budget , or the colours , you could take away s colours for th for the buttons .
+B :  Mm .
+C : B :  No can do .
+C :  Yeah we could just go with um
+D :  Yeah w
+A :  Normal coloured buttons .
+B :  Well do you want colour differentiation here ?
+A :  No that's not the button we're talking about . That's the buttons only refer to the pad so
+D :  Um
+B :  Oh yeah sorry yeah then . Right so
+A :  Should we take that off uh ?
+B :  Ah .
+D : A :  Hey it's back to the original . Um so then these just become normal coloured buttons , so that might be some some way of cutting the cost .
+B :  That's it .
+C :  Hmm . Mm-hmm . Mm .
+B :  Okay , ach that's a shame . Um right , so take away that completely ? Ah . And now we're under budget .
+
+Decision7
+
+B :  So we're not gonna have the L_C_D_ anymore , and we'll just gonna have an on t on the T_V_ it'll show you what you're doing , which I think is fair enough , and so this is gonna be one big thing here .
+
+Decision8
+
+C :  Um it's probably just I dunno if it's worth getting into , but um just in in that we want this to be stylish , should we think a little bit more out of the box in terms of a button grid , because I've seen there's lots of devices out there that that instead of taking your standard nine nine square grid , and they have it sort of stylized or in different concept that that
+A :  I think that's something that's very hard to catch , so you you restrict the number of people who wanna try something . The the look and the colour is something which is cool , but I think that there's also that factor of if it's too unfamiliar then um because when you put it on the shelf
+C :  Yeah . Sure , okay . Yeah , alright . Okay , sure . What about button shape ? Square buttons ?
+A :  Yeah button shape might be a good idea to change , rather than rather than positioning , 'cause I think positioning is we're kinda engrained into the the telephone kind of
+C :  Okay . Yeah . Sure .
+D :  Yeah .
+C :  Yeah .
+B :  Okay .
+A :  pad .
+B :  Right um .
+

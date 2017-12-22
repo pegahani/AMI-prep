@@ -1,0 +1,33 @@
+Decision1
+
+A :  Great . Great . I think you did an awesome job . It is beautiful , and it's everything that we discussed .
+D :  Yeah , I think it's a beautiful
+C : D :  Yeah . Good job , you guys . Those are really good .
+A :  Good job .
+C :  Oh thank you .
+
+Decision2
+
+A :  Okay , so now uh we're moving on to finance , okay . I'm gonna show you an Excel spreadsheet and we're going to fill it in together based on what components we're including in our remote and see if it's under twelve fifty Euro . If so , we can proceed , if not , we need to go back to the drawing board a little bit . 'Kay ? So let me bring that up . Here we go . Alright . Um it's not hand dynamo , it's powered by battery , so we give it a
+B :  Yep .
+D :  Two .
+A :  Number of components you plan to use . Do I just put quantity being one battery , or
+D :  Yeah .
+A :  Yeah . But if it's a do you wanna go for this is where we need to make a final call on if it's a lithium or do we wanna go triple A_s , 'cause triple A_s we're gonna have t do more than one battery . Oh , let's just go for a lithium . What do you say ? I think uh I think the people who purchase this are gonna be technologically right . Okay , down to the electronics um section . We're gonna need this kind , correct , if we do the voice sensor , so one of those .
+B :  Mm 'kay .
+D :  Yeah , let's let's do a lithium .
+C : 
+B :  Yeah , it's .
+D :  We're gon that's gon Nologically advanced , yeah . Yeah .
+B :  Yep .
+
+Decision3
+
+A :  Mm . Well , we're under cost then . Alright . No , we're under . Twelve point five is our limit . We've got eleven point two .
+C :  We're over ?
+B :  Grand .
+D :  We're under .
+C :  Okay . Oh , I see .
+B :  So we can go to production .
+A :  Alright .
+

@@ -1,0 +1,112 @@
+Decision1
+
+C :  so uh we we uh now jumping right to our personal preferences um I I'd really think we should , you know , use some of uh some really exotic woods , like um , you know uh , well you guys come from tropical countries so you can kinda think of some trees and some nice woods . I think that people will might really want to design their own cases , you see , they could do sort of a this um three-dimensional design on the internet , and then they could submit their orders , kinda like you submit a custom car order , you know , and you can choose the colour and the size of the wheels and the colours of the leather and things like that , and then I uh think we should go with the solar cells as well as the um microphone and speaker on the advanced chip . So this is the findings of our research and my recommendations um for the new remote control w um would be to have um have it be made out of wood . Do you have any problems with that ?
+B : D : A :  Can you go back uh one slide ?
+C :  I'm not sure , how do I Oh , I know , let's see . Let's go back up here .
+B :  Thank you . Yeah .
+A :  Yes , uh question , uh , what's mean exactly , advanced chip on print ? What's the meaning of that ?
+C :  I think it's um um a multiple uh chip design um and it's uh maybe printed on to the circuit board .
+B : D : A :  Mm-hmm .
+C :  Uh I could find out more about that uh before the next fi next meeting .
+A :  Yeah , is it means it's on the yeah is it on a micro-proc micro-processor based or uh
+C :  I don't know , but I'll find out more at our next meeting .
+A :  Okay , tha that would be great , so if you find out from the technology background , okay , so that would be good .
+D : C :  Sounds good .
+B :  Why was the plastic eliminated as a possible material ?
+C :  Because um it gets brittle , cracks
+B :  Mm-hmm .
+C :  Um We want we expect these um uh these remote controls to be around for several hundred years . So . Good ex Good expression .
+B :  Whic
+D :  Wow , good expression . Well after us .
+B :  Which
+C :  I don't know , speak for yourself , I'm planning to be around for a while .
+B :  Although I think
+D : B :  I think with wood though you'd run into the same types of problems , wouldn't you , I mean it chips , it if you drop it , uh it's I'm not su
+C : D : C : 
+A :  So so you're not convinced about the the wood , yes .
+D :  Actually , I'm ready to sell it . I'm ready to sell it .
+B : C :  you're what ?
+B :  I think if you re if you use really good quality wood , then it might work , but you can't just use
+C :  You think ? And you could you could sell oils with it , to take care of it .
+D :  No y no no no , the o the only w the only wood you can use are the ones that are hard , extremely hard wood , but there are some very pretty woods out there .
+B :  Yeah , exactly , yeah .
+C :  Well I'm glad you
+B : D :  That's actually very innovative idea .
+C :  Okay , good . Sorr having a hard time keeping wi control over my face .
+B : D :  Well , it's actually a very innovative n different idea that uh you know you can choose your colour of wood , your type of wood .
+C :  Mm-hmm .
+B :  The stain .
+D :  I mean it's each person is gonna have their own personalised , individualised speech recognition remote control in wood , that's not on the market .
+C :  Mm .
+B : A :  Yeah , so it it's looks good the the design the functional design uh , what about yo you ?
+D : B :  Um , in terms of comments on this or in terms of my own
+A :  Yes , in t yes , in term in terms of comments first
+D :  In turns of wow .
+C : B : C :  She works in the cubicle next to me so she's uh she was already a little bit prepared for this . Luckily Ed was not .
+B :  Y yeah .
+D : 
+B : D :  Wood ?
+B :  I think we can get the quality materials then it shouldn't influence the design principles too much , which you'll see with my presentation . One thing we'd have to check though is what the users whether how quickly the novelty wears off of having uh Yeah , for example . So , have to see how kid-friendly it is and and all that , but
+D : 
+C :  Mm-hmm . Yeah , you wouldn't wanna have to have splinters in your hand while you're using your
+D : C :  It's really good if your dog gets ahold of it , they can use it for teething .
+D : B : 
+D :  They do that anyway with the rubber and plastic , so , and chew 'em up .
+C :  Yeah , they do it with other materials as well , yeah .
+D :  And chew 'em up .
+
+Decision2
+
+C :  We'd also have to wor um consider that uh who we were gonna get to make these custom cases in terms of manufacturing processes , we might wanna um learn about um labour laws .
+A : C :  You know in different countries and stuff wher so we can do it cheap , but you don't wanna exploit uh labour in um third world countries . So actually you could turn it y turn around and say that you're uh par the reason the cost is high for the device is because um you're paying a a working wage to the person who made the device .
+A :  Yeah .
+D : A : B :  Mm-hmm .
+A :  Yeah , but we can get a production in , uh , countries like , uh , India yes , yes , countries like India or China or Malaysia , so you can go a better features and better price and you can sell more .
+C :  Cost of living is low .
+A :  So
+C :  Good , well th that'd be something that manufacturing would have to um explore more and to where Mm-hmm .
+A :  Yeah , yeah , so
+B :  Mm yeah .
+A :  Yes .
+D :  Where w Where it would be manufactured is is
+A :  So
+D :  another step . We're here to design ,
+A :  Yeah , so
+C :  Yeah .
+A :  Yes uh , but uh that that we can that we can talk about the production later , okay , depends on the the quantity , okay . So we don't need to have our own uh fabric factory or something , so we can have a tie-up with who the do the fabric , okay , for the different uh electronics items , then we can have a business tie-up and to get to cut the cost , okay , to sell more .
+D :  come up with a nice product .
+B :  Mm-hmm .
+C :  Mm-hmm .
+
+Decision3
+
+A :  So , but uh le let's decide first about the components concept and uh interface concept , okay , if is acceptable for both of you , what uh Ed was talking . And your design whether you want with the display or without display or just a simple , so
+B :  Mm-hmm . I think it depends , I mean I think it's a good idea , but we need to really think about how useful it's gonna be because theoretically with the T_V_ you already have a big display right in front of you .
+A :  Yeah .
+C :  Hmm .
+B :  So , if we're trying to keep costs down , then maybe sacrificing the display
+C :  Hmm .
+B :  is a way to go . I mean it depends on how much putting a display costs and what it would be used for very specifically what it would be used for , 'cause if it's only used for one little thing , then putting in a big display case or a big display that's
+C :  Hmm . Mm-hmm .
+B :  probably expensive just to do the training on the chip for the speech recognition or whatever , may not be the most cost-efficient way to go , but
+A : B :  that's just sort of speculation , I mean .
+C :  What do you think Ed ? Do you he liked the display in one of the concepts that you showed , um , do you know how much it costs , um , to to add a little display like this uh ?
+D :  No . No no p spec It's 'cause we have to find out cost on it .
+C :  Do you wanna take an action item to go find out ? Okay . Sorry about that .
+D :  Um , no that's no problem . I'm here for the pushing it after it's made . I will market it . Once we get a price on it then we can market it .
+A :  Yes .
+C : 
+
+Decision4
+
+C :  So the the advanced chip on print is what um what we've we've deci we've determined and the uh engineering industrial design is the recommendation , and um I think we've kinda come to some agreement regarding um this concept of a wooden case .
+D : A : 
+B :  Mm-hmm .
+C :  A customisable and
+B : D :  Nice beautiful mahogany red wooden case .
+B :  What about the buttons , would
+C : B :  Would the buttons be wood too , or
+C :  Uh I don't think so , no , I think they could be rubber like they are now , so you have that tactile experience of
+A :  I don't think so . Yes . Yes . Don't looks nice uh . Yeah , so uh what we'll do is , uh , we will stick with the the simple design for time being until uh th Ed find outs about the how much it's cost to the extra , in case we go for the display . Okay . So maybe what you can do is uh , both of you , you can come up with the the prototype , okay , the model . Okay ?
+B :  Mm-hmm . Okay . Sure .
+

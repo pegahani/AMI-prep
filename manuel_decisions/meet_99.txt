@@ -1,0 +1,83 @@
+Decision1
+
+B :  Y you could add an extra feature actually . Which makes this thing raise hell when you remove it too far from the television .
+C :  Yeah .
+B :  We could add that but that's nothing we have thought of so far .
+A :  Which , which may be cheaper than speech recognition if it were just a
+B :  Yes .
+C :  Yeah true . But I mean d just those whistling , clapping key rings you have . They're cheap . So it can't be that
+D :  Annoying alarm or something ? Yeah .
+B :  It's it's
+A : B :  Um the it's based on this anti anti-theft technology for suitcases and stuff , where you have one piece that's attached to your luggage , another piece that starts beeping . That can't cost much .
+C :  expensive .
+A :  Some sort of proximity
+C :  Yeah . Yeah .
+B :  So that can also easily be integrated because these things are small enough to to hide , so you have one piece , you have to glue somewhere behind your stick it behind your T_V_ and the other
+C :  stick it on the T_V_ .
+A :  Pray that you don't accidentally lose that piece .
+D : C : B :  Right . That'd be tough then . Well also your remote would uh alarm you if somebody stole you t your television , yeah . Ran off with it without taking the beautiful remote control .
+A : C :  Yeah .
+D :  So . Are we adding one of these two features ? gonna say okay .
+B :  Let's add one of those features and say yes .
+A :  Okay .
+
+Decision2
+
+A :  Uh first of all energy source , we picked battery . Um and how many batteries do we think this will probably take ? Probably
+C : A :  some e either two or four .
+B :  Two .
+A :  Two ? Like it .
+B :  At four it's gonna be too heavy , so that that's not our problem . People can change it every month .
+A :  Excellent .
+D : C : B :  They won't know until after they bought it .
+
+Decision3
+
+A :  Alright so for the electronics our choices are simpl simple chip-on-print , regular chip-on-print , advanced chip-on-print , sample sensor , sample speaker .
+B :  .
+C :  We're advanced chip are we ?
+B :  That's the advanced chip-on-print , yeah .
+A :  'Kay , we have one of those .
+
+Decision4
+
+A :  'Kay then the case is a Probably it's double curved .
+B :  Double curved , yes .
+
+Decision5
+
+A :  Case materials are plastic .
+B :  Plastic .
+
+Decision6
+
+A :  Special colour ?
+B :  Exactly , right .
+D :  Oh .
+B :  That's not a special colour . It's a specially ugly colour , but it's not special .
+
+Decision7
+
+A :  So our total is fifteen point five . Which I believe is
+B :  Yeah that's too much .
+A :  by three Euros over .
+B :  It's hard to believe . So we'll go for the hand dynamo huh ?
+A : D : C : A :  So the only thing better than um a banana-shaped remote is one that you shake .
+C :  If it w
+D : C :  What if we completely took out the the one single button we've got on . And just had a scroll wheel interface . And the L_C_D_ display . I suppose the L_C_D_ C_ display's the one that's pushing it up a bit though .
+B : A :  Yeah 'cause the
+D : A :  Well 'cause we have to have both right ?
+C :  Yeah .
+B :  I mean let's let's face it , it also depends on the software on the on the television . You can have the the information that this thing transmits be being displayed on the on the screen . So s yeah let's take away the
+C :  Yeah .
+A :  Mm-hmm .
+C :  Yeah you could maybe take out the L_C_D_ dis display even , if it if it comes up on the computer itsel on the T_V_ itself .
+B :  Yeah . Yeah . Right .
+A :  So we may not need the L_C_D_ display ?
+C :  Uh that is possible yeah .
+B :  Right . We may not need it . There you go . Perfect .
+A :  Well there we go . Twelve point five .
+C :  There we go .
+D :  Perfect .
+A :  Okay .
+

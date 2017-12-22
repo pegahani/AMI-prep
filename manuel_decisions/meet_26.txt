@@ -1,0 +1,63 @@
+Decision1
+
+D :  Volume is not often used but people uh want to have control on volume and that makes sense of course . And n then you have things which are very much less often used like the settings . Audio settings , screen settings , even teletext and channel settings . All of them . they're not often used and they are s more or less relevant . It seems that people find teletext teletext uh relevant , even if I personally never use it but seems that it's average relevant at least , so .
+A :  I have been told that we uh don't consider teletext , that it's out of date now because of internet .
+D :  I can tell you that uh in a l in a scale between one and ten relevant uh not relevant to relevant people scored a six on this , which is not as uh these these two one were had I think ten I think .
+A :  Mm-hmm .
+D :  But but if you compare with these ones , uh I think they scored a one or two . Not very relevant , so
+C :  Hmm .
+D :  if if there are good reason not to put teletext it's okay but just know that people find it somehow relevant .
+A : Mm-hmm
+B :  Mm-hmm .
+
+Decision2
+
+D :  I think we should aim at the young people . But uh I think they are they are those uh who might be more interested in a in a new device . In general the the early adopters of a new device are young people , less than more than
+C :  Mm .
+B :  Okay , then teletext is used less .
+C :  Mm .
+A :  Mm-hmm .
+D :  Then teletext is useless for them I think , yeah . Because they they have other means of finding their information . Yeah . But yeah . Nope .
+B :  Okay . Mm-hmm . Mm-hmm .
+A :  Mm-hmm mm mm . Okay . That's good point .
+C :  Mm , yep .
+B :  Mm . Okay .
+D :  'Kay ?
+A :  Okay .
+
+Decision3
+
+B :  I think , and uh what else ? I got just very few and good ideas . We need power and volume . And let us include two nice features into this device , first , power on and off can be made fully automatic . When you go to the sofa , take your control and point it to the T_V_ ,
+A :  It's off . It's on .
+D :  Hmm .
+B :  the T_V_ turns on .
+D :  And when does it turn off ?
+B :  When you don't touch the control but you go out of the
+D :  Oh so you have a
+B :  For for enough time like uh you
+D :  sensing sensor machine that uh knows
+B :  It's a question to our technical design , our two engineers .
+
+Decision4
+
+A :  Um I see that you target uh several s application not only T_V_ but i like we talk about um universal uh remote control .
+B :  Can be easily done , 'cause
+A :  Yeah .
+B :  you got simple designs , y we should put it to simple actions . Let it be universal , so you want to use it for your hi-fi system . You want to change tracks and you want to adjust volume .
+A :  Hmm . Mm-hmm .
+B :  Just few actions , a few actions for everything . All the rest , we sh we'll put it into this menu on the screen .
+C :  Mm .
+A :  Hmm . S Mm . Since we were targeting a really soon uh uh date for the the the um i issuing of this uh remote control I think we will only concentrate on T_V_ for the moment and then maybe m make it more generalised yeah .
+C :  Mm . Yeah and it mm .
+B :  Okay , okay . Okay , but it's quite universal you know .
+C :  Mm .
+B :  We can just extend it to any device .
+C :  Mm .
+
+Decision5
+
+A :  And well , what about the idea of automatic on off on the button , yeah .
+B :  Mm why ? That's just
+D :  And volume control .
+C :  Yeah , even automatic on off is also a bit problematic , because it different criteria for different people like so suppose people are really uh they just uh they don't touch the remote and mm y you don't know how much time you need to switch on or switch off and
+

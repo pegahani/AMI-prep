@@ -1,0 +1,325 @@
+Decision1
+
+B :  Rubber casing I thing would probably the best , if we're going for the anti-R_S_I_ and like more choice with um aesthetics . Like it could be pretty much any colour we want . Um , and gives you , yeah , more flexibility there . And probably the regular chip as opposed to the simple , then we could possibly have the scroll and the push , but no L_C_D_ , 'cause we probably can't afford that one .
+A :  Uh .
+D : A :  Yeah . Um , one concern with the rubber casing is that it would be rubber encapsulating all of these chips and diodes and delicate technology as
+B :  Mm-hmm .
+A :  like as the exterior . This is the one thing that's protecting its innards .
+B :  I think that would , uh there would be an in sort of more internal casing . And the rubber would just be the , what's in contact with the human . Yeah .
+A :  Yeah . Another thing is it might be more difficult if it's a rubber exterior talking about putting on interchangeable plates . Um , is it I don't see how a like a rubber plate going on top it would stay there . Like if it was sort of like a clip-on plastic plate . It would work that way .
+B :  Yeah .
+D :  Mm-hmm .
+B :  Maybe if the , um , if it was just kind of a , more of a rubber coating which was on to a case . So , it was kind of , the whole thing would be removable .
+C :  W Like plastic with rubber , kind of on top
+B :  Yeah . Like I can't think of what .
+A :  Yeah .
+C :  Well , there's , there is a certain phone that has like a rubber casing , b like a Nokia it is . It's yeah .
+B :  Yeah . Or like an you can get sort of outer casing for iPods and something , that's just it's protective as well . It , it stops it , I mean , it would reduce the impact if it was dropped or something , as well , 'cause it wouldn't damage itself so easily . I think i maybe a mixture of both there , maybe . Yeah .
+A :  Yeah .
+D :  Mm-hmm .
+A :  Yeah .
+D :  Like the skin ? Yeah .
+A :  Yeah .
+C : A :  Alright . So maybe the
+D :  Okay .
+A :  Yeah .
+D :  So the actual remote would be hard plastic and the casings rubber . Okay . And the buttons obviously are rubber .
+B :  And then yeah . Yeah .
+C :  Yeah .
+A :  Yeah .
+B :  Yeah .
+C :  Yeah .
+D :  Okay .
+A :  Yeah .
+D : A :  That sounds good .
+
+Decision2
+
+A :  Alright . I like the kinetic energy source idea . Um , I don't know when people will , um , be moving a remote around a lot . But I think that it's worth it , kinetety , kinetic um
+D : C : B :  Yeah . Yeah , yeah . Yeah . I thought that was
+C :  Yeah , tha
+D :  Mm-hmm .
+A :  energy source . It could make an we could have any kind of style . It wouldn't be as heavy or bulky , and
+B :  Yeah . Yeah .
+A :  Yeah . Just for environmental reasons .
+B :  Yeah .
+C : D :  I guess it's a bit scary 'cause it hasn't been done before .
+B :  Yeah .
+D :  So it seems we'd have to do more research on it . Or I dunno if you could have a battery pack .
+B :  Yeah . Like as a backup for something .
+C :  Backup . Yeah .
+D :  Yeah so there's there is a one battery , because most remotes use two batteries I believe . So , if it was running off of one battery as a
+B :  Yeah .
+A :  Yeah .
+C :  That would be good yeah .
+B :  Yeah . Some alternative just in case something went wrong .
+D :  Right .
+C :  Maybe we could you were saying about um solar power ma maybe not working indoors , but a lot of calculators , yeah , have solar power . So maybe that could be incorporated as
+B :  That's true . I just thought of that . Yeah . Yeah . May maybe that could be the backup . Instead of a battery . Like solar backup .
+A : C :  Yeah .
+A :  Yeah .
+D :  Although it needs some light , doesn't it ?
+B :  Yeah . I suppose s but some
+C :  Do , do those calculators yeah .
+A :  Yeah , you can watch a T_V_ in the dark then .
+D :  So , if we're doing yeah . If we're
+B :  But thing is , it's not you don't need the solar all the time . It can be stored . It can be like you can have the solar energy and then it can store that energy and use it . It just needs to be in light for a certain amount of time per day . Like a few hours a day . .
+C :  I don't know how it works . Yeah .
+D :  Yeah .
+C :  Yeah .
+A :  Yeah . I think that might be a little impractical though .
+D :  Yeah . I think sometimes it's just shoved under , under a cushion , and yeah .
+A :  Yeah .
+B :  That's true . It could easily
+C :  Yeah .
+A :  Like people don't wanna have to worry about that .
+B :  Yeah . I suppose it would be really annoying if you get to think , oh no , I forgot to charge my remote today . Like if the kinetic thing , I think what's best about that is that it's instant energy . You don't have to , you know , you can shake it a few times , or whatever . And it works . Yeah . Instead of you don't have to like make sure it's in the right place to charge and .
+D :  Yeah .
+A :  Yeah .
+C : 
+A :  Yeah .
+C :  Yeah .
+A :  Yeah . Yeah . Or just like pick it up when you're gonna use it .
+C :  Yeah , I suppose .
+A :  Yeah .
+C :  Yeah .
+A :  Alright . Cool .
+B :  K okay .
+
+Decision3
+
+C :  Um , there are two types of user interfaces . There's the graphical user interface , which emphasises the use of pictures for output and a pointing device , for example a mouse for input control . So that's sort of like the scroll thing we were talking about .
+A :  Oh . Okay . Yeah .
+C :  Yeah . I'm not really sure about the pictures that maybe that's on an L_C_D_ screen . Or maybe it's
+B :  Mm .
+C :  the the buttons or pictures or something .
+A :  Hmm .
+B :  Yeah . So I suppose sometime after you .
+A :  Yeah . Yeah , 'cause I'm sorry ? Um , because command interface requires you to type textual commands and input at a keyboard , so the numbers are sort of like a keyboard . You're pressing the numbers for , um , for what you want .
+C :  Do you think it's Yeah . Yeah .
+B :  Mm .
+C :  So you must , for the graphical user you must need some kind of presentation for the graphics . Like an L_C_D_ screen .
+B :  I s I suppose where um mm on some buttons you would have like the power would be s some kind of symbol . And if you wanted to go onto teletext or , I know we're not having that , but I mean a similar thing , you , they have there's a like little picture with a screen with lines across it , which I suppose it's that sort of thing like the , the symbol on the button . But if we're having a simplified display anyway , w that , we probably won't have to focus so much on that . It'll be more the on the numbers and the volume .
+C :  Yeah . Yeah . Yeah . Yeah .
+A :  Yeah , we'll be doing
+C :  Yeah .
+A :  Yeah . It'd be more a command interface , and then
+C :  Yeah .
+B :  I suppose we need to think of symbols for like the volume , display , and stuff like that .
+A :  Yeah .
+D :  So it's just draf graphical for the pointing aspect ? The infrared is like , that's considered a
+B :  I
+A :  Hmm ?
+C :  No I think it's to do with the actual symbols that are on the , that's on the buttons of the remote control , and per
+D :  Okay . So when it says pointing device that doesn't include
+B :  For inp
+C :  Well it could be a wee scroller thing , and something could come up on the screen .
+A :  Yeah . I think they're talking about L_C_D_ type things .
+B :  Mm .
+D :  Okay .
+C :  Yeah .
+D :  Okay .
+A :  Yeah .
+C :  But um I think we're gonna go with the command interface anyway , to make it more simplistic . But the , we could incorporate some of the graphical user um points , as in just to make it m um nicer to look at maybe .
+A :  Yeah .
+D :  Mm-hmm .
+A :  What do you mean ?
+C :  Like I can't think of an example , but Sort of like little pictures rather than
+A :  Oh yeah , like how the buttons
+C :  Like a little sound . Instead of saying volume , like a little speaker or something . Yeah , something y
+A :  Yeah , as a button though . So , it's a keyboard in the shape of it , right ? Okay . Yeah . I like that idea .
+D :  Mm .
+C :  Yeah m perha yeah . Yeah . Maybe . Um , the co uh we've decided that the command interface would be the most useful for a remote control . As it would be less complicated , and the controls would be more user-friendly . Um , the remote control would be cheaper to design , so that we'd have more money in the budget to , um , target the design area of the interface . You know , make it more trendy and original . We'll have more money if we keep it simple .
+A :  Yeah . I'm sure i like kinetic energy would probably dip into the budget .
+C :  Yeah .
+B :  Yeah .
+A :  A bit more too , yeah .
+
+Decision4
+
+D :  I think if we go with the um design plate thing , we'll have to . Just because of colour clashing , and if we wanted to , so and , and we might , I mean , depending on what comes out of the design , we might have to stick to just black buttons .
+A :  Yeah . Yeah .
+C :  But um
+A :  But what about the lighting up effect ?
+D :  You mean different colours for the lighting or
+A :  Um , well , um , I thought we had um decided that we would if you touched one of the buttons they'd all light up . And so if they were black , it wouldn't be possible for them to light up .
+D :  Mm-hmm . Oh I see what you're saying . Well y
+A :  If they were white they would glow , probably . If they were made out of rubber .
+D :  Oh so you're picturing the light is coming from the back . I kinda pictured it as kind of coming from the sides and lighting it up frontwards .
+B :  Oh .
+D :  But , but I guess , you mean from the back . Okay .
+A :  Oh . Where would the light come from ?
+B :  I'd assume , like , an internal light , that comes through . So there would have to , have to be some parts maybe transparent around the buttons , or something .
+D :  Okay .
+A :  Yeah .
+C :  Yeah .
+D :  Right .
+A :  Yeah , and well rubber is a more translucent product too , so we have that taken care of .
+B :  Yeah , yeah .
+D :  Mm-hmm .
+
+Decision5
+
+C :  In the phone that I was thinking of as well , when you change the um covers of it , the , the little buttons that actually , you know , that contro control stuff , are behind the rubber . So you can change the buttons when you're changing the faces . Do you know what I mean ? 'Cause it's just the wee control , yeah , thing that's behind it .
+B :  Li yeah .
+D :  Oh . Yeah . They , they insert over .
+A :  Oh .
+D :  Okay .
+C :  So
+A :  Mm .
+C :  I mean , we don't have to decide on one colour . Each face could have its own colour of buttons maybe ?
+B :  Mm-hmm .
+A :  Well , if they're raised up buttons . So that you can feel them . We were talking about it being more
+C :  Yeah .
+A :  um , a lot more tangible . Um , it might be more difficult to do . If they're , if they're sticking up . If it's flat then , like o like on a cellphone or a mobile phone , it's like all very flat , and you just have to sort of press down on these tiny little buttons , but
+D : T
+C :  Yeah . Yeah .
+A :  Yeah .
+B :  I think it would be possible . I don't think it would make that much difference . I mean , the uh the dimensions of it . 'Cause if it's just like constructed in the same way as like the front cover of a mobile phone . You can like take off the hard cover and then there's the like say the buttons . And then you get to the circuit . I don't think it would matter that the buttons were bigger through the , the top casing . I'm sure you could f work it out to fit in the casing , without causing too much difficulty . I'm sure that'd be fine .
+A :  Yeah . Okay . Alright .
+C :  Yeah .
+A :  If it's do-able we can do . Yeah , sounds good to me .
+
+Decision6
+
+D :  So , my personal preferences here , um of course , as we , we've already talked about the personal face-plates in this meeting , and I'd like to stick to that .
+
+Decision7
+
+D :  Um , the temporary light-up idea , sounds like we're gonna stick to that . And then , uh , tying in a trendy look with user-friendliness .
+A :  Yeah .
+
+Decision8
+
+A :  Um , so back to decisions . Energy , we've decided on kinetic , right ? Okay , so that's good .
+B :  Kinetic yeah . Are we going to have a backup ?
+C :  Yeah .
+A :  Hmm .
+B :  Or do we just
+A :  But would a backup really be necessary ? I mean will people just use the battery if there's no , if there's ,
+B :  I think maybe we could just go for the kinetic energy , and
+A :  if there is backup .
+B :  be bold and innovative , and hope this works , and well hope that it works . I think yeah . I think no . I , I think we should just like take uh advantage of like using this to its full potential . Go for it .
+C : A :  Yeah . Yeah . There's like no reason why it wouldn't work , right ?
+D :  So
+A :  Yeah . It could even be one of our selling points .
+B :  It could be fully kinetic energy . Yeah .
+C :  Yeah .
+A :  Yeah . Yeah . Environmentally conscious or something .
+B :  Is everyone happy with that ?
+D :  So if it's not working they just have to shake it a bit and that revitalises it ? Okay .
+A :  Yeah .
+B :  Yeah .
+C :  Hope so .
+
+Decision9
+
+A :  Alright , the next um decision is chip on print . I don't exactly know what that means .
+B :  Um , it was whether we went for the simple , the regular , or the advanced chip . And that linked in with what buttons we would gonna have , so
+A :  Right , and we were going for more simplistic style , right ?
+B :  Yeah , it was so that was without the L_C_D_ . So that means we're not doing the advanced . So it depends on whether we wanted the scroll buttons or just the push buttons .
+C :  Yeah .
+A :  Yeah . I think we decided on the pushbuttons , right ?
+C :  Yeah . I don yeah .
+B :  Uh , so that's the simple .
+D :  Mm-hmm .
+A :  Yeah . Would we need a more advanced one for uh the lighting , the interior lighting system ?
+B :  Yeah possibly . So , it's probably gonna be the regular chip that we're going to need . So it's a medium . So regular chip . Regular sorry .
+A :  Yeah ? Okay . That's called medium , or regular ? 'Kay .
+B :  Regular chip .
+D :  Oh , is regular not simple ?
+C :  Yeah . It's for the lighting , yeah .
+B :  Lighting . Yeah if we because of the lighting that we've decided to put in as well .
+D :  Right right right .
+
+Decision10
+
+A :  Okay , and cases . Um , does this , is this dependent on shape , or what it's made of , or what ?
+B :  So th I think this is just like gonna be the a very outer case , which we will decide on rubber .
+C :  Yeah .
+A :  Yeah . Well , I guess plastic and coated in rubber . Plastic with rubber
+B :  Rubber . Yeah . Plastic rubber coat .
+C :  Yeah plastic coat .
+A :  coating and interchangeable
+B :  Interchangeable , yeah . Still going for that . Yeah .
+
+Decision11
+
+A :  um yeah , interchangeable plates . Okay .
+
+Decision12
+
+A :  User interface concept . This is your time to shine .
+C :  We decided on the component . I , I I'm sorry , I've lost my um PowerPoint thing , so I can't remember what it's ca it's the component
+B :  Your screen ?
+D :  Think it was called command interface .
+B :  Was it
+A :  Oh , yeah . Yeah .
+D :  Command interface , .
+C :  The command inter
+A :  Command interface .
+B :  Ouch .
+C :  The command line interface yeah .
+A :  Did you say command line ? Okay .
+C :  Yeah .
+A :  Line interface .
+
+Decision13
+
+C :  I think that is well we haven't really made any decisions about
+D : A : C :  what we're gonna do about the cluster of button functions , colours and forms , in the in consistent use . Like what what are ideas to combat these problems ? You know how um different interfaces are very different , and can be confusing because because of their difference , and because of the different clusters of buttons that they have .
+A :  Um Mm-hmm .
+C :  We haven't really decided what to do about that .
+A :  Um , what are our choices here ?
+C :  Well it's just um w where where shall we locate the buttons . What kind of functions wi shall we have ?
+A :  You mean like we'll have the numbers of the channels , and we'll have the channel-changer , and volume , and power ?
+B :  The power . Volume .
+D :  Mm-hmm .
+C :  So pretty just just the basic button functions .
+A :  Um Yeah . Like I don't know if we should go into like adjusting light levels , things like that , because different televisions will have
+B :  May yeah . Tone , contrast , and things . That's a bit
+A :  Um , yeah .
+D :  That was on , um one of my presentations . About how often it was used . Do you remember that ?
+B :  Yeah , it was minima well , it wasn't the l
+A :  Yep .
+C :  Yeah .
+A :  Yeah , it was hardly ever used really .
+D :  I w Should I bring it up ?
+A :  Yeah . And most televisions will come with a remote .
+B :  Yeah . That would be good . Yeah , and surely that would be like quite specific to the individual television , so
+C :  Yeah , each television .
+A :  Yeah . 'Kay , well we know we want numbers .
+D :  The ch t Screen settings was used um zero point five times an hour . So tw twice every once every two hours . Um , and it was considered a one point five relevance , on a scale of ten . That's brightness , colour , tone , all that .
+B :  Mm . I think most of that comes like on the i individual television set itself , doesn't it ? I'm sure it has its own buttons , so you don't necessarily need to have it on remote .
+C :  You don't change that often , yeah .
+D :  Mm-hmm .
+A :  Yeah , it does . Yeah , and different televisions . Like we , I don't know if we can make a remote that would be universal to all the different kinds of
+B : C :  Yeah .
+B :  Yeah . So we're just going for power , channels , volume ,
+A :  changes like that . Volume .
+D :  The other one was audio settings . Mono , stereo , pitch . I mean I sometimes use that . Some T_V_s will have the option of like living room style , movie style , um and that , they say that's used zero point eight times an hour , which is actually somewhat high . Like almost once an hour . Um , relevance of two .
+C :  Yeah .
+B :  Mm .
+A :  Yeah . Oh . We have five minutes to finish our meeting .
+C : A :  Crap . Okay , um , let's do this fast . Um
+D : B : D :  Well that didn't some up on mine .
+A :  Should we have audio ? It only comes up on mine usually .
+C :  It w it would seem silly if we'd having anything else , just have an audio button though .
+D :  Oh .
+C :  Do you know ?
+A :  Yeah , I don't , I it's , it's a problem with the international uh appeal , I think . Um , if we have audio because we don't know how other televisions work . But we know that everyone has this and it's the same .
+C :  But we
+D :  Yeah I guess that it affects the marketing , 'cause it , mm it is a good sales ploy to say , aren't you annoyed with remote controls that have all these buttons . This one has channel , volume and your channe and your power .
+B :  I've
+C :  Yeah .
+B :  Yeah , that's it . We can just go for , make it a selling point that it is just the basic . Yeah uh I brilliant .
+C :  That could be a sales pitch .
+A :  Yeah .
+D :  Yeah .
+C :  Simple and
+A :  Yeah .
+D :  Okay .
+A :  Alright .
+C :  Yeah .
+A :  Good .
+

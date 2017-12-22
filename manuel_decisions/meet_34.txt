@@ -1,0 +1,111 @@
+Decision1
+
+A :  Yeah , let me uh interrupt you uh if you can add other facility , other feature , like uh unbreakable .
+B :  Yes .
+A :  Okay , because uh especially today , you know , you have the family and the kids , okay , and the kids throw it and they they play with their remotes and .
+C : B :  Run over it with a car .
+A :  Yes . Okay , so if you can add the feature , okay , for your uh fabric whatever in your outline design okay , with unbreakable , okay , I think that will give a lot of advantage for our product ,
+B :  Good idea . Good idea , I'll I'll uh um
+A :  if I'm not wrong . Maybe you can uh add it in that .
+B :  Yes , very good .
+A :  Okay , uh thank you Christine , and uh uh any questions or uh clarifications , or any discussion on the functional design ?
+C :  Do you have any preconceived ideas in terms of materials ? 'Cause , for example , in the unbreakable thing , doing something plastic would be harder , whereas having something like , I dunno , steel or titanium isn't really economically viable .
+B :  Hmm . Titanium . Titanium would be be heavy , too , wouldn't it ?
+D :  Titanium .
+C :  Yeah .
+B :  No , I haven't really um I wanted feedback , I think we need to rate rank these , but we'll see what your uh personal preferences are and your thoughts .
+C :  Yeah . Sure , yeah . No , I just wondering whether that you had any sort of
+B :  I like titanium . It's light .
+C :  Yeah .
+D :  Expensive .
+B :  Uh yeah but uh who who said who said we were , you know , nobody told me how mu what our financial objective is , so um
+C :  The marketing comes out .
+D : A :  Yes . Yeah so
+B :  It'd be hard to inflate something ou made out of titanium though .
+A :  Yeah the the I'm sorry because uh the last meeting we supposed to discuss about the financial thing .
+C : D : 
+Decision2
+
+A :  Okay , and it will be slim , okay , and uh
+B :  Not fat ?
+A :  Not fat .
+B :  Not fat , huh .
+A :  Okay .
+
+Decision3
+
+D :  But , I think uh there's one other thing interesting two things that are interesting is that uh from the fifteen to thirty-five year-old group , which always spends more money on trendy new things , speech recognition is requested .
+B :  Speech recognition? .
+D :  And we're talking between seventy-five to ninety percent of this group is willing to pay for speech recognition on a remote .
+A :  Mm-hmm .
+D :  Obviously , we can't make a remote into a computer , but maybe simple commands . I dunno , louder , softer , on , off . That might be a possibility , even though it costs more , to be the first on the market to produce this .
+A : D :  Thirty-five percent say they're too difficult to use . So we have to figure out a way of making it um more user friendly . Uh fifty percent say they can't find the remote half the time .
+B : D :  So maybe one word speech recognition commands , say remote , and there's a beep beep beep , and they can find it through , you know , ten tons of newspapers , magazines , whatever you have at home .
+A : D :  But , in the cost that uh the management is looking for , that's not gonna be possible . But if it's trendy , if it's fancy , it's got some colour to it , if it's very easy easy to use , if it's got simple remote speech remote uh control , like I said , louder , softer , change channel , on , off , remote , it goes beep beep , I can find my my remote without spending half a day looking for it and getting all upset 'cause I can't turn the T_V_ on . So we're gonna have to look at it in a in this global idea , with the ideas of the industrial uh design .
+A : D :  But , price obviously we have to talk about .
+A :  Yep . So what do you think about uh the design ? Do you think you can make it or uh
+B :  D uh I'm sorry ?
+A :  What do you think about uh the design , uh what he was talking about of the speech recognition ?
+D :  Speech recognition .
+B :  Well , uh training is always an issue with uh commands .
+A :  Mm-hmm .
+B :  So um might uh we can perhaps um do it if the user is willing to spend some time in the training process , uh it could reduce th th uh the overall um cost . Not sure how . But um anyway , um I I think also that uh this might impact the battery life . And um so , maybe what we'll have to do is um add something where you can um recharge it wirelessly so that uh y you know sen send power to it . So uh or maybe uh set it out in the sun and it uh , you know , gets uh , from the light , um a a solar cell inside there so that uh you have enough uh juice to do all these fancy things .
+C :  Hmm . It seems also like with the speech recognition , yeah , it's a great feature , but if you're watching T_V_ , there's a lot of ambient sound , and it's words . It's not just , you know , noises like something hitting . It's actual speech , so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech . Otherwise , you can say remote . But if someone on the screen is saying the same thing , all of a sudden , you have someone in a movie saying off and your screen dies ,
+B :  Off .
+C :  because they've triggered the remote control and it's turned off your T_V_ . So , I think if we can find a speech recognizer that can handle those types of problems , then yeah , it'd be a really good marketing gimmick . But , I think we seriously need to consider how that would impact
+D :  Mm .
+C :  the situation .
+B :  Very good point .
+D :  Because tha w with speech recognition uh th I'm not that good at that idea but th
+C :  Mm-hmm .
+D :  if it's a one-word recognition , 'cause I know with telephones and cars and things I've seen in the States , a friend of mine says call Mom , and it calls up Mom .
+C :  Yeah . Yeah .
+D :  'Kay the radio can be on and everything .
+A :  Yep .
+D :  Because I think s with speech recognition , if uh the the remote or like the telephone it has a exact word that it has to hear .
+C :  Mm-hmm .
+D :  I don't think it would come through a sentence in a television . If somebody's speaking on the se the television , they're not gonna stop and say remote , okay .
+C :  Mm-hmm .
+D :  So I think that uh something could be designed to recognise single word
+C :  Oh yeah . Yeah .
+D :  Like the t like the telephone .
+C :  No , I think it's a great idea if we can design it to to suit those requirements .
+D :  No because I this is this is years ago in the United States where we're driving down and he said call home , and the telephone called immediately so well , that's kinda cute .
+C :  Yeah .
+
+Decision4
+
+C :  So my personal preferences are to keep the number of buttons to a limit , or to a minimum , sorry , make frequently used buttons bigger and more strategically placed , so like the on button being really obvious one , the channel changing and the volume , and to keep the design basically sleek and simple .
+A :  Click mm .
+
+Decision5
+
+C :  Should we maybe make a decision about what features we actually want to include , 'cause we've thrown a lot of features onto the table , but
+A :  Yeah .
+C :  do we actually want to incorporate all of them , or have we missed anything ?
+D :  Hmm .
+B :  Do you wanna go back and look at the closing slide , maybe that would provide some guidance ?
+C :  Sure .
+B :  Doesn't really tell us .
+A :  So not really this one we are talk ab
+D :  Individual actions .
+B :  Well it says individual actions , it says user interf so I'm supposed to do the components concept ,
+A :  Yep .
+B :  supposed to work on the user interface concept , and you're supposed to keep watching the trends .
+C :  Mm-hmm .
+B :  Um and specific instructions will be sent by our our coach . I think we should do as many features as uh start with all of them right now and eliminate them later in the process , that's my suggestion .
+C :  I thought
+A :  Okay , that will be great . And uh I'll send you the the minutes of meet
+B :  You can object if you want to
+C :  No , I I'm just thinking in terms of time , like if
+D :  She's objecting .
+C :  Yes , now I'm objecting . No , I mean , I was just thinking is it really practical to start designing something with features that we're just gonna end up throwing away ? I mean , it takes a lot of time and effort for everyone to consider different features , um
+A :  Yeah .
+C :  and s if we spend that time and effort on features that we're not gonna use , maybe it's better to spend it on the f thinking more about features that we actually do want , but
+D :  Oh th we s we still have
+B :  I think we should take that as an action item for after the meeting , 'cause w our meeting time has run out . Somebody else has go to use this room , and , you know , we can't hang out here and talk about this , so
+C :  I guess
+D :  Yeah . Right .
+C :  Sure . Yeah . Yeah . Sure .
+A :  Okay , what we'll do is now we'll take for lunch break , okay , then uh we can discuss furthermore , okay , with our areas , and uh then we will come back again in the in the next meeting .
+

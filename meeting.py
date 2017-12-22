@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-class meeting:
+class meeting(object):
 
     def __init__(self,_corpus_type, _metting ):
         self.meeting = _metting
@@ -48,6 +48,14 @@ class meeting:
     def get_file_name(self):
         _meeting_id = self.get_meeting_id_by_name()
         return  self.root_resources[_meeting_id].attrib["observation"]
+
+    def get_meeting_name_byFile(self, file_name):
+
+        for child in self.root_resources:
+           if child.attrib["observation"] == file_name:
+                return  child.attrib["{http://nite.sourceforge.net/}id"]
+
+        return
 
     def get_segments_files(self):
 
@@ -124,6 +132,8 @@ class meeting:
         if tempo.count('(') ==2:
             tempo = tempo[tempo.index(')') + 1:]
             finish_word = tempo[(tempo.index('..id(') + len('..id(')):tempo.index(')')]
+        else:
+            finish_word = None
 
         return (start_word, finish_word)
 
@@ -151,6 +161,7 @@ class meeting:
         return _phrase
 
     def get_Word(self, start, word_root_speaker, speaker):
+
         for word in word_root_speaker:
             if word.attrib['{http://nite.sourceforge.net/}id'] == start:
                 return word.text

@@ -1,0 +1,130 @@
+Decision1
+
+A :  Yeah , so maybe it's a good time for me to uh to bring you to some new uh new informations . We had the new requirements from the so uh from the head offices of the company , and so they wanted so they want to um they would like to be restricted to T_V_ .
+B :  Yeah .
+A :  Okay , I dunno if you had this information already . No , so they want us to restrict the remote control to T_V_ only because of time limitations .
+
+Decision2
+
+A :  and uh finally , it should be clear that the corporate image , that means colours and logos of the co our company should be clearly inde identified in the product .
+B : 
+Decision3
+
+B :  But um the thing that I find most interesting about this remote control , and it's kind of difficult to uh to see in the slide , but it has a scroll wheel on it , which is kind of like uh a mouse scroll wheel , which I think is it's a really kind of important design aspect um is it's 'Cause the thing is what a what we the presen this presentation we had is what we want the remote control to actually do . And obviously the the simplest thing that a remote control does is it just change the change the channel . Now um
+C :  Change the channels . Yeah .
+B :  uh the I think that a scroll wheel is actually pretty a pretty handy way of of changing the channel . 'Cause I know when I um when I use the remote to change the channel I very rarely use the numbers on the on the pad . I usually use the up and down because most channels are you know two digit numbers and you have to press you know a special button to enter a two-digit number , and then two numbers , so that's just uh it's annoying . So I think a scroll wheel is is quite handy .
+C :  Mmm-hmm mm-hmm . Yeah yeah .
+
+Decision4
+
+C :  So most of the things which we are discussing about is speech recognition uh , that means on my own I yeah , it should be .
+A :  This one ? Great . No , not that one . you are two .
+C :  Two .
+A :  Alright .
+C :  Okay so the working design is uh user i interface could be of two types , one is the usual press buttons which are there so that the user feels that he is knoing doing some he is knowing about that technology . So he is pretty comfortable if he wants to get this , and on top of that there there could be a speech recognition technology also being sitting on the on the remote . So the old kind of users who don't want to have any changes , it can it can be useful for them , and the new users , as uh our Marketing Expert was saying , they can use the new gizmo which is speech recognition kind of thing .
+A :  Okay , sorry to interrupt you , but we have seen before that there is a new way of interacting that use wheel .
+C :  That's right . So anyway , that didn't come into my mind , so th that is a possibility . These could be other kind of interfaces . Means we can have , depending on the cost , how much we can afford , we can have different kind of interfaces . So spe buttons are something which is very everybody is familiar with . So if you go to the market and you say that buttons are there the people know what it is , and on top of that if we are having extra functionality people are willing to shell that twenty-five Euros money which we are thinking .
+A :  Okay . Mm-hmm .
+C :  Otherwise we are just like others in the market . So anyway that is the first , user interface could be of more than one type , and uh yeah that means we can do the on-line changes which which cannot be done now actually . So apart from the speech , we can have the scroll kind of thing with the buttons . Now for buttons , normal requirements like bit coding and all those things are required . And for voice , limited vocabulary automatic speech recognition system is required and we require a microphone also to be sitting there on the remote .
+A :  Yeah . That increases the the cost also .
+C :  Uh that's right . But uh means we have to see how much what kind of microphones and stuff like that .
+A :  Do you think that performance of such systems are enough to to target well of such technologies is enough ?
+C :  Uh yes , if it is limited vocabulary usually it's enough .
+A :  Okay .
+C :  Yeah we we can uh target , means we can target ninety five percent accuracy or somewhere ninety seven perc
+A :  Well wh uh I imagine also that the microphone will be an ambiance um a um an ambience microphones because you are not going to speak into into th into the remote control . So it could be s a few centimetres .
+B :  Hmm .
+C :  That's right . No it it could be little d yeah it could be
+B :  Well one one other thing that that speech recognition could really blow out the price for is uh when you want to sell into other markets , though , because , I'm not sure exactly where we're gonna sell this , but I presume it's not gonna just be English speaking countries . So then you have to s you know , you have to train models for
+C :  That's right . That's right .
+A :  Yeah .
+C :  Mm-hmm mm-hmm . Uh it's more like , means there are different speech technologies which are existing so D_T_W_ could be kind of which is the easiest . So you have to store some templates on the on the on the chip itself , and it's just dynamic time warping where you try to find out what it is , instead of having a model which has to be trained and being a micro-controller .
+B :  Yeah .
+A :  Okay . Okay we shou we should discuss this la later after after after this this uh slide . This is a this is a this is a a very important uh issue in discussion .
+
+Decision5
+
+A :  So your your opinion is that we should go for special condition technologies ?
+C :  Because yeah the reason is that if we go into the market means though I don't have much idea , but as he the uh Marketing Expert presentation was
+D :  I'm sure if you can sell a a speech recognition remote control for twenty five Euros everyo everyone will s will buy it .
+B :  Actually I'm not so sure because I'm the you know if I was using a remote control to , say , turn the volume up because I can't hear it very well , I don't really want to you know drown out what people are saying by talking you know when I'm when I'm instead of pressing up on on a remote control . You know if there's some there's some dialogue all of a sudden that I can't hear , I'm trying to actually find out what's being said , so maybe speech recognition gets in the way more than it helps .
+C :  So if we go with just the
+D :  I'm sure .
+A :  Yeah . Okay so
+D :  Yeah but you know the the average frequency of pushing buttons , it's about
+B :  Well it depends if it's a remote control th
+D :  it's about eighty eighty eighty pushes per hour , or something like that .
+B :  Maybe if the remote control is something that y you don't actually have to pick up anymore , that would be a a useful feature of the speech recogntion . If you can leave it sitting on the table and you don't actually have to find it , then that could be .
+D : C :  Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm .
+
+Decision6
+
+A :  Okay gentlemens , we have to take some deci decisions right now . Um so if I if I kind of summarise everything we've de we we said . We are targeting T_V_ .
+C :  Alright .
+A :  We need we need to have um um remote control which is fanc fancy , which is uh which is easy to to hand not too small , not too big . Um we have or good shape , yes . We should bring new technologies for young peoples , and uh as we have uh also requirements to to use uh to to push thr toward the internet . Maybe this is something we can stick to it .
+D :  With a good shape for the
+A :  And um also , a very interesting things I I I've seen on on on the one of the comp o our competitor is this wheel that we can use to navigate .
+
+Decision7
+
+A :  So so my feeling is that re regarding costs budget we have an an an target price , it's not possible to go s to go to L_C_D_ and also to go to automatic speech recognition technologies . Uh first m m why not to go to L_C_D_ . Because um in fact as we are targeting uh T_V_ in fact we can use T_V_ screen as a screen to feedback to to give some feedback informations about what we could have .
+B :  Well it depends though well it depends . If we we don't unless we have some input some video input to the T_V_ or we have control over the T_V_ then we can't actually display that . Like if we if we produce the T_V_s then then yeah we can put you know menus up up there , but otherwise we need to actually have some kind of something sitting in between the video signal and the and the T_V_ to superimpose those those menus . So that's an extra
+A :  Yeah that's right . Don don't you ha don't we have contacts with uh people on T_V_ or or well systems that exist that we can use ?
+B :  cost . Well this is this is another que we still haven't really defined the remote . Are we still you say we're focusing on T_V_ , but is it still a kind of like a universal remote in that it's a replacement remote control , or is this something for our own line of of televisions ? 'Cause that really makes a big difference . 'Cause even if we have contacts we can't really produce a remote control that can bring up menus on other other companies' T_V_s . It's just there are too many T_V_s out there . It's it's not really gonna
+A :  Yeah . Yeah . That's good point . What's what cou what could be the cost of uh well , could we fit the the targets uh in terms of cost uh if we go s to L_C_D_ on the remote control ?
+B :  For twenty five Euro ? I think it's impossible . But but I dunno , I think um it would be good to know if there is any leverage in that any leeway in that um that twenty five Euro because for twenty five Euro I think all we can really do is provide a very basic remote control , and that seems to be kind of against the philosophy of our company which is you know putting the fashion into electronics . So I would I would like to know if there's any chance of of increasing the uh
+A :  Yeah .
+C :  It's not possible . It's impossible .
+D :  Yeah . Uh
+B :  of increasing the unit price .
+D :  What would be
+A :  So you mean yo you mean we we should target something maybe which is which would be more expensive but re really fancy in terms to um in terms to had to have really an added value ? Okay , so regarding the automatic speech recognition , I think this is
+B :  Yeah . Yeah . Yeah because yeah .
+D :  Wha but what would be one question , what would be the goal of putting an L_C_D_ in a remote control ?
+B :  Well th
+D :  What what kind of information ?
+B :  'Cause you can have things like the programme name instead of the channel numbers , like an interactive programme guide .
+D :  Yeah but mo most of the T_V_s nowadays show the show the
+A :  They have tele teletext . Well , because they have teletext on it . Th th you have a teletext sin signal that you can that you can uh that you can get thr through the channel .
+D :  the n Yeah but yeah most of the T_V_s have teletext nowadays .
+A :  They have t most of them have teletext , but we want to get rid well one of our requirements is to uh to move to teletext to uh to the use of internet . So to to uh
+D :  Yeah .
+B :  You can get a lot more information on it .
+A :  to browse more easily the teletext . For instance through uh through your remote control .
+D :  So what would what would appear in the in the L_C_D_ ?
+B :  So you could have the name of the programme , you could have um the start time you know where it's up to .
+A :  The ti the start time , all the p all the programmes you could have uh o
+B :  You could have a l even a little image of you know the c you know the the m the main actors or something so you can quickly just kind of even without reading
+D :  Okay .
+A :  Well I don't know if this information is available from teletext , also .
+B :  Well no , but there are the electronic programme guides out there . They may not have pictures , but maybe they do . There's dependi it also depends on the country .
+C :  Are
+A :  Well because for the same reason that we cannot uh informations on the T_V_ . We c we couldn't grab information information which is not there .
+B :  No but I mean with the internet you have flexibility of where you get your information from . So it may be possible that there are people out there providing that . Uh .
+A :  So so that mean w w we need an in an extra internet connection to use the remote control , if you want to browse , in addition to the T_V_ , or uh or it should be a special T_V_ connected to
+D :  But Yeah .
+B :  Well I I think if we're gonna I think we would definitely need the internet connection because even with y I don't think you could even get teletext information from the T_V_ onto the remote control , especially if we don't control the T_V_ . I dunno . We need to find that out .
+A :  Okay . We need to close the meeting . Um so
+C :  But just a small thing , what kind of market we are targeting ? Is it that we are targeting the replacement remote market , or what ? So the remote has gone bad and the person wants to buy a new remote or because the cost of L_C_D_ thing could be as high as the T_V_ itself . That is very important .
+A :  Very quickly . No . Yeah , well people go to buy another remote control when they broke n broke their , and they want to go t for universal one , and they take the fanciest they can have . So this is that we z that that we should target .
+B :  Mm . If it's a really small T_V_ maybe .
+C :  Broke . Okay . Okay . Okay . Okay . Okay . Okay .
+A :  So the com the um the uh the committment is the following , we don't go for speech recognition technology . The L_C_D_ is still on disc is still open to discussion . It is up to you to go through this um uh this way and to to report report me back next meeting . So
+C :  Mm-hmm .
+D :  I think that the speech recognition technology would be cheaper the than the L_C_D_ .
+C :  It's it's cheaper as compared to the L_C_D_ .
+A :  Yeah , but not sure . Maybe it's cheaper , but we have no
+D :  Because with the L_C_D_ you need more requirements . You need a internet connection . You need m more things . But
+B : D :  for the speech recognition you you don't need anything . You just say channel fifty , and that's it .
+B :  Well the thing is I think I think the type of peop I think the type of people that are gonna want to buy a very stylish rem r remote control with lots of new technologies are the kinda people that are gonna have you know a wireless internet connection maybe , or a you know .
+D :  But then we should move to another target b because at twenty five Dollars , it's
+C :  Means th yeah twenty five Euros is yeah , that's right .
+B :  Well this is what we need to find out . Can we can we increase the the price point of this remote control ? 'Cause otherwise we need
+A :  Okay this is this is an open question for you . Yeah . This is uh up to you to tell us . But I'm definitely not keen on to to no no no , I'm no I'm definit definitely not keen on going to speech recognition technologies . I'm not confident enough . I'm not sure that that we'll have a product really that work . I uh that work
+D :  To move to another target ?
+B :  It's kind of hard to guarantee that you're gonna
+A :  It's real yeah . How to guarantee such performances is really hard .
+B : D :  the expert uh said ninety five percent .
+C : B :  Ninety five percent is not good enough though .
+A :  Well this is still is is very bad . So , this is the end of this discussion .
+
