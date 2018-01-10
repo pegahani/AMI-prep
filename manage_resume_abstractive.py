@@ -37,14 +37,14 @@ class abstractive(meeting):
         return
 
 
-def get_decisions_list():
+def get_list():
     path = '../../AMI/ami_public_manual/abstractive/'
     files = [f for f in listdir(path) if isfile(join(path, f))]
 
     return files
 
 
-for file in get_decisions_list():
+for file in get_list():
     print file
     d = abstractive(file)
     d.get_abstractive_resume()
