@@ -25,8 +25,6 @@ class abstractive(meeting):
         self.meeting = self.get_meeting_name_byFile(self.file_name)
         self.get_root()
 
-        print self.meeting
-
         file = open('./manual_resume_abstractive/' + self.meeting + '.txt', 'w')
 
         for child in self.root_abstract:

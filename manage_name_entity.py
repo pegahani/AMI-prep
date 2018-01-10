@@ -77,9 +77,9 @@ class manage_name_enity(meeting):
             (start, stop) = self.get_words_interval_for_speaker(words_included)
 
             if stop != None:
-                file.write(self.get_word_interval(start, stop, root_words_speaker) + ' : ' +  self.find_entity_type(entity_type)+ '\n')
+                file.write(self.get_word_interval(start, stop, root_words_speaker) + ' : ' + self.find_entity_type(entity_type)+ '\n')
             else:
-                file.write(self.get_Word(start, root_words_speaker, speaker) + ' : ' +  self.find_entity_type(entity_type) + '\n')
+                file.write(self.get_Word(start, root_words_speaker, speaker) + ' : ' + self.find_entity_type(entity_type) + '\n')
 
         file.close()
         return
