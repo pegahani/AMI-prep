@@ -1,0 +1,33 @@
+
+abstract : 
+One team member presented her proposal regarding the room designations of the new space.
+In her proposal, professors received private offices, administration was close to the professors' offices, and most people were grouped by project.
+A second team member presented a proposal on the same topic.
+In his proposal, there was a lounge containing workspace for two people, an admin office which Giselle had to herself, a number of people shared offices with their assistants, and visitors were placed among students.
+The group discussed and made decisions regarding the placement of professors with students, the purpose of a lounge area, the possibility of putting up partitions in the lounge, the placement of Gisella and visitors, the option to have a reading room, and how to arrange furniture in some offices.
+
+actions : 
+One of the team members will come up with some numbers regarding the room assignments in comparison to other comparable departments.
+One team member will circulate the final proposal
+
+decisions : 
+The lounge will be a separate room without any workspace.
+Other offices will be packed with occupants so that there is no spill-over into the lounge.
+Gisella will get a separate office.
+There will be a reading room.
+Pierrette and Martin will be in offices with one other person, not two.
+Pierrette will share an office with her assistant.
+There will be a room available for a professor and his assistant or student.
+Bruno and Nancy will share an office.
+Martin will share an office with one of the team members in the meeting.
+Agnes, Marianne, and David will share an office.
+
+problems : 
+How to accommodate the future growth of the department.
+Whether to place visitors among students or researchers.
+Whether to place professors with their PhD students.
+How to separate the lounge from the workspace inside the lounge.
+The lounge may get quite loud and this will disrupt those using the workspace inside the lounge.
+Whether the lounge will actually be used by people.
+How to accommodate visitors.
+Whether it is necessary to have a reading room.

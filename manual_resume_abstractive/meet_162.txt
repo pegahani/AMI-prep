@@ -1,0 +1,18 @@
+
+abstract : 
+When the meeting opens the project manager gives the agenda and says they need to choose a movie to project at the end of the month as well as decide on the content of advertising posters.
+"The Usual Suspects" and "The Sixth Sense".
+He lists some facts about each and explains what they are about.
+"The Shawshank Redemption", "The Usual Suspects", "Schindler's List", "Pulp Fiction", "Goodfellas", "Silence of the Lambs", and "American Beauty".
+The group discusses each of the movie nominations, and they eventuually choose "American Beauty".
+
+actions : 
+The group will meet again on April 29th.
+The first Monday of May they will see peoples' reactions and ask what movie genre they want.
+In June they will restart
+
+decisions : 
+The movie they will project is "American Beauty".
+
+problems : 
+When selecting the movie, many of the group members had not seen the movies they were discussing and thus had to rely on the account given by others.

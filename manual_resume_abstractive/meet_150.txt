@@ -1,0 +1,38 @@
+
+abstract : 
+For the conceptual design, the ID suggested to use kinetic dynamo as energy source.
+The decision veered towards the basic battery option with no recharging station.
+They also decided to go for a single-curved design.
+The available materials for the casing are plastic, wood, rubber and titanium.
+Possible interfaces are push buttons, scroll wheels, and LCDs. The inclusion of advanced features, like LCD screen and speech recognition, can only be speculative, because the team have no pricing information.
+The UI presented two provisional designs, standard and luxury.
+The latter has an LCD screen at the top.
+They are both rectangular with a curve grooved in where the finger rests.
+There are two lights to help find the remote, all the standard buttons and speech recognition.
+The marketing expert talked about the public's preference for looks over technological innovation; however, they both seem to be more important than ease of use.
+The current fashion among younger people favours bright colours and fruit and vegetable themes and spongy materials: pertinent exchangeable fronts can express such trends on the remote.
+Based on the UI's drawing, they designed another version shaped slightly like a banana, and discussed the positions of buttons and all other components.
+
+actions : 
+The interface and the industrial designer will work together on the drawing of the prototype.
+The ME is going to do the market analysis.
+The PM needs to finish the project report.
+
+decisions : 
+The remote will get energy from a basic battery with no recharging station.
+They also decided to go for a single-curved design.
+If an LCD screen is actually used, the advanced chip will also be needed.
+The material for the case will be rubber.
+The buttons are going to be round in shape with volume and channel control being triangular.
+There is also going to be a square menu button in the middle.
+The remote is either going to be black with yellow buttons or the other way around; these two are the company colours.
+Based on the UI's drawing the team decided that the LCD is going to be placed on top.
+There are two lights to help find the remote, all the standard buttons and speech recognition.
+
+problems : 
+There were doubts whether a kinetic dynamo can offer enough energy, especially if an LCD is added to the remote.
+The usefulness of scroll-wheels for such a device is debatable, as they can probably only be used for volume control, but they would not be appropriate for zapping.
+The inclusion of advanced features like LCD screen and speech recognition can only be speculative, because the team have no pricing information at this point.
+The rectangular general form suggested in the design could be at odds with the current trends of natural themes.
+On the other hand, such trends are very transient.
+The use of the sample speaker and sample sensor and whether they allow the device to create sounds were not entirely clear.
