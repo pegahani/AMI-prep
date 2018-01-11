@@ -1,0 +1,295 @@
+to --> C,B
+dialogue type : Suggest
+A : Okay . So first , let's uh see the prototype .
+
+to --> A,D,B
+dialogue type : Inform
+C : And so , we have buttons and using L_C_D_ , or like you can use this jog wheel and select which ever option on the L_C_D_ , and then do on and off .
+
+to --> 
+dialogue type : Inform
+C : So , you you can press these buttons to increase or decrease the volume .
+
+to --> A,D,B
+dialogue type : Inform
+C : And we have speech recognition .
+to --> A,D,B
+dialogue type : Inform
+C : Here you have microphone , and then it date records your voice , and then it try to recognise .
+
+to --> 
+dialogue type : Comment-About-Understanding
+D : Oh , these are strawberries .
+
+to --> A,D,B
+dialogue type : Inform
+C : Material , we want to stick to titanium .
+
+to --> A,D,B
+dialogue type : Inform
+C : So , we want to have simple and perfect shapes , like I shown in these phones .
+
+to --> A,D,B
+dialogue type : Inform
+C : And you can choose colours on your day for each day , or even many colours .
+to --> A
+dialogue type : Inform
+C : For the L_C_D_ .
+
+to --> C
+dialogue type : Elicit-Inform
+A : wh what are the strawberries for ?
+
+to --> A
+dialogue type : Inform
+B : That's location sensors .
+
+to --> D
+dialogue type : Suggest
+A : let's see if uh th it's meet the evaluation criterium .
+
+to --> A,C,B
+dialogue type : Inform
+D : so what I propose is that we are going to to have this scale from one to seven .
+to --> A,C,B
+dialogue type : Inform
+D : One meaning that , ye yes uh it fulfils uh the the criterion , whatever it is .
+
+to --> A
+dialogue type : Elicit-Assessment
+D : what do you think , is it fancy ?
+
+to --> 
+dialogue type : Other
+D : So here , two . Up .
+to --> A,C,B
+dialogue type : Inform
+D : Then we have uh technology .
+
+to --> A,C,B
+dialogue type : Assess
+D : d I think it's a one for that , at least .
+
+to --> A,C,B
+dialogue type : Inform
+D : Robustness , uh-huh .
+
+to --> 
+dialogue type : Assess
+A : It's um robust , yeah .
+
+to --> A,C,B
+dialogue type : Elicit-Assessment
+D : Well , so the question is does it have uh the minimum requirement of re remote control ?
+
+to --> D
+dialogue type : Inform
+B : The basic mode is uh you got just two buttons and a jog dial .
+
+to --> D
+dialogue type : Inform
+B : And if you want to make to s twenty-five , you push on this .
+
+to --> B
+dialogue type : Assess
+D : It's much longer than that that being two two five , no ?
+
+to --> D
+dialogue type : Inform
+C : we only address two main functions here
+to --> D
+dialogue type : Inform
+C : and the other functions will be on L_C_D_ . So
+
+to --> A
+dialogue type : Inform
+B : It's a jog dial for controlling the cursor on the L_C_D_ screen .
+
+to --> A,C,B
+dialogue type : Inform
+D : Okay , two .
+to --> 
+dialogue type : Inform
+D : So size and weight .
+
+to --> A,C,B
+dialogue type : Inform
+D : Up to three for that ,
+
+to --> A,C,B
+dialogue type : Inform
+D : Colour and shape .
+
+to --> D
+dialogue type : Inform
+C : The case is silver titanium , no ?
+
+to --> D
+dialogue type : Elicit-Assessment
+A : And what about the strawberries on the top ?
+
+to --> A,D
+dialogue type : Inform
+C : We're just giving the fruit for more fanciness and more attraction , too .
+to --> A,D
+dialogue type : Suggest
+C : So , maybe think we can have rubber or some sponges , stuff for strawberries and different colours .
+
+to --> A,D
+dialogue type : Suggest
+C : Even we can provide many different colours or different fruits , and
+
+to --> A,C,B
+dialogue type : Inform
+D : I suggested three .
+
+to --> A,C,B
+dialogue type : Inform
+D : And uh the last one is adaptive .
+
+to --> D
+dialogue type : Inform
+A : Okay . Let's go for one .
+
+to --> A,C,B
+dialogue type : Inform
+D : Now we have to do the average .
+
+to --> A,C,B
+dialogue type : Inform
+D : Two point one seven .
+
+to --> D,C,B
+dialogue type : Inform
+A : So now , it has to fulfil the financial criterium ?
+
+to --> A
+dialogue type : Inform
+C : We need only one battery .
+
+to --> A,D,B
+dialogue type : Inform
+C : We have sample chip .
+
+to --> A
+dialogue type : Inform
+C : And then we have the t sample speaker sensor for speech recognition .
+
+to --> A,D,B
+dialogue type : Suggest
+C : Yeah , I think we will go for a single curve ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Titanium .
+
+to --> C
+dialogue type : Elicit-Inform
+A : How many push-button ?
+
+to --> 
+dialogue type : Backchannel
+D : Two .
+
+to --> 
+dialogue type : Inform
+A : The scroll-wheel , okay .
+
+to --> A
+dialogue type : Inform
+C : One L_C_D_ displayed .
+
+to --> A,C,B
+dialogue type : Inform
+D : So we are at seventeen dot eight .
+
+to --> D,C,B
+dialogue type : Elicit-Offer-Or-Suggestion
+A : So think of what we can cut uh here .
+
+to --> A,D,C
+dialogue type : Inform
+B : I mean , producing electricity from mechanical energy .
+
+to --> 
+dialogue type : Inform
+B : to make electricity .
+
+to --> A,C,B
+dialogue type : Assess
+D : So , but if we select the hand dynamo it's okay ,
+
+to --> 
+dialogue type : Inform
+D : We we win one .
+
+to --> A
+dialogue type : Suggest
+B : So , put minus one there , please .
+
+to --> B
+dialogue type : Assess
+D : I'm not sure if this is legal .
+
+to --> A,C,B
+dialogue type : Inform
+D : Okay , we're uh on target .
+
+to --> 
+dialogue type : Assess
+D : Project evaluation , good .
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : Mm . See mm how Are we a good team ? Mm .
+
+to --> B
+dialogue type : Elicit-Assessment
+A : Is there enough room for creativity ?
+
+to --> A
+dialogue type : Assess
+B : Yeah , yeah .
+
+to --> A,C,B
+dialogue type : Assess
+D : Team-work , very strong , I would say .
+
+to --> B
+dialogue type : Assess
+D : I think white-board is useful .
+to --> A
+dialogue type : Assess
+D : Digital pens , useful .
+
+to --> A,D,B
+dialogue type : Inform
+C : Ah , we got new idea , speech recognition , location finding . New materials , new s uh this fancy strawberry design .
+
+to --> A,D,B
+dialogue type : Inform
+C : And we want to do the location basically using speech recogniser .
+
+to --> D
+dialogue type : Assess
+A : I'm not convince .
+
+to --> A
+dialogue type : Inform
+D : Well y you know , it's this uh fruit and vegetable year .
+
+to --> D,C,B
+dialogue type : Inform
+A : Apparently , we have to choose one or the other .
+
+to --> A,C,B
+dialogue type : Inform
+D : if I look at what is the most expensive things , uh it's the L_C_D_
+to --> A,C,B
+dialogue type : Inform
+D : and the speaker .
+
+to --> A
+dialogue type : Elicit-Inform
+D : Are we supposed to cut things out now ?
+

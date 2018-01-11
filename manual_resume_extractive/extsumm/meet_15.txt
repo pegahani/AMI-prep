@@ -1,0 +1,579 @@
+to --> 
+dialogue type : Suggest
+A : let's start our second me meeting on conceptual design .
+
+to --> ,A
+dialogue type : Inform
+A : and we will have three presentations
+to --> ,A
+dialogue type : Inform
+A : and we'll have to decide on the remote control concept
+
+to --> ,A
+dialogue type : Suggest
+A : I I think I will let uh our User Interface Designer speak first , Mister David Jordan .
+
+to --> 
+dialogue type : Inform
+C : Um there's three concepts in the user interface .
+to --> 
+dialogue type : Inform
+C : So first one it's a Google controller .
+to --> 
+dialogue type : Inform
+C : The second is a fancy controller .
+to --> 
+dialogue type : Inform
+C : The last one is uh intelligent controller .
+
+to --> 
+dialogue type : Suggest
+C : I want the controller to be easy to use , but with sophisticated functions .
+
+to --> 
+dialogue type : Inform
+C : the first is Google controller .
+
+to --> 
+dialogue type : Inform
+C : The second concept is a fancy controller ,
+
+to --> 
+dialogue type : Inform
+C : we want give the customers the impression that our controller is very attractive ,
+
+to --> 
+dialogue type : Suggest
+C : the u the user f the the u user interface should be very very cute , very very g um
+
+to --> 
+dialogue type : Inform
+C : Such like this , there are several uh examples in the slides .
+
+to --> 
+dialogue type : Assess
+A : I'm not sure the one in the middle is very attractive .
+
+to --> ,A
+dialogue type : Suggest
+A : We'll have big discussion I suppose after that ,
+
+to --> 
+dialogue type : Inform
+C : the last uh concept is intelligent .
+
+to --> 
+dialogue type : Suggest
+C : so maybe we should uh use um uh
+to --> 
+dialogue type : Suggest
+C : technology , such as speech recognition technology and gesture recognition technology ,
+to --> 
+dialogue type : Suggest
+C : so we need to have coop some cooperation with some research institute on speech recognition and um gesture recognition . Um
+to --> 
+dialogue type : Inform
+C : With this advanced features we I think we can attract a lot of user .
+
+to --> 
+dialogue type : Inform
+A : because for the intelligent controller , you said that we can use the voice recognition or the gesture recognition ,
+to --> 
+dialogue type : Inform
+A : but as the um expert told us , most of the people want to use the remote control to zap t to zap between channels .
+to --> 
+dialogue type : Elicit-Inform
+A : Do you think they will be able to use gestures ?
+to --> 
+dialogue type : Assess
+A : Because , if they do all the time the same gesture , as you said previously in the last meeting , maybe they will get injuries because of that ?
+to --> 
+dialogue type : Assess
+A : or if you say channel three channel three two three four six five , I think they will be bored after a while .
+
+to --> 
+dialogue type : Assess
+C : Uh I think some time it's very uh convenient to use voice interface and gesture interface than use button .
+to --> 
+dialogue type : Inform
+C : For example , if you cannot find your uh controller , you can just uh just just uh speak something such as , yeah , one two .
+
+to --> 
+dialogue type : Inform
+A : but suppose you got a cold . You have a mute remote controller .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : but how how is how risky is it to trust like speech recognition or gesture recognition ?
+
+to --> 
+dialogue type : Assess
+C : For limited vocabulary speech recognition is very reliable and for s limited vocabulary gesture recognition is also very
+
+to --> 
+dialogue type : Elicit-Inform
+A : but suppose you have a family watching T_V_ , and if they want to use their private remote control in the same time , do you think it will work ? Everybody wanting to change channel in the same time ?
+
+to --> 
+dialogue type : Inform
+A : so they say oh channel four channel three channel four channel three all the time ,
+
+to --> 
+dialogue type : Assess
+C : that's that's the advantage of intelligent controller .
+to --> 
+dialogue type : Inform
+C : Even you h you have the controller , I can I can say channel three ,
+
+to --> 
+dialogue type : Assess
+D : No , but this is disadvant disadvantage .
+
+to --> 
+dialogue type : Suggest
+B : And mayb maybe we can have the switching mode to pass from you know voice controller to
+
+to --> 
+dialogue type : Elicit-Inform
+A : How how much will it cost ?
+
+to --> 
+dialogue type : Inform
+B : more expensive maybe .
+
+to --> 
+dialogue type : Inform
+C : we don't have to do some basic research on this field .
+
+to --> 
+dialogue type : Assess
+B : y y you have also the language problem ,
+
+to --> 
+dialogue type : Inform
+B : 'Cause it it have to be universal ,
+
+to --> 
+dialogue type : Inform
+C : The vocabulary is very small ,
+
+to --> 
+dialogue type : Inform
+A : but there is one problem that uh Baba talked about is the international
+
+to --> 
+dialogue type : Inform
+A : The recognition system will be able to understand French .
+
+to --> 
+dialogue type : Suggest
+D : this could be downloaded by the web maybe ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : And with no increase in the pri production price of the remote control ?
+
+to --> 
+dialogue type : Inform
+C : Even for each f for even for different family we have to do d yeah we would we have to do adaptation to
+
+to --> 
+dialogue type : Assess
+A : Seems to be quite complex .
+
+to --> 
+dialogue type : Inform
+C : It it just the microphone is embedded in the controller .
+
+to --> 
+dialogue type : Elicit-Inform
+A : but wha what is the use of voice or gesture recognition if you have a remote control li like this , if you have an object .
+to --> 
+dialogue type : Suggest
+A : If you want to use voice or gesture you need to be free , without any object .
+
+to --> 
+dialogue type : Suggest
+A : you so you can build a kind of black box
+to --> 
+dialogue type : Suggest
+A : and put it on T_V_ and just to recognize gestures and voice .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : do you think it should be only voice recognition and gesture recognition ?
+
+to --> 
+dialogue type : Suggest
+C : think it we should give the uh flexibility to the user
+
+to --> 
+dialogue type : Suggest
+C : You can see they can switch form one modality to another .
+
+to --> 
+dialogue type : Assess
+D : It's a bit risky risky .
+
+to --> 
+dialogue type : Assess
+B : But I think that , you know , switching from one country to to another will be a problem ,
+
+to --> 
+dialogue type : Inform
+D : I'm sure if the user pays the same price , he's happy to have recognition .
+
+to --> 
+dialogue type : Suggest
+A : I think it would be better not to do any intelligent controller
+to --> 
+dialogue type : Suggest
+A : and to stay with the Google controller or a fancy controller .
+to --> 
+dialogue type : Suggest
+A : Maybe try to mix the Google controller and the fancy controller ?
+
+to --> 
+dialogue type : Elicit-Inform
+C : stick to the first two parts . So what's the difference between our controller with other products in the market ?
+
+to --> 
+dialogue type : Inform
+C : so is there is there any necessary to design new controller without any breakthrough features ?
+to --> 
+dialogue type : Elicit-Inform
+C : Would y would you replace your controller with a controller with similar function if you do not have some some function inside it that
+
+to --> 
+dialogue type : Suggest
+B : we can add for example some function like for browsing in internet , so or something like that .
+
+to --> 
+dialogue type : Inform
+C : you y that's a fun that's not the function of the controller ,
+
+to --> 
+dialogue type : Inform
+C : but with the features of our controller such as you have the feature of voice recognition in your mobile but you seldom use it , your mobile ,
+
+to --> 
+dialogue type : Assess
+C : the feature is not one hundred percent reliable ,
+to --> 
+dialogue type : Assess
+C : but it's a feature to distinguish our product from our from other products .
+
+to --> 
+dialogue type : Inform
+A : but w we we want something th that works all the time , every day , every hour , for everyone .
+
+to --> 
+dialogue type : Assess
+D : so I I guess if can have a remote control that is really basic , simple and works fine , it's already a lot .
+
+to --> 
+dialogue type : Inform
+D : if he has something that works fine and is really fancy , looks nice and it's easy easy to use , easy to use .
+
+to --> 
+dialogue type : Inform
+C : But the there's there's n there's n not enough motivation for them to replace their old controller with a new one if there's no key feature in the new controller .
+
+to --> ,A
+dialogue type : Suggest
+A : let's go to the Industrial Designer .
+to --> ,A
+dialogue type : Suggest
+A : Maybe we'll be able to take a decision after that ,
+
+to --> ,A
+dialogue type : Assess
+A : Uh I think there's something wrong with your
+
+to --> ,C
+dialogue type : Inform
+C : It did didn't r receive it . Didn't receive it .
+
+to --> ,A
+dialogue type : Inform
+A : Maybe you you record it somewhere else .
+
+to --> 
+dialogue type : Inform
+B : It was in fact the design use to show you the design of what is inside a what is inside and what are the different component of the r
+
+to --> 
+dialogue type : Assess
+B : So it will be interesting so I could show you some some picture of what is inside
+
+to --> 
+dialogue type : Assess
+A : I think it will be interesting after your presentation to have um Baba's presentation .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : something I want to discuss is which kind of material are we going to use ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : will it will be wooden wooden di wooden remote control
+
+to --> 
+dialogue type : Elicit-Assessment
+B : or a a plastic remote control like this one .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : in which which which kind will be the the different bu button ,
+
+to --> 
+dialogue type : Suggest
+B : it can be some , you know , classic pushbutton like this one ,
+to --> 
+dialogue type : Suggest
+B : or you have also some button like L_C_D_
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : the other thing I want to discuss also is which kind of alimentation , electric alimentation do you want to have ,
+to --> 
+dialogue type : Elicit-Assessment
+B : so will it be for example uh d uh solar energy alimentation
+
+to --> 
+dialogue type : Elicit-Assessment
+B : or will it be a battery like the classical battery
+
+to --> 
+dialogue type : Inform
+B : for example in some country where you are in the the countryside and you are far from , you know , the cities uh for example in some place in in S Senegal , so if you have electric if you have solar alimentation , you just , when you want to have recharger or remote control power you just put it on the sun and after one hour you can come
+
+to --> 
+dialogue type : Inform
+A : and maybe it can attract all the ecological k yeah consumers
+
+to --> 
+dialogue type : Assess
+A : but about the the price of adding this solar battery , would it be something really that will increase the price of production more ,
+
+to --> 
+dialogue type : Assess
+B : if we want to have battery , regular battery and and the solar energy battery it could be it'll it will add a little bit of the price ,
+
+to --> 
+dialogue type : Assess
+B : the plastic material is more common
+
+to --> 
+dialogue type : Assess
+B : but , you know , something wooden will be like , I don't know high cl so a special high class ,
+
+to --> 
+dialogue type : Suggest
+A : and i if you we want to put fashion in electronics maybe we can try to do something with wood .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : the last point is y also would do you want to have some very cheap integrated cir circuits , chips , or do you have low level or or very very expensive ,
+
+to --> 
+dialogue type : Suggest
+B : but I think that low level will be , you know , it is an interim module .
+
+to --> 
+dialogue type : Suggest
+A : and so I think maybe something very low level wou would be enough .
+
+to --> 
+dialogue type : Suggest
+B : I think the buttons I pr I prefer , you know , the L_C_D_ you know lighted buttons
+
+to --> 
+dialogue type : Elicit-Assessment
+D : What about the touch scr touch screen ? For example .
+to --> 
+dialogue type : Assess
+D : It's it's expensive I I guess .
+
+to --> ,A
+dialogue type : Inform
+A : I think we have only uh five minutes left .
+
+to --> ,D
+dialogue type : Inform
+D : trend watching .
+
+to --> ,D
+dialogue type : Offer
+D : just to meet the user requirements I would just do a s short anal analysis of the remote control market
+to --> 
+dialogue type : Inform
+D : and to kind of um have a better overview of what's the fashion in general I've checked more than only the remote control market ,
+
+to --> 
+dialogue type : Inform
+D : Um user really really want a fancy look and feel .
+
+to --> 
+dialogue type : Assess
+D : Like the one you've shown , David , with all the buttons and I mean i i it sounds good technically
+
+to --> 
+dialogue type : Inform
+D : second point is they still want it it to be technologically innovative ,
+to --> 
+dialogue type : Inform
+D : so maybe it's sort of related to what you've said with the speech recognition and so on .
+to --> 
+dialogue type : Inform
+D : At the same time , it's important that it's easy to use .
+
+to --> 
+dialogue type : Inform
+D : that were the three first points from the remote control uh analysis .
+
+to --> 
+dialogue type : Inform
+D : Wha what we really see this year is that uh everything from clothes to shoes and furniture is is inspired by fruits and vegetables ,
+
+to --> 
+dialogue type : Suggest
+D : so I think we really have to take this into account for the design of the the thing .
+
+to --> 
+dialogue type : Inform
+D : And then uh if if we take the ordering or the ranking of all the points , fancy look and feel has , on a score of seven would have six as importance .
+to --> 
+dialogue type : Inform
+D : Uh the remote control has to be technologically innovative , it's three .
+to --> 
+dialogue type : Inform
+D : Then easy to use uh it's not so important actually with respect to other y other ones .
+
+to --> 
+dialogue type : Inform
+D : And the other point I haven't mention is people wan want to have a spongy touch ,
+
+to --> 
+dialogue type : Assess
+D : this is this maybe doesn't really fit with the wooden design .
+
+to --> 
+dialogue type : Elicit-Inform
+B : but the problem is which kind of material do you need to to be spongy ?
+
+to --> 
+dialogue type : Inform
+D : plastic-like , but rubber , mayb maybe , you know , rubber-like uh
+
+to --> ,A
+dialogue type : Suggest
+A : we have to take decisions about the component concepts , about the energy .
+
+to --> 
+dialogue type : Assess
+A : maybe using solar energy and with battery would be something interesting ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Uh cheap imprint so you s you propose low level chips would be uh enough to have something working well .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Something spongy .
+
+to --> 
+dialogue type : Assess
+B : No wood
+
+to --> 
+dialogue type : Suggest
+B : I think we can have wood for example in the bottom and , you know .
+
+to --> 
+dialogue type : Assess
+A : so maybe we can stay with wood .
+
+to --> 
+dialogue type : Inform
+A : It's it's natural .
+
+to --> 
+dialogue type : Suggest
+D : But we could maybe have both like part of wood and some rubber for the buttons ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Uh and what about the user interface concept ?
+to --> 
+dialogue type : Elicit-Assessment
+A : Google and fancy ?
+to --> 
+dialogue type : Assess
+A : Because I think that with the voice and gesture recognition there are still some disadvantages with this .
+
+to --> 
+dialogue type : Assess
+B : the problem is I I'm we can infer i if you have v voice control why not to put it directly on the the T_V_ , so speak directly to the T_V_ and you don't need a remote control actually ,
+
+to --> 
+dialogue type : Assess
+A : So maybe we'll just focus on the Google controller plus the fancy controller ,
+to --> 
+dialogue type : Suggest
+A : maybe try to mix them these two concepts together , just in one and do a remote control with solar energy and batteries and with lev low level chips and wood .
+to --> 
+dialogue type : Suggest
+A : And L_C_D_ buttons .
+
+to --> 
+dialogue type : Assess
+A : I think for these supplements the solar energy would be something quite interesting and not maybe too difficult to add .
+
+to --> 
+dialogue type : Elicit-Inform
+A : commands , words and use them when you don't want to use your fingers .
+
+to --> 
+dialogue type : Suggest
+B : Even it is for s just some kids , you know , switching channels one two three four .
+
+to --> 
+dialogue type : Suggest
+B : Not very complex commands , but easy commands ,
+
+to --> 
+dialogue type : Inform
+B : Yeah , simple ones
+
+to --> ,A
+dialogue type : Assess
+A : Okay .
+
+to --> ,A
+dialogue type : Inform
+A : we'll you will all have to work in in your direction .
+to --> 
+dialogue type : Suggest
+A : So you will have to work on the look and feel design , to have the easy to use , powerful and fancy remote control with some added value such as the uh simple vocal commands recognition .
+to --> 
+dialogue type : Suggest
+A : Uh you will have to work more , Baba , on the um spongy way to to add spongy um touch to the buttons
+to --> 
+dialogue type : Suggest
+A : and try to find maybe a nice shape for the wooden remote control .
+to --> 
+dialogue type : Inform
+A : And I sup I think we'll have to evaluate th the product too .
+
+to --> 
+dialogue type : Inform
+A : So you will have Baba and David Jordan you will have to work together on the prototype
+to --> 
+dialogue type : Inform
+A : and you will have next time to show us um modelling a cl a clay remote control ,
+
+to --> 
+dialogue type : Inform
+A : And I think that some specific instructions will be sent to you by your personal coach .
+

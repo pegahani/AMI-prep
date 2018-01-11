@@ -1,0 +1,236 @@
+to --> ,A
+dialogue type : Inform
+A : Okay . Um here's the agenda for our last meeting .
+to --> ,A
+dialogue type : Inform
+A : Um after the opening we're going to have a prototype presentation ,
+to --> ,A
+dialogue type : Inform
+A : then we're going to discuss the evaluation criteria and the financing of our remote .
+to --> ,A
+dialogue type : Inform
+A : Then we're going to evaluate the product and I think the whole production process ,
+
+to --> 
+dialogue type : Suggest
+A : let's have the prototype presentation .
+
+to --> 
+dialogue type : Inform
+C : The base is gonna be gunmetal gray , which is what we had decided ,
+to --> 
+dialogue type : Inform
+C : and it's gonna be plastic .
+to --> 
+dialogue type : Inform
+C : Um then there's the latex cover , which is what you see as red .
+
+to --> 
+dialogue type : Inform
+C : Um and the buttons will be a l much lighter blue , almost see-through .
+
+to --> 
+dialogue type : Inform
+C : The whole thing lights up if you press any button , rather than it just that one button will light up .
+to --> 
+dialogue type : Inform
+C : Um and then at the bottom we have our logo .
+
+to --> 
+dialogue type : Inform
+C : And then on the side you have the buttons .
+
+to --> 
+dialogue type : Inform
+B : and as you've noticed on our prototype um they've ended up with a curvature kind of ,
+
+to --> 
+dialogue type : Assess
+A : I think you did an awesome job .
+
+to --> 
+dialogue type : Inform
+D : I don't really know exactly what we should uh talk about .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Feel good meaning what ?
+to --> 
+dialogue type : Elicit-Inform
+C : Physically ,
+
+to --> 
+dialogue type : Assess
+B : Yeah , it was a little difficult to incorporate the cover with the cherry fruit on it .
+
+to --> 
+dialogue type : Inform
+D : Okay so , we're using the criteria uh for a seven point scale ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : do we feel it's very easy to use ?
+
+to --> 
+dialogue type : Assess
+D : Two . That's what I say .
+to --> 
+dialogue type : Elicit-Assessment
+D : Okay , fashionable ?
+
+to --> 
+dialogue type : Assess
+D : I mean like no , I think it's very fashionable .
+
+to --> 
+dialogue type : Assess
+B : I'll give it a two , because at the moment it's not looking that way .
+
+to --> 
+dialogue type : Assess
+C : Mm I don't think it's that fashionable .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : does it feel good ?
+
+to --> 
+dialogue type : Assess
+A : And it's i it is very ergonomically designed .
+
+to --> 
+dialogue type : Inform
+A : Alright , average is two .
+to --> 
+dialogue type : Elicit-Assessment
+A : Is it technologically innovative ?
+
+to --> 
+dialogue type : Inform
+B : We could do it with the chip , yes .
+
+to --> 
+dialogue type : Elicit-Inform
+D : does it have voice I mean the phrase recognition on it ?
+to --> 
+dialogue type : Inform
+D : And there's no way you can represent it on here . Y
+
+to --> 
+dialogue type : Assess
+D : so I'd probably give it a three .
+
+to --> 
+dialogue type : Inform
+D : But it is just a T_V_ remote .
+
+to --> 
+dialogue type : Assess
+C : It's just trendy , basically .
+
+to --> 
+dialogue type : Assess
+B : It's capable of being squishy and fruity .
+
+to --> 
+dialogue type : Assess
+D : So um our re model slightly resembling a giant delicious cookie appears to be a winner ,
+
+to --> ,A
+dialogue type : Inform
+A : Okay , so now uh we're moving on to finance ,
+
+to --> 
+dialogue type : Inform
+A : Um it's not hand dynamo , it's powered by battery , so we give it a
+
+to --> 
+dialogue type : Elicit-Inform
+A : Do I just put quantity being one battery , or
+
+to --> ,A
+dialogue type : Suggest
+A : this is where we need to make a final call on if it's a lithium or do we wanna go triple A_s ,
+
+to --> 
+dialogue type : Suggest
+A : Oh , let's just go for a lithium .
+
+to --> 
+dialogue type : Inform
+D : And special colour .
+
+to --> 
+dialogue type : Inform
+B : We're really having just push-button interface .
+
+to --> 
+dialogue type : Inform
+A : button supplements the buttons are no
+
+to --> 
+dialogue type : Inform
+D : Um they're uh they're a special form , 'cause they're indented .
+
+to --> 
+dialogue type : Inform
+A : Mm . Well , we're under cost then .
+
+to --> 
+dialogue type : Inform
+A : We've got eleven point two .
+
+to --> 
+dialogue type : Inform
+B : So we can go to production .
+
+to --> 
+dialogue type : Inform
+A : Now we're gonna talk about the project process
+
+to --> 
+dialogue type : Assess
+B : We think we got stifled for cri creativity by the company itself , in restricting us only to using a T_V_ remote , initially .
+
+to --> 
+dialogue type : Inform
+C : We didn't have a whiteboard .
+
+to --> 
+dialogue type : Assess
+C : And no internet .
+
+to --> 
+dialogue type : Assess
+D : Oh , overall I mean I thought we did a good job like
+
+to --> 
+dialogue type : Assess
+D : minus it being just merely a T_V_ remote we got to choose what we wanted to do with it .
+
+to --> 
+dialogue type : Assess
+A : and we've all been a pretty congenial team here , I think .
+
+to --> 
+dialogue type : Assess
+A : Yeah , digital pens .
+
+to --> 
+dialogue type : Assess
+B : I really appreciated those , yeah .
+to --> 
+dialogue type : Inform
+B : The use of the laptops for receiving everything .
+
+to --> 
+dialogue type : Assess
+C : but my one issue is just like the whole it's for T_V_ only .
+to --> 
+dialogue type : Assess
+C : I was like who's gonna buy a remote just for the T_V_ unless they've lost theirs .
+
+to --> 
+dialogue type : Inform
+A : and now we're gonna complete the final questionnaire and meeting summary ,
+

@@ -1,0 +1,449 @@
+to --> ,A
+dialogue type : Suggest
+A : let's get started .
+
+to --> ,A
+dialogue type : Inform
+A : Uh opening acquaintance , tool training , uh how to use the things here . Uh project plan discussion , and yeah then the rest of the meeting .
+to --> 
+dialogue type : Inform
+A : Um we're supposed to develop a new remote control ,
+to --> 
+dialogue type : Inform
+A : that's both original , trendy and user-friendly .
+
+to --> ,A
+dialogue type : Inform
+A : Um we're work we're working uh from top to bottom . Uh functional design ,
+to --> ,A
+dialogue type : Inform
+A : then we do some in individual work ,
+to --> ,A
+dialogue type : Inform
+A : then we have a meeting to discuss the results , etcetera etcetera .
+to --> ,A
+dialogue type : Inform
+A : And at the end of the day we should have a prototype drawn up .
+to --> ,A
+dialogue type : Inform
+A : Uh we have available the smart board and the whiteboard . Um
+to --> ,A
+dialogue type : Inform
+A : uh we should take some practice .
+to --> ,A
+dialogue type : Inform
+A : I have some instructions now to do that .
+
+to --> ,A
+dialogue type : Inform
+A : you know how to the documents work .
+
+to --> ,A
+dialogue type : Inform
+A : Uh this for toolbar . You see it next . Um
+
+to --> ,A
+dialogue type : Inform
+A : And we can use this pen to perform .
+
+to --> ,A
+dialogue type : Inform
+A : It doesn't always work .
+
+to --> ,A
+dialogue type : Inform
+A : and in the format menu you can select colour and line width , etcetera etcetera .
+
+to --> ,A
+dialogue type : Inform
+A : Each of you can uh take some practice
+to --> ,A
+dialogue type : Inform
+A : and you should draw an animal . Uh you should explain Uh with different colours and with different pen widths .
+to --> ,A
+dialogue type : Inform
+A : And you should explain why you draw that particular animal .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : Different pen widths , how do you do that ?
+
+to --> ,A
+dialogue type : Inform
+A : Uh with the format menu .
+to --> ,A
+dialogue type : Suggest
+A : And use different colours etcetera .
+
+to --> 
+dialogue type : Inform
+B : It's a giraffe . Yeah .
+
+to --> ,D
+dialogue type : Elicit-Inform
+D : Can you use one blank sheet per drawing ? Or
+to --> ,D
+dialogue type : Elicit-Inform
+D : so y you must save it at the end
+
+to --> ,A
+dialogue type : Inform
+A : you can press the next button ,
+
+to --> ,C
+dialogue type : Inform
+C : I in the file option menu .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : Is this part of our a acquai or introduction to each other ?
+
+to --> ,A
+dialogue type : Other
+A : introduction and get acquainted
+
+to --> 
+dialogue type : Inform
+C : I'm guessing a turtle .
+
+to --> ,D
+dialogue type : Elicit-Inform
+D : How to select the next or
+
+to --> ,C
+dialogue type : Inform
+C : Colours were under format
+
+to --> 
+dialogue type : Assess
+D : A fox yeah .
+
+to --> 
+dialogue type : Assess
+C : It's a cat .
+
+to --> ,A
+dialogue type : Offer
+A : we have a financial aspect to this project .
+to --> 
+dialogue type : Inform
+A : Um we can sell them at twenty five Euros . Uh
+to --> 
+dialogue type : Inform
+A : the aim is to reach uh uh to sell as much as fifty million Euros .
+to --> 
+dialogue type : Inform
+A : Uh that's quite a big amount of money .
+to --> 
+dialogue type : Inform
+A : And the production cost should be the half of the selling price .
+
+to --> ,A
+dialogue type : Suggest
+A : now it's time for some discussion .
+
+to --> ,A
+dialogue type : Offer
+A : Uh I'm taking notes . Um
+to --> ,A
+dialogue type : Inform
+A : we each have a specific task ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : I didn't know if you received the same mail .
+
+to --> ,A
+dialogue type : Inform
+A : as I saw in my mail .
+
+to --> ,A
+dialogue type : Inform
+A : this industrati Industrial Designer should produce a working design .
+
+to --> ,A
+dialogue type : Inform
+A : Uh the User Interface Designer should specify the technical functions .
+
+to --> ,A
+dialogue type : Inform
+A : And the Marketing uh Expert should come up with user requirements .
+to --> ,A
+dialogue type : Inform
+A : Uh did any of you already do some work on this part
+
+to --> ,C
+dialogue type : Inform
+C : I started making an overview for myself , um what I had to do ,
+
+to --> ,C
+dialogue type : Inform
+C : and in every step I have a s specific task to perform or whatever .
+
+to --> ,C
+dialogue type : Inform
+C : 'cause we have three design steps
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : And do you have any ideas about the product uh so far ?
+
+to --> ,C
+dialogue type : Inform
+C : I started I started with the first phase ,
+
+to --> ,C
+dialogue type : Inform
+C : I had to focus on the working design , which you said .
+
+to --> ,C
+dialogue type : Inform
+C : I basically had two points .
+to --> 
+dialogue type : Inform
+C : Uh according to the coffee uh machine example , I have batteries to supply energy ,
+to --> 
+dialogue type : Inform
+C : and we ye use button presses to activate or deactivate certain functions on the T_V_ .
+
+to --> ,A
+dialogue type : Offer
+A : I got another point .
+to --> 
+dialogue type : Inform
+A : It uses infrared light to communicate the signal to the T_V_ apparatus or stereo .
+
+to --> 
+dialogue type : Inform
+B : Uh it's uh some buttons for for the on off function .
+
+to --> 
+dialogue type : Inform
+B : And for the changing up to the to all the channels and changing the volume .
+to --> 
+dialogue type : Inform
+B : That are the the basic options for a remote control .
+
+to --> 
+dialogue type : Inform
+C : I mean , you wanna ch ch flip the channel
+to --> 
+dialogue type : Inform
+C : but you might wanna use teletext also .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : Uh and what did the Marketing Expert do ?
+
+to --> ,D
+dialogue type : Inform
+D : from a marketing uh perspective , um well the function des design phase uh consists out of the user requirements .
+to --> 
+dialogue type : Inform
+D : Um what needs and desires are to be fulfilled ?
+
+to --> 
+dialogue type : Inform
+D : there are a few means to reach that um by by doing research uh to see what existing products are there out in the market .
+to --> 
+dialogue type : Inform
+D : I mean , what functions do they have .
+to --> 
+dialogue type : Inform
+D : Um especially what are their shortcomings ?
+to --> 
+dialogue type : Inform
+D : Are there any new functions uh which can be added to our product ?
+to --> ,D
+dialogue type : Suggest
+D : Um therefore we have to to do some internet search . For example for um well what kind of applications do current remote controls support , and what are f featur features of uh current and future televisions ?
+
+to --> ,D
+dialogue type : Suggest
+D : Um and we can interview current users and future users . What w what would they like to see uh on a new remote control ? Um especially for future users ,
+to --> ,D
+dialogue type : Suggest
+D : uh I'm thinking of early adopters ,
+to --> 
+dialogue type : Inform
+D : because they they use new technology first ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : Um but have you any idea so far as what uh the user requirements are ?
+
+to --> 
+dialogue type : Inform
+D : No n not specifically .
+
+to --> 
+dialogue type : Inform
+B : I got some uh requirements
+to --> 
+dialogue type : Inform
+B : it has uh it has to be user-friendly .
+to --> 
+dialogue type : Suggest
+B : Uh really easy to use buttons ,
+to --> 
+dialogue type : Suggest
+B : not not uh very small buttons ,
+to --> 
+dialogue type : Suggest
+B : but not the the also the big big buttons ,
+
+to --> 
+dialogue type : Suggest
+B : It has to be a small unit .
+
+to --> 
+dialogue type : Inform
+B : you can take it with you uh everywhere in in your house .
+
+to --> 
+dialogue type : Suggest
+B : Uh and a and a good uh zapping range .
+to --> 
+dialogue type : Suggest
+B : Uh the distance uh from your television to your uh remote control has to be , uh yeah um yeah , quite a big distance .
+
+to --> ,A
+dialogue type : Inform
+A : I don't think I have anything more to add at the moment .
+
+to --> ,A
+dialogue type : Suggest
+A : I think we can go ahead with what we have .
+to --> ,A
+dialogue type : Offer
+A : I will summarise the things we discussed
+to --> ,A
+dialogue type : Offer
+A : and put it in the project folder .
+to --> ,A
+dialogue type : Inform
+A : Uh the use of the Industrial Designer can work on the working design , etcetera etcetera .
+to --> ,A
+dialogue type : Inform
+A : And it seems you get more information by email .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : I'm just a bit wondering what we're gonna do the next uh session ?
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : Do we only have to to do uh phase one , the functional design uh ?
+to --> ,B
+dialogue type : Elicit-Inform
+B : After that we are going to the conceptual uh
+
+to --> ,A
+dialogue type : Inform
+A : Y you do some individual work ,
+to --> ,A
+dialogue type : Inform
+A : we have meeting ,
+to --> ,A
+dialogue type : Inform
+A : individual work , meeting .
+to --> ,A
+dialogue type : Inform
+A : And at the end of the day we have a final meeting .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : I mean , is it gonna be a multimedia control centre ?
+to --> 
+dialogue type : Elicit-Assessment
+C : Do we want to be able to use the video recorder with it ?
+
+to --> ,A
+dialogue type : Inform
+A : I think that is the user requirements part .
+to --> 
+dialogue type : Elicit-Inform
+A : As to what they want . Uh do they want all those functions on that small
+
+to --> ,C
+dialogue type : Inform
+C : But but we need good communication about this stuff ,
+
+to --> ,C
+dialogue type : Assess
+C : So if I don't know what components to put in , it's kind of hard .
+
+to --> ,B
+dialogue type : Suggest
+B : I I think we have first to start with the basic functions
+to --> ,B
+dialogue type : Suggest
+B : and we can uh expand them .
+
+to --> 
+dialogue type : Inform
+D : like l li like some like some some remotes who are out there , which I know , there's one button which is very easy to switch between devices .
+to --> 
+dialogue type : Inform
+D : So you can switch to your video
+to --> 
+dialogue type : Inform
+D : and then the same buttons control your video .
+to --> 
+dialogue type : Suggest
+D : And another function I'll think of switch to your media centre ,
+
+to --> 
+dialogue type : Inform
+C : but you'll ne need several other buttons for a video player .
+to --> 
+dialogue type : Inform
+C : You need a play and a forw fast forward and a stop function .
+to --> 
+dialogue type : Inform
+C : And you you don't need that for a T_V_ .
+to --> 
+dialogue type : Inform
+C : And and for a t uh teletext you need additional buttons as well ,
+to --> 
+dialogue type : Inform
+C : so I kind of need to know what we uh need .
+
+to --> ,C
+dialogue type : Suggest
+C : and then we can discuss it with the next uh meeting .
+
+to --> 
+dialogue type : Suggest
+A : We could just start with the assumption that's only for T_V_ and video .
+to --> 
+dialogue type : Suggest
+A : And um reserve the possibility to add other features .
+to --> ,A
+dialogue type : Inform
+A : So we have a basic starting point
+
+to --> 
+dialogue type : Suggest
+A : so make sure it's extendible . Yeah .
+
+to --> 
+dialogue type : Inform
+A : and you can always extend that
+
+to --> 
+dialogue type : Inform
+B : it it has yeah it has to be user-friendly .
+
+to --> 
+dialogue type : Suggest
+A : Th the least amount of functions possible
+
+to --> ,A
+dialogue type : Inform
+A : and uh I'll see you again uh when the computer tells us to .
+
+to --> ,A
+dialogue type : Suggest
+A : Let's see what we got to do .
+

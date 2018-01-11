@@ -1,0 +1,387 @@
+to --> 
+dialogue type : Inform
+C : Uh oh I've forgotten to mail you the minutes ,
+to --> 
+dialogue type : Offer
+C : but I will do .
+
+to --> ,C
+dialogue type : Suggest
+C : Um Will you guys first with your prototype um before we get to the good news ?
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : Okay , have you got a presentation to make ?
+
+to --> ,B
+dialogue type : Inform
+B : No , not mine yet .
+
+to --> 
+dialogue type : Inform
+D : We made three for you .
+
+to --> 
+dialogue type : Inform
+D : Um one's based on the banana , one's based on the tomato
+
+to --> 
+dialogue type : Inform
+D : so this is the um non to non uh no buttons one ,
+to --> 
+dialogue type : Inform
+D : or as mm few buttons as possible ,
+to --> 
+dialogue type : Inform
+D : mainly speak recognition .
+
+to --> 
+dialogue type : Inform
+D : If you do need buttons , you can flip it over , and there's some there ,
+
+to --> 
+dialogue type : Assess
+C : Well I like the feel of it , I like the feel of it .
+
+to --> 
+dialogue type : Inform
+D : but that's the that yellow stand there represents the the charging stand .
+to --> 
+dialogue type : Inform
+D : Um the black on the back is the slogan .
+
+to --> 
+dialogue type : Inform
+D : but also we're gonna have the company name on the front , which is the little black kind of line in the middle .
+
+to --> 
+dialogue type : Inform
+D : These are the s two scroll ones which we thought could be channel up and down and volume up and down .
+
+to --> 
+dialogue type : Inform
+D : it does actually feel quite ergonomic ,
+
+to --> 
+dialogue type : Inform
+D : It would have to be a bit bigger .
+
+to --> 
+dialogue type : Inform
+D : Um , obviously I don't think that's real sized .
+
+to --> 
+dialogue type : Inform
+D : Um that's a speaker at the top ,
+
+to --> 
+dialogue type : Inform
+D : Oh that's the charging base prongs at the bottom .
+
+to --> 
+dialogue type : Inform
+D : And um then the big red button in the middle is the on and off one .
+
+to --> 
+dialogue type : Inform
+D : and and um we have the banana-based one too .
+
+to --> 
+dialogue type : Inform
+A : This one is uh , I suppose for the younger audiences .
+
+to --> 
+dialogue type : Assess
+C : Well , nice to have uh options at least .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So are there any um improvements or issues or
+
+to --> 
+dialogue type : Inform
+C : Um main problem that we have unfortunately being finance .
+to --> 
+dialogue type : Inform
+C : Uh , let's just enter in the um evaluation criteria .
+
+to --> 
+dialogue type : Inform
+C : the unit we are currently going to produce minus the extra scroll buttons , uh it's gonna cost us fourteen point six Euros .
+
+to --> 
+dialogue type : Suggest
+C : So basically , um in order to save our two Euros um I was thinking that we could have essentially the same shape , but just have it flattened .
+
+to --> 
+dialogue type : Inform
+C : Doesn't save us quite as much .
+
+to --> 
+dialogue type : Elicit-Inform
+A : W why is the uh double curved two of them ?
+
+to --> 
+dialogue type : Assess
+C : Oh , good point .
+
+to --> 
+dialogue type : Inform
+C : I think it means double curved as in um
+to --> 
+dialogue type : Inform
+C : like uh a single curve on that bottom half , and the double curved would be if it was that similar curve upward .
+
+to --> 
+dialogue type : Inform
+C : and why why I've got it two , I don't know ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : But you think it should be one .
+
+to --> 
+dialogue type : Inform
+C : Um okay , so that would take away three , which would give us
+
+to --> 
+dialogue type : Inform
+C : Eleven uh eleven Euros sixty .
+
+to --> 
+dialogue type : Suggest
+D : So we could even add something .
+
+to --> 
+dialogue type : Suggest
+A : Ah yeah , we could add things .
+
+to --> 
+dialogue type : Assess
+D : Yeah , if we're happy with the design there's no point in spending money , if we don't have to .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : Project process , how do we think that went ?
+
+to --> 
+dialogue type : Assess
+A : Yeah I think we have a a winning product .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : Uh room for creativity , were we happy with that ?
+
+to --> 
+dialogue type : Assess
+D : W I think we were very creative .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : Leadership ,
+
+to --> 
+dialogue type : Assess
+A : Great leadership .
+
+to --> 
+dialogue type : Assess
+C : Uh teamwork . I thought went well .
+
+to --> 
+dialogue type : Assess
+D : Yeah , everyone got enough input , I think .
+
+to --> 
+dialogue type : Assess
+A : These pens are are neat though .
+
+to --> 
+dialogue type : Assess
+B : Yeah , these are new ideas , like glow-in-the-dark or something like that .
+
+to --> 
+dialogue type : Assess
+C : So just general thumbs up for all of us then .
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : Uh Brian , have you have you finished ?
+
+to --> ,B
+dialogue type : Inform
+B : At last mine is also the presentation .
+
+to --> 
+dialogue type : Assess
+D : Oh , you got a presentation ,
+
+to --> 
+dialogue type : Inform
+D : we forgot to mention
+to --> 
+dialogue type : Inform
+D : it'll be made out of kind of a rubbery latex , new material that we've got .
+
+to --> ,B
+dialogue type : Inform
+B : So now is the final evaluation , final evaluation of the uh uh of our product .
+
+to --> 
+dialogue type : Inform
+B : whether it meets our standards or not .
+
+to --> ,B
+dialogue type : Inform
+B : w we together have to decide wha what rating we will give to this product and everything .
+
+to --> 
+dialogue type : Inform
+B : We will give the rating to this product based on the user requirements , whether it meets the user requirements or not , this product .
+to --> 
+dialogue type : Inform
+B : Then trends , whether it is as fashion trends or not ?
+
+to --> 
+dialogue type : Inform
+B : Then marketing strategy of the company .
+
+to --> 
+dialogue type : Inform
+B : Now comes the criteria rating with seven point scale .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : what do you think whether it meets all user requirements or not ?
+
+to --> 
+dialogue type : Inform
+D : It had all the basic buttons that they needed as well as the uh new technology that people said they wanted .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Seven is good , yeah , isn't it ?
+
+to --> 
+dialogue type : Other
+D : True or false ?
+
+to --> 
+dialogue type : Elicit-Inform
+B : Uh one is means highest ranking ,
+
+to --> 
+dialogue type : Assess
+B : So it's one for from your point of view .
+
+to --> 
+dialogue type : Assess
+A : I'm gonna give it a two .
+
+to --> 
+dialogue type : Assess
+C : Oh , I'll go for a one .
+
+to --> 
+dialogue type : Assess
+B : Uh for me personally it is everything fine ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : but there is one thing which limits the customers ,
+to --> 
+dialogue type : Inform
+B : like we are having only two , three designs ,
+
+to --> 
+dialogue type : Assess
+B : But if a person doesn't like banana , or orange , you are limiting him .
+
+to --> 
+dialogue type : Assess
+B : So we are showing our preference for particular fruits ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Is that no is that not trends ?
+
+to --> 
+dialogue type : Inform
+B : because whatever companies they launch their products in the shape of fruits , they give a range of products , a range of shapes ,
+
+to --> 
+dialogue type : Assess
+D : But in electronics , I think , it's not q always quite so um you don't always have so many choices as with chocolates .
+
+to --> 
+dialogue type : Assess
+B : we are doing a very wrong thing .
+
+to --> 
+dialogue type : Elicit-Inform
+A : We're gonna average them ?
+
+to --> 
+dialogue type : Inform
+A : About one point f one point eight .
+
+to --> 
+dialogue type : Assess
+B : I have taken it very wrongly .
+
+to --> 
+dialogue type : Assess
+D : Well um going on uh the specifications that we had , that fruit and vegetables are quite popular , and that people like something that is good to look at and not many buttons , I would give it um ,
+
+to --> 
+dialogue type : Assess
+D : so I would actually give it a three .
+
+to --> 
+dialogue type : Assess
+A : 'Kay . As far as the uh technology it its' got the latest trends in speech technology ,
+
+to --> 
+dialogue type : Assess
+A : um but it doesn't have that fancy solar power or the the vibrating energy mechanism .
+
+to --> 
+dialogue type : Assess
+C : it might be trendy to some , but I'm just not swallowing the fruit ,
+
+to --> 
+dialogue type : Assess
+D : well , because it's hard to make a fruit good to look at , that that looks cool , you know ,
+
+to --> 
+dialogue type : Assess
+B : It is cus spongy also .
+
+to --> 
+dialogue type : Assess
+B : Uh personally I wi uh I think that in terms of trends , these products are quite good ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : So what about company strategy ?
+
+to --> 
+dialogue type : Inform
+A : Well , I think it's the the remote control conforms to the the company strategy .
+
+to --> 
+dialogue type : Assess
+C : Pretty much kept to the company strategy , so I would go for a a one , as we not only kept it , but we were limited by
+
+to --> 
+dialogue type : Inform
+B : Uh overall we are getting two something ,
+
+to --> 
+dialogue type : Suggest
+B : So we can launch it . Yeah .
+
+to --> 
+dialogue type : Inform
+C : 'Cause we've evaluated and we are within budget .
+

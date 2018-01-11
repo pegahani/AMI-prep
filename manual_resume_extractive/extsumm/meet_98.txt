@@ -1,0 +1,367 @@
+to --> 
+dialogue type : Inform
+A : This is our conceptual design meeting .
+
+to --> ,A
+dialogue type : Inform
+A : I'll just take a few minutes and uh go through the previous minutes .
+to --> ,A
+dialogue type : Inform
+A : Um then each of you will have your presentation ,
+to --> ,A
+dialogue type : Inform
+A : um and then we will need to make a decision on the concept for the remote control .
+
+to --> 
+dialogue type : Inform
+A : Um we decided that , or we know that we need to use company colours , company logo .
+
+to --> 
+dialogue type : Inform
+A : our Marketing Expert uh gave us some i uh information from interviews with a hundred different remote users .
+to --> 
+dialogue type : Inform
+A : Um with some statistics that backed basically what we were thinking before .
+
+to --> 
+dialogue type : Inform
+A : Um which were all things we were thinking we would wanna make it simple . Um
+
+to --> 
+dialogue type : Inform
+A : And that it should look different than what's out there .
+
+to --> 
+dialogue type : Inform
+A : Um uh I think we decided that um the expense was not necessarily worth it ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : Um and that we didn't wanna go with a universal remote , because uh increasing cost and increasing complexity .
+
+to --> 
+dialogue type : Inform
+A : I believe then we came up with a couple of ideas for what we think the design of the remote will be . Um
+to --> 
+dialogue type : Inform
+A : Um something that will fit into uh easily into someone's hand .
+
+to --> 
+dialogue type : Inform
+A : And with a scrolling um function also .
+
+to --> 
+dialogue type : Inform
+D : I was given a brief executive summary , and then an update on some recent fashion trends that we might like to look at .
+
+to --> 
+dialogue type : Inform
+D : Um okay the most important finding was that the fancy look-and-feel seems to be twice as important to the users as the current functional look-and-feel design ,
+
+to --> 
+dialogue type : Inform
+D : Um the second most important finding was that the remote should be technologically innovative .
+
+to --> 
+dialogue type : Inform
+D : And thirdly the remote would be easy to use .
+
+to --> 
+dialogue type : Inform
+D : And again these are all things we've kind of already come up with on our own , but this just backs it up .
+
+to --> 
+dialogue type : Inform
+D : As far as fashion update , we've learned that fruits and vegetables will be the most important theme for cloths , shoes and furniture .
+
+to --> 
+dialogue type : Inform
+D : Um and also , as opposed to last year , this year the material is expected to be spongy in feel .
+
+to --> 
+dialogue type : Inform
+D : Um I think we've already discovered that it's kind of hard to go away from the traditional rectangular design .
+
+to --> 
+dialogue type : Suggest
+D : But I think that , even if it's very subtle , we need to kind of trick our consumers ,
+
+to --> ,D
+dialogue type : Suggest
+D : We brought up the idea of having two pieces , which we could discuss further .
+
+to --> 
+dialogue type : Inform
+D : We need to keep it simple , have limited buttons ,
+
+to --> 
+dialogue type : Inform
+D : so they at least get the idea that they're getting something that's new and modern and sleek and
+
+to --> 
+dialogue type : Inform
+D : Um we need to incorporate this fashion trend of fruits and vegetables .
+
+to --> 
+dialogue type : Suggest
+D : So maybe we could have something that's somewhat removable ,
+
+to --> 
+dialogue type : Suggest
+D : I mean I guess the two options are if we had our remote in the shape of a fruit or vegetable .
+
+to --> 
+dialogue type : Suggest
+D : Or with exterior designs .
+
+to --> 
+dialogue type : Suggest
+A : Possibly uh like a cover like they have for mobile phones ?
+
+to --> 
+dialogue type : Inform
+D : Personalise your remote .
+
+to --> 
+dialogue type : Inform
+C : Um I was sent some information from the company saying that they , the technology department have devised a new speech recognition technology , where you can program questions into such devices .
+to --> 
+dialogue type : Inform
+C : They gave an example of a coffee machine where you program a question , you program the answer , and the machine responds accordingly .
+
+to --> 
+dialogue type : Inform
+C : There's different ways of a user can use products l like a remote .
+to --> 
+dialogue type : Inform
+C : Um there's a graphical use , where you you look at pictures and well on a screen .
+to --> 
+dialogue type : Inform
+C : A command line where you obviously type things in , and you get a response .
+to --> 
+dialogue type : Inform
+C : Um and then it ju that's just to point out the sort of inconsistent u sort of use of interface in remotes .
+
+to --> 
+dialogue type : Inform
+C : Um this is the voice , there is a voice recognition remote control , which can control mus multiple devices .
+
+to --> 
+dialogue type : Inform
+C : So , then I had a look at new products that are on the market .
+
+to --> 
+dialogue type : Inform
+C : And then on the right is obviously an iPod ,
+
+to --> 
+dialogue type : Inform
+C : and all that is is just a a nice big scroll menu that y you sort of go through .
+
+to --> 
+dialogue type : Assess
+C : And nothing's simpler really .
+to --> 
+dialogue type : Inform
+C : Um then there's things like this , which is a a a kid's remote ,
+to --> 
+dialogue type : Inform
+C : where the the parents have the facility to control and program what children can watch before .
+
+to --> 
+dialogue type : Inform
+C : So I don't know if there's a possibility of having one remote contr you know like we just had two components ,
+
+to --> 
+dialogue type : Inform
+C : Maybe we've so suggested this two-part thing , where if it was to have a speech recognition thing ,
+
+to --> 
+dialogue type : Suggest
+C : And then just have the simple sort of hand-held thing that we sort of devised earlier , as the actual remote .
+
+to --> 
+dialogue type : Suggest
+C : it could be a graphical display , the actual remote contr the actual control port maybe could have like an iPod where you just sort of control through the menus .
+
+to --> 
+dialogue type : Inform
+B : The details of the components' design , as you can see there , what we have is the board , main board of the remote control .
+
+to --> 
+dialogue type : Inform
+B : top left side you can see the chip , which is the , what we were talking about , this was is the device to recognise the signals the input ,
+
+to --> 
+dialogue type : Inform
+B : Its job is to wait for you to press a key , then to translate that key press into infrared light signals , um that are received by the television .
+
+to --> 
+dialogue type : Inform
+B : Um we are talking um this this the simple and cheapest version at the same time .
+to --> 
+dialogue type : Inform
+B : We are talking something more complicated of course , it's going to be more expensive as well .
+
+to --> 
+dialogue type : Inform
+B : Um we are also restricted in the use of our outer shell , or in the material that we could use for our outer shell .
+
+to --> 
+dialogue type : Inform
+B : So we what we can use is plastic , rubber , wood and titanium .
+to --> 
+dialogue type : Inform
+B : Can also mix these .
+
+to --> 
+dialogue type : Inform
+B : Um what we could use is , or what I was offered , or what we could use , is a basic bateer battery .
+
+to --> 
+dialogue type : Assess
+B : So um obviously I personally have to say that dynamo is out of the question really .
+
+to --> 
+dialogue type : Assess
+B : Um solar cell is interesting .
+to --> 
+dialogue type : Inform
+B : May fail though , every here and there .
+
+to --> 
+dialogue type : Inform
+B : Um the kinetic energy thing um might work , um but the same problem .
+to --> 
+dialogue type : Inform
+B : You leave it lying around and you first have to shake it before it it starts to work .
+to --> 
+dialogue type : Inform
+B : So I'd say what we're stuck with really is um the basic battery .
+
+to --> 
+dialogue type : Inform
+B : our interface options are push-buttons .
+
+to --> 
+dialogue type : Inform
+B : however when it comes to the scroll wheel of the iPod I've one big objection and that is that we have to fit an L_C_D_ into the remote control as well .
+
+to --> 
+dialogue type : Inform
+B : If we have a more sophistic uh sophisticated scroll wheel rather than this very basic uh set-up that we that I've just presented , um the chip has to be more s more sophisticated and thus more expensive as well .
+
+to --> 
+dialogue type : Inform
+B : solar cells cannot be used on a curved or latex um surface or um remote control .
+
+to --> 
+dialogue type : Fragment
+B : With the titanium um we cannot make it a curved design .
+
+to --> 
+dialogue type : Inform
+B : With plastic , as I understand it , you can use any form .
+
+to --> 
+dialogue type : Inform
+B : With rubber we could uh sh pretty much shape it the way we wanted it ,
+to --> 
+dialogue type : Inform
+B : but we cannot add scroll wheels , and we cannot add an L_C_D_ screen .
+
+to --> 
+dialogue type : Inform
+C : And um you know you just p stick on just sort of rubber things that that sort of grip the thumb bit .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Is that an option , a plastic shell with a rubbery coating on at certain spots ?
+
+to --> 
+dialogue type : Suggest
+C : You could just sell it in different colours as well I suppose .
+
+to --> 
+dialogue type : Suggest
+A : I would say , if I were to make a decision , I would probably put the fruit aspect at the lower lower end of the spectrum of of importance .
+
+to --> 
+dialogue type : Assess
+D : I think having a shape could be a little ridiculous ,
+
+to --> 
+dialogue type : Suggest
+B : How about um affecting the surface of the actual um remote control ?
+to --> 
+dialogue type : Suggest
+B : Say we don't make it p a particular fruit shape obviously ,
+to --> 
+dialogue type : Suggest
+B : but uh give it like the surface of
+to --> 
+dialogue type : Suggest
+B : an orange , banana , whatever .
+
+to --> 
+dialogue type : Elicit-Inform
+D : So is the two piece idea out ?
+
+to --> 
+dialogue type : Inform
+C : Well we sort of rid of that because gonna use a battery .
+
+to --> 
+dialogue type : Inform
+B : Well we can still design a two-piece uh remote um without having a base , having one of them be a base station ,
+
+to --> 
+dialogue type : Inform
+B : Okay when it comes to the chip-on-print , as I said , the the more advanced features you want , um the fancier the chip has to be and the more expensive .
+
+to --> 
+dialogue type : Inform
+A : Energy source I think we've , I think we've decided batteries , although not exciting , are probably our best bet .
+
+to --> 
+dialogue type : Suggest
+A : So I guess the case would be plastic ,
+to --> 
+dialogue type : Inform
+A : with Perhaps that's not even enough rubber to qualify as being part of it .
+to --> 
+dialogue type : Elicit-Assessment
+A : It's more of a su it's more of a supplement maybe .
+
+to --> 
+dialogue type : Elicit-Inform
+D : So then for the scroll , are we going for the iPod type ?
+
+to --> 
+dialogue type : Inform
+C : Yeah I think so .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Which will require a more expensive chip-on-print right ?
+
+to --> ,A
+dialogue type : Inform
+A : Um Ryan you'll be working on the user interface design . Um
+to --> ,A
+dialogue type : Inform
+A : Manuel you'll be working on the look-and-feel design .
+to --> ,A
+dialogue type : Inform
+A : Corrine we'll want a product evaluation .
+to --> ,A
+dialogue type : Inform
+A : And the two of you get to play with the uh modelling components and uh
+to --> ,A
+dialogue type : Inform
+A : maybe and and get us a prototype .
+
+to --> ,A
+dialogue type : Inform
+A : basically just be working on the prototype , uh we'll accomplish your other two actions .
+

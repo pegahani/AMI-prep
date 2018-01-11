@@ -1,0 +1,902 @@
+to --> ,A
+dialogue type : Inform
+A : So in last meeting we have discussed the conceptual design
+to --> ,A
+dialogue type : Inform
+A : and we asked you to prepare a prototype for the for the remote control .
+
+to --> 
+dialogue type : Suggest
+A : So let's see the what did you prepare .
+
+to --> 
+dialogue type : Inform
+B : S so so I discussed with Guillaume .
+
+to --> 
+dialogue type : Inform
+B : and we we are both agreed on some two versions of the prototypes ,
+to --> 
+dialogue type : Inform
+B : because we were no not decided whether we wanted to have an L_C_D_ or not because it's too expensive .
+
+to --> 
+dialogue type : Inform
+B : One with and one without L_C_D_s .
+to --> 
+dialogue type : Inform
+B : Um but both comes with a charger
+to --> 
+dialogue type : Inform
+B : and then detachable and uh or control module .
+to --> 
+dialogue type : Inform
+B : And detachable big buttons for all people um .
+
+to --> 
+dialogue type : Inform
+C : Here we have the first one with the beautiful uh L_C_D_ um display .
+
+to --> 
+dialogue type : Offer
+C : S okay so I'll show you the the two prototypes .
+
+to --> 
+dialogue type : Inform
+C : And you can uh just um browse into the the navigation menu by uh joystick joystick-like uh button .
+to --> 
+dialogue type : Inform
+C : You can uh choose the direction
+
+to --> 
+dialogue type : Inform
+C : You have on the mm on the side here the microphone for the for the speech recognition system here .
+to --> 
+dialogue type : Inform
+C : And here the the switch that control if you want
+
+to --> 
+dialogue type : Inform
+B : The the microphone picks up the speeches from anywhere .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Is it an only a single mic or a microphone array ?
+
+to --> 
+dialogue type : Inform
+C : Well so it's a microphone array .
+
+to --> 
+dialogue type : Inform
+A : Oh it's very costly , microphone array .
+
+to --> 
+dialogue type : Inform
+C : it's just a single microphone ,
+
+to --> 
+dialogue type : Inform
+C : I I think uh we we put it here because I think when you when you are browsing your L_C_D_ you will be close to
+to --> 
+dialogue type : Inform
+C : well it's better to to to place it here th than here , for instance .
+to --> 
+dialogue type : Inform
+C : And here is a little switch that control if you want the the speaker uh recognition system to um to be on or off .
+to --> 
+dialogue type : Inform
+C : And uh so this remote control comes up with its charger .
+
+to --> 
+dialogue type : Elicit-Inform
+A : How much does it cost this one ?
+
+to --> 
+dialogue type : Inform
+C : Well this this prototype is um made for about uh well fi fi fifteen fifteen dollars
+
+to --> 
+dialogue type : Inform
+A : Ah it's above it's above the budget .
+
+to --> 
+dialogue type : Inform
+C : but uh it's just a prototype
+
+to --> 
+dialogue type : Inform
+C : the and the the production costs we we can achieve uh about ten dollars .
+
+to --> 
+dialogue type : Elicit-Inform
+A : How many b battery is there ?
+
+to --> 
+dialogue type : Inform
+B : Is it n the two A_A_s batteries in it .
+to --> 
+dialogue type : Inform
+B : A_A_ rechargeable batteries .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Is that two or one ?
+
+to --> 
+dialogue type : Inform
+B : Actually uh it's a flexible thing .
+
+to --> 
+dialogue type : Inform
+C : So and if you want to charge the battery you just put the remote control like that to plug in the the charger
+to --> 
+dialogue type : Inform
+C : and uh leave it uh alone , it's alright .
+
+to --> 
+dialogue type : Inform
+B : I forgot to tell you there is only a single button there ,
+
+to --> 
+dialogue type : Inform
+B : This button is like the mouse is like a joystick ,
+to --> 
+dialogue type : Inform
+B : you can move in three hundred and sixty degrees of direction
+
+to --> 
+dialogue type : Inform
+B : and it the additi functions associated to all the actions
+to --> 
+dialogue type : Inform
+B : you ma you have a click you have a double click all in a single button .
+to --> 
+dialogue type : Inform
+B : You can move up , down , left , right ,
+to --> 
+dialogue type : Inform
+B : or you can do a swing .
+
+to --> 
+dialogue type : Offer
+B : Here I present another version without the L_C_D_ .
+
+to --> 
+dialogue type : Inform
+C : So we have the the second version also with the different uh button configuration .
+to --> 
+dialogue type : Inform
+C : The second version is also simpler ,
+to --> 
+dialogue type : Inform
+C : we d uh we had just uh I have to put the microphone also .
+
+to --> 
+dialogue type : Inform
+D : Uh-huh and also the switch .
+
+to --> 
+dialogue type : Inform
+C : Basically it's the same uh things uh uh as uh I presented before .
+to --> 
+dialogue type : Inform
+C : But here we have uh we have uh four buttons for navigation .
+to --> 
+dialogue type : Inform
+C : Press one button uh acting as a a enter button .
+to --> 
+dialogue type : Inform
+C : So um yeah according to what you said it's more robust to the user .
+to --> 
+dialogue type : Inform
+C : And uh it's also cheaper to produce .
+to --> 
+dialogue type : Inform
+C : We can produce uh such remote control for about uh four dollars .
+
+to --> 
+dialogue type : Inform
+D : And I think you forgot a point here to have an button to find the charger ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : and if you disable speech recognition system then ?
+
+to --> 
+dialogue type : Inform
+B : W w I'll I'll come to that point later on .
+
+to --> 
+dialogue type : Inform
+B : in either versions you they they ha they use the same charger yeah .
+
+to --> 
+dialogue type : Inform
+B : It's that same charger that you can use for the hand-phone
+to --> 
+dialogue type : Inform
+B : but uh again depends on the types .
+to --> 
+dialogue type : Suggest
+B : I think we have to investigate more on that , but
+
+to --> 
+dialogue type : Inform
+A : The price should be below twelve and a half Euro .
+
+to --> 
+dialogue type : Inform
+B : but as the Marketing Manager says , people is willing to people are willing to pay more for good design .
+
+to --> 
+dialogue type : Inform
+D : but the company is not willing to invest more at the moment .
+
+to --> 
+dialogue type : Inform
+A : The price of selling is twenty five Euros .
+
+to --> 
+dialogue type : Inform
+B : the the the thing that makes this the controller cheap is that it is modular
+
+to --> 
+dialogue type : Inform
+B : If you want less function i i if you want a reasonable price you pay for the functions that you add on to the system ,
+
+to --> 
+dialogue type : Inform
+D : Something like customised . Yeah
+
+to --> 
+dialogue type : Inform
+B : for example the L_C_D_ , you can take it you can put it put it back in , or you can use the other one ,
+to --> 
+dialogue type : Inform
+B : or the speech recogniser with the microphone yeah yeah .
+to --> 
+dialogue type : Inform
+B : You want a microphone to put in the speech recogniser you don't wan you pay less for the system you see .
+
+to --> 
+dialogue type : Inform
+B : It's pretty flexible in the yeah price .
+
+to --> 
+dialogue type : Inform
+C : You also have the the the two other modules for the parental control
+to --> 
+dialogue type : Inform
+C : that that you ca you can add up to the to your remote control
+to --> 
+dialogue type : Inform
+C : i i if you uh if you want to to have more more power on what you do , and uh which channel you want to choose and so on .
+to --> 
+dialogue type : Inform
+C : H here is just the the the module for the kids
+to --> 
+dialogue type : Inform
+C : and th if the parents want to watch T_V_ , up they come up with their modules ,
+
+to --> 
+dialogue type : Inform
+C : We also have this module for uh old people with big buttons , clearly labelled ,
+to --> 
+dialogue type : Inform
+C : and it acts like the previous one ,
+to --> 
+dialogue type : Inform
+C : you just plug in and it works .
+
+to --> 
+dialogue type : Inform
+B : the i the idea the the conceptual idea is that simplicity and powerful .
+to --> 
+dialogue type : Inform
+B : Simplicity meaning that we have few buttons ,
+to --> 
+dialogue type : Inform
+B : powerful is that all the controls with the one you saw we saw earlier in the meetings with lots of buttons n
+
+to --> 
+dialogue type : Inform
+B : that's our uh an innovation um uh i in this uh design here .
+to --> 
+dialogue type : Inform
+B : Okay now we come to other important features that I did not tell you .
+to --> 
+dialogue type : Inform
+B : The first one is the speech recogniser ,
+to --> 
+dialogue type : Inform
+B : again it's detachable or add-on .
+to --> 
+dialogue type : Inform
+B : And then we also have security feature
+
+to --> 
+dialogue type : Inform
+B : it's very robust ,
+
+to --> 
+dialogue type : Elicit-Inform
+B : and the material , what's the material again ?
+
+to --> 
+dialogue type : Inform
+C : The titanium
+
+to --> 
+dialogue type : Inform
+B : Again uh and the battery life is uh is an is an endurable one ,
+to --> 
+dialogue type : Inform
+B : again because this is A_A_ batteries you can choose the types of battery you want .
+to --> 
+dialogue type : Inform
+B : Lithium-ion may be a good one ,
+
+to --> 
+dialogue type : Inform
+B : again you pay for what you get ,
+to --> 
+dialogue type : Inform
+B : and then um y the other p points are robust and misplacement reminder .
+to --> 
+dialogue type : Inform
+B : So when you finish watching your T_V_ and you the you t you turn off the T_V_ , uh and then there's this message coming out that uh please put that back to the charger ,
+
+to --> 
+dialogue type : Inform
+B : And it also use a programmable channel and vocabulary ,
+to --> 
+dialogue type : Inform
+B : so we didn't define the vocabulary
+to --> 
+dialogue type : Inform
+B : so it's up to the user to define
+
+to --> 
+dialogue type : Inform
+B : And then uh because of the chil because children are using the device so we have also a a of T_V_ programmes by genre ,
+to --> 
+dialogue type : Inform
+B : and this can be used by the adult or by the children .
+
+to --> 
+dialogue type : Elicit-Inform
+A : What's the price to p to produce ?
+
+to --> 
+dialogue type : Inform
+C : Well so the price to produce For uh the simplest one , say we start from four dollars to produce such a device .
+
+to --> 
+dialogue type : Inform
+C : The without without the charger
+to --> 
+dialogue type : Inform
+C : it's about uh well two dollars to produce uh the microphone and speech recognition systems .
+to --> 
+dialogue type : Inform
+C : Two dollars for the uh for the add-on modules ,
+to --> 
+dialogue type : Elicit-Inform
+C : and finally three dollars for the charger .
+to --> 
+dialogue type : Inform
+C : So if you uh sum up uh everything wi with the L_C_D_ , which costs two dollar , you have two plus four plus four plus two plus two .
+
+to --> 
+dialogue type : Inform
+A : We don't have all the options .
+
+to --> 
+dialogue type : Inform
+C : so the total cost if you if you want all the fuct functionalities will be about uh fifteen dollars .
+
+to --> 
+dialogue type : Inform
+B : so you want more function you pay more .
+
+to --> 
+dialogue type : Inform
+A : it's below the the the budget .
+
+to --> ,D
+dialogue type : Suggest
+D : I think we will just have a rough look
+to --> ,D
+dialogue type : Suggest
+D : and then we can make our statements ,
+to --> ,D
+dialogue type : Suggest
+D : and we can finalise the product based on this discu
+
+to --> 
+dialogue type : Inform
+D : So the marketing made an evaluation criteria
+to --> 
+dialogue type : Inform
+D : and these were some of the findings ,
+to --> 
+dialogue type : Inform
+D : and uh in the market the people are not really interested with L_C_D_ , without L_C_D_ , with speech recognition interface , or without speech recognition interface ,
+to --> 
+dialogue type : Inform
+D : but most of the people what they are interested is first thing is , they want to have an fancy look and feel ,
+to --> 
+dialogue type : Inform
+D : it should be very fancy with colourful
+to --> 
+dialogue type : Inform
+D : and uh very handy to hold .
+to --> 
+dialogue type : Inform
+D : And the second thing is it should be much more technologically innovative .
+to --> 
+dialogue type : Inform
+D : Of course in that we could put L_C_D_ or recognition to be more technologically innovative .
+to --> 
+dialogue type : Inform
+D : And the third one is easy to use .
+
+to --> 
+dialogue type : Inform
+C : since we haven't yet a remote who are allowing to to choose interactively with the T_V_ screen uh uh with just four buttons .
+
+to --> 
+dialogue type : Inform
+C : Well I think that the technical in innovation is is in the product itself
+
+to --> 
+dialogue type : Inform
+D : here you can find these are the latest fashion updates ,
+to --> 
+dialogue type : Inform
+D : and so this in Paris and Milan they have detected this trends that the this year it's going to be an year of fruit and vegetable ,
+to --> 
+dialogue type : Inform
+D : so people are really interested to see if they have an remote in the shape of the fruit or a vegetable , or whatever they like .
+to --> 
+dialogue type : Inform
+D : So I think it should be much more customised to make a different uh shapes .
+to --> 
+dialogue type : Inform
+D : And the second thing is , and if the material , they really do not want it to be very hard , as in the case of very pl plastic or titanium ,
+to --> 
+dialogue type : Inform
+D : it should be somewhat spongy .
+
+to --> 
+dialogue type : Suggest
+B : you should find a material that is robust at the same time spongy .
+
+to --> 
+dialogue type : Inform
+D : Yeah so uh so finally we have these three criterias .
+to --> 
+dialogue type : Inform
+D : One is fancy look ,
+to --> 
+dialogue type : Inform
+D : second is innovative ,
+to --> 
+dialogue type : Inform
+D : and third is easy to use .
+
+to --> 
+dialogue type : Inform
+D : So and we have an evaluation criteria for each one of these ,
+to --> 
+dialogue type : Inform
+D : say that we have a seven point scale , from one to seven ,
+to --> 
+dialogue type : Suggest
+D : and for each of the product you could just give me the scale according to this .
+
+to --> 
+dialogue type : Inform
+D : so on this scale , if it is true , if it is if it has a fancy look you could just tell me one ,
+
+to --> 
+dialogue type : Inform
+D : So now you have with L_C_D_ and without L_C_D_ ,
+
+to --> 
+dialogue type : Inform
+D : or if it is false , it doesn't it looks uh it doesn't look much fancy , then you could just tell me seven .
+
+to --> 
+dialogue type : Elicit-Inform
+B : But who will give the scoring uh we ourself or or a third party ?
+
+to --> 
+dialogue type : Inform
+D : according to you designers ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : On on this scale the L_C_D_ remote control . How do you look how does it look ?
+to --> 
+dialogue type : Elicit-Assessment
+D : D is it very fancy or doesn't look much fancy ?
+
+to --> 
+dialogue type : Assess
+C : I'll I'll say three or four .
+
+to --> 
+dialogue type : Assess
+B : I think we can improve on the design .
+
+to --> 
+dialogue type : Inform
+B : Som someone um commented this is like a the stone age uh design .
+to --> 
+dialogue type : Inform
+B : Um we have been focused all all this time on the on the technical aspect , functional aspect , but also the simplicity .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So I take three on with L_C_D_ ?
+to --> 
+dialogue type : Elicit-Assessment
+D : So without L_C_D_ how would you rate it ?
+
+to --> 
+dialogue type : Assess
+C : Uh four .
+to --> 
+dialogue type : Inform
+C : I think it's it's uh more easy to make f fancy things when it's not complicated
+to --> 
+dialogue type : Inform
+C : so removing the L_C_D_ um gives us a li more liberty to to have a fancy look .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : And in the sense of innovativeness , with L_C_D_ .
+
+to --> 
+dialogue type : Inform
+C : Well it's it's the same for both
+to --> 
+dialogue type : Assess
+C : so I will give a five , six .
+
+to --> 
+dialogue type : Inform
+B : from the innovation aspect I feel that uh what is most innovative of our prototype compared to the existing prototypes that we saw l in the last meeting is that um the retrieval of T_V_ programmes by content ,
+
+to --> 
+dialogue type : Inform
+B : and for now and another innovation we have is simplicity
+to --> 
+dialogue type : Inform
+B : and simplicity , few buttons , we've uh A lot of functionalities .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So without L_C_D_ ?
+
+to --> 
+dialogue type : Inform
+C : Mm for both it's the the same innovations .
+
+to --> 
+dialogue type : Assess
+B : So maybe I can put six to seven .
+
+to --> 
+dialogue type : Inform
+D : actually uh to make it with L_C_D_ you make more efforts .
+
+to --> 
+dialogue type : Assess
+D : then when it is without L_C_D_ there is not much innovativeness .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Uh uh uh there w there was a there was a issue here is that what are what is the display on the L_C_D_ ?
+
+to --> 
+dialogue type : Inform
+C : but you have the same programme on the T_V_ screen .
+
+to --> 
+dialogue type : Inform
+B : We haven't really uh determined what are actually actually
+
+to --> 
+dialogue type : Inform
+D : I mean on the L_C_D_ , according to what I understand from your model is , you have a joystick here , and you have L_C_D_ , you just press your joystick , you get here a programme .
+
+to --> 
+dialogue type : Inform
+D : on the T_V_ you don't it doesn't display on the T_V_ now .
+
+to --> 
+dialogue type : Inform
+C : If you have the L_C_D_ ,
+
+to --> 
+dialogue type : Inform
+D : Then uh there is no meaning in having it on the T_V_ .
+
+to --> 
+dialogue type : Inform
+B : But you cannot display all on a L_C_D_ .
+to --> 
+dialogue type : Inform
+B : Anyway for for the users who who who opt for L_C_D_ we'll give them the give them the L_C_D_ ,
+
+to --> 
+dialogue type : Inform
+D : So without L_C_D_ you want to put it fi the same level of innovativeness ?
+
+to --> 
+dialogue type : Assess
+C : Well I think both are really easy to use
+
+to --> 
+dialogue type : Inform
+C : and uh well t p the menu are clear , well-organised , so
+
+to --> 
+dialogue type : Assess
+C : so I will give a six for the easy to use .
+
+to --> 
+dialogue type : Inform
+A : No it's just if I I see the the f the rate I think it's better to do it without L_C_D_ .
+to --> 
+dialogue type : Inform
+A : Because that's with L_C_D_ just will increase the price ,
+
+to --> 
+dialogue type : Suggest
+D : So I mean in the product design you could just amend it to make some few changes
+to --> 
+dialogue type : Inform
+D : according to fruit and vegetable
+to --> 
+dialogue type : Inform
+D : or a spongy touch
+to --> 
+dialogue type : Inform
+D : without L_C_D_ and without speech recognition .
+
+to --> 
+dialogue type : Offer
+B : I have another thing to say about the easy to use aspect .
+to --> 
+dialogue type : Inform
+B : I think the easy to use uh aspect is different for different people .
+to --> 
+dialogue type : Inform
+B : For the young generation easy to use may be very complicated
+to --> 
+dialogue type : Inform
+B : because uh they w they wants lot of controls with lots of buttons .
+to --> 
+dialogue type : Inform
+B : For kids they want simply the s similarit for the old people they want simplicity ,
+
+to --> 
+dialogue type : Inform
+B : but but uh what I'm trying to say here is that the um we have different sets of buttons for different kinds of people .
+
+to --> 
+dialogue type : Suggest
+D : So without L_C_D_ I just take it five ?
+
+to --> 
+dialogue type : Assess
+C : Um six .
+
+to --> 
+dialogue type : Inform
+D : and it's going to be much simpler to use .
+
+to --> 
+dialogue type : Suggest
+C : so let's go back to our laboratory and
+
+to --> 
+dialogue type : Inform
+B : To improve on the design .
+
+to --> 
+dialogue type : Elicit-Inform
+A : what about the integration of speech recognition ?
+
+to --> 
+dialogue type : Inform
+B : The speech recogniser is a add-on module .
+
+to --> 
+dialogue type : Inform
+D : That's going to be an optional .
+
+to --> 
+dialogue type : Assess
+D : S s oh I think it's better to have this without L_C_D_ .
+to --> 
+dialogue type : Inform
+D : As our Programme Manager s Pro Project Manager says that without L_C_D_ it is going to reduce the cost also ,
+
+to --> 
+dialogue type : Suggest
+A : I think it will be better if we have all these modules in the same remote control ,
+to --> 
+dialogue type : Inform
+A : because maybe parents will lose these uh
+
+to --> 
+dialogue type : Inform
+D : but I mean if you have an add-ons , the kids may just uh hide the parental module
+
+to --> 
+dialogue type : Inform
+A : Or maybe parents they can for forget where they put it or ,
+
+to --> 
+dialogue type : Inform
+B : The problem is if i we are bla if a customer wants a certain component , and doesn't want the parental control because it's a couple who do not have children
+to --> 
+dialogue type : Inform
+B : when you sell the product in the market you could meet any kind of people ,
+to --> 
+dialogue type : Inform
+B : and not all people will need all the functionalities we propose to them .
+
+to --> 
+dialogue type : Inform
+A : So you mean that even if these modules will be will be functional uh will be optional .
+
+to --> 
+dialogue type : Elicit-Inform
+B : But the the question is n does those modularity increase the production cost or decrease the production cost ?
+
+to --> 
+dialogue type : Assess
+A : I think it inc increase .
+
+to --> 
+dialogue type : Inform
+C : because it's three different pieces uh to to to build but
+
+to --> 
+dialogue type : Assess
+C : it's I think it's cheaper if you if you already built the all the functionalities um on the same module , but uh
+
+to --> 
+dialogue type : Inform
+B : Well well the other aspect is that if in the when they have the ar existing product you you gonna maintain the the you're gonna keep the same customer ,
+to --> 
+dialogue type : Inform
+B : because the same customer will come back to buy other add-ons .
+
+to --> 
+dialogue type : Inform
+B : i i so if don't don't buy now they can buy i in the future .
+
+to --> 
+dialogue type : Inform
+B : attracting them to come back in again and again .
+
+to --> 
+dialogue type : Assess
+B : Yeah well if the buyers can be up the th would be can be upgraded , it would be a good thing right ?
+
+to --> 
+dialogue type : Elicit-Inform
+D : And uh what's the idea about uh the shape of the remote controls ?
+to --> 
+dialogue type : Elicit-Inform
+D : Uh can they be made into a fruit and vegetable types ?
+
+to --> 
+dialogue type : Inform
+C : but we are also the um well the components will have to change
+to --> 
+dialogue type : Inform
+C : because uh we have to deal with the shape
+
+to --> 
+dialogue type : Suggest
+D : Or uh it could be like this the P_C_B_ would be the same for all , but only the exterior uh shape is different o for all .
+
+to --> 
+dialogue type : Suggest
+B : What we can change is to propose the customers with skins .
+to --> 
+dialogue type : Inform
+B : For example the i the mobile phones nowaday , they sell different kinds of skin
+to --> 
+dialogue type : Inform
+B : and then people just feel that oh I have a new skin and looks better .
+
+to --> 
+dialogue type : Suggest
+C : we can have the same global shape
+to --> 
+dialogue type : Suggest
+C : and then uh add on skins and with with this uh tex spongy texture uh things like that .
+
+to --> 
+dialogue type : Suggest
+D : I think you need to look into the material .
+
+to --> 
+dialogue type : Suggest
+D : I think the Project Manager would be interested to look about the financial issues in making these models .
+
+to --> 
+dialogue type : Other
+A : Project evaluation project satisfaction , for example .
+to --> 
+dialogue type : Inform
+A : I don't know , we have to ask these question .
+
+to --> 
+dialogue type : Inform
+B : Room for creativity .
+to --> 
+dialogue type : Assess
+B : This room is a bit small , but
+to --> 
+dialogue type : Assess
+B : but I think it's okay for us to work with .
+
+to --> 
+dialogue type : Assess
+D : This is fine for making a presentat for project presentations .
+to --> 
+dialogue type : Assess
+D : And the leadership was excellent .
+
+to --> 
+dialogue type : Assess
+A : Yeah I think so .
+
+to --> 
+dialogue type : Assess
+A : Uh the teamwork was very very good .
+
+to --> 
+dialogue type : Inform
+D : And new ideas found .
+
+to --> 
+dialogue type : Suggest
+C : Come up with new product .
+to --> 
+dialogue type : Suggest
+C : Yeah and also more well uh more seriously I think it's it's a good idea to have uh clear clear points whenever we do a meeting
+to --> 
+dialogue type : Suggest
+C : uh prior to the meeting to have uh well a list with the points who will be discussed or things like that ,
+
+to --> 
+dialogue type : Inform
+C : We achieved uh project goal I think .
+
+to --> 
+dialogue type : Inform
+D : that is within the budget .
+
+to --> 
+dialogue type : Assess
+C : yes , more or less .
+
+to --> 
+dialogue type : Inform
+A : Without without L_C_D_ , without speech recognition , it will be simple .
+
+to --> 
+dialogue type : Be-Positive
+A : Yeah thank you for your work and
+

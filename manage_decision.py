@@ -2,15 +2,16 @@ from os import listdir
 from os.path import isfile, join
 import xml.etree.ElementTree as ET
 
+import tools
 from meeting import meeting
 
 # this is just for automatic corpus
 
-def get_decisions_list():
-    path = '../../AMI/ami_public_manual/decision/manual'
-    files = [f for f in listdir(path) if isfile(join(path, f))]
-
-    return files
+# def get_decisions_list():
+#     path = '../../AMI/ami_public_manual/decision/manual'
+#     files = [f for f in listdir(path) if isfile(join(path, f))]
+#
+#     return files
 
 class decision(meeting):
 
@@ -64,9 +65,9 @@ class decision(meeting):
 
         return
 
+tool = tools.tools('decision/manual')
 
-
-for file in get_decisions_list():
+for file in tool.get_list()[0:1]:
     print file
     d = decision(file)
     d.get_decisions()

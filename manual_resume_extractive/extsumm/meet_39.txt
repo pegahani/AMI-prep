@@ -1,0 +1,295 @@
+to --> ,A
+dialogue type : Inform
+A : Uh first we going uh over the minutes of the last meeting , more or less .
+to --> 
+dialogue type : Inform
+A : Um in the last meeting uh the marketing manager had presented uh her method of working ,
+
+to --> 
+dialogue type : Inform
+A : Our technical manager has then said that she feels it should have a chip
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Uh are we all in agreement that that's about what we discussed last time ?
+
+to --> 
+dialogue type : Inform
+B : Now as an interface designer , I would give more emphasis on the interface , how the remote looks like
+
+to --> 
+dialogue type : Inform
+B : Okay . Now the function of a remote is to send messages to the television .
+
+to --> 
+dialogue type : Inform
+B : Then it should have a next button ,
+
+to --> 
+dialogue type : Inform
+B : Then , there should be a button which can give subtitles for a particular program which is going on a television .
+
+to --> 
+dialogue type : Inform
+B : Then there should d uh there should be some buttons which can control features like the colour , colour of the picture , the contrast , sharpness , brightness of the picture .
+to --> 
+dialogue type : Inform
+B : Now there should be a memory switch .
+
+to --> 
+dialogue type : Inform
+B : Now the most important feature I would like to have in my remote would be the speech recognition feature .
+
+to --> 
+dialogue type : Inform
+B : for example , if you want to see we if you want to see the ninth channel if you say just say ninth channel , uh th now the the uh yeah , the remote will automatically it will switch to the ninth channel .
+
+to --> 
+dialogue type : Inform
+B : So this is one one of the interface which can be created .
+to --> 
+dialogue type : Inform
+B : A very simple interface which has all the t uh uh important features .
+
+to --> 
+dialogue type : Inform
+B : Then , these are some of the remotes which are different in shape and colour , but they have many buttons .
+
+to --> 
+dialogue type : Inform
+B : So you can you can design an interface which is very simple , and which is user-friendly .
+
+to --> 
+dialogue type : Inform
+B : Yeah , so this is one of the interface or one of the remote which has this vi voice recogniser .
+
+to --> 
+dialogue type : Inform
+B : Yeah , now this is an interface for a chil uh for a remote uh uh which a child can use .
+
+to --> 
+dialogue type : Inform
+B : And this comes with different colours , different shapes .
+
+to --> 
+dialogue type : Inform
+B : Now this is a big over-sized remote which cannot be misplaced or it's impossible to misplace .
+
+to --> 
+dialogue type : Suggest
+B : And the personal preference uh would be a spe uh uh to incorporate speech recognisers uh which will respond to user's voice for a particular uh function .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Uh any comments on uh her presentation ?
+
+to --> 
+dialogue type : Inform
+D : Well , um looks like we still have quite a choice of things out there .
+
+to --> 
+dialogue type : Suggest
+D : But uh we're gonna have to narrow it down a little more .
+
+to --> 
+dialogue type : Assess
+D : No , I think her presentation was good , and she really explored all the options . Yeah .
+
+to --> 
+dialogue type : Offer
+C : Um this time I'm I'm going to um concentrate more on the components and the technical side of the remote controller design .
+
+to --> 
+dialogue type : Inform
+C : I have just brief uh down few uh components which we require for the remote control uh construction .
+to --> 
+dialogue type : Inform
+C : Uh the first one is case to keep all the components like integrated circuit , battery , etcetera , etcetera ,
+
+to --> 
+dialogue type : Inform
+C : like uh if we want to have different colours , blue , red , green , so uh uh we have to use uh some colouring compone compone components .
+to --> 
+dialogue type : Inform
+C : And uh the second important thing is uh uh uh integrated circuit .
+to --> 
+dialogue type : Inform
+C : Uh which uh we can use a highly sophisticated one because it's like the it's like the heart of the remote controller .
+
+to --> 
+dialogue type : Inform
+C : So it should be strong .
+
+to --> 
+dialogue type : Inform
+C : And it should be recyclable .
+
+to --> 
+dialogue type : Inform
+C : And the uh other component we should uh we have in the remote controller is a resistor
+
+to --> 
+dialogue type : Inform
+C : uh if we will be able to make a res rechargeable battery then we sh we need not go for a high performance battery ,
+
+to --> 
+dialogue type : Inform
+C : this is a normal remote controller .
+
+to --> 
+dialogue type : Inform
+C : like you can see a chip there which is having eighteen pins ,
+
+to --> 
+dialogue type : Inform
+C : you can see the T_A_ double one eight three five labelled uh chip um .
+to --> 
+dialogue type : Inform
+C : Uh you can also see the uh uh the green two green things are uh these are they are they are resistors ,
+
+to --> 
+dialogue type : Inform
+C : Actually , uh building a circuit bo board is pretty pretty uh easy and also it's a it's a l l inexpensive .
+
+to --> 
+dialogue type : Inform
+C : Uh b but a b a push-button requires a simple chip underneath it , but whereas a scroll wheel requires normally a regular chip which is a higher price range .
+to --> 
+dialogue type : Inform
+C : Like for s scrolls we have to go for a sophisticated and and k uh uh uh full a complete chip .
+
+to --> 
+dialogue type : Inform
+C : uh or we can use solar sells .
+
+to --> 
+dialogue type : Inform
+C : Uh and a as energy source we offer a basic battery , a more ingenious uh hard dynamo , um a kinetic provision of energy ,
+
+to --> 
+dialogue type : Inform
+C : Like we can have a ma material such as plastic , rubber , wood , titanium ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : Uh yeah , on the scroll and the push-button , um ca you can achieve scrolling by repeatedly pushing a button ?
+
+to --> 
+dialogue type : Inform
+C : No , no , no , th the the the scrolling wheels are different ,
+to --> 
+dialogue type : Inform
+C : like you can go for a sw switches like buttons or scrolls , uh which which we used to do before ten ten years before , I think .
+to --> 
+dialogue type : Inform
+C : Now , nobody uses that because you need you need a a k sophisticated chip and all .
+to --> 
+dialogue type : Suggest
+C : So I think it's better we go for uh um ordinary buttons .
+
+to --> ,A
+dialogue type : Inform
+A : We don't have a lot of time left
+to --> ,A
+dialogue type : Suggest
+A : and we will still have to make a decision ,
+
+to --> 
+dialogue type : Inform
+D : Um alright , my method is uh I'm interested in what the competition is doing , and wanna see how we can make ourselves different from the competition ,
+
+to --> 
+dialogue type : Inform
+D : Um and my findings from this is that , you know , small is beautiful .
+
+to --> 
+dialogue type : Inform
+D : Simple is beautiful .
+
+to --> 
+dialogue type : Inform
+D : And eye-catching is important .
+
+to --> 
+dialogue type : Inform
+D : And in my research this year I found out that fruit and vegetable shapes are really popular .
+
+to --> 
+dialogue type : Inform
+D : They are more back into soft feel , spongy feeling things , things with maybe a little cloth on them .
+
+to --> ,A
+dialogue type : Suggest
+A : And what we really have to decide in this meeting is um the concept of the remote .
+
+to --> 
+dialogue type : Assess
+B : This could be uh one feature which could be sellable .
+
+to --> 
+dialogue type : Suggest
+B : I would like to include this feature which is called as voice recogniser .
+
+to --> 
+dialogue type : Assess
+C : Yeah , but but I what I'm uh very very much doubtful how how uh far it will work ,
+to --> 
+dialogue type : Inform
+C : because a speech recogniser like i it it has its own uh uh problems , issues .
+
+to --> 
+dialogue type : Inform
+C : So to get a good recogni recognising system , it's a costly thing , I think .
+
+to --> 
+dialogue type : Inform
+B : it it's like your recording of uh all uh um a question already , and then you're expecting an answer from th
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : What kind of energy do we foresee ?
+
+to --> 
+dialogue type : Suggest
+D : I think I think battery ,
+to --> 
+dialogue type : Inform
+D : and I think we all agreed on that .
+to --> 
+dialogue type : Assess
+D : That that's that's gonna be most cost-effective and the best thing .
+
+to --> 
+dialogue type : Assess
+D : Bright , colourful , trendy trendy design , and strong .
+
+to --> 
+dialogue type : Assess
+A : Trendy design , compact and strong .
+
+to --> 
+dialogue type : Inform
+A : Not sure what they mean by supplements .
+
+to --> 
+dialogue type : Inform
+D : Her speech recognition feature would be a supplement .
+to --> 
+dialogue type : Suggest
+D : Okay , so why don't we put down speech recognition if possible pending some more research from our industrial engineer on how expensive that is .
+
+to --> 
+dialogue type : Inform
+A : and the marketing expert with the product evaluation .
+
+to --> 
+dialogue type : Inform
+A : and uh the U_I_D_ is supposed to uh come up with the user interface design ,
+
+to --> 
+dialogue type : Inform
+A : In this phase , the two of you , Jana and Francine , have to work together on a prototype using modelling clay , it says here .
+to --> 
+dialogue type : Inform
+A : You will receive specific instructions will be sent to you by your coaches .
+

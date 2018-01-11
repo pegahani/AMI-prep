@@ -1,0 +1,612 @@
+to --> 
+dialogue type : Inform
+A : I've uh made a presentation
+to --> 
+dialogue type : Offer
+A : uh but uh I'll open it on the Smartboard , so we can all see it .
+
+to --> 
+dialogue type : Inform
+A : Well this is called the the the kick-off meeting .
+to --> 
+dialogue type : Inform
+A : So uh I'm the Project Manager ,
+
+to --> ,A
+dialogue type : Inform
+A : And an uh a nice agenda .
+to --> ,A
+dialogue type : Inform
+A : Uh we'll do the opening
+to --> ,A
+dialogue type : Inform
+A : and then uh we'll meet each other ,
+
+to --> ,A
+dialogue type : Inform
+A : I'll I'll show you the the tools we have here , so that we can all use them .
+
+to --> ,A
+dialogue type : Inform
+A : We'll discuss about our first ideas about the project ,
+to --> ,A
+dialogue type : Inform
+A : and then uh we'll close the meeting ,
+to --> ,A
+dialogue type : Inform
+A : and then we can uh individually uh do our things
+to --> ,A
+dialogue type : Inform
+A : and then uh we'll get back here .
+
+to --> 
+dialogue type : Inform
+A : We have to uh design a new television remote control .
+
+to --> 
+dialogue type : Inform
+A : Um we want it to be original ,
+to --> 
+dialogue type : Inform
+A : so a nice uh a nice new design .
+to --> 
+dialogue type : Inform
+A : Uh trendy , it's also for young people ,
+to --> 
+dialogue type : Inform
+A : and we have to just uh make it uh modern .
+to --> 
+dialogue type : Inform
+A : And uh friendly ,
+to --> 
+dialogue type : Inform
+A : so size does matter .
+to --> 
+dialogue type : Inform
+A : And uh Well it has to be a have the the right uh the right buttons on the right place , that kin those kind of things .
+
+to --> ,A
+dialogue type : Inform
+A : There happen to be uh three stages .
+
+to --> ,A
+dialogue type : Inform
+A : functional , conceptual , and d detailed design .
+to --> ,A
+dialogue type : Inform
+A : Um so every time we we'll do some individual work , get meeting , talk about it , uh and then go into the next phase .
+
+to --> 
+dialogue type : Inform
+A : We have uh these two Smartboards .
+to --> 
+dialogue type : Inform
+A : Um well as I just showed , there's a project management folder , a project document folder on the desktop .
+to --> 
+dialogue type : Inform
+A : It just works exactly the same as a computer .
+to --> 
+dialogue type : Inform
+A : You just uh click on the on the folder and you open the everything you you put in it with your laptop .
+
+to --> 
+dialogue type : Inform
+A : Um and the w the r uh the rest uh also works the same so uh when you open a notepad you uh you just get your uh things ,
+
+to --> 
+dialogue type : Inform
+A : This is a uh well a drawing board .
+to --> 
+dialogue type : Inform
+A : you have a these different uh functions on the board .
+
+to --> 
+dialogue type : Inform
+A : So you have a a nice pen ,
+to --> 
+dialogue type : Inform
+A : and it's works just like a bal ball pen .
+
+to --> 
+dialogue type : Inform
+A : Of course w doesn't work any more .
+
+to --> 
+dialogue type : Inform
+A : We can uh uh well you can save a file .
+to --> 
+dialogue type : Inform
+A : So if uh we draw we have to save everything .
+
+to --> 
+dialogue type : Inform
+A : Uh just we can start a new one , and we just go on , and don't throw anything away .
+
+to --> 
+dialogue type : Inform
+A : Um you can here select a pen ,
+
+to --> 
+dialogue type : Assess
+A : It's a bit uh childish you have to write .
+to --> 
+dialogue type : Assess
+A : It's not as fast as you w you know it ,
+to --> 
+dialogue type : Inform
+A : but it does work sometimes .
+
+to --> 
+dialogue type : Inform
+A : So um we all uh are going to uh draw a nice animal on this board ,
+
+to --> 
+dialogue type : Inform
+A : We going to try it .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Alright , your favourite animal ?
+
+to --> 
+dialogue type : Offer
+A : I'm just uh going to uh well draw a nice uh beast
+
+to --> 
+dialogue type : Assess
+C : I hope this was part of the assignment and not uh your personal uh enjoyment .
+
+to --> 
+dialogue type : Inform
+A : Ah the first the first meeting is just a bit uh loose , loosen up , a bit uh meeting each other
+
+to --> 
+dialogue type : Inform
+D : We're kinda losing time , though .
+
+to --> 
+dialogue type : Inform
+C : It's a hedgehog .
+
+to --> 
+dialogue type : Suggest
+A : and now uh our Industrial Designer can uh draw its uh most favourite animal .
+
+to --> 
+dialogue type : Inform
+D : It's a rabbit .
+
+to --> 
+dialogue type : Suggest
+A : save it and start a new uh
+
+to --> 
+dialogue type : Assess
+C : These are very important documents , of course , uh these drawings , uh
+
+to --> 
+dialogue type : Inform
+A : Yeah well we have to save everything
+
+to --> 
+dialogue type : Inform
+A : There's also different colours
+to --> 
+dialogue type : Inform
+A : and different uh well pen widths uh the line the the thickness thickness .
+
+to --> 
+dialogue type : Inform
+B : It's just a bird .
+
+to --> 
+dialogue type : Suggest
+A : you choose a new colour .
+to --> 
+dialogue type : Suggest
+A : And a new pen width uh also format .
+
+to --> 
+dialogue type : Inform
+A : It's a cat .
+
+to --> 
+dialogue type : Inform
+A : Well then uh the serious uh stuff .
+to --> 
+dialogue type : Inform
+A : We're we want to sell it at twenty five Euros internationally
+to --> 
+dialogue type : Inform
+A : um so um but we dunno what exactly th i it is in dollars , but uh twenty five Euros .
+to --> 
+dialogue type : Inform
+A : Our profit aim is , worldwide , fifty million Euros .
+to --> 
+dialogue type : Inform
+A : So I didn't uh exactly uh calculate how much we have to sell .
+to --> 
+dialogue type : Inform
+A : we want to keep it our costs at twelve and a half Euros
+to --> 
+dialogue type : Suggest
+A : so , keep uh that in mind when we uh talk about our uh materials an f and stuff , and uh marketing uh research .
+to --> 
+dialogue type : Inform
+A : Now then we all uh we can uh sit down and discuss uh what do we think about our current remote controls ,
+to --> 
+dialogue type : Inform
+A : first about design uh about uh aim in the market etcetera ?
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Well who has uh some uh remarks about the current uh remote controls ?
+
+to --> 
+dialogue type : Inform
+C : Well I I didn't have to prepare anything about uh
+to --> 
+dialogue type : Inform
+C : it's not , it's it's not my task to uh talk about uh experience with current remote controls ,
+
+to --> 
+dialogue type : Fragment
+A : Well uh just w we're uh four uh if we if we would just have one then
+
+to --> 
+dialogue type : Suggest
+D : I think it's im it's important to uh look at uh the remote controls of our competitors .
+to --> 
+dialogue type : Suggest
+D : Get the good points
+to --> 
+dialogue type : Suggest
+D : uh try to merge them into one universal remote control .
+to --> 
+dialogue type : Inform
+D : On our corporate site I saw uh a new D_V_D_ player uh we're gonna produce .
+to --> 
+dialogue type : Suggest
+D : Maybe it's important to make it compatible with the D_V_D_ player
+
+to --> 
+dialogue type : Inform
+D : Furthermore it's important to make it uh acceptable for the whole world , for different cultures , maybe ,
+to --> 
+dialogue type : Inform
+D : because we want to we want to well fifty million ?
+
+to --> 
+dialogue type : Inform
+C : No but uh the b the buttons have to uh have to have uh international recognisable buttons and uh
+to --> 
+dialogue type : Inform
+C : and numbers and uh that every culture in uh , yeah , people in every country can recognise .
+
+to --> 
+dialogue type : Inform
+B : I also think we should not add too many buttons .
+to --> 
+dialogue type : Assess
+B : Modern day uh remotes have too much buttons I think .
+
+to --> 
+dialogue type : Inform
+A : Y y you don't use uh the half of them that's that's
+
+to --> 
+dialogue type : Suggest
+D : and make the other buttons uh multi-functional or something .
+
+to --> 
+dialogue type : Suggest
+D : Maybe we could make one button to switch between D_V_D_ player and T_V_
+
+to --> 
+dialogue type : Inform
+C : so it doesn't uh become too complicated with too much buttons and uh
+
+to --> 
+dialogue type : Suggest
+B : we should make it compatible perhaps with everything we use , we uh we make ?
+
+to --> 
+dialogue type : Suggest
+A : and maybe we do uh we even have uh more than just a D_V_D_ player .
+
+to --> 
+dialogue type : Suggest
+C : And stereo uh s uh audio installations .
+
+to --> 
+dialogue type : Inform
+B : And I think the people who who will buy our uh remote already have some experience with remotes .
+
+to --> 
+dialogue type : Inform
+A : because we look at competitors
+to --> 
+dialogue type : Suggest
+A : and w if we pick up the good things about that and give it a nice design
+
+to --> 
+dialogue type : Suggest
+C : It has to be different and familiar at the same time .
+
+to --> 
+dialogue type : Suggest
+B : we could use another form or shape or colour , that kind of things .
+
+to --> 
+dialogue type : Inform
+C : I thought about uh like most uh remote controls uh are uh a long box shaped thing
+to --> 
+dialogue type : Suggest
+C : you can make it uh triangle shaped ,
+to --> 
+dialogue type : Assess
+C : but that's not uh very recognisable .
+
+to --> 
+dialogue type : Suggest
+B : Well we we could make more more oval or something , and and
+
+to --> 
+dialogue type : Suggest
+A : N we can use uh it as a as a game pad .
+to --> 
+dialogue type : Suggest
+A : So one hand has the beer , so the other hand uh
+
+to --> 
+dialogue type : Inform
+B : but young people want something different
+
+to --> 
+dialogue type : Inform
+D : Yeah but it's quite important that it fits .
+
+to --> 
+dialogue type : Inform
+A : one of our aims is that it has to be original and trendy so
+to --> 
+dialogue type : Inform
+A : Well there has been done a lot of researches about remotes uh we have to we can imagine uh
+
+to --> 
+dialogue type : Inform
+C : so the long box uh shaped thing must be uh , yeah , useful
+
+to --> 
+dialogue type : Inform
+A : for me personally I have a a lot of remotes uh at home
+to --> 
+dialogue type : Inform
+A : but those ones that have a a round ending and uh well uh just an uh square uh middle I don't like to use them .
+
+to --> 
+dialogue type : Inform
+A : When it falls over it and I just have and then the button that I use most has to be here .
+
+to --> 
+dialogue type : Inform
+D : It shouldn't be boxy .
+
+to --> 
+dialogue type : Inform
+D : I don't agree with the long box uh shape
+
+to --> 
+dialogue type : Inform
+C : But it does fit in the hand if you hold it like this ,
+to --> 
+dialogue type : Inform
+C : and you can make it another shape ,
+
+to --> 
+dialogue type : Inform
+B : No if y if you look at new Phillips uh D_V_D_ with their uh remotes pl players they they are the new remotes aren't box shaped .
+
+to --> 
+dialogue type : Inform
+D : No that's ol old fashioned .
+
+to --> 
+dialogue type : Inform
+B : Well most of of them are are somewhat thicker at the end ,
+to --> 
+dialogue type : Inform
+B : and get um yeah thinner towards the uh the other end .
+
+to --> 
+dialogue type : Inform
+C : uh but then with some uh round uh round forms in it to fit your hand ,
+
+to --> 
+dialogue type : Inform
+A : A it h it has it it has a that's tha th th shape that it fits your hand .
+
+to --> 
+dialogue type : Suggest
+D : It shouldn't be too boxy , you know .
+
+to --> 
+dialogue type : Inform
+C : but no no I don't mean an entire box like completely square
+to --> 
+dialogue type : Inform
+C : but a also with round edges of course ,
+to --> 
+dialogue type : Inform
+C : but in in in at the end it's still this long box shape with convenient uh round uh shapes uh to fit .
+
+to --> 
+dialogue type : Suggest
+C : A big recognisable button on top or something .
+to --> 
+dialogue type : Suggest
+C : The buttons should uh also be not too small , not too big , of course ,
+to --> 
+dialogue type : Suggest
+C : and uh n uh uh not too close uh together .
+
+to --> 
+dialogue type : Suggest
+D : But it should be possible to to um make it ap apparent that there are two functions for every button .
+
+to --> 
+dialogue type : Suggest
+C : Yeah of course uh to uh to uh to have icons to explain the different functions .
+
+to --> 
+dialogue type : Suggest
+D : and maybe we should use colours .
+
+to --> 
+dialogue type : Suggest
+B : Yeah maybe we can um just like on cell phones those um well you can you can put on on them ,
+to --> 
+dialogue type : Suggest
+B : and so you can customise your uh your own remote with different colours or or special paint jobs
+
+to --> 
+dialogue type : Assess
+D : That's kinda trendy .
+
+to --> 
+dialogue type : Assess
+A : Sound nice . Yes .
+
+to --> 
+dialogue type : Suggest
+C : I think we have to talk also about uh the the materials for um
+
+to --> 
+dialogue type : Inform
+A : so I think individually we'll have to uh come up with ideas for the next meeting about these materials and markets etcetera .
+
+to --> 
+dialogue type : Inform
+A : Well it's just uh about our first ideas now
+
+to --> 
+dialogue type : Suggest
+D : I think it's uh it's important to uh notate all the the decisions that we make ,
+
+to --> 
+dialogue type : Inform
+A : You'll get specific instructions when you're back in your room so uh it's uh logical uh . I think .
+
+to --> 
+dialogue type : Inform
+A : So we'll just get a notice that the the meeting is uh over .
+
+to --> 
+dialogue type : Suggest
+C : Yeah now we can still talk about the material ,
+
+to --> 
+dialogue type : Suggest
+C : I w wrote down uh that the case should be plastic of course , hard plastic ,
+to --> 
+dialogue type : Suggest
+C : the buttons should be uh rubbery I think uh .
+
+to --> 
+dialogue type : Suggest
+D : Yeah it shouldn't be too heavy .
+
+to --> 
+dialogue type : Inform
+A : Well I have had remotes that um they had uh the function of the buttons was about uh uh a layer over the buttons
+
+to --> 
+dialogue type : Inform
+C : It it's a we we make an a universal remote so it ha has to work with uh all kinds of brands and things .
+
+to --> 
+dialogue type : Inform
+C : infrared beams an infrared beam I think .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Is there an a universal uh universal way of um transmitting from the remote to the television
+
+to --> 
+dialogue type : Inform
+C : The user presses a button and with an infrared beam it signals the television set accordingly ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Are we going w uh with the front uh fronts uh idea ?
+
+to --> 
+dialogue type : Suggest
+A : Well I think uh w we can look into that in the in the next uh thirty minutes .
+
+to --> 
+dialogue type : Inform
+D : and you can always use a front front on it , you know ?
+to --> 
+dialogue type : Suggest
+D : You can use it just plain
+to --> 
+dialogue type : Suggest
+D : but you can To make it more trendy .
+
+to --> 
+dialogue type : Suggest
+A : And we should uh dispatch those kind of fronts fronts a a around the world so uh
+
+to --> 
+dialogue type : Inform
+B : Well you can make profit with them ,
+to --> 
+dialogue type : Inform
+B : and it's a way to make them trendy .
+
+to --> 
+dialogue type : Inform
+C : Well but th but the standard front will be uh just grey or something
+
+to --> 
+dialogue type : Inform
+A : Yeah well it has to it h it has to fit the the te television and D_V_D_ set we are going to sell ,
+to --> 
+dialogue type : Inform
+A : so if they are uh black and black black and silver we'll make them black and silver so
+
+to --> 
+dialogue type : Inform
+D : But people of often don't like bright colours or something .
+to --> 
+dialogue type : Inform
+D : We have to make it grey or s or black .
+
+to --> 
+dialogue type : Suggest
+A : But that's uh marketing uh research you can uh you can ask uh .
+
+to --> 
+dialogue type : Suggest
+A : Well our user interface you can uh maybe uh I don't know what your specific instructions will be , but uh probably about uh the precision of the buttons and and those kind of things and what buttons will have to be on the uh remote .
+to --> 
+dialogue type : Inform
+A : And you will look into the technical design and um form , I think .
+
+to --> 
+dialogue type : Inform
+A : Finish meeting now .
+
+to --> 
+dialogue type : Inform
+A : Well uh we're going to back uh back into our rooms so
+
+to --> 
+dialogue type : Elicit-Inform
+B : Next meeting is in
+
+to --> 
+dialogue type : Inform
+A : In thirty minutes ,
+

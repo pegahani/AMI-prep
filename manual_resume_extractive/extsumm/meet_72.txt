@@ -1,0 +1,123 @@
+to --> 
+dialogue type : Be-Positive
+A : Hi everybody and welcome to our kick-off meeting um for our new product that we're gonna be designing .
+
+to --> 
+dialogue type : Inform
+A : Um I'm Mandy and I'm the Project Manager .
+to --> 
+dialogue type : Inform
+A : And I know all your names again , Courtney , Fenella and Amber .
+
+to --> 
+dialogue type : Inform
+A : Okay , here is our agenda for this meeting .
+
+to --> 
+dialogue type : Inform
+A : Um tool training , we're going to , I guess , figure out what to do on this project with our individual roles .
+to --> 
+dialogue type : Inform
+A : Um we're gonna make a project plan and then have some time for discussion and close up the meeting .
+
+to --> 
+dialogue type : Inform
+A : We're gonna make a new remote control that's um original , trendy and also user-friendly .
+
+to --> 
+dialogue type : Inform
+A : We're gonna have discuss the functional design first , how is it gonna be used , what's the actual goal here , it has to operate T_V_ , blah blah blah .
+to --> 
+dialogue type : Inform
+A : And we're going to do individual work on that and then meet .
+to --> 
+dialogue type : Inform
+A : Same thing with conceptual design .
+
+to --> 
+dialogue type : Inform
+A : And then the detailed design , just more in-depth , get the actual schematics of the remote .
+
+to --> 
+dialogue type : Inform
+A : First we're gonna start off by using our tools .
+
+to --> ,B
+dialogue type : Suggest
+B : I think we should forgo the whiteboard since we can't actually see what we're writing .
+
+to --> 
+dialogue type : Inform
+A : Um right now so we're all gonna draw our favourite animal and then sum up our favourite characteristics of that animal .
+
+to --> 
+dialogue type : Inform
+A : Um the selling price for our remote is going to be twenty-five Euro ,
+to --> 
+dialogue type : Inform
+A : and our profit aim is fifty million Euro .
+to --> 
+dialogue type : Inform
+A : We're going to make this an international product marketed in the States , in Europe , in Asia .
+to --> 
+dialogue type : Inform
+A : And um our production cost to make that profit is gonna be a max of twelve fifty Euro per remote .
+
+to --> 
+dialogue type : Inform
+A : Um here are some topics that we might be able to discuss .
+to --> 
+dialogue type : Inform
+A : Expe our experiences with remote controls um , our first ideas about this new remote ,
+to --> 
+dialogue type : Suggest
+A : anything that you can bring to the table for this project .
+
+to --> 
+dialogue type : Suggest
+B : Well , we wanna make a multifunctional remote ,
+
+to --> 
+dialogue type : Inform
+D : It needs to be compatible 'cause universal remote controls are never universal .
+
+to --> 
+dialogue type : Inform
+A : and um another thing that I think is important is the d the design of the product , how it feels in your hand .
+
+to --> 
+dialogue type : Inform
+A : They want the ergonomic ones .
+
+to --> 
+dialogue type : Inform
+A : If it's just flat and kind of boring th those don't Nobody wants to buy those any more .
+
+to --> 
+dialogue type : Elicit-Inform
+B : What kinda battery would we want to use ?
+
+to --> 
+dialogue type : Inform
+C : Double A_ .
+
+to --> 
+dialogue type : Inform
+D : So double or triple ?
+
+to --> 
+dialogue type : Assess
+A : it's okay , we don't have to decide about it now ,
+
+to --> 
+dialogue type : Inform
+A : you're going to think about the working design .
+
+to --> 
+dialogue type : Inform
+A : And U_I_D_ , the technical fun functions design ,
+
+to --> 
+dialogue type : Inform
+A : And the marketing person , that's Courtney , is going to do the user requirements specification .
+

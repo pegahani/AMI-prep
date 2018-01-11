@@ -1,0 +1,569 @@
+to --> ,A
+dialogue type : Inform
+A : Uh for the aim of this meeting now is to to make presentation about uh the work for each one .
+
+to --> ,A
+dialogue type : Inform
+A : And take the the decision about the the design and the functionality of the the remote control .
+to --> 
+dialogue type : Inform
+A : And we have think I got a new project requirement .
+to --> 
+dialogue type : Inform
+A : So I think uh teletext becomes outdated .
+
+to --> 
+dialogue type : Inform
+A : and I think we don't need lighting adaptive ,
+
+to --> 
+dialogue type : Inform
+A : So the popularity of the since the popularity of the internet ,
+
+to --> 
+dialogue type : Inform
+A : so the remote control should be only used for the the television .
+to --> 
+dialogue type : Inform
+A : And of course we should have our image in the in the design .
+to --> ,A
+dialogue type : Suggest
+A : So , let's start with the the industrial designer .
+
+to --> 
+dialogue type : Inform
+C : Right , so um I will talk about the the w working design and
+to --> 
+dialogue type : Inform
+C : And um well I I will present my my first idea on how to build the our new remote control for television .
+
+to --> 
+dialogue type : Inform
+C : So I think the first things to do is to define the hardware components neededs to achieve uh what we want to do .
+
+to --> 
+dialogue type : Offer
+C : I think uh I I'll do a survey about what is uh what is available on the market
+to --> 
+dialogue type : Offer
+C : and what what is the the cheapest possible things we hav we can use .
+to --> 
+dialogue type : Offer
+C : Then uh I will try with the technical team to to build a prototype
+
+to --> 
+dialogue type : Offer
+C : And how an and we can uh start troubleshooting first uh com communication problems or things like that .
+to --> 
+dialogue type : Suggest
+C : And when we are ready with this first prototype I I think we can add some software functionalities on a programmable chip like browsing by content or um things like that .
+
+to --> 
+dialogue type : Inform
+C : So , wha what I think for now is we don't want to have a remote control w which is wired
+to --> 
+dialogue type : Inform
+C : so uh I think we u we can use a battery for the .
+to --> 
+dialogue type : Suggest
+C : Then two programmable chips for both software functionalities and communication .
+to --> 
+dialogue type : Inform
+C : And the communication with the T_V_ set is uh made through uh infrared communication
+to --> 
+dialogue type : Inform
+C : So uh this is the the schema of the o of the future uh remote controls
+to --> 
+dialogue type : Inform
+C : so uh you can you can see the components , uh battery
+to --> 
+dialogue type : Inform
+C : and uh the two chips goes to the infrared uh connection to the T_V_ set .
+to --> 
+dialogue type : Inform
+C : The one on top is for the um well the functionali the functionalities
+
+to --> 
+dialogue type : Suggest
+D : One is a communication .
+
+to --> 
+dialogue type : Inform
+C : and the the th red um sorry the green one is is to well , putting things together ,
+to --> 
+dialogue type : Inform
+C : um f transform the data into uh qu into the format to to uh to communicate with the T_V_ set .
+
+to --> 
+dialogue type : Suggest
+C : I think we should use a F_P_G_A_ for for the functionalities which is easy to to t
+
+to --> 
+dialogue type : Elicit-Inform
+B : What is F_P_G_A_ ?
+
+to --> 
+dialogue type : Inform
+D : It's a field programmable gateway arrays .
+
+to --> 
+dialogue type : Elicit-Inform
+B : So why's it how is it different from the Bluetooth ?
+
+to --> 
+dialogue type : Inform
+C : Well , uh a F_P_G_A_ is just a chip you can uh you can pr programme it uh wi with wh whatever you want .
+to --> 
+dialogue type : Inform
+C : And uh well the Bluetooth chip is just responsible to uh make the communication uh between uh the two devices .
+
+to --> 
+dialogue type : Elicit-Inform
+B : So this are the they have to work together ?
+to --> 
+dialogue type : Elicit-Inform
+B : Or ? Do they have to work together or two separate choice
+
+to --> 
+dialogue type : Inform
+C : Well , th the F_P_G_A_ will produce the the data to send .
+
+to --> 
+dialogue type : Suggest
+D : Or it's something like isn't hardware the first one ?
+to --> 
+dialogue type : Suggest
+D : And the second one is for the software .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Okay , and how about the battery power ?
+to --> 
+dialogue type : Elicit-Inform
+D : Uh you mean that battery would be somewhere there and the remote contro the power to the battery comes through infrared ?
+
+to --> 
+dialogue type : Inform
+C : I think uh we have uh to to uh have uh embedded uh b batteries in in the
+
+to --> 
+dialogue type : Inform
+C : And uh I I don't think it will need um very uh much power to make it run , so
+
+to --> 
+dialogue type : Suggest
+B : Mm . You can put it on the charger when uh you when you don't need to use it .
+
+to --> 
+dialogue type : Assess
+C : It's a good idea .
+
+to --> 
+dialogue type : Inform
+D : Having a charger rather than putting the battery cells always .
+to --> 
+dialogue type : Inform
+D : People don't like it to have to buy the batteries when they run out .
+to --> 
+dialogue type : Inform
+D : We just make a small charger
+
+to --> 
+dialogue type : Suggest
+B : Because you are using because you are using Bluetooth , if some people have P_D_A_ they can use their P_D_A_ to control the T_V_ if they want to , right ?
+
+to --> 
+dialogue type : Inform
+D : we do not want to make it P_D_A_ .
+
+to --> 
+dialogue type : Inform
+C : Also , but but I I I think uh the the goal is to sell our remote control .
+
+to --> 
+dialogue type : Inform
+B : So I'm working on the technical functions design .
+to --> 
+dialogue type : Inform
+B : So the the purpose is to to find uh the important questions to ask is what effect should the apparatus have .
+to --> 
+dialogue type : Inform
+B : So so I found on a webs on the internet
+
+to --> 
+dialogue type : Inform
+B : and uh and I found that uh the function of remote control is to send messages to television set .
+to --> 
+dialogue type : Inform
+B : For example switch on , switch off , switch the next channel and so on and so on .
+to --> 
+dialogue type : Inform
+B : So I found two very good prototypes for for this interface from our competitors
+
+to --> 
+dialogue type : Elicit-Inform
+A : This are usual functionality .
+
+to --> 
+dialogue type : Inform
+B : Ours is a bit uh different .
+to --> 
+dialogue type : Inform
+B : So these are two example .
+to --> 
+dialogue type : Inform
+B : One is from
+to --> 
+dialogue type : Inform
+B : the other one is from , yeah , uh engineering centr yeah .
+to --> 
+dialogue type : Inform
+B : This is the most competing prototypes I've found .
+to --> 
+dialogue type : Inform
+B : But then uh loo but then I found if you look at you see on the left one there are too many buttons
+
+to --> 
+dialogue type : Inform
+A : And they are small .
+
+to --> 
+dialogue type : Inform
+B : O on the right I tried to play with the problem is that uh if I have hundred channels I have uh I have to choo press the other button to choose the hundred channels and I have to compose the number
+to --> 
+dialogue type : Assess
+B : so it's very lousy .
+to --> 
+dialogue type : Suggest
+B : So you so you move to the next the next one .
+
+to --> 
+dialogue type : Inform
+B : And then I I look at the user manual
+to --> 
+dialogue type : Inform
+B : they are a hundred pages thick ,
+to --> 
+dialogue type : Inform
+B : so we don't want that .
+to --> 
+dialogue type : Suggest
+B : So I propose the easy to use uh prototype .
+to --> 
+dialogue type : Suggest
+B : You can navigate on T_V_ screen
+
+to --> 
+dialogue type : Suggest
+B : and we need to have the T_V_ connected to internet so we end in order to access the T_V_ programmes by X_M_L_
+to --> 
+dialogue type : Suggest
+B : and we need some to do some preprocessing .
+to --> 
+dialogue type : Suggest
+B : From the technical aspect , the processing should be done on the T_V_ set than on the on the remote controller , right ?
+to --> 
+dialogue type : Suggest
+B : And then we the speech recognition as uh Harry says we may just put in we may K_I_V_ .
+
+to --> 
+dialogue type : Elicit-Inform
+A : What do you mean by the pa pa processing will be done on the T_V_
+
+to --> 
+dialogue type : Inform
+B : Yeah , all the processing is done the T_V_ is a compu has some processing power the
+
+to --> 
+dialogue type : Elicit-Inform
+A : So we should have specific T_V_ ?
+
+to --> 
+dialogue type : Suggest
+C : We have to sell a T_V_ with the remote control too .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Yeah because are you just wondering what controller okay .
+
+to --> 
+dialogue type : Inform
+C : I think there there is there is al there there is a a technology like show view who is already available on most of the T_V_ set on recorders or thing like that
+to --> 
+dialogue type : Suggest
+C : and we can try t to get this information on to the remote control to to do the processing on the remote control because
+
+to --> 
+dialogue type : Inform
+B : So I come up with a simple design ,
+to --> 
+dialogue type : Suggest
+B : just keep the v navigation buttons .
+
+to --> 
+dialogue type : Assess
+C : Yes , that's a good idea , I think .
+to --> 
+dialogue type : Inform
+C : We d we don't we we don't need really much buttons to i if we have a screen to navigate on on the T_V_ so uh
+to --> 
+dialogue type : Inform
+C : Well , f four five buttons , it's sufficient .
+to --> 
+dialogue type : Inform
+C : It's easy to build ,
+to --> 
+dialogue type : Inform
+C : it does not consume much power .
+
+to --> 
+dialogue type : Assess
+D : Oh , but you have a catch there ,
+to --> 
+dialogue type : Inform
+D : um assume that um if you want to go to if you are watching channel two and if you want to go to channel ninety nine , then .
+
+to --> 
+dialogue type : Inform
+C : Well , then y you you go to the main menu
+to --> 
+dialogue type : Inform
+C : and uh you have uh go to channel
+
+to --> 
+dialogue type : Inform
+B : No , because you choose by channel ,
+
+to --> 
+dialogue type : Inform
+B : so you don't have hundred channels to choose from .
+
+to --> 
+dialogue type : Inform
+C : but uh I I think i i if you if you want to to make uh well a a big jump but uh well you you have to to have a a a device when you could you could
+
+to --> 
+dialogue type : Suggest
+C : but uh something that that says more clearly that uh right , left , up , down ,
+to --> 
+dialogue type : Suggest
+C : well , the to have the ability to to to write something to the navigator , maybe directly , or
+
+to --> 
+dialogue type : Suggest
+C : we can think of buttons like in the telephone to send messages or things like that .
+
+to --> 
+dialogue type : Inform
+B : Uh it's gonna be small .
+
+to --> 
+dialogue type : Inform
+B : So it'll beep if you wanna find it
+
+to --> 
+dialogue type : Be-Positive
+D : too small that it goes under the sofa and we can't find it .
+
+to --> 
+dialogue type : Fragment
+B : you just uh shout y h just
+to --> 
+dialogue type : Inform
+B : it just has to re respond to you when you look for the device .
+
+to --> 
+dialogue type : Suggest
+D : just give it a name and we call him .
+
+to --> 
+dialogue type : Suggest
+B : And responds to you , and
+
+to --> 
+dialogue type : Inform
+D : Okay , after having the inputs from industrial design and user interface , I think most of the points which I want to are already covered here .
+to --> 
+dialogue type : Inform
+D : And to find the most interesting features what the users would be interested , then what we have done is we have put a feedback forms in all the magazines ,
+to --> 
+dialogue type : Inform
+D : and the users send the feedbacks ,
+to --> 
+dialogue type : Inform
+D : and based on that These are the findings which we got
+to --> 
+dialogue type : Inform
+D : and yeah adding of a speech interface is always good for a T_V_ remote
+
+to --> 
+dialogue type : Inform
+C : Well I I think it will be a , yes , a bit complicated to um make a speech recognisers runs on the small uh ts
+
+to --> 
+dialogue type : Inform
+B : But I think if you to recognise numbers it's a well-studied problem .
+to --> 
+dialogue type : Inform
+B : I if you just recognise uh numbers is a limited you have limited vocabulary
+
+to --> 
+dialogue type : Suggest
+D : Oh we can put an limited vocabulary as in the mobile phones .
+
+to --> 
+dialogue type : Inform
+C : And this can allow to choose the the program , for instance without uh adding uh buttons
+
+to --> 
+dialogue type : Inform
+D : It's going to be very slim .
+
+to --> 
+dialogue type : Inform
+D : it's not going to take much space also .
+
+to --> 
+dialogue type : Inform
+D : It has to be of course a very slim and small one .
+
+to --> 
+dialogue type : Inform
+D : And next one was the size of the remote control .
+
+to --> 
+dialogue type : Inform
+D : And of course most of the people are interested in if it's less expensive ,
+
+to --> 
+dialogue type : Inform
+D : I mean we have to look for a trade-off .
+to --> 
+dialogue type : Inform
+D : The features and the cost .
+
+to --> 
+dialogue type : Suggest
+B : I no I I think that uh i if we go for quality people may tolerate for high quality and of course comes with uh reasonable cost .
+to --> 
+dialogue type : Suggest
+B : Maybe not less , but they may be willing to pay little bit more for comfort ,
+
+to --> 
+dialogue type : Suggest
+D : Little bit more if it's with extra features .
+
+to --> 
+dialogue type : Inform
+C : Yeah , s s speech is a important extra feature I think
+
+to --> 
+dialogue type : Suggest
+D : I mean , for a lazy guys they could say nine and the nine channel comes .
+
+to --> 
+dialogue type : Suggest
+D : but only for the numbers on the channel , or volume up , volume down , brightness , contrast .
+
+to --> 
+dialogue type : Inform
+D : And the fourth one was the teletext in various languages .
+
+to --> 
+dialogue type : Inform
+C : we we just have to find a mean how to to add a m a a a microphone or uh well yes a microphone into the the remote control , so
+
+to --> 
+dialogue type : Elicit-Inform
+A : What about lighting adaptive options ?
+
+to --> 
+dialogue type : Inform
+D : Yeah as discussed in the earlier meeting , but I think uh not much people are really interested in this point if it's not really required .
+
+to --> 
+dialogue type : Inform
+A : According to the re to the new requirements I think we don't need that .
+
+to --> 
+dialogue type : Inform
+B : but it's quite possible
+to --> 
+dialogue type : Inform
+B : but maybe not in this project .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : So any things to to discuss ?
+
+to --> 
+dialogue type : Inform
+D : I think as I discussed th that four points would be good for um marketing .
+to --> 
+dialogue type : Inform
+D : The speech interface
+to --> 
+dialogue type : Inform
+D : and uh less uh reasonable uh cost .
+to --> 
+dialogue type : Inform
+D : And the lighting adaptation
+to --> 
+dialogue type : Inform
+D : and the teletext .
+to --> 
+dialogue type : Inform
+D : And regarding the teletext uh these are the subtitl these are the text information which you got on the televisions .
+to --> 
+dialogue type : Inform
+D : If you are watching an foreign movie , you get subtitles sometimes .
+to --> 
+dialogue type : Inform
+D : And uh if you are a French guy watching an English movie you would like to have it in French .
+to --> 
+dialogue type : Inform
+D : And if I am a German then I would like to have the my options in German .
+to --> 
+dialogue type : Suggest
+D : So , the remote it should have some it should give me some flexibility of choosing the ch languages .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Yeah , but well what about the the new project's requirement ?
+to --> 
+dialogue type : Suggest
+C : I I I think we should give up with teletext , no ?
+
+to --> 
+dialogue type : Suggest
+C : Well , so maybe we we can j we can already think uh about a way to to access the internet via the television .
+
+to --> 
+dialogue type : Inform
+C : Yeah , but uh we can think that in a few years there will be T_V_ set that can access the internet .
+to --> 
+dialogue type : Inform
+C : So it's a good idea if i i if we i if if we uh think about how to to to build up our remote uh control w with this functionality in a w which will c which will come in a few years .
+
+to --> 
+dialogue type : Inform
+A : So you have to anticipate the the future ?
+
+to --> 
+dialogue type : Inform
+C : well , not not to implement it ,
+to --> 
+dialogue type : Inform
+C : but to well , to find a way to to add to add this functionality in a yeah , in an in an easy manner , if is possible .
+
+to --> 
+dialogue type : Inform
+B : Yeah . Because all the T_V_ sets will be digital , right .
+
+to --> ,A
+dialogue type : Suggest
+A : Okay . So let's go for the the lunch break ,
+to --> ,A
+dialogue type : Suggest
+A : and we will meet after .
+

@@ -1,0 +1,217 @@
+to --> 
+dialogue type : Be-Positive
+A : Welcome to the meeting everyone .
+
+to --> ,A
+dialogue type : Inform
+A : This is the first meeting uh for developing our , our new product .
+to --> 
+dialogue type : Inform
+A : I'm Heather , I'm your Project Manager .
+
+to --> ,A
+dialogue type : Suggest
+A : If everyone could go around and explain their role and um , and their name .
+
+to --> 
+dialogue type : Inform
+B : My name's Poppy .
+to --> 
+dialogue type : Inform
+B : I'm the Industrial Designer for this project .
+
+to --> 
+dialogue type : Inform
+C : My name's Tara and I'm the User Interface Designer .
+to --> 
+dialogue type : Offer
+C : I will also be responsible for the functional design phase , the conceptual design phase and the detailed design phase of the user interface design .
+
+to --> 
+dialogue type : Inform
+D : I'm Genevieve .
+to --> 
+dialogue type : Inform
+D : I'm the Marketing Expert .
+
+to --> ,A
+dialogue type : Inform
+A : And uh tool training is one thing that we're going to be doing today ,
+to --> ,A
+dialogue type : Inform
+A : um um as well as planning the project ,
+
+to --> 
+dialogue type : Inform
+A : as a team we're going to be designing and creating a new kind of remote control .
+to --> 
+dialogue type : Inform
+A : Um , we want this to be a marketable product that can be trendy ,
+to --> 
+dialogue type : Inform
+A : um , a completely new style , so that , um , can really appeal to a , to a generation that doesn't want a simple plain kind of , uh , channel-changer .
+to --> 
+dialogue type : Inform
+A : And , um , it needs to be user-friendly for , um , maybe , for an example , for people that , um , can't see the numbers as well ,
+
+to --> 
+dialogue type : Inform
+A : Yes , it's a television remote control .
+
+to --> ,A
+dialogue type : Inform
+A : I believe I should be taking minutes on this right now .
+
+to --> ,A
+dialogue type : Suggest
+A : and then , um , after we've brainstormed and , and thought about , we can come together in a meeting and , and discuss what , what um , what kind of functional design we want to use .
+to --> 
+dialogue type : Inform
+A : Same with conceptual design and detailed design .
+
+to --> ,A
+dialogue type : Suggest
+A : And , um , as a sort of team-building moment , um , I , I'd like us to , um , try out the whiteboard by expressing our favourite animal and the charac characteristics of that animal .
+
+to --> 
+dialogue type : Inform
+A : My favourite animal , which changes all the time , okay ,
+to --> 
+dialogue type : Inform
+A : right now it is an elk .
+
+to --> ,A
+dialogue type : Offer
+A : I'm gonna take minutes
+to --> ,A
+dialogue type : Suggest
+A : while , um , you guys express your favourite animals .
+
+to --> 
+dialogue type : Inform
+B : like all sorts of animals , but for the moment I'm gonna draw a cat , in memory of my poor cat that died recently .
+
+to --> 
+dialogue type : Inform
+A : and it , it is my favourite animal right now , 'cause it is a large beautiful majestic creature ,
+
+to --> 
+dialogue type : Inform
+B : But I like cats because they're so independent ,
+
+to --> 
+dialogue type : Inform
+C : I think my favourite animal would be a dog ,
+
+to --> 
+dialogue type : Inform
+C : . Um , I like dogs because , um , they're so good to humans ,
+
+to --> 
+dialogue type : Offer
+D : I'm going to draw a butterfly ,
+to --> 
+dialogue type : Inform
+D : because I saw a butterfly yesterday , that seemed to be like the symbol of Spring arriving .
+
+to --> 
+dialogue type : Inform
+A : So , now that we know how to use the whiteboard ,
+to --> 
+dialogue type : Suggest
+A : um , the next , um , thing we need to address is our financial department , to meet our our budget ,
+
+to --> 
+dialogue type : Inform
+A : um , wanna make this um selling price of twenty five Euros .
+
+to --> 
+dialogue type : Suggest
+A : we can like the price to create it will be significantly less .
+
+to --> 
+dialogue type : Inform
+A : Um , we want it to cost , uh , absolute maximum of twelve Euro and fifty cents .
+
+to --> 
+dialogue type : Elicit-Inform
+D : so we'll have a hundred percent profit then ?
+
+to --> ,A
+dialogue type : Inform
+A : So this is time for us to bring our initial ideas , any um suggestions that you may have so far ,
+
+to --> 
+dialogue type : Inform
+D : I find that in the dark it's often hard to know what button you're pushing .
+
+to --> 
+dialogue type : Inform
+A : Um , we'd like to , um to , uh , make fifty million Euro .
+
+to --> 
+dialogue type : Inform
+A : Um , and make it for an international market .
+
+to --> 
+dialogue type : Inform
+B : I always find that in our house the remote control always goes missing .
+
+to --> 
+dialogue type : Suggest
+B : tracking device for the remote control or some signal that you could find out where it was .
+
+to --> 
+dialogue type : Suggest
+B : So maybe if you could have some kind of
+
+to --> 
+dialogue type : Inform
+D : There's some remote controls where there's kind of a hidden panel , so all those buttons that you don't really use unless you're programming or something .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Do yous not find that , um , like , there's a lot of , um , buttons on your remote control , and you don't know what half of them do .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Are we going into kind of novelty factors here .
+
+to --> 
+dialogue type : Suggest
+B : I suppose , if we're he heading to have it , like make a huge profit out of this , it needs to be quite a universally accepted thing .
+
+to --> 
+dialogue type : Inform
+A : And the key issue here is , is being trendy and original .
+
+to --> ,A
+dialogue type : Suggest
+A : Um , like you can go over your ideas , of course , in your own personal times .
+to --> ,A
+dialogue type : Inform
+A : Um , our next meeting will be in half an hour .
+
+to --> 
+dialogue type : Comment-About-Understanding
+A : Industrial Designer .
+
+to --> ,A
+dialogue type : Suggest
+A : You'll be beginning your , your working design .
+to --> ,A
+dialogue type : Suggest
+A : Um , U_I_D_ the technical functions design will , will be worked on the next thirty minutes .
+
+to --> 
+dialogue type : Inform
+A : and , um , we need the user requirements from the manag
+
+to --> 
+dialogue type : Comment-About-Understanding
+A : Marketing Expert .
+
+to --> ,A
+dialogue type : Inform
+A : Um , you will get specific instructions , um , of what to do in the next half an hour .
+

@@ -1,0 +1,466 @@
+to --> 
+dialogue type : Inform
+A : Uh as you all know we're here to create a brand new fantastic remote .
+to --> 
+dialogue type : Inform
+A : Uh I'm Nick Debusk ,
+to --> 
+dialogue type : Inform
+A : I'm the Project Manager .
+to --> ,A
+dialogue type : Suggest
+A : Uh we'll just get started with everyone kind of letting each other know who they are and what you're doing , what your what your role is um .
+
+to --> 
+dialogue type : Inform
+D : I am Corinne Whiting
+to --> 
+dialogue type : Inform
+D : and I will be the Marketing Expert
+
+to --> ,D
+dialogue type : Inform
+D : In the function design phase I will be talking about user requirement specification ,
+
+to --> ,D
+dialogue type : Inform
+D : In the conceptual design phase I will be dealing with trend watching
+
+to --> ,D
+dialogue type : Inform
+D : And then finally in the um detailed design phase I will be doing product evaluation
+
+to --> 
+dialogue type : Inform
+C : , I'm Ryan .
+
+to --> 
+dialogue type : Inform
+C : Um I'm the User Interface Designer .
+to --> ,C
+dialogue type : Inform
+C : Um likewise I've three different roles for each stage of design .
+to --> ,C
+dialogue type : Inform
+C : Um the functional design is looking at the tex technical functions of a remote control .
+to --> ,C
+dialogue type : Inform
+C : Um in the concept design , the user interface ,
+
+to --> ,C
+dialogue type : Inform
+C : And the detailed design um sort of like the user interface design ,
+
+to --> 
+dialogue type : Inform
+B : I'm Manuel
+to --> 
+dialogue type : Inform
+B : and I'm the Industrial Designer in in this project um .
+to --> ,B
+dialogue type : Inform
+B : In the functional design phase I'm I'll be dealing mostly with the requirements ,
+to --> ,B
+dialogue type : Inform
+B : um we'll discuss what the prog what functions the the product has to fulfil and so and so on .
+
+to --> ,B
+dialogue type : Inform
+B : Um um in the conceptual design um I'll be pro mostly dealing with properties and materials um of our product .
+to --> ,B
+dialogue type : Inform
+B : And uh the detailed design in the detailed design I'll be concerned with the look and feel of the product itself ,
+
+to --> ,A
+dialogue type : Inform
+A : our our agenda is the opening , uh acquaintance which we've kinda done . Uh tool training , project plan discussion and then closing .
+
+to --> 
+dialogue type : Inform
+A : we are putting together a new remote control .
+to --> 
+dialogue type : Inform
+A : Um we want it to be something original .
+to --> 
+dialogue type : Inform
+A : Um of course we're a not only a electronics company but a
+to --> 
+dialogue type : Inform
+A : fashion um conscious electronics company ,
+to --> 
+dialogue type : Inform
+A : so we want it to be trendy um
+to --> 
+dialogue type : Inform
+A : and we want it to be easy to use .
+to --> ,A
+dialogue type : Inform
+A : Um we've got the functional design , conceptual design and detailed design
+
+to --> ,A
+dialogue type : Suggest
+A : let's just throw out some ideas of what kind of remote control we want to have ,
+to --> ,A
+dialogue type : Suggest
+A : and then we can go into how we're gonna design it
+
+to --> 
+dialogue type : Fragment
+C : function of remote control is just just
+
+to --> 
+dialogue type : Inform
+C : change channels is its main function .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : we want it to be um a T_V_ remote or
+to --> 
+dialogue type : Elicit-Assessment
+A : I I mean do we want it to to do other things besides just be a a television remote ?
+
+to --> 
+dialogue type : Suggest
+C : I suppose you c try make it a universal remote
+
+to --> 
+dialogue type : Inform
+C : But , you know , they all sorta have the same role changing channels , volumes and then programming .
+to --> 
+dialogue type : Inform
+C : I think they all work on the same prin principle as well
+
+to --> 
+dialogue type : Inform
+C : Um one thing I thought of with the remote control is you always lose 'em .
+to --> 
+dialogue type : Assess
+C : So if there's a g a way of finding it quite easily , I thought that'd be quite good quite a good feature .
+
+to --> 
+dialogue type : Suggest
+A : So we should we should set our remote control up to where it has a uh
+to --> 
+dialogue type : Suggest
+A : like a tracking device
+
+to --> 
+dialogue type : Suggest
+C : you could whistle
+to --> 
+dialogue type : Suggest
+C : or make a noise
+
+to --> 
+dialogue type : Suggest
+A : there's a button on the T_V_ that you press
+
+to --> 
+dialogue type : Suggest
+C : and it'd beep .
+
+to --> 
+dialogue type : Inform
+C : Generally , all remotes are sort of quite similar in their appearance .
+
+to --> 
+dialogue type : Inform
+A : so they're kinda like long and rectangular .
+to --> 
+dialogue type : Elicit-Assessment
+A : Do we want something crazy ?
+
+to --> 
+dialogue type : Elicit-Assessment
+A : we want something new that's gonna stand out .
+
+to --> 
+dialogue type : Suggest
+C : Maybe sorta spherical or something . A ball .
+
+to --> 
+dialogue type : Suggest
+D : Maybe like user-friendly ,
+
+to --> 
+dialogue type : Suggest
+D : where you can use both hands , like a little keyboard type thing .
+
+to --> 
+dialogue type : Inform
+C : I thought maybe , because people always tend to throw a remote control about the place to one another
+
+to --> 
+dialogue type : Suggest
+C : and maybe the actual controls are inside or something .
+
+to --> 
+dialogue type : Inform
+B : you can't have it be any form and fulfil all functions at the same time ,
+to --> 
+dialogue type : Inform
+B : so there are always the some restrictions
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : Um however um one question is how stable is that thing supposed to be ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : How sturdy is it gonna be ?
+
+to --> 
+dialogue type : Suggest
+A : we want it to to hold up to somebody's child , you know , throwing it across the room
+
+to --> 
+dialogue type : Suggest
+A : so ball-shaped , uh you know , if it were ball-shaped maybe ,
+
+to --> 
+dialogue type : Suggest
+C : It could be cased on the outside
+to --> 
+dialogue type : Suggest
+C : and t everything could be inside .
+
+to --> 
+dialogue type : Suggest
+A : we want it to be modern , fun , sturdy ,
+
+to --> 
+dialogue type : Inform
+A : It's something that we're supposed to sell for about twenty five Euros
+
+to --> 
+dialogue type : Inform
+A : goals for profits are I think somewhere around uh fifty million Euros , what they wanna make on it , so .
+
+to --> 
+dialogue type : Inform
+D : Also since we're partners of the International Remote Control Association ,
+to --> 
+dialogue type : Suggest
+D : maybe we wanna make it something that would globally appeal .
+
+to --> 
+dialogue type : Suggest
+A : marketing , you could s find out what is the most universally um appealing remote control out there .
+
+to --> 
+dialogue type : Suggest
+D : And maybe as far as design goes , maybe we could have different ones for different target audiences ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Do you guys have any ideas for what it should look like ?
+
+to --> 
+dialogue type : Suggest
+A : We want it to be a b a ball ,
+
+to --> 
+dialogue type : Offer
+C : I could draw sorta the ball idea .
+
+to --> 
+dialogue type : Suggest
+C : this is where it's connected together ,
+to --> 
+dialogue type : Suggest
+C : and then when you open it out , it could fol it could be maybe flip , like a flip phone ,
+
+to --> 
+dialogue type : Suggest
+C : Maybe a hinge that'll have to be the strongest part of it .
+
+to --> 
+dialogue type : Inform
+C : I think , sometimes remotes have too many buttons ,
+to --> 
+dialogue type : Suggest
+C : so maybe as simple as possible ,
+to --> 
+dialogue type : Suggest
+C : um as few buttons inside as possible .
+
+to --> 
+dialogue type : Suggest
+C : if it had like if some kind of like light or something or lights around it .
+
+to --> 
+dialogue type : Assess
+B : um the ball is a nice idea
+to --> 
+dialogue type : Inform
+B : because of it's stability really ,
+
+to --> 
+dialogue type : Assess
+B : Also also you risk the hinges here . That's that's um a problem .
+
+to --> 
+dialogue type : Suggest
+B : so we'd have to have it flat on one side at least , down here somewhere ,
+
+to --> 
+dialogue type : Assess
+B : but that's of course a weak point , yeah .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : I mean would we just have a flat spot on the bottom of the ball ?
+
+to --> 
+dialogue type : Assess
+B : The shape is perhaps not the most ideal .
+
+to --> ,B
+dialogue type : Suggest
+B : there must be a compromise between um stability and design here , so .
+
+to --> 
+dialogue type : Inform
+C : I can't think of anything other than a long rectangle for remote ,
+
+to --> 
+dialogue type : Assess
+A : it's not innovative ,
+
+to --> 
+dialogue type : Inform
+A : everybody does long remote
+
+to --> 
+dialogue type : Suggest
+D : My idea was just to have it be kind of like a
+to --> 
+dialogue type : Suggest
+D : keyboard type shape , you know , like video games
+
+to --> 
+dialogue type : Suggest
+D : We could also try to do the hinge thing ,
+to --> 
+dialogue type : Suggest
+D : so it could like flip out that way .
+
+to --> 
+dialogue type : Suggest
+C : but something that would maybe fit in the hand easier .
+
+to --> 
+dialogue type : Fragment
+C : I mean maybe design something , that's sort of like
+
+to --> 
+dialogue type : Assess
+A : So perhaps the the joystick the the keyboard idea might work better .
+
+to --> 
+dialogue type : Assess
+A : Because even I suppose even with the ball
+
+to --> 
+dialogue type : Assess
+C : it still not the ho easiest thing to hold , yeah .
+
+to --> 
+dialogue type : Suggest
+C : I think it's definitely got to be a a one-handed a one-handed job .
+
+to --> 
+dialogue type : Assess
+B : if it's small it probably looks better ,
+
+to --> 
+dialogue type : Assess
+B : may not be th as functional .
+
+to --> 
+dialogue type : Suggest
+A : say we went with the ball the ball function
+to --> 
+dialogue type : Suggest
+A : um , but maybe we give it sort of grips along the side s um
+to --> 
+dialogue type : Assess
+A : to make it easier to hold on to .
+
+to --> 
+dialogue type : Inform
+A : But if we're gonna make it flat on the bottom , then that eliminates our ball anyways .
+
+to --> 
+dialogue type : Assess
+A : And then we have the problem with the hinge .
+
+to --> 
+dialogue type : Assess
+B : The question is also , I dunno , d do you really always want to open that thing when you have to use it ?
+
+to --> 
+dialogue type : Suggest
+A : so then we forget the ball .
+
+to --> 
+dialogue type : Inform
+A : So we've got our sort of keyboard kind .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Question is what makes those game pads functional ?
+
+to --> 
+dialogue type : Inform
+B : I think that's pretty much the form for full hand .
+to --> 
+dialogue type : Inform
+B : So it's a round shape underneath that makes it comfy ,
+
+to --> 
+dialogue type : Inform
+B : Except for that I think we'll not probably not get a get away from some longer design .
+
+to --> 
+dialogue type : Inform
+B : and Batteries go weak as well ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Is it possible to have it to where it would work with a like a sensor on either side ?
+to --> 
+dialogue type : Inform
+A : So that either way you're pointing it it would work .
+
+to --> 
+dialogue type : Assess
+B : O of course the more technology you stick in that , the more it'll cost , so .
+
+to --> 
+dialogue type : Inform
+B : but um it's rather about an instinctual thing ,
+
+to --> 
+dialogue type : Assess
+B : Otherwise the design of or the the point of putting two sensors on both sides um would probably work .
+
+to --> ,A
+dialogue type : Suggest
+A : just to finish up ,
+to --> 
+dialogue type : Elicit-Assessment
+A : should we s go with this plan ,
+
+to --> 
+dialogue type : Inform
+A : And then marketing will look and see what uh what people want .
+
+to --> ,C
+dialogue type : Inform
+C : it says on there what we need to do for the next meeting , I think .
+
+to --> 
+dialogue type : Be-Positive
+A : And Project Manager will design a better meeting for next time around ,
+

@@ -1,0 +1,397 @@
+to --> ,A
+dialogue type : Offer
+A : First I will introduce myself .
+
+to --> 
+dialogue type : Inform
+A : I'm Bart ,
+
+to --> 
+dialogue type : Inform
+D : My name's Frank .
+
+to --> ,A
+dialogue type : Offer
+A : let's start off um with a little presentation .
+to --> ,A
+dialogue type : Offer
+A : Uh Now first I'll tell you a little bit about the setting .
+to --> ,A
+dialogue type : Inform
+A : You can see there are a few cameras here .
+to --> ,A
+dialogue type : Inform
+A : They'll record uh our actions
+to --> ,A
+dialogue type : Inform
+A : and you'll have wires and microphones that will record your voice .
+
+to --> ,A
+dialogue type : Inform
+A : is there a project documents folder ?
+to --> ,A
+dialogue type : Inform
+A : There are some notes in it already I see , some documents .
+
+to --> 
+dialogue type : Inform
+A : I don't know if you've noticed , but uh we're working for Real Reaction .
+
+to --> 
+dialogue type : Inform
+A : We put fashion in electronics ,
+
+to --> 
+dialogue type : Inform
+A : uh we put a lot of effort in design and in the product itself .
+
+to --> ,A
+dialogue type : Inform
+A : This is our agenda .
+to --> ,A
+dialogue type : Inform
+A : Uh we have our opening acquaintance , tool training , project plan description closing .
+
+to --> ,A
+dialogue type : Offer
+A : then I can take some notes
+
+to --> ,A
+dialogue type : Suggest
+A : Maybe you can take the minutes once in a while .
+
+to --> ,A
+dialogue type : Suggest
+A : but just uh if you hear something uh you can write down , just write it down .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Um have you all seen the corporate website already ?
+
+to --> 
+dialogue type : Elicit-Inform
+A : Have you seen any flaws in it ?
+to --> 
+dialogue type : Inform
+A : I think I found one .
+
+to --> 
+dialogue type : Inform
+A : But um on the corporate information side there's a th uh there was Real Remote instead of Real Reaction .
+
+to --> 
+dialogue type : Inform
+A : Uh our project aim is as you can see a new remote control .
+to --> 
+dialogue type : Inform
+A : It has to be original , trendy , and user friendly .
+
+to --> ,A
+dialogue type : Inform
+A : Uh project method um is uh there are three phases we are going through .
+to --> ,A
+dialogue type : Inform
+A : First is functional des uh design , individual work , meetings .
+to --> ,A
+dialogue type : Inform
+A : After the functional design , then the conceptual design and the detailed design .
+
+to --> 
+dialogue type : Inform
+A : The Industrial Designer is going to work on the working design , uh components design and a bit of the look and feel design .
+to --> 
+dialogue type : Inform
+A : Uh the User Interface Designer is going to do the technical function design , user interface concept and user interface design .
+to --> 
+dialogue type : Inform
+A : And the marketing expert is doing a little bit of user requirement specification , trend watching and project uh product ev evaluation .
+
+to --> ,A
+dialogue type : Inform
+A : But that will be all worked out in uh other meetings .
+
+to --> ,A
+dialogue type : Inform
+A : As you can see we've got the smart boards here and here in the white board .
+to --> ,A
+dialogue type : Inform
+A : Um in the white board here there's a little tool bar on this side .
+to --> ,A
+dialogue type : Inform
+A : Here are some functions .
+to --> ,A
+dialogue type : Inform
+A : You can save .
+
+to --> ,A
+dialogue type : Inform
+A : uh these functions we don't have anything to do with ,
+to --> ,A
+dialogue type : Inform
+A : only undo , you can undo a little uh piece of drawing .
+to --> ,A
+dialogue type : Inform
+A : A blank new document for each person .
+to --> ,A
+dialogue type : Inform
+A : Uh select a pen ,
+to --> ,A
+dialogue type : Inform
+A : eraser .
+
+to --> ,A
+dialogue type : Inform
+A : Uh then we've got our pen . This pen .
+to --> ,A
+dialogue type : Assess
+A : It's really funny
+
+to --> ,A
+dialogue type : Inform
+A : You can also select the current colour and the line width .
+
+to --> ,A
+dialogue type : Assess
+A : and it's easy to uh draw your findings and drawings on there .
+
+to --> ,A
+dialogue type : Inform
+A : We've got our shared folder ,
+
+to --> ,A
+dialogue type : Inform
+A : But all you will found that already
+to --> ,A
+dialogue type : Inform
+A : because there are a lot of documents in it already ,
+
+to --> ,A
+dialogue type : Inform
+A : so if you have a document you wanna show , just open it from the folder .
+to --> ,A
+dialogue type : Inform
+A : Here is a simple tool bar .
+
+to --> ,A
+dialogue type : Inform
+A : it's save , print , move back or forward one page .
+to --> ,A
+dialogue type : Inform
+A : You can switch between the different drawings .
+to --> ,A
+dialogue type : Suggest
+A : And then we're going to try out the white board .
+
+to --> ,A
+dialogue type : Inform
+A : We're going to uh draw animal .
+to --> ,A
+dialogue type : Inform
+A : And uh just sum up a few of its favourite characteristics .
+to --> ,A
+dialogue type : Suggest
+A : Um the only thing we have to uh look after is that we use different colours , and different line width .
+
+to --> ,A
+dialogue type : Suggest
+A : You can use this pen by holding it like a like a little child .
+to --> ,A
+dialogue type : Inform
+A : Because if you hold it like this , the sensors will get blocked
+
+to --> ,A
+dialogue type : Suggest
+A : Another thing is you have to be uh a bit slow .
+to --> ,A
+dialogue type : Inform
+A : 'Cause if you're going to draw like really fast then um the pen won't hold up .
+
+to --> ,A
+dialogue type : Offer
+A : we choose form of current colour
+to --> ,A
+dialogue type : Assess
+A : uh I think grey is appropriate .
+
+to --> ,A
+dialogue type : Inform
+A : Now you'll see my drawing capabilities .
+
+to --> ,A
+dialogue type : Suggest
+A : you have to do it real slow .
+
+to --> 
+dialogue type : Inform
+A : I was trying to draw a dolphin ,
+
+to --> ,A
+dialogue type : Inform
+A : And then you can undo
+
+to --> ,A
+dialogue type : Inform
+A : Maybe you have to hold it a bit upside-down .
+
+to --> ,A
+dialogue type : Offer
+A : now I'm gonna hand over the pen on the new blank sheet to you .
+
+to --> ,D
+dialogue type : Offer
+D : Gonna use a different line width .
+
+to --> ,A
+dialogue type : Assess
+A : Maybe it's easier to draw the smaller line width , I think .
+
+to --> ,D
+dialogue type : Assess
+D : You have to go really slow when you're writing .
+
+to --> 
+dialogue type : Offer
+B : Um I'm just gonna draw its uh head ,
+
+to --> 
+dialogue type : Inform
+C : I was gonna draw a cat too ,
+
+to --> 
+dialogue type : Inform
+A : it's pretty skinny cat .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : everybody knows how to work with the white board now ?
+
+to --> ,D
+dialogue type : Inform
+D : Yeah .
+
+to --> ,A
+dialogue type : Suggest
+A : move along to the project finance .
+to --> 
+dialogue type : Inform
+A : Um as you can see , we um for our remote control , a selling price is uh twenty five Euros . Our selling price .
+to --> 
+dialogue type : Inform
+A : Uh our profit aim is fifty million Euros .
+
+to --> 
+dialogue type : Inform
+A : Uh we can do it international ,
+to --> ,A
+dialogue type : Suggest
+A : so we have to focus on different kind of users , different kind of cultures , and different kind of trends as well .
+
+to --> 
+dialogue type : Inform
+A : Our production cost um can be maximal twelve and a half Euros ,
+
+to --> 
+dialogue type : Inform
+A : just try to remember these points . Selling price twenty five , profit aims fifty million um , but more important is the int international market we're trying to focus on . And production cost uh maximal twelve and a half Euros .
+
+to --> ,A
+dialogue type : Suggest
+A : that's leads us to our little discussion .
+
+to --> 
+dialogue type : Elicit-Inform
+A : does everybody has um experiences with uh remote controls , and I mean not the ordinary mote controls , but also a little bit different ones ? Like you can use for other ?
+
+to --> 
+dialogue type : Inform
+C : No , me neither .
+
+to --> 
+dialogue type : Inform
+D : kind of broad T_V_ at home , and a D_V_D_ player ,
+to --> 
+dialogue type : Inform
+D : so we got like a lot of remote controls , one for the T_V_ , one for the video recorder , one for the D_V_D_ player .
+to --> 
+dialogue type : Suggest
+D : And I think it's it would be best to just make one remote control that can operate them all .
+
+to --> 
+dialogue type : Inform
+A : I've I've got one at home .
+to --> 
+dialogue type : Inform
+A : And you can uh program I think eight different devices in it ,
+
+to --> 
+dialogue type : Assess
+A : I think that if you can put different kind of devices in one remote control , it makes it a lot easier as well .
+
+to --> 
+dialogue type : Suggest
+A : we've we want different functions
+to --> 
+dialogue type : Suggest
+A : uh and we can maybe see if we can do something with the infra-red .
+
+to --> 
+dialogue type : Inform
+A : And it also operates on infra-red ,
+
+to --> 
+dialogue type : Inform
+A : and then you can operate it from the third or th or second floor .
+
+to --> 
+dialogue type : Inform
+A : so you have to got the little device inside your room ,
+
+to --> 
+dialogue type : Suggest
+D : Think it has to be shock proof
+
+to --> 
+dialogue type : Assess
+B : Sure , yeah .
+
+to --> 
+dialogue type : Inform
+D : my remote control tends to fall a lot .
+
+to --> 
+dialogue type : Suggest
+B : Waterproof ,
+
+to --> ,A
+dialogue type : Offer
+A : Um I will put the minutes from this meeting uh in our project folder .
+
+to --> 
+dialogue type : Suggest
+D : Thought it might be handy to put a battery status display on it .
+
+to --> 
+dialogue type : Inform
+D : how much is left in the battery .
+to --> 
+dialogue type : Assess
+D : But they'll also really drag up the production costs ,
+to --> ,D
+dialogue type : Suggest
+D : so think we'll have to see about that too .
+to --> 
+dialogue type : Suggest
+D : But maybe just a little LED ,
+
+to --> ,A
+dialogue type : Offer
+A : then I'll put the minutes from this meeting in the project folder ,
+
+to --> ,A
+dialogue type : Suggest
+A : And we can all work uh on our own projects .
+
+to --> ,A
+dialogue type : Inform
+A : then I'll meet you in about a half an hour , I think .
+

@@ -1,0 +1,564 @@
+to --> ,B
+dialogue type : Offer
+B : I think to sum up the last meeting , would be to say um the requirements that we've um set out .
+to --> 
+dialogue type : Inform
+B : Those are we were going to go for what seemed to be a fairly minimal design based on uh a small joystick , L_C_D_ and a couple of other buttons for navigation um with power being I suppose one of the main single purpose buttons .
+to --> 
+dialogue type : Inform
+B : Um we were also going to use novelty of being able to locate the remote control again via a small transmitter with any luck ,
+
+to --> 
+dialogue type : Inform
+B : and also because of the minimal design um looks like we'll be able to be fairly adventurous in the actual physical shape of our remote control with any luck .
+
+to --> ,B
+dialogue type : Inform
+B : This uh meeting is the conceptual design phase
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : And is to cover things like um what the parts might be made of , um ,
+
+to --> 
+dialogue type : Inform
+D : The case uh le that's what I wrote first of all , could be plastic our plastic .
+to --> 
+dialogue type : Inform
+D : Uh but later on we found out that um it can be rubber as well , or titanium or even wood .
+
+to --> ,D
+dialogue type : Suggest
+D : we decide what it's gonna be .
+to --> 
+dialogue type : Suggest
+D : Probably plastic . Uh
+to --> 
+dialogue type : Inform
+D : we need the infra-red transmitter .
+
+to --> 
+dialogue type : Inform
+D : Uh joystick we'll probably if we're gonna use it , um could be plastic w or rubber even as well . Um
+
+to --> 
+dialogue type : Inform
+D : three different types of batteries . Um can either use a hand dynamo , or the kinetic type ones , you know that they use in watches , or else uh a solar powered one .
+
+to --> 
+dialogue type : Inform
+B : Um the bat uh the battery for a a watch wouldn't require a lot of power , would be my one query .
+to --> 
+dialogue type : Elicit-Inform
+B : Is a kinetic one going to be able to supply enough power ?
+
+to --> 
+dialogue type : Assess
+D : And solar cells , I dunno about that .
+to --> 
+dialogue type : Suggest
+D : Uh . We should probably just use conventional batteries . Um , just like in usual remote controls .
+
+to --> 
+dialogue type : Inform
+D : Um . And these are three different types of or two different types three different types of shapes you can have .
+to --> 
+dialogue type : Inform
+D : Uh one is a flat one ,
+to --> 
+dialogue type : Inform
+D : and then more original ones are single curved one or one with a double curved .
+
+to --> 
+dialogue type : Inform
+D : but uh you can't have a titanium one for a double curved ,
+
+to --> 
+dialogue type : Elicit-Inform
+B : the single curved and double curved , would you be able to give an example ?
+
+to --> 
+dialogue type : Inform
+D : Double curved . It probably means this is probably double curved .
+to --> 
+dialogue type : Inform
+D : Uh whereas a single curved would be like that .
+
+to --> 
+dialogue type : Assess
+D : it looks better than the single curve ,
+to --> 
+dialogue type : Inform
+D : but uh you can't have it in titanium ,
+
+to --> 
+dialogue type : Inform
+D : and for the buttons , um it can have the scroll wheel
+
+to --> 
+dialogue type : Inform
+D : Uh but um it requires a more expensive chip to use ,
+to --> 
+dialogue type : Inform
+D : and if you wanna use L_C_D_ it's even more expensive .
+
+to --> 
+dialogue type : Inform
+D : there's trade-offs there . Um
+
+to --> ,D
+dialogue type : Suggest
+D : you have to decide ,
+
+to --> 
+dialogue type : Inform
+D : if you have a double curve uh control and it's rubber , then you have these rubber buttons as well .
+
+to --> 
+dialogue type : Suggest
+D : I reckon you're gonna have to have uh key a number keypad anyway for the amount of channels these days .
+
+to --> 
+dialogue type : Inform
+B : like when we're saying that we'd need an advanced chip for an L_C_D_ ,
+to --> 
+dialogue type : Elicit-Inform
+B : does that in shoot the cost up by a drastic amount ? Or ?
+
+to --> ,B
+dialogue type : Suggest
+B : We have to look into the costs of those .
+
+to --> ,D
+dialogue type : Inform
+D : Uh the previous slides just explain what's in the internal components of the uh remote control .
+
+to --> 
+dialogue type : Inform
+D : And uh then the next slide just shows how the uh copper wires uh interact with the buttons , the rubber buttons , uh to uh get sent to the chip .
+
+to --> 
+dialogue type : Inform
+D : translate the key press into an infra-red signal
+to --> 
+dialogue type : Inform
+D : and this is received by the T_V_ .
+
+to --> 
+dialogue type : Elicit-Inform
+B : in the information that you've been supplied , how feasible would you say that the idea of using an L_C_D_ looks ?
+
+to --> 
+dialogue type : Inform
+D : Um I think we can do it if uh we use conventional batteries and not have solar cells or kinetic .
+to --> 
+dialogue type : Suggest
+D : Um and then maybe use single curved uh case .
+
+to --> 
+dialogue type : Assess
+A : Um I'm actually gonna be bold and go oo go straight for rubber um for reasons I'll go into uh in more detail .
+
+to --> 
+dialogue type : Assess
+C : I also have a preference for rubber .
+
+to --> 
+dialogue type : Inform
+A : Uh um I was given a an H_T_M_L_ file giving um various ideas from uh from other previous remote control designs ,
+to --> 
+dialogue type : Assess
+A : and pretty much decided to just dump them all .
+to --> 
+dialogue type : Assess
+A : I wasn't very impressed by them
+
+to --> 
+dialogue type : Inform
+A : uh nothing I saw seemed to meet the sorts of design specifications that we're going for today .
+
+to --> ,A
+dialogue type : Suggest
+A : rather than looking at other remotes , uh ra oomp be better to simply look at the human hand .
+
+to --> 
+dialogue type : Inform
+A : um so that if r a if so that the finger is e each finger or thumb is wherever it needs to be already .
+
+to --> 
+dialogue type : Inform
+A : Um and what we've basically decided on was the the um the joy uh the joystick , two function buttons and the L_C_D_ ,
+
+to --> 
+dialogue type : Suggest
+A : I don't actually think we need the um the numeric keypad
+
+to --> 
+dialogue type : Suggest
+A : because one of the menus that we could have available um v via via the L_C_D_ is one where you scroll through channels ,
+
+to --> 
+dialogue type : Suggest
+A : You must have two two modes ,
+to --> 
+dialogue type : Suggest
+A : basic mode , where um the joystick's uh left right left right for channels , up down for volume ,
+to --> 
+dialogue type : Suggest
+A : um and the uh uh and the menu mode for uh further functions .
+to --> 
+dialogue type : Suggest
+A : Um now the reason I was particularly interested in using rubber for this is that if we're going to have a highly ergonomic design , um it needs to be ergonomic for left or right handed people .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : That would suggest the double curved design's probably going to be most appropriate , then .
+
+to --> 
+dialogue type : Suggest
+A : And also this is a rather nicer de uh design gimmick that the the um you know the whole thing you know it should have sort of organic feel to it
+to --> 
+dialogue type : Suggest
+A : that it should be , you know , soft to touch
+
+to --> 
+dialogue type : Suggest
+A : the um the joystick unit should rest over the uh the joint of the f of the uh four finger
+
+to --> 
+dialogue type : Suggest
+A : Um and it would need t there would need to be a it would need to be articulated just below that
+to --> 
+dialogue type : Inform
+A : so that it could be switched around for uh left or right handed users .
+
+to --> 
+dialogue type : Suggest
+A : And you then have , at the uh at the bottom , the L_C_D_ ,
+to --> 
+dialogue type : Suggest
+A : and this would need to be articulated as well .
+
+to --> 
+dialogue type : Suggest
+A : the t uh the top function button in basic mode would be the on off switch
+to --> 
+dialogue type : Suggest
+A : and menu mode would be the enter button .
+to --> 
+dialogue type : Suggest
+A : And then the bottom function buttons switches between between modes .
+
+to --> 
+dialogue type : Assess
+A : Programming them can be a right pain .
+to --> 
+dialogue type : Suggest
+A : So I thought th the simplest way around that would be to have um a cable to connect it to the computer
+to --> 
+dialogue type : Suggest
+A : some some fair iv fairly fairly simple software on the computer just so that you on your computer
+
+to --> 
+dialogue type : Suggest
+A : And you could download programs for it from uh for uh T_V_s from all sort of main manufacturers .
+
+to --> ,C
+dialogue type : Inform
+C : We compared uh whether people want the remote control to do a lot of stuff or they want it to look cool .
+to --> ,C
+dialogue type : Inform
+C : And then we we research uh fashion trends in Europe ,
+
+to --> 
+dialogue type : Inform
+C : Uh we found , in order of importance , people want the remote control to look cool more than they want it to to be cool .
+to --> 
+dialogue type : Fragment
+C : As in they want it to do a lot of good s
+
+to --> 
+dialogue type : Inform
+C : and if it does do a lot that's a bonus ,
+to --> 
+dialogue type : Inform
+C : but they don't care so much ,
+
+to --> 
+dialogue type : Inform
+C : Technology technical technologically innovative . People want it to be that ,
+to --> 
+dialogue type : Inform
+C : but s still they care more about the way it looks than what it does .
+
+to --> 
+dialogue type : Inform
+C : like the interface is really important .
+to --> 
+dialogue type : Inform
+C : And easy to use ,
+to --> 
+dialogue type : Inform
+C : it it just so happens that uh from the second point to the third point is twice as important I mean the second point is twice as important as the third point .
+
+to --> 
+dialogue type : Assess
+C : The fashion , now this is seems a bit odd to me ,
+to --> 
+dialogue type : Inform
+C : but fruit and veg is the new is the new black for furniture , for clothes , for shoes .
+to --> 
+dialogue type : Inform
+C : How that relates to a remote control I don't know .
+
+to --> 
+dialogue type : Inform
+C : Spongy .
+
+to --> ,C
+dialogue type : Elicit-Assessment
+C : If it's the type of rubber that you can squeeze , you know , it's spongy , then can I skip the rest ?
+
+to --> 
+dialogue type : Inform
+D : The uh rubber material is the type of stress ball material , not just normal rubber .
+
+to --> 
+dialogue type : Inform
+C : kinda spongy material .
+
+to --> 
+dialogue type : Suggest
+C : Um we want something fancy and techni technologically innovative , obviously .
+to --> 
+dialogue type : Suggest
+C : But what we what we need is something that looks like it's from the future
+
+to --> 
+dialogue type : Suggest
+C : Um now the fruit and veg options , either we we go in that direction
+to --> 
+dialogue type : Suggest
+C : or we stay totally away from it .
+
+to --> 
+dialogue type : Suggest
+C : but if we're gonna go along with it then it doesn't necessarily have to be like an apple or something like that , or a kiwi fruit .
+
+to --> 
+dialogue type : Assess
+C : Few questions about a spongy remote control .
+to --> 
+dialogue type : Inform
+C : I've never seen one before .
+
+to --> 
+dialogue type : Suggest
+C : if we want something strong and sturdy , I say stay with plastic or titanium ,
+to --> 
+dialogue type : Inform
+C : but if we go with spongy , we can stress that you can drop this as many times as you want ,
+
+to --> 
+dialogue type : Inform
+C : I just don't know how the L_E_D_ and the lights are gonna fit into a spongy material
+
+to --> ,C
+dialogue type : Suggest
+C : If we're gonna use spongy material we have to think of how practical it is ,
+
+to --> 
+dialogue type : Inform
+C : And also , this was this year .
+
+to --> 
+dialogue type : Inform
+C : things change all the time , every year
+
+to --> 
+dialogue type : Suggest
+B : Seems like a a lot of the components could be off the shelf ,
+
+to --> 
+dialogue type : Inform
+B : um having the use of the L_C_D_ and the joystick would probably allow you to manipulate enough channel numbers
+
+to --> 
+dialogue type : Assess
+A : if you've got a lot of channels , the number keypad can be quite annoying as well ,
+
+to --> 
+dialogue type : Inform
+B : what it looks like to me is we'll use a large number of standard components , um ,
+to --> 
+dialogue type : Suggest
+B : say something like um lithium ion battery ,
+
+to --> 
+dialogue type : Inform
+B : Looks like we going for a double curved design .
+to --> 
+dialogue type : Inform
+B : Um I don't know what cost implications there are in that .
+to --> 
+dialogue type : Inform
+B : Um , looks like we're pretty much decided on some kind of flexible rubber .
+to --> 
+dialogue type : Suggest
+B : Though I'd have to say depending on how flexible it is , we might need to have some kind of inner frame .
+
+to --> 
+dialogue type : Suggest
+A : there would be basically two points of articulation . W um one below and one above the m the uh the main sort of grip .
+
+to --> 
+dialogue type : Assess
+B : Do you think there's any way we could maybe remove the articulation ?
+
+to --> 
+dialogue type : Elicit-Assessment
+B : but it could be a weak point in um the structure , do you think ?
+
+to --> 
+dialogue type : Suggest
+A : If you then have a sort of outer skin of mm flexible , spongy rubber then you have something that is you know very much you know
+to --> 
+dialogue type : Suggest
+A : organic ,
+
+to --> 
+dialogue type : Suggest
+B : if we take some of the ideas why don't we make the damn thing yellow to incorporate the des the colour of the logo ?
+
+to --> 
+dialogue type : Assess
+C : Sure , yeah .
+
+to --> 
+dialogue type : Inform
+A : Make it harder to lose , as well .
+
+to --> 
+dialogue type : Suggest
+C : The noise for when you lose the banana , um f yeah , for when you lose the remote control , it could be like a a monkey noise or something like that , rather than a standard beep beep .
+
+to --> 
+dialogue type : Inform
+C : y you lose the banana ,
+to --> 
+dialogue type : Suggest
+C : you press a button ,
+to --> 
+dialogue type : Suggest
+C : and you hear like monkey screams or something like that to direct you towards the banana .
+
+to --> ,C
+dialogue type : Inform
+C : I was gonna talk about the programmable remote control .
+to --> 
+dialogue type : Assess
+C : Now I think it'd be cool if you had one remote control that could work with all T_V_s ,
+
+to --> 
+dialogue type : Inform
+C : you s you click a button
+to --> 
+dialogue type : Inform
+C : and it finds the frequency
+to --> 
+dialogue type : Inform
+C : that works with your particular television .
+
+to --> 
+dialogue type : Inform
+A : e each manufacturer will have a partic will have a particular command set that uh the T_V_ responds to .
+
+to --> 
+dialogue type : Suggest
+A : But if we had um some sort of hook-up to your computer as an option , then if you've got a computer you can avoid that rather irritating thing .
+
+to --> 
+dialogue type : Assess
+B : An interesting point is that if the person doesn't have the computer , we can still make the process easier
+
+to --> 
+dialogue type : Suggest
+B : because instead of having to look up codes , maybe we can have it that one of the options they have is that they look up the name of the company on the L_C_D_
+
+to --> ,B
+dialogue type : Inform
+B : you've got yourself and the Industrial Designer gonna be working quite closely at this stage
+
+to --> ,B
+dialogue type : Inform
+B : looking from prototyping of some des description using clay .
+
+to --> ,A
+dialogue type : Inform
+A : um mo most of the sort of layout design decisions are are made , I would say .
+to --> 
+dialogue type : Suggest
+A : Um but then again , the um the menu structure to to a considerable extent that's gonna vary according to the model of television , and also any customisations that the user might wish to incorporate .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : product evaluation , doesn't that come after actually seen a product prototype .
+
+to --> 
+dialogue type : Inform
+C : At this stage we still have no no target audience
+
+to --> 
+dialogue type : Suggest
+B : I think the target audience is pretty much anybody under the age of say maybe sixty or something ludicrous .
+
+to --> 
+dialogue type : Assess
+B : Um your idea of the U_S_B_ would I think would largely depend on the cost .
+to --> 
+dialogue type : Inform
+B : U_S_B_'s definitely one of the cheapest interfaces out there ,
+
+to --> 
+dialogue type : Inform
+B : programming it to use your T_V_ , you might hook it up to the P_C_ .
+
+to --> 
+dialogue type : Inform
+B : The the idea was that maybe it could connect up for um allowing a software interface on the P_C_ for a larger programming
+
+to --> 
+dialogue type : Assess
+B : I'm not sure , but I'm thinking maybe that the additional cost of the U_S_B_ might be prohibitive .
+
+to --> 
+dialogue type : Inform
+B : Um you're gonna look at product evaluation .
+
+to --> 
+dialogue type : Inform
+B : Um looks like we're gonna need a maybe a kind of prototype in clay .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : they're going with the fashion thing , like the design , spongy rubber .
+
+to --> ,B
+dialogue type : Inform
+B : I think we've got an idea of where we need to go for the next meeting ,
+
+to --> 
+dialogue type : Suggest
+A : though maybe we could have options for colours as well .
+
+to --> 
+dialogue type : Suggest
+A : like I said before I I think we should have the R_R_ on the uh on the top function button .
+
+to --> ,B
+dialogue type : Elicit-Offer-Or-Suggestion
+B : So we always need to remember that somewhere we're meant to be getting the slogan on .
+to --> 
+dialogue type : Suggest
+B : Possibly I'm think I'm not sure but I'm seeing a little bit of space around maybe the joystick area which could be used . Um .
+

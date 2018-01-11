@@ -1,0 +1,887 @@
+to --> ,B
+dialogue type : Inform
+B : Okay , we've got half an hour for this one um to uh discuss the um functional design .
+
+to --> 
+dialogue type : Inform
+B : and I've put the minutes of the last meeting in the project folder .
+to --> ,B
+dialogue type : Offer
+B : Um so I guess just to to recap on uh what we did last time .
+to --> 
+dialogue type : Inform
+B : Um kind of uh got to know each other a little bit and uh got familiar with all the equipment
+to --> 
+dialogue type : Inform
+B : and started to discuss um a bit about the project , you know , cost-wise how much how much money we had to s
+to --> 
+dialogue type : Inform
+B : Um just want to tell you that you have three new requirements ,
+to --> 
+dialogue type : Inform
+B : which is the The first one is that um uh the company's decided that teletext is outdated uh because of how popular the internet is .
+
+to --> 
+dialogue type : Inform
+B : so we don't really need to consider that in the functionality of the of the remote control .
+to --> 
+dialogue type : Inform
+B : Um they've also suggested that we um we only use the remote control to control the television , not the V_C_R_ , D_V_D_ or anything else .
+to --> 
+dialogue type : Inform
+B : I think the worry is that if the project becomes too complex then it'll affect um how long it takes us to get it into into production , the time to market .
+to --> 
+dialogue type : Inform
+B : So um , we're just gonna keep it simple and it'll just control the T_V_ .
+to --> 
+dialogue type : Inform
+B : And the other thing was that the company want the corporate colour and slogan to be implemented in the new design .
+to --> 
+dialogue type : Inform
+B : Um I'm not entirely sure what the corporate colour is .
+to --> 
+dialogue type : Inform
+B : It might be yellow , because there seems to be a lot of yellow everywhere .
+
+to --> 
+dialogue type : Elicit-Inform
+D : And the slogan , like the actual written slogan , or just to embody the idea of the slogan ?
+
+to --> 
+dialogue type : Elicit-Inform
+B : uh th because on the the company website , uh what does it say
+
+to --> 
+dialogue type : Inform
+D : 'Bout putting the fashion in electronics .
+
+to --> 
+dialogue type : Elicit-Inform
+B : I mean do they Is that something they want actually written on it ,
+to --> 
+dialogue type : Inform
+B : 'cause it's quite long .
+
+to --> 
+dialogue type : Inform
+B : So those are the three things ,
+to --> 
+dialogue type : Inform
+B : just not to worry about teletext , uh only control the T_V_ , and um and uh incorporate the uh colour and slogan of the company .
+
+to --> ,B
+dialogue type : Inform
+B : time for presentations then .
+
+to --> 
+dialogue type : Inform
+C : so this is the technical functions design .
+
+to --> 
+dialogue type : Inform
+C : to do the um the design I have I've had a look online , I've had a look at the homepage ,
+
+to --> 
+dialogue type : Inform
+C : Um I've had a look at the previous products to see what they offer
+
+to --> 
+dialogue type : Inform
+C : Um , having a look at the existing products , I found out that um it tends to come in sort of two extremes ,
+to --> 
+dialogue type : Inform
+C : there's either um a very complicated one that's got lots of buttons , lots of colours , very confusing , you don't know what you're doing .
+to --> 
+dialogue type : Inform
+C : Um in that case the the labelling tends to be very bad .
+
+to --> 
+dialogue type : Inform
+C : here um the button there and there .
+
+to --> 
+dialogue type : Inform
+C : That one's perg and that one's prog ,
+to --> 
+dialogue type : Inform
+C : and it doesn't really tell you what it does .
+to --> 
+dialogue type : Inform
+C : Um , not sure if you had a a look at the other um control in that example .
+to --> 
+dialogue type : Inform
+C : Um it's a very simple one .
+to --> 
+dialogue type : Inform
+C : It's got only the basic functions mm
+to --> 
+dialogue type : Inform
+C : but um it's the same size as the the hard to use one .
+to --> 
+dialogue type : Inform
+C : Uh it looked a bit clunky .
+to --> 
+dialogue type : Inform
+C : They're very big and not very much use for buttons .
+
+to --> 
+dialogue type : Inform
+C : and it's just very hard to access the advanced functions .
+
+to --> 
+dialogue type : Assess
+C : Um , my own preferences , I prefer the the clunky one .
+
+to --> 
+dialogue type : Suggest
+C : Um so I believe the the advanced functions should maybe be hidden in a drawer ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : So , now I'd like to ask for your preferences .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Which which is the clunky one , the one on left or on the right?. .
+
+to --> 
+dialogue type : Inform
+C : Um , the clunky one is the one on the right .
+to --> 
+dialogue type : Inform
+C : Um I think it's supposed to be the same size , but um it's got much fewer buttons .
+
+to --> 
+dialogue type : Assess
+B : Well I think it's a valid point .
+to --> 
+dialogue type : Inform
+B : I mean like the one on the left looks quite um quite complicated ,
+
+to --> 
+dialogue type : Assess
+B : Um so I see I see why yo you know you might prefer the simpler design ,
+
+to --> 
+dialogue type : Inform
+B : you know you get a lot of remote controls where you kind of flip the thing open ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : Um , do we have any functions that um we'd want on it ?
+to --> 
+dialogue type : Inform
+C : I mean so far I've got um on and off , um switch the channel up and down , and put the volume up and down .
+
+to --> 
+dialogue type : Suggest
+B : and then actual numbers for channels as well , yeah .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : Um , you say that's a h a required one or a requested one ?
+
+to --> 
+dialogue type : Assess
+B : God , I wou I would say that's required ,
+to --> 
+dialogue type : Assess
+B : I mean there's no way anybody's gonna buy a remote control these days when if you can't actually individually select channels ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : uh any kind of like display controls at all do you think we need to worry about ,
+
+to --> 
+dialogue type : Assess
+D : Well I think I think es essentially what we're doing right now is we're categorising .
+to --> 
+dialogue type : Inform
+D : We're saying well we want this to be a product that offers all the sort of more tricky features but we want them to be in another area ?
+
+to --> ,C
+dialogue type : Suggest
+C : um we need to find out exactly what we have to have
+to --> ,C
+dialogue type : Suggest
+C : um and after that we can add things if they're possible .
+
+to --> 
+dialogue type : Inform
+B : Um , so so far , just to recap you've got volume and channel control and
+
+to --> 
+dialogue type : Inform
+C : There's um on and off , um volume and channel , and skip to certain channels with the numbers .
+
+to --> 
+dialogue type : Suggest
+D : Well , one one way I would look at this um would be that we a approach the different controls in terms of um like control types ,
+to --> 
+dialogue type : Inform
+D : so that for the user it's very clear what they want to do where they go .
+to --> 
+dialogue type : Suggest
+D : Uh and also think maybe a little bit about sorta w w what would just wanna be acc easily accessible .
+to --> 
+dialogue type : Inform
+D : For example if we had audio controls , those could be something people set up very rarely .
+to --> 
+dialogue type : Suggest
+D : Maybe they're un they're they're they're in a little area but covered up um ,
+to --> 
+dialogue type : Inform
+D : things like channel and volume um are used all the time ,
+to --> 
+dialogue type : Suggest
+D : so we just have them right out on top ,
+
+to --> 
+dialogue type : Suggest
+D : Um so maybe we need to think about having three or more groupings of controls ,
+to --> 
+dialogue type : Suggest
+D : you know like one which are just the the habitual ones that should be right within your natural grip .
+
+to --> 
+dialogue type : Suggest
+D : and then others that are concealed .
+
+to --> 
+dialogue type : Suggest
+B : and then maybe just things that would be nice if it could do would be things like audio set up and display set up and things like that ,
+to --> 
+dialogue type : Suggest
+B : maybe like a mute button ,
+
+to --> 
+dialogue type : Assess
+D : I dunno whether this is for good or for bad
+to --> 
+dialogue type : Inform
+D : but there'll be a lot of kind of uh redundancy in the in the the issues and the the uh the things .
+
+to --> 
+dialogue type : Inform
+D : what I've already started doing is cr I created a slide in in my presentation here
+
+to --> 
+dialogue type : Inform
+D : so that we kind of think well what's the cumulative effect of what we've taken from your ideas and and mine ,
+
+to --> 
+dialogue type : Inform
+D : Obviously obviously what you've just told me what you've just told me impacts a lot on what um like market research mm that that I've been
+
+to --> 
+dialogue type : Assess
+B : Mm hard to know what where your role ends , yeah .
+
+to --> 
+dialogue type : Inform
+D : Before I bring this up what I'll just say is um what I've what I've done is tried to collect some information so that I can then relay this to to you guys so that it's now becomes a collective thing .
+to --> 
+dialogue type : Inform
+D : And then kind of lead us in the direction of deciding , 'kay what what are our options , what should we decide
+
+to --> 
+dialogue type : Inform
+D : So what I basically got is I just looked into some information
+to --> 
+dialogue type : Inform
+D : and sort of th tried to think about how how we could review it
+
+to --> 
+dialogue type : Inform
+D : and what kind of decisions we could take away from it
+
+to --> 
+dialogue type : Inform
+D : So um I'm thinking here about uh primarily about customer needs ,
+
+to --> 
+dialogue type : Suggest
+D : and what are issues with with um existing products .
+
+to --> 
+dialogue type : Suggest
+D : and also about try and connect that as you see with the company vision
+
+to --> 
+dialogue type : Inform
+D : So this is what I've found here ,
+
+to --> 
+dialogue type : Inform
+D : Um , users dislike the look and feel of current remote controls .
+
+to --> 
+dialogue type : Inform
+D : Most people find them ugly .
+to --> 
+dialogue type : Inform
+D : Um the vast majority would spend more money for it to look fancy as well ,
+to --> 
+dialogue type : Inform
+D : we'll see later , the vast majority would spend more money for um slightly more intuitive control , such as voice recognition .
+
+to --> 
+dialogue type : Inform
+D : Um most people use only a f a very slim portion of all the controls .
+
+to --> 
+dialogue type : Inform
+D : they tend to use the most simple controls
+
+to --> 
+dialogue type : Inform
+D : if for me this is sorta like three different different um inspirations , you know ,
+to --> 
+dialogue type : Inform
+D : one is that we want uh something that's high-tech but we want it to seem easy .
+to --> 
+dialogue type : Inform
+D : And in spite of the primitive side of it and the very high-tech side , we want it to just be an appealing piece of equipment in people's hands .
+
+to --> 
+dialogue type : Inform
+D : They get lost a lot ,
+
+to --> 
+dialogue type : Inform
+D : Um , takes time to learn how to use them .
+
+to --> 
+dialogue type : Inform
+D : and I will admit I don't know what R_S_I_ stands for .
+
+to --> 
+dialogue type : Inform
+D : uh adults at least would pay more for voice recognition .
+to --> 
+dialogue type : Inform
+D : Now apparently we do have access to all the tech cutting edge technology in remote control .
+
+to --> 
+dialogue type : Suggest
+D : if that's possible we might consider getting into it .
+
+to --> 
+dialogue type : Inform
+D : I think a recurring theme here is the company wants it to be wants us to make something that's fashionable and sleek and trendy .
+
+to --> 
+dialogue type : Inform
+D : You know , they like the aesthetics and the ergonomics .
+
+to --> 
+dialogue type : Assess
+B : So it you wanna group all the different kind of types of functions together , you know .
+
+to --> 
+dialogue type : Suggest
+D : my hope here is that I'm putting out this information so that we can then say okay , well how do we collectively move on with it .
+to --> 
+dialogue type : Inform
+D : Um I I haven't brought out one specific marketing idea ,
+
+to --> ,B
+dialogue type : Suggest
+B : Well , um one of the things that we have to decide on by the end of the meeting is who we're gonna be um who's our our target audience , our target market .
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : Um , so if we want something that that looks good and is easy to use , but has y is fairly powerful product , whatever , who do we really want to aim that at ?
+
+to --> 
+dialogue type : Suggest
+D : Where's the money , maybe .
+
+to --> 
+dialogue type : Assess
+B : Yeah , who wou who would have the money to spend .
+
+to --> 
+dialogue type : Inform
+B : it's somebody who's not gonna just use the remote that comes with their telly , I suppose ,
+
+to --> 
+dialogue type : Suggest
+A : Um , I think it'll be the mid range to the high end market , in terms of people .
+
+to --> 
+dialogue type : Suggest
+A : Um so maybe not the high end range , but maybe middle , middle up-ish .
+
+to --> 
+dialogue type : Elicit-Inform
+A : 'Cause twenty five Euros for a remote , how much is that lo locally in pounds ?
+
+to --> 
+dialogue type : Elicit-Inform
+A : is that a lot of money to buy an extra remote or a replacement remote ?
+
+to --> 
+dialogue type : Inform
+D : Mostly focused around the twenty five age group .
+to --> 
+dialogue type : Assess
+D : Sort of young professional , kind of . Mm-hmm
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : Um do you think then uh voice recognition is something we should really seriously consider ?
+
+to --> 
+dialogue type : Assess
+D : It does it does fit with the market that we're sort of identifying ,
+
+to --> 
+dialogue type : Suggest
+B : I think we are gonna have to narrow it down ,
+
+to --> 
+dialogue type : Inform
+B : and 'cause you know , there needs to be some kind of selling point to it .
+
+to --> 
+dialogue type : Inform
+B : if we are going to include speech recognition , it's kind of between fifteen and thirty five seems to be like a really high response to that .
+
+to --> 
+dialogue type : Assess
+A : I I think twenty five to thirty five is is is fair to add that in as a group as well
+
+to --> 
+dialogue type : Assess
+B : Okay , so fifteen to thirty five , look fairly young .
+
+to --> 
+dialogue type : Inform
+A : So these are people who are gadgety , right ?
+
+to --> 
+dialogue type : Assess
+B : So they'll not sh not shy away from something quite high-tech .
+
+to --> 
+dialogue type : Suggest
+B : so shall we make the decision uh to include speech recognition
+
+to --> 
+dialogue type : Assess
+A : I I think one thing we should try not to avoid is not to say we have to use speech recognition right now ,
+to --> 
+dialogue type : Inform
+A : because um , based on what you've go y everybody's saying , right , you want something simple .
+
+to --> 
+dialogue type : Inform
+A : Speech recognition might not be the simplest thing for somebody to use .
+
+to --> 
+dialogue type : Suggest
+D : Could it be an on off thing ?
+
+to --> 
+dialogue type : Assess
+A : but what I'm saying is that we're we're trying to lock ourselves into a s particular kind of technology ,
+to --> 
+dialogue type : Assess
+A : rather than focusing on on exactly what are the features that we're gonna say , and then , you know , say speech recognition is good for this , speech recognition is not good for this .
+
+to --> 
+dialogue type : Assess
+A : but at end of the day we don't look at the technology , but we look at the function first .
+
+to --> ,B
+dialogue type : Assess
+B : um might have been a good idea to all deliver our presentations and then discuss ,
+
+to --> ,D
+dialogue type : Assess
+D : well it's good to get ideas out while they're fresh in mind .
+
+to --> 
+dialogue type : Inform
+B : is if we make it um speech reco if we incorporate speech recognition , that's appealing to people um maybe with a physical disability as well .
+
+to --> 
+dialogue type : Inform
+D : And also it helps in terms of people not losing this ,
+
+to --> 
+dialogue type : Assess
+C : I reckon one problem with speech recognition is
+
+to --> 
+dialogue type : Inform
+C : um I've actually seen one of them used
+to --> 
+dialogue type : Assess
+C : and uh the technology that was in that one wasn't particularly amazing ,
+
+to --> 
+dialogue type : Inform
+C : so you end up yelling at the control for hours .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Do you think maybe we need like further advances in that kind of area until it's worthwhile incorporating it though ?
+
+to --> 
+dialogue type : Inform
+C : I think it'd probably quite expensive to put in .
+
+to --> 
+dialogue type : Inform
+A : Well this is just the working design um .
+
+to --> 
+dialogue type : Inform
+A : Um I guess I try to define like what we're doing now ,
+
+to --> 
+dialogue type : Inform
+A : but we're we can't n we haven't narrowed down um exactly what the things we're trying to fulfil , like
+
+to --> 
+dialogue type : Inform
+A : I think back in the back of our minds we know what the basics are .
+to --> 
+dialogue type : Inform
+A : Has to change channels , has to change volume ,
+to --> 
+dialogue type : Inform
+A : but in like specifics , right , which one of the basics are you trying to target .
+
+to --> 
+dialogue type : Offer
+A : so I'll go into the diagram first .
+to --> 
+dialogue type : Inform
+A : It just explains how the process goes through ,
+
+to --> 
+dialogue type : Inform
+A : from the basic technology point of view ,
+to --> 
+dialogue type : Inform
+A : the basic steps that you need
+
+to --> 
+dialogue type : Inform
+A : 'Kay , a battery or something , to keep it going .
+
+to --> 
+dialogue type : Inform
+A : you need some power source .
+
+to --> 
+dialogue type : Inform
+A : Um and that power source is important
+to --> 
+dialogue type : Inform
+A : because it ties you down to um how long the device will last .
+
+to --> 
+dialogue type : Inform
+A : Like for example , voice recognition , right .
+to --> 
+dialogue type : Inform
+A : That might be constrained because that you might need to power a microphone ,
+
+to --> 
+dialogue type : Inform
+A : so that's one perhaps constraint there .
+
+to --> 
+dialogue type : Inform
+A : Th Okay , the basic thing is there's a user interface
+
+to --> 
+dialogue type : Inform
+A : You know , and that um picks up an input from a user ,
+
+to --> 
+dialogue type : Inform
+A : a series of logic has to decide what the user is telling the device ,
+
+to --> 
+dialogue type : Inform
+A : Um and then it needs to be able to send the signal out to the device itself
+
+to --> 
+dialogue type : Inform
+A : like um voice recognition , right ,
+
+to --> 
+dialogue type : Suggest
+A : if it's something which is important then we just add more power
+to --> 
+dialogue type : Suggest
+A : rather than having a thing that we don't have enough power .
+
+to --> ,A
+dialogue type : Suggest
+A : maybe you you wanna go back to what the functions are ?
+
+to --> ,B
+dialogue type : Suggest
+B : Well , do you wan do you wanna finish up your your whole presentation then ?
+
+to --> ,A
+dialogue type : Inform
+A : Yeah , w I'm done .
+
+to --> 
+dialogue type : Inform
+A : Um you have a transmitter , an input device , logic chip ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : Since we're on the topic of the technology , uh are there any like what are our options ?
+
+to --> 
+dialogue type : Elicit-Inform
+D : Is this the only way that we go about it , or are there other thin
+
+to --> 
+dialogue type : Inform
+A : Um , these these aren't technology options in that sense .
+
+to --> 
+dialogue type : Inform
+A : a basic principles and basic components that are needed .
+
+to --> 
+dialogue type : Inform
+A : So each component represents one function ,
+to --> 
+dialogue type : Inform
+A : but I think the basic functions are the logic , the transmitter , um and the receiver , okay ,
+to --> 
+dialogue type : Inform
+A : and the power are things that you won't have to care about .
+
+to --> 
+dialogue type : Inform
+A : Um there might be one other consideration which would be that the the transmission between the remote control and the T_V_ for example .
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Okay , um are we gonna restrict ourselves to using the traditional technologies of infra-red thing ?
+to --> 
+dialogue type : Inform
+A : Because that's something you need to actually be physically be pointing to . Right .
+
+to --> 
+dialogue type : Inform
+B : Well well a worry that was was expressed in the new requirements was that if we made this too complex it would e it would effect um how long how long it took us to get this to market ,
+to --> 
+dialogue type : Suggest
+B : so I th suspect it might be a good idea just to restrict our kind of our creative influence on this on the user interface
+
+to --> 
+dialogue type : Inform
+B : um because I mean it it's tried and tested intra-red ,
+to --> 
+dialogue type : Suggest
+B : so we could stay with tha
+
+to --> 
+dialogue type : Inform
+A : Um if somebody's gonna h talk to the device , you ideally want them to hold it to them .
+
+to --> 
+dialogue type : Inform
+A : so because if you're using infra-red , the line of sight um say the T_V_'s at that chair , and I'm standing in front of here and the transmitter is here , it blocks it .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Uh does c is our controller is it have the option of being um on a standard uh frequency as all of the other equipment ,
+
+to --> 
+dialogue type : Inform
+A : There's there's not much specific specific information ,
+
+to --> 
+dialogue type : Inform
+B : In the new requirement spec they said just to focus on the T_V_ ,
+
+to --> 
+dialogue type : Suggest
+B : Um , is it worth considering like having like a charging unit as opposed to just regular batteries ?
+
+to --> 
+dialogue type : Elicit-Assessment
+B : or should we just consider running on regular batteries ?
+
+to --> 
+dialogue type : Inform
+A : Okay , from from a from a component point of view there's added complexity ,
+to --> 
+dialogue type : Inform
+A : and you add cost to it ,
+
+to --> 
+dialogue type : Inform
+A : You need a docking cradle , for example , for you to put it in to charge .
+to --> 
+dialogue type : Inform
+A : Or you need to get the user to plug it in .
+to --> 
+dialogue type : Inform
+A : Um and most users are very f use already used to the idea of buying batteries and putting it into the controller .
+
+to --> 
+dialogue type : Assess
+A : then I don't think rechargeable is something we should you know , we really need to care about .
+
+to --> 
+dialogue type : Assess
+B : Okay , so just stick to to regular
+
+to --> ,B
+dialogue type : Inform
+B : was that um the the whole point of this meeting was to f absolutely finalise who we're gonna aim this at ,
+
+to --> ,B
+dialogue type : Offer
+B : I'm just gonna just recap uh what I said at the start ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Are we all happy about the idea of um aiming the product at um the fifteen to thirty five bracket ?
+
+to --> 
+dialogue type : Assess
+D : Yeah , that's good .
+
+to --> 
+dialogue type : Inform
+C : I think we just say that it was gonna be the the most basic stuff possible .
+to --> 
+dialogue type : Inform
+C : Um on off , up and down channels , up and down volume and uh skip to a channel .
+
+to --> 
+dialogue type : Inform
+B : Um and also the funct the the actual functions of what it's gonna do .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : And is it going to include any of the uh the more advanced features ,
+
+to --> 
+dialogue type : Suggest
+C : I think we include mute ,
+to --> 
+dialogue type : Suggest
+C : but apart from that um I think we just we'll go for the simpleness .
+
+to --> 
+dialogue type : Suggest
+D : is it not an option still that we include some things just as a sort of under like sort of under a door or some
+
+to --> 
+dialogue type : Assess
+B : Yeah , it's as optional functions .
+
+to --> 
+dialogue type : Assess
+D : 'Cause what what I'm I'd be a bit worried about is if someone was h had previously developed habits of expecting to control surround sound or this and that with their controller and then and then they , you know , w they get ours and w it's doesn't have that .
+
+to --> 
+dialogue type : Inform
+A : Another thing that you were saying about categorising the controls ?
+to --> 
+dialogue type : Suggest
+A : Um maybe I could suggest we we break them down into three simple categories .
+to --> 
+dialogue type : Suggest
+A : One would be audio controls ,
+to --> 
+dialogue type : Suggest
+A : one would be video controls ,
+to --> 
+dialogue type : Suggest
+A : and the other one would be a device .
+
+to --> 
+dialogue type : Inform
+A : um it's something they do other things to like turn it on and turn it off .
+to --> 
+dialogue type : Suggest
+A : I mean like so what we could have is like three buckets , right , where we could throw things into ,
+
+to --> 
+dialogue type : Suggest
+A : and then from there decide whether it's basic , or it's non-basic .
+
+to --> 
+dialogue type : Assess
+D : Mm okay , great .
+
+to --> 
+dialogue type : Inform
+B : um for uh our Industrial Designer , you're gonna be thinking about the components concept .
+to --> 
+dialogue type : Inform
+B : Um User Interface Designer gonna be thinking about our user interface ,
+
+to --> ,B
+dialogue type : Offer
+B : Um so uh I guess just to just to confirm that we know what we're doing in the next well in the thirty minutes after lunch anyway ,
+
+to --> ,B
+dialogue type : Inform
+B : Um and then we're gonna have thirty minutes of working on the next stage .
+
+to --> 
+dialogue type : Inform
+B : and marketing you're gonna be thinking about trend watching .
+to --> 
+dialogue type : Inform
+B : Um and you'll all get specific instructions as well .
+
+to --> 
+dialogue type : Suggest
+D : shall we agree for sake of um sort of clarity and when we when we r resume that we'll u use this idea David's proposed ,
+to --> 
+dialogue type : Suggest
+D : where we think of these three sort of buckets and anything anything we discuss about them is sort of , okay , we're talking about this .
+
+to --> 
+dialogue type : Assess
+B : Yeah , yeah I think that's definitely a good idea .
+
+to --> 
+dialogue type : Inform
+A : Device is basically anything which we can't categorise , right .
+
+to --> 
+dialogue type : Inform
+B : so you're gonna have um audio which is gonna be like you know your bass settings and actual volume hi
+
+to --> 
+dialogue type : Inform
+A : And then video is anything that you can see .
+
+to --> 
+dialogue type : Assess
+B : Okay , so brightness , contrast , things like that ,
+
+to --> 
+dialogue type : Inform
+D : And then k I suppose quite likely what would happen is in the d device category there might be some which are just like the habitual standard
+
+to --> 
+dialogue type : Suggest
+B : Um so yeah , I guess just things to think about are you know like the fact it's gotta look good ,
+
+to --> 
+dialogue type : Suggest
+B : Um something maybe kind of quirky in design maybe .
+to --> 
+dialogue type : Suggest
+B : Make it kind of ergonomic kind of to hold ,
+

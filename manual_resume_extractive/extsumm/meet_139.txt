@@ -1,0 +1,396 @@
+to --> 
+dialogue type : Inform
+C : this is our design .
+to --> 
+dialogue type : Inform
+C : Uh it's pretty uh much uh like uh Mike draw uh drew uh the in the during the last meeting .
+
+to --> 
+dialogue type : Inform
+C : We have of course uh the the round shape uh the round uh basic shape .
+
+to --> 
+dialogue type : Inform
+C : Th So there's this part um which is made of hard plastic , the front .
+
+to --> 
+dialogue type : Inform
+C : Of course for the launch we use the basic ugly colours ,
+to --> 
+dialogue type : Inform
+C : and later we'll put out uh more interesting covers with different patterns and pictures and everything .
+
+to --> 
+dialogue type : Inform
+C : And uh we're we're using different colours .
+
+to --> 
+dialogue type : Inform
+C : and the rest of it , the under uh the under side uh of it , yeah , the back side and the lower part of the front is of course titanium made of titanium ,
+
+to --> 
+dialogue type : Inform
+C : Um then we have uh on back on the front uh the logo in the upper corner ,
+
+to --> 
+dialogue type : Assess
+C : It's a double R_ . Yeah the logo
+
+to --> 
+dialogue type : Suggest
+C : I think oval will be better for the for the d for the different uh channel buttons .
+
+to --> 
+dialogue type : Inform
+C : the the con the the the , yeah , the t volume and the channel controls uh in the middle here .
+to --> 
+dialogue type : Inform
+C : Um um with kind of arrow shapes ,
+
+to --> 
+dialogue type : Inform
+C : we uh the Okay button's here in the middle of the of the operators , of the channel and uh volume um changers .
+
+to --> 
+dialogue type : Inform
+C : And the video button .
+
+to --> 
+dialogue type : Inform
+B : Menu for the L_C_D_ screen .
+
+to --> 
+dialogue type : Inform
+C : And of course this low part , this is the L_C_D_ screen .
+
+to --> 
+dialogue type : Inform
+C : And we thought about the logo big in the middle .
+
+to --> 
+dialogue type : Inform
+C : And the company slogan , we thought in a kind of arc shape uh above the logo .
+
+to --> 
+dialogue type : Inform
+C : the voice recorder is uh at the bottom .
+
+to --> 
+dialogue type : Inform
+A : Well what what what I what I agree is that when uh when um you have such of uh an arc in the middle , so that the the a the ends and the fronts is a bit thicker , so th then it falls over your hands .
+to --> 
+dialogue type : Elicit-Inform
+A : And how large is it ?
+
+to --> 
+dialogue type : Inform
+C : That's the question .
+
+to --> 
+dialogue type : Assess
+D : Yeah , I agree with the L_C_D_ screen .
+
+to --> 
+dialogue type : Suggest
+D : And if you have it li in the middle , your hand might be over it .
+
+to --> 
+dialogue type : Inform
+C : But you you hold it like this .
+
+to --> 
+dialogue type : Inform
+B : Well f for as far as I can see , three of us agree
+
+to --> 
+dialogue type : Inform
+C : Well the the Well that's a reason to to to put the L_C_D_ screen uh of course on the upper side , but
+
+to --> 
+dialogue type : Inform
+A : For me , I I wouldn't buy it .
+
+to --> 
+dialogue type : Suggest
+A : So let it be like this at uh at this moment .
+
+to --> 
+dialogue type : Inform
+D : I'm going to do uh the ev evaluation .
+to --> 
+dialogue type : Inform
+D : That's gonna be done at the end of seven point skill criteria .
+to --> 
+dialogue type : Inform
+D : So I made a I made a few questions on the hand of uh uh the impor most important requirements and trends .
+
+to --> 
+dialogue type : Inform
+D : Uh the first question is , uh is the device good-looking ?
+
+to --> 
+dialogue type : Assess
+C : So I think it's very good-looking
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Easy to change channels ?
+
+to --> 
+dialogue type : Assess
+C : I think it's uh as easy as uh can be made . Uh
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The uh device is easy to find if you lose it ?
+
+to --> 
+dialogue type : Inform
+C : Well we don't have the device that beeps uh when you lost it or so ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : R_ R_S_I_ sensitive ?
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Are there enough technology ?
+
+to --> 
+dialogue type : Assess
+A : Uh well well a bit ,
+
+to --> 
+dialogue type : Assess
+D : Three .
+
+to --> 
+dialogue type : Assess
+A : Are the trends about fruit and vegetables implemented ?
+
+to --> 
+dialogue type : Assess
+D : Three , alright .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Is the material attractive ?
+
+to --> 
+dialogue type : Assess
+A : So I would say at least two .
+
+to --> 
+dialogue type : Suggest
+A : look at the costs at this point .
+
+to --> 
+dialogue type : Assess
+C : My god .
+
+to --> 
+dialogue type : Inform
+A : The sample speaker ,
+
+to --> 
+dialogue type : Suggest
+A : Kick it out .
+
+to --> 
+dialogue type : Inform
+A : Then we go to fourteen point six .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Well well why why why should we use a advanced chip ?
+
+to --> 
+dialogue type : Inform
+A : Well be for the L_C_D_ uh you had said .
+
+to --> 
+dialogue type : Elicit-Inform
+A : What's the difference between a simple and a regular chip ?
+
+to --> 
+dialogue type : Assess
+C : but it wasn't very clear .
+
+to --> 
+dialogue type : Suggest
+A : Well , we could say , well this special colour , that isn't that that isn't there ,
+to --> 
+dialogue type : Inform
+A : because the the fronts they will buy it . The special colour .
+
+to --> 
+dialogue type : Inform
+C : But we d Then we have to lose the L_C_D_ screen .
+
+to --> 
+dialogue type : Inform
+D : Yeah , we need to have the the L_C_D_ screen .
+
+to --> 
+dialogue type : Suggest
+A : We can also make it flat .
+
+to --> 
+dialogue type : Inform
+C : Yeah , this is actually two curves , yeah .
+
+to --> 
+dialogue type : Assess
+A : No , it's one curve .
+
+to --> 
+dialogue type : Inform
+C : W t we can never get uh below the twelve and a half .
+
+to --> 
+dialogue type : Suggest
+B : Well we make it more expensive to buy .
+
+to --> 
+dialogue type : Inform
+A : Well , then we have two dollars less profit .
+
+to --> 
+dialogue type : Inform
+D : If if you make people brand-aware , they are willing to pay more .
+
+to --> 
+dialogue type : Inform
+C : Hey but uh I think you'll agree that uh that we that now we have this uh screen , it's it's very uh not practical to ha to consider this after we have designed the entire thing .
+
+to --> 
+dialogue type : Suggest
+B : Why why don't we replace the titanium with uh plastic coloured titanium ,
+
+to --> 
+dialogue type : Assess
+A : Th then you have a ugly , stupid , l ugly looking , dumb remote that that no-one would buy .
+
+to --> 
+dialogue type : Offer
+A : I'll put in the report we that we think that fourteen point one is the l m lowest price you can make a remote for that's trendy d these days .
+to --> 
+dialogue type : Offer
+A : I I'll talk to the managers .
+
+to --> 
+dialogue type : Inform
+C : So we have to use the ditch the titanium , I'm afraid .
+
+to --> 
+dialogue type : Inform
+A : But then we can add the special colour ?
+to --> 
+dialogue type : Inform
+A : As we have money over uh left .
+
+to --> 
+dialogue type : Inform
+B : Well I think uh the case is double curved then .
+
+to --> 
+dialogue type : Inform
+B : Well y we have curves in all directions .
+
+to --> 
+dialogue type : Stall
+A : So alright .
+
+to --> 
+dialogue type : Inform
+A : but now we're going to evaluate our project , of uh project ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : are we satisfactory about our creativity ?
+to --> 
+dialogue type : Assess
+A : I think it's terrible that we got uh those costs at the last moment .
+
+to --> 
+dialogue type : Assess
+C : Well in in if we consider the costs then this is the best , yeah .
+
+to --> 
+dialogue type : Inform
+A : and you had to dump all your creativity .
+
+to --> 
+dialogue type : Inform
+A : Uh leadership
+
+to --> 
+dialogue type : Inform
+D : Well it's It was very democratic .
+
+to --> 
+dialogue type : Assess
+A : Well the managers were terrible . So , with their all their useless requirements .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : teamwork ?
+to --> 
+dialogue type : Assess
+A : Well great I think .
+to --> 
+dialogue type : Elicit-Assessment
+A : Uh well what do you , what did you think about the SMARTboard ?
+
+to --> 
+dialogue type : Assess
+C : It was a complete disaster .
+
+to --> 
+dialogue type : Inform
+D : That one isn't accurate .
+
+to --> 
+dialogue type : Inform
+B : But I I think this is meant by the digital pen .
+
+to --> 
+dialogue type : Inform
+C : Uh a green uh board with uh chalk is much more useful than that thing .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : And uh the digi the digital pen ?
+
+to --> 
+dialogue type : Inform
+D : It isn't practical . Right .
+
+to --> 
+dialogue type : Assess
+D : Yeah , it might be useful for drawings . I I agree on that .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : N new ideas found ?
+
+to --> 
+dialogue type : Inform
+B : Well I missed uh the option to uh to email ,
+
+to --> 
+dialogue type : Inform
+D : Communicate in between .
+
+to --> 
+dialogue type : Inform
+C : uh which is uh made uh which is also part of the back , part of the titanium uh titanium part .
+
+to --> 
+dialogue type : Inform
+A : If if you look if if this this is thick , and this is thin , th th then it that it lies over your hands . But
+
+to --> 
+dialogue type : Inform
+B : and only Nils
+

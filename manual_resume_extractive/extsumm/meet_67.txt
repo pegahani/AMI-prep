@@ -1,0 +1,967 @@
+to --> 
+dialogue type : Be-Positive
+A : welcome to our detailed design meeting .
+
+to --> ,A
+dialogue type : Inform
+A : and then um I'll talk about the minutes from the last meeting , what we d discussed um ,
+to --> ,A
+dialogue type : Inform
+A : then we'll have the prototype presentation
+to --> ,A
+dialogue type : Inform
+A : and a look at the evaluation criteria .
+
+to --> ,A
+dialogue type : Inform
+A : and finally a do a production evaluation
+
+to --> 
+dialogue type : Inform
+A : we're gonna use a kinetic battery um ,
+to --> 
+dialogue type : Inform
+A : we want to use a simple chip ,
+
+to --> 
+dialogue type : Inform
+A : we're choosing a latex case w in fruity colours that's curved
+to --> 
+dialogue type : Inform
+A : and um we're using push buttons uh with a supplement of an on-screen menu .
+
+to --> 
+dialogue type : Inform
+B : we made three different prototypes
+
+to --> 
+dialogue type : Inform
+B : our colours not are not fixed ,
+
+to --> 
+dialogue type : Inform
+B : Uh we have the on off button at the tip , very visible , very big .
+to --> 
+dialogue type : Inform
+B : We have our up and down buttons ,
+to --> 
+dialogue type : Inform
+B : which are also gonna be our channel selectors ,
+to --> 
+dialogue type : Inform
+B : and we have our little menu button here .
+to --> 
+dialogue type : Inform
+B : If you push if you're just pushing these normally , they're the menu buttons , if uh the volume buttons rather .
+to --> 
+dialogue type : Inform
+B : If you press select once , they become channel changing buttons .
+
+to --> ,B
+dialogue type : Inform
+B : That's our number one prototype .
+
+to --> 
+dialogue type : Assess
+A : The little lightning bolt in it , very cute .
+
+to --> 
+dialogue type : Inform
+C : We call that one the rhombus ,
+
+to --> 
+dialogue type : Inform
+C : Um this one is known as the potato ,
+
+to --> 
+dialogue type : Inform
+C : It's an ergonomic shape ,
+
+to --> 
+dialogue type : Inform
+C : Um I've gone here just for just for four buttons on this one . Um
+to --> 
+dialogue type : Inform
+C : the two blue buttons here are for adjusting the volume .
+to --> 
+dialogue type : Inform
+C : So you've got volume up and volume down on the other side here .
+
+to --> 
+dialogue type : Inform
+C : Uh this middle button here brings up the on-screen menu
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Could the middle button of the on-screen menu function as a power button ?
+
+to --> 
+dialogue type : Inform
+C : it would make it hard to turn the machine off , to turn your T_V_ off .
+
+to --> 
+dialogue type : Inform
+B : And then finally we have um the Martian or the pear , either way .
+to --> ,B
+dialogue type : Assess
+B : Um it's a bit different , just a little bit more of a creative feel .
+to --> 
+dialogue type : Inform
+B : Uh you have the on off toggle stem on the top .
+
+to --> 
+dialogue type : Inform
+B : And then you have on the sides to make it a little bit more three-dimensional ,
+
+to --> 
+dialogue type : Assess
+B : plus it's an interesting talking point to have standing up .
+to --> 
+dialogue type : Suggest
+B : We figured it could stand up like this on your table , if you wanted it to , if I made the bot the bottom flat .
+
+to --> ,C
+dialogue type : Suggest
+C : in terms of making decisions , what we'd need to do is first of all decide on a form uh which of the three different shapes we want ,
+to --> ,C
+dialogue type : Suggest
+C : then decide what kind of button layout we want , how many buttons ,
+to --> ,C
+dialogue type : Suggest
+C : and then to choose what colours we want to make the buttons
+
+to --> 
+dialogue type : Inform
+B : normally we'd go for fruity colours ,
+to --> 
+dialogue type : Inform
+B : but maybe we're also thinking that your sort of middle aged man , for an example customer , might not want a fruity coloured remote ,
+
+to --> 
+dialogue type : Inform
+A : but um the f the um feature that we considered for it not getting lost .
+
+to --> ,B
+dialogue type : Inform
+B : we were we were talking about that a little bit
+
+to --> 
+dialogue type : Assess
+B : and we think that each of these are so distinctive , that it it's not just like another piece of technology around your house .
+to --> 
+dialogue type : Inform
+B : It's gonna be somewhere that it can be seen .
+to --> 
+dialogue type : Assess
+B : So we're we're not thinking that it's gonna be as critical to have the loss
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Would it be very difficult to um just have an external device
+to --> 
+dialogue type : Elicit-Assessment
+A : that like I dunno , you tape to your to your T_V_
+
+to --> 
+dialogue type : Elicit-Assessment
+A : a little light beep goes off ?
+
+to --> 
+dialogue type : Elicit-Assessment
+A : um that when you press it
+
+to --> 
+dialogue type : Assess
+C : I think it would be difficult technologically ,
+
+to --> 
+dialogue type : Assess
+C : and then I wonder if it's if it's more just a gimmick then anything else .
+
+to --> 
+dialogue type : Inform
+B : There might be something that you can do in the circuit board and the chip to make it make a noise or something ,
+to --> 
+dialogue type : Inform
+B : but it would take a lot more development than we have this afternoon .
+
+to --> 
+dialogue type : Inform
+A : Um we so we do we've decided not to worry about that for now .
+
+to --> 
+dialogue type : Inform
+A : 'cause well , the designs are very bright ,
+to --> 
+dialogue type : Inform
+A : so you're right , they're gonna stick out ,
+
+to --> 
+dialogue type : Assess
+D : I sort of like this one ,
+
+to --> 
+dialogue type : Assess
+D : it just it's like small but still sort of like cute looking ,
+
+to --> 
+dialogue type : Assess
+D : But I dunno how much any of this has to do with the fashionable , sort of cool looking thing
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Could we maybe have like an extra button on the top for on off ?
+
+to --> ,A
+dialogue type : Suggest
+A : Um uh why don't we do a product evaluation using your criteria ,
+
+to --> ,D
+dialogue type : Assess
+D : I think we're supposed to have one that we do it for .
+
+to --> 
+dialogue type : Be-Negative
+D : I was a little vague on what exactly I'm supposed to do ,
+
+to --> ,D
+dialogue type : Offer
+D : I have to like write something on the whiteboard , so .
+
+to --> 
+dialogue type : Inform
+A : It's kind of like uh like a joystick kind of thing ,
+
+to --> 
+dialogue type : Assess
+C : It makes look more fruity as well .
+
+to --> 
+dialogue type : Suggest
+A : There it could have a stem like that ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : is that where people are leaning then , the potato ?
+
+to --> 
+dialogue type : Assess
+A : Variety of colours are nice .
+to --> 
+dialogue type : Assess
+A : I think I'm leaning towards the potato .
+
+to --> 
+dialogue type : Assess
+B : that's really gotten the simplicity of the buttons down , that one .
+
+to --> 
+dialogue type : Assess
+A : I am worried about like um using a menu .
+
+to --> 
+dialogue type : Inform
+A : withing menus there are submenus ,
+to --> 
+dialogue type : Elicit-Inform
+A : and so how do you get back to the main menu ?
+
+to --> 
+dialogue type : Inform
+B : on the iPod , for example , you just every time you wanna go back you hit the menu button again
+
+to --> 
+dialogue type : Inform
+A : But that has a menu button separate from a select button ,
+
+to --> 
+dialogue type : Inform
+C : the up and down buttons are used for scrolling up and down for a list of choices .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Could these be used for going to submenus
+
+to --> 
+dialogue type : Suggest
+B : maybe it can be one of those ,
+
+to --> 
+dialogue type : Suggest
+B : if you press down and hold
+
+to --> 
+dialogue type : Suggest
+B : for two seconds , then it brings you back one level or something .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Potato .
+
+to --> ,D
+dialogue type : Suggest
+D : some of the things that we've talked about before we need to make sure that that remote actually does conform to the things that we said it was going to .
+
+to --> ,D
+dialogue type : Suggest
+D : what we sort of wanna do is that we each need to separately
+to --> ,D
+dialogue type : Suggest
+D : rank each of the following things
+to --> ,D
+dialogue type : Offer
+D : and then I'll tabulate an average
+
+to --> ,D
+dialogue type : Suggest
+D : and each of you can tell me on a scale of one to seven
+to --> 
+dialogue type : Inform
+D : with one being really extremely true
+to --> 
+dialogue type : Inform
+D : and seven being not true at all , or false ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : First we wanna know if it meets the fancy look and feel um objective .
+
+to --> 
+dialogue type : Assess
+D : in my opinion the for now at least , the yellow one is probably somewhere in the middle
+to --> 
+dialogue type : Assess
+D : so I'm gonna say it's like a three .
+
+to --> 
+dialogue type : Assess
+A : I I kind of think it's it's unique enough that I'd give it a one or a two .
+
+to --> 
+dialogue type : Assess
+B : I dunno if fancy is the word I would use .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : and same sort of scale for functionality , is it functional ?
+to --> 
+dialogue type : Assess
+D : I think it's extremely functional ,
+
+to --> 
+dialogue type : Assess
+A : I think it'll get everything done ,
+
+to --> 
+dialogue type : Assess
+A : then I'm gonna give it a two .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Um is it technologically innovative ?
+to --> 
+dialogue type : Assess
+D : Mm . Not really , I mean not so much ,
+to --> 
+dialogue type : Inform
+D : 'cause we we don't have the L_C_D_ screen ,
+
+to --> 
+dialogue type : Assess
+A : the kinetic battery .
+
+to --> 
+dialogue type : Inform
+B : How many people would notice that , though ?
+
+to --> 
+dialogue type : Assess
+D : And if it's made of like latex , that whole idea , that's pretty cool .
+
+to --> 
+dialogue type : Assess
+A : Think I'm gonna go with the four as well .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Um we next wanna see if it has a spongy quality
+to --> 
+dialogue type : Assess
+D : and if indeed it's made of latex or rubber I it's spongy all the way .
+
+to --> 
+dialogue type : Assess
+A : Give it a one .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : and the next is , does it integrate some notion of fruits and vegetables ?
+
+to --> 
+dialogue type : Elicit-Assessment
+D : is it gonna be yellow ?
+
+to --> 
+dialogue type : Assess
+B : We might wanna keep it yellow .
+
+to --> 
+dialogue type : Assess
+A : I know it would make it a little less c a little more confusing ,
+to --> 
+dialogue type : Suggest
+A : but if we had all the buttons in black , and a design in and the outside in yellow , that'd be our corporate one
+to --> 
+dialogue type : Suggest
+A : and we could also have alternative colours , one a more conservative one , one that's more fruity .
+to --> 
+dialogue type : Suggest
+A : Um and can we have like an R_R_ inscribed on the bottom or something ?
+
+to --> 
+dialogue type : Inform
+B : it was inspired by the potato ,
+to --> 
+dialogue type : Assess
+B : so I think it's pretty fruity .
+
+to --> 
+dialogue type : Assess
+A : I think i it's kind of mangoey too .
+
+to --> 
+dialogue type : Assess
+B : That's a much more trendy than a potato
+
+to --> 
+dialogue type : Elicit-Assessment
+D : um , and does the design match the appropriate behaviour ?
+to --> 
+dialogue type : Inform
+D : Remember earlier we discussed that people don't use a lot of buttons ,
+
+to --> 
+dialogue type : Assess
+D : so I'm gonna give it a one .
+
+to --> 
+dialogue type : Inform
+D : also we talked earlier about R_S_I_ and wanting to prevent um any sort of like Carpal Tunnely kind of thing .
+to --> 
+dialogue type : Elicit-Assessment
+D : Do we think that the latex sort of grip appropriately takes that into account ?
+to --> 
+dialogue type : Assess
+D : I think I'll give it a two ,
+
+to --> 
+dialogue type : Inform
+A : And if it's repetitive movement it is gonna be only four buttons that you're constantly pushing ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : And the ease of learning it .
+
+to --> 
+dialogue type : Assess
+B : The menu system and the the fact that multiple buttons are used for different things might be a bit confusing ,
+to --> 
+dialogue type : Inform
+B : but I think if it's one it's one of those things that it might take you five minutes to figure out , but you'll have it afterwards .
+to --> 
+dialogue type : Assess
+B : So I'd I think I'd give it a two I guess .
+
+to --> 
+dialogue type : Inform
+C : because you have to you have to use the menu system
+to --> 
+dialogue type : Inform
+C : and you have to tell it what your favourite channels are
+to --> 
+dialogue type : Inform
+C : and that could take a bit of learning at first ,
+
+to --> 
+dialogue type : Assess
+C : So I'd I'd give it a four .
+
+to --> 
+dialogue type : Inform
+D : also earlier we had something about losing it
+to --> 
+dialogue type : Inform
+D : and so now we're not addressing that at all ,
+
+to --> 
+dialogue type : Assess
+A : I think we can kind of say we addressed it with colour ,
+
+to --> 
+dialogue type : Assess
+D : I'm gonna I'm gonna give it a four ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : how w how well does it address just being simple ?
+
+to --> 
+dialogue type : Assess
+D : Um it like wants to be simple but it's not like totally totally simple ,
+
+to --> 
+dialogue type : Assess
+B : I'm give it a three I guess .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : and fashionable ?
+
+to --> 
+dialogue type : Assess
+A : It's totally fashionable .
+
+to --> 
+dialogue type : Assess
+D : I think it's bringing technology and fashion together real really well .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : And does it meet our like demographic need sort of for international appeal , that whole thing ?
+
+to --> 
+dialogue type : Suggest
+A : if we offer in a in at least three different colour arrangements .
+
+to --> 
+dialogue type : Assess
+A : So I'll give it a a two .
+
+to --> 
+dialogue type : Inform
+A : we didn't we didn't address the fact that it does need to b have a corporate logo ,
+to --> 
+dialogue type : Suggest
+A : so let's let's make sure we keep that in mind that we ha that one of our colours concepts is corporate and has an R_R_ on it .
+
+to --> 
+dialogue type : Suggest
+B : I think all of them should have an R_R_ .
+
+to --> ,A
+dialogue type : Suggest
+A : now we're gonna look at finances .
+to --> ,A
+dialogue type : Inform
+A : Um I have an Excel sheet that we're actually gonna calculate the cost um ,
+
+to --> 
+dialogue type : Inform
+A : We're using kinetic battery ,
+
+to --> 
+dialogue type : Assess
+A : Simple .
+
+to --> 
+dialogue type : Inform
+C : Guess it's double-curved .
+
+to --> 
+dialogue type : Elicit-Inform
+D : don't we need plastic , and
+
+to --> 
+dialogue type : Inform
+D : It was rubber and special colour ,
+
+to --> 
+dialogue type : Inform
+A : we're using we're gonna need at least two special colours .
+
+to --> 
+dialogue type : Elicit-Inform
+B : I don't know what the se the basic colour is though .
+
+to --> 
+dialogue type : Inform
+B : like we'll have yellow and black .
+
+to --> 
+dialogue type : Inform
+A : Maybe the R_R_ will be in colour as well ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : And how many buttons do we have ?
+
+to --> 
+dialogue type : Inform
+D : We have six .
+
+to --> 
+dialogue type : Inform
+A : the case material will just have one colour ,
+
+to --> 
+dialogue type : Inform
+A : but then the buttons will be in special colours ?
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : Special form ?
+
+to --> 
+dialogue type : Assess
+B : I think they're fine .
+to --> 
+dialogue type : Inform
+B : Material , we want them rubber as well probably , yeah .
+
+to --> 
+dialogue type : Inform
+A : Thirteen point seven .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : what can we reduce ?
+
+to --> 
+dialogue type : Suggest
+B : let's have our buttons all be one colour .
+
+to --> 
+dialogue type : Inform
+A : Maybe it's single-curved ,
+
+to --> 
+dialogue type : Inform
+B : It's single curved .
+
+to --> 
+dialogue type : Inform
+A : case material is rubber
+to --> 
+dialogue type : Inform
+A : and it's a special colour ,
+
+to --> 
+dialogue type : Inform
+B : It was it was thirteen
+to --> 
+dialogue type : Inform
+B : and now it's fifteen .
+
+to --> 
+dialogue type : Inform
+A : Now it's twelve .
+
+to --> 
+dialogue type : Elicit-Inform
+C : What was our target price again ?
+
+to --> 
+dialogue type : Inform
+B : Twelve point five .
+
+to --> 
+dialogue type : Assess
+A : So we're okay , I think .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Um are the are the costs under twelve fifty Euro ?
+
+to --> 
+dialogue type : Inform
+B : Yes .
+
+to --> ,A
+dialogue type : Suggest
+A : Let's move on to the project evaluation .
+to --> ,A
+dialogue type : Inform
+A : Project process . Satisfaction with for example the room for creativity , leadership , teamwork , the means , any new ideas found .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : So I guess what we're gonna talk about here is just evaluating how we created this project ,
+to --> 
+dialogue type : Elicit-Assessment
+A : the information we got on the news , how we used it ,
+to --> 
+dialogue type : Elicit-Assessment
+A : if we were able to um , you know , use our creativity with the information ,
+to --> 
+dialogue type : Elicit-Assessment
+A : um how how well I guess I led it ,
+to --> 
+dialogue type : Elicit-Assessment
+A : um the how well we worked together as a team ,
+to --> 
+dialogue type : Elicit-Assessment
+A : um the digital pens ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : the whiteboard .
+
+to --> 
+dialogue type : Assess
+B : I felt very creative .
+
+to --> 
+dialogue type : Assess
+C : I think we've been successful
+
+to --> 
+dialogue type : Assess
+B : I enjoyed making the prototypes .
+
+to --> 
+dialogue type : Assess
+B : I think we could've done even better with a little bit more information ,
+to --> 
+dialogue type : Elicit-Inform
+B : like what's a single-curved case ,
+
+to --> 
+dialogue type : Assess
+B : but given given what we had I think that we did we did really well .
+
+to --> 
+dialogue type : Assess
+D : if I'd had more market research on the fruits and vegetables , maybe we could've taken that into account .
+
+to --> 
+dialogue type : Assess
+D : I thought the pen was a little distracting for me personally ,
+
+to --> 
+dialogue type : Inform
+D : That was the last one , like I chose not to do a PowerPoint
+
+to --> 
+dialogue type : Assess
+A : I think we all made um very significant contributions ,
+to --> 
+dialogue type : Assess
+A : I don't think anybody dominated it ,
+
+to --> 
+dialogue type : Elicit-Inform
+B : Mm . What did we find for new ideas ?
+to --> 
+dialogue type : Inform
+B : People should really base their remotes on fruits and vegetables .
+to --> 
+dialogue type : Inform
+B : I I am really into the idea of kinetic batteries now after reading about them .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Is the project evaluated ?
+
+to --> 
+dialogue type : Inform
+B : Yes .
+
+to --> 
+dialogue type : Inform
+A : there's the final questionnaire and meeting summary .
+
+to --> 
+dialogue type : Assess
+A : this is the great product kids ,
+
+to --> 
+dialogue type : Inform
+A : and that we have a market for it , um especially if we can produce it at twelve point three
+
+to --> ,A
+dialogue type : Suggest
+A : Make sure in your questionnaire to put down criticisms of both the process and the um the final results
+
+to --> 
+dialogue type : Assess
+A : I do like the Martian remote .
+to --> 
+dialogue type : Inform
+A : If we could choose more than one , that would be my second choice .
+to --> 
+dialogue type : Fragment
+A : Although the tog toggle
+
+to --> 
+dialogue type : Be-Negative
+D : I would break it . I would break it .
+
+to --> 
+dialogue type : Inform
+B : Is it started as a pear ,
+
+to --> 
+dialogue type : Inform
+D : Kind of looks like a penguin , like with no eye .
+
+to --> ,D
+dialogue type : Inform
+D : Nothing will come up until after our meeting's supposed to be over ,
+
+to --> ,A
+dialogue type : Assess
+A : otherwise the technology today was kinda cool .
+
+to --> 
+dialogue type : Inform
+A : I got more master classes ,
+
+to --> 
+dialogue type : Elicit-Inform
+B : what did I get through the corporate website ?
+to --> 
+dialogue type : Inform
+B : It's just inspiration about circuit boards .
+
+to --> 
+dialogue type : Assess
+D : the Excel thing is pretty cool .
+
+to --> 
+dialogue type : Inform
+B : I learned a lot actually .
+to --> 
+dialogue type : Inform
+B : I could probably take apart a remote control now if I really needed to .
+
+to --> ,B
+dialogue type : Inform
+B : I wrote it all down ,
+to --> ,B
+dialogue type : Inform
+B : because I thought it would be relevant , like all the different parts of the inside of a remote control ,
+to --> 
+dialogue type : Inform
+B : but then they're like , you don't actually need this
+
+to --> ,A
+dialogue type : Assess
+A : I I thought it was a little tricky having to hand around this thing .
+
+to --> 
+dialogue type : Assess
+C : We didn't we didn't use the whiteboard that much .
+
+to --> 
+dialogue type : Inform
+A : Although I don't see how we could have very l at least for me
+
+to --> 
+dialogue type : Assess
+D : and I think usually , like whiteboards are good , you know like crossing out ideas , or like if we had had like a brainstorming period .
+
+to --> ,B
+dialogue type : Suggest
+B : we could've put our brainstorming stuff up there rather than just talking about it ,
+
+to --> 
+dialogue type : Inform
+A : And with and with the PowerPoint that we can all look at , like you can do all those things pretty much on PowerPoint
+
+to --> ,D
+dialogue type : Inform
+D : 'cause we all needed them separately , kind of on the whiteboards in this room .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : when you were um creating your um prototypes here , did you work together or did you like do separate projects ?
+
+to --> ,C
+dialogue type : Inform
+C : Uh we we worked together ,
+
+to --> ,C
+dialogue type : Inform
+C : we sort of made different shapes
+
+to --> 
+dialogue type : Assess
+B : well done with the management , I felt well managed .
+
+to --> ,C
+dialogue type : Assess
+C : I think we did well in first of all giving our meetings the time ,
+
+to --> ,A
+dialogue type : Assess
+A : It's kinda fun .
+
+to --> ,C
+dialogue type : Assess
+C : we we did a good job of making firm decisions at the ends of the meetings .
+
+to --> ,C
+dialogue type : Inform
+C : I know what happens sometimes is that you tend to sort of have meetings and then people sorta drift away without anything actually really being decided .
+to --> ,C
+dialogue type : Inform
+C : But I think here we got we got clear and and decisive decisive points at the end of the meetings ,
+
+to --> 
+dialogue type : Inform
+A : I think the last time we had a lot of information , but at the same time not quite enough ,
+
+to --> 
+dialogue type : Inform
+A : like we we couldn't answer every single question .
+
+to --> ,B
+dialogue type : Assess
+B : And I I felt the first two meetings , that I was coming in with no information ,
+
+to --> 
+dialogue type : Assess
+A : Um . I'm a little I am a little disappointed that we didn't do a um something for losing the remote ,
+
+to --> ,A
+dialogue type : Offer
+A : Just gonna make I'm making full minutes ,
+to --> ,A
+dialogue type : Offer
+A : so that it'll include all of the agenda and all that .
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : How much of your PowerPoint was already done for you ,
+
+to --> ,A
+dialogue type : Inform
+A : Most of it ,
+
+to --> 
+dialogue type : Inform
+B : I didn't even think about adding slides ,
+to --> 
+dialogue type : Inform
+B : 'cause I would just get slides with titles on them
+
+to --> 
+dialogue type : Inform
+B : I think the R_ and R_ , especially if the yellow and black one .
+
+to --> 
+dialogue type : Inform
+A : I think we just need the um the R_R_ ,
+
+to --> 
+dialogue type : Inform
+A : 'cause they didn't give me any clear , like yellow , grey , or .
+
+to --> 
+dialogue type : Inform
+D : I guess it is black , grey .
+
+to --> ,D
+dialogue type : Inform
+D : I just feel like if you're really doing like a a really big market evaluation , you wouldn't just have like one set of source ,
+

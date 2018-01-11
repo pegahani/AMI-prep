@@ -1,0 +1,198 @@
+to --> 
+dialogue type : Inform
+A : I'm Ada Longmund ,
+to --> 
+dialogue type : Inform
+A : and as you may know it , I'm the pr project manager .
+
+to --> 
+dialogue type : Inform
+A : Our project project is to create um a new remote control
+
+to --> 
+dialogue type : Inform
+A : so the remote control has to be original , trendy and um user-friendly .
+
+to --> ,A
+dialogue type : Inform
+A : if we're um the functional design , you have to do uh any individual work
+to --> ,A
+dialogue type : Inform
+A : and uh also work with uh meetings talking with each other .
+to --> ,A
+dialogue type : Inform
+A : Uh it will be the same for the conceptual design and also the same for the detailed design . Uh .
+to --> ,A
+dialogue type : Inform
+A : The tool training is to try out the white board ,
+
+to --> ,C
+dialogue type : Suggest
+C : Maybe someone ha we have to this whiteboard ,
+
+to --> 
+dialogue type : Inform
+A : Maybe you can draw your favourite animal
+to --> 
+dialogue type : Inform
+A : and make a list of its favourite characteristics .
+to --> 
+dialogue type : Inform
+A : I don't know if we have to do it now ,
+to --> 
+dialogue type : Inform
+A : maybe later later .
+
+to --> 
+dialogue type : Inform
+A : the selling price of the product will be twenty five Euros .
+
+to --> 
+dialogue type : Inform
+A : it will uh be a an international remote control ,
+
+to --> 
+dialogue type : Assess
+A : I think it's quite good price , yeah .
+
+to --> 
+dialogue type : Inform
+A : and the product costs will be not more than twelve Euros and fifty centimes .
+
+to --> 
+dialogue type : Suggest
+A : try to create something new
+
+to --> ,A
+dialogue type : Inform
+A : And and the next meeting will start in thirty minutes ,
+
+to --> ,A
+dialogue type : Inform
+A : you'll ha all have your spethisfispis specif specific role
+
+to --> ,A
+dialogue type : Inform
+A : you will have to work on the design
+to --> ,A
+dialogue type : Inform
+A : and also to work on the design of th technical fun functions of the remote control
+to --> ,A
+dialogue type : Inform
+A : and think of the user requirement specifications .
+
+to --> ,D
+dialogue type : Inform
+D : Those things just refer to each of each of us , I think . AMI
+
+to --> 
+dialogue type : Inform
+C : I_D_ is for the Industrial Design ,
+
+to --> 
+dialogue type : Inform
+C : And U_I_D_ , it's for the User Interface Designer ,
+
+to --> 
+dialogue type : Inform
+A : I will manage all all the group .
+
+to --> 
+dialogue type : Inform
+D : and Marketing Expert , it's me .
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : what's the difference between
+to --> ,B
+dialogue type : Elicit-Inform
+B : user interface design d industrial design ?
+
+to --> ,A
+dialogue type : Inform
+A : I suppose you have to design it
+to --> ,A
+dialogue type : Inform
+A : and you have to take care of the industrial way to transform it .
+
+to --> ,C
+dialogue type : Inform
+C : I I think the user the user interface design is he will design how the user will you know the relation between the user and you know the remote control so
+to --> ,C
+dialogue type : Inform
+C : And the uh industrial design , it is how the object will look like .
+
+to --> 
+dialogue type : Inform
+A : Maybe , it is the outside and the inside .
+
+to --> 
+dialogue type : Inform
+C : 'cause the user interface to design for example where the but button will be , you know .
+
+to --> 
+dialogue type : Inform
+D : I'm trying to give you some trends about what should be done and what the users would like to have
+to --> ,D
+dialogue type : Suggest
+D : and then thi this would I guess converged to the User Interface Designer wi and then Industrial Designer .
+
+to --> 
+dialogue type : Inform
+A : so really the remote control to be international .
+to --> 
+dialogue type : Inform
+A : And not too expensive .
+
+to --> 
+dialogue type : Suggest
+A : And to be sure that really people will be interested in buying a new remote control with maybe new functionalities that don't exist in the mm existing remote controls now .
+
+to --> ,C
+dialogue type : Inform
+C : There was a step about drawing something in the in the board ,
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : Are we supposed to do right now ?
+
+to --> 
+dialogue type : Suggest
+B : You can draw something which is very simple .
+
+to --> 
+dialogue type : Inform
+C : It's a It's a cat .
+
+to --> 
+dialogue type : Suggest
+C : you have to draw a rat if you want a rat .
+
+to --> 
+dialogue type : Assess
+C : It's a rabbit .
+
+to --> 
+dialogue type : Assess
+D : Right . A fish .
+
+to --> ,B
+dialogue type : Inform
+B : we have break .
+
+to --> 
+dialogue type : Inform
+A : present project ,
+
+to --> ,D
+dialogue type : Inform
+D : we have twenty five minutes for the meeting .
+
+to --> 
+dialogue type : Elicit-Inform
+A : You know your job ?
+
+to --> 
+dialogue type : Inform
+C : I have an idea of my job
+

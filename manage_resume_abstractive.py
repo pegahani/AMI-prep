@@ -1,7 +1,6 @@
 from meeting import meeting
 import xml.etree.ElementTree as ET
-from os import listdir
-from os.path import isfile, join
+import tools
 
 class abstractive(meeting):
 
@@ -37,14 +36,9 @@ class abstractive(meeting):
         return
 
 
-def get_list():
-    path = '../../AMI/ami_public_manual/abstractive/'
-    files = [f for f in listdir(path) if isfile(join(path, f))]
+tool = tools.tools('abstractive')
 
-    return files
-
-
-for file in get_list():
+for file in tool.get_list():
     print file
     d = abstractive(file)
     d.get_abstractive_resume()
