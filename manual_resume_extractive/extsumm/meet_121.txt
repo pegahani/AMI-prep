@@ -1,0 +1,791 @@
+to --> D,C,B,A
+dialogue type : Inform
+A : Um here we are already at our uh functional design meeting .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : I'm project manager but on the meetings I'm also the secretary ,
+to --> D,C,B,A
+dialogue type : Offer
+A : which means I will make uh minutes
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um if I'm right , there are three presentations ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : And um we will also take a look at new project requirements , um if you haven't heard about them yet .
+
+to --> D,C,B,A
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Um well I don't know who wants to go first with his presentation .
+
+to --> A,C
+dialogue type : Offer
+C : I'll go first . Okay . I'll go first yeah .
+
+to --> A,D,B,C
+dialogue type : Offer
+C : I wanted to explain the working design of the remote control .
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh when you press a button , uh that's when you do pr for example when you uh want to turn up the volume , um a little connection is made
+
+to --> A,D,B
+dialogue type : Inform
+C : on a little print plate
+
+to --> A,D,B
+dialogue type : Inform
+C : Um uh the the chip uh makes a Morse code uh like uh signal
+to --> A,D,B
+dialogue type : Inform
+C : which uh then is si uh signalled to uh several transistors
+
+to --> A,D,B
+dialogue type : Inform
+C : And that makes uh the the infra-red lights signal
+to --> A,D,B
+dialogue type : Inform
+C : which is sent to the television set .
+
+to --> A,D,B
+dialogue type : Inform
+C : Um the findings uh uh that I found uh searching up some uh detailed information about the remote controls , are that uh they are very easy to produce ,
+
+to --> A,D,B
+dialogue type : Inform
+C : uh it's possible to uh make them in mass production
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh and the technology's already available ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh I made a little uh uh animation of about how a tran our uh remote controller works .
+
+to --> A,D,B
+dialogue type : Inform
+C : the sub-component , I suppose that you understand what a sub-component is , is f in this example it's the button .
+to --> A,D,B
+dialogue type : Inform
+C : Uh when it is pressed down , um , the switch is ter is uh is switched on ,
+to --> A,D,B
+dialogue type : Inform
+C : so with uh the wire is sent to the to the chip in uh co-operation with the battery of course ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh I wrote down some personal preferences about uh the remote control .
+to --> A,D,B
+dialogue type : Assess
+C : Of course it is very handy if the remote control is hand held ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : Uh I personally uh pref prefer that uh it would be p uh come available in the various colours , and uh easy to use buttons .
+
+to --> A,D,B
+dialogue type : Suggest
+C : Perhaps soft touch , uh touch screen uh buttons
+to --> A,D,B
+dialogue type : Inform
+C : because uh the rubber buttons are always uh uh they uh slightly uh they can be slightly damaged ,
+to --> A,D,B
+dialogue type : Inform
+C : uh so the numbers on the buttons are not possible uh to read anymore .
+to --> A,D,B
+dialogue type : Suggest
+C : And uh well as I said uh before th uh we can uh make several designs .
+
+to --> A,D,C
+dialogue type : Inform
+B : and I looked at uh technical functions design of the remote .
+to --> A,D,C
+dialogue type : Inform
+B : Uh I did this by uh looking at examples of other remote controls , of how they uh they look , and information from the web that I found .
+to --> A,D,C
+dialogue type : Inform
+B : Um well what I found was that uh th the actual use of the remote control is to send messages to television set ,
+
+to --> A,D,C
+dialogue type : Inform
+B : adjust volume , that kind of thing .
+
+to --> A,D,C
+dialogue type : Inform
+B : There are some uh examples of remote controls .
+to --> A,D,C
+dialogue type : Inform
+B : You can see they are very different .
+to --> A,D,C
+dialogue type : Inform
+B : The one has got all the functions that you could possibly need and an lot of uh buttons etcetera .
+to --> A,D,C
+dialogue type : Inform
+B : And the other is uh more user friendly , little with big buttons .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Um I guess you could better y you should look at a a user centred uh approach ,
+
+to --> A,D,C
+dialogue type : Inform
+B : A lot of buttons they may think from I don't need s as much as that .
+
+to --> A,D,C
+dialogue type : Suggest
+B : personal preferences is is uh a simple remote , with uh the basic functions that you can need that you could use .
+
+to --> A,D,C
+dialogue type : Suggest
+B : And then uh make it I would make so that you can could uh use it on more than one appliance .
+to --> A,D,C
+dialogue type : Inform
+B : If you have one that uh uh does with the vi the the video , it could also work with uh with the stereo ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : you could reuse the buttons
+
+to --> A,D,C
+dialogue type : Suggest
+B : And it should be a user friendly , clear buttons , and not too much .
+
+to --> A,C,B,D
+dialogue type : Inform
+D : We're going to j discuss the functional requirements of the remote ,
+
+to --> A,C,B
+dialogue type : Inform
+D : that means that functions user n want to have on the remote control ,
+
+to --> A,C,B
+dialogue type : Inform
+D : The methods I I prefer is we're going to look which section of the users we are going to focus a l on more .
+
+to --> A,C,B
+dialogue type : Inform
+D : Younger people , from sixteen to thir forty five um years are more interested in fj features like L_C_D_ screens , speech recognition e etcetera .
+to --> A,C,B
+dialogue type : Inform
+D : And we possess about two third of the market from in that range of age .
+to --> A,C,B
+dialogue type : Inform
+D : The elderly people , from forty five years to sixty five years are not that much interested in features ,
+to --> A,C,B
+dialogue type : Inform
+D : and we possess less than two third , that's two fifth , of the market share in that area .
+
+to --> A,C,B
+dialogue type : Inform
+D : Fifty percent of the users lose their remote often .
+to --> A,C,B
+dialogue type : Suggest
+D : So we don't have to make it very small , like uh like a mobile phone or something ,
+
+to --> A,C,B
+dialogue type : Inform
+D : Seventy five percent of the users also find it ugly ,
+to --> A,C,B
+dialogue type : Inform
+D : and fif seventy five of the users zap a lot ,
+to --> A,C,B
+dialogue type : Suggest
+D : so the buttons sh should be that small ,
+to --> A,C,B
+dialogue type : Suggest
+D : or shouldn't be that complex
+
+to --> A,C,B
+dialogue type : Suggest
+D : Remote control has to have to have a low power usage ,
+to --> A,C,B
+dialogue type : Inform
+D : because s w seventy five percent of the users only zap one time an hour ,
+
+to --> A,C,B
+dialogue type : Inform
+D : The volume button and the channel buttons are the two most important buttons on the remote control ,
+to --> A,C,B
+dialogue type : Suggest
+D : so those they those have to h be find very easily .
+
+to --> A,C,B
+dialogue type : Suggest
+D : Buttons . Like what all colleagues said , have to have to be minimalized .
+
+to --> A,C,B
+dialogue type : Suggest
+D : or in L_C_D_ screen .
+
+to --> A,C,B
+dialogue type : Inform
+D : because we have the L_C_D_ screen , we have the various options .
+
+to --> A,C,B
+dialogue type : Assess
+D : but an L_C_D_ screen , the problem with the L_ sc L_C_D_ screen is that elderly people fr from forty five to for sixty five years don't use the L_C_D_ screen a lot .
+to --> A,C,B
+dialogue type : Suggest
+D : So we have to that keep that in mind that if you're going to implement L_C_D_ screen , you don't have to make it that hard to learn or to use .
+
+to --> A,C,B
+dialogue type : Inform
+D : The last but not least , younger people are more critical about the features .
+
+to --> A,C,B
+dialogue type : Inform
+D : And the older people spend more money , and easily on a remote control .
+
+to --> A,C,B
+dialogue type : Inform
+D : Because they use the remote control often more often ,
+to --> A,C,B
+dialogue type : Inform
+D : and are more technical than the ol older people .
+
+to --> A,C,B
+dialogue type : Suggest
+D : So we have to keep in mind to to focus not a lot not that much on the younger pep younger people ,
+to --> A,C,B
+dialogue type : Suggest
+D : but also somewhat on the elderly people .
+
+to --> A,C,B
+dialogue type : Assess
+D : but like I said , L_C_D_ screen is easily to use
+
+to --> A,C,B
+dialogue type : Suggest
+D : And it should be easy to use . Especially the volume buttons , the channel buttes buttons and the number buttons to zap through the channels .
+
+to --> D,C,B,A
+dialogue type : Elicit-Inform
+A : I dunno uh did everyone receive an email with uh the new project requirements ?
+
+to --> D,C,B,A
+dialogue type : Assess
+A : then I think it's a good thing that I made a separate slide of them
+
+to --> D,C,B
+dialogue type : Inform
+A : Um teletext does has become outdated since the popularity of the internet .
+to --> D,C,B
+dialogue type : Inform
+A : So that's uh the first thing we I think we should pay less attention to uh teletext .
+to --> D,C,B
+dialogue type : Inform
+A : Uh the remote control should only be used for the television ,
+to --> D,C,B,A
+dialogue type : Assess
+A : otherwise the project becomes more complex ,
+
+to --> D,C,B
+dialogue type : Inform
+A : Um our current customers are within the age group of forty plus ,
+to --> D,C,B
+dialogue type : Inform
+A : and new product should reach a new market with customers that are younger than forty ,
+
+to --> D,C,B
+dialogue type : Inform
+A : And uh a last point , but also very important , our corporate image should stay recognisable in our products ,
+to --> D,C,B
+dialogue type : Inform
+A : which means that our uh corporate colour and slogan must be implemented in the new design .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : according to our agenda it's then time to take a decision on the remote control functions .
+
+to --> A
+dialogue type : Comment-About-Understanding
+B : you said it should only uh work with one appliance ?
+
+to --> B
+dialogue type : Inform
+A : Yeah . Only be used for television .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Then it should have uh on , off ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Standby options ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : the basics then by a volume , channel , one till two zero numbers on it ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : A button where you can uh change from one number to two numbers .
+
+to --> A,C,B
+dialogue type : Inform
+D : because some T_V_s , if you press the t one and then the two , it be between five secs it make twelve ,
+
+to --> B
+dialogue type : Assess
+D : I think it's easy to implement a button with a s s what which especially do that ,
+
+to --> A,C,B
+dialogue type : Assess
+D : and that's that's not relaxed
+
+to --> A,D,B
+dialogue type : Inform
+C : But uh all the television makes uh use of those button where you first press that button and then press two digits to uh to get
+
+to --> D
+dialogue type : Inform
+A : new product should reach a market with customers that are younger than forty ,
+
+to --> A,C,B
+dialogue type : Inform
+D : Uh younger people have now , sixteen till to twenty five age , are f eighty one percent interested in L_C_D_ screen .
+
+to --> D
+dialogue type : Assess
+C : But I think that uh that collides with our mission to make it very cheap .
+
+to --> D
+dialogue type : Inform
+C : A touch screen uh probably uh even more .
+
+to --> D
+dialogue type : Suggest
+C : perhaps we should we should focus on that L_C_D_ screen .
+
+to --> C
+dialogue type : Inform
+D : you don't know how much it costs , the L_C_D_ screen .
+
+to --> C
+dialogue type : Inform
+D : I don't have any costs here ,
+
+to --> A,D,C
+dialogue type : Elicit-Inform
+B : But if you would do an L_C_D_ screen do we have don don't you have any buttons ?
+
+to --> B
+dialogue type : Inform
+C : for example um if you wanted the minimal uh use b uh buttons , such as channel and volume , you just h uh displays four buttons on the screen
+to --> B
+dialogue type : Inform
+C : and it's possible to p uh press them down , just like a touch screen .
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : we're going for an L_C_D_ screen ?
+
+to --> A
+dialogue type : Inform
+D : I think it's the most easier thing ,
+
+to --> A,D,C
+dialogue type : Inform
+B : but also on the older ,
+
+to --> A,D,C
+dialogue type : Inform
+B : But he also said that we should not only focus on the younger people ,
+
+to --> D
+dialogue type : Elicit-Inform
+B : and will they use it if it only has an L_C_D_ screen ?
+
+to --> B
+dialogue type : Inform
+D : But our our our what's it , project requirements are the new products should be reached for new markets , to customers that are younger than forty .
+
+to --> B
+dialogue type : Inform
+D : but market share fro for for forty years and younger is higher than that of sixty five and younger .
+
+to --> A,C,B
+dialogue type : Suggest
+D : if it costs gets too much , too expensive , then yeah , we should be sticking to rubber buttons .
+
+to --> D
+dialogue type : Inform
+C : I think that that they will send you some information about uh the cost of L_C_D_ uh screens .
+
+to --> D
+dialogue type : Suggest
+C : if you uh you receive an email about that , uh can you post it in the
+
+to --> D,C,B
+dialogue type : Inform
+A : But for now it's L_C_D_ . Okay .
+
+to --> A,C,B
+dialogue type : Assess
+D : it'll look fancy with L_C_D_ screen . Yeah .
+
+to --> D
+dialogue type : Inform
+B : They think it's ugly . When it has an L_C_D_ screen .
+
+to --> A,C,B
+dialogue type : Inform
+D : Only thing you have to do is wipe the screen off once each time , to get all the fingerprints off it .
+
+to --> D,C,B
+dialogue type : Elicit-Offer-Or-Suggestion
+A : what else does our remote need ?
+
+to --> A
+dialogue type : Suggest
+B : A mute button .
+
+to --> A,C,B
+dialogue type : Inform
+D : The most important things on a f on an on an uh remote control are channel selection , volume con selection ,
+to --> A,C,B
+dialogue type : Inform
+D : and power s power usage .
+to --> A,C,B
+dialogue type : Inform
+D : And a teletext , but that is not of the question .
+
+to --> D
+dialogue type : Elicit-Assessment
+B : But shouldn't you put a button of for teletext on the for the people who want to use it ?
+
+to --> D,C,B
+dialogue type : Suggest
+A : and we could make an a a separate menu on the L_C_D_ uh screen for teletext .
+
+to --> A,C,B
+dialogue type : Inform
+D : And other other less important things are screen settings , audio settings , and channel settings ,
+
+to --> D
+dialogue type : Assess
+B : they are less important ,
+to --> A,D,C
+dialogue type : Suggest
+B : but I think they should be there ,
+
+to --> D
+dialogue type : Suggest
+C : but in a sub sub-menu or something like that .
+to --> A,D,B
+dialogue type : Suggest
+C : Uh I think it's also important to uh make it possible to um how do you call it in English , uh , to not use batteries ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : Perhaps you should be able to to switch the control off .
+
+to --> A,C,B
+dialogue type : Inform
+D : power supply is one of the most important things .
+
+to --> A,D,C
+dialogue type : Inform
+B : If you have an L_C_D_ screen that's burns all the time I dunno .
+
+to --> A,C,B
+dialogue type : Inform
+D : because I don't think people will like it who who uh that you have to turn it on first and then use it ,
+to --> A,C,B
+dialogue type : Suggest
+D : so I think it's better when th the T_V_ shuts down , the remote shuts down .
+
+to --> A,D,B
+dialogue type : Suggest
+C : And go to standby mode when you don't use it ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : And maybe a low battery indicator ? On the screen .
+
+to --> A,C,B
+dialogue type : Inform
+D : of put it in a recharger . Charger .
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : So we are going for the for the recharger .
+
+to --> A,D,C
+dialogue type : Suggest
+B : I think the batteries should should w should work a lot longer than a couple of days ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : uh it should be uh a standard move to to put your remote control in the charger when you're done watching television ,
+to --> A,D,B
+dialogue type : Assess
+C : that's also a a a great advantage
+to --> A,D,B
+dialogue type : Inform
+C : because you can't lose it anymore .
+
+to --> A,D,C
+dialogue type : Suggest
+B : But then you also have to s have somewhere where you can put a remo recharger near your couch
+to --> A,D,C
+dialogue type : Inform
+B : because otherwise you have to walk a long way when you twoft want to turn on the T_V_ .
+
+to --> A,D,B
+dialogue type : Suggest
+C : just a cable , or a even a a a a a charger where you can mount it on . Something like that ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : Functional designs uh for the elderly uh you could make it possible to enlarge the screen ,
+to --> A,D,B
+dialogue type : Suggest
+C : so make it possible to not uh display uh a button at ten points
+
+to --> A,C,B
+dialogue type : Suggest
+D : I think that this should be standard . Large button large buttons .
+
+to --> D,A
+dialogue type : Elicit-Inform
+A : And you said something about speech recognition ?
+
+to --> A,C,B
+dialogue type : Inform
+D : also ninety one percent sixteen to twenty five , twenty six to thirty five years , seventy six percent , and thirty six to forty five , thirty five percent .
+
+to --> A,D,C
+dialogue type : Inform
+B : twelve fifty , twelve fifty .
+
+to --> D
+dialogue type : Be-Positive
+B : I know let's do a speech .
+
+to --> A,D,C
+dialogue type : Elicit-Inform
+B : But they want to talk into the remo remote control , or something ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : I think an L_C_D_ screen should be suf sufficient .
+
+to --> D
+dialogue type : Inform
+A : But when you look at the percentages
+
+to --> D,C,B
+dialogue type : Inform
+A : but uh nobody knows uh how much uh it will cost uh .
+
+to --> A,C,B
+dialogue type : Assess
+D : I think I think it's better to have L_ L_C_D_ screen ,
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : But would it be useful to imple implement both ?
+
+to --> A
+dialogue type : Assess
+D : Yeah , if the costs al allow it .
+
+to --> A,D,C
+dialogue type : Elicit-Offer-Or-Suggestion
+B : but how would you like to implement that ,
+to --> A,D,C
+dialogue type : Elicit-Assessment
+B : that you say volume up , and then it goes up ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Certain systems already exist , I think .
+
+to --> A,D,C
+dialogue type : Inform
+B : Then you also have to have different languages if we go international .
+
+to --> A,C,B
+dialogue type : Inform
+D : But that should also be with f should be also with L_C_D_ screen .
+
+to --> A,D,C
+dialogue type : Suggest
+B : you can use icons
+
+to --> A,D,B
+dialogue type : Assess
+C : it should be done . If it could be done , should be done .
+
+to --> D,C,B
+dialogue type : Comment-About-Understanding
+A : so we only do this when we have enough money left .
+
+to --> D,C,B
+dialogue type : Inform
+A : I've written down an an on or off button , volume selection , channel selection , uh the digits from one to zero , huh . Um or from zero to nine . Uh a digits button to switch uh between one and two digits , mute button , a separate menu for teletext , a battery indicator .
+
+to --> D,C,B
+dialogue type : Inform
+A : And uh the possibility to uh enlarge buttons or to have large buttons
+
+to --> A,D,C
+dialogue type : Inform
+B : You also now have colours .
+
+to --> B
+dialogue type : Comment-About-Understanding
+D : Curved ?
+
+to --> A,C,B
+dialogue type : Suggest
+D : we could also implement a audio settings , screen settings and channel settings , but as sub-menus .
+
+to --> D,C,B
+dialogue type : Inform
+A : so not too much teletext support , but in a separate menu ,
+
+to --> A,C,B,D
+dialogue type : Suggest
+D : We could check the other remote controls with technical functions .
+
+to --> D,C,B,A
+dialogue type : Elicit-Inform
+A : Aren't we forgetting something very important ?
+
+to --> B
+dialogue type : Inform
+D : wide screen , high screen , different things you have ,
+
+to --> B
+dialogue type : Suggest
+D : it should be available , but then in separate screen settings or something .
+
+to --> B
+dialogue type : Inform
+D : Channel settings .
+
+to --> A,C,B
+dialogue type : Suggest
+D : Or it could be possible to have a a standard version of the remote , an expanded version .
+
+to --> A,D,C
+dialogue type : Elicit-Assessment
+B : and the buttons , should they have colours ?
+
+to --> A,D,B
+dialogue type : Inform
+C : Colours I think the main colour of the remote control is uh the colour of the L_C_D_ screen .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Perhaps you can uh make adjustable fronts , like with the telephones .
+
+to --> B
+dialogue type : Comment-About-Understanding
+C : make it available in different colours , you mean ?
+
+to --> D,C,B,A
+dialogue type : Inform
+A : signal for las final five minutes .
+
+to --> D,C,B
+dialogue type : Inform
+A : we're having a a general menu with the most used functions , uh teletext , screen settings , audio settings , channel settings ,
+
+to --> D
+dialogue type : Elicit-Inform
+B : Or do we have any buttons ? On the remote .
+
+to --> B
+dialogue type : Inform
+D : you only have channel button or volume button .
+
+to --> D
+dialogue type : Elicit-Inform
+B : So we don't have any normal buttons
+
+to --> D
+dialogue type : Inform
+B : But that's also in the L_C_D_ ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : Maybe only the on and o on and off button .
+
+to --> D
+dialogue type : Elicit-Assessment
+B : But isn't idea to use uh uh what you said , uh normal on and off button for the T_V_ ,
+
+to --> D
+dialogue type : Suggest
+B : But a not as normal button , in the L_C_D_ ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : maybe there should be a separate button apart from the L_C_D_ ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : There has to be a on button on the remote ,
+
+to --> A
+dialogue type : Assess
+B :No
+to --> A
+dialogue type : Inform
+B : you just tap I think .
+
+to --> B
+dialogue type : Suggest
+C : because uh when you touch the L_C_D_ screen when it is in standby mode , it should pop on .
+
+to --> A,D,C
+dialogue type : Inform
+B : I guess if you use the L_C_D_ screen , you first have to search where is the on button ,
+
+to --> A,D,C
+dialogue type : Inform
+B : But if you have a normal on button on the on the remote , then you do the on ,
+
+to --> A,D,B
+dialogue type : Assess
+C : I think it looks a lot more fancy if you use uh if you don't have any buttons on the s on on remote control .
+
+to --> D,C,B
+dialogue type : Inform
+A : So actually we're going to create a a button-less uh remote . No buttons at all .
+
+to --> D
+dialogue type : Suggest
+A : that's might be a unique selling point , huh for a remote .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : postpone further discussion to uh our next meeting ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : for now , we're having a lunch break ,
+to --> D,C,B,A
+dialogue type : Inform
+A : and then there will be uh half an hour for the uh next share of individual work .
+to --> D,C,B,A
+dialogue type : Offer
+A : I will uh write uh minutes , if I can create them out of this .
+to --> D,C,B,A
+dialogue type : Offer
+A : And uh put them in the the project documents uh folder .
+to --> D,C,B,A
+dialogue type : Inform
+A : And here are the individual actions for the for the other roles .
+to --> D,C,B,A
+dialogue type : Inform
+A : And of course specific instructions will be sent to you again by your uh personal coach .
+

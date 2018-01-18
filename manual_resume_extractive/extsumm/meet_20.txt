@@ -1,0 +1,470 @@
+to --> 
+dialogue type : Inform
+A : So we should have our final meeting about the detail designed of detail design of the product of the remote control .
+
+to --> ,A
+dialogue type : Offer
+A : Uh uh just going to go quickly through the minutes of the last last uh meeting
+to --> ,A
+dialogue type : Inform
+A : then we have a p presentation of prototype of you two ,
+
+to --> ,A
+dialogue type : Inform
+A : And we'll have um presentation of evaluation crit criteria by ou our Marketing Experts .
+to --> ,A
+dialogue type : Inform
+A : Then we'll have to go through finance evaluation of the of the cost of the thing
+to --> 
+dialogue type : Assess
+A : and um hopefully uh we should fit the target o tw of twelve point five uh uh Euro .
+
+to --> 
+dialogue type : Inform
+A : No L_C_D_ , no speech recognition technology , okay ,
+to --> 
+dialogue type : Inform
+A : we went through a b to a banana look and feel for the remote control .
+
+to --> 
+dialogue type : Inform
+A : And also the use of a basis station for battery ch charging and uh also to um call the to call the mot mote remote control when it is lost .
+
+to --> 
+dialogue type : Inform
+C : So final design . Final design .
+
+to --> 
+dialogue type : Inform
+B : well first first of all we made a an attractive base station uh with a banana leaf uh look and feel um and uh
+to --> 
+dialogue type : Inform
+B : the banana sits in there k you know nicely weighted so that it's not gonna tip over
+
+to --> 
+dialogue type : Inform
+B : We've got the two uh uh scroll wheels here
+to --> 
+dialogue type : Inform
+B : which you know one on the the left for the uh volume and the one on the right for for the channel
+to --> 
+dialogue type : Inform
+B : and uh underneath we have the uh the turbo button
+
+to --> 
+dialogue type : Inform
+B : This is a teletext button .
+
+to --> 
+dialogue type : Elicit-Inform
+A : What's the use uh of the t turbo button already ?
+
+to --> 
+dialogue type : Inform
+B : This is when you when you uh are scrolling the uh through the channels you can tell it to to skip th past channels that you quickly rather th
+
+to --> 
+dialogue type : Inform
+B : Well when you stop scrolling the wheel it stops .
+
+to --> 
+dialogue type : Inform
+C : If you take the banana as such and uh you press the turbo button , so it switch ons the switch ons the T_V_ .
+
+to --> 
+dialogue type : Inform
+C : once you press the teletext button then the scroll buttons they are more for teletext , they are no more for channel or vol volume .
+
+to --> 
+dialogue type : Inform
+B : And this is the uh the infrared uh port .
+
+to --> 
+dialogue type : Inform
+B : in the uh in the base station we have the the button at the front for uh for calling the uh the banana .
+
+to --> 
+dialogue type : Elicit-Inform
+A : And the the leaves plays the roles of of antennas ?
+
+to --> 
+dialogue type : Inform
+C : And for the power source we are having solar cells and rechargeable batteries
+to --> 
+dialogue type : Inform
+C : and this and uh the basis station is going to have the input from the mm power line for for charging the batteries .
+
+to --> 
+dialogue type : Inform
+B : It's it's uh it's about the weight of a banana .
+
+to --> 
+dialogue type : Inform
+C : And we have put these different colours so that people don't mistake them mistake it as a banana .
+
+to --> 
+dialogue type : Assess
+B : I don't really know if the solar cells are actually necessary any more if you have a recharging base station .
+
+to --> 
+dialogue type : Inform
+A : Uh I mean how long does i how how how long can it be held off a station ?
+
+to --> 
+dialogue type : Inform
+C : No eight or eight or ten hours of working .
+
+to --> 
+dialogue type : Inform
+C : If you are just leaving like that it'll be much longer .
+
+to --> 
+dialogue type : Inform
+C : Pricing is was a factor so that's why we have gone for a regular chip only not the advanced chip .
+
+to --> 
+dialogue type : Elicit-Inform
+D : And what about people who want to use digits ?
+
+to --> 
+dialogue type : Inform
+C : Yeah . So there was there was a constraint that the surface area which we have on this banana on one side because of the shape .
+
+to --> ,A
+dialogue type : Inform
+A : So we have to go through now evaluations .
+
+to --> 
+dialogue type : Inform
+D : I constructed a a list of criteria based on the on the general user requirements .
+
+to --> 
+dialogue type : Inform
+D : so we must users must say i if it's true or is or if it's false in a in a scale ranging from zero to seven .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Why this strange factor of seven ?
+
+to --> 
+dialogue type : Inform
+D : Because it should be an even it should be an even uh scale ,
+
+to --> ,D
+dialogue type : Suggest
+D : I think I sh I I could write the criteria in the on the whiteboard ?
+
+to --> ,D
+dialogue type : Elicit-Assessment
+D : Okay let's let's evaluate if it's fancy or
+
+to --> 
+dialogue type : Assess
+C : Yeah , it's fancy , according to me .
+to --> 
+dialogue type : Assess
+C : Seven . Seven by me .
+
+to --> 
+dialogue type : Assess
+B : Yeah uh five .
+
+to --> 
+dialogue type : Assess
+B : but maybe loses the point for not having you know the extra buttons when you reall if you do need them for some reason
+
+to --> 
+dialogue type : Assess
+B : like I'd I think it's probably more handy than my current remote , 'cause of the scroll wheels
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Functional .
+
+to --> 
+dialogue type : Assess
+C : I'll give five .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Well it depends when you say functional , do you mean it does what we want it to do , or d does what it does , you know , can it make you coffee ?
+
+to --> 
+dialogue type : Inform
+D : Actually I don't know what are the r the real specification of a of a universal remote contro
+
+to --> 
+dialogue type : Inform
+B : Well it's not a universal remote .
+
+to --> 
+dialogue type : Assess
+B : Four .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Okay cool ? Cool device .
+
+to --> 
+dialogue type : Assess
+C : There I'll give it seven .
+
+to --> 
+dialogue type : Assess
+C : For a T_V_ the most important feature which I felt was the locator which is a cool feature .
+
+to --> 
+dialogue type : Assess
+D : I would say five .
+
+to --> 
+dialogue type : Inform
+A : I say I said seven .
+
+to --> 
+dialogue type : Assess
+A : Of course I'll buy the banana .
+
+to --> 
+dialogue type : Assess
+C : I'll say five .
+
+to --> 
+dialogue type : Assess
+D : I find it quite cheap actually .
+to --> 
+dialogue type : Assess
+D : I dunno . If i i it depends , if you live in in Switzerland or you live in
+
+to --> 
+dialogue type : Elicit-Inform
+D : Wha the initial specifications were for the whole all Europe or
+
+to --> 
+dialogue type : Assess
+B : I don't want a banana on my living room table , a banana remote .
+
+to --> 
+dialogue type : Inform
+C : Anyb anybody who comes here anybody who comes to your home he'll at least ask once what is this .
+
+to --> 
+dialogue type : Inform
+A : don't forget who we're targeting also
+
+to --> 
+dialogue type : Inform
+B : No , it's I . I would buy
+
+to --> 
+dialogue type : Assess
+B : I don't think I at any stage in my life I would want a banana remote control , really .
+
+to --> 
+dialogue type : Assess
+A : So you say two .
+
+to --> 
+dialogue type : Assess
+C : I say five .
+
+to --> 
+dialogue type : Assess
+B : If I had t if I had to spend twenty five Euro , if that was like my limit , maybe I would buy it .
+
+to --> 
+dialogue type : Assess
+A : I stick to five .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : will I change my rem change my remote control from Mando banana .
+
+to --> 
+dialogue type : Assess
+A : No uh let's say I'll put two .
+
+to --> 
+dialogue type : Assess
+B : If it was change my remote control of my D_V_D_ player for a Mando banana then I would be more inclined to
+
+to --> 
+dialogue type : Assess
+B : I'd say a three .
+
+to --> 
+dialogue type : Inform
+C : So it's somewhere three point five I think .
+
+to --> 
+dialogue type : Suggest
+A : So maybe maybe w we can we should stick to general feeling . We can had uh have a out of these numbers , which which is that well we should go for it .
+
+to --> 
+dialogue type : Inform
+A : Um well we are going to calculate the production costs .
+to --> 
+dialogue type : Inform
+A : We should we should be below twelve point five .
+
+to --> 
+dialogue type : Inform
+B : Well we decided against the solar cells so
+
+to --> 
+dialogue type : Assess
+C : I think rechargeable batteries will take care of the power thing .
+
+to --> 
+dialogue type : Inform
+A : No kinetic also .
+
+to --> 
+dialogue type : Inform
+C : So we have the regular chip on the print , which is one .
+
+to --> 
+dialogue type : Inform
+C : And we have sample speaker .
+
+to --> 
+dialogue type : Inform
+B : Well actually that that no that sample speaker is not we we're not using that ,
+to --> 
+dialogue type : Inform
+B : we're just using the the very beep simple beep ,
+
+to --> 
+dialogue type : Inform
+A : Oh there is no listing for r radio frequency thing .
+
+to --> 
+dialogue type : Suggest
+C : So we we'll put some extras , if there is something .
+
+to --> 
+dialogue type : Inform
+A : I put single curved .
+
+to --> 
+dialogue type : Assess
+C : To reduce the cost , it's okay .
+
+to --> 
+dialogue type : Inform
+A : So we stick to plastic , it cost nothing .
+
+to --> 
+dialogue type : Inform
+D : Too expensive .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Well no didn't we say we wanted to do a rubber
+
+to --> 
+dialogue type : Inform
+A : Okay so special colour , yellow .
+
+to --> 
+dialogue type : Inform
+C : We don't have any push buttons .
+
+to --> 
+dialogue type : Inform
+A : We have three .
+
+to --> 
+dialogue type : Inform
+A : We have two scroll , and we have three push buttons .
+
+to --> 
+dialogue type : Assess
+B : Okay it's gonna have to be plastic .
+
+to --> 
+dialogue type : Assess
+B : but you know the turbo button does add that extra class .
+
+to --> 
+dialogue type : Suggest
+B : So I mean if we're if we're over budget then maybe we could we could rethink that .
+
+to --> 
+dialogue type : Suggest
+B : Make it plastic instead of rubber .
+
+to --> 
+dialogue type : Inform
+B : Yeah well pl the base station is made out of m many units of plastic .
+
+to --> 
+dialogue type : Inform
+C : So might be ninety centimes for the the remaining things which the cord and everything which'll go
+
+to --> 
+dialogue type : Inform
+A : so we have margin for that stuff .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : So what do we do with the extra profits ?
+
+to --> 
+dialogue type : Suggest
+A : Um we'll invest in R_ and D_ .
+
+to --> ,A
+dialogue type : Suggest
+A : So we can go to through to project evaluation .
+
+to --> 
+dialogue type : Assess
+B : No we have a product which none of us would buy .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Okay so um project process .
+
+to --> 
+dialogue type : Inform
+A : Well in fact I I did not know I didn't know really what to say here .
+
+to --> 
+dialogue type : Inform
+A : Yeah well in fact uh we we use a little bit the white board and the digital pen , not that much .
+
+to --> 
+dialogue type : Assess
+B : I dunno I think we had a fair bit of creativity .
+to --> 
+dialogue type : Assess
+B : And uh but I think one thing we m missed out of this whole process was a um like a focus group with the actual people we're targeting .
+
+to --> 
+dialogue type : Suggest
+A : Yeah maybe we should go through , yeah an uh evaluation .
+
+to --> 
+dialogue type : Assess
+B : Because yeah the evaluation for us is is kind of
+to --> 
+dialogue type : Assess
+B : pointless .
+
+to --> 
+dialogue type : Suggest
+B : So but I think that's something we need to to work on next time is really finding out more about the target market .
+
+to --> 
+dialogue type : Suggest
+B : I think that's actually something that should be in version two , is the ability to you know to control things other than the T_V_
+
+to --> ,A
+dialogue type : Suggest
+A : I think we we can go
+
+to --> 
+dialogue type : Be-Positive
+A : Okay so thanks very much .
+

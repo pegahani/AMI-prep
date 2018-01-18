@@ -1,0 +1,527 @@
+to --> D,C,B,A
+dialogue type : Inform
+A : For uh this meeting the main agenda okay uh to discuss about the conceptual design meeting .
+to --> D,C,B,A
+dialogue type : Inform
+A : Okay and the agenda will be the opening
+
+to --> D,C,B,A
+dialogue type : Inform
+A : and uh the presentations from the Christine and uh Agnes and from Mister Ed .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : and we are to take a decision on the remote control concept and uh the functional design
+
+to --> A,D,B
+dialogue type : Inform
+C : we were looking he specifically at the components uh the following components ,
+to --> A,D,B
+dialogue type : Inform
+C : uh the case , the power supply , uh the means of communications with the television set .
+to --> A,D,B
+dialogue type : Inform
+C : In instance we had talked about using some sort of speech recognition ,
+to --> A,D,B
+dialogue type : Inform
+C : you have to have microphone
+to --> A,D,B
+dialogue type : Inform
+C : well no you don't actually I haven't have to have microphone in the device ,
+
+to --> A,D,B
+dialogue type : Inform
+C : it has to it has to hear the speaker
+
+to --> A,D,B
+dialogue type : Inform
+C : so it could be in the television set , could be in the device ,
+
+to --> A,D,B
+dialogue type : Inform
+C : and a w a way of making beeps or sounds so you can find it when it's gets lost .
+
+to --> A,D,B
+dialogue type : Inform
+C : Our method for going about this is we've looked at uh the histo hi historical record , what's worked , what hasn't
+to --> A,D,B
+dialogue type : Inform
+C : and then we also um we wanted to evaluate some new materials
+to --> A,D,B
+dialogue type : Inform
+C : and we contacted manufacturing for their input
+to --> A,D,B
+dialogue type : Elicit-Inform
+C : because , course , we m might come up and choose the material that then manufacturing didn't have the technologies or capabilities to offer us ,
+
+to --> A,D,B
+dialogue type : Inform
+C : So um for the case , um we told we were making a specifica specific assumption that it would be curved in design .
+to --> A,D,B
+dialogue type : Inform
+C : Course , you know , I wanted it to be expandable and shrinkable ,
+to --> A,D,B
+dialogue type : Inform
+C : but um that uh doesn't seem to b be one of the choic non-option we can uh we can really seriously explore ,
+
+to --> A,D,B
+dialogue type : Inform
+C : so then we were thinking about um rubber ,
+to --> A,D,B
+dialogue type : Inform
+C : but um unfortunately that's been eliminated because of the heat uh factor
+to --> A,D,B
+dialogue type : Inform
+C : and th um there might be some problems with the m uh how it's uh goes with the board .
+to --> A,D,B
+dialogue type : Inform
+C : Uh and uh then th plastic also has this problem of melting and it's brittle it gets brittle after a while ,
+to --> A,D,B
+dialogue type : Inform
+C : so um we still had titanium and and wood available ,
+to --> A,D,B
+dialogue type : Inform
+C : but um unfortunately uh uh titanium's also been eliminated uh ,
+to --> A,D,B
+dialogue type : Inform
+C : the m people in manufacturing said that you couldn't make d curved cases out of titanium ,
+
+to --> A,D,B
+dialogue type : Inform
+C : nevertheless um they've eliminated all of our options except wood .
+
+to --> A,D,B
+dialogue type : Inform
+C : So then there's this other matter of the chips and um well we could use a simple design on the board ,
+to --> A,D,B
+dialogue type : Inform
+C : uh these simple chips , but that's only works for the bu you don't get very much um intelligence with this simple one .
+to --> A,D,B
+dialogue type : Inform
+C : And um then there was the regular which
+to --> A,D,B
+dialogue type : Inform
+C : I regret that I've forgotten exactly why I'm eliminating that one .
+to --> A,D,B
+dialogue type : Inform
+C : Uh the other option was this advanced chip on print ,
+
+to --> A,D,B
+dialogue type : Inform
+C : we found that it it includes this infrared sender ,
+to --> A,D,B
+dialogue type : Inform
+C : which w 'member the beam was that was an important component of finding the right chip .
+to --> A,D,B
+dialogue type : Inform
+C : And uh manufacturing has told us that they've um uh recently developed a uh a sensor and a speaker that would uh be integrated into this advanced chip on print ,
+
+to --> A,D,B
+dialogue type : Inform
+C : now jumping right to our personal preferences
+to --> A,D,B
+dialogue type : Inform
+C : um I I'd really think we should , you know , use some of uh some really exotic woods , like um ,
+to --> A,D,B
+dialogue type : Suggest
+C : you know uh , well you guys come from tropical countries so you can kinda think of some trees and some nice woods .
+to --> A,D,B
+dialogue type : Inform
+C : I think that people will might really want to design their own cases ,
+
+to --> A,D,B
+dialogue type : Inform
+C : and then they could submit their orders , kinda like you submit a custom car order , you know ,
+
+to --> A,D,B
+dialogue type : Inform
+C : and then I uh think we should go with the solar cells as well as the um microphone and speaker on the advanced chip .
+
+to --> 
+dialogue type : Inform
+C : and my recommendations um for the new remote control w um would be to have um have it be made out of wood .
+
+to --> C
+dialogue type : Elicit-Inform
+A : question , uh , what's mean exactly , advanced chip on print ?
+
+to --> A
+dialogue type : Inform
+C : I think it's um um a multiple uh chip design um
+to --> A
+dialogue type : Inform
+C : and it's uh maybe printed on to the circuit board .
+
+to --> A
+dialogue type : Offer
+C : but I'll find out more at our next meeting .
+
+to --> C
+dialogue type : Elicit-Inform
+B : Why was the plastic eliminated as a possible material ?
+
+to --> B
+dialogue type : Inform
+C : Because um it gets brittle , cracks
+
+to --> A,D,B
+dialogue type : Inform
+C : we expect these um uh these remote controls to be around for several hundred years .
+
+to --> C
+dialogue type : Inform
+B : I think with wood though you'd run into the same types of problems ,
+
+to --> C
+dialogue type : Inform
+B : I mean it chips , it if you drop it ,
+
+to --> B
+dialogue type : Assess
+A : So so you're not convinced about the the wood , yes .
+
+to --> C
+dialogue type : Assess
+B : I think if you re if you use really good quality wood , then it might work ,
+
+to --> B
+dialogue type : Inform
+D : the o the only w the only wood you can use are the ones that are hard , extremely hard wood ,
+
+to --> C
+dialogue type : Assess
+D : Well , it's actually a very innovative n different idea that uh you know you can choose your colour of wood , your type of wood .
+
+to --> A,D,C
+dialogue type : Suggest
+B : One thing we'd have to check though is what the users whether how quickly the novelty wears off of having uh
+
+to --> B
+dialogue type : Inform
+C : you wouldn't wanna have to have splinters in your hand while you're using your
+
+to --> A,D,C
+dialogue type : Suggest
+B : have to see how kid-friendly it is and and all that ,
+
+to --> A,D,C
+dialogue type : Inform
+B : So , it's a very short presentation ,
+to --> A,D,C
+dialogue type : Inform
+B : 'cause I'm actually gonna draw you the layout on the board
+
+to --> A,D,C
+dialogue type : Inform
+B : I took the ideas that we were talking about last time um and tried to put that into the remote control so the things that y you can actually see on it are the on off switch , volume and channel control , the menu access button , ergonomic shape ,
+to --> A,D,C
+dialogue type : Assess
+B : which I completely agree with Christine's idea to have it sort of molded , so it's slightly more ergonomic and comfortable to hold than the r standard very straight remote controls .
+to --> A,D,C
+dialogue type : Inform
+B : And actually the other thing with the wood if we take your customising idea , is that people can actually do sort of quasi-measurements on their hand size ,
+to --> A,D,C
+dialogue type : Inform
+B : so if someone has larger hands , you have a wider remote control .
+to --> A,D,C
+dialogue type : Assess
+B : So , that's actually a really good idea for customi customisability .
+to --> A,D,C
+dialogue type : Suggest
+B : Um , one thing I thought might be kind of interesting is to put a flip screen on it , just like you have on flip phones ,
+to --> A,D,C
+dialogue type : Inform
+B : so that you don't have this case where someone sits on the remote control or accidentally puts their hand on it ,
+to --> A,D,C
+dialogue type : Inform
+B : especially if you have little kids around , they're not pressing the buttons while you're trying to watch a T_V_ show and accidentally change the channel or turn it off .
+to --> C
+dialogue type : Inform
+B : And also um you had issues with the batteries running out ,
+to --> A,D,C
+dialogue type : Suggest
+B : so I thought maybe we could put a little battery life-light on it that kind of goes dimmer and dimmer and dimmer as your battery is starts to die .
+to --> A,D,C
+dialogue type : Suggest
+B : And in terms of invisible features , audio and um tactile feedback on button presses and , like you said , speech recognition .
+
+to --> A,D,C
+dialogue type : Inform
+B : You'd have something like this with an on-off switch fairly big ,
+to --> A,D,C
+dialogue type : Inform
+B : sort of in the corner and by itself , so you don't accidentally turn your T_V_ off while you're trying to manoeuvre other buttons .
+to --> A,D,C
+dialogue type : Inform
+B : And then you have sort of one of those toggle displays for , oops , channels and volume , sort of for surfing channels and then volume ,
+to --> A,D,C
+dialogue type : Inform
+B : so the volume would be the up and down , 'cause volume goes up and down and then channels left to right .
+to --> A,D,C
+dialogue type : Inform
+B : And then here you'd have your sort of standard , telephonish number pad .
+
+to --> A,D,C
+dialogue type : Inform
+B : and on the other side a way to turn off the voice control .
+
+to --> A,D,C
+dialogue type : Inform
+B : Um , so again you can have a little L_C_D_ light somewhere , the flip thing and
+
+to --> A,D,C
+dialogue type : Inform
+B : So , as you can see , it's a very very simple design ,
+to --> A,D,C
+dialogue type : Inform
+B : which is one of the things I really wanted to keep , is keep it simple , not have too many buttons , not have too many functionalities thrown into it .
+
+to --> A,D,C
+dialogue type : Elicit-Offer-Or-Suggestion
+B : although with the wood the flip screen might have to do something slightly different .
+
+to --> D,B
+dialogue type : Suggest
+C : Be like a copper hinge or you know .
+
+to --> A,D,C
+dialogue type : Inform
+B : But you also have to d start watching out for the weight ,
+to --> A,D,C
+dialogue type : Inform
+B : 'cause depending on how much the the flip screen will add to the weight of the remote control , you don't want it to start getting too heavy .
+
+to --> A,D,C
+dialogue type : Inform
+B : As you can see , there's still lots of space on the actual remote control
+to --> A,D,C
+dialogue type : Inform
+B : and if you do it customisably , you can make this thing fairly small or fairly o large , depending on personal preferences .
+
+to --> A,D,C
+dialogue type : Inform
+B : Um the centering of the key pad and the channel is just depending on where your thumb is
+to --> A,D,C
+dialogue type : Inform
+B : and you tend to use the the volume control and uh the browsing more than the actual number pad ,
+to --> A,D,C
+dialogue type : Inform
+B : so that would be sort of in direct line of where your thumb goes when you are holding the remote control ,
+to --> A,D,C
+dialogue type : Inform
+B : the number pad a little bit lower 'cause it's used less frequently .
+to --> A,D,C
+dialogue type : Inform
+B : So once we decide exactly what we want , then we can figure out the exact positioning ,
+
+to --> A,C,B
+dialogue type : Inform
+D : I also have a f very simple presentation ,
+to --> A,C,B
+dialogue type : Inform
+D : because for the marketing point you have to see what the consumers want .
+to --> A,C,B
+dialogue type : Inform
+D : I also have uh copied a different type of remote .
+
+to --> A,C,B
+dialogue type : Inform
+D : We've been giving simple questionnaires in different areas
+to --> A,C,B
+dialogue type : Inform
+D : because th obviously we have to see what the com consumers are looking for today ,
+to --> A,C,B
+dialogue type : Inform
+D : 'cause uh trends change very very quickly .
+
+to --> A,C,B
+dialogue type : Inform
+D : Looking for next generation of innovation ,
+
+to --> A,C,B
+dialogue type : Inform
+D : fancy and feel-good , that's what we've been looking for ,
+to --> A,C,B
+dialogue type : Inform
+D : something that feels good in the hand , that's easy to use .
+
+to --> A,C,B
+dialogue type : Inform
+D : Easy to use , has always has become has become another major interest that uh ,
+
+to --> A,C,B
+dialogue type : Inform
+D : And I think this is another thing that's interesting is the consumers actually willing to pay the price for exciting tel technology .
+
+to --> A,C,B
+dialogue type : Inform
+D : The second two , you can see the last one is a very easy simple design .
+to --> A,C,B
+dialogue type : Inform
+D : The second one , there is about uh forty-five thousand different buttons on it , which makes it fairly hard to read , uh very hard to use .
+to --> A,C,B
+dialogue type : Inform
+D : The first one , I see that they put in a display .
+to --> A,C,B
+dialogue type : Inform
+D : Now there's something else uh with the little flip-up , now we're adding all kinds of things in ,
+to --> A,C,B
+dialogue type : Suggest
+D : but with the little flip-up , if you have a little display on the flip-up that when you close it everything is locked .
+to --> 
+dialogue type : Inform
+D : Maybe the display also makes it easier to use ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : So maybe if we can incorporate the easiness of use , trendy , fancy , feels good , uh with a display , wood , designer wood , designer colours
+
+to --> A,D,B
+dialogue type : Suggest
+C : Context-sensitive instructions , depending on what the tel what mode the T_V_ or the D_V_D_ or something else is in .
+
+to --> A,D,C
+dialogue type : Inform
+B : Especially you might need something like that for training the speech recognition and
+
+to --> A,D,B
+dialogue type : Suggest
+C : You know , maybe what you could do is when somebody orders the device id you could send them like um a uh uh b some sort of a foam rubber um ball ,
+to --> A,D,B
+dialogue type : Suggest
+C : and then they would squeeze it , and it would take the shape of their hand .
+
+to --> C
+dialogue type : Assess
+B : But th for that you'd also have to do sort of an average across families and things like that if unless everyone has their own personal remote .
+
+to --> A,D,C
+dialogue type : Assess
+B : Well , already the customisability is a really good sort of new gimmick .
+
+to --> A,C,B
+dialogue type : Inform
+D : it was uh Nokia that came out with this changeable colours .
+to --> A,C,B
+dialogue type : Inform
+D : Right , you take it apart , and put on another face , take it off and put on another face
+to --> A,C,B
+dialogue type : Inform
+D : and then they sold millions , millions .
+
+to --> A,D,B
+dialogue type : Suggest
+C : We'd also have to wor um consider that uh who we were gonna get to make these custom cases in terms of manufacturing processes ,
+to --> A,D,B
+dialogue type : Suggest
+C : we might wanna um learn about um labour laws .
+to --> A,D,B
+dialogue type : Inform
+C : You know in different countries and stuff wher so we can do it cheap ,
+to --> A,D,B
+dialogue type : Inform
+C : but you don't wanna exploit uh labour in um third world countries .
+to --> A,D,B
+dialogue type : Suggest
+C : So actually you could turn it y turn around and say that you're uh par the reason the cost is high for the device is because um you're paying a a working wage to the person who made the device .
+
+to --> C
+dialogue type : Inform
+A : Yeah , but we can get a production in , uh , countries like , uh , India
+
+to --> A,C,B
+dialogue type : Inform
+D : We're here to design , come up with a nice product .
+
+to --> D,C,B
+dialogue type : Inform
+A : but uh that that we can that we can talk about the production later , okay , depends on the the quantity , okay .
+to --> D,C,B
+dialogue type : Inform
+A : So we don't need to have our own uh fabric factory or something ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : but uh le let's decide first about the components concept and uh interface concept , okay ,
+
+to --> B
+dialogue type : Elicit-Inform
+A : And your design whether you want with the display or without display or just a simple , so
+
+to --> A,D,C
+dialogue type : Assess
+B : I mean I think it's a good idea ,
+to --> A,D,C
+dialogue type : Inform
+B : but we need to really think about how useful it's gonna be
+
+to --> A,D,C
+dialogue type : Suggest
+B : So , if we're trying to keep costs down , then maybe sacrificing the display is a way to go .
+
+to --> A,D,C
+dialogue type : Inform
+B : because theoretically with the T_V_ you already have a big display right in front of you .
+
+to --> A,D,C
+dialogue type : Inform
+B : I mean it depends on how much putting a display costs and what it would be used for
+
+to --> D
+dialogue type : Elicit-Inform
+C : do you know how much it costs , um , to to add a little display like this uh ?
+
+to --> D
+dialogue type : Suggest
+C : Do you wanna take an action item to go find out ?
+
+to --> A,C,B
+dialogue type : Inform
+D : Once we get a price on it then we can market it .
+
+to --> A,D,B
+dialogue type : Inform
+C : So the the advanced chip on print is what um what we've we've deci we've determined
+to --> A,D,B
+dialogue type : Inform
+C : and the uh engineering industrial design is the recommendation ,
+to --> A,D,B
+dialogue type : Inform
+C : and um I think we've kinda come to some agreement regarding um this concept of a wooden case .
+to --> 
+dialogue type : Fragment
+C : A customisable and
+
+to --> C
+dialogue type : Elicit-Inform
+B : What about the buttons , would Would the buttons be wood too , or
+
+to --> A
+dialogue type : Inform
+C : I think they could be rubber like they are now ,
+
+to --> D,C,B
+dialogue type : Inform
+A : what we'll do is , uh , we will stick with the the simple design for time being
+to --> D,C,B
+dialogue type : Inform
+A : until uh th Ed find outs about the how much it's cost to the extra , in case we go for the display .
+
+to --> C,B
+dialogue type : Suggest
+A : maybe what you can do is uh , both of you , you can come up with the the prototype , okay , the model .
+
+to --> D
+dialogue type : Inform
+A : Then meantime you can come up with the price , how much it's cost as extra for uh the display .
+to --> D
+dialogue type : Inform
+A : An and the marketing strategy , that's very important , okay .
+
+to --> C,B,A
+dialogue type : Inform
+A : So , by next meeting , so , please come up with the the prototype , okay ,
+to --> C,B
+dialogue type : Inform
+A : then uh , then we can proceed from there .
+

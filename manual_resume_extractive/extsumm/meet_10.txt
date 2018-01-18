@@ -1,0 +1,910 @@
+to --> 
+dialogue type : Inform
+A : we are here to talk about functional design .
+to --> 
+dialogue type : Inform
+A : Now hopefully we've all got a better idea from than we did f leaving the last meeting as to what it is we are up to now .
+to --> 
+dialogue type : Offer
+A : So here's an agenda .
+
+to --> 
+dialogue type : Offer
+A : Um you should know that I'll be taking minutes during all the meetings ,
+
+to --> 
+dialogue type : Inform
+A : and that'll be easier for me now because I'm not actually giving the whole presentation .
+to --> 
+dialogue type : Inform
+A : Uh the additional points are just the stuff that we sent and that I forwarded on from upper management having a few bright ideas to make our lives painful .
+to --> ,A
+dialogue type : Inform
+A : Um now you can all give your presentations .
+to --> ,A
+dialogue type : Inform
+A : We can talk about the requirements
+to --> ,A
+dialogue type : Inform
+A : and hopefully come to some decisions .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Uh did you all receive that email ?
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : So does anyone have any overall
+
+to --> 
+dialogue type : Inform
+D : Well uh what comes up for me is that if we're gonna if we're gonna be marketing a product that is going to be uh having no teletext , people are very comfortable with the idea of having teletext and using teletext , and so we're not we're gonna be a new product without something that people are very comfortable having right now .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : What are we gonna have that makes this thing better than
+
+to --> 
+dialogue type : Inform
+A : Well tha that first point could uh also be an op opportunity
+to --> 
+dialogue type : Inform
+A : because in seeing that teletext is becoming outdated , some sort remote control that can work with the Internet there is the opportunity that's presented , I guess .
+
+to --> 
+dialogue type : Assess
+D : Right . Yeah . No , I I agree with you .
+to --> 
+dialogue type : Inform
+D : So what I'm talking about is I see that one side we're eliminating something so we have to come up with another side
+to --> 
+dialogue type : Inform
+D : which is , what are we gonna be targeting our market uh that identifies our product as better than because it doesn't have teletext it has ta-ta-ta-ta-ta .
+
+to --> 
+dialogue type : Inform
+A : but but we are sort of being dictated that this should only be for the television .
+to --> 
+dialogue type : Inform
+A : So we're quite fixed .
+to --> 
+dialogue type : Inform
+A : So we're really probably , in terms of marketing , are looking for that's uh that's a cost winner rather than a fantastic new feature product .
+
+to --> 
+dialogue type : Inform
+C : So uh we're gonna be removing the teletext out of any T_V_ that we people use our remote with .
+to --> 
+dialogue type : Assess
+C : So it's kind of a stupid decision .
+
+to --> 
+dialogue type : Inform
+A : we really have to innovate here I guess .
+
+to --> 
+dialogue type : Inform
+D : 'Cause we're talking about eighty percent or ninety percent or ninety-five percent of the televisions out there are are teletext .
+
+to --> 
+dialogue type : Inform
+D : 'cause somebody , some people are gonna be hap unhappy
+to --> 
+dialogue type : Inform
+D : 'cause it took they can't ac access their teletext .
+
+to --> 
+dialogue type : Inform
+D : It's just when we eliminate that then what do we bring ?
+
+to --> 
+dialogue type : Assess
+A : I think that the last point is probably quite uh straightforward .
+to --> 
+dialogue type : Inform
+A : Obviously the the w it has to be branded .
+
+to --> 
+dialogue type : Elicit-Inform
+C : So then the double R_ will be our our
+
+to --> 
+dialogue type : Elicit-Inform
+A : Can you handle that black and yellow ?
+
+to --> 
+dialogue type : Inform
+B : I think w , yeah , one of the things that we should also keep in mind um when we're doing this I mean our company's slogan is we put the fashion in electronics , right .
+to --> 
+dialogue type : Inform
+B : So I think our kind of our target here is to have some kind of very like sleek nice look remote
+
+to --> 
+dialogue type : Inform
+B : but I think one of the main selling points is that we don't want it to be clunky like like this thing here .
+
+to --> 
+dialogue type : Inform
+B : We want something that looks nice and it's fashionable and so
+
+to --> 
+dialogue type : Inform
+A : So we have three presentations ,
+to --> ,A
+dialogue type : Suggest
+A : and I think we'll go in order of participant number here .
+to --> ,A
+dialogue type : Suggest
+A : So we can have a look at the working design first from participant two .
+
+to --> 
+dialogue type : Inform
+B : I'm the Industrial Designer .
+to --> 
+dialogue type : Inform
+B : And we've some basic components that um our remote is gonna need ,
+to --> 
+dialogue type : Inform
+B : just basically every remote'll need 'em .
+to --> 
+dialogue type : Inform
+B : We need some kinda of power d power source .
+to --> 
+dialogue type : Inform
+B : Um we have to decide on our our user interface , which is his department ,
+to --> 
+dialogue type : Inform
+B : but the in user interface is also a major component .
+to --> 
+dialogue type : Inform
+B : Um we need a programmable digital signal processor to um to take the input from the user and translate that into uh into electronic signal , which we pass to the infra-red L_E_D_ , which you aim at the television uh which and it receives that signal .
+to --> 
+dialogue type : Inform
+B : You need a on-off switch
+
+to --> 
+dialogue type : Inform
+B : And uh we also need to um have the if we want a universal remote we need to have encryption codes for the different makes of T_V_s .
+to --> 
+dialogue type : Inform
+B : So we need to know all the different you know all the different signals
+to --> 
+dialogue type : Inform
+B : and so that'll require some memory as well .
+to --> 
+dialogue type : Inform
+B : Um so here's just a basic layout of how how the remote would work .
+to --> 
+dialogue type : Inform
+B : You ha the v the power source is in the upper right-hand corner there ,
+to --> 
+dialogue type : Inform
+B : and you can see that uh we have the user interface here which is connected to the chip which does all our signal processing ,
+to --> 
+dialogue type : Inform
+B : and then passes that signal on to the infra-red L_E_D_
+to --> 
+dialogue type : Inform
+B : and that signal is then emitted and received by the television at the photo-transistor .
+
+to --> 
+dialogue type : Inform
+D : We're talking about existing technology .
+
+to --> 
+dialogue type : Inform
+B : this is just this is just a basic layout of ev of all the components that w w are gonna be absolutely necessary f to have a working remote .
+to --> 
+dialogue type : Suggest
+B : We can add things in like if we wanted some voice recognition ,
+to --> 
+dialogue type : Inform
+B : I mean that I mean that you can kinda say would would fall under the user interface and the digital signal processing chip .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Do we have an idea of costs of different components ?
+
+to --> 
+dialogue type : Inform
+B : Um well the most the most costly components are gonna be the chip
+
+to --> 
+dialogue type : Inform
+B : basically the user interface and the casing are gonna be expensive as well .
+to --> 
+dialogue type : Inform
+B : Um the L_E_D_ and the the transistors and everything else are you know they're they're pretty cheap .
+to --> 
+dialogue type : Inform
+B : So depending on what we want our functionality to be , um the chip could be expensive or it could be cheap .
+to --> 
+dialogue type : Inform
+B : Um depending on the n amount of memory we need in there and stuff like that and h and h you know how much power .
+
+to --> 
+dialogue type : Inform
+B : We uh we have to wait until we get to a more specific design phase for that .
+to --> 
+dialogue type : Inform
+B : Um but and I think a significant part of the cost could be the actual the actual casing itself and and you know the the b the buttons and things like that , I think .
+
+to --> 
+dialogue type : Inform
+B : That's all I have really .
+
+to --> 
+dialogue type : Inform
+C : So yeah function design .
+
+to --> 
+dialogue type : Inform
+C : what I found is we want to do fashion
+to --> 
+dialogue type : Suggest
+C : and I think , honestly , we should keep technology low and just simple basically
+to --> 
+dialogue type : Suggest
+C : and try to aim for design .
+to --> 
+dialogue type : Inform
+C : basically a case will will cost the same if it looks good or bad
+
+to --> 
+dialogue type : Inform
+C : so we ma we have to make it look good .
+to --> 
+dialogue type : Suggest
+C : Um something cute and small .
+to --> 
+dialogue type : Inform
+C : The big chunky remotes are died in the eighties .
+
+to --> 
+dialogue type : Inform
+C : And um although mo most people will buy s televisions and everything for uh that have loads of loads of little functions and everything
+to --> 
+dialogue type : Inform
+C : and they mostly end up using simple functions and little things
+to --> 
+dialogue type : Inform
+C : and most the people won't won't get too mad of actually having to go the to the s to the television to , for instance , tune in their the stations .
+to --> 
+dialogue type : Inform
+C : There's no need to have that in the remote .
+
+to --> 
+dialogue type : Suggest
+C : um as for what I would recommend for uh the the interface design , and uh I will change the colours on the on the logo , but um we should go for the user-oriented device ,
+to --> 
+dialogue type : Inform
+C : so simple controls and good ergonomics .
+to --> 
+dialogue type : Offer
+C : Um and uh although I th I th I'm still here recommending the teletext so I'll remove that , I guess ,
+
+to --> 
+dialogue type : Inform
+A : But I t I think what the the management recommendation was less that there's a worry that teletext will become outdated rather than we shouldn't have it .
+to --> 
+dialogue type : Suggest
+A : So I I still think if it's cheap enough functionality-wise to include , it really should be in there .
+
+to --> 
+dialogue type : Inform
+A : I mean even if it's necessary or not , if you if you're given the choice between a t a remote with teletext or without uh when it really
+to --> 
+dialogue type : Inform
+A : if it i if it isn't more expensive for us to k make because as far as I understand it , it can be operated with the same set of buttons , yeah ?
+
+to --> 
+dialogue type : Inform
+B : i it's just uh the cost of an extra button .
+
+to --> 
+dialogue type : Inform
+D : I in the very beginning it said with the with the advent of computers there's gonna be the it's gonna be out-moded teletext .
+to --> 
+dialogue type : Comment-About-Understanding
+D : I I don't understand how those two things are connected .
+to --> 
+dialogue type : Elicit-Inform
+D : How does how does computers and teletext h how why is one eliminating the need of the other ?
+
+to --> 
+dialogue type : Inform
+A : Well maybe what we're getting into here is the the idea of uh Internet through the T_V_ for example .
+
+to --> 
+dialogue type : Inform
+C : the they're basically aiming at saying that you would use you know a couple of years ago teletext to be the easiest way to check like for uh uh the scheduling and the next programme and stuff like that
+
+to --> 
+dialogue type : Assess
+C : But I still think teletext is way more convenient until until we have the same commodities .
+
+to --> 
+dialogue type : Inform
+D : I just I don't see the cross-over between computers and television .
+to --> 
+dialogue type : Inform
+D : I mean I do see the cross-over in some sense ,
+to --> 
+dialogue type : Inform
+D : but but but but with the the remote is is used for television , okay .
+
+to --> 
+dialogue type : Inform
+A : Well there there is a for example on digital T_V_ systems you have you can press a button and you can buy things in adverts ,
+
+to --> 
+dialogue type : Inform
+A : They're just features from the Internet uh from computers are are coming into the T_V_ sort of under the covers ,
+
+to --> 
+dialogue type : Inform
+A : Yeah , and there's other features for example on other systems where you can pause live T_V_ and things like that .
+
+to --> 
+dialogue type : Inform
+C : And all of those require the other commands with more complexity and more software and
+
+to --> 
+dialogue type : Suggest
+A : If if it's , for example , a trainable one then we're just simply having like an up , down , left , right , an okay button or something like that might might do as well in future proofing it .
+
+to --> 
+dialogue type : Suggest
+C : but I guess we can remove it
+
+to --> 
+dialogue type : Suggest
+B : I think if it's possible you should try to you know have a talk with management about that .
+
+to --> 
+dialogue type : Inform
+D : I I don't see the logic in elimination of teletext ,
+
+to --> 
+dialogue type : Assess
+A : Yeah , and neither do I in fact .
+
+to --> 
+dialogue type : Inform
+A : a a and th the message really we wanna be sending to them is that , although teletext may become outdated w there's no l logic in not having it in there anyway i if it doesn't affect the price .
+
+to --> 
+dialogue type : Inform
+C : but we're not putting some there's no no putting anything in in the place of teletext .
+
+to --> 
+dialogue type : Inform
+D : and and we're also marketing a product . It's what I'm seeing is a is a mid-range cost product .
+to --> 
+dialogue type : Inform
+D : So so w we can't go and pump a whole bunch of technology into this thing
+
+to --> 
+dialogue type : Inform
+A : So if we're keeping it basic we're loo loo what we're looking to sell it basically is it's uh just being very easy to use , looking exceptionally good , that sort of thing .
+
+to --> 
+dialogue type : Inform
+D : and to me if I'm gonna market a product for b for beauty for for design I'm gonna I'm gonna try to market it at a much higher price .
+
+to --> 
+dialogue type : Inform
+D : I want I want to market it as exclusive .
+to --> 
+dialogue type : Inform
+D : So I would market this product it at eighty-nine Euros
+to --> 
+dialogue type : Inform
+D : and come up with some really beautiful exterior design or something
+to --> 
+dialogue type : Inform
+D : th but but I don't think we have that flexibility .
+
+to --> 
+dialogue type : Assess
+A : But i if design if design is cheap and functionality is basic , then twenty-five Euros is probably a high price for a commoner garden stan standard T_V_
+
+to --> 
+dialogue type : Inform
+D : and if I'm coming in with a with with twenty-five Euros , which is mid-market price , um then what am I going to give these people for this ?
+
+to --> 
+dialogue type : Inform
+C : just I I would I would advocate for continuing teletext and those would be the basic commands .
+
+to --> 
+dialogue type : Inform
+C : Right now it's just the idea of simplicity and slickness , cute and small um
+
+to --> 
+dialogue type : Offer
+C : Um as for , you know , the the case design uh maybe I'll come up with more concrete ideas .
+
+to --> 
+dialogue type : Inform
+B : I'm just thinking you know with all these universal remotes that are out there , how many people how many people actually use every feature
+
+to --> 
+dialogue type : Assess
+B : you know i like these trainable remotes and things like that , where , you know , it's just so confusing to do to use all these functions .
+
+to --> 
+dialogue type : Inform
+B : They want something that looks nice ,
+
+to --> 
+dialogue type : Inform
+B : that you know that maybe it's it's ergonomic , it feels good in your hand , something like that .
+
+to --> 
+dialogue type : Inform
+B : Where I think the largest portion of the market is just gonna you know they lost their T_V_ remote , they need another one that'll work with their T_V_ .
+
+to --> 
+dialogue type : Inform
+B : I think that's gonna be where you're gonna find the biggest , you know , market share .
+to --> 
+dialogue type : Inform
+B : I think the more bells and whistles we add , it's just gonna cut into our into our profits .
+to --> 
+dialogue type : Inform
+B : Because I think as we as we add costs for things like uh for like if we add the voice recognition and things like that , I think you know what percentage of the of the um of the market is actually gonna use that ?
+
+to --> ,A
+dialogue type : Suggest
+A : But we can talk a little bit more potentially in the marketing marketing presentation about this .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : Oh P Pedro , I just want to say quickly I I would really like it when you can come up with some more bells and whistles , eh .
+to --> 
+dialogue type : Suggest
+D : You know sell uh things come to my mind is uh uh something that's uh um voice-activated .
+
+to --> 
+dialogue type : Suggest
+D : 'Cause uh and I think of voice-activated
+to --> 
+dialogue type : Inform
+D : I think of of how many times I've I've lost my my remote and I can't find it .
+to --> 
+dialogue type : Suggest
+D : So some way that I can I can find my remote by clapping my hands or something
+
+to --> 
+dialogue type : Inform
+D : our our competition out there has got these these multiple adaptors where they can use 'em for their V_C_R_s , their D_V_D_s , their their televisions
+
+to --> 
+dialogue type : Inform
+D : And so to me we have to make this a really special product
+
+to --> 
+dialogue type : Inform
+D : but I I don't see the market niche for this product without without some really sort of something really special to identify it as as unique in the market .
+
+to --> 
+dialogue type : Suggest
+C : But we th that should be design .
+
+to --> 
+dialogue type : Inform
+C : I think technology we'd we we're not in the price range to do it .
+
+to --> 
+dialogue type : Suggest
+C : so we should we should aim at design .
+
+to --> 
+dialogue type : Inform
+D : Okay well , so so that's up to you then
+
+to --> 
+dialogue type : Elicit-Inform
+A : Does any of the um the features that Pedro's spoken about here have any implications we might not have thought about on in terms of just pure functionality ?
+
+to --> 
+dialogue type : Inform
+B : I think all these things are pretty standard .
+
+to --> ,A
+dialogue type : Inform
+A : Onto participant four .
+
+to --> 
+dialogue type : Inform
+D : 'til you spoke and when I wrote this , I don't know what I'm marketing .
+to --> 
+dialogue type : Inform
+D : I just know that I I was identified as a a we identified ourselves as a as a developer , as a manufacturer , and as a as a um distributor t to other wholesalers .
+to --> 
+dialogue type : Inform
+D : And so the th the twenty-five Euros that we've identified as the sale price is a wholesale price rather than a retail price .
+
+to --> 
+dialogue type : Inform
+D : Um so what I did is I I decided that that this this needs to be a product in a in a sense can market itself .
+
+to --> 
+dialogue type : Inform
+D : We're making the most beautiful attractive uh whatever we decide it is .
+
+to --> 
+dialogue type : Inform
+D : Um so I would like to have a product that that we can sell easily .
+
+to --> 
+dialogue type : Inform
+D : so having something beauty , something attractive , uh something that in a sense will sell itself .
+to --> 
+dialogue type : Inform
+D : Uh innovation I think fits into what we're talking about here with design .
+to --> 
+dialogue type : Inform
+D : Uh cutting edge technology , I don't think we're gonna have that ,
+
+to --> 
+dialogue type : Inform
+D : um unless we come up with some New Age product a as far as the casing is concerned .
+
+to --> 
+dialogue type : Inform
+D : I I talked about environmentally sensitive ,
+to --> 
+dialogue type : Suggest
+D : uh maybe we have a product that can be identified in some way as advantageous in a home .
+
+to --> 
+dialogue type : Offer
+D : Uh I wanted to talk about uh who we are as a as a corporation ,
+to --> 
+dialogue type : Inform
+D : that we're new , we're aggressive , we're competitive , we're we're trying to provide a product from a new perspective rather than from an old corporate line .
+to --> 
+dialogue type : Inform
+D : So to me it's about selling d uh our identity our corporate identity along with the product .
+
+to --> 
+dialogue type : Inform
+D : Uh we're kind of in the middle of the market ,
+
+to --> 
+dialogue type : Inform
+D : but again , because what I see is budget restrictions and limitations , I don't know that we can bring any new technology into this thing .
+
+to --> 
+dialogue type : Inform
+B : And it's kind of along the s lines of environmentally sensitive ,
+to --> 
+dialogue type : Inform
+B : and it may even fit into ergonomics ,
+to --> 
+dialogue type : Inform
+B : and even kind of address the issue of losing losing the remote , what we were saying it's a common issue .
+to --> 
+dialogue type : Inform
+B : Um what we can do is , well you know that batteries throwing a aw remotes run through batteries like crazy . Right ?
+
+to --> 
+dialogue type : Assess
+B : Well maybe not a solar remote
+to --> 
+dialogue type : Suggest
+B : but instead what about if we had like a power cradle ?
+to --> 
+dialogue type : Suggest
+B : Like a a cradle that is is there to hold the remote when you're not using it ,
+
+to --> 
+dialogue type : Suggest
+B : and we can , instead of having instead of having , you know , replaceable batteries we'll just have a power cell that stays there for the life of the remote .
+
+to --> 
+dialogue type : Inform
+B : 'cause you have to put it back there to charge the remote ,
+
+to --> 
+dialogue type : Assess
+B : I I think it's a good opportunity for the user design
+
+to --> 
+dialogue type : Suggest
+B : You know you could have some kind of neat little , you know , a sexy design for d a cradle and the remote itself .
+
+to --> 
+dialogue type : Assess
+D : I like the idea ,
+to --> 
+dialogue type : Inform
+D : but we're talking about in cost is gonna probably double .
+
+to --> 
+dialogue type : Suggest
+B : And you could page the remote if you lose it .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Now the the question is can we make this for less than twelve-fifty per ?
+
+to --> 
+dialogue type : Assess
+D : No no . No no ,
+to --> 
+dialogue type : Inform
+D : we have t we have to change the end cost .
+
+to --> 
+dialogue type : Suggest
+A : We we well do we necessarily have to change the end cost because uh Can we dl can we do that without uh changing it twelve-fifty per product , if we basically can sell more based on this ?
+
+to --> 
+dialogue type : Inform
+D : I my reaction is no , but
+
+to --> 
+dialogue type : Offer
+B : what I can do is I can d look into ho well Pedro and I can look into how much this might increase our our costs
+
+to --> 
+dialogue type : Suggest
+A : we we can certainly push for a more expensive product if that's gonna be
+
+to --> 
+dialogue type : Suggest
+D : Well , see I I see I I'm an advocate to make this an exclusive product .
+
+to --> 
+dialogue type : Suggest
+D : Let's make this thing really exclusive , environmentally sensitive , uh high-tech design , uh ergonomics , all of this .
+
+to --> 
+dialogue type : Inform
+B : I just don't know about that , because in order to do that in order to price it at that kind of level I think we'd need to have every functionality that all the other competitors are offering
+to --> 
+dialogue type : Inform
+B : like being able to operate , you know , the D_V_D_ player and , you know , the stereo system and all that .
+to --> 
+dialogue type : Inform
+B : Which is a pretty basic function that w we've opted out of .
+
+to --> 
+dialogue type : Inform
+A : I think we can say with certainty now that we are supporting teletext .
+
+to --> 
+dialogue type : Inform
+B : But I do think there are some basic features that we don't have that a lot of other remotes are going to have .
+
+to --> 
+dialogue type : Inform
+D : They gave us a fundament a foundation of of what they want ,
+to --> 
+dialogue type : Inform
+D : and and w it's our place to kinda analyse and evaluate .
+
+to --> 
+dialogue type : Assess
+D : I don't know what kind of role we have in this in the corporate ladder uh ,
+
+to --> 
+dialogue type : Suggest
+D : do we follow their directives or do we make uh presentations back and and then and then discuss ?
+to --> 
+dialogue type : Inform
+D : beca I I do not I do not see the market niche for the product that they're handing f handing us right now .
+
+to --> 
+dialogue type : Inform
+B : I think our market niche is basically people who need who have lost their remote
+
+to --> 
+dialogue type : Inform
+B : and then they're gonna look on the shelf and they're gonna see ours is the nicest looking remote .
+
+to --> 
+dialogue type : Inform
+A : I th I think it's important to remember that that this remote has to work with multiple T_V_s , yeah ,
+to --> 
+dialogue type : Inform
+A : 'cause it's selling on its own .
+
+to --> 
+dialogue type : Inform
+A : All you need to do is train them to the individual one ,
+
+to --> 
+dialogue type : Inform
+D : they've identified the product as not working for anything but televisions .
+
+to --> 
+dialogue type : Inform
+D : If we if w if we were going to have a product that worked for D_V_D_s , V_C_R_s and everything , then I can see the market niche ,
+
+to --> 
+dialogue type : Inform
+D : because who wants just a television remote ?
+
+to --> 
+dialogue type : Inform
+B : If you're in the market for this ultimate remote , you're not gonna go for just a television remote .
+
+to --> 
+dialogue type : Assess
+A : So we really can't chase that .
+to --> 
+dialogue type : Inform
+A : We're really looking for something basic .
+to --> 
+dialogue type : Inform
+A : The the one thing that that that you said really struck a chord with me here in that we're we're carrying the corporate identity with the product ,
+
+to --> 
+dialogue type : Suggest
+A : where I'd be inclined to go back to upper-level management and say like let's just cut down our profit expected on this product because we are actually branding our company here .
+
+to --> 
+dialogue type : Inform
+A : We're trying to get mind-share about uh Real Reaction to to the people who are gonna buy consumer electronics .
+
+to --> 
+dialogue type : Inform
+A : And and we're gonna make it we're gonna win mind-share by uh either being a fantastic product
+to --> 
+dialogue type : Inform
+A : or for it working , it just being good , reasonable-priced , and solid .
+
+to --> 
+dialogue type : Inform
+D : W okay if you if you drop the cost , now if you make if you make go to the other side of the cost scale , and you make it less expensive , then all of a sudden now we're going into an a a new market area .
+
+to --> 
+dialogue type : Inform
+D : But what I'm saying is right now we're middle market .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Is twenty-five Euros a mid-market price for a remote ?
+
+to --> 
+dialogue type : Inform
+D : We have to have something that will change people's thinking to identify this as advantageous ,
+
+to --> 
+dialogue type : Inform
+D : It's gotta be low-cost or high-cost with with special design features .
+
+to --> 
+dialogue type : Suggest
+A : Well I'd be inclined to say , if we can make the design better than any comparable remote while reducing the cost , then that's the way we really should play it .
+to --> 
+dialogue type : Suggest
+A : If we can take it down to you know fifteen rather than twenty-five and make a low profit-margin on it ,
+
+to --> 
+dialogue type : Offer
+A : And I can communicate this to to the more senior uh mm people within the company here to to get a reaction .
+
+to --> 
+dialogue type : Inform
+A : I w I don't wanna go over somewhere and put it down .
+to --> 
+dialogue type : Suggest
+A : It i if it is gonna be somewhere that you put it down then it needs to be at the side of your armchair ,
+to --> 
+dialogue type : Inform
+A : and that implies that there's only one T_V_ user .
+
+to --> 
+dialogue type : Inform
+B : it would last for several hours on its own power ,
+to --> 
+dialogue type : Inform
+B : but when you're done with it you put it back in the cradle .
+
+to --> 
+dialogue type : Assess
+A : But it it takes away the ease of use of the remote to a certain extent .
+
+to --> 
+dialogue type : Assess
+A : I d I d I d I think it it in my mind it doesn't seem like something that oh I'd really want uh because of that fact .
+
+to --> 
+dialogue type : Inform
+D : Well , I think again it's it we have a cost issue here .
+
+to --> 
+dialogue type : Suggest
+C : Uh we should keep it simple , mm medium-low cost mar um cost area and uh make it look good .
+
+to --> 
+dialogue type : Inform
+D : The box is gonna sell it I think , the outside , the casing .
+to --> 
+dialogue type : Elicit-Inform
+D : Can can can we have multiple designs ?
+
+to --> 
+dialogue type : Suggest
+D : and so so instead of them all looking the same , people can have maybe four or five different designs they can choose from .
+to --> 
+dialogue type : Inform
+D : I don't know what that creates cost , or
+
+to --> 
+dialogue type : Suggest
+B : Yeah we we need to , I mean , have a few designs to look at
+
+to --> 
+dialogue type : Inform
+B : I think w what's really important is it has to look good ,
+
+to --> 
+dialogue type : Inform
+B : it has to be durable ,
+to --> 
+dialogue type : Inform
+B : it has to a and I think it's really important that it doesn't look cheap .
+
+to --> 
+dialogue type : Suggest
+D : what about a a remote that's that doesn't maybe look like a remote ?
+
+to --> 
+dialogue type : Suggest
+D : it it opens like a telephone .
+
+to --> 
+dialogue type : Suggest
+B : Or what if it looks like a pen ?
+
+to --> 
+dialogue type : Inform
+D : I don't have a problem selling a product ,
+
+to --> 
+dialogue type : Offer
+D : Once you have the finished product I'll find a way to sell it .
+
+to --> 
+dialogue type : Suggest
+B : un unless you guys are die-hard against the fact that um it's possible like it reduces the usability of the remote b and the fact that you can't lose it on your own , I think it still might be a good idea to investigate having like a power cradle .
+to --> 
+dialogue type : Assess
+B : Because I really think i in a certain sense it almost like for me I would want to have that just , because I know at the end of when I'm done watching T_V_ that when I'm done , oh I better go find the remote and put it back where it belongs .
+
+to --> 
+dialogue type : Inform
+D : One thing I just thought about when you were saying that , is that the p our target market is gonna be someone who has lost or broken
+
+to --> 
+dialogue type : Suggest
+D : Can we p can we sell them a remote that can maybe guarantee they will not need to buy another one ?
+to --> 
+dialogue type : Suggest
+D : And so with with with this kind of system or locator or something , to to think about , how have people been been losing or breaking their remote ?
+
+to --> 
+dialogue type : Suggest
+D : And and then and then design the product , maybe some component of the product that can identify this as the last one you'll ever need to buy .
+
+to --> 
+dialogue type : Assess
+A : Whereas actually just putting it in a power cradle might not be too expensive at all
+
+to --> 
+dialogue type : Inform
+B : The locator'll definitely be more expensive .
+
+to --> 
+dialogue type : Suggest
+A : Um need to look into whether we can do that
+
+to --> 
+dialogue type : Suggest
+B : I think one of the things that we can put right on the box is , never buy another battery .
+

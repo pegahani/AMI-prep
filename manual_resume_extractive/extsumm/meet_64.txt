@@ -1,0 +1,273 @@
+to --> D,C,B
+dialogue type : Be-Positive
+A : Good morning everybody .
+
+to --> D,C,B,A
+dialogue type : Offer
+A : Um I'm just gonna have a little PowerPoint presentation for us , for our kick-off meeting .
+to --> D,C,B,A
+dialogue type : Inform
+A : My name is Rose Lindgren .
+to --> D,C,B,A
+dialogue type : Inform
+A : I I'll be the Project Manager .
+to --> D,C,B,A
+dialogue type : Inform
+A : Um our agenda today is we are gonna do a little opening
+to --> D,C,B,A
+dialogue type : Inform
+A : and then I'm gonna talk a little bit about the project ,
+to --> D,C,B,A
+dialogue type : Inform
+A : then we'll move into acquaintance such as getting to know each other a little bit , including a tool training exercise .
+to --> D,C,B,A
+dialogue type : Inform
+A : And then we'll move into the project plan ,
+to --> D,C,B,A
+dialogue type : Inform
+A : do a little discussion
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um we are creating a new remote control which we have three goals about ,
+to --> D,C,B
+dialogue type : Inform
+A : it needs to be original , trendy and user-friendly .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um so we're gonna divide us up into three compa three parts .
+to --> D,C,B,A
+dialogue type : Inform
+A : First the functional design
+to --> D,C,B,A
+dialogue type : Inform
+A : which will be uh first we'll do individual work ,
+to --> D,C,B,A
+dialogue type : Inform
+A : come into a meeting ,
+to --> D,C,B,A
+dialogue type : Inform
+A : the conceptional design , individual work and a meeting ,
+to --> D,C,B,A
+dialogue type : Inform
+A : and then the detailed design , individual work and a meeting .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um we're gonna do a little tool training ,
+to --> B,A
+dialogue type : Inform
+A : so we are gonna work with that whiteboard behind you .
+to --> B,A
+dialogue type : Suggest
+A : Um introduce yourself ,
+
+to --> B,A
+dialogue type : Suggest
+A : and then draw your favourite animal
+
+to --> A,D,C
+dialogue type : Inform
+B : My name is Alima Bucciantini .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : and I guess I'm the Industrial Designer on this project .
+
+to --> A,D,C,B
+dialogue type : Offer
+B : I will draw a little turtle for you all .
+
+to --> A,D,B
+dialogue type : Inform
+C : my name is Iain uh
+to --> A,D,B
+dialogue type : Inform
+C : and I'm the User Interface Designer for the project . Um .
+
+to --> D
+dialogue type : Inform
+C : It's a whale , yes .
+
+to --> A,C,B
+dialogue type : Inform
+D : I'm Jessy .
+
+to --> A,C,B
+dialogue type : Inform
+D : Briefly , it's supposed to be a seal .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : We're gonna talk about project finances .
+
+to --> D,C,B
+dialogue type : Inform
+A : we'd like to sell it for about twenty five Euro with the profit aim of um fifteen million Euro um from our sales
+to --> D,C,B
+dialogue type : Inform
+A : and because this is such this is for television it's a we have a market range of Internet , like it's an international market range ,
+
+to --> D,C,B
+dialogue type : Inform
+A : Um in order to make a profit of this magnitude , we need to um be able to produce each one at a maximum of twelve fifty Euro .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : just to generate a little bit of discussion about the project um , I could I'd like to hear about your experiences using ro remote controls ,
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : what would be the best um like you what are the features that you really like
+
+to --> A,C,B
+dialogue type : Assess
+D : Um I hate when there's like four different buttons and you have to press to actually turn on the T_V_
+
+to --> A,C,B
+dialogue type : Inform
+D : 'cause I feel like you end up with multimedia overload .
+
+to --> A,D,B
+dialogue type : Inform
+C : especially , like you know if I'm watching T_V_ I have have to have three separate remote controls of in front of me , you know , one for the T_V_ , one for the digital box , one for m the video recorder as well . Um .
+to --> A,D,B
+dialogue type : Assess
+C : And also they tend to they tend to be a bit confusing ,
+
+to --> 
+dialogue type : Assess
+C : uh too too sort of too sort of complicated
+
+to --> A,D,B
+dialogue type : Assess
+C : they've got too many buttons on them
+
+to --> A,D,C
+dialogue type : Inform
+B : and that there's not too many buttons ,
+to --> A,D,C
+dialogue type : Inform
+B : they are not too small ,
+
+to --> A,C,B
+dialogue type : Elicit-Inform
+D : like are there some remotes that don don't require like batteries
+
+to --> D,C,B
+dialogue type : Suggest
+A : but it's possible we could use like a lithium battery
+
+to --> D,C,B,A
+dialogue type : Inform
+A : it seems we have a little bit of a conflict over um to uh combining all the remotes cont together versus having f five different remotes .
+
+to --> A,D,C
+dialogue type : Suggest
+B : doesn't have all the buttons that you need to program the video recorder
+
+to --> A,D,C
+dialogue type : Suggest
+B : but that just has your major buttons for that work for everything , you know volume control , on , off ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : so it's like if you're looki if you're trying to get the T_V_ on that's , you know , like the top thing on the remote , I dunno if d be vertical or horizontal in terms of how we're gonna make it , but if it's like all the T_V_ stuff was here ,
+to --> A,C,B
+dialogue type : Suggest
+D : then all the V_C_R_ stuff was here ,
+to --> A,C,B
+dialogue type : Suggest
+D : all the whatever else we have programmed into it it's all just in its separate place and not like all the on buttons together ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : and if um if you'd save the more complicated functions maybe for separate remotes that you wouldn't need to use every day .
+
+to --> A
+dialogue type : Elicit-Inform
+C : would we even technically be possible to include video recorder functions on it ?
+
+to --> A
+dialogue type : Elicit-Inform
+C : are we designing a remote control for a television only
+
+to --> A
+dialogue type : Elicit-Assessment
+C : Um or should we just stick to just stick to having television television related buttons on it ?
+
+to --> C
+dialogue type : Offer
+A : I'll look into that .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : I guess we have to define what what we're aiming for .
+to --> A,D,C
+dialogue type : Inform
+B : If it's just a television then that it's a bit simpler ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : If you have older people or people like me that aren't very co-ordinated hand-eye , it's really quite important that you are not pressing a small like teeny mobiles phone size buttons , if we can help it .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um now our next meeting starts in thirty minutes .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : Um the industrial design , Alima will be doing um the working design .
+to --> C,A
+dialogue type : Inform
+A : Um the User Interface Designer , that's for . Technical functions , I guess like keeping in mind the buttons thing , the size of the buttons .
+to --> D,A
+dialogue type : Inform
+A : Um user requirements um , so you'll be hearing about different trends , uh about different things that people need ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : And you will get specific instructions sent by your personal coach .
+
+to --> A,C
+dialogue type : Elicit-Inform
+C : What we're gonna be discussing at the next meeting ?
+
+to --> C,A
+dialogue type : Inform
+A : I haven't gotten an agenda yet ,
+to --> C,A
+dialogue type : Offer
+A : um I'll put that together .
+to --> D,C,B,A
+dialogue type : Inform
+A : I'm sure as we'll each get our own instruction
+
+to --> A,C
+dialogue type : Suggest
+C : Can you e-mail your slides as well ?
+
+to --> C,A
+dialogue type : Assess
+A : Yes , I yes , I think I can .
+
+to --> C,A
+dialogue type : Offer
+A : I'll just attach it to an email .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : Just make sure you keep checking the company web site and the emails .
+
+to --> D,C,B,A
+dialogue type : Offer
+A : I'll type up mi minutes
+to --> D,C,B,A
+dialogue type : Offer
+A : and probably email those out to all of you . Um just including all the things that we talked about . Um .
+
+to --> D,C,B
+dialogue type : Suggest
+A : so maybe have like one remote that has the main functions on , off , channel changing , volume , and another rote remote with all the special things .
+

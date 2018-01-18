@@ -1,0 +1,425 @@
+to --> 
+dialogue type : Elicit-Inform
+C : Hey what's wrong with my computer ?
+
+to --> 
+dialogue type : Inform
+B : I think you have to uh change your desktop uh
+
+to --> 
+dialogue type : Inform
+C : Yeah my computer is not functioning properly .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Did you plug in the power cable when you come back ?
+
+to --> 
+dialogue type : Inform
+C : I spent a lot of time thinking about what I was gonna do and then a couple of minutes before this I get my function you know the information that I need .
+
+to --> 
+dialogue type : Inform
+C : This presentation is mainly based on my own ideas 'cause I hadn't time to intergrate tha the information yet so
+
+to --> 
+dialogue type : Offer
+D : I'm gonna talk about functional requirements .
+
+to --> 
+dialogue type : Inform
+D : Well uh some research has be done uh has been done .
+to --> 
+dialogue type : Inform
+D : Uh observing of one hundred uh subjects in the usability lab using a remote control .
+to --> 
+dialogue type : Inform
+D : Uh and they also filled in a questionnaire .
+
+to --> 
+dialogue type : Inform
+D : They disliked the look-and-feel of current remotes controls .
+to --> 
+dialogue type : Inform
+D : Users think they're ugly .
+
+to --> 
+dialogue type : Inform
+D : they are often lost somewhere in the room .
+to --> 
+dialogue type : Inform
+D : Um it takes too much time to learn how to use a new remote control .
+to --> 
+dialogue type : Inform
+D : And they're bad for R_S_I_ .
+
+to --> 
+dialogue type : Inform
+D : Um they do not match the the operating behaviour of the users .
+
+to --> 
+dialogue type : Inform
+D : Uh most irrelevant and less used were audio settings , mono , stereo , uh pitch , bass .
+
+to --> 
+dialogue type : Inform
+D : Uh most relevant , uh most used functions ,
+
+to --> 
+dialogue type : Inform
+D : Uh power button , uh channel , volume selection .
+to --> 
+dialogue type : Inform
+D : Uh teletext
+to --> 
+dialogue type : Inform
+D : but we can skip that because I saw the newsflash , and teletext is so outdated that it it's i should not be used uh any more in the future .
+
+to --> 
+dialogue type : Elicit-Inform
+C : By the way where did you guys get that newsflash from ?
+
+to --> 
+dialogue type : Inform
+A : I receiv the mail but you don't . So
+
+to --> 
+dialogue type : Inform
+D : No so it's a text file n in the project folder .
+
+to --> 
+dialogue type : Inform
+D : Um there was some research on new features in a remote control .
+to --> 
+dialogue type : Inform
+D : Uh about an L_C_D_ screen uh and speech recognition .
+
+to --> 
+dialogue type : Inform
+A : And the new product should reach new markets , which is the customers below forty .
+
+to --> 
+dialogue type : Inform
+D : I mean uh above forty people are not so interested uh not so interested in a screen or speech recognition .
+
+to --> 
+dialogue type : Suggest
+D : Um well we have to keep all the classic functions but make the buttons as user-friendly as possible .
+
+to --> 
+dialogue type : Inform
+D : And I think and certainly for for the for the lower age groups , uh nice design , which uh does not make the remote control in your room .
+
+to --> 
+dialogue type : Inform
+A : But it also needs to have corporate identity .
+
+to --> 
+dialogue type : Inform
+D : so the the logo has to be
+to --> 
+dialogue type : Assess
+D : uh present yeah , and the colours as well .
+
+to --> 
+dialogue type : Elicit-Inform
+A : You pressed alt F_ four ?
+
+to --> 
+dialogue type : Inform
+B : No no no . I pressed the mouse button .
+
+to --> 
+dialogue type : Inform
+B : I uh had uh two examples .
+to --> 
+dialogue type : Inform
+B : Um this one is the the yeah the advanced one with a lot of options and functions and buttons .
+to --> 
+dialogue type : Inform
+B : This the easy one
+to --> 
+dialogue type : Suggest
+B : I think we have to to combine them . And uh yeah merge the best functions of all examples .
+
+to --> 
+dialogue type : Assess
+B : Okay so so we have the option for more functions .
+
+to --> 
+dialogue type : Elicit-Inform
+C : And we do have to integrate the screen and the the speech
+
+to --> 
+dialogue type : Suggest
+B : Yeah but I prefer we we uh use the the basic options uh yeah .
+to --> 
+dialogue type : Suggest
+B : We have to to make them very easy so for just uh zapping around the channels you can just push one button .
+
+to --> 
+dialogue type : Inform
+D : Yeah but uh the the newsflash also stated that it should control only one device , only your television .
+
+to --> 
+dialogue type : Inform
+B : Um yeah only use a extra function if they are really needed .
+
+to --> 
+dialogue type : Suggest
+A : so maybe you can hide them or something .
+
+to --> 
+dialogue type : Inform
+D : So it looks very simple and all the advanced features are hidden in the screen , uh with a clear menu .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So what does the screen do ?
+
+to --> 
+dialogue type : Inform
+B : For for the advanced functions I think .
+
+to --> 
+dialogue type : Assess
+D : Well I , my guess is it's it's pretty handy for advanced uh advanced functions .
+
+to --> 
+dialogue type : Suggest
+B : So we have to make uh a compromise between functionality and fashional fashionable
+
+to --> 
+dialogue type : Assess
+C : Well my presentation is a bit uh sucky .
+
+to --> 
+dialogue type : Inform
+C : Um yeah well I was working on this before I got my information .
+to --> 
+dialogue type : Inform
+C : So I was just working off the top of my head and using my colin common knowledge about uh remote controls .
+to --> 
+dialogue type : Inform
+C : And well the info on the website which came too late .
+
+to --> 
+dialogue type : Inform
+C : But um yeah then uh the information came and it was kind of exact with all the steps in the remote control that I had to follow , so I was trying to organise them for myself .
+
+to --> 
+dialogue type : Assess
+C : I mean everything speaks for itself I guess .
+to --> 
+dialogue type : Inform
+C : Mean you press a button um the it tru goes , it sends a signal to a chip ,
+to --> 
+dialogue type : Inform
+C : which uh translates it into infrared signal of certin spatial frequencies .
+
+to --> 
+dialogue type : Inform
+C : and the T_V_ will translate it into a function .
+
+to --> 
+dialogue type : Suggest
+B : Okay shou should we make a list of the of all the functions we want uh
+
+to --> 
+dialogue type : Inform
+A : for those that didn't see yet um the basic new requirements of the management were no teletext , only for T_V_ .
+to --> 
+dialogue type : Inform
+A : Uh it should be designed for a use g uh group below forty ,
+
+to --> 
+dialogue type : Inform
+A : And uh the corporate identity should be clear in the design of the remote control .
+
+to --> 
+dialogue type : Inform
+D : the marketing research started on s on the age of sixteen .
+
+to --> 
+dialogue type : Assess
+D : Uh sixteen to forty .
+
+to --> 
+dialogue type : Suggest
+C : Yeah so what we might wanna do is uh yeah cust I have customised the screen functions , if you know what I mean .
+
+to --> 
+dialogue type : Suggest
+B : The the simple functions for for the the whole public , and the the advanced options for the younger people yeah who are more yeah experienced with uh
+to --> 
+dialogue type : Suggest
+B : I w I should uh put uh the the yeah the extra advanced options on the onto the onscreen display .
+
+to --> 
+dialogue type : Suggest
+D : Uh you can make a if you make a drawing .
+
+to --> 
+dialogue type : Backchannel
+A : Basic .
+
+to --> 
+dialogue type : Inform
+D : so it should fit right in into your hand .
+
+to --> 
+dialogue type : Assess
+D : Okay so y yeah you have you have it in your hand , and the screen is below , and the buttons are in the middle .
+
+to --> 
+dialogue type : Suggest
+C : I thought but this is really your department , that we need just the functional display and four cursors .
+
+to --> 
+dialogue type : Inform
+D : most of the time you have one button in the middle . It says menu ,
+to --> 
+dialogue type : Inform
+D : and then if you press it you the screen gets activated and then you can use these buttons to scroll up and down and left and right to go into functon
+
+to --> 
+dialogue type : Inform
+D : and then uh on on each on each screen there's there should be an option to go back to a to a upper level .
+
+to --> 
+dialogue type : Suggest
+D : But it should be if the screen is here then the logo should be like on on top ,
+
+to --> 
+dialogue type : Inform
+A : And for the speech uh recognition part , if we want to incorporate that , we need a microphone .
+
+to --> 
+dialogue type : Assess
+D : Yeah I mean a screen on top looks more lo logical to me .
+
+to --> 
+dialogue type : Suggest
+D : So we put this on top , and then make the corporate logo
+
+to --> 
+dialogue type : Inform
+D : I mean this is basically numbers , volume , uh channel up and down .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Yeah so we we needed to integrate the sound and uh and image options right ?
+
+to --> 
+dialogue type : Suggest
+A : So channel programming ?
+
+to --> 
+dialogue type : Assess
+C : Under the a yeah advanced option menu you can put those things .
+
+to --> 
+dialogue type : Inform
+A : you have basically a button menu , which you can use directly , uh according to the old principle .
+to --> 
+dialogue type : Inform
+A : And the L_C_D_ options are activated by some some software options , thats communicates with the infrared uh decoder yeah .
+
+to --> 
+dialogue type : Inform
+D : Yeah a audio settings , mono , stereo , pitch , bass , treble . Screen settings , brightness and colour .
+
+to --> 
+dialogue type : Inform
+A : S swap channels ?
+
+to --> 
+dialogue type : Assess
+A : Swap's good option .
+
+to --> 
+dialogue type : Suggest
+A : The User Interface Designer can design a menu for all these function
+
+to --> 
+dialogue type : Suggest
+A : and I think you can concentrate more on the button placement and the placement of the uh screen itself on the
+
+to --> 
+dialogue type : Inform
+C : Uh all the functional uh aspects of the remote I think are in my department .
+
+to --> 
+dialogue type : Assess
+A : Okay . So he's layout and you're function .
+
+to --> 
+dialogue type : Assess
+B : Isn't that more the the u uh the user interface part ?
+
+to --> 
+dialogue type : Assess
+C : I think that's a that's a good separation .
+
+to --> 
+dialogue type : Suggest
+C : Yeah we have to kind of work together .
+
+to --> 
+dialogue type : Inform
+A : Menu button access the menu in the L_C_D_ screen .
+
+to --> 
+dialogue type : Inform
+D : And then with these buttons , woa , y you navigate .
+
+to --> 
+dialogue type : Suggest
+C : Hey is it interesting for users if we put LED lights under the buttons ? So that if you uh press on the menu function that only the buttons that are used for the menu are ligh li light up .
+
+to --> 
+dialogue type : Assess
+D : That's very good idea .
+
+to --> 
+dialogue type : Assess
+C : The pr the problem with the okay button in the middle is ,
+
+to --> 
+dialogue type : Assess
+C : sorry , uh is uh if you're pressing up and down , you can easily press the okay once you , when you're not already at your choice .
+
+to --> 
+dialogue type : Suggest
+B : So maybe make one uh one okay button and and one navigation button .
+
+to --> ,A
+dialogue type : Inform
+A : yh we have lunch break ,
+to --> ,A
+dialogue type : Inform
+A : and then we can work for thirty minutes ,
+to --> 
+dialogue type : Offer
+A : and I have to write very fast to make the minich min minutes .
+
+to --> 
+dialogue type : Elicit-Inform
+B : But do we have to write uh to write down uh the our stuff now ? Or first lunchbreak ?
+
+to --> 
+dialogue type : Inform
+A : No I th believe there's first lunch break .
+
+to --> 
+dialogue type : Suggest
+A : I think you can put uh the laptop back in the room and
+
+to --> 
+dialogue type : Assess
+D : Yeah okay . So on the on the top is better .
+
+to --> 
+dialogue type : Assess
+A : Depends on the sensitivity of the microphone , but I think that's okay .
+

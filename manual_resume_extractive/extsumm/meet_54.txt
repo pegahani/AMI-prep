@@ -1,0 +1,537 @@
+to --> 
+dialogue type : Inform
+C : mailed you the minutes of the last meeting uh just to save time .
+
+to --> 
+dialogue type : Offer
+B : Uh in this meeting I I'm going to discuss about the trend watching ,
+
+to --> 
+dialogue type : Inform
+B : We have done a rec not only a recent remote control market survey , but we also considered the latest fre fashion trends of the market ,
+
+to --> 
+dialogue type : Inform
+B : when we did our remote control market survey we found that uh people l uh people do have preference for tho fancy mobi uh f remote controls which look and feel very good ,
+to --> 
+dialogue type : Inform
+B : rather than having a functional look and feel uh good .
+
+to --> 
+dialogue type : Inform
+B : The second most important aspect is that remote control should be a technologically uh innovative .
+
+to --> 
+dialogue type : Inform
+B : And the third most important aspect in the ta to take into consideration is that it should be easy to use ,
+
+to --> 
+dialogue type : Suggest
+B : and customers should be provided with manuals that is easy to understand in their local language , something .
+
+to --> 
+dialogue type : Fragment
+B : When we did uh f fashions uh , recent fashion uh our recent fashion update shows that
+
+to --> 
+dialogue type : Inform
+B : because uh d you can see how people have related their clothes , shoes , and everything with fruits and vegetables ,
+
+to --> 
+dialogue type : Inform
+B : the f feel of the material is expected to be spongy rather than just having a plastic look , hard look .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Do you think like rubber would be good or does it really want to be like gel kind of stuff ?
+
+to --> 
+dialogue type : Suggest
+B : The rubber which is good for health and which is quite disposable that we can take into co
+
+to --> 
+dialogue type : Inform
+D : okay , so the interface concept um .
+
+to --> 
+dialogue type : Inform
+D : Um so the method , we looked at existing designs ,
+
+to --> 
+dialogue type : Inform
+D : Okay , so most remote controls use graphical interface ,
+
+to --> 
+dialogue type : Inform
+D : Um and we also found that there's inconsistent layout , which makes it confusing .
+
+to --> 
+dialogue type : Inform
+D : but I think standard kind of um shape and uh play and those kind of but buttons
+
+to --> 
+dialogue type : Offer
+D : And we've got some pictures of some uh new remote controls to show you .
+
+to --> 
+dialogue type : Inform
+D : There's um an L_C_D_ thing ,
+
+to --> 
+dialogue type : Assess
+D : I thought could get a bit confusing and a bit expensive as well for us .
+to --> 
+dialogue type : Inform
+D : This one is got a kind of scroll like a mouse ,
+
+to --> 
+dialogue type : Inform
+D : Um and But I'm not exactly sure how you'd use that ,
+
+to --> 
+dialogue type : Inform
+D : But the one below that has got like a little scroll function on the side .
+to --> 
+dialogue type : Inform
+D : But I presume that the functions must come up on the T_V_ screen .
+
+to --> 
+dialogue type : Assess
+D : Again that's just quite boring shape , grey ,
+to --> 
+dialogue type : Assess
+D : looks quite space-agey , but too many buttons , I think on that one .
+to --> 
+dialogue type : Assess
+D : Um this one I thought was really cool .
+to --> 
+dialogue type : Inform
+D : It's w it's got the programmability function that we talked about .
+
+to --> 
+dialogue type : Inform
+D : and it's quite an organic shape
+
+to --> 
+dialogue type : Assess
+C : Yeah , I m I mean the one thing I think about about these ones is um these kl uh secured areas um , I've seen a lot of them with the the cover missing .
+to --> 
+dialogue type : Suggest
+C : So like have it hinge rather than sort of clip on or whatever .
+
+to --> 
+dialogue type : Inform
+D : And this one , the over-sized one ,
+to --> 
+dialogue type : Assess
+D : I don't know about you , but I think it's a bit too gimmicky .
+
+to --> 
+dialogue type : Assess
+D : I like some of these things um the the raised symbols and everything ,
+
+to --> 
+dialogue type : Inform
+D : and I've just got an e-mail from our technical department saying that they have broken through with some new speech recognition software that you can program in .
+
+to --> 
+dialogue type : Suggest
+D : I think maybe incorporating that in our design would be good .
+
+to --> 
+dialogue type : Inform
+D : you program it like you say , record , um and then , play , and then , record , play machine , and stuff like that ,
+
+to --> 
+dialogue type : Assess
+D : the raised symbols I thought were good ,
+to --> 
+dialogue type : Assess
+D : the L_C_D_ , it does look smart , but I think maybe for our budget ,
+
+to --> 
+dialogue type : Inform
+D : 'cause I think we're definitely going for the speech recognition ,
+
+to --> 
+dialogue type : Inform
+B : But in our market survey we have seen that people are willing to pay more ,
+
+to --> 
+dialogue type : Assess
+C : It's still it's still got to get within our twelve fifty , you know .
+
+to --> 
+dialogue type : Assess
+D : I'm not sure if the if for twenty five Euros uh per uh twelve Euros fifty m manufacturing cost , .
+
+to --> 
+dialogue type : Assess
+C : Although , th I mean to be to be sure they have got I mean they are going crazy with the L_C_D_ technology now ,
+
+to --> 
+dialogue type : Assess
+D : And one of the survey findings was that they want it easy to use , so I think I'm not sure about the L_C_D_ .
+to --> 
+dialogue type : Assess
+D : It's a it's great , it's a good idea ,
+to --> 
+dialogue type : Assess
+D : but for our budget and for the thing we're trying to go for eas easy to use , it's not the thing we should go for , I think .
+
+to --> 
+dialogue type : Suggest
+D : we could make a vegetabley kind of round shape , I think .
+
+to --> 
+dialogue type : Assess
+C : Well , si since we're going for the uh the k the sort of company colours , I think your lemon wasn't that far s
+
+to --> 
+dialogue type : Assess
+C : I like I like the colourful buttons as well .
+
+to --> 
+dialogue type : Assess
+D : I like the d the different shapes of the buttons and stuff .
+
+to --> 
+dialogue type : Assess
+D : And the mouse one , I thought it was a good idea ,
+
+to --> 
+dialogue type : Assess
+D : Child-friendly , I thought this was good ,
+
+to --> 
+dialogue type : Inform
+A : I guess there are a lot of options that we're gonna have to choose from among ,
+to --> 
+dialogue type : Offer
+A : and I'll I'll give you the uh , I guess , technical considerations for those .
+to --> ,A
+dialogue type : Offer
+A : And I'm gonna use the whiteboard ,
+to --> ,A
+dialogue type : Inform
+A : just 'cause we haven't used it .
+
+to --> 
+dialogue type : Suggest
+A : the way I'm gonna do this is uh we're gonna take a look at some old remote controls , see how they work ,
+
+to --> 
+dialogue type : Suggest
+A : and then we'll throw in our new innovations um
+
+to --> 
+dialogue type : Inform
+A : Um you open it up , there's a circuit board inside ,
+
+to --> 
+dialogue type : Inform
+A : and there's a a chip , a processor ,
+to --> 
+dialogue type : Inform
+A : the T_A_ one one eight three five , which um receives input from the buttons ,
+
+to --> 
+dialogue type : Inform
+A : Um so that takes a signals from the buttons and translates it into a sequence of pulses that it then sends to the to the amplifier ,
+to --> 
+dialogue type : Inform
+A : which is made of some transistors and amplifiers , op-amps ,
+to --> 
+dialogue type : Inform
+A : and then that gets sent to the uh to the L_E_D_ light ,
+
+to --> 
+dialogue type : Inform
+A : Um . So you know , as we said , we got the outer casing ,
+to --> 
+dialogue type : Suggest
+A : which we have to decide , you know , what's it gonna be ,
+
+to --> 
+dialogue type : Inform
+A : processor , um we'll probably use the more advanced processor than they had ,
+
+to --> 
+dialogue type : Inform
+A : Um so for the casing , uh this an e-mail I got from our manufacturing team
+to --> 
+dialogue type : Inform
+A : uh , you know , we have a bunch of options from wood , titanium , rubber , plastic , whatnot ,
+to --> 
+dialogue type : Inform
+A : um latex , double-curved , curved .
+
+to --> 
+dialogue type : Assess
+C : Well , I mean like la latex has a kinda spongy feeling to it ,
+
+to --> 
+dialogue type : Assess
+C : And that would k also give it kinda durability
+
+to --> 
+dialogue type : Assess
+C : and ther that's also f sorta relatively cheap to cast .
+
+to --> 
+dialogue type : Suggest
+C : so maybe s uh a sort of uh plastic initial plastic with a a latex kinda sheath ?
+
+to --> 
+dialogue type : Assess
+D : I like the rubber , the stress balls , I think ,
+
+to --> 
+dialogue type : Inform
+D : w like , 'cause there's gonna be the the cover the the rubber or the plastic casing and then the buttons in probably two different colours
+
+to --> 
+dialogue type : Assess
+A : So multi-coloured buttons .
+
+to --> 
+dialogue type : Suggest
+C : or yeah a limit uh maybe even just a limited multi-colour so it it doesn't look too childish , perhaps .
+
+to --> 
+dialogue type : Assess
+C : Although I mean this uh uh also comes to shape as well .
+
+to --> 
+dialogue type : Assess
+C : I mean double-curved sounds good to me if we're talking about sorta ergonomic and easy use ,
+
+to --> 
+dialogue type : Suggest
+D : Like uh an hour glass kind of figure ,
+
+to --> 
+dialogue type : Suggest
+A : Okay , like we could have a big banana shaped remote control ,
+
+to --> 
+dialogue type : Assess
+C : Mm and a lemon might be a little hard to grip . Yeah .
+
+to --> 
+dialogue type : Elicit-Inform
+D : How would you point it ?
+
+to --> 
+dialogue type : Suggest
+A : We could have a little L_E_D_s on each end .
+
+to --> 
+dialogue type : Assess
+D : y I'm I'm not sure about the banana idea .
+
+to --> 
+dialogue type : Assess
+C : it does seem a bit uh again childish maybe .
+
+to --> 
+dialogue type : Suggest
+D : I think maybe just draw on the kind of fruit and vegetable shape .
+
+to --> 
+dialogue type : Suggest
+A : So maybe an an unidentifiable fruit or fiable fruit or vegetable
+
+to --> 
+dialogue type : Elicit-Inform
+A : Like a gourd almost , or a squash of some sort ?
+
+to --> 
+dialogue type : Suggest
+C : you don't necessarily have to have it sort of clearly identified as a fruit just to have that kind of fruitish shape ,
+
+to --> 
+dialogue type : Suggest
+B : Or we can do something , we can design two three shapes and we can have a public survey , let the public choose what they want .
+
+to --> 
+dialogue type : Assess
+C : There's a good man . There's a good idea .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Yeah , what about the scroll wheel and speech recognition ?
+
+to --> 
+dialogue type : Offer
+A : uh I could put the microphone here .
+
+to --> 
+dialogue type : Suggest
+A : Okay , well we can do some user test with scroll-wheels , right ?
+
+to --> 
+dialogue type : Assess
+C : Uh speech recognition , I think ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : So should the microphone be just anywhere on it or
+
+to --> 
+dialogue type : Elicit-Assessment
+D : What about the glow-in-the-dark thing , the strip around it ?
+
+to --> 
+dialogue type : Elicit-Inform
+C : I mean how good is the speech recognition thing ?
+
+to --> 
+dialogue type : Suggest
+C : do we want to just have a device that maybe sits and pretends it's a fruit ?
+
+to --> 
+dialogue type : Suggest
+C : l like think of a fruit that could sit sort of independently on its own like uh , I dunno , an apple .
+
+to --> 
+dialogue type : Inform
+A : But yeah , about the speech thing , it doesn't have to be hand held or close .
+
+to --> 
+dialogue type : Suggest
+B : we can just have a remote control and casings of different different shapes ,
+to --> 
+dialogue type : Suggest
+B : different fruit shapes in such a way that a any casing can be could be fit into this mobile general piece .
+
+to --> 
+dialogue type : Inform
+B : button will be on the upper side , buttons will be the on the upper side .
+
+to --> 
+dialogue type : Inform
+B : So in that way we need not to d have different different shape mobiles everything , we will just design casings fruit shape .
+
+to --> 
+dialogue type : Inform
+A : s I guess we decided on material ,
+
+to --> 
+dialogue type : Inform
+A : So that that spongy latex rubber everything feel ,
+
+to --> 
+dialogue type : Assess
+D : Well , I I'm not sure if we should go so far in the whole fruit thing ,
+
+to --> 
+dialogue type : Assess
+D : and I think maybe fruit could be a bit of a too much of a gimmick ,
+to --> 
+dialogue type : Suggest
+D : but something ergonomically shaped and organic , like good to hold , based on fruits and natural things like that ,
+to --> 
+dialogue type : Assess
+D : because al already we're going a bit gaudy with the yellow , you know .
+
+to --> 
+dialogue type : Suggest
+C : So again I mean like we could have , uh I mean , we could quite easily have the the main body be a different
+
+to --> 
+dialogue type : Inform
+C : I mean not necessarily that the um the whole body has to be of the company colour ,
+
+to --> 
+dialogue type : Suggest
+C : So you have the main body blue with the yellow logo and slogan running up one side of it kind of thing .
+
+to --> 
+dialogue type : Inform
+A : Um as for the energy source um , you know , almost every remote control uses just batteries ,
+
+to --> 
+dialogue type : Inform
+A : We can use a hand-dynamo .
+
+to --> 
+dialogue type : Assess
+A : So , this might be an idea for something that people really wanna grab , you can shake it if it's out of power .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : But but do you think that it will be a good idea to use dynamo , tha these type of cells ?
+
+to --> 
+dialogue type : Inform
+C : It does leave them with an obligation to
+
+to --> 
+dialogue type : Inform
+A : Uh there's solar power . Um .
+
+to --> 
+dialogue type : Assess
+B : Uh , solar power will w also not be a good idea ,
+
+to --> 
+dialogue type : Suggest
+B : I think we should a rechargeable battery will be a good idea .
+
+to --> 
+dialogue type : Suggest
+C : so that not only it doubles as a stand , but um for using it as uh recharging it , but also for using it as sound recognition .
+
+to --> 
+dialogue type : Suggest
+C : having a rechargeable stand ,
+
+to --> 
+dialogue type : Inform
+C : and if we if we're just having buttons and the speech then we're getting our cheapest option of chipping .
+
+to --> 
+dialogue type : Inform
+C : I just dele I just accidentally deleted what I was supposed to say next .
+
+to --> 
+dialogue type : Suggest
+C : and what I would like you guys to do is work on giving me a model in clay .
+
+to --> ,C
+dialogue type : Inform
+C : uh our next meeting's in half an hour
+
+to --> 
+dialogue type : Inform
+C : Um and further instructions will be sent by your personal coaches .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Okay . Save everything to the shared documents , is that right ?
+
+to --> 
+dialogue type : Suggest
+B : You have to keep your pen separate , because I used your pen .
+
+to --> 
+dialogue type : Elicit-Inform
+C : I wonder if they mean like literally make it , sort of buttons and everything .
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : Or we are going to discuss something ?
+
+to --> ,C
+dialogue type : Inform
+C : Uh no , I think that's us our discussion over
+
+to --> 
+dialogue type : Inform
+C : Um uh we'll probably get questionnaire in a minute ,
+
+to --> 
+dialogue type : Inform
+C : There we go . Warning , finish meeting now .
+

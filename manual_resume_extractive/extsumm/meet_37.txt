@@ -1,0 +1,169 @@
+to --> ,A
+dialogue type : Suggest
+A : Uh I think the first thing we do is introduce ourselves
+to --> 
+dialogue type : Suggest
+A : and everybody's name and what your function is ?
+
+to --> 
+dialogue type : Inform
+B : Yeah , my name is Francina .
+to --> 
+dialogue type : Inform
+B : And I'm uh an user interface
+
+to --> 
+dialogue type : Inform
+D : And I'm a marketing person .
+
+to --> 
+dialogue type : Inform
+D : My name is Eileen .
+
+to --> 
+dialogue type : Inform
+C : Yeah . Uh I'm Jeanne-Oui .
+to --> 
+dialogue type : Inform
+C : Um uh my role is industrial designer
+
+to --> 
+dialogue type : Inform
+A : And as you already know I am Betty .
+to --> 
+dialogue type : Inform
+A : I am the project manager for today .
+
+to --> 
+dialogue type : Inform
+A : This thing we are gonna um uh design is a new remote control .
+to --> 
+dialogue type : Inform
+A : Uh should be original , trendy , and , of course , user friendly .
+
+to --> 
+dialogue type : Inform
+A : That is it's gonna be individual work and then at the meeting we'll discuss what uh we have come up with .
+
+to --> 
+dialogue type : Inform
+A : Here is what the functional design is supposed to achieve .
+
+to --> 
+dialogue type : Inform
+A : The same goes for the conceptual design ,
+
+to --> 
+dialogue type : Inform
+A : Detailed design , same thing basically .
+
+to --> 
+dialogue type : Inform
+A : Then , tool training try out the white board ,
+to --> 
+dialogue type : Inform
+A : participant can draw their favourite animal .
+
+to --> 
+dialogue type : Suggest
+A : You wanna go Eileen and
+
+to --> 
+dialogue type : Inform
+A : And remember you have to press so it works .
+
+to --> 
+dialogue type : Inform
+A : Here's the project finance
+to --> 
+dialogue type : Inform
+A : Um selling price is supposed to be twenty five Euro .
+to --> 
+dialogue type : Inform
+A : Uh profit aim for the company is fifty million Euro ,
+to --> 
+dialogue type : Inform
+A : the market range unlimited meaning international
+to --> 
+dialogue type : Inform
+A : and the production cost should not exceed hopefully should be less than twelve fifty Euro .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : now having used a remote control for years does anybody already have like an idea like things you didn't like with it , things you would like to change , things you would like to improve with this thing
+
+to --> 
+dialogue type : Suggest
+B : Yes , I I feel that all the remote should be very compact .
+
+to --> 
+dialogue type : Suggest
+B : And um and it should have multi-purpose .
+to --> 
+dialogue type : Suggest
+B : Like uh the remote control which we use for T_V_ , it shou uh it should be used f uh for some other purpose also , like controlling the uh temperature inside the house or for air-conditioners , or for heating system .
+
+to --> 
+dialogue type : Inform
+D : At um twelve fifty Euros per
+to --> 
+dialogue type : Assess
+D : Well who knows if we get a really good designer maybe we can do that .
+
+to --> 
+dialogue type : Assess
+A : It should be something new it should be s it it should do something different than than just what we have .
+
+to --> 
+dialogue type : Suggest
+B : Yeah , design should be , yeah it should be different .
+
+to --> 
+dialogue type : Suggest
+A : Maybe it should different colours or materials or you know .
+
+to --> 
+dialogue type : Suggest
+D : I think another thing that would help is um if it beeps when you clap ,
+
+to --> 
+dialogue type : Suggest
+A : Well or yeah or if it's really , if it's really in a dark spot that it gives out a a sound or a signal .
+
+to --> 
+dialogue type : Suggest
+C : maybe it should have a light so that we can , we can just recognise where it is .
+
+to --> 
+dialogue type : Assess
+A : and I I think uh voice or clapping it's not specific enough .
+
+to --> 
+dialogue type : Inform
+A : The industrial designer That's you .
+
+to --> 
+dialogue type : Inform
+C : Uh working design , yeah , it's it's uh mainly technical-functional design .
+
+to --> 
+dialogue type : Inform
+A : so so you are the working design .
+to --> 
+dialogue type : Inform
+A : So you have a working design and then a functional design .
+to --> 
+dialogue type : Inform
+A : And the marketing manager is coming up with some user requirement specification ,
+to --> 
+dialogue type : Inform
+A : like friendliness , and what we just discussed in general .
+
+to --> 
+dialogue type : Inform
+A : Then uh we see you in about thirty minutes .
+
+to --> 
+dialogue type : Inform
+A : I think basically basically you will get instructions to work with
+

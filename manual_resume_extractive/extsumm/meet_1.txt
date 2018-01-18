@@ -1,0 +1,407 @@
+to --> A,D,C,B
+dialogue type : Suggest
+B : we uh we will wait for Anna , a few minutes .
+
+to --> D,C
+dialogue type : Suggest
+C : I think you can put anywhere you want , actually .
+
+to --> D,C
+dialogue type : Inform
+C : It's not a directional mic , anyway .
+
+to --> A,D,C,B
+dialogue type : Offer
+B : So I will try to get my presentation running .
+
+to --> B,D
+dialogue type : Inform
+D : Can't help you with that .
+
+to --> A,D,B,C
+dialogue type : Suggest
+C : Alt F_ five .
+
+to --> D,B
+dialogue type : Inform
+B : Doesn't appear on the screen here .
+
+to --> A,C,B,D
+dialogue type : Inform
+D : It's working .
+
+to --> A,D,C
+dialogue type : Be-Positive
+B : Welcome at uh at the kick off meeting of our uh latest project .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : w we will try to structure this uh meeting with an a with an agenda uh as presented here .
+to --> A,D,C,B
+dialogue type : Inform
+B : Um after the opening we will tr get acquainted to each other .
+to --> A,D,C,B
+dialogue type : Inform
+B : See what our roles are in this project .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : We have been provided with uh some uh w technical tools to uh to communicate and to well , learn from each other's plans
+
+to --> A,D,C,B
+dialogue type : Inform
+B : w we will also try to uh to get acquainted to this tools
+
+to --> A,D,C,B
+dialogue type : Inform
+B : Um then we will come to the uh to the to the actual project plan .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : basically this is about a uh a new c remote control . Um
+
+to --> A,D,C,B
+dialogue type : Elicit-Inform
+B : You all know I hope how it's about uh the uh new r remote control we are going going to design .
+to --> A,D,C,B
+dialogue type : Inform
+B : Uh then we will uh discuss
+
+to --> A,D,C
+dialogue type : Elicit-Offer-Or-Suggestion
+B : and uh wh what uh what our new product should look lite like .
+
+to --> A,D,C
+dialogue type : Inform
+B : When you design a new product you of uh you of course want it to be original .
+
+to --> A,D,C
+dialogue type : Inform
+B : we want to be distinguished ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : So it needs to be trendy .
+
+to --> A,D,C
+dialogue type : Inform
+B : People uh want to uh when they look at the shelf want to think , well that's the product I I need .
+
+to --> A,D,C
+dialogue type : Suggest
+B : But then , uh , it also should work uh user friendly
+
+to --> A,D,C,B
+dialogue type : Inform
+B : the general outline of uh new project will be we first uh go through a functional design phase . Um
+to --> A,D,C,B
+dialogue type : Inform
+B : You all get uh um certain task uh in this uh in this phase
+to --> A,D,C,B
+dialogue type : Inform
+B : and uh then we will meet again
+to --> A,D,C,B
+dialogue type : Inform
+B : and uh discuss this functional design .
+to --> A,D,C,B
+dialogue type : Inform
+B : And the same holds for the uh ph two phases uh after this , the conceptual design and after that a a more detailed design
+to --> A,D,C,B
+dialogue type : Inform
+B : in which the the final project should get its definite shape .
+
+to --> A,D,C
+dialogue type : Suggest
+B : but first we will do some uh tool training .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : and we have here a a a a white-board .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : I've read it from my uh from some colleague that it should work with some kind of toolbar .
+to --> A,D,C,B
+dialogue type : Inform
+B : I didn't find out yet how it work ,
+
+to --> B,D
+dialogue type : Inform
+D : Under documents in the shared folder .
+
+to --> D,B
+dialogue type : Inform
+B : I I I'm not fully updated about this shared folder uh .
+
+to --> A,C,B,D
+dialogue type : Inform
+D : I guess we'll have a shared folder uh with documents that we can share .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : now we will try out the white-board we have here .
+
+to --> A,C,B,D
+dialogue type : Suggest
+D : Each of us is going .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : I I'm not really sure how this works , but
+
+to --> A,C,B,D
+dialogue type : Offer
+D : shall I start ?
+
+to --> B,A
+dialogue type : Inform
+A : I think for us it's just like a normal whiteboard ,
+to --> B,A
+dialogue type : Inform
+A : but they'll be recording what we write down .
+
+to --> A,B
+dialogue type : Suggest
+B : Maybe maybe Anna , maybe you can start .
+
+to --> A,B
+dialogue type : Suggest
+B : Why don't you draw uh your favourite animal on on th on the white-board .
+
+to --> B
+dialogue type : Inform
+A : it's a dog .
+
+to --> D
+dialogue type : Inform
+C : It's a horse .
+
+to --> D
+dialogue type : Inform
+A : A blue and black zebra .
+
+to --> C
+dialogue type : Inform
+B : That's that's definitely a cat .
+
+to --> C
+dialogue type : Inform
+D : it's a shark ,
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : Let's continue to uh to the real stuff .
+to --> A,D,C
+dialogue type : Inform
+B : Um our project uh finance uh thing .
+to --> A,D,C
+dialogue type : Inform
+B : Uh when we are and when w you are uh going to design w uh we must keep in mind that the selling price of the product uh will be about twenty five Euros ,
+
+to --> A,D,C
+dialogue type : Inform
+B : more interesting for our company of course , p uh profit aim , about fifty million Euro .
+
+to --> A,D,C
+dialogue type : Inform
+B : to get at a international market
+
+to --> A,D,C
+dialogue type : Inform
+B : Um also important for you all is um the the product uh production cost must be maximal uh twelve uh twelve Euro and fifty cents .
+
+to --> A,D,B
+dialogue type : Inform
+C : They have to sell at least four million to make a profit
+
+to --> A,D,C
+dialogue type : Inform
+B : I think w when we are working on the international market , uh in principle it has enough customers
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : And uh now just let have some discussion about what is a good remote control
+to --> A,D,C
+dialogue type : Inform
+B : and uh well keep in mind this this first point , it has to be original ,
+to --> A,D,C
+dialogue type : Inform
+B : it has to be trendy ,
+to --> A,D,C
+dialogue type : Inform
+B : it has to be user friendly .
+to --> A,D,C
+dialogue type : Elicit-Offer-Or-Suggestion
+B : Um , maybe someone can mention some additional uh prerequisites for a good remote control .
+
+to --> A,D,B
+dialogue type : Suggest
+C : Of course it should have a on off button .
+
+to --> A,D,C
+dialogue type : Suggest
+B : i it should have the the the the expected functionality uh of a remote control .
+
+to --> A,D,B
+dialogue type : Inform
+C : We are targ targeting the television set .
+
+to --> A,D,B
+dialogue type : Suggest
+C : You need to browse the browse the channels in upward downward way ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : you need to record the channels .
+
+to --> 
+dialogue type : Fragment
+D : And uh just before starting the detailed discussion , maybe we
+to --> C,D
+dialogue type : Elicit-Inform
+D : are the marketing guy ? Or
+
+to --> D,A
+dialogue type : Inform
+A : I'm marketing .
+
+to --> C,D
+dialogue type : Inform
+D : And you are in the u use user interface uh design .
+
+to --> A,C,B,D
+dialogue type : Inform
+D : And I I'm the the industrial designer
+
+to --> D,C
+dialogue type : Inform
+C : I'm Matthew . You know .
+
+to --> C,D
+dialogue type : Inform
+D : Mael .
+
+to --> D,A
+dialogue type : Inform
+A : Anna .
+
+to --> C,B
+dialogue type : Inform
+B : A and I'm Nanne .
+
+to --> A,D,C
+dialogue type : Elicit-Inform
+B : Are there some other very important things to to do well ,
+
+to --> C
+dialogue type : Inform
+B : the browse function , as you m mentioned .
+
+to --> A,D,B
+dialogue type : Suggest
+C : And uh , you'd need the usual ones , like the changing the volume , changing the the channel
+
+to --> A,D,B
+dialogue type : Inform
+C : Today we have uh um teletext and all those things .
+to --> A,D,B
+dialogue type : Inform
+C : Tomorrow you might have a some more functions
+
+to --> A,D,B
+dialogue type : Inform
+C : For example personal video recorder and all those stuffs are coming up .
+
+to --> C
+dialogue type : Assess
+A : But we can't really design for something that hasn't been invented yet .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : Uh w y you two should should , I think , think this over uh w espec what , what functionality .
+
+to --> A,C,B,D
+dialogue type : Suggest
+D : thinking about the functionalities , we need to know what are the user requirements .
+
+to --> 
+dialogue type : Fragment
+D : and first before um designing the func
+
+to --> D,C,B
+dialogue type : Inform
+A : But Ninety percent of the time , ninety nine percent of the time , people will be using the main functions , the volume , the different channels ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : we can have all the fancy things as well
+to --> D,C,B
+dialogue type : Suggest
+A : but the main controls need to be very obvious and very easy to use .
+
+to --> A,D,C
+dialogue type : Inform
+B : Mm mm mm . Keep k keep in mind i it's a it's a twenty five Euro unit ,
+to --> A,D,C
+dialogue type : Suggest
+B : so uh uh the the very fancy stuff uh w we can leave that out , I think .
+
+to --> A,D,C
+dialogue type : Inform
+B : twenty five Euro you expect a quite , well normal but good functioning user friendly remote control .
+
+to --> A,D,B
+dialogue type : Suggest
+C : So we need some numbering buttons , some teletext things
+
+to --> C
+dialogue type : Inform
+D : the main is browsing . Yeah .
+
+to --> C,B
+dialogue type : Suggest
+B : but but but ab about the spec the buttons , the buttons uh that will be on it . I I think we can discuss that in the in the next meeting .
+to --> A,D,C,B
+dialogue type : Offer
+B : Uh I would like to get this wrapped up
+
+to --> A,D,C,B
+dialogue type : Inform
+B : you know now the basic the basic things .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : just just for the next meeting , um
+to --> A,D,C,B
+dialogue type : Suggest
+B : well , uh , you wor yes , work on a design ,
+
+to --> A,D,C,B
+dialogue type : Inform
+B : I mean so w we will be still fle flexible with maybe adding some functions .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : Um you will be working on on technical function design , so
+to --> A,B
+dialogue type : Suggest
+B : And uh you and you and uh uh uh well , think about requirements ,
+
+to --> A
+dialogue type : Elicit-Assessment
+B : Does it need internet ,
+to --> A
+dialogue type : Elicit-Assessment
+B : or or do do we stay at
+to --> A
+dialogue type : Elicit-Assessment
+B : basic basic television uh interface .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : and uh you will be informed via email and other kind of communication .
+
+to --> A,D,C
+dialogue type : Inform
+B : next meeting will be in uh in thirty minutes uh .
+

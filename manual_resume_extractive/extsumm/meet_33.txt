@@ -1,0 +1,385 @@
+to --> D,C,B
+dialogue type : Be-Positive
+A : uh good morning everybody here .
+to --> D,C,B
+dialogue type : Offer
+A : And uh I want to introduce myself ,
+to --> D,C,B
+dialogue type : Inform
+A : uh my name is uh Shrida Daseri
+to --> D,C,B
+dialogue type : Inform
+A : and uh I'm a project manager for this new project which we are going to discuss now .
+to --> B
+dialogue type : Suggest
+A : So I want to introduce first of all uh the names and the colleagues here .
+
+to --> A,D,C
+dialogue type : Inform
+B : my name is Agnes
+to --> A,D,C
+dialogue type : Inform
+B : and I'm an user usability user interface designer .
+
+to --> A
+dialogue type : Inform
+D : My name is Ed
+to --> A
+dialogue type : Inform
+D : and I do accounting .
+
+to --> D
+dialogue type : Elicit-Inform
+C : Do you also do marketing ?
+
+to --> D
+dialogue type : Elicit-Inform
+A : So only accounting ?
+
+to --> A
+dialogue type : Inform
+C : And I'm Christine ,
+to --> A
+dialogue type : Inform
+C : and my role in this uh scenario is to be the industrial designer .
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : So who is uh marketing , nobody in the market
+
+to --> A
+dialogue type : Inform
+D : Marketing is uh , is me .
+
+to --> D,C,B
+dialogue type : Be-Positive
+A : So thanks for coming for the meeting first of all ,
+to --> D,C,B
+dialogue type : Inform
+A : and uh we have a long time , just twenty-five minutes to discuss about uh this project and the the project initiation .
+to --> D
+dialogue type : Suggest
+A : First of all I want to ask uh Mister Ed about your uh marketing plan and your product plan and uh
+
+to --> A
+dialogue type : Inform
+D : Well I think that we'll see that throughout the day in how we're going to put this together as a marketing to to market the product .
+to --> A
+dialogue type : Suggest
+D : We'll have to see on a through discussion on where we're gonna go from here and from with this .
+
+to --> D
+dialogue type : Elicit-Inform
+A : but uh do you already have like a functional design or a technical design or
+
+to --> A
+dialogue type : Inform
+D : Uh for the moment not yet .
+
+to --> D
+dialogue type : Elicit-Inform
+A : do you have some project plan , something with you or
+
+to --> A
+dialogue type : Inform
+D : this is like I said that we have to be discussed between all of us and we'll go from there .
+to --> 
+dialogue type : Inform
+D : We'll have to simply we'll have to work on it together .
+
+to --> D
+dialogue type : Elicit-Inform
+A : so uh by when you think you can uh give me some kind of uh project plan , okay ,
+
+to --> A
+dialogue type : Inform
+D : Certainly by the next meeting .
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : so there's any questions or uh first of all about uh this project ?
+
+to --> A
+dialogue type : Elicit-Inform
+C : What is the goal of the project ?
+
+to --> D,C
+dialogue type : Suggest
+A : Uh the goal of the project I think maybe I'll uh hand out to the Ed , okay ,
+to --> D,C
+dialogue type : Suggest
+A : so to explain uh what is the project because he's in the sales and the accounting .
+
+to --> D
+dialogue type : Suggest
+A : so can you explain uh what exactly the product is ?
+
+to --> A,C,B
+dialogue type : Inform
+D : From what I had in mind we're supposed to be marketing coffee ,
+
+to --> D,C,B
+dialogue type : Inform
+A : Oh I think uh , if I'm not wrong , we're making the remote control .
+
+to --> A,C,B
+dialogue type : Inform
+D : 'cause I had two different things .
+to --> A,C,B
+dialogue type : Inform
+D : I had a first part of mine was to make a remote control for a new f remote control for television ,
+to --> A,C,B
+dialogue type : Inform
+D : and afterward I had a discussion about coffee so
+to --> A,C,B
+dialogue type : Suggest
+D : we'll start with the remote control for television then .
+to --> A,C,B
+dialogue type : Inform
+D : So we're have to design something that is very user friendly .
+to --> A,C,B
+dialogue type : Inform
+D : Something uh visual that has something that will will draw people to buy the product ,
+to --> A,C,B
+dialogue type : Inform
+D : because I think everybody's experienced with uh remote controls ,
+
+to --> A,C,B
+dialogue type : Inform
+D : we're have to come up with a new idea on how to make it a lot easier to use ,
+to --> A,C,B
+dialogue type : Inform
+D : 'cause a lot of times uh spend uh half a day through the instruction book trying to figure out how to use it .
+
+to --> C
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Christine , what about your uh the industrial design plan ?
+to --> C
+dialogue type : Elicit-Inform
+A : Are you have a design already on this product or uh you're still working on the design ?
+
+to --> A
+dialogue type : Inform
+C : Um no , I I have not begun working on the design ,
+
+to --> A,D,B
+dialogue type : Inform
+C : I actually didn't know we were designing a remote control ,
+
+to --> A,D,B
+dialogue type : Inform
+C : Um the website I went to look at had some announcements about an introduction of a um uh some sort of a seven inch um monitor ,
+to --> A,D,B
+dialogue type : Inform
+C : and um I understood that that was the project goal .
+
+to --> A,D,B
+dialogue type : Inform
+C : Um I just did s see that we were starting a new project together
+to --> A,D,B
+dialogue type : Inform
+C : and there was going to be a four member team composed of these people ,
+
+to --> C
+dialogue type : Elicit-Inform
+A : So uh you'll be leading the team for your design team or how many members is working in the team , for the design ?
+
+to --> A
+dialogue type : Inform
+C : Um well , I would th think that depends on how much money you give us .
+to --> A,D,B
+dialogue type : Inform
+C : Um because uh , you know , you can uh you can make it uh you have different choices with different financial models .
+
+to --> C
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Yeah , but uh before we talk about uh the finance , okay , uh do you have some idea how we can uh sell this product or project in the market
+to --> C
+dialogue type : Elicit-Offer-Or-Suggestion
+A : and how much is going to benefit to the company and uh of course it's to the individual also .
+
+to --> A,D,B
+dialogue type : Suggest
+C : I kind of think that in general you have to do uh um y you have to have something that's very fashionable , that's uh very attractive that um people see and recognize uh its goal , and uh they immediately wanna have it uh have one of their own .
+to --> 
+dialogue type : Fragment
+C : So it would really would need to um
+
+to --> A,D,B
+dialogue type : Inform
+C : you know , I don't care what it does , just so it looks cool .
+
+to --> C
+dialogue type : Elicit-Inform
+A : but uh uh when you think you can give me like a kind of design on the functional design or the technical design ?
+
+to --> A
+dialogue type : Inform
+C : Well , uh I've got a lot of other projects I'm doing right now um
+
+to --> A,D,B
+dialogue type : Inform
+C : If they uh go quickly then uh it could be a month .
+to --> A,D,B
+dialogue type : Inform
+C : If um if I run into any problems in my other projects it might be six months .
+
+to --> C
+dialogue type : Suggest
+A : so like uh what's your functional design , what's your technical design , and uh how many people you need for this project , and what's the time frame you're looking , okay , and what is the budget , maybe uh initial budget you're looking , okay , and uh how is going to the market , okay ,
+to --> C
+dialogue type : Suggest
+A : so you've you've had to meet with the marketing team and how they're going to market and what are the marketing strategic plan , okay ,
+to --> C
+dialogue type : Suggest
+A : when are you going to introduce , okay , and by the time you introduce the product and uh you know there there would be a competition ,
+to --> C
+dialogue type : Inform
+A : okay , so I need some kind of uh uh the plan in the writing from you .
+
+to --> C
+dialogue type : Inform
+A : because I need to go to the management and uh tell them what we are going to do , and uh what cost is , okay , and what's the time frame and what's the project plan ,
+to --> C
+dialogue type : Inform
+A : because uh without any uh documentations , I cannot go to the management and say , so we are going to do this and we need this much money ,
+
+to --> A
+dialogue type : Elicit-Inform
+C : Uh are there other people who will be contributing to the plan ?
+
+to --> C
+dialogue type : Suggest
+A : if you need some help , uh so let me know .
+to --> C
+dialogue type : Suggest
+A : So , who are the people you need uh from the marketing or uh the technical side or uh the administration point of view , okay , to add in any documentation , or some technical point of view ,
+
+to --> D
+dialogue type : Elicit-Assessment
+A : And uh Ed uh so what's what do you think about uh this uh project for the remote control
+to --> D
+dialogue type : Elicit-Inform
+A : and d do you have some already planned something for your marketing strategy or uh the sales strategy ?
+
+to --> A
+dialogue type : Inform
+D : Well not yet other than uh doing research and taking remote controls and looking what other companies have to do uh , what they're building , their designs , their ideas ,
+to --> A
+dialogue type : Inform
+D : uh also have to pinpoint which market we're gonna go into .
+to --> A
+dialogue type : Inform
+D : It should be a fairly large market because uh the number of people that uh the competition ,
+to --> A,C
+dialogue type : Assess
+D : uh th I agree it has to be something it has to be something new ,
+
+to --> A,C
+dialogue type : Inform
+D : Whether it works or not , they have to first say I like this , I like the design ,
+to --> A,C
+dialogue type : Inform
+D : and then it's gotta be simple to use .
+
+to --> D
+dialogue type : Suggest
+A : Yes , so what I uh prefer maybe uh you need to interact uh more with the Christine , okay ,
+to --> D
+dialogue type : Inform
+A : because you know what she is going to do it , okay ,
+
+to --> D
+dialogue type : Inform
+A : but you are the core because you are in the marketing , okay ,
+
+to --> D
+dialogue type : Suggest
+A : So , what I prefer , okay , so you need to interact with the Christine more and uh within her team , okay , who is using the functional design or technical design , okay ,
+to --> D
+dialogue type : Suggest
+A : and uh you need to come up with some kind of plan , okay , how we are going to do the your sales plan , okay ,
+
+to --> A
+dialogue type : Elicit-Inform
+D : Do we already have a cost limit on this , th an idea of how much uh we want to market this for , how much it's gonna sell for ,
+to --> A,C
+dialogue type : Elicit-Inform
+D : that's up that's up to us to decide , eh ?
+
+to --> D,C
+dialogue type : Inform
+A : Yes , that's you have to decide , okay ,
+to --> D
+dialogue type : Suggest
+A : so the best thing is you uh both of uh the Christine and you discuss with yourself , okay , and come up with the cost ,
+to --> D
+dialogue type : Suggest
+A : and how we are going to compete in the market , okay , in the the technically , or in the sales wise , okay , the commercial wise , okay .
+to --> D
+dialogue type : Inform
+A : Then uh we have to design , okay , how long it will take the whole project , okay , how much is going to cost us , and how much we are going to benefit for the company .
+
+to --> D,C
+dialogue type : Suggest
+A : Okay , so I think it's uh maybe if we can uh give me some kind of your uh the sales plan , okay , including the technical what uh she's going to talk to you within the team , okay , then it will help me to discuss with the management for further , okay , and put it in the the proper project plan .
+to --> D
+dialogue type : Inform
+A : Okay , and if you need uh any coordination in between uh compared to the maybe the some technical vendors or commercial vendors , okay , depends if you want to have some uh uh marketing plan or technical plan , okay , so you let me know .
+
+to --> B
+dialogue type : Elicit-Inform
+A : or maybe uh , you are my coordinator , am I right ?
+
+to --> A
+dialogue type : Inform
+B : I mean my job from what I understood was to look at the usability requirements and make sure that the product is usable , it's acceptable to the people who are gonna use it and look at the best ways to do that .
+to --> A,C
+dialogue type : Offer
+B : So I think I'll have to interact with Christine and discuss with her , so that she's not designing something that my studies will show right off the bat that it's not going to work ,
+
+to --> A,C
+dialogue type : Inform
+B : because depending on what users want , depends on how you sell it , what tag lines you attach to it , how you try to make it more attractive to users .
+to --> A,C
+dialogue type : Inform
+B : So I think all three groups will need to interact quite a bit .
+
+to --> B
+dialogue type : Suggest
+A : Okay and please please copy all the mails , okay , all the discussions to me , okay ,
+
+to --> A,C
+dialogue type : Offer
+B : Yeah , we can C_C_ him on any discussions or documents that are passed around .
+
+to --> B
+dialogue type : Inform
+A : But what I request , okay , keep Ed in the loop , okay , in between your uh meeting and Christine meeting , because uh he should know what's happening .
+
+to --> A
+dialogue type : Elicit-Inform
+B : So , the immediate next step is to start determining the functional design , or
+
+to --> C
+dialogue type : Inform
+A : To come up with the functional design and uh to discuss with Ed , okay , and how it's going to be work ,
+to --> B
+dialogue type : Inform
+A : and uh first of all with your user acceptance , okay , how it looks like and how it's going to be work in the market , okay ,
+to --> B
+dialogue type : Inform
+A : so then we can discuss about uh further things .
+
+to --> A
+dialogue type : Elicit-Offer-Or-Suggestion
+C : Would you mind um at the conclusion of our meeting could could you send us a copy of your slides ?
+
+to --> D,C,B
+dialogue type : Offer
+A : Yes , I will . Yes .
+
+to --> D,C,B
+dialogue type : Suggest
+A : And if anything you need anytime so please either you can call me , or just send me email , or uh just come and uh knock my door , okay ,
+

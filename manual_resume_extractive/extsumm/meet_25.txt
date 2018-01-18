@@ -1,0 +1,181 @@
+to --> 
+dialogue type : Inform
+A : We're here to have a kick-off meeting for the design of a f for the beginning of new project um uh remote control for the design for a new remote control .
+
+to --> ,A
+dialogue type : Inform
+A : and we speak about this tool we're going to design and try to make a project plan ,
+
+to --> 
+dialogue type : Inform
+A : Um I think the important points we have to t talk about are uh it's functional design , it's conceptual design , and desail detailed design .
+to --> 
+dialogue type : Inform
+A : and for that we're going um all to work individually and then have meeting during the whole day .
+to --> 
+dialogue type : Suggest
+A : Um , so let's try the whiteboard .
+to --> ,A
+dialogue type : Elicit-Offer-Or-Suggestion
+A : Um so any of you who want to go .
+
+to --> 
+dialogue type : Inform
+B : It's gonna be not my favourite one but the one I can draw .
+
+to --> 
+dialogue type : Suggest
+A : Let's talk about money .
+
+to --> 
+dialogue type : Inform
+D : So . Twenty five Euro for a remote control .
+
+to --> 
+dialogue type : Inform
+B : On the international market .
+
+to --> 
+dialogue type : Inform
+C : Yeah , we're to sell two million then .
+
+to --> 
+dialogue type : Inform
+A : Mm for a production cost of mm twelve fifty Euros maximum .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So any of you have experience in remote controls ?
+
+to --> 
+dialogue type : Assess
+A : So that could be a great um application .
+to --> 
+dialogue type : Inform
+A : Remote controls children proof .
+
+to --> 
+dialogue type : Suggest
+D : but mainly it has to be very robust
+
+to --> 
+dialogue type : Suggest
+D : colourful , maybe
+
+to --> 
+dialogue type : Assess
+A : No , that's a good idea .
+
+to --> 
+dialogue type : Suggest
+C : Yeah even we can change colours , no ?
+
+to --> 
+dialogue type : Assess
+C : like the phones and these things we c yeah .
+
+to --> 
+dialogue type : Suggest
+C : And it should be really small and .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Small also ?
+
+to --> 
+dialogue type : Suggest
+D : Should it be , y you know these uh remote controls where um they are what they call a universal ret remote control
+
+to --> 
+dialogue type : Assess
+C : at least it should hold in your hand n properly , like .
+
+to --> 
+dialogue type : Suggest
+C : Uh maybe we can change the colours that at least the frame .
+
+to --> 
+dialogue type : Inform
+D : I think one thing important for instance in this remote control if you remember when people use it they're they never find a good button in the right place .
+
+to --> 
+dialogue type : Assess
+B : no screens , it's too complex .
+
+to --> 
+dialogue type : Suggest
+A : Mm . So , some kind of idea uh with um um cellular phone with a a screen that will tell you what
+
+to --> 
+dialogue type : Assess
+D : Too expensive for twelve Euro ?
+
+to --> 
+dialogue type : Suggest
+C : Maybe I think even we can keep two switches and then we can uh only make one working .
+
+to --> 
+dialogue type : Inform
+C : and if I'm left-hander I use this switch to follow the main operations .
+
+to --> 
+dialogue type : Inform
+A : may need more than three mm three button , three mm possibilities , ye yeah .
+
+to --> 
+dialogue type : Inform
+B : But for standard actions you usually what do you do , you change channels , you adjust volume , and nothing else .
+
+to --> 
+dialogue type : Inform
+D : but for instance when you change channels you can have you can just go to the next one or go to channel twenty five .
+
+to --> 
+dialogue type : Inform
+C : But they keep generally their t slash slash uh this thing and then the dash dash and then you can put yeah , you can only have one bit .
+
+to --> 
+dialogue type : Inform
+D : And then back to the one I was before ,
+
+to --> 
+dialogue type : Assess
+A : yeah , that would be cool .
+
+to --> 
+dialogue type : Assess
+B : Go back button is good .
+
+to --> 
+dialogue type : Inform
+A : Um we're going to meet again in thirty minutes
+to --> 
+dialogue type : Inform
+A : and uh I want you to mm work on these ideas
+to --> 
+dialogue type : Suggest
+A : and try to make a uh the ones , make um to decide what what are the ones important and what are the one that we don't want .
+to --> 
+dialogue type : Suggest
+A : And um m maybe more in the technical parts what uh do we want to do .
+
+to --> 
+dialogue type : Inform
+A : So um your personal coach will send you some instruction for for this thirty minutes .
+
+to --> 
+dialogue type : Elicit-Inform
+D : So what does M_E_ means ?
+
+to --> 
+dialogue type : Inform
+B : Market Expert .
+
+to --> 
+dialogue type : Inform
+D : Uh that's me .
+
+to --> 
+dialogue type : Other
+D : the user requirement specifications ,
+

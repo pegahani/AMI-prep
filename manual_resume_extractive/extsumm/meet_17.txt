@@ -1,0 +1,157 @@
+to --> 
+dialogue type : Inform
+A : So , we're here today to to have our first kick-off meeting about uh this new project we're going to tak to talk about in a few minutes .
+to --> 
+dialogue type : Inform
+A : Um so I will be uh Sebastian the Project Manager .
+
+to --> 
+dialogue type : Inform
+B : I'm uh Michael . I'm the user interface designer .
+
+to --> 
+dialogue type : Inform
+D : Hi I'm Guillermo . I'm the Marketing Expert .
+
+to --> 
+dialogue type : Inform
+C : And I am Hemant , the industrial designer .
+
+to --> ,A
+dialogue type : Suggest
+A : Um so let's have a look to the the agenda .
+
+to --> 
+dialogue type : Inform
+A : uh and mainly first to uh to make to to be used to the tools uh available in this nice and smart meeting room we have here .
+to --> 
+dialogue type : Suggest
+A : Um then we'll go to uh the plans for project and have general discussions about it .
+to --> 
+dialogue type : Inform
+A : So , the goal of this project is to uh developed a new remote control .
+to --> 
+dialogue type : Inform
+A : Um it should be original , trendy , and also user friendly .
+to --> 
+dialogue type : Suggest
+A : As usual we will follow the the project method um that we are using in the in our company .
+to --> 
+dialogue type : Inform
+A : It is in three step as you know .
+to --> 
+dialogue type : Inform
+A : First the functional design .
+to --> 
+dialogue type : Inform
+A : The second's a conceptual design ,
+to --> 
+dialogue type : Inform
+A : and then the detailed design .
+to --> 
+dialogue type : Suggest
+A : During each step uh of each design we wi you will work uh s separately , individually on uh your specific tasks
+to --> 
+dialogue type : Suggest
+A : and will m we will meet to um to discuss and take decisions about uh what you've you've you did and what uh we will do next .
+
+to --> 
+dialogue type : Suggest
+A : so uh we are going to go through the white board and take some um s some notes or do some drawings .
+
+to --> 
+dialogue type : Inform
+B : Okay so , want me to draw my favourite animal .
+
+to --> 
+dialogue type : Inform
+B : Well , I don't really have a favourite animal , but um
+
+to --> 
+dialogue type : Offer
+B : I'm gonna about the uh spider
+
+to --> 
+dialogue type : Inform
+D : I dunno why , but when I was a child I I wanted to be a a panther
+
+to --> 
+dialogue type : Offer
+C : So , not the favourite animal , but I think I'll draw elephant .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Do we have some message there ?
+
+to --> 
+dialogue type : Inform
+A : I have to catch you ,
+
+to --> 
+dialogue type : Suggest
+A : We have to to go through the meeting .
+
+to --> 
+dialogue type : Suggest
+B : We can discuss that off-line .
+
+to --> 
+dialogue type : Inform
+A : so another important part of the project is about money ,
+
+to --> 
+dialogue type : Suggest
+A : So we should target selling price of twenty-five Euro for this remote control
+
+to --> 
+dialogue type : Inform
+A : which which would generate a profit of of um fifty million Euros , okay .
+to --> 
+dialogue type : Suggest
+A : And we should target the inter an international market .
+
+to --> 
+dialogue type : Elicit-Inform
+B : is this a stand-alone unit that we're gonna be selling ?
+
+to --> 
+dialogue type : Suggest
+A : So um we should decide which kind of remote control we want to uh we want to uh we want to go .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : should it be um specific remote control to some specific device ?
+to --> 
+dialogue type : Elicit-Assessment
+A : Should it be a universal one ?
+
+to --> 
+dialogue type : Inform
+B : so , it seems the the first thing that they've kinda specified is the price like based on how much profit we wanna make ,
+
+to --> 
+dialogue type : Suggest
+B : but I guess if that's if that's the requirement that we need to to design the the product to actually fit that that price bracket
+
+to --> 
+dialogue type : Suggest
+A : So it should be the topic of maybe of the next meeting just to to have an overview of this and uh in which direction we should go .
+
+to --> ,A
+dialogue type : Suggest
+A : So we need to close the meeting .
+
+to --> 
+dialogue type : Inform
+A : So um you have to work on the on the working design ,
+to --> 
+dialogue type : Inform
+A : you have to uh work on the technical functions ,
+to --> 
+dialogue type : Inform
+A : and uh you have to work on us user requirements specs ,
+
+to --> 
+dialogue type : Inform
+A : Um you will receive some information by emails , i as usual .
+

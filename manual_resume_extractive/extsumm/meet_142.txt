@@ -1,0 +1,675 @@
+to --> 
+dialogue type : Offer
+B : let's uh talk about the interface uh concept .
+to --> 
+dialogue type : Offer
+B : Uh , first I'll uh I'll uh discuss the buttons we just chose ,
+to --> 
+dialogue type : Offer
+B : uh show you some samples , uh
+to --> 
+dialogue type : Offer
+B : uh discuss some colours and design maybe , already .
+to --> 
+dialogue type : Offer
+B : And uh my personal preferences .
+to --> 
+dialogue type : Inform
+B : Well we chose the power button to switch the television on and off .
+
+to --> 
+dialogue type : Inform
+B : the mute button to switch the volume on and o on and off .
+to --> 
+dialogue type : Inform
+B : The channels buttons , one to nine ,
+
+to --> 
+dialogue type : Inform
+B : zero to nine ,
+to --> 
+dialogue type : Inform
+B : and the uh button to choose uh higher channels than nine .
+to --> 
+dialogue type : Inform
+B : Uh the volume and channel quadrants ,
+to --> 
+dialogue type : Inform
+B : uh left and right , up and down arrows , to uh do the volume and channel .
+to --> 
+dialogue type : Inform
+B : And the menu menu button to man manipulate the L_C_D_ uh display .
+to --> 
+dialogue type : Inform
+B : Um , I found some uh interesting uh uh samples . Examples .
+to --> 
+dialogue type : Inform
+B : Um , well uh what's pretty standard is uh that it's that they're all pretty uh uh high uh
+
+to --> 
+dialogue type : Inform
+D : Large .
+to --> 
+dialogue type : Inform
+D : A lot a lot of buttons buttons .
+
+to --> 
+dialogue type : Inform
+B : Large and and and pretty thin and uh and long .
+to --> 
+dialogue type : Inform
+B : Um , power buttons are mostly at the top
+to --> 
+dialogue type : Inform
+B : uh left or right .
+
+to --> 
+dialogue type : Inform
+B : Yeah , well arrow b buttons can be blue .
+to --> 
+dialogue type : Inform
+B : And what's interesting is the the the icons on the buttons .
+to --> 
+dialogue type : Inform
+B : Some buttons have icons like the play and stop ,
+to --> 
+dialogue type : Inform
+B : but we don't use that .
+to --> 
+dialogue type : Inform
+B : But uh , these we we have to choose the right icons , or or letters .
+to --> 
+dialogue type : Inform
+B : Uh this is the V_ for volume , but they're both uh a V_ .
+to --> 
+dialogue type : Inform
+B : So it's it's not really very uh clear what's the function of that .
+
+to --> 
+dialogue type : Elicit-Inform
+A : For the uh menu , what do we use for that ?
+to --> 
+dialogue type : Inform
+A : We don't have buttons for the menu .
+to --> 
+dialogue type : Inform
+A : Or we may have to use channel of the volume and channel .
+
+to --> 
+dialogue type : Inform
+B : I thought that was our uh idea .
+
+to --> 
+dialogue type : Assess
+B : And that the menu button is okay .
+
+to --> 
+dialogue type : Assess
+A : Yeah but , has to be clear that you can use the arrows .
+
+to --> 
+dialogue type : Elicit-Inform
+B : The icons on the arrows , as well , you mean .
+
+to --> ,B
+dialogue type : Inform
+B : Um , well I don't I don't know if we have to discuss this already , or in the next uh meeting .
+to --> 
+dialogue type : Suggest
+B : But uh , as we have to uh to to design the the case and the whole uh remote control in our uh our our corporate uh company uh uh colours and the logo , I would uh recommend a yellow case .
+to --> 
+dialogue type : Suggest
+B : Uh , round edges .
+to --> 
+dialogue type : Suggest
+B : The logo at the bottom .
+to --> 
+dialogue type : Suggest
+B : And uh , well maybe each each uh set of buttons uh has uh has his own colour .
+
+to --> 
+dialogue type : Inform
+B : Uh , recognisable .
+
+to --> 
+dialogue type : Assess
+A : Not too much colours .
+
+to --> 
+dialogue type : Assess
+B : Uh , no . Not too much .
+
+to --> 
+dialogue type : Inform
+B : But this has to be has to be trendy
+
+to --> 
+dialogue type : Suggest
+B : Uh , yeah so good uh good icons on the buttons , and uh and big buttons is my uh personal uh opinion .
+
+to --> ,C
+dialogue type : Offer
+C : Uh , at first we will uh I will f uh say something about what younger people want ,
+to --> 
+dialogue type : Inform
+C : our uh group w uh w uh we want to uh sell our remote controls to .
+to --> ,C
+dialogue type : Offer
+C : And then , I'll discuss what my opinion is about the costs , about uh what battery is in it , what kind of buttons also .
+to --> 
+dialogue type : Inform
+C : First uh , the younger people , they want like soft mat uh materials and primary colours .
+to --> 
+dialogue type : Inform
+C : Like , totally yellow , totally red .
+
+to --> 
+dialogue type : Inform
+C : Uh , the shapes are curved and round ,
+
+to --> 
+dialogue type : Suggest
+C : Maybe it's nice to uh get a remote control not like all the other ones , straight and uh flat and long .
+to --> 
+dialogue type : Suggest
+C : But to give him the shape of your hand , so you it's easier to use or something like that .
+
+to --> 
+dialogue type : Inform
+C : The battery , there are few options .
+to --> 
+dialogue type : Suggest
+C : Uh , I think the best option is to use uh the basic battery .
+
+to --> 
+dialogue type : Suggest
+C : Uh , the the form of the remote control , I think it's also nice have it curved .
+to --> 
+dialogue type : Suggest
+C : And maybe like it's hand-shaped .
+
+to --> 
+dialogue type : Suggest
+C : Uh material , you use plastic . Hard plastic
+
+to --> 
+dialogue type : Suggest
+C : And also rubber
+
+to --> 
+dialogue type : Inform
+C : Uh the push-buttons .
+to --> 
+dialogue type : Inform
+C : We have one new thing uh discovered .
+to --> 
+dialogue type : Inform
+C : It's a scroll push uh thing like a mouse .
+to --> 
+dialogue type : Inform
+C : Maybe it's uh easy to use uh for the channels .
+to --> 
+dialogue type : Inform
+C : When you want to go m move up , you just scroll up
+to --> 
+dialogue type : Inform
+C : and click on the button , if you wanna see the next , uh if you wanna see that channel .
+
+to --> 
+dialogue type : Inform
+C : You can do it with your thumb .
+to --> 
+dialogue type : Inform
+C : And with your l left hand you can uh push the buttons
+
+to --> 
+dialogue type : Inform
+C : The electrics um with a scroll push uh button , we must use regular uh chips .
+to --> 
+dialogue type : Inform
+C : There are also uh simple chips .
+to --> 
+dialogue type : Inform
+C : They are uh cheaper .
+to --> 
+dialogue type : Inform
+C : Um , but then we have just a basic uh uh remote control ,
+
+to --> 
+dialogue type : Inform
+C : And you have also advanced um chips .
+to --> 
+dialogue type : Inform
+C : But that's with the L_C_D_ uh screen .
+
+to --> 
+dialogue type : Inform
+C : And I think our budget is too low to use and an L_C_D_ ,
+
+to --> 
+dialogue type : Suggest
+C : And maybe it's also then uh thoughtful if we u uh use uh as um different kind of uh shapes for the for remote control ,
+to --> 
+dialogue type : Suggest
+C : that we then use the primary colours .
+
+to --> 
+dialogue type : Elicit-Inform
+D : This is with an L_C_D_ ? No ,
+
+to --> 
+dialogue type : Assess
+A : But then it's not easy to use scroll uh wheel .
+
+to --> 
+dialogue type : Suggest
+C : And I think we must look further to uh to devel d develop something news .
+
+to --> 
+dialogue type : Inform
+C : but then we'll get to the regular uh remote controls .
+to --> 
+dialogue type : Inform
+C : And I think , what I said , everybody has them uh has them already .
+
+to --> 
+dialogue type : Inform
+C : I got it on my screen and it was uh higher .
+
+to --> 
+dialogue type : Assess
+D : And that might uh bring back the costs uh
+
+to --> ,C
+dialogue type : Suggest
+C : I think we must discuss who uh what will be better . If we have a better shape of the um remote control , or better options on it .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : With a scroll menu , a w scroll thing , and a L_C_D_ . And then a flat um remote control .
+to --> 
+dialogue type : Elicit-Assessment
+C : Or , a more hand-shaped remote control , with scroll , without L_C_D_ .
+
+to --> 
+dialogue type : Suggest
+A : Maybe you can look how how much it is for the L_C_D_ .
+
+to --> 
+dialogue type : Inform
+C : Not with an L_C_D_ .
+
+to --> 
+dialogue type : Assess
+A : But the L_C_D_ is easy when you use the scroll uh buttons .
+
+to --> 
+dialogue type : Inform
+C : but l when you see a menu uh on the television , it's like you see uh one to twenty , you go uh uh s scroll up , and push number tw twenty .
+
+to --> 
+dialogue type : Inform
+A : but like we said before , it has to be used on every television .
+
+to --> 
+dialogue type : Inform
+C : Yeah , I think the younger people will have newer televisions , which can provide our uh remote control .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Uh , can you give an indication in b uh in the cost difference between uh the chip with L_C_D_ or without ?
+
+to --> 
+dialogue type : Inform
+C : But I don't know uh how much higher .
+
+to --> 
+dialogue type : Assess
+D : I think if we have an L_C_D_ , it will also sell a lot better .
+
+to --> 
+dialogue type : Inform
+C : Note that the push-button requires a simple chip chip .
+to --> 
+dialogue type : Inform
+C : A scroll wheel requires minimally a regular chip , which is a higher price range .
+to --> 
+dialogue type : Inform
+C : The display requires a advanced chip , which is which in turn is more expensive than the regular chip .
+
+to --> 
+dialogue type : Inform
+D : So , my uh presentation is about trend-watching .
+
+to --> 
+dialogue type : Inform
+D : Uh , well we made an investigation of the market , by Trendwatchers .
+to --> 
+dialogue type : Inform
+D : They uh watch in uh cities like uh Paris and Milan .
+
+to --> 
+dialogue type : Inform
+D : Uh , we have two groups , young and trendy , and the old and rich .
+to --> 
+dialogue type : Inform
+D : Well th and the young and trendy , they uh they starting to like uh fruit and vegetables uh as a theme for n uh clothes , shoes , and also uh products .
+to --> 
+dialogue type : Inform
+D : And um , material ? That should feel have uh a spongy feeling .
+
+to --> 
+dialogue type : Inform
+D : Then the old and rich .
+to --> 
+dialogue type : Inform
+D : They like uh dark colours , and simple , recognisable shapes .
+
+to --> 
+dialogue type : Inform
+D : We uh aim at the younger market .
+
+to --> 
+dialogue type : Inform
+D : Well , uh then already come to my personal preferences .
+
+to --> 
+dialogue type : Inform
+D : However , with trends it's always if there's it's now .
+to --> 
+dialogue type : Inform
+D : It it it might last one year , and next year it be uh can be totally different .
+
+to --> ,A
+dialogue type : Suggest
+A : Well , we have to decide on the concept .
+
+to --> ,A
+dialogue type : Suggest
+A : Maybe one of you can paint it on the board .
+
+to --> 
+dialogue type : Suggest
+D : Can make several uh concepts .
+to --> 
+dialogue type : Suggest
+D : We have this , and we had the idea of an um a more uh uh uh like sh in the shape of your hand .
+
+to --> 
+dialogue type : Inform
+C : This is the remote control .
+to --> 
+dialogue type : Inform
+C : And then you have something like th this under it .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So , it has to be soft ?
+
+to --> 
+dialogue type : Inform
+C : And it has to be soft , yeah .
+
+to --> 
+dialogue type : Inform
+C : Buttons on top of it .
+
+to --> 
+dialogue type : Inform
+C : The scrolling . You can do it with your thumb .
+
+to --> 
+dialogue type : Suggest
+C : But now we use one scroll button and the other one is here .
+
+to --> 
+dialogue type : Elicit-Inform
+D : If we have a menu , uh how do we uh choose other options ?
+
+to --> 
+dialogue type : Inform
+C : with the menu uh button .
+to --> 
+dialogue type : Inform
+C : And then you also can scroll uh scroll in it .
+
+to --> 
+dialogue type : Inform
+A : But if we don't have a L_C_D_ we don't have a menu .
+
+to --> 
+dialogue type : Inform
+C : Uh , then we have it on the T_V_ , the menu .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Yeah , but again maybe th How do we know the T_V_ can handle it ?
+
+to --> 
+dialogue type : Inform
+C : And if we put an L_C_D_ thing on it , then the costs will uh be much higher .
+
+to --> 
+dialogue type : Suggest
+A : we make two concepts .
+to --> 
+dialogue type : Suggest
+A : One with L_C_D_ . One without L_C_D_ .
+
+to --> 
+dialogue type : Suggest
+C : And and this one has to be soft .
+to --> 
+dialogue type : Suggest
+C : And this has to be harder ,
+
+to --> 
+dialogue type : Suggest
+B : And you can and you can uh make the the power button as a trigger .
+
+to --> 
+dialogue type : Assess
+A : It's not good to use .
+
+to --> 
+dialogue type : Suggest
+C : Or some kind of rubber around it .
+
+to --> 
+dialogue type : Suggest
+A : One with two scroll buttons and one with without .
+
+to --> 
+dialogue type : Suggest
+A : Uh , one with a with a menu , and one without a menu .
+to --> 
+dialogue type : Suggest
+A : And the one with with a menu has an L_C_D_ .
+
+to --> 
+dialogue type : Assess
+B : Yes , but you don't know which of the scroll buttons you have to choose .
+
+to --> 
+dialogue type : Inform
+A : Then it depends on the cost .
+
+to --> 
+dialogue type : Suggest
+D : M uh yeah , maybe it's better if the uh scroll-wheels are um
+to --> 
+dialogue type : Assess
+D : more separate , yeah .
+to --> 
+dialogue type : Suggest
+D : Like , you have the menu button in between uh
+
+to --> 
+dialogue type : Assess
+C : I also think this concept is not what the young people were looking for .
+
+to --> 
+dialogue type : Inform
+A : When you uh the menu , you have to go there there there there .
+
+to --> 
+dialogue type : Inform
+D : We have two buttons missing .
+to --> 
+dialogue type : Inform
+D : The mute button .
+
+to --> 
+dialogue type : Assess
+A : Mute . And the other .
+
+to --> 
+dialogue type : Assess
+C : Personally , I think two scroll buttons uh aren't easy to handle .
+to --> 
+dialogue type : Suggest
+C : With the switch button .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : But how do you wanna solve it ?
+to --> 
+dialogue type : Assess
+A : Yeah but on the menu that's not uh easy .
+
+to --> 
+dialogue type : Suggest
+C : Uh , then you can also have like uh th um
+to --> 
+dialogue type : Assess
+C : Yeah , and joystick , I think .
+
+to --> 
+dialogue type : Suggest
+A : Or a small one just like in a laptop .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Does that break , a joystick ?
+
+to --> 
+dialogue type : Elicit-Inform
+A : But how expensive it is ?
+
+to --> 
+dialogue type : Assess
+A : For the young peoples I think scroll button's good .
+
+to --> 
+dialogue type : Assess
+A : That's not expensive than uh Joystick is better .
+
+to --> 
+dialogue type : Inform
+C : I mean the the shape of the remote control .
+to --> 
+dialogue type : Inform
+C : Just like a Playstation thing .
+
+to --> 
+dialogue type : Assess
+A : Maybe , if it's possible , it's not too expensive , I think a joystick is better .
+
+to --> 
+dialogue type : Suggest
+A : Then for the components , we use a normal battery .
+to --> 
+dialogue type : Inform
+A : Then it's Ch cheapest way , I think .
+
+to --> 
+dialogue type : Inform
+A : Kinetic is uh ch makes it more expensive .
+
+to --> 
+dialogue type : Inform
+A : Chip . Depends on the L_C_D_ .
+
+to --> 
+dialogue type : Inform
+C : If we use a scroll , then we have the uh regular chip .
+to --> 
+dialogue type : Inform
+C : If we don't use a scroll , then we can use the simple chip .
+
+to --> 
+dialogue type : Elicit-Inform
+A : And uh , we If you use the L_C_D_ , we have to
+
+to --> 
+dialogue type : Inform
+C : Uh the most expensive .
+
+to --> 
+dialogue type : Inform
+A : So , uh the shapes of the design depends on the L_C_D_
+
+to --> 
+dialogue type : Suggest
+C : Or shall we just put it on the pistol thing ?
+
+to --> 
+dialogue type : Assess
+A : If you have pistol , it L_C_D_'s not easy .
+
+to --> 
+dialogue type : Inform
+C : if you have like uh an uh uh a ni a uh Playstation uh game controller .
+
+to --> 
+dialogue type : Suggest
+C : Now we put uh rubber around it .
+to --> 
+dialogue type : Suggest
+C : Hard plastic , uh the shape , and around it hard uh around it rubber .
+
+to --> 
+dialogue type : Inform
+A : Then this is the design .
+to --> 
+dialogue type : Inform
+A : And the buttons are on the next page .
+to --> 
+dialogue type : Inform
+A : So , depends on the cost .
+
+to --> ,A
+dialogue type : Inform
+A : Next meeting . Thirty minutes .
+
+to --> ,A
+dialogue type : Suggest
+A : You two stay here .
+
+to --> 
+dialogue type : Suggest
+A : Check your mail .
+
+to --> 
+dialogue type : Inform
+A : It has to be ready in the next meeting .
+
+to --> ,A
+dialogue type : Inform
+A : Next meeting is called the detailed design .
+
+to --> 
+dialogue type : Elicit-Inform
+D : And on the L_C_D_ , how much it costs ?
+
+to --> 
+dialogue type : Inform
+C : they're not uh in details .
+to --> 
+dialogue type : Inform
+C : It's more expensive or less expensive , huh ?
+
+to --> 
+dialogue type : Suggest
+A : So , after this meeting you have half an hour to uh fix it .
+

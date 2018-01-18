@@ -1,0 +1,877 @@
+to --> ,A
+dialogue type : Inform
+A : Okay , welcome to the detailed design meeting .
+
+to --> ,A
+dialogue type : Inform
+A : Oh , we're gonna have a prototype presentation first .
+
+to --> 
+dialogue type : Inform
+C : 'Kay , we've made a prototype .
+
+to --> 
+dialogue type : Inform
+C : especially we looked at the form , material and the colour .
+
+to --> 
+dialogue type : Inform
+C : The logo is uh is uh is pretty uh obvious to see on the on the remote control ,
+
+to --> 
+dialogue type : Inform
+B : I think the most of the functions are uh uh obvious .
+
+to --> 
+dialogue type : Inform
+B : Uh the volume uh uh at the side , and the other side is the programmes .
+to --> 
+dialogue type : Inform
+B : And then we had uh just uh two buttons , we place them in the middle , uh the menu , and for the teletext
+
+to --> 
+dialogue type : Inform
+B : Uh then the the the nine uh channels .
+
+to --> 
+dialogue type : Inform
+B : Uh , power button .
+
+to --> 
+dialogue type : Elicit-Inform
+A : did we want to have a m mute button ?
+
+to --> 
+dialogue type : Suggest
+D : Alright , and uh you gotta point out which is the volume um uh button and which is the programme button .
+to --> 
+dialogue type : Suggest
+D : Yeah , but you you gotta make it clear on the on
+
+to --> 
+dialogue type : Suggest
+D : Next to that I kinda miss a zero actually .
+
+to --> 
+dialogue type : Inform
+A : Uh , there are different ways for remote controls to uh do uh like
+to --> 
+dialogue type : Inform
+A : uh d I call it teens and twenties .
+
+to --> 
+dialogue type : Assess
+D : All n no , that's um kinda dependent on the television .
+
+to --> 
+dialogue type : Elicit-Inform
+A : but do we have do we need extra buttons ,
+
+to --> 
+dialogue type : Suggest
+D : I think you should add
+to --> 
+dialogue type : Suggest
+D : A cross , or whatever . Yeah , line .
+
+to --> 
+dialogue type : Assess
+A : Yeah , but you don't you don't actually need them ,
+to --> 
+dialogue type : Inform
+A : becau b l a lot of remote controls work that y when y that you when you fir you push the one first , then you have a couple of seconds
+
+to --> 
+dialogue type : Assess
+D : No , that's dependent on the television .
+
+to --> 
+dialogue type : Inform
+A : I know some remote controls that don't have these buttons , but you still can , know , obviously you can still select the twenty uh a number in the twenty or in the ten .
+
+to --> 
+dialogue type : Inform
+D : Yes , but uh uh no uh remote control nowadays are um they come with the television .
+
+to --> 
+dialogue type : Inform
+A : when when you put a button on it with like one and uh then a dash , it's the same thing as when you just push the one ,
+
+to --> 
+dialogue type : Assess
+C : some televisions don't accept uh that that
+
+to --> 
+dialogue type : Inform
+A : When you push the button , the remote control gives a signal .
+
+to --> 
+dialogue type : Inform
+A : and when y whe when you don't push another button on the remote control within five seconds , then the remote control gives a signal for channel one .
+
+to --> 
+dialogue type : Inform
+D : it it it works uh if you haven't got uh a special button for it , uh if you push a one , then on your television there will appear a one and a a line , which is an empty space .
+
+to --> 
+dialogue type : Inform
+A : Yeah , but it's exact the same that w would appear when you put a separate button push a separate button .
+
+to --> 
+dialogue type : Inform
+C : Yes , but some some old televisions uh you have to uh click on uh a special button , uh then you go to a a next level , you can push two buttons .
+
+to --> 
+dialogue type : Assess
+A : Yeah , but you don't underst uh you don't understand my point .
+
+to --> 
+dialogue type : Inform
+A : that special but button you're talking about , eh ?
+to --> 
+dialogue type : Inform
+A : That's just a signal to recei ju they send a t signal to the v tv T_V_ that they have to put a one in on your screen and a dash , which you can pu so you can uh still put another number on it .
+to --> 
+dialogue type : Inform
+A : When you don't have that separate button , and you push y one , it's exactly the same thing .
+
+to --> 
+dialogue type : Assess
+D : No , s some some televisions need the input first uh and and you c
+
+to --> 
+dialogue type : Inform
+A : That's the same thing as the button with the one and it
+
+to --> 
+dialogue type : Assess
+D : It's simply not true . It's simply not true .
+
+to --> 
+dialogue type : Inform
+A : I I know for sure that some televisions that w th th the remote control supplied , only ha has the c these buttons with a one and a dash and a two and a dash , but when you use a bu a n remote control that doesn't sport these buttons , it still works .
+
+to --> 
+dialogue type : Suggest
+B : We'll discuss them in the usability lab .
+
+to --> 
+dialogue type : Suggest
+A : we'll apply them then for now .
+
+to --> 
+dialogue type : Assess
+B : I don't know uh I don't know if if it's it's necessary .
+
+to --> 
+dialogue type : Suggest
+A : Yeah , app just apply them next to the zero , the one and the two .
+
+to --> 
+dialogue type : Assess
+A : but I still think i it it all T_V_s in some ways support it ,
+
+to --> 
+dialogue type : Assess
+A : I think it's more c is m maybe we don't uh we both don't really understand how it i how it really works ,
+to --> 
+dialogue type : Assess
+A : but I think there's more to in than wha than what you just said .
+
+to --> 
+dialogue type : Inform
+C : No , you have to you have to uh give the television uh two or more signals .
+
+to --> 
+dialogue type : Inform
+B : I think it's pretty basic ,
+
+to --> 
+dialogue type : Inform
+B : there's one there's one button ,
+
+to --> 
+dialogue type : Suggest
+C : But maybe we can maybe we can make the docking station uh uh a bit standard for for uh the other products we sell ,
+to --> 
+dialogue type : Inform
+C : because Real Real Reaction sells more products than only remote controls .
+to --> 
+dialogue type : Suggest
+C : So maybe we can uh use the docking station , for example , uh M_P_ three players or or uh
+
+to --> 
+dialogue type : Assess
+D : I think that's very difficult , because of different shapes of uh uh devices .
+
+to --> 
+dialogue type : Assess
+C : Yes , but when you put that same volt voltages on it , you can put uh
+to --> 
+dialogue type : Inform
+C : when the when the when uh o the the the lowest part of it , when it's o the same as the other products , you can put it all on the same uh
+
+to --> 
+dialogue type : Assess
+D : The technology and the voltage can be the same . That's uh that's true .
+
+to --> 
+dialogue type : Suggest
+C : When when the the recharger has a has a bit what points out , we can place all on top of it .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Shouldn't it fall then ? It isn't going to fall down ?
+
+to --> 
+dialogue type : Assess
+C : No , when you make it large enough no it it will not .
+
+to --> 
+dialogue type : Assess
+C : But it's just an idea .
+
+to --> 
+dialogue type : Assess
+B : It's leaning . It's leaning backwards , I think , in the in the docking station .
+
+to --> 
+dialogue type : Suggest
+D : Uh , you could make like a hole in it , you know , of uh in in the
+
+to --> ,A
+dialogue type : Suggest
+A : Well let's ha let's talk about the docking station later ,
+to --> 
+dialogue type : Inform
+A : because uh maybe we have we have to uh consider the docking station anyway , because we have some uh cost issues still to come .
+
+to --> 
+dialogue type : Assess
+C : the f the look and feel would be great on this uh remote control ,
+to --> 
+dialogue type : Inform
+C : because uh you always uh will uh pick up the remote control in the in the smallest uh area .
+to --> 
+dialogue type : Inform
+C : Then your uh left thumb of uh your right thumb is uh near the programme uh button ,
+to --> 
+dialogue type : Inform
+C : which is the most common used uh function ,
+
+to --> 
+dialogue type : Inform
+C : Yes , uh on the side uh there will be a strip of rubber ,
+to --> 
+dialogue type : Inform
+C : and in the middle uh there is uh a hard uh a hard material , a bit hard plastic with a light uh behind it .
+to --> 
+dialogue type : Suggest
+C : Yes , we can make also n neon lights on it , or or the buttons that can make uh light on it .
+
+to --> 
+dialogue type : Inform
+A : because we're gonna use uh one colour for the the plastic enclosure and one colour for the rubber ,
+
+to --> 
+dialogue type : Inform
+A : Then we're gonna do the buttons in the i are we're gonna have rubber buttons .
+
+to --> 
+dialogue type : Inform
+D : Uh , in the same colour as the side .
+
+to --> 
+dialogue type : Suggest
+A : But uh , and we have to agree uh upon the exact colours ,
+
+to --> ,D
+dialogue type : Suggest
+D : Right , we're gonna evaluate that design according to a few points .
+to --> ,D
+dialogue type : Suggest
+D : Um , we g the four of us are going to do that um together .
+
+to --> 
+dialogue type : Inform
+D : we we gotta give points to uh to all of these to evaluate uh that design ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control is not ugly . How do you feel ?
+
+to --> 
+dialogue type : Assess
+A : Yeah , maybe it really depends on taste .
+
+to --> 
+dialogue type : Assess
+C : I think I think the the fronts will give it a more uh uh uh less uglier uh side , because you can uh make it in your own
+
+to --> 
+dialogue type : Inform
+D : No , not not fronts , but different designs .
+
+to --> 
+dialogue type : Assess
+B : Okay , three .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control's uh uh that n makes uh zapping easy .
+
+to --> 
+dialogue type : Assess
+A : Yeah well , let that let's make that a one .
+
+to --> 
+dialogue type : Assess
+A : It's something we really put work into .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control the remote control's relevant buttons are prominently visible .
+
+to --> 
+dialogue type : Inform
+A : Yeah , but we d we didn't we're we're not planning to use fronts , I believe .
+
+to --> 
+dialogue type : Assess
+D : I would say a one because uh every button is uh uh relevant .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control hasn't got too much redundant or unneeded buttons .
+to --> 
+dialogue type : Assess
+D : I think we totally succeeded there .
+
+to --> 
+dialogue type : Assess
+A : Well maybe a two , because of the menu button or something .
+
+to --> 
+dialogue type : Assess
+C : Also , the the the buttons of the one , the two , the the digits ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control has got a really trendy look .
+
+to --> 
+dialogue type : Assess
+A : Yeah , uh a t I think a two .
+
+to --> 
+dialogue type : Inform
+C : we've tried to make it uh the the best trendy look uh ever .
+
+to --> 
+dialogue type : Assess
+A : But I do think that it's more trendy than beautiful .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : You agree on the two ?
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control has got innovative technology implanted .
+
+to --> 
+dialogue type : Assess
+C : No , not L_C_D_ , so .
+
+to --> 
+dialogue type : Elicit-Inform
+A : you mean the rubber stuff ?
+
+to --> 
+dialogue type : Assess
+C : But that that's not innovative .
+
+to --> 
+dialogue type : Assess
+A : Or seven maybe , yeah .
+
+to --> 
+dialogue type : Inform
+C : With the lights it it's it's kind of future
+
+to --> 
+dialogue type : Assess
+C : Yes . The docking station is a is a little bit innovative .
+
+to --> ,A
+dialogue type : Suggest
+A : Well , let's leave it open for uh for us later to see what , because we have to reevaluate anyway .
+
+to --> 
+dialogue type : Assess
+D : No uh , well , the agenda says evaluate now , so I think we
+
+to --> 
+dialogue type : Elicit-Inform
+C : how would you innovate a remote control more ?
+
+to --> 
+dialogue type : Inform
+A : Yeah , more through uh like function T_V_ functionalities and
+
+to --> 
+dialogue type : Assess
+D : But I d I definitely don't think it's a five ,
+
+to --> 
+dialogue type : Suggest
+A : think about it la later on
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control is easy to use .
+
+to --> 
+dialogue type : Assess
+B : Yeah , a two .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : It will be bought by people under the age of forty .
+
+to --> 
+dialogue type : Assess
+A : Yeah . Definitely .
+
+to --> 
+dialogue type : Assess
+A : Yeah , a two .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The remote control has recognisable corporate image , colour , logo or slogan .
+
+to --> 
+dialogue type : Suggest
+A : Yeah , you can put that on the side if if we would like to .
+to --> 
+dialogue type : Assess
+A : Yeah , and I will I th still think it's gonna be a two or a three .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control's got a basic design intended uh for novice users .
+
+to --> 
+dialogue type : Assess
+A : Yeah , make it a two .
+
+to --> 
+dialogue type : Assess
+A : which is uh quite a great score .
+
+to --> 
+dialogue type : Inform
+D : It's a two point six .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : Is there something after this uh meeting ? Or
+
+to --> ,D
+dialogue type : Inform
+D : Well , I think we gotta fill out another questionnaire .
+
+to --> 
+dialogue type : Inform
+A : I received uh a spreadsheet .
+
+to --> ,A
+dialogue type : Suggest
+A : I'm gonna open the spreadsheet and we're gonna work this out together ,
+
+to --> 
+dialogue type : Inform
+A : First of all , the mm all the docking station and costs and such are not included in this list .
+
+to --> 
+dialogue type : Inform
+A : We include one battery .
+
+to --> 
+dialogue type : Inform
+A : we we uh indicate the amount of components of the specif specific component , how much we need of them .
+
+to --> 
+dialogue type : Elicit-Inform
+A : we should know how many simple chips , regular chips
+
+to --> 
+dialogue type : Assess
+C : The simple chip is e enough I I think ,
+
+to --> 
+dialogue type : Inform
+D : I haven't got an idea on on which we need to use , really .
+
+to --> 
+dialogue type : Inform
+C : The the email I got said uh simple chip , but when we put in the speaker and the retriever uh device , it will uh cost a a bit more , like I think the advanced chip maybe .
+
+to --> 
+dialogue type : Suggest
+A : Maybe you can uh look it up right now .
+
+to --> 
+dialogue type : Suggest
+D : well , point out the advanced chip for now , I guess .
+
+to --> 
+dialogue type : Assess
+A : Yeah , but it will it will it will be cause a lot of problems .
+
+to --> 
+dialogue type : Inform
+A : Okay , we went for the double-curved case
+to --> 
+dialogue type : Inform
+A : made out of plastic and rubber . And with a special colour .
+
+to --> 
+dialogue type : Assess
+C : Otherwise , you get uh a standard uh plastic colour .
+
+to --> 
+dialogue type : Assess
+A : Yeah , I think we uh we have special colours .
+to --> 
+dialogue type : Inform
+A : Okay , then the push-button , I was just counting them .
+to --> 
+dialogue type : Inform
+A : Uh , I think you have to indicate the amount of push-buttons we want to use ,
+
+to --> 
+dialogue type : Assess
+A : Well that's bit of a problem ,
+to --> 
+dialogue type : Assess
+A : because I re but I really don't understand that , because I can imagine a remote control with far more push-buttons , and it wouldn't be possible according to this uh sheet .
+
+to --> 
+dialogue type : Inform
+C : it's only uh when you use push-buttons , it will cost that much .
+
+to --> 
+dialogue type : Inform
+C : Maybe it's the kind of push-buttons .
+to --> 
+dialogue type : Inform
+C : You can have f four kind of push-buttons .
+
+to --> 
+dialogue type : Inform
+A : And plus these two , f uh plus the mute button , and it's will be uh eighteen .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Why is that so uh expensive .
+
+to --> 
+dialogue type : Assess
+A : Yeah , I don't understand .
+
+to --> 
+dialogue type : Suggest
+A : Well , okay , well well let's make it just one .
+
+to --> 
+dialogue type : Assess
+D : I I I couldn't understand it if it was fifty cents per uh uh per button . Really .
+
+to --> 
+dialogue type : Inform
+C : I've seen one uh one remote control with only the pu yeah , only with uh page up , page down and volume ,
+
+to --> 
+dialogue type : Assess
+D : Yeah , but I d I wouldn't want to own that . Really .
+
+to --> 
+dialogue type : Assess
+C : Uh , it's it's still for little children .
+
+to --> 
+dialogue type : Inform
+A : But then still , when we there's no room for a docking station or something .
+
+to --> 
+dialogue type : Suggest
+A : We'll give the buttons special colour .
+to --> 
+dialogue type : Inform
+A : We'll give them a special form .
+
+to --> 
+dialogue type : Elicit-Inform
+B : A special colour , why a special colour ?
+
+to --> 
+dialogue type : Inform
+A : Because the buttons will be uh d will be matching colour between the buttons and the rubber surroundings .
+
+to --> 
+dialogue type : Assess
+D : I don't think the special form is really true .
+
+to --> 
+dialogue type : Inform
+A : I think all the special colour things have to be marked over here , because that's what we were planning to do ,
+
+to --> 
+dialogue type : Inform
+A : 'Kay , but the problem now is that the There's no such thing as a docking station in this list ,
+to --> 
+dialogue type : Inform
+A : but we can all imagine that it would be impossible to make a docking station for thirty cents .
+
+to --> 
+dialogue type : Suggest
+C : But we can uh sell the remote control and uh sell the docking station
+
+to --> 
+dialogue type : Assess
+A : then the docking station isn't relevant for this project anymore ,
+
+to --> 
+dialogue type : Assess
+C : No , but you otherwise you can't retrieve it .
+
+to --> 
+dialogue type : Inform
+D : I mean if it's a simple chip , then we suddenly got two Euros and thirty cents .
+
+to --> 
+dialogue type : Inform
+C : But for two Euros and thirty cents , we uh we don't get a docking station .
+
+to --> 
+dialogue type : Assess
+D : if it would cost two Euros , that had a total a total thing , it would be nice too ,
+
+to --> 
+dialogue type : Suggest
+A : or we can ki do the kinetic cells .
+
+to --> 
+dialogue type : Elicit-Inform
+B : But uh what can we do with the simple chip and what's difference with a regular chip and a advanced chip ?
+
+to --> ,A
+dialogue type : Suggest
+A : Maybe you can uh find it in your email right now ,
+
+to --> 
+dialogue type : Assess
+A : yeah , but when we skip when we um when we don't use the do we're not gonna make the docking station , then we still yeah , we need something else maybe to make it kind of special ,
+
+to --> 
+dialogue type : Suggest
+D : We can make a plain docking station for two Euros .
+
+to --> 
+dialogue type : Suggest
+D : Wi wi without recharge
+
+to --> 
+dialogue type : Inform
+C : I've got a schematic view of the remote control , but nothing about uh advanced chips or
+
+to --> 
+dialogue type : Suggest
+A : You can look at it for s presentation .
+
+to --> 
+dialogue type : Inform
+A : I don't think here it's in here already .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Was it working design or components design ?
+
+to --> 
+dialogue type : Inform
+A : You know that a push-button requires a simple chip , but a scroll-wheel , it it me requires
+to --> 
+dialogue type : Inform
+A : Okay , so we only need a simple chip .
+
+to --> 
+dialogue type : Inform
+A : it s uh only states that a scroll-wheel requires a regular chip , and that a display requires an advanced chip .
+
+to --> 
+dialogue type : Elicit-Inform
+A : And what's the sample sensor slash sample speaker ?
+
+to --> 
+dialogue type : Inform
+C : Maybe you can say against the remote uh page uh f uh page up , page down .
+
+to --> 
+dialogue type : Suggest
+A : So we're gonna use the simple chip .
+to --> 
+dialogue type : Inform
+A : Nah , there is some money left to be spent .
+
+to --> 
+dialogue type : Inform
+D : I think we can make a docking station . Yeah .
+
+to --> 
+dialogue type : Inform
+A : we aren't gonna apply any uh innovated innovative te technology anyway , I think .
+
+to --> 
+dialogue type : Assess
+A : maybe I think maybe the kinetic thing is something .
+to --> 
+dialogue type : Assess
+A : Instead of the rechargeable
+
+to --> 
+dialogue type : Inform
+C : Kinetics aren't uh nowadays only used in watches and that's because you're always walking .
+
+to --> 
+dialogue type : Inform
+A : the target uh group are people who zap regularly and throw with their remote control as a matter of speaking .
+
+to --> 
+dialogue type : Assess
+A : Hey that maybe that's cool that's a cool thing about it , you know . You don't use batteries .
+
+to --> 
+dialogue type : Inform
+D : We can make a docking station for two thirty .
+
+to --> 
+dialogue type : Assess
+A : Yeah , but be serious , then uh the docking station will be a fifth of the price of the remote control .
+
+to --> 
+dialogue type : Inform
+A : but we uh we don't inc we haven't looked at the these costs of the speaker and other stuff .
+
+to --> 
+dialogue type : Assess
+D : Well then it's a useless project .
+
+to --> 
+dialogue type : Assess
+B : Yeah , then we don't have any innovation things .
+
+to --> 
+dialogue type : Suggest
+A : Uh maybe it with the kinetic thing , I think we could do uh do a compromise uh with the kim kinetic thing .
+
+to --> 
+dialogue type : Suggest
+D : Can't we say fifteen Euros ?
+
+to --> 
+dialogue type : Assess
+C : No , then we have to sell it for thirty Euros .
+
+to --> 
+dialogue type : Suggest
+D : You can sell for twenty seven and a half .
+
+to --> 
+dialogue type : Backchannel
+B : No .
+
+to --> 
+dialogue type : Suggest
+C : Maybe we can do it both uh in the in the in the remote . Battery and kinetic .
+
+to --> 
+dialogue type : Assess
+D : You you gotta throw uh throw it through the room like twenty times an hour , really .
+
+to --> 
+dialogue type : Inform
+C : Uh , a watch is uh kinetic because you walk all the time .
+
+to --> 
+dialogue type : Assess
+A : Because I think the d whole dynamic part , do you know , appeals to me qui uh thinking of our design philosophy , you know ,
+to --> 
+dialogue type : Assess
+A : with the rubber parts and uh sturdiness of the thing , and y when you move it around a lot , then people find the idea funny that when I move my remote control around and
+
+to --> 
+dialogue type : Assess
+D : Yeah , it's funny for a week .
+
+to --> 
+dialogue type : Assess
+A : Okay , then we d Okay , well y we don't have to do it , but what that would just have a lack of key features , you know .
+
+to --> 
+dialogue type : Suggest
+A : We can really can do the docking thing ,
+
+to --> 
+dialogue type : Inform
+C : Then we have one Euro thirty for the whole docking station .
+
+to --> 
+dialogue type : Assess
+A : No no , it's not possible .
+
+to --> 
+dialogue type : Assess
+B : It w it won't tell , but
+
+to --> 
+dialogue type : Assess
+D : No , this not gonna sell . No .
+
+to --> 
+dialogue type : Suggest
+B : Yeah , we just have to go all what we did today again . You have to do it over .
+
+to --> 
+dialogue type : Assess
+A : No no uh there's still there's still someth concept and something special left .
+
+to --> 
+dialogue type : Assess
+A : Yeah , and I would li I would have liked a kinetic part as well , to give it some just to give it some extra special feature ,
+
+to --> ,D
+dialogue type : Inform
+D : Warning , finish meeting now .
+
+to --> ,A
+dialogue type : Inform
+A : well , we were gonna what look take a look at the last sheet .
+
+to --> ,D
+dialogue type : Assess
+D : No , we can't .
+
+to --> ,A
+dialogue type : Assess
+A : Yeah , we have to Yeah , it's
+
+to --> 
+dialogue type : Assess
+D : Yes , yes . Celebration .
+
+to --> ,D
+dialogue type : Inform
+D : I think we gotta fill out another questionnaire , to be honest .
+

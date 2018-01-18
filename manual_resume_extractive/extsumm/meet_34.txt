@@ -1,0 +1,691 @@
+to --> D,C,B,A
+dialogue type : Inform
+A : actually we gathering here to discuss about the functional design meeting .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : and uh we'll issue some information from uh all of you .
+to --> D,C,B,A
+dialogue type : Inform
+A : And it's in the , I think uh , in the sharing folder .
+to --> D,C,B,A
+dialogue type : Offer
+A : And uh I will invite uh the Christine and the Ed and uh Agnes to discuss about on the various subjects .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : the agenda of the meeting is opening .
+to --> D,C,B,A
+dialogue type : Inform
+A : Then uh I'm going to talk about uh the project management ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : and uh , of course , I'm doing the project management and secretary both ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : to take the minutes of the meeting .
+to --> D,C,B,A
+dialogue type : Inform
+A : And there are three presentations .
+to --> D,C,B,A
+dialogue type : Inform
+A : One is uh new project requirements .
+to --> D,C,B,A
+dialogue type : Inform
+A : And the second one about uh decision on remote control functions .
+to --> D,C,B,A
+dialogue type : Inform
+A : And uh finally we are closing .
+to --> D,C,B,A
+dialogue type : Inform
+A : Uh and the meeting time will be uh forty minutes ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : management come with the new proposal ,
+
+to --> D,C,B,A
+dialogue type : Offer
+A : and I have to discuss a few points on this .
+to --> D,C,B,A
+dialogue type : Inform
+A : Uh both says new insights in the aim of your project .
+to --> D,C,B
+dialogue type : Inform
+A : Uh the one is uh the teletext becomes uh outmoded , okay because if uh because of the computer systems and the new technology .
+
+to --> D,C,B
+dialogue type : Inform
+A : we don't need to consider really about the teletext all in our new project design .
+to --> D,C,B,A
+dialogue type : Inform
+A : And the second one is about uh the remote control .
+to --> D,C,B
+dialogue type : Inform
+A : Should be used only for the T_V_ .
+
+to --> D,C,B
+dialogue type : Inform
+A : And the third point , it's very very important to establish our uh marketing or uh corporate image , okay , with this new project or new product .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : I'll invite uh Christine to discuss about uh the functional design .
+
+to --> A,D,C
+dialogue type : Suggest
+B : I I figured uh we should um identify some user requirements ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : and from my experience , I wanna uh , and from research I did , uh the the device has to turn the television on and off the first time you press on the big button ,
+
+to --> 
+dialogue type : Inform
+B : Because one of the biggest problems with remote controls is finding them .
+
+to --> A,D,C
+dialogue type : Inform
+B : since we have to establish our corporate image on the basis of this new product ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : thought we better look at things that are popular
+to --> A,D,C
+dialogue type : Suggest
+B : and um ex go beyond those ,
+to --> A,D,C,B
+dialogue type : Suggest
+B : um and then uh we might wanna talk eventually about the materials that are appropriate to use in uh in the construction , especially in the the uh the outside of the product
+
+to --> A,D,C,B
+dialogue type : Inform
+B : I did a little history on uh the the uh remote controls
+
+to --> A,D,C
+dialogue type : Inform
+B : all these devices are examples of where uh mm they represent examples that are available today
+to --> A,D,C
+dialogue type : Be-Positive
+B : which I think the one in the middle is r um really uh something to keep in mind .
+
+to --> A,D,C
+dialogue type : Be-Positive
+B : you could throw it at things
+to --> A,D,C
+dialogue type : Be-Positive
+B : if if the T_V_ didn't turn on and off , you could use it for something else .
+
+to --> A,D,C
+dialogue type : Inform
+B : But um I just took some different uh schematics
+
+to --> A,D,C
+dialogue type : Inform
+B : and I guess this is what a slide might look like if you were drawing a circuit board .
+
+to --> A,D,C,B
+dialogue type : Inform
+B : personal preferences , um
+
+to --> A,D,C,B
+dialogue type : Assess
+B : uh I I'm really thinking outside the box here ,
+to --> A,D,C
+dialogue type : Suggest
+B : and I think that we should consider perhaps having an an an a a size uh a remote control that changes in size depending on the user preference .
+to --> A,D,C
+dialogue type : Suggest
+B : So something that's very very flexible and inflatable
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : I think um it could either be you could go either one extreme ,
+to --> A,D,C
+dialogue type : Suggest
+B : be very colourful ,
+to --> A,D,C
+dialogue type : Suggest
+B : or you could make it clear ,
+to --> A,D,C
+dialogue type : Suggest
+B : and um kind of blend in with things ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : Um I think uh it needs to be waterproof ,
+to --> A,D,C
+dialogue type : Inform
+B : because uh sometimes they fall into cups
+
+to --> A,D,C
+dialogue type : Inform
+B : one of my requirements was about needs t to tell you when it's done its job or not ,
+to --> A,D,C
+dialogue type : Inform
+B : because half the time , I keep pushing on the remote control ,
+to --> A,D,C
+dialogue type : Inform
+B : and I don't know if it's actually understood my message ,
+to --> A,D,C
+dialogue type : Suggest
+B : so I think it should give you some sort of an oral cue .
+to --> A,D,C
+dialogue type : Suggest
+B : And uh , course I never wanna replace the battery .
+
+to --> B
+dialogue type : Suggest
+A : if you can add other facility , other feature , like uh unbreakable .
+
+to --> B
+dialogue type : Inform
+A : because uh especially today , you know , you have the family and the kids ,
+
+to --> B
+dialogue type : Inform
+A : and the kids throw it
+
+to --> B
+dialogue type : Suggest
+A : if you can add the feature , okay , for your uh fabric whatever in your outline design okay , with unbreakable ,
+
+to --> B
+dialogue type : Assess
+A : I think that will give a lot of advantage for our product ,
+
+to --> B
+dialogue type : Elicit-Offer-Or-Suggestion
+C : Do you have any preconceived ideas in terms of materials ?
+to --> B
+dialogue type : Inform
+C : 'Cause , for example , in the unbreakable thing , doing something plastic would be harder ,
+to --> B
+dialogue type : Inform
+C : whereas having something like , I dunno , steel or titanium isn't really economically viable .
+
+to --> C
+dialogue type : Inform
+B : Titanium would be be heavy , too ,
+
+to --> A,D,C
+dialogue type : Elicit-Assessment
+B : um I wanted feedback ,
+
+to --> A,D,C,B
+dialogue type : Elicit-Assessment
+B : but we'll see what your uh personal preferences are and your thoughts .
+to --> A,D,C
+dialogue type : Assess
+B : I like titanium .
+
+to --> A,C,B
+dialogue type : Inform
+D : Expensive .
+
+to --> A,D,C
+dialogue type : Inform
+B : nobody told me how mu what our financial objective is , so um
+to --> A,D,C
+dialogue type : Be-Positive
+B : It'd be hard to inflate something ou made out of titanium though .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : because uh the last meeting we supposed to discuss about the financial thing .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : I know the project plan and the budget .
+
+to --> D,C,B,A
+dialogue type : Offer
+A : I will I will send you a mail ,
+
+to --> D,C,B
+dialogue type : Inform
+A : At the end of the day , the company uh wants to make at least uh the fifty million Euro .
+
+to --> D,C,B
+dialogue type : Suggest
+A : and uh of course the price will be very reasonable on the the sales side .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : that maybe Eddie will talk to you about uh how much uh the price
+
+to --> D,C,B
+dialogue type : Inform
+A : how much its cost for the manufacturing
+to --> D,C,B
+dialogue type : Inform
+A : and how much it's going to be we sell in the market .
+
+to --> D,C,B
+dialogue type : Suggest
+A : This remote control , okay , it can be for like universal , to use for any T_V_ .
+
+to --> D,C,B,A
+dialogue type : Inform
+A : And I I have one maybe the suggestion or opinion .
+
+to --> D,C,B
+dialogue type : Suggest
+A : and it will be slim ,
+
+to --> A
+dialogue type : Be-Positive
+B : Might be hard to find , though .
+
+to --> B
+dialogue type : Suggest
+A : But let's try it , okay , with the different uh the designs , okay , the functional designs .
+
+to --> A,C,B
+dialogue type : Inform
+D : from the marketing yeah , from the marketing side , just to to give an idea what the management is looking for , I was looking for a a remote control to have a s
+to --> A,C,B
+dialogue type : Inform
+D : I have a sales price of twenty-five Euro ,
+to --> A,C,B
+dialogue type : Inform
+D : with a production price of uh twelve and a half Euro .
+to --> A,C,B
+dialogue type : Inform
+D : For what uh I think from what we're trying to find , we're tr we're looking for , I don't think that price is exactly in the market .
+
+to --> A,C,B
+dialogue type : Inform
+D : in the recent surveys , uh from the ages fr from fifteen to thirty-five , eighty percent are willing to spend more money for something as fancy as trendy .
+to --> A,C,B
+dialogue type : Assess
+D : Twenty-five Euros , uh that's that's a preson reasonable price .
+
+to --> A,C,B
+dialogue type : Suggest
+D : Now if we're gonna take a risk , and push this up a bit , make it more expensive ,
+
+to --> A,C,B
+dialogue type : Assess
+D : then it w it could possibly sell .
+
+to --> A,C,B,D
+dialogue type : Assess
+D : But , I think uh there's one other thing interesting two things that are interesting
+to --> A,C,B
+dialogue type : Inform
+D : is that uh from the fifteen to thirty-five year-old group , which always spends more money on trendy new things , speech recognition is requested .
+to --> A,C,B
+dialogue type : Inform
+D : And we're talking between seventy-five to ninety percent of this group is willing to pay for speech recognition on a remote .
+to --> A,C,B
+dialogue type : Inform
+D : Obviously , we can't make a remote into a computer ,
+to --> A,C,B
+dialogue type : Suggest
+D : but maybe simple commands .
+
+to --> A,C,B
+dialogue type : Suggest
+D : louder , softer , on , off .
+
+to --> A,C,B
+dialogue type : Inform
+D : Thirty-five percent say they're too difficult to use .
+to --> A,C,B,D
+dialogue type : Suggest
+D : So we have to figure out a way of making it um more user friendly .
+to --> A,C,B
+dialogue type : Inform
+D : Uh fifty percent say they can't find the remote half the time .
+to --> A,C,B
+dialogue type : Suggest
+D : So maybe one word speech recognition commands ,
+to --> A,C,B
+dialogue type : Suggest
+D : say remote , and there's a beep beep beep ,
+
+to --> A,C,B
+dialogue type : Assess
+D : But , in the cost that uh the management is looking for , that's not gonna be possible .
+
+to --> A,C,B
+dialogue type : Suggest
+D : But if it's trendy ,
+to --> A,C,B
+dialogue type : Suggest
+D : if it's fancy ,
+to --> A,C,B
+dialogue type : Suggest
+D : it's got some colour to it ,
+to --> A,C,B
+dialogue type : Suggest
+D : if it's very easy easy to use ,
+to --> A,C,B
+dialogue type : Suggest
+D : if it's got simple remote speech remote uh control , like I said , louder , softer , change channel , on , off , remote , it goes beep beep ,
+
+to --> A,C,B,D
+dialogue type : Suggest
+D : So we're gonna have to look at it in a in this global idea , with the ideas of the industrial uh design .
+to --> A,C,B,D
+dialogue type : Suggest
+D : But , price obviously we have to talk about .
+
+to --> B
+dialogue type : Elicit-Assessment
+A : What do you think about uh the design , uh what he was talking about of the speech recognition ?
+
+to --> A,D,C
+dialogue type : Assess
+B : training is always an issue with uh commands .
+
+to --> A,D,C
+dialogue type : Assess
+B : uh we can perhaps um do it if the user is willing to spend some time in the training process ,
+
+to --> A,D,C
+dialogue type : Inform
+B : But um anyway , um I I think also that uh this might impact the battery life .
+
+to --> A,D,C
+dialogue type : Suggest
+B : maybe what we'll have to do is um add something where you can um recharge it wirelessly
+
+to --> A,D,C
+dialogue type : Suggest
+B : or maybe uh set it out in the sun
+
+to --> A,C,B
+dialogue type : Inform
+D : I can find my my remote without spending half a day looking for it and getting all upset
+
+to --> A,D,C
+dialogue type : Suggest
+B : and it uh , you know , gets uh , from the light , um a a solar cell inside there
+
+to --> A,D,B
+dialogue type : Assess
+C : It seems also like with the speech recognition , yeah , it's a great feature ,
+to --> A,D,B
+dialogue type : Inform
+C : but if you're watching T_V_ , there's a lot of ambient sound ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : so then you have to make sure that the speech recognizer is good enough to filter out the T_V_ speech , and the the user's speech .
+
+to --> A,C,B
+dialogue type : Be-Negative
+D : Because tha w with speech recognition uh th I'm not that good at that idea
+
+to --> C
+dialogue type : Inform
+D : Because I think s with speech recognition , if uh the the remote or like the telephone it has a exact word that it has to hear .
+to --> A,C,B
+dialogue type : Assess
+D : I don't think it would come through a sentence in a television .
+
+to --> B,A
+dialogue type : Offer
+A : what I can uh suggest to you , Christine ,
+
+to --> B,A
+dialogue type : Suggest
+A : uh if you need some uh the technical feedback , or some training , okay , about uh this facility , especially for the speech recognition , I can recommend you some companies like uh Intel or I_B_M_ ,
+
+to --> B
+dialogue type : Inform
+A : because they're already in this uh speech recognition part ,
+
+to --> B,A
+dialogue type : Offer
+A : and uh if you want , I can coordinate , okay , to get some information ,
+
+to --> B
+dialogue type : Suggest
+A : and uh you can uh let me know , okay , so what kind of uh the details you require okay , to add this feature in this project .
+
+to --> B,A
+dialogue type : Suggest
+A : we need to know how much is the timeframe you need to develop , apart from uh what today .
+
+to --> A,D
+dialogue type : Suggest
+D : From from your side uh , you're gonna have to go back the management
+to --> A,D
+dialogue type : Suggest
+D : and s be more s precise .
+to --> A
+dialogue type : Elicit-Offer-Or-Suggestion
+D : What do they want ?
+to --> A
+dialogue type : Elicit-Assessment
+D : Uh , a risk , take a risk on the market ?
+to --> A
+dialogue type : Elicit-Assessment
+D : Something that's gonna cost more , but could very easily s make a boom in the market ?
+to --> A
+dialogue type : Suggest
+D : Because it has to be something totally different ,
+
+to --> D,A
+dialogue type : Inform
+A : but end of the day , you're the sales guy ,
+
+to --> D,A
+dialogue type : Suggest
+A : It's uh of course it's uh good to uh tell the management how much it's cost us
+
+to --> D,A
+dialogue type : Offer
+A : I don't mind to convince , okay , the management to spend some more money on the project , okay , if you can make out of
+
+to --> D
+dialogue type : Inform
+A : The management says , okay , so they they don't want certain facilities ,
+
+to --> D
+dialogue type : Inform
+A : they want something uh new ,
+
+to --> D
+dialogue type : Inform
+A : I think uh like uh speech recognit definitely they will agree ,
+
+to --> 
+dialogue type : Other
+A : And uh I hope I can convince the management on that ,
+
+to --> A,D,B,C
+dialogue type : Inform
+C : the method that we usually use in the user interface design is that we need to look at what people like and what people don't like about existing products .
+to --> A,D,B,C
+dialogue type : Inform
+C : So , in our case , existing remote controls .
+
+to --> A,D,B
+dialogue type : Inform
+C : We seem to have intuitions about why things are good or things are bad ,
+to --> A,D,B
+dialogue type : Inform
+C : but when you look , technically , at how it works , sometimes that's not the case .
+to --> A,D,B,C
+dialogue type : Suggest
+C : Then we need to decide what functionalities we really want to keep ,
+
+to --> A,D,B,C
+dialogue type : Suggest
+C : Um and then what the remote control should look like ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : in terms of the functionalities that we need , you obviously need to be able to turn the T_V_ on and off .
+to --> A,D,B
+dialogue type : Suggest
+C : You need to change channels , both by directly going to a specific channel or by channel surfing .
+to --> A,D,B
+dialogue type : Suggest
+C : You need to be able to control the volume
+to --> A,D,B
+dialogue type : Suggest
+C : and then control any menus on the T_V_ to regulate contrast or whatever .
+
+to --> A,D,B
+dialogue type : Inform
+C : the problems that people have expressed is that there's too many buttons on remote controls , in general .
+to --> A,D,B
+dialogue type : Inform
+C : The buttons it's not clear what they're supposed to do .
+to --> A,D,B
+dialogue type : Inform
+C : Um often , you need to know specific button sequences to get certain functionalities done ,
+to --> A,D,B
+dialogue type : Inform
+C : um which you don't necessarily always remember , especially if it's a functionality that you don't use very often .
+
+to --> A,D,B
+dialogue type : Inform
+C : here we've got two examples
+to --> A,D,B
+dialogue type : Inform
+C : where here on the left-hand side , you can see a remote control that has lots and lots of buttons .
+to --> A,D,B
+dialogue type : Assess
+C : The buttons , in a lot of cases , are tiny .
+
+to --> A,D,B
+dialogue type : Inform
+C : they're labelled ,
+
+to --> A,D,B
+dialogue type : Assess
+C : but the labels don't necessarily tell you too much .
+to --> A,D,B
+dialogue type : Inform
+C : Whereas , on the other side , you have a much simpler remote control
+to --> A,D,B
+dialogue type : Inform
+C : that I think basically has the minimum functionalities that are needed .
+to --> A,D,B
+dialogue type : Inform
+C : And it sort of looks simpler and just less imposing when you first look at it .
+to --> A,D,B
+dialogue type : Suggest
+C : So , I would be inclined to go sort of towards this , in terms of design , rather than this .
+to --> A,D,B
+dialogue type : Suggest
+C : And if there's specific functionalities that require more buttons , then we can figure out how to do it with existing um buttons .
+to --> A,D,B
+dialogue type : Suggest
+C : So my personal preferences are to keep the number of buttons to a limit , or to a minimum ,
+
+to --> A,D,B
+dialogue type : Suggest
+C : make frequently used buttons bigger and more strategically placed , so like the on button being really obvious one , the channel changing and the volume ,
+to --> A,D,B
+dialogue type : Suggest
+C : and to keep the design basically sleek and simple .
+
+to --> C,B
+dialogue type : Inform
+B : Clearly your research and uh and ours uh heading in the same direction ,
+
+to --> C
+dialogue type : Inform
+B : the only thing that I saw missing from uh your your research that we found was this uh ability to find the doggone thing when you need it .
+
+to --> A,D,C
+dialogue type : Assess
+B : I also think that um uh th f the the feel of it is uh , when you hold it , is something that um uh was expressed more in in in in my uh design
+
+to --> A,D,C,B
+dialogue type : Inform
+B : 'cause those are the parameters that an Industrial Designer's more thinking about , th th the look and the feel ,
+
+to --> B
+dialogue type : Assess
+C : that's definitely a very important factor , especially to users who are gonna be buying the thing and then using it almost on an daily basis in a lot of cases , I think .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : for anybody need uh any help , for time being , on this uh subjects , okay , so please come back to me ,
+to --> B
+dialogue type : Offer
+A : and uh Christine , maybe I can uh try to help you to get some uh the technical uh the companies
+to --> B
+dialogue type : Inform
+A : to help you for uh make a design uh slim ,
+
+to --> B
+dialogue type : Inform
+A : and to add some features , like we are talking about , the speech recognition and all .
+
+to --> A,D,B,C
+dialogue type : Suggest
+C : Should we maybe make a decision about what features we actually want to include ,
+to --> A,D,B
+dialogue type : Inform
+C : 'cause we've thrown a lot of features onto the table ,
+
+to --> A,D,B
+dialogue type : Elicit-Assessment
+C : do we actually want to incorporate all of them ,
+to --> A,D,B
+dialogue type : Elicit-Offer-Or-Suggestion
+C : or have we missed anything ?
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : Do you wanna go back and look at the closing slide ,
+to --> A,D,C,B
+dialogue type : Inform
+B : maybe that would provide some guidance ?
+
+to --> A,D,C,B
+dialogue type : Inform
+B : it says individual actions ,
+
+to --> A,D,C,B
+dialogue type : Inform
+B : so I'm supposed to do the components concept ,
+to --> C,B
+dialogue type : Inform
+B : supposed to work on the user interface concept ,
+to --> D,B
+dialogue type : Inform
+B : and you're supposed to keep watching the trends .
+to --> A,D,C,B
+dialogue type : Inform
+B : Um and specific instructions will be sent by our our coach .
+to --> A,D,C,B
+dialogue type : Suggest
+B : I think we should do as many features as uh start with all of them right now
+to --> A,D,C,B
+dialogue type : Suggest
+B : and eliminate them later in the process ,
+
+to --> A,D,B,C
+dialogue type : Elicit-Assessment
+C : I was just thinking is it really practical to start designing something with features that we're just gonna end up throwing away ?
+to --> A,D,B,C
+dialogue type : Inform
+C : I mean , it takes a lot of time and effort for everyone to consider different features , um
+to --> A,D,B,C
+dialogue type : Suggest
+C : and s if we spend that time and effort on features that we're not gonna use , maybe it's better to spend it on the f thinking more about features that we actually do want ,
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : I think we should take that as an action item for after the meeting ,
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : what we'll do is now we'll take for lunch break ,
+
+to --> A,D,C,B
+dialogue type : Inform
+B : 'cause w our meeting time has run out .
+

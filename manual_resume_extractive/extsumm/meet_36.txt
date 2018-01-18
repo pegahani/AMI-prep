@@ -1,0 +1,564 @@
+to --> D,C,B,A
+dialogue type : Inform
+A : So this meeting agenda will be the detailed design meeting .
+to --> D,C,B,A
+dialogue type : Inform
+A : And uh opening and uh P_M_s of the meet minutes ,
+to --> D,C,B
+dialogue type : Inform
+A : uh prototype presentation from uh Christine and uh Agnes .
+
+to --> D,C,B
+dialogue type : Inform
+A : and uh evaluation criteria .
+to --> D,C,B
+dialogue type : Inform
+A : The finance , it's uh from my side , from the management ,
+to --> D,C,B,A
+dialogue type : Inform
+A : and uh production evaluation . Then uh closing .
+to --> D,C,B,A
+dialogue type : Inform
+A : So we have forty minutes to discuss and uh finalise and close the product and project and to move further , okay ,
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : Okay , let's talk about uh maybe first uh for the prototype .
+
+to --> A,D,B
+dialogue type : Inform
+C : I've done a presentation ,
+to --> A,D,B
+dialogue type : Inform
+C : but it pretty much covers work that we've both done ,
+to --> 
+dialogue type : Suggest
+C : so if I'm missing anything , Christine can just correct me .
+
+to --> A,D,B
+dialogue type : Inform
+C : from when we were discussing specifying the case in the last meeting , we decided that we wanted an ergonomic shape ,
+
+to --> A,D,B
+dialogue type : Inform
+C : so in terms of function , you have to be able to turn the T_V_ on and off , volume and channel control , menu control , voice recognition control ,
+to --> A,D,B
+dialogue type : Inform
+C : and we've incorporated the L_C_D_ screen on the flip panel as part of the design ,
+to --> A,D,B
+dialogue type : Inform
+C : if we figure out it's too expensive , well then you just take it off .
+
+to --> A,D,B
+dialogue type : Inform
+C : This is our remote control , with the flip panel as you can see .
+to --> A,D,B
+dialogue type : Inform
+C : So if you lift up the panel , you can see the lovely yellow L_C_D_ display .
+
+to --> A,D,B
+dialogue type : Inform
+C : The yellow button you have is the on off button ,
+to --> A,D,B
+dialogue type : Inform
+C : so it's really big , hard to miss .
+to --> A,D,B
+dialogue type : Inform
+C : You have the the red um triangles are the toggles for changing the volume .
+
+to --> A,D,B
+dialogue type : Inform
+C : The green are the channel changing .
+to --> A,D,B
+dialogue type : Inform
+C : S And it's one of those very light , very touchable displays .
+to --> A,D,B
+dialogue type : Inform
+C : And then you have the numeric pad in the dark blue at the bottom ,
+to --> A,D,B
+dialogue type : Inform
+C : and on the right-hand side you have the access to the menu on the T_V_ ,
+to --> A,D,B
+dialogue type : Inform
+C : and on the left-hand side you have the the the ability to turn off the voice recognition .
+
+to --> A,D,B
+dialogue type : Inform
+C : Additional feature on the back is that you can have your own customised backing
+
+to --> A,D,B
+dialogue type : Inform
+C : the material that we chose was wood ,
+to --> A,D,B
+dialogue type : Inform
+C : and uh the colour would be customisable ,
+to --> A,D,B
+dialogue type : Inform
+C : 'cause you can stain the wood whatever colour .
+
+to --> A,D,B
+dialogue type : Inform
+C : and I suppose you could do the same thing on the flip case on the front .
+
+to --> A,D
+dialogue type : Inform
+B : We haven't um uh specified where the speaker or the microphone will be placed .
+to --> A
+dialogue type : Inform
+B : That depends on the uh s design of the circuit board inside and uh what room is left um
+
+to --> C,B
+dialogue type : Suggest
+A : I think the microphone is on on the top , uh on the middle , the under the flip .
+
+to --> A,D,B
+dialogue type : Assess
+C : But it shouldn't be under the flip either ,
+to --> A,D,B
+dialogue type : Inform
+C : because you can have the remote control closed , but you still might want to activate it by voice .
+
+to --> D,C,B
+dialogue type : Inform
+A : my opinion I think it's better under the flip
+to --> D,C,B
+dialogue type : Inform
+A : because whenever you want to uh the talk , okay , so then you can speak then you can close it .
+to --> D,C,B
+dialogue type : Inform
+A : But if you put it on the on the flip , okay , then uh technical I don't think it's uh feasible ,
+to --> D,C,B
+dialogue type : Inform
+A : 'cause most of the time you speak then it will be recognised .
+
+to --> A,D,B
+dialogue type : Inform
+C : I mean the whole point of the voice is that if the remote control is sitting there and I'm too lazy to reach over and pick it up , I can just use my voice .
+
+to --> A,D,B
+dialogue type : Inform
+C : I mean it doesn't have to be on the flip ,
+to --> A,D,B
+dialogue type : Suggest
+C : it can be on the side somewhere .
+
+to --> 
+dialogue type : Comment-About-Understanding
+A : Yeah , the sides maybe is good .
+
+to --> A,D,C
+dialogue type : Suggest
+B : You need to work on the weight a little bit .
+
+to --> A,D,B
+dialogue type : Suggest
+C : And maybe the shape of the buttons ,
+to --> A,D,B
+dialogue type : Inform
+C : the little egg shapes aren't the most economical , but
+
+to --> D,C,B
+dialogue type : Assess
+A : I'm satisfied .
+
+to --> B
+dialogue type : Suggest
+C : We could have possibly made it a lot thinner as well .
+
+to --> A,D,B
+dialogue type : Inform
+C : And part of the thing is m a lot of people say that they don't like something that's too light ,
+
+to --> A,D,B
+dialogue type : Assess
+C : So I mean maybe this is excessively heavy ,
+
+to --> A,D,B
+dialogue type : Inform
+C : because they don't feel like they have enough control over it .
+
+to --> A
+dialogue type : Inform
+C : So that's pretty much it for our presentation actually .
+
+to --> A
+dialogue type : Assess
+D : Well , the prototype is is very well within the design and ideas that we've we've talked about on the previous meetings .
+to --> A,D
+dialogue type : Inform
+D : Now it goes into this next phase as the financial uh marketing uh
+
+to --> D,C,B,A
+dialogue type : Inform
+A : so then let's come to the finance uh ,
+to --> D,C,B
+dialogue type : Offer
+A : I have some uh calculations which I made uh as for uh the budget .
+to --> D,C,B
+dialogue type : Inform
+A : So here you can uh look like uh the energy and uh dynamo and uh kinetic and solar cells .
+to --> D,C,B
+dialogue type : Inform
+A : Uh it's optional , somewhat optional
+to --> D,C,B
+dialogue type : Inform
+A : and Ed wants the chip on print , that's what uh we were talking about that .
+
+to --> D,C,B
+dialogue type : Inform
+A : So then we have sample sensor and sample speaker , then uh we have the wood material , then special colour and push button .
+
+to --> D,C,B
+dialogue type : Inform
+A : actually , our budget was uh twelve point five Euro ,
+to --> D,C,B
+dialogue type : Inform
+A : but uh it's coming to nine point nine five Euro ,
+to --> D,C,B
+dialogue type : Inform
+A : so we are under uh below the budget ,
+
+to --> A,C,B
+dialogue type : Assess
+D : Well we haven't come to mine yet , so
+to --> A,C,B
+dialogue type : Inform
+D : we're gonna have a bit of difference of opinion , yes .
+
+to --> D
+dialogue type : Elicit-Inform
+B : . It's gonna cost a long way to c you know , cost a lot of money to market it , is it ?
+
+to --> A,C,B
+dialogue type : Inform
+D : on this pr provisionary cost analysis , we do not have a L_C_ display .
+to --> A,C,B
+dialogue type : Inform
+D : L_C_ display is gonna be very expensive ,
+
+to --> D
+dialogue type : Inform
+C : No we do , but it's not filled in .
+
+to --> C
+dialogue type : Inform
+D : We don't have the price up there ,
+
+to --> D
+dialogue type : Be-Positive
+C : you're right , sorry , yes .
+
+to --> A,C,B
+dialogue type : Inform
+D : okay , so if we add approximately two to three Euro per remote , now we're up around about twelve , twelve and a half as to what uh the company had initially uh requested . Um
+
+to --> D
+dialogue type : Suggest
+B : So that means we can put the uh the L_C_D_ in , yeah .
+
+to --> A,C,B
+dialogue type : Inform
+D : But as far as production um I'm putting up a question
+to --> A,C,B
+dialogue type : Inform
+D : because we're talking about profit also ,
+to --> A,C,B
+dialogue type : Inform
+D : and in mine you'll see uh the problem with uh our survey , the p the possibility that how many units can be sold , what percentage of the market , etcetera etcetera
+
+to --> A,C,B
+dialogue type : Inform
+D : Uh this is just production cost , it is not uh advertising cost , it's not transportation cost uh
+to --> A
+dialogue type : Inform
+D : And that will inflate quite a bit the cost of the uh the cost of the unit for the company .
+to --> A,C,B
+dialogue type : Inform
+D : So to come up with what the company wants is a fifty million Pound profit , we're gonna have to go a long ways .
+
+to --> D
+dialogue type : Inform
+A : so when it go into the quantity , okay , and the cost will come down .
+
+to --> A
+dialogue type : Inform
+B : Although customisation , because this is being done , you know , the on on-order basis , it might be uh the the quantity won't m won't uh
+
+to --> A
+dialogue type : Inform
+D : It's gonna be very hard to reduce .
+
+to --> A,D,C
+dialogue type : Assess
+B : Uh you got some pretty cheap labour that can do this case for one Euro .
+
+to --> D,C,B
+dialogue type : Offer
+A : so what uh I will do is I will try to negotiate with the vendors , okay , to get uh the production cost less , okay ,
+to --> D,C,B
+dialogue type : Inform
+A : so then we can save some money , okay , to put into th our marketing or uh you know the promotions , whatever , okay ,
+
+to --> D,C,B
+dialogue type : Offer
+A : I will speak to the management and how to get uh you know some more uh cost down .
+
+to --> A,C,B
+dialogue type : Inform
+D : So now I'm gonna scare everybody out of this project .
+
+to --> A,C,B
+dialogue type : Inform
+D : since uh we need to have some type of idea on a market uh we had independent study that says it this this market has an availability to absorb eight mi eight million units per year .
+
+to --> A,C,B
+dialogue type : Inform
+D : Our internal company evaluation puts it between eight to nine million
+
+to --> A,C,B
+dialogue type : Inform
+D : Which means that uh if we have a target of two million would the company has to take twenty five percent of the market in the first year ,
+to --> A,C,B
+dialogue type : Inform
+D : which is actually a tremendous amount .
+
+to --> A,C,B
+dialogue type : Suggest
+D : if we put an inflated price of fifty Euro at a production cost that cannot exceed twenty-five Euro ,
+
+to --> A,C,B
+dialogue type : Inform
+D : with transport , promotion , labour , because we hav gi included the promotion in the cost , transport for the material to the stores or whatever how however we're gonna break this down between our our retailers .
+
+to --> A,C,B
+dialogue type : Inform
+D : At two million units , we have to have a profit of twenty-five Euro per unit to get to the fifty million unit Eu Euro profit .
+
+to --> A,C,B
+dialogue type : Inform
+D : I just did a run down the evaluation of the form ,
+to --> A,C,B
+dialogue type : Inform
+D : the fan uh the fancy stylishness of the of the unit , the ease of use , speech recognition , cost , we've gone through these .
+to --> A,C,B
+dialogue type : Inform
+D : Now , the company must evaluate the feasibility of being able to take enough of the market to justify in production .
+
+to --> A,C,B
+dialogue type : Inform
+D : but being that the market changes very very quickly , maybe there's no more interest in buying this thing in eighteen months from now .
+to --> A,C,B
+dialogue type : Suggest
+D : So , now we have to come up with a decision .
+to --> A,C,B
+dialogue type : Elicit-Inform
+D : Can the company sell two million units ?
+to --> A,C,B
+dialogue type : Elicit-Inform
+D : Can it sell it for fifty Euros ?
+
+to --> A,D,C
+dialogue type : Offer
+B : Uh uh um I would uh like to explore the possibility of using um alternative um delivery and sales channel
+to --> A,D,C
+dialogue type : Suggest
+B : which would be um to use the internet for promotion and ordering
+to --> A,D,C
+dialogue type : Suggest
+B : and then to drop-ship the p product to the customer's residence .
+
+to --> B
+dialogue type : Suggest
+C : You can do a shipping centre somewhere ,
+to --> B
+dialogue type : Suggest
+C : or strategically place shipping centres to minimise distance costs .
+
+to --> A,D,C
+dialogue type : Suggest
+B : In fact , we should sell through Amazon ,
+
+to --> A
+dialogue type : Assess
+B : Or eBay , yeah .
+
+to --> A,D,B
+dialogue type : Inform
+C : That actually makes more sense if we're gonna make it so highly customisable ,
+to --> A,D,B
+dialogue type : Inform
+C : 'cause on the web people can look at the different options they have , see maybe what other people have done , what the range of possibility as ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : And you can even have an a movie that you can rotate the object and look at the di
+to --> A,D,C
+dialogue type : Inform
+B : the only thing that you're missing really is the weight .
+
+to --> A,D,B
+dialogue type : Inform
+C : The weight and feel .
+
+to --> A,D,C
+dialogue type : Inform
+B : but people are getting used to buying things online that they can't touch before buying .
+
+to --> A,C,B
+dialogue type : Inform
+D : maybe there's a possibility of selling more than two million units in one year , which could you know , feasibili feasibility uh lower the price of the unit .
+
+to --> D,C,B
+dialogue type : Inform
+A : I don't think that's uh not possible ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : okay then , l uh let's wait for the production , okay , then uh you can evaluate the product ,
+to --> D,C,B
+dialogue type : Inform
+A : so how it looks like technically and uh how it look like uh the real .
+
+to --> A,D,B
+dialogue type : Elicit-Inform
+C : Well I was just wondering about if we're gonna do a product evaluation then what about time for redesign if the users come back and tell us no this is bad , this is bad , we want this done differently .
+
+to --> A,D,C
+dialogue type : Suggest
+B : We probably should do some market tests uh once we have the prototypes and do some orders and things like that and test-market it .
+
+to --> A,C,B
+dialogue type : Suggest
+D : Mm that'd have to be thrown out on the market for people to get an idea ,
+
+to --> 
+dialogue type : Inform
+A : So you can take a minimum two weeks to a maximum four weeks .
+
+to --> A,D,B
+dialogue type : Inform
+C : Think minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use
+
+to --> D,C,B
+dialogue type : Inform
+A : Okay , so then the real production we will start once we product evaluation , okay ,
+
+to --> 
+dialogue type : Suggest
+A : Let's proceed with this model , okay , for the for the marketing direction , okay .
+to --> D,C,B
+dialogue type : Inform
+A : So no more changes will be made , okay , in this the basic design .
+
+to --> D,C,B
+dialogue type : Inform
+A : So we will introduce m this model and uh let's introduce in the market
+to --> D,C,B
+dialogue type : Inform
+A : and let's take the feedback from the customers , then we can uh go for the
+to --> D,C,B
+dialogue type : Inform
+A : second generation .
+
+to --> 
+dialogue type : Inform
+C : The problem is there might not be a second generation if the first generation flops for some silly reason that we haven't thought of .
+
+to --> C
+dialogue type : Inform
+A : Well , every customer , okay , they have their own ideas , they have their own test , okay , so there's no end , there's no limit .
+
+to --> A
+dialogue type : Inform
+C : No , but there's a difference between releasing a product that has been minimally tested and fine-tuned to suit a general range of requirements versus releasing a product that we think will work but we don't really have anything to back it up .
+
+to --> A
+dialogue type : Inform
+C : I mean the whole point of user evaluation is to see what real people need .
+
+to --> A
+dialogue type : Inform
+C : well you have no redesign not you personally , but in the project we have no redesign time and
+
+to --> D
+dialogue type : Elicit-Inform
+B : Ed , d do you know what season of the year or time of the year is the most important for T_V_ remote control sales ?
+to --> D
+dialogue type : Suggest
+B : Would it be the Christmas season by any chance ?
+
+to --> 
+dialogue type : Inform
+A : The sports time .
+
+to --> A
+dialogue type : Assess
+B : Sports season .
+
+to --> B
+dialogue type : Inform
+D : Right before the Eur the World Cup . World soccer . World Cup soccer ,
+
+to --> A,D,C
+dialogue type : Suggest
+B : So I think what we need to do is perhaps to synchronise the final the the launch of a user-tested device with some special event .
+
+to --> B
+dialogue type : Assess
+C : Yeah , that's a good idea .
+
+to --> A,D,C
+dialogue type : Suggest
+B : but , so , I'm just ig uh pointing out a uh a strategy to uh do some additional user testing
+to --> A,D,C
+dialogue type : Suggest
+B : pri and then to launch um at a a major sports event
+
+to --> B
+dialogue type : Inform
+C : That's actually good place to advertise it too .
+
+to --> A,D,C
+dialogue type : Inform
+B : There might be some motion pictures that are coming out um that are coming out on D_V_D_ that uh they need to have a m special remote control to work with it ,
+
+to --> A
+dialogue type : Suggest
+B : Maybe some management has got uh relationships there we can leverage .
+
+to --> A,D,B
+dialogue type : Inform
+C : A lot of products have gone out there without being properly user-tested and completely flopped ,
+to --> A,D,B
+dialogue type : Inform
+C : when in fact it gets re-released a few years down the line with proper testing and it takes off like crazy .
+
+to --> A,D,C
+dialogue type : Inform
+B : so , you're right , timing is very important ,
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : Okay , so then uh let's come to the closing
+to --> D,C,B
+dialogue type : Inform
+A : and uh are the costs within the budget
+to --> D,C,B
+dialogue type : Inform
+A : and uh is the product evaluated , okay , so that will uh come soon .
+to --> D,C,B
+dialogue type : Be-Positive
+A : Okay for uh but our time being , so thanks for all your efforts and great work and uh great design
+
+to --> B
+dialogue type : Offer
+A : Yes , the that of course uh I will convince the management to do that , okay .
+
+to --> D,B
+dialogue type : Suggest
+A : I think he can promote the the brand value and the product value .
+
+to --> D
+dialogue type : Suggest
+A : and uh let's leave it to the Ed for later for once production is over
+

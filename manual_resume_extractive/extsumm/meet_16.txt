@@ -1,0 +1,518 @@
+to --> D,C,B,A
+dialogue type : Inform
+A : we'll have um first the project presentation by our User Interface Designer , David Jordan ,
+
+to --> D,C,B,A
+dialogue type : Inform
+A : and our Industrial Designer , Baba .
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh the basic colour is uh yellow and red .
+
+to --> A,D,B
+dialogue type : Inform
+C : And the shape , there's two basic shape .
+
+to --> A,D,B
+dialogue type : Inform
+C : It's looks like some mushroom , so we call it mushroom design .
+
+to --> A,D,B
+dialogue type : Inform
+C : So there are several key features of our pr prototype .
+to --> A,D,B
+dialogue type : Inform
+C : The first is that it is fuzzy .
+to --> A,D,B
+dialogue type : Assess
+C : I'm sure this would be the unique design the market .
+
+to --> A,D,B
+dialogue type : Inform
+C : the second key feature is that uh s circle channel um selection .
+
+to --> A,D,B
+dialogue type : Inform
+C : The first is a circle and the second is a triangle s piece .
+
+to --> A,D,B
+dialogue type : Inform
+C : Uh the third feature is a stable triangle base .
+
+to --> A,D,B
+dialogue type : Inform
+C : So it's v Um , you can put it in the table so you can turn the the ball to cha to select the channel
+
+to --> A,D,C
+dialogue type : Assess
+B : Yeah but it's not like really mushroom because you have uh you know uh like lemon shape , you know ,
+
+to --> A,C,B
+dialogue type : Inform
+D : Yeah , because mushroom was not in the trends .
+
+to --> D,C,B
+dialogue type : Inform
+A : Fruits and vegetables .
+
+to --> A,D,C
+dialogue type : Assess
+B : And inspired colour
+to --> 
+dialogue type : Assess
+B : and and very sophisticated material , so .
+
+to --> A,D,C
+dialogue type : Inform
+B : the low level chips inside
+
+to --> C
+dialogue type : Inform
+B : The battery it is under .
+to --> A,C
+dialogue type : Inform
+B : It is in th in in the base , yeah .
+to --> A
+dialogue type : Inform
+B : In fact this this this this is a kind of you know revolutionary solar receptor that we can put outside and
+
+to --> A,D,B
+dialogue type : Assess
+C : Yeah , the shape is unique ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : Maybe if you change if you take the buttons out ,
+
+to --> A,C,B
+dialogue type : Suggest
+D : I dunno , maybe improving the texture of like having it less smooth or
+
+to --> D,C,B
+dialogue type : Assess
+A : Looks like more fruit .
+
+to --> D,C,B
+dialogue type : Assess
+A : It looks more like a pineapple .
+
+to --> A
+dialogue type : Inform
+C : If you want to turn the ball , it's very it's very convenient for you to to to turn the ball to change the channel .
+
+to --> C
+dialogue type : Elicit-Inform
+A : And where is the voice recognition ?
+
+to --> A
+dialogue type : Inform
+C : Ah , it's embedded , your microphone .
+
+to --> A,C,B
+dialogue type : Elicit-Assessment
+D : First one is we have to judge the fancy look and feel .
+
+to --> A,C,B
+dialogue type : Assess
+D : No , the colour is okay , that's fine .
+
+to --> A,C,B
+dialogue type : Assess
+D : but I would say there is more too much red .
+
+to --> A,C,B
+dialogue type : Elicit-Assessment
+D : Right . So , from one to seven ?
+
+to --> A,C,B
+dialogue type : Assess
+D : Three .
+
+to --> D,C,B
+dialogue type : Suggest
+A : let's say it's a pineapple now .
+
+to --> A,C,B
+dialogue type : Inform
+D : The other criterion is is it technologically uh technologically in innovative .
+
+to --> A,D,B
+dialogue type : Inform
+C : There four microphone .
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : And you can turn it so maybe it's techno technologically innov innovative ?
+
+to --> A,D,B
+dialogue type : Inform
+C : Yeah , so you can capture s voice from different directions . Yeah .
+
+to --> A
+dialogue type : Assess
+D : Yeah bu but when you say technologically it's more uh I dunno , in the core , or single .
+
+to --> A,D,C
+dialogue type : Assess
+B : And I think you you've never seen a rou a round remote control , so it is
+
+to --> D,C,B
+dialogue type : Assess
+A : We have tactile buttons .
+
+to --> A,D,C
+dialogue type : Assess
+B : I see , you have microphone array embedded .
+
+to --> A,D,C
+dialogue type : Assess
+B : I think technically it's acceptable , so
+
+to --> D,C,B
+dialogue type : Assess
+A : I would say two
+
+to --> A,C,B
+dialogue type : Elicit-Assessment
+D : is it easy to use ?
+
+to --> A,D,C
+dialogue type : Assess
+B : Eh , for th the vocal command yes , it's might be easy .
+
+to --> A,C,B
+dialogue type : Assess
+D : Yeah but this this turning
+
+to --> C
+dialogue type : Elicit-Assessment
+D : Yeah but how how intuitive is it to turn things to change channels ?
+
+to --> D,C,B
+dialogue type : Assess
+A : and you can turn like that to change the channel ?
+
+to --> A,C,B
+dialogue type : Assess
+D : Yeah I'm I'm no I'm not definitely convinced it's it's the best way to if you wanna jump from , I dunno , one to twenty ?
+
+to --> A,D,C
+dialogue type : Assess
+B : Oh yeah , that's difficult . That's dif that's difficult .
+
+to --> A,D,B
+dialogue type : Inform
+C : then the angle you stop is the angle you is the channel you
+
+to --> C
+dialogue type : Elicit-Inform
+D : How d how do you know this angle is th is the correct one ?
+
+to --> A,D,B
+dialogue type : Inform
+C : It's it's very easy , because you kn you know how many channel are there in the
+
+to --> A,D,C
+dialogue type : Assess
+B : I think b but the the vocal command is easy too .
+
+to --> A,D,B
+dialogue type : Assess
+C : So it's coarse to fine design .
+
+to --> A,D,C
+dialogue type : Be-Positive
+B : that's very technologic , so . Yeah .
+
+to --> D,C,B
+dialogue type : Inform
+A : yeah it's a sleeping remote control .
+
+to --> A,C,B
+dialogue type : Assess
+D : Ah , that's not the ecological part , yeah .
+
+to --> D,C,B
+dialogue type : Inform
+A : W that why we have the solar ti yeah .
+
+to --> A,D,C
+dialogue type : Assess
+B : To compensate .
+
+to --> D
+dialogue type : Assess
+C : I think it's easier than traditional controller .
+
+to --> D
+dialogue type : Inform
+C : you have you just turn the turn the ball .
+
+to --> 
+dialogue type : Assess
+B : it's reasonable three .
+
+to --> A,C,B
+dialogue type : Assess
+D : those are sort of agreed but this one would be more five to me .
+
+to --> C
+dialogue type : Elicit-Inform
+D : But this this has to stay on the table , right ?
+
+to --> A,D,C
+dialogue type : Inform
+B : In fact on a flat place
+
+to --> D,C,B
+dialogue type : Inform
+A : You need to have everything in hand .
+to --> D,C,B
+dialogue type : Inform
+A : If you want to turn , you can't use it and turn .
+
+to --> A,C,B
+dialogue type : Assess
+D : You know tha that's the weak point ,
+
+to --> 
+dialogue type : Assess
+D : Yeah , you would never you would never lose this one , yeah .
+
+to --> A,D,C
+dialogue type : Assess
+B : Yeah , four it's more reasonable , so .
+
+to --> A,D,C,B
+dialogue type : Suggest
+B : It need maybe some wo further work , but it's
+
+to --> A,C,B,D
+dialogue type : Assess
+D : Yeah , especially on the easy to use
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : But I d m I think that it will be good to do some more work to transform this into a pineapple .
+
+to --> D,C,B,A
+dialogue type : Suggest
+A : we need to calculate the production cost .
+to --> D,C,B
+dialogue type : Suggest
+A : As I said in the first meeting we need to have so a remote control that would cost not more than twelve and point fifty Euros .
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : Um , how many do y do you need , solar cells ?
+
+to --> D,C,B
+dialogue type : Inform
+A : but we have solar cells .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Uh I think in each ball you have three
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : Single simple chip on print ?
+
+to --> D,C,B
+dialogue type : Inform
+A : And sample sensor , sample speaker .
+
+to --> A,D,C
+dialogue type : Assess
+B : Mm . One maybe , yeah .
+
+to --> A,C,B
+dialogue type : Assess
+D : So we are all already nineteen .
+
+to --> A,D,B
+dialogue type : Assess
+C : The solar cell is too expensive .
+
+to --> A,D,C
+dialogue type : Inform
+B : There's no wood , so plastic just only , I think .
+
+to --> D,C,B
+dialogue type : Inform
+A : We have two special colours .
+
+to --> A,D,B
+dialogue type : Suggest
+C : We have change the electronics to from from the the the sample sensor to regular chip . Oh .
+
+to --> A,C,B
+dialogue type : Assess
+D : Yeah w one of the m key point is solar cells .
+
+to --> D,C,B
+dialogue type : Suggest
+A : Maybe if w t if suppose if we change and we g put just one ?
+
+to --> A,D,C
+dialogue type : Suggest
+B : I think you can transform the wood into plastic , maybe .
+
+to --> A,C,B
+dialogue type : Suggest
+D : We could turn we could turn everything in either yellow or black .
+
+to --> D,C,B
+dialogue type : Inform
+A : An but we have integrated scroll wheel with push dut button .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Double curve . We can transform the double curve into single c yeah .
+
+to --> A,C,B
+dialogue type : Assess
+D : So we have one button ,
+
+to --> D,C,B
+dialogue type : Assess
+A : I think there's a problem with the push push button .
+
+to --> A,D,C
+dialogue type : Assess
+B : One s one scroll wheel , so
+
+to --> 
+dialogue type : Be-Positive
+A : So , yeah . It think we we've done good job , as the cost is
+
+to --> A,D,C
+dialogue type : Assess
+B : It's fine , twelve fifty uh
+
+to --> D,C,B
+dialogue type : Assess
+A : Yeah , maybe two scroll wheel , as we have the coarse coarse to fine scroll wheel .
+
+to --> D,C,B
+dialogue type : Assess
+A : Okay we I think we have problem .
+
+to --> D,C,B
+dialogue type : Assess
+A : I think we s if we keep on adding things
+
+to --> D,C,B
+dialogue type : Elicit-Inform
+A : Push button .
+
+to --> 
+dialogue type : Inform
+C : Mm . Yeah , we have four .
+
+to --> 
+dialogue type : Assess
+A : I think it's more like double curved .
+
+to --> D,C,B
+dialogue type : Suggest
+A : But it would i be interesting for our marketing team , to make a lot of advertisement concerning these solar cells to be
+
+to --> A,D,C
+dialogue type : Assess
+B : It's it is really really uh really very very expensive , though .
+
+to --> D,B
+dialogue type : Assess
+A : Yeah but it will be technologically innova innovative , so .
+
+to --> C,A
+dialogue type : Elicit-Assessment
+A : So did you enjoy your clay modelling ?
+
+to --> 
+dialogue type : Assess
+C : Yes . Of course . This is my job .
+
+to --> A,D,C,B
+dialogue type : Be-Positive
+B : Yeah , I think I find it really funny and amazing and interesting to go through all the process to from the beginning to the end .
+to --> A,D,C
+dialogue type : Assess
+B : And designing , looking at the chips , the solar cells and uh and it was very informative for .
+
+to --> A,C,B,D
+dialogue type : Suggest
+D : Uh tha that was good but we should have more brainstorming like meetings , maybe .
+to --> A,C,B
+dialogue type : Assess
+D : 'Cause we just presenting one is presenting his stuff
+to --> A,C,B
+dialogue type : Assess
+D : next one his stuff and then we try to combine afterwards , so it um .
+
+to --> 
+dialogue type : Suggest
+C : Could we come up with new T_V_ with such as this kind of T_V_ ?
+
+to --> D,C,B
+dialogue type : Suggest
+A : You could f we could do a kind of fruit collection of electronics things . Electronic device .
+
+to --> A,C,B
+dialogue type : Assess
+D : 'Cause fruit and vegetables it won't last for ten years uh .
+
+to --> A,D,C
+dialogue type : Assess
+B : But I think it's good to follow the f flow and you know make it now and after , you know , if the people change their mind you change also the product .
+
+to --> A,D,C
+dialogue type : Suggest
+B : We can think about T_V_ with you know where you can change you know the aspects o like for the cell phones , you know .
+
+to --> D,C,B
+dialogue type : Assess
+A : So I think the costs are within the budget .
+
+to --> C
+dialogue type : Elicit-Assessment
+A : do you think you can celebrate your creation ?
+
+to --> A
+dialogue type : Be-Positive
+C : And you can celebrate your leadership .
+
+to --> A,C,B
+dialogue type : Assess
+D : I'm not so happy about the fruit shape , you know .
+
+to --> A,C,B
+dialogue type : Inform
+D : Uh yeah , another thing is the logo is missing still .
+
+to --> A,C,B
+dialogue type : Assess
+D : It's yeah but it I don't think it's such a problem just putting the logo somewhere .
+
+to --> A,D,C
+dialogue type : Suggest
+B : Uh f like y we can we can put some uh double R_
+
+to --> D,C,B
+dialogue type : Suggest
+A : So maybe we can just integrate it on th on one side , the double R_ .
+
+to --> A,D,B
+dialogue type : Suggest
+C : So we have give him give it a cute name .
+
+to --> A,D,C
+dialogue type : Inform
+B : It's a pineapple remote controls .
+
+to --> D,C,B
+dialogue type : Assess
+A : and we have a nearly final product .
+

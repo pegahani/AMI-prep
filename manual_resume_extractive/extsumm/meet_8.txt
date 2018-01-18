@@ -1,0 +1,366 @@
+to --> ,A
+dialogue type : Inform
+A : So we are here for the detailed design meeting .
+
+to --> ,A
+dialogue type : Inform
+A : I will first present what we are going to do in this meeting .
+
+to --> ,A
+dialogue type : Inform
+A : I will also take notes during this meeting
+to --> ,A
+dialogue type : Inform
+A : and I will send you uh a summary then as usual .
+to --> ,A
+dialogue type : Inform
+A : We will then look at the evaluation criteria of the prototype presented by uh our two colleagues
+
+to --> ,A
+dialogue type : Inform
+A : And uh then we will see the financial aspects and the cost of the product .
+to --> ,A
+dialogue type : Inform
+A : Then we will uh evaluate the product .
+to --> ,A
+dialogue type : Inform
+A : And uh end with the conclusion of this project and see whether it fits with it fulf if it fulfil the requirement or not .
+
+to --> ,A
+dialogue type : Suggest
+A : let's start with the cost aspect
+
+to --> 
+dialogue type : Inform
+A : I look at the aspect discussed last time ,
+to --> 
+dialogue type : Inform
+A : that is to say uh to have a standard battery ,
+to --> 
+dialogue type : Inform
+A : to have a yellow banana shaped uh case with uh a rubber material around it
+
+to --> 
+dialogue type : Inform
+A : uh to feel spongy ,
+to --> 
+dialogue type : Inform
+A : and uh also at the different aspect like having a wheel etcetera .
+to --> 
+dialogue type : Inform
+A : And the cost ended to be ten point seven Euros .
+
+to --> 
+dialogue type : Assess
+A : which is uh good ,
+to --> 
+dialogue type : Inform
+A : because we had a price gap of twelve point five Euros .
+
+to --> 
+dialogue type : Assess
+A : for the financial aspect it's okay ,
+to --> 
+dialogue type : Inform
+A : we can uh we can continue with this product uh as if ,
+to --> ,A
+dialogue type : Suggest
+A : and we are now going to see the project evaluation with uh our marketing expert .
+
+to --> 
+dialogue type : Inform
+D : I made an evaluation
+to --> 
+dialogue type : Inform
+D : and the the evaluation criteria is made according to the users' requirements and the market trends we talked about uh during the previous uh meetings .
+
+to --> 
+dialogue type : Inform
+D : we have uh six points .
+
+to --> 
+dialogue type : Inform
+D : we we want to have a product fancy look and feel , technologically innovative , easy to use , fashion , easy to find in a room , and robust ,
+
+to --> 
+dialogue type : Inform
+D : I have a scale of uh seven points .
+
+to --> ,D
+dialogue type : Offer
+D : I go through all the uh all the points here ,
+to --> ,D
+dialogue type : Suggest
+D : and uh according to what you think about the this project you can uh mm make a one point , two point or seven point .
+
+to --> ,D
+dialogue type : Inform
+D : And after we ha we have an an average , and uh we see .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : fancy look and feel , what do you think ?
+
+to --> 
+dialogue type : Inform
+D : between o one and seven .
+
+to --> 
+dialogue type : Assess
+C : I give it a I give it a five .
+
+to --> 
+dialogue type : Assess
+A : So I think it's uh very uh very nice .
+
+to --> 
+dialogue type : Elicit-Inform
+A : it's between one and seven ?
+to --> 
+dialogue type : Elicit-Inform
+A : Seven is the highest uh ?
+
+to --> 
+dialogue type : Inform
+D : Seven is the
+
+to --> 
+dialogue type : Assess
+A : I will give a six .
+
+to --> 
+dialogue type : Assess
+B : I will give a a five .
+
+to --> ,A
+dialogue type : Suggest
+A : Maybe we all have to agree on a common
+
+to --> ,D
+dialogue type : Elicit-Inform
+D : uh I don't know if you we ha we have to put uh one uh f If it's better or
+
+to --> ,A
+dialogue type : Suggest
+A : we can choose what we want .
+
+to --> ,A
+dialogue type : Suggest
+A : let's say that seven is the best .
+
+to --> 
+dialogue type : Inform
+A : do note the grade we have five , six for me ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : How much would you give on the fancy aspect , on the fashionable aspect ?
+
+to --> 
+dialogue type : Elicit-Assessment
+D : I think six , it's a good uh
+
+to --> 
+dialogue type : Inform
+C : So it will have five point five average .
+
+to --> ,D
+dialogue type : Elicit-Assessment
+D : after , the technological aspect ?
+
+to --> 
+dialogue type : Inform
+D : we we said uh we have uh a new technological uh thing with a wheel .
+
+to --> 
+dialogue type : Inform
+A : We also have the rubber material ,
+
+to --> 
+dialogue type : Assess
+A : I think I would give a five .
+
+to --> 
+dialogue type : Assess
+C : It's four .
+
+to --> 
+dialogue type : Assess
+B : A four also ,
+to --> 
+dialogue type : Inform
+B : because , except for the wheel , we don't have so much innovation .
+
+to --> 
+dialogue type : Elicit-Inform
+C : are we including the voice in the end or not ? Huh ?
+
+to --> 
+dialogue type : Inform
+A : No .
+
+to --> ,A
+dialogue type : Assess
+A : Yeah , four . Four , yeah , let's put four .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Very easy to use . Do you think it's easy to use ?
+
+to --> 
+dialogue type : Assess
+C : I give a seven , I think .
+
+to --> 
+dialogue type : Assess
+D : Mm , six for me also .
+
+to --> 
+dialogue type : Inform
+A : six point five .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Is it fashion ?
+
+to --> 
+dialogue type : Inform
+A : its its f its fruit fruit shape .
+to --> 
+dialogue type : Assess
+A : I would say seven .
+
+to --> 
+dialogue type : Assess
+D : Yeah it's fashion ,
+
+to --> 
+dialogue type : Assess
+C : we can we can put a seven here .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Easy to find .
+
+to --> 
+dialogue type : Assess
+A : I think you can't miss it .
+
+to --> 
+dialogue type : Assess
+C : I think it's cool .
+
+to --> 
+dialogue type : Inform
+D : We have the lightning ,
+
+to --> 
+dialogue type : Elicit-Assessment
+C : So you'll make the material transparent
+to --> 
+dialogue type : Inform
+C : so that it uh lights up completely ,
+
+to --> 
+dialogue type : Assess
+A : I would say seven .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Is it is it robust ?
+
+to --> 
+dialogue type : Inform
+A : it's rubber , made of rubber ,
+
+to --> 
+dialogue type : Assess
+C : the only problem there might be which know , i if it's very sensitive ,
+
+to --> 
+dialogue type : Inform
+A : But it is uh it is surrounded by rubber material .
+to --> 
+dialogue type : Assess
+A : So maybe we can put a six .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Everybody is okay , six .
+
+to --> ,A
+dialogue type : Suggest
+A : We have to sum up everything .
+to --> 
+dialogue type : Assess
+A : Six is a good
+
+to --> 
+dialogue type : Inform
+D : Uh if we say that seven it's uh it's the better ,
+
+to --> 
+dialogue type : Assess
+D : and when uh s six sit six are good it's a good uh p product , I think .
+
+to --> ,A
+dialogue type : Assess
+A : So it's a good evaluation , I think .
+
+to --> 
+dialogue type : Assess
+D : We have a good price
+
+to --> 
+dialogue type : Assess
+A : So this prototype is quite nice .
+
+to --> 
+dialogue type : Assess
+A : So having this at twenty five Euros is uh quite attractive , I think .
+
+to --> ,A
+dialogue type : Inform
+A : The the the financial aspect were okay .
+
+to --> 
+dialogue type : Inform
+A : we have seen the prototype .
+to --> 
+dialogue type : Assess
+A : It's very nice according to the work of our two designer .
+
+to --> 
+dialogue type : Inform
+A : We we have the cost below uh our threshold
+to --> 
+dialogue type : Inform
+A : and so we could sell at twenty five Euros
+to --> 
+dialogue type : Inform
+A : and make i make profit .
+to --> ,A
+dialogue type : Assess
+A : The the evaluation give satisfying result as well .
+
+to --> 
+dialogue type : Inform
+A : the cost is in the budget ,
+to --> 
+dialogue type : Inform
+A : the evaluation is okay ,
+to --> ,A
+dialogue type : Suggest
+A : so I th I think we can now uh open champagne
+
+to --> 
+dialogue type : Be-Positive
+C : Congratulations to the team .
+to --> ,C
+dialogue type : Assess
+C : Uh very well , we worked together fantastically .
+
+to --> ,A
+dialogue type : Assess
+A : I think it was a good collaboration uh .
+

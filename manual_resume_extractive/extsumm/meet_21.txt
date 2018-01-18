@@ -1,0 +1,141 @@
+to --> 
+dialogue type : Inform
+A : Uh , we are actually doing this meeting to start a new project which is about designing a remote control .
+to --> 
+dialogue type : Inform
+A : So I'm going to be the project manager of this uh project .
+
+to --> 
+dialogue type : Inform
+A : I'm Fabien Cardinaux
+to --> ,A
+dialogue type : Suggest
+A : and uh I I guess you can present yourself .
+
+to --> 
+dialogue type : Inform
+B : so my name is Petre .
+
+to --> 
+dialogue type : Inform
+B : Uh , in the project I'm supposed to be the technic .
+
+to --> 
+dialogue type : Inform
+D : 'Kay . So my name's Bob Morris .
+to --> 
+dialogue type : Inform
+D : I'm the Marketing Expert for this project .
+
+to --> 
+dialogue type : Inform
+C : My name is Hamed Getabdar ,
+to --> 
+dialogue type : Inform
+C : and uh I'm going to be Interface Designer in this project .
+
+to --> 
+dialogue type : Inform
+A : We are talking about the project plan ,
+
+to --> 
+dialogue type : Inform
+A : Um . So what is the goal of this project ? Is to design a new remote control .
+
+to --> 
+dialogue type : Inform
+A : So it's more like we are going to do inv individual work all in o in o our specialities
+to --> 
+dialogue type : Inform
+A : and we are going to meet each other quite often to discuss and to find a good way .
+
+to --> 
+dialogue type : Inform
+A : Um so now we are going to to get used t to to the tools we are going to use all during all this project .
+
+to --> 
+dialogue type : Inform
+A : For example we can try to write what is our our favourite animal and write the f our favourite characteristics about it .
+
+to --> 
+dialogue type : Inform
+A : So I will ask you all to do the same .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Well sh should I draw the picture of the animal ?
+
+to --> 
+dialogue type : Assess
+A : Yeah , yeah , you can draw the picture , of course .
+
+to --> 
+dialogue type : Inform
+A : Uh we are going to to sell we want to sell uh this remote control for twenty five Euro Euro .
+to --> 
+dialogue type : Inform
+A : And uh our expected profit will be around fifty million Euro .
+to --> 
+dialogue type : Inform
+A : And uh we are trying to to have a market all around the world .
+
+to --> 
+dialogue type : Inform
+A : We expect a production cost of maximum uh twelve point fifty Euro .
+
+to --> 
+dialogue type : Suggest
+A : Um , so we can start today to have a first idea of what we want to do what are our experiments with remote control , and any idea ?
+
+to --> 
+dialogue type : Inform
+D : Well , from experience , um I've had remote controls in the past that have had very they've had lots and lots of buttons and they've been very small ,
+to --> 
+dialogue type : Inform
+D : and it's been very hard to to to use , because there's so many buttons ,
+
+to --> 
+dialogue type : Inform
+D : you know , on a T_V_ remote you only ever use , mostly , you know , f four or f six buttons . Um .
+
+to --> 
+dialogue type : Inform
+B : Uh first would be that in current remote controls there is no back light ,
+to --> 
+dialogue type : Suggest
+B : so if you are if you are uh playing with this in the dark room it's it's probably worth to to have something like uh back light .
+
+to --> 
+dialogue type : Inform
+B : And the second thing , f second point from me would be that in a normal remote control there is uh there are two buttons for volume control .
+to --> 
+dialogue type : Suggest
+B : But I prefer like a potential-meter or something like .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Are you not afraid that if you take your remote control you can move the slide and it could the the volume can go up very quickly
+
+to --> ,B
+dialogue type : Suggest
+B : Yeah but we can we can think of these things afterwards ,
+
+to --> 
+dialogue type : Assess
+C : I uh I prefer um remote control working with radio waves ,
+to --> 
+dialogue type : Inform
+C : because remote control working with infra-red rays you should you should you should keep it in a specific direction and then try it hard to tune .
+
+to --> 
+dialogue type : Inform
+A : So we will have a next meeting in uh thirty minutes .
+
+to --> 
+dialogue type : Inform
+A : Uh the the interface interface developer will work on the on the design of the remote control ,
+
+to --> 
+dialogue type : Inform
+A : you are going to try to to find the user requirements f uh for the remote control .
+

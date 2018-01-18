@@ -1,0 +1,225 @@
+to --> 
+dialogue type : Inform
+B : my name's Adam Duguid ,
+
+to --> 
+dialogue type : Inform
+C : Ebenezer Ademesoye .
+
+to --> 
+dialogue type : Inform
+C : I'm the Marketing Expert .
+
+to --> 
+dialogue type : Inform
+D : Tarik Rahman . T_A_R_I_K_ .
+to --> 
+dialogue type : Inform
+D : Industrial Designer .
+
+to --> 
+dialogue type : Inform
+A : Uh , Dave Cochrane .
+
+to --> 
+dialogue type : Inform
+B : And you're going to be the User Interface ,
+
+to --> ,B
+dialogue type : Inform
+B : This is the agenda for today's meeting . As you can see , w opening , acquaintance , tool training , project plan discussion , and closing .
+
+to --> 
+dialogue type : Inform
+B : the reason we're here , we're gonna design a new remote control ,
+
+to --> 
+dialogue type : Inform
+B : The very broad overview is original , trendy , and user-friendly .
+
+to --> ,B
+dialogue type : Inform
+B : We're gonna have the three kay phases ,
+
+to --> ,B
+dialogue type : Inform
+B : the functional , architectural , and the detailed design . Um
+to --> ,B
+dialogue type : Inform
+B : First one's gonna be covering the user requirement spec , technical functions , working design .
+to --> ,B
+dialogue type : Inform
+B : Second seems to be conceptual components , properties , materials ,
+to --> ,B
+dialogue type : Inform
+B : and the last one is a detailed analysis of our design so far .
+
+to --> ,B
+dialogue type : Elicit-Assessment
+B : Ebenezer , you wanna have a you wanna draw your favourite animal ?
+
+to --> 
+dialogue type : Inform
+C : Here we have an elephant .
+
+to --> ,B
+dialogue type : Elicit-Assessment
+B : Tarik , would you like to have a shot at a bit of artistry ?
+
+to --> 
+dialogue type : Inform
+D : Uh , here we have a tiger . Uh
+
+to --> ,B
+dialogue type : Suggest
+B : Dave , if you'd like to uh have a dash .
+
+to --> 
+dialogue type : Inform
+A : Um Um , the monkey , um .
+
+to --> 
+dialogue type : Assess
+B : but uh cats are one of my favourite animals ,
+
+to --> 
+dialogue type : Inform
+B : Project finance . As you can see , twelve point five Euros per unit .
+
+to --> 
+dialogue type : Inform
+B : and we're hoping to sell them for twenty five .
+to --> 
+dialogue type : Inform
+B : If we're aiming for fifty million Euros we're gonna have to be selling an awful lot of them .
+
+to --> 
+dialogue type : Inform
+C : that was profiting ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : Any ideas of where you think a new remote control could go into this market ?
+
+to --> 
+dialogue type : Inform
+A : one thing I'm aware of is , th there uh um at the sort of v very high price end of the market there's there's a em emerging market for sort of touch screen L_C_D_ remotes
+to --> 
+dialogue type : Inform
+A : that can be uh programmed in m much more sophisticated ways than sort of conventional models ,
+
+to --> 
+dialogue type : Suggest
+A : Um b it occurs to me there might be a niche for uh for a remote that aimed towards some of that sort of functionality but using a just conventional push button design .
+to --> 
+dialogue type : Inform
+A : And therefore putting it into a um well much lower price bracket .
+
+to --> 
+dialogue type : Inform
+B : with the price range we're looking at , going for a touch screen would probably be possibly out of our
+
+to --> 
+dialogue type : Inform
+A : Absolutely prohibitive ,
+
+to --> 
+dialogue type : Elicit-Inform
+B : But you think uh again something to control multiple units in uh a simple fashion .
+
+to --> 
+dialogue type : Inform
+A : I mean you get ones that you can switch between multiple units ,
+
+to --> 
+dialogue type : Suggest
+A : and ideally something into which it would have some at least limited facility for um running macros .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Would the the idea something along the lines of , one on button would turn on say the video recorder , the T_V_ , maybe the sound system as well , all in one go , is that kind of
+
+to --> 
+dialogue type : Suggest
+A : you pr uh you press uh say the play button for the D_V_D_ player and it turns the T_V_ on and onto the right channel as well , um
+
+to --> 
+dialogue type : Inform
+C : um I've noticed that uh gaming c is becoming quite popular with television ,
+
+to --> 
+dialogue type : Inform
+C : we used to e play games using our cable , using the cable subscribed the cable providers ,
+to --> 
+dialogue type : Inform
+C : but our remote controls would get worn out really easily ,
+
+to --> 
+dialogue type : Inform
+B : I've seen the bar-code design before ,
+
+to --> 
+dialogue type : Inform
+C : Instead of people entering in what time things start , you simply stri slide a bar to say what time it begins ,
+
+to --> 
+dialogue type : Assess
+C : and the remote control was not a great kind of keyboar , um keypad , for playing games .
+
+to --> 
+dialogue type : Suggest
+C : I think for gaming , you know you want you want some big buttons for up , down , left and right , shoot .
+
+to --> 
+dialogue type : Inform
+C : Uh , you wanna be able to change angles in interactive television ,
+
+to --> ,B
+dialogue type : Inform
+B : so we'll have to try and decide on some of the basic functionality ,
+
+to --> ,B
+dialogue type : Inform
+B : that'll be a key aspect especially if the idea of um some kind of macros facility
+
+to --> 
+dialogue type : Elicit-Assessment
+D : do you think they should have some sort of stick on it , rather than buttons ?
+to --> 
+dialogue type : Suggest
+D : Like uh control pads , you know of games ,
+
+to --> 
+dialogue type : Assess
+B : and that could allow n easy navigation , used as a joystick as well .
+
+to --> 
+dialogue type : Suggest
+A : Mm-hmm . The other key feature that uh that would be a good idea built into it is t is is to make something you know fairly sort of ergonomic ,
+
+to --> ,B
+dialogue type : Inform
+B : um , how the user interface might work ,
+
+to --> 
+dialogue type : Suggest
+A : something that just fits fits as comfortably as possible into the hand .
+to --> 
+dialogue type : Suggest
+A : But of course , uh al al also allows for the possibility of a more sort of slightly unconventional or attractive uh sha shape for it overall , .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : small , stylish , and something that's just a little different .
+
+to --> 
+dialogue type : Suggest
+A : Something sort of sort of sl slightly sort of biomorphic in form ,
+
+to --> ,B
+dialogue type : Offer
+B : I'll write up what we've um kind of quickly done ,
+to --> ,B
+dialogue type : Offer
+B : and I'll get that out to everybody .
+

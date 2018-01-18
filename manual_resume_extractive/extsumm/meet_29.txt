@@ -1,0 +1,328 @@
+to --> 
+dialogue type : Inform
+A : So , we are asked to to make uh uh a new remote control for television .
+to --> 
+dialogue type : Inform
+A : And the characteristics of this new remote control should be original and trendy and of course user user friendly .
+to --> 
+dialogue type : Inform
+A : So people can can use it without any any problem .
+
+to --> 
+dialogue type : Inform
+B : Yeah , so each of us has a role to do .
+
+to --> ,C
+dialogue type : Suggest
+C : Well , I think we should set the the points to to drive the project and uh
+
+to --> 
+dialogue type : Elicit-Inform
+B : B did you send us an email about this ?
+
+to --> 
+dialogue type : Offer
+A : Do you want do you want me to send you a mail ?
+
+to --> 
+dialogue type : Suggest
+D : Or you can put it in the shared folder .
+
+to --> 
+dialogue type : Elicit-Inform
+A : You get email , .
+
+to --> 
+dialogue type : Inform
+C : Yeah , from the account manager .
+
+to --> 
+dialogue type : Inform
+D : I think it's for your guys to how to design it all the aspects so you need that information .
+
+to --> 
+dialogue type : Inform
+B : We already have our role .
+
+to --> 
+dialogue type : Inform
+B : So there are three kinds of designs , that's all .
+
+to --> 
+dialogue type : Inform
+A : We have functional design , conceptual design , and detail design .
+
+to --> 
+dialogue type : Inform
+C : I think our uh responsibilities will be assigned when we in our mail we received from the account manager .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So , who will be the the responsible for the functional design ?
+
+to --> 
+dialogue type : Inform
+C : I'm doing the interface .
+
+to --> 
+dialogue type : Inform
+B : I'm doing the interface .
+
+to --> 
+dialogue type : Inform
+C : It was a little confusion about my uh
+
+to --> 
+dialogue type : Inform
+A : Okay , I'll for industrial design .
+
+to --> 
+dialogue type : Elicit-Inform
+A : And and you Norman ?
+
+to --> 
+dialogue type : Inform
+D : Uh , I'm into marketing .
+
+to --> 
+dialogue type : Inform
+B : Um working on i . User interface .
+
+to --> 
+dialogue type : Inform
+D : A design is basically for industrial design and the user interface .
+
+to --> 
+dialogue type : Inform
+B : See there's a role for everybody .
+
+to --> ,C
+dialogue type : Suggest
+C : Well , I think we can have a little discussion about what has to be done
+to --> ,C
+dialogue type : Suggest
+C : and what are your ideas about the
+
+to --> 
+dialogue type : Suggest
+A : About the design or
+
+to --> 
+dialogue type : Inform
+C : Well , w we want to have a new re remote control for for T_V_ distribution I guess .
+
+to --> 
+dialogue type : Inform
+D : I mean working remotes we already have .
+to --> 
+dialogue type : Inform
+D : This will be something different from the other remotes remote controls .
+
+to --> 
+dialogue type : Inform
+A : What we we have to keep in mind the these characteristics .
+to --> 
+dialogue type : Inform
+A : And of course it should not be very costly .
+
+to --> 
+dialogue type : Inform
+C : Well I I think that Norman and I would think about um the technical points
+to --> ,C
+dialogue type : Suggest
+C : and um we should discuss it in the next meeting , or
+
+to --> 
+dialogue type : Inform
+B : What is the most important function aspect ?
+
+to --> 
+dialogue type : Inform
+B : Yeah , it should be easy to work with .
+
+to --> 
+dialogue type : Suggest
+B : Uh . We maybe you can have a speech uh recognition interface .
+to --> 
+dialogue type : Suggest
+B : You just tell the television I want which channel .
+to --> 
+dialogue type : Suggest
+B : Or or you can say for example , um I want uh to list all the programme tonight .
+
+to --> 
+dialogue type : Suggest
+B : Just say maybe I just want to press I wanna have a button for all the movies tonight .
+
+to --> 
+dialogue type : Suggest
+B : So instead of pressing the channel number , I am choosing the programmes directly .
+
+to --> 
+dialogue type : Inform
+A : I I think if we include a lot of technology on the remote control it will be very costly .
+
+to --> 
+dialogue type : Inform
+A : Like s uh you you you say we can use speech .
+
+to --> 
+dialogue type : Inform
+B : The the idea of using speech to reduce the button , but uh and it's more natural . Yeah .
+
+to --> 
+dialogue type : Inform
+D : I mean the main uh function of remote control is to have something in the hand
+to --> 
+dialogue type : Inform
+D : and we should be very careful about the size of the remote control .
+to --> 
+dialogue type : Inform
+D : If we are going to add a speech interface , I'm not sure with trendy slim size of the remote control it would be able to put a speech recog
+to --> 
+dialogue type : Suggest
+D : if you want to put a speech recognition system f interface for that I think the T_V_ itself could have it .
+to --> 
+dialogue type : Inform
+D : And I could talk to the T_V_ television itself .
+
+to --> 
+dialogue type : Suggest
+B : But th the main idea I wanted to s I wanted to say is that um there should be a function , instead of choosing the ch T_V_ channel , there's a option you can choose , either T_V_ channels or or pr or the or the contain or the contents of the programme .
+
+to --> 
+dialogue type : Assess
+C : Yeah , yeah it's it's a good idea it's a good idea
+to --> 
+dialogue type : Assess
+C : but I I think that technically it would be um a little bit uh uh more tricky to to achieve this than just to
+
+to --> 
+dialogue type : Inform
+B : because you see now all the T_V_ programmes are available on the webs .
+
+to --> 
+dialogue type : Suggest
+B : We just want to retrieve the content
+
+to --> 
+dialogue type : Suggest
+B : so we can just use the service available .
+
+to --> 
+dialogue type : Suggest
+B : And then there's there are only six buttons for six categories , or sev seven .
+to --> 
+dialogue type : Suggest
+B : The most there are only seven buttons .
+to --> 
+dialogue type : Suggest
+B : So I just choose the category one
+to --> 
+dialogue type : Suggest
+B : and you reuse the same button , for example to to choose among the the sorted list the programme you want ,
+
+to --> 
+dialogue type : Suggest
+C : Well I I I I think that j just by using navigation buttons and the user interface on the screen we are able to uh navigate uh through the Well channel programme or contents or in an easy way , so
+
+to --> 
+dialogue type : Inform
+B : Yeah , so you don't have to display here ,
+to --> 
+dialogue type : Inform
+B : just display on the T_V_ screen , right ?
+
+to --> 
+dialogue type : Inform
+B : Because all the T_V_ uh the the remote control have all numbers , lots of buttons
+
+to --> 
+dialogue type : Inform
+C : and just uh with the with your remote control would just navigate through the f
+
+to --> 
+dialogue type : Inform
+C : I think for for the technical points we have to to to check how to gather the data from programme or contents and all this stuff
+
+to --> 
+dialogue type : Inform
+B : Ah w w we have sometimes to use the white-board .
+
+to --> 
+dialogue type : Suggest
+D : And another interesting idea for this would be to have an light adaptation system depending upon the picture of
+to --> 
+dialogue type : Suggest
+D : So , I mean , if you're watching a movie and suddenly there is a dark uh some dark scene , the lights adapt themself .
+to --> 
+dialogue type : Suggest
+D : The lighting in the room changes .
+
+to --> 
+dialogue type : Inform
+B : Yeah , but we are designing just remote control .
+
+to --> 
+dialogue type : Suggest
+D : I mean , we have a option in the remote control .
+to --> 
+dialogue type : Suggest
+D : If we want to have that option , you press that button in the remote .
+
+to --> 
+dialogue type : Suggest
+B : Okay , do you want to have a conceptual remote control there ,
+to --> 
+dialogue type : Suggest
+B : or you just want to put the function in ?
+
+to --> 
+dialogue type : Inform
+B : the most important function is to ch choo buttons to choose the content . Right ?
+
+to --> 
+dialogue type : Inform
+B : Uh , uh first one is to uh buttons i or it could be anything with buttons . Uh to choose uh content s or channels .
+
+to --> 
+dialogue type : Inform
+C : And uh we we have to find a way how to gather information about the contents .
+
+to --> 
+dialogue type : Inform
+B : so technically how the problems that how to do it is to how to get the content .
+
+to --> 
+dialogue type : Assess
+C : I think i it's not very difficult to to browse by channel
+
+to --> ,C
+dialogue type : Suggest
+C : and uh to uh reflect about it
+to --> ,C
+dialogue type : Suggest
+C : and uh discuss it in the next meeting .
+
+to --> ,B
+dialogue type : Offer
+B : we will get some information in the next meeting ,
+
+to --> ,B
+dialogue type : Inform
+B : We will get information
+to --> ,B
+dialogue type : Inform
+B : and then we'll come back in .
+
+to --> ,A
+dialogue type : Suggest
+A : So maybe we'll meet in maybe five minutes ?
+to --> ,A
+dialogue type : Suggest
+A : And we'll discuss the other other aspects .
+
+to --> 
+dialogue type : Inform
+C : I think that's the the things to do
+

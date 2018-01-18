@@ -1,0 +1,1230 @@
+to --> 
+dialogue type : Be-Positive
+A : welcome everyone .
+to --> ,A
+dialogue type : Inform
+A : Um as you may have noticed I uh
+to --> ,A
+dialogue type : Inform
+A : created separate folders
+to --> ,A
+dialogue type : Inform
+A : because it was uh tending to get a little busy in our uh shared project documents uh folder .
+to --> ,A
+dialogue type : Elicit-Inform
+A : I don't know if everybody uh put their own uh documents in the right folder ,
+
+to --> ,C
+dialogue type : Suggest
+C : save in the folder . Save as project .
+
+to --> ,A
+dialogue type : Inform
+A : Um I'm still going to take some minutes ,
+to --> ,A
+dialogue type : Elicit-Inform
+A : and if I'm right , you two are going to give a prototype presentation ?
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : And uh m did you do something with evaluation criteria ?
+
+to --> 
+dialogue type : Assess
+A : And uh then we have to look at something which is less nice ,
+to --> ,A
+dialogue type : Inform
+A : the finance uh aspect , whether we can afford what we have designed ,
+to --> ,A
+dialogue type : Inform
+A : and if we can we can uh commence the final part which is the production or project evaluation ,
+
+to --> ,B
+dialogue type : Inform
+B : This is about the total remote control .
+to --> 
+dialogue type : Inform
+B : We made it green .
+
+to --> 
+dialogue type : Suggest
+C : there's one of the colours we would like to uh see in our prototype .
+
+to --> 
+dialogue type : Inform
+B : And uh the screen light blue .
+
+to --> 
+dialogue type : Inform
+B : this the scroll button and the microphone on the on the sides here under .
+to --> 
+dialogue type : Inform
+B : And the R_ and R_ logo ,
+
+to --> 
+dialogue type : Inform
+D : Big microphone .
+
+to --> 
+dialogue type : Inform
+C : just uh just an idea about how to m th that could also be possible .
+
+to --> 
+dialogue type : Suggest
+B : perhaps you should make it a bit big ,
+to --> 
+dialogue type : Inform
+B : so people know it's there
+
+to --> 
+dialogue type : Inform
+C : The microphone could be just a minor uh hole uh on the left uh button .
+
+to --> 
+dialogue type : Inform
+C : we also made some uh ideas about how uh the options menu would work .
+
+to --> 
+dialogue type : Suggest
+B : You push the scroll button
+
+to --> 
+dialogue type : Suggest
+C : and a drop down menu or a pull out menu comes out
+to --> 
+dialogue type : Suggest
+C : and uh you get uh you get the options uh becoming available . For example uh T_V_ settings , uh remote settings , et cetera .
+to --> 
+dialogue type : Suggest
+C : So uh you can scroll down too with the scroll uh button ,
+
+to --> 
+dialogue type : Assess
+C : it's also uh nice to see that um we made a small uh menu , uh the options menu uh becoming available when pressing the uh scroll uh button ,
+to --> 
+dialogue type : Suggest
+C : and the opportunity to use the teletext ,
+
+to --> 
+dialogue type : Suggest
+C : and we think that it's uh very handy to put it uh not uh under the options menu , but in uh Yes . In an apart uh
+
+to --> 
+dialogue type : Suggest
+B : Perhaps we should use the teletext sign
+
+to --> 
+dialogue type : Inform
+B : this is the total interface uh that f of the L_C_D_ screen .
+to --> 
+dialogue type : Inform
+B : Uh the numbers , which is pretty straight forward .
+to --> 
+dialogue type : Inform
+B : but It's the button where you can switch channels .
+
+to --> 
+dialogue type : Suggest
+B : just when you are one and you go to two , you can or if you go to five , you can go back to one with that button .
+
+to --> 
+dialogue type : Inform
+B : And uh in the middle the the mute .
+to --> 
+dialogue type : Inform
+B : Uh battery indicator .
+
+to --> 
+dialogue type : Inform
+B : And this is the uh the on off uh knop , the stand by uh knop .
+
+to --> 
+dialogue type : Inform
+C : You can see very clearly now that the uh teletext and options menu isn't uh taking uh much uh uh it's taking much part of the screen ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : And I just missed when I was typing The R_R_ stands for ?
+
+to --> 
+dialogue type : Inform
+B : That's the logo of the
+
+to --> 
+dialogue type : Inform
+D : my task was this time to put up a questionnaire
+to --> 
+dialogue type : Inform
+D : by which we can evaluate the design of the remote control by the questions we requirements from the of the users .
+
+to --> 
+dialogue type : Inform
+D : Questionnaire with seven point scale from one to seven , from true to false ,
+to --> 
+dialogue type : Inform
+D : like question , is remote big enough , we can say it's true or it's false by steps .
+to --> 
+dialogue type : Inform
+D : One means absolutely not true ,
+to --> 
+dialogue type : Inform
+D : seven means true .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : is the remote control fancy enough ,
+to --> 
+dialogue type : Elicit-Assessment
+D : is it in innovative enough ,
+to --> 
+dialogue type : Elicit-Assessment
+D : and is it easy enough to use .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Is the design fancy enough ?
+
+to --> 
+dialogue type : Assess
+A : it's looks fancy , especially with the green colour . And the the curves which we decided ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : Only what happened to the single curve we spoke about last meeting ?
+
+to --> 
+dialogue type : Inform
+B : It uh oh it's in the background . Oh .
+
+to --> 
+dialogue type : Inform
+B : it would be uh something like this from the side , but with a bit of uh curve here ,
+
+to --> 
+dialogue type : Suggest
+C : it's also uh very handy if you make a side curve way to make the the remote control very thin at the bottom uh at a bottom at a bottom .
+to --> 
+dialogue type : Suggest
+C : Uh make it uh rather thick on the top ,
+to --> 
+dialogue type : Inform
+C : because uh on the top it has uh the screen ,
+
+to --> 
+dialogue type : Assess
+D : Isn't going to be a little bit heavy at the top ?
+
+to --> 
+dialogue type : Suggest
+B : I think yeah , the battery should be in here ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : fancy enough means , does it comes to the younger people and the elder people .
+
+to --> 
+dialogue type : Inform
+B : I if you don't make it green , then the elder people won't won't like it .
+
+to --> ,D
+dialogue type : Assess
+D : all the colour colours don don doesn't matter that m that much now ,
+
+to --> 
+dialogue type : Inform
+A : I think uh especially because of the microphone and the L_C_D_ screen also .
+
+to --> 
+dialogue type : Assess
+B : Alright , it's a one . Oh it's a one .
+
+to --> 
+dialogue type : Assess
+D : Yeah , I think two .
+
+to --> 
+dialogue type : Assess
+C : It's very fancy , I think .
+
+to --> 
+dialogue type : Assess
+B : I think it is ,
+to --> 
+dialogue type : Inform
+B : because it has an L_C_D_ screen , a mi microphone .
+
+to --> 
+dialogue type : Inform
+C : And uh uh the scroll is rubber ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Also huh uh-huh the buttons , are they easy to find ?
+
+to --> 
+dialogue type : Assess
+B : Yeah ,
+to --> 
+dialogue type : Inform
+B : because they're right on your screen .
+
+to --> 
+dialogue type : Assess
+B : The options are it uh little bit harder ,
+
+to --> 
+dialogue type : Assess
+C : It's easier than the regular uh remote control .
+
+to --> 
+dialogue type : Assess
+D : I think th I think the options buttons are not the the easiest way to to
+
+to --> 
+dialogue type : Inform
+C : where you have to uh find out what which sign or icon means on uh every button .
+to --> 
+dialogue type : Inform
+C : So you have t you have to use the the the manual to understand most
+
+to --> 
+dialogue type : Comment-About-Understanding
+A : A two , okay ,
+
+to --> 
+dialogue type : Assess
+D : I personally think , because I d I don't think i maybe it's easy to use ,
+
+to --> 
+dialogue type : Assess
+D : I I think if you have the button at the right , I don't think you can find the option button that easy .
+
+to --> 
+dialogue type : Inform
+D : but you have y then you have here s written option on here , the teletext button ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : It's easy to use , as well for younger as elderl elderly people .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Is it innovative ?
+
+to --> 
+dialogue type : Assess
+B : For young people I think it's easy to use .
+
+to --> 
+dialogue type : Assess
+C : I think it's the most useful uh remote control ever to be manufactured .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : As well for the for the older people ?
+
+to --> 
+dialogue type : Assess
+D : Yeah , as well
+
+to --> 
+dialogue type : Inform
+B : but they they don't want the uh extra options ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : And would it be easy for them to use the speech recognition ?
+
+to --> 
+dialogue type : Assess
+B : Uh I think it is . If they read a manual .
+
+to --> 
+dialogue type : Inform
+B : You say you say uh record to to the to the speech recognition ,
+to --> 
+dialogue type : Inform
+B : then you say the question and the answer .
+to --> 
+dialogue type : Inform
+B : And that's everything it does , the speech recognition .
+
+to --> 
+dialogue type : Assess
+A : maybe that would make it even more easy to use for them .
+
+to --> 
+dialogue type : Suggest
+A : a three ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remotes overwhelmed with buttons .
+
+to --> 
+dialogue type : Assess
+D : Tha that's a one , I think , that's definitely a one .
+
+to --> ,D
+dialogue type : Suggest
+D : I think isn't , this has to be something like isn't overwhelmed .
+
+to --> ,A
+dialogue type : Suggest
+A : but I think you should make it one scale with with one being good and seven being bad ,
+to --> ,A
+dialogue type : Inform
+A : because otherwise we can't uh calculate anything from the results ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control has uh colours that different that meet different target groups .
+
+to --> 
+dialogue type : Inform
+B : 'Cause we make them in different colours ,
+
+to --> 
+dialogue type : Suggest
+A : but you can also make uh a wood colour , not just one single colour but a wood-like thing ,
+
+to --> 
+dialogue type : Inform
+A : and I though w we had about single colours ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : Also with rubber ?
+
+to --> 
+dialogue type : Inform
+A : You can make a print on rubber ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The material used is spongy ,
+to --> 
+dialogue type : Assess
+D : that that's uh that's a one ,
+
+to --> 
+dialogue type : Assess
+B : Yeah , yeah , it's very spongy .
+
+to --> 
+dialogue type : Assess
+B : I think it's a three .
+
+to --> 
+dialogue type : Inform
+C : because you want to make it uh rather flexible but not too flexible ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control is hard to lose .
+
+to --> 
+dialogue type : Assess
+C : yeah it sh and it's easy to find .
+
+to --> 
+dialogue type : Assess
+D : Y you can't you can't lose it if you're sixty years old .
+
+to --> 
+dialogue type : Assess
+D : I think I think this is a two , personally .
+
+to --> 
+dialogue type : Inform
+A : So it should this question should be hard to lose . It's difficult to lose it .
+
+to --> 
+dialogue type : Assess
+B : so then this is it is almost true ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Remote control mainly be sold to younger people .
+
+to --> 
+dialogue type : Assess
+B : I think it will ,
+
+to --> 
+dialogue type : Assess
+D : No , I don't think very true because the colours .
+
+to --> 
+dialogue type : Assess
+D : I think it's a three .
+
+to --> 
+dialogue type : Inform
+A : because w we designed it for young people especially ,
+
+to --> 
+dialogue type : Assess
+D : Because younger peoples are cr critical
+to --> 
+dialogue type : Inform
+D : and they wanted a lot of features on this thing .
+
+to --> 
+dialogue type : Assess
+C : n not exactly but uh uh if it had some games on it or something like that ,
+
+to --> 
+dialogue type : Inform
+B : I think they like the speech .
+
+to --> 
+dialogue type : Inform
+D : L_C_D_ screen and scroll .
+
+to --> 
+dialogue type : Inform
+A : It has relatively few features ,
+
+to --> 
+dialogue type : Inform
+B : those are features .
+
+to --> 
+dialogue type : Inform
+D : the L_C_D_ touch screen is feature .
+to --> 
+dialogue type : Inform
+D : The microphone is a feature .
+
+to --> 
+dialogue type : Stall
+B : No ,
+to --> 
+dialogue type : Fragment
+B : aren't the features
+
+to --> 
+dialogue type : Inform
+B : and that you can change the channel's feature ,
+
+to --> 
+dialogue type : Assess
+D : I think it's it's it's a one .
+
+to --> 
+dialogue type : Inform
+D : you have all buttons on it which you'd like , microphone extra , L_C_D_ screen extra , scroll thing extra .
+
+to --> 
+dialogue type : Inform
+D : You can see the remote control is R_ and R_ .
+
+to --> 
+dialogue type : Assess
+B : Yeah , there's R_ and R_ in front .
+to --> 
+dialogue type : Inform
+B : Uh it's not the colour ,
+to --> 
+dialogue type : Suggest
+B : so maybe you should make two ,
+
+to --> 
+dialogue type : Inform
+D : you have the black one .
+to --> 
+dialogue type : Inform
+D : And we'll probably make also a yellow one .
+
+to --> 
+dialogue type : Assess
+B : but not R_ and R_ yellow I think .
+
+to --> 
+dialogue type : Inform
+A : but the logo is on on the front ,
+
+to --> 
+dialogue type : Elicit-Assessment
+D : And the menu is avail that is available is easy to use .
+
+to --> 
+dialogue type : Assess
+B : I think it is ,
+
+to --> 
+dialogue type : Inform
+C : because when you push on the options menu , you get the the the various options uh entirely explained . Entirely explained .
+
+to --> 
+dialogue type : Inform
+D : , I'm not not convinc .
+
+to --> 
+dialogue type : Assess
+D : I think it would be a t yeah , two .
+
+to --> 
+dialogue type : Inform
+D : So two , yeah . The average is a two .
+
+to --> 
+dialogue type : Assess
+B : so it's pretty good .
+
+to --> ,A
+dialogue type : Assess
+A : the next part uh might be a little bit difficult to do in a group ,
+to --> ,A
+dialogue type : Offer
+A : but I am willing to try it .
+to --> 
+dialogue type : Inform
+A : Because we are going to look at the finance
+to --> 
+dialogue type : Inform
+A : and I have a nice Excel sheet to do that .
+
+to --> 
+dialogue type : Suggest
+A : Um and we're going to calculate the production costs ,
+to --> 
+dialogue type : Assess
+A : and if they are uh under or at twelve Euro fifty ,
+to --> 
+dialogue type : Assess
+A : we're good ,
+to --> 
+dialogue type : Suggest
+A : and if they're not we're going to uh re-design ,
+
+to --> ,A
+dialogue type : Suggest
+A : but we have to do that uh very very quick I think ,
+
+to --> 
+dialogue type : Inform
+B : Perhaps we've got features that don't exist in the Excel sheet .
+
+to --> 
+dialogue type : Inform
+D : The microphone .
+
+to --> ,A
+dialogue type : Suggest
+A : Um maybe I could ask one of you to uh fill it in ,
+to --> ,A
+dialogue type : Offer
+A : so that I can also uh take minutes ,
+
+to --> 
+dialogue type : Inform
+A : uh count uh number of functions ,
+to --> 
+dialogue type : Inform
+A : because for every button you have to pay
+to --> 
+dialogue type : Inform
+A : and there are different screen shots , so or different different screens ,
+
+to --> 
+dialogue type : Suggest
+B : A battery . One battery ,
+
+to --> 
+dialogue type : Inform
+B : advanced chip ,
+
+to --> 
+dialogue type : Inform
+D : we have sample speaker .
+
+to --> 
+dialogue type : Inform
+D : we already on nine .
+
+to --> 
+dialogue type : Assess
+C : Single nee single curved .
+
+to --> 
+dialogue type : Other
+D : Rubber .
+
+to --> 
+dialogue type : Inform
+D : No , we don't have push button .
+
+to --> 
+dialogue type : Inform
+B : but with special colour we have .
+to --> 
+dialogue type : Inform
+B : A special form ,
+
+to --> 
+dialogue type : Inform
+C : We don't got the button supplements .
+
+to --> 
+dialogue type : Inform
+D : Eighteen and a half ,
+
+to --> 
+dialogue type : Inform
+D : We have to lower it with six points .
+
+to --> 
+dialogue type : Suggest
+B : We could lose the curve .
+
+to --> 
+dialogue type : Assess
+C : Nah .
+to --> 
+dialogue type : Suggest
+C : We could lose the scroll wheel .
+to --> 
+dialogue type : Suggest
+C : You could make it just a regular scroll wheel .
+
+to --> 
+dialogue type : Suggest
+C : if you can't push it you have to tap the the options window uh button here and then uh scroll down with the d with uh with uh the button .
+to --> 
+dialogue type : Assess
+C : Normal scroll wheel .
+
+to --> 
+dialogue type : Suggest
+B : And I think we should lose the curve .
+
+to --> 
+dialogue type : Suggest
+D : I think we should scrap the sample speaker .
+
+to --> 
+dialogue type : Inform
+B : then it will won't uh stand up from the table .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Could could we do it on a regular chip on print or something ?
+
+to --> 
+dialogue type : Inform
+D : otherwise we don't have an L_C_D_ screen .
+
+to --> 
+dialogue type : Suggest
+D : Scrap sample speaker ?
+
+to --> 
+dialogue type : Suggest
+A : you should you should drop the speech recognition .
+to --> 
+dialogue type : Suggest
+A : And then you can keep the curve .
+
+to --> 
+dialogue type : Suggest
+A : Or make it on a hand dynamo ,
+to --> 
+dialogue type : Assess
+A : but I don't think that will work .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Ma make it with wood instead of rubber ?
+
+to --> 
+dialogue type : Suggest
+B : We could make it titanium instead of rubber .
+
+to --> 
+dialogue type : Elicit-Inform
+B : What is special colour ?
+to --> 
+dialogue type : Fragment
+B : Is that the wood uh wood uh
+
+to --> 
+dialogue type : Inform
+D : I think it is .
+
+to --> 
+dialogue type : Suggest
+A : But I think the only option is to drop the uh sample speaker .
+
+to --> 
+dialogue type : Assess
+B : Th then we still have too much
+
+to --> 
+dialogue type : Inform
+D : three . Point three .
+
+to --> 
+dialogue type : Suggest
+C : Let's make it thirteen or fourteen .
+
+to --> 
+dialogue type : Inform
+D : That's a scroll wheel .
+
+to --> 
+dialogue type : Suggest
+B : Don't make it wood .
+
+to --> 
+dialogue type : Suggest
+D : we can make it brown , dark brown , not wood .
+
+to --> 
+dialogue type : Elicit-Inform
+B : a all kind of colours ?
+
+to --> 
+dialogue type : Inform
+C : special colours , fruity colours .
+
+to --> 
+dialogue type : Assess
+B : but it's a special colour than just rubber colour .
+to --> 
+dialogue type : Inform
+B : You have to add something to the rubber to make it green .
+
+to --> 
+dialogue type : Suggest
+D : then we have to scrap everything we got
+
+to --> 
+dialogue type : Suggest
+C : If we lose the scroll wheel and make it totally uh depending uh dependent on uh the touch screen
+to --> 
+dialogue type : Suggest
+C : then it's possible to make .
+
+to --> 
+dialogue type : Inform
+C : You lose this one , you got eleven point five
+
+to --> 
+dialogue type : Comment-About-Understanding
+C : How d uh uh how many colours ?
+
+to --> 
+dialogue type : Inform
+D : but we we we are we have yellow , red , uh black , titanium .
+
+to --> 
+dialogue type : Assess
+B : But I think when you use the colour that's not originally the rubber then you use special colour ,
+
+to --> 
+dialogue type : Assess
+D : but we're gonna make it yellow uh red ,
+to --> 
+dialogue type : Inform
+D : and then you add you have two special colours on top of the one we have now .
+
+to --> 
+dialogue type : Fragment
+D : I then I think I p I don I don't think they me mean they're special
+
+to --> 
+dialogue type : Inform
+C : You don't need four of those uh four of those special colours in one in one remote .
+
+to --> 
+dialogue type : Inform
+A : So each remote with a special colour .
+
+to --> 
+dialogue type : Inform
+A : I think you pay half per remote .
+
+to --> 
+dialogue type : Inform
+A : we have um advanced chip on print .
+
+to --> 
+dialogue type : Suggest
+B : So it would be curved , single curve .
+
+to --> 
+dialogue type : Inform
+A : we we dropped the speech recognition together with the speaker .
+
+to --> 
+dialogue type : Assess
+D : Y yea the scroll wheel is dropped .
+
+to --> ,B
+dialogue type : Suggest
+B : Perhaps you can save this one ,
+to --> ,B
+dialogue type : Suggest
+B : and then copy or something .
+
+to --> 
+dialogue type : Inform
+A : but this this new remote we can afford .
+
+to --> ,C
+dialogue type : Elicit-Inform
+C : When did you receive this list ?
+
+to --> ,A
+dialogue type : Inform
+A : I just received it .
+to --> 
+dialogue type : Be-Positive
+A : They don't work so hard at the finance department .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : Um and did you try to make a new design ,
+to --> ,A
+dialogue type : Elicit-Inform
+A : or what were you trying to do ?
+
+to --> ,B
+dialogue type : Inform
+B : I tried to copy that one ,
+to --> ,B
+dialogue type : Inform
+B : but it didn't work .
+
+to --> 
+dialogue type : Inform
+A : because I think uh we have a prototype now
+
+to --> ,A
+dialogue type : Suggest
+A : And I think we should then move on to the production evaluation because of the time .
+
+to --> 
+dialogue type : Elicit-Inform
+A : And you can't erase this ?
+to --> ,A
+dialogue type : Assess
+A : Hmm , strange .
+
+to --> ,A
+dialogue type : Suggest
+A : just leave it at this
+to --> ,A
+dialogue type : Suggest
+A : and quickly save .
+to --> ,A
+dialogue type : Suggest
+A : Um and then we are going to the project or product evaluation .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : what did you think about uh the process ?
+to --> 
+dialogue type : Elicit-Assessment
+A : How satisfied are we ?
+
+to --> 
+dialogue type : Assess
+C : Deadlines were sometimes very short .
+
+to --> 
+dialogue type : Assess
+B : Bu but stressful .
+to --> 
+dialogue type : Inform
+B : You think , no , my presentation isn't ready .
+
+to --> 
+dialogue type : Suggest
+D : I think we it should be b it would be better if we worked a little bit together .
+to --> 
+dialogue type : Inform
+D : Now we worked through each other ,
+
+to --> 
+dialogue type : Inform
+B : you had information I didn't have
+
+to --> 
+dialogue type : Inform
+D : and you had information I also had ,
+to --> 
+dialogue type : Inform
+D : so some some things I had in my presentation , they already told ,
+
+to --> 
+dialogue type : Assess
+D : I don't think that is the best way to work at for such project .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : So you would say uh communicate during our individual uh work .
+
+to --> 
+dialogue type : Suggest
+D : or maybe session of five minutes together or something ,
+
+to --> 
+dialogue type : Suggest
+C : but but why not work here together , for example ?
+to --> 
+dialogue type : Elicit-Inform
+C : Why should we be separated from each other in those difference uh different rooms ?
+
+to --> 
+dialogue type : Inform
+A : probably to simulate the whole working uh process ,
+
+to --> 
+dialogue type : Assess
+D : like she told . Then you can work together too by mail or by , I dunno , chat , something ,
+
+to --> 
+dialogue type : Assess
+C : But the technology was uh fantastic .
+
+to --> 
+dialogue type : Assess
+D : Yeah , the technology's okay .
+
+to --> 
+dialogue type : Assess
+B : I I don't really like the board ,
+
+to --> 
+dialogue type : Inform
+B : but sometimes it doesn't erase
+
+to --> 
+dialogue type : Suggest
+C : perhaps it is easier to get one of those uh dig digital pens or so
+to --> 
+dialogue type : Suggest
+C : and to uh and lay it next to that keyboard over there .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : you don't think the SMARTboard is is really useful
+
+to --> 
+dialogue type : Inform
+B : but it doesn't really work all the time .
+
+to --> 
+dialogue type : Inform
+C : Because when you put this pen on the screen uh uh for exam and line is d being drawn at at two or three centimetres uh below .
+
+to --> 
+dialogue type : Assess
+A : so it's maybe a bit unnatural also .
+
+to --> 
+dialogue type : Assess
+C : The project uh because of the deadlines you didn't had the time to uh have , you didn't have time to uh to make a very uh qualitati qualitative uh presentation .
+to --> 
+dialogue type : Inform
+C : So you used uh this uh the different PowerPoint presentations
+
+to --> 
+dialogue type : Elicit-Assessment
+A : and what about uh this digital pen ?
+
+to --> 
+dialogue type : Inform
+D : I didn't use it at all .
+
+to --> 
+dialogue type : Assess
+B : it's quite handy I think .
+
+to --> 
+dialogue type : Assess
+B : it did work pretty well .
+
+to --> 
+dialogue type : Assess
+D : it is easy for to design something and then load it in your computer .
+
+to --> 
+dialogue type : Assess
+D : It's b bi little bit too big to write .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : and what about the teamwork ?
+
+to --> 
+dialogue type : Assess
+D : Team work was okay .
+
+to --> 
+dialogue type : Assess
+B : I think it was great ,
+
+to --> 
+dialogue type : Assess
+A : Yeah , well I think so too .
+
+to --> 
+dialogue type : Inform
+D : Only thing that we worked through , past each other .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : the leadership .
+
+to --> 
+dialogue type : Assess
+B : I thought it was good ,
+
+to --> 
+dialogue type : Assess
+D : yeah , no prob . Ah .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : And creativity ?
+
+to --> 
+dialogue type : Assess
+A : when we look at this I'd say we have been creative ,
+
+to --> 
+dialogue type : Inform
+C : it was the idea to be creative ,
+
+to --> 
+dialogue type : Inform
+B : And you get get stuff from the from the computer ,
+
+to --> 
+dialogue type : Assess
+C : The information uh was sometimes uh a little bit too late
+
+to --> 
+dialogue type : Inform
+B : You just sit there for ten minutes .
+
+to --> 
+dialogue type : Inform
+D : it it it took a lot of time before you got your ema
+
+to --> 
+dialogue type : Inform
+A : At some times I Sometimes I received like like five emails at at one moment ,
+
+to --> 
+dialogue type : Assess
+D : No , I I never got that .
+
+to --> 
+dialogue type : Inform
+B : I got like one email after ten minutes or something .
+
+to --> 
+dialogue type : Assess
+D : I think lik oh and information was a bit low I think , sometimes ,
+
+to --> 
+dialogue type : Inform
+B : And I didn't know what to do for the first ten minutes before we got here ,
+
+to --> 
+dialogue type : Inform
+D : and I never new we have t we had to uh yeah made a made a rec a remote control .
+
+to --> 
+dialogue type : Assess
+A : but after all we can say uh we are satisfied ,
+to --> 
+dialogue type : Assess
+A : but it it could've been uh better .
+
+to --> 
+dialogue type : Suggest
+A : we would have gotten uh more information .
+
+to --> 
+dialogue type : Suggest
+C : more information about the costs .
+
+to --> 
+dialogue type : Assess
+A : that was a bit mean to put it in the end .
+
+to --> 
+dialogue type : Suggest
+B : um less heavy laptops .
+
+to --> 
+dialogue type : Suggest
+C : Uh . Faster laptop .
+
+to --> 
+dialogue type : Assess
+D : And furthermore the the the network was okay .
+
+to --> 
+dialogue type : Suggest
+A : And so more time uh w might have improved the the quality of work ,
+
+to --> 
+dialogue type : Inform
+B : Five minutes in the meeting .
+
+to --> 
+dialogue type : Inform
+A : more time during the individual work phases .
+
+to --> ,A
+dialogue type : Inform
+A : because we have to have a design ,
+to --> 
+dialogue type : Inform
+A : and that is within the budget .
+to --> ,A
+dialogue type : Inform
+A : And we evaluated .
+to --> ,A
+dialogue type : Suggest
+A : Maybe we should re-evaluate uh the product ,
+to --> ,A
+dialogue type : Inform
+A : but we did that before ,
+to --> ,A
+dialogue type : Inform
+A : and we also evaluated the project .
+to --> 
+dialogue type : Assess
+A : And I think uh everybody's uh very happy . At least I am , with the results ,
+
+to --> ,A
+dialogue type : Offer
+A : because uh I have to write the final report now .
+
+to --> ,B
+dialogue type : Inform
+B : I I think we have to fill in a questionnaire again ,
+
+to --> ,A
+dialogue type : Inform
+A : I think we also have to go to our own rooms again ,
+
+to --> 
+dialogue type : Suggest
+A : But maybe you can try uh to make a screen shot of this ,
+to --> 
+dialogue type : Offer
+A : so I can try to include it in the final report .
+
+to --> ,A
+dialogue type : Offer
+A : I hereby officially close the meeting
+

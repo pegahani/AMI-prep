@@ -1,0 +1,295 @@
+to --> 
+dialogue type : Inform
+B : We've got a cool prototype .
+
+to --> 
+dialogue type : Inform
+C : everything uh that we wanted
+to --> 
+dialogue type : Inform
+C : we wanted it to be ergonomic and to be made out of rubber ,
+
+to --> 
+dialogue type : Inform
+B : Double curved .
+
+to --> 
+dialogue type : Inform
+C : um but also something that was gonna jump out at people ,
+
+to --> 
+dialogue type : Suggest
+C : So uh I think if you put this in the palm of your hand , you'll see what a nice thing we have going here .
+to --> 
+dialogue type : Inform
+C : So , basically , if you hold it like that , the one on your thumb , yeah , the thumb button is the power button .
+to --> 
+dialogue type : Inform
+C : Your index finger is channel up , middle finger is channel down ,
+
+to --> 
+dialogue type : Inform
+C : Um and then then you can also there's a numeric keypad on the top so you can key directly to the to the channel if you want .
+
+to --> 
+dialogue type : Assess
+C : but we think it's very comfortable and very innovative and it looks different .
+
+to --> 
+dialogue type : Assess
+A : That certainly does .
+
+to --> 
+dialogue type : Assess
+A : I have one thing about it , but it's a small thing ,
+to --> 
+dialogue type : Assess
+A : but it'd mean we'd have to make a right-handed one and a left-handed one .
+to --> 
+dialogue type : Assess
+A : But , that's I don't see why that's not possible .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : like I was just thinking if there's left-handers and right-handers in the family , what , they have two remotes ?
+
+to --> 
+dialogue type : Inform
+B : Yeah , I know I know people who have left-handed and right-handed people in the family and they all use the computer for the whole the same computer the fes family and they have a mouse , and everybody is using right-handed mouse .
+
+to --> 
+dialogue type : Inform
+D : I think everybody can press a button with their left and right hand so
+
+to --> 
+dialogue type : Suggest
+B : But we can have both uh
+
+to --> 
+dialogue type : Suggest
+D : Have them in stock .
+
+to --> 
+dialogue type : Assess
+A : I think it's , well , if the R_R_ motto is , we bring fashion to to electronics , I'd say that could be quite fashionable .
+
+to --> 
+dialogue type : Inform
+C : And it's got the b the black and yellow and blue .
+
+to --> 
+dialogue type : Suggest
+A : One thing I do need to do we need to look at , is the costs .
+
+to --> ,A
+dialogue type : Inform
+A : I could do you know , I can do this o on my own or I could do it with you ,
+to --> ,A
+dialogue type : Assess
+A : but it's just easy enough to go through it with you ,
+to --> 
+dialogue type : Inform
+A : so we're going for the kinetic power .
+
+to --> 
+dialogue type : Inform
+A : So the case , we've gone for the double curved .
+
+to --> 
+dialogue type : Inform
+A : and it's made out of rubber .
+
+to --> 
+dialogue type : Inform
+A : well they're in diff special colours ,
+
+to --> 
+dialogue type : Inform
+A : Special form ,
+
+to --> 
+dialogue type : Inform
+D : We're under budget .
+
+to --> 
+dialogue type : Inform
+A : That's gonna cost ten ten Euro seventy cents a unit to make .
+to --> 
+dialogue type : Inform
+A : And our target was it had to come in at under twelve fifty .
+
+to --> 
+dialogue type : Inform
+D : so we evaluate each criteria .
+
+to --> 
+dialogue type : Inform
+D : And we have to do it on a scale of one to seven ,
+to --> 
+dialogue type : Inform
+D : one being true , so it's it's more like it's fits the criteria ,
+to --> 
+dialogue type : Inform
+D : and seven being as in it doesn't fit the criteria .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So the does remote look and feel fashionable to what we talked about ?
+
+to --> 
+dialogue type : Assess
+A : I would give it a seven .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : As in it's not .
+
+to --> 
+dialogue type : Assess
+A : Oh sorry , one , d yeah .
+
+to --> 
+dialogue type : Inform
+D : Second criteria , new technology .
+
+to --> 
+dialogue type : Assess
+B : Well , the kinetic thing , yeah .
+
+to --> 
+dialogue type : Assess
+C : w every everything else was fairly simple , but the fact that we used the kinetic energy was new .
+
+to --> 
+dialogue type : Assess
+C : Maybe three , yeah .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So criteria three is is it easy to use ?
+
+to --> 
+dialogue type : Assess
+A : not if you're left-handed it's not .
+
+to --> 
+dialogue type : Assess
+C : If we're gonna have one left-handed and one right-handed then I would give it a one , but otherwise otherwise a two .
+
+to --> 
+dialogue type : Inform
+D : 'Kay , criteria four is costs .
+
+to --> 
+dialogue type : Inform
+A : It's come in under budget .
+to --> 
+dialogue type : Assess
+A : So that's a definite one .
+to --> 
+dialogue type : Inform
+A : Amount of buttons .
+to --> 
+dialogue type : Assess
+A : Contains only the necessary buttons .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : R_S_I_ is it good against ?
+to --> 
+dialogue type : Assess
+D : Yes . Very good .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : does it get lost ?
+
+to --> 
+dialogue type : Assess
+A : I don't think it's gonna get lost easily .
+
+to --> 
+dialogue type : Assess
+D : But it is smallish .
+
+to --> 
+dialogue type : Assess
+A : I mean , you could still flush it down the toilet theoretically , but
+
+to --> 
+dialogue type : Assess
+B : We've , we've done well .
+
+to --> ,D
+dialogue type : Inform
+D : So that's the evaluation ,
+
+to --> 
+dialogue type : Assess
+D : Number one product .
+
+to --> 
+dialogue type : Assess
+A : Okay , I I think um I just wanna put in as Project Manager the you know , little bit of praise for everybody here for how they've worked on it ,
+
+to --> 
+dialogue type : Inform
+C : during our design I mean there was some s some heated heated discussion ,
+to --> 
+dialogue type : Assess
+C : but we we kept we tried to keep it cool and and
+
+to --> 
+dialogue type : Assess
+A : um and then come together and worked in , you know , integrally , you know , at the right times ,
+
+to --> 
+dialogue type : Assess
+A : and be you know , has been good communication going on .
+
+to --> 
+dialogue type : Assess
+C : Now you guys have been a a great team .
+
+to --> 
+dialogue type : Assess
+A : and I think we've co we have come we've come up with something new , something that hasn't been done before ,
+
+to --> ,A
+dialogue type : Inform
+A : I think when this meeting's finished like officially , there b we'll get a uh questionnaire to fill in .
+
+to --> 
+dialogue type : Elicit-Inform
+C : I mean , since we saved on the on the production cost , do we know how much we're making on profit ?
+
+to --> 
+dialogue type : Assess
+C : I think actually and one advantage of of this is that after the uh , you know , after this fad of fruit and vegetables passes this will still be c a cool remote , you know .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Um how does everyone feel about the technology that's been used in this ?
+to --> 
+dialogue type : Elicit-Assessment
+A : The sort of using of the the pens and writing on these special pads and all that ?
+
+to --> 
+dialogue type : Assess
+D : I love it . I love it . I think it's cool .
+
+to --> 
+dialogue type : Assess
+A : Um , but a p a pen with a camera on it , I don't think it's such a new thing .
+
+to --> 
+dialogue type : Assess
+A : It would be different if it was sort of hand writing recognition stuff , but as it's not
+to --> 
+dialogue type : Inform
+A : it's literally that'll come up on a computer screen as a picture file rather than actual text .
+
+to --> 
+dialogue type : Inform
+C : I think they do want to do hand writing recognition on that , it's just the first step .
+

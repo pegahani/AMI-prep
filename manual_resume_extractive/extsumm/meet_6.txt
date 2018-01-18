@@ -1,0 +1,375 @@
+to --> ,A
+dialogue type : Inform
+A : So we are here for the functional design meeting mm
+
+to --> D,C,B,A
+dialogue type : Inform
+A : I will take notes during this meeting so
+to --> D,C,B,A
+dialogue type : Inform
+A : I will try to summarise it and put that summary in the shared folder if you want to look at it afterwards
+to --> D,C,B,A
+dialogue type : Inform
+A : so then uh each of you will uh lead a presentation on the task that has been required last time
+
+to --> D,C,B
+dialogue type : Inform
+A : We have a technical problem uh .
+
+to --> B
+dialogue type : Suggest
+C : Otherwise , could you just describe
+to --> B
+dialogue type : Suggest
+C : by hand ?
+to --> B
+dialogue type : Suggest
+C : With the the whiteboard ?
+
+to --> A,D,C
+dialogue type : Inform
+B : So um the question well first of all what to control .
+to --> A,D,C
+dialogue type : Inform
+B : So most people want to have a a remote for their hi-fi and T_V_ and stuff like that .
+
+to --> A,D,C
+dialogue type : Inform
+B : and other people also want to have remotes for controlling um whole house .
+
+to --> A,D,C
+dialogue type : Inform
+B : so there's a project I think called X_ house or something like that that does that , uh you can integrate your remote with uh computers stuff .
+
+to --> 
+dialogue type : Inform
+B : the finder feature yeah by whistling or whatever .
+
+to --> A,D,C
+dialogue type : Inform
+B : Uh if you have the finder feature then you can also have
+to --> A,D,C
+dialogue type : Inform
+B : uh at the same time as and general voice commands if you want yeah .
+
+to --> A,D,C
+dialogue type : Inform
+B : so the user interface will consist of two parts .
+
+to --> A,D,C
+dialogue type : Inform
+B : Uh and th the buttons part would be uh a set of buttons for choosing devices , a set of buttons for special navigation in space ,
+to --> A,D,C
+dialogue type : Inform
+B : a set of buttons for linear access of medium and a set of buttons for random access .
+
+to --> B
+dialogue type : Elicit-Inform
+C : What do you mean by linear access then ?
+
+to --> C
+dialogue type : Elicit-Inform
+B : Like a video tape goes forward , backwards , uh fast and stuff yeah .
+
+to --> A
+dialogue type : Inform
+B : For special navigation for example you might have a T_V_ in the menu and you going to change yeah ?
+
+to --> A,D,C
+dialogue type : Inform
+B : and also parameter changing .
+to --> A,D,C
+dialogue type : Suggest
+B : So if there are common parameters maybe we should put special buttons for that um
+to --> A,D,C
+dialogue type : Suggest
+B : or maybe we could have everything uh generic
+
+to --> A,D,C
+dialogue type : Inform
+B : Voice command w we could specify anything .
+to --> 
+dialogue type : Inform
+B : We could assign any button a command to any button , if we have enough processing power ,
+
+to --> A
+dialogue type : Elicit-Inform
+D : Um I dunno if you can open the
+
+to --> D
+dialogue type : Elicit-Inform
+A : Short-cut to AMI shared folder ?
+to --> D
+dialogue type : Suggest
+A : Maybe you can send it to me by email .
+
+to --> D,C,B,A
+dialogue type : Offer
+A : I will try to show it to everyone ,
+
+to --> A,C,B
+dialogue type : Inform
+D : in our usability lab we observed the remote control use among one hundred subjects
+to --> A,C,B
+dialogue type : Inform
+D : and the subjects also filled a questionnaire
+
+to --> A,C,B
+dialogue type : Inform
+D : so you can see that um seventy five per cent of users find most remote controls ugly
+
+to --> A,C,B
+dialogue type : Inform
+D : Eighty per cents of users would spend more money when the remote control would look fancy .
+
+to --> A,C,B
+dialogue type : Inform
+D : seventy five per cent of users say they s zap a lot .
+
+to --> A,C,B
+dialogue type : Inform
+D : Uh the buttons have are to be um uh uh like you say resist resisting to to shocks .
+to --> 
+dialogue type : Inform
+D : Um and fifty per cents of users say they only use uh ten per cents of but of the buttons in the in the remote control .
+
+to --> A,C,B
+dialogue type : Suggest
+D : F not many buttons , and uh and uh uh u useable buttons .
+
+to --> D,C,B
+dialogue type : Inform
+A : but in fact we it it seems that we are going to make a T_V_ remote control according to new requirements I received from the management
+
+to --> A,C,B
+dialogue type : Inform
+D : so they said uh they lost uh often the remote control in in the room so they want to have a way to to
+
+to --> A,C,B
+dialogue type : Inform
+D : lot of the time they it takes too much time to learn how to use a new remote control .
+to --> A,C,B
+dialogue type : Inform
+D : So they want something s really very simple and uh easy to use .
+
+to --> A,C,B
+dialogue type : Inform
+D : And uh remote controls are bad for
+to --> 
+dialogue type : Inform
+D :R_S_I_
+
+to --> D,C,B
+dialogue type : Suggest
+A : so you we have to make it uh more ergonomic yeah .
+
+to --> A,C,B
+dialogue type : Inform
+D : We know that uh the user use uh a lot their um remote control um to to change channel .
+to --> A,C,B
+dialogue type : Inform
+D : Um and um to to change uh volume selection of the
+
+to --> A,C,B
+dialogue type : Inform
+D : for the younger it's very important
+
+to --> D,C,B
+dialogue type : Inform
+A : To have L_C_D_ and voice .
+
+to --> A,C,B
+dialogue type : Inform
+D : and speech recognition .
+to --> A,C,B
+dialogue type : Inform
+D : And uh and the others is not so important
+
+to --> A,C,B
+dialogue type : Inform
+D : So as we say before , I think uh um a remote control lightening in the dark it's it's a good thing .
+
+to --> B
+dialogue type : Inform
+A : Because I received that email from management board
+to --> B
+dialogue type : Inform
+A : and they seems to tell that that if we want to be on the market as early as possible we should uh focus on T_V_ more where it seems that the market is more important .
+
+to --> A,D,B,C
+dialogue type : Inform
+C : but I think we have some technical problem or so .
+to --> A,D,B,C
+dialogue type : Offer
+C : So I'm just going to describe briefly what we do in the remote control .
+
+to --> A,D,B
+dialogue type : Inform
+C : Basically we have a a battery a power supply here .
+to --> A,D,B
+dialogue type : Inform
+C : After that we just have um user interface .
+
+to --> A,D,B
+dialogue type : Inform
+C : which could be um a L_C_D_ let's say or um an array of push button , something like that .
+to --> A,D,B
+dialogue type : Inform
+C : Push button or a L_C_D_ .
+to --> A,D,B
+dialogue type : Inform
+C : After that we we feed that into um uh an electronic chip .
+to --> A,D,B
+dialogue type : Inform
+C : So I say U_C_ and I feed that to uh L_E_D_ which is uh infrared um which is a an infrared um component .
+
+to --> 
+dialogue type : Inform
+C : Um we just have to define the processing power that we need uh
+
+to --> A,D,B
+dialogue type : Inform
+C : standard uh standard remote control takes maybe uh one month to to do that .
+
+to --> C
+dialogue type : Elicit-Inform
+B : So the only time problem is the sp voice recognition .
+
+to --> A,D,B
+dialogue type : Inform
+C : I would say uh about eight months to have the first results .
+
+to --> C
+dialogue type : Elicit-Inform
+B : How much will it cost for one hundred thousand ?
+
+to --> B
+dialogue type : Inform
+C : Usually this is less tha at two dollars per chip .
+
+to --> A,D,B
+dialogue type : Suggest
+C : and what about if we design a remote control which can be configure as you want ?
+
+to --> A,D,C
+dialogue type : Inform
+B : another thing is that if we make something that's simple and easy to use that's bas to use immediately that means that it will be exactly the same as everything else .
+
+to --> D,C,B
+dialogue type : Suggest
+A : so maybe if we design something very simple and easy to uh find when lost it will uh add uh a serious competitive advantage
+
+to --> D,C,B
+dialogue type : Inform
+A : so we don't have to make a very complex remote controls to access teletext and stuff like that
+
+to --> D,C,B
+dialogue type : Inform
+A : So anyway we don't have to include this feature because it's it's not used any more by users ,
+
+to --> D,C,B
+dialogue type : Inform
+A : And then also we have to make very uh uh clear that this uh this remote control is is part of of our products and show our corporate uh logo and and colours on the on the design as well so that uh they identify it as one of our product .
+
+to --> 
+dialogue type : Inform
+A : So before uh finishing we can uh define uh what would be the characteristic of the o th of the control of the remote control
+
+to --> D,C,B
+dialogue type : Inform
+A : so from from the the Marketing Expert I think a key aspect is the easy to use aspect ,
+
+to --> D,C,B
+dialogue type : Inform
+A : So few buttons , channel , volume control
+
+to --> D,C,B
+dialogue type : Suggest
+A : Maybe switch T_V_ on and off
+
+to --> A,D,B
+dialogue type : Inform
+C : I discovered that when I did a quick look , uh they do now som they do something which is quite nice now ,
+to --> A,D,B
+dialogue type : Inform
+C : you have a button , you you press it , and this is uh the previous channel which has come back .
+
+to --> D,C,B
+dialogue type : Suggest
+A : Maybe we can include that also . Previous previous channel button .
+
+to --> A,D,C
+dialogue type : Elicit-Offer-Or-Suggestion
+B : How should they how should we implement that ?
+to --> A,D,C
+dialogue type : Inform
+B : Because uh could be numerical only or could be also incremental .
+
+to --> A,D,B
+dialogue type : Suggest
+C : This is uh incremental , but once you press it for a long time , you go five by five .
+
+to --> D,C,B
+dialogue type : Inform
+A : Because you have your previous channel button if you have incremental only it's not uh it isn't worth it because the previous channel is eith either minus one or plus one .
+
+to --> A,D,C
+dialogue type : Inform
+B : I mean you know there is are some with a wheel like this .
+to --> A,D,C
+dialogue type : Inform
+B : Instead of having the up down buttons for uh you can have the wheel .
+
+to --> D,C,B
+dialogue type : Suggest
+A : So have a wheel for incremental , have the digits uh on the lower side that can be closed
+
+to --> D,C,B
+dialogue type : Assess
+A : I would say the wheel is better .
+
+to --> A,D,B
+dialogue type : Suggest
+C : not a a wheel but a ball ,
+
+to --> D,C,B
+dialogue type : Suggest
+A : so it should be lightening in the dark I think because most people lost their remote control .
+
+to --> D,C,B
+dialogue type : Elicit-Assessment
+A : and do we put an L_C_D_ display ?
+
+to --> A,D,C
+dialogue type : Inform
+B : If you do not multi function then there is no p point in having L_C_D_ .
+to --> A,D,C
+dialogue type : Inform
+B : Just increase the cost .
+
+to --> D,C,B
+dialogue type : Suggest
+A : So no L_C_D_ ?
+to --> D,C,B
+dialogue type : Suggest
+A : And so no speech as well because it w it would delay too much the development process
+
+to --> 
+dialogue type : Assess
+A : Yeah . That would be cool .
+to --> D,C,B
+dialogue type : Inform
+A : But eight months is really long
+
+to --> D,C,B,A
+dialogue type : Inform
+A : so I we will move to next meeting so in after the lunch break
+
+to --> D,C,B
+dialogue type : Offer
+A : and I I will make a summary of that meeting that I will put in the shared folder you can't see
+
+to --> D,C,B
+dialogue type : Suggest
+A : Uh maybe for next meeting uh send me your presentation before by email so that we can see them uh altogether .
+

@@ -1,0 +1,461 @@
+to --> 
+dialogue type : Inform
+A : So today is um our third meeting .
+to --> 
+dialogue type : Inform
+A : It will be about the conceptual design uh .
+
+to --> 
+dialogue type : Inform
+A : um . We decided not to go for speech recognition technologies because of some reasons
+to --> 
+dialogue type : Inform
+A : and we are not decided about u the use of L_C_D_ screen on on the remote control because of costs .
+
+to --> 
+dialogue type : Suggest
+A : Uh at the end of the meeting we should take decision on that point .
+
+to --> ,A
+dialogue type : Inform
+A : So each of you have some presentatio presentation to perform
+
+to --> 
+dialogue type : Inform
+D : I investigate deeper the preference of the users .
+
+to --> 
+dialogue type : Inform
+D : What I found in order of importance from less to more important is that people want an easy to use device .
+to --> 
+dialogue type : Inform
+D : After they they want something new technologic technologically speaking ,
+
+to --> 
+dialogue type : Inform
+D : what they what they find more more interesting , more or more important it's uh a fancy look and feel instead of uh instead of the current the current trend which was f the functional look and feel .
+to --> 
+dialogue type : Inform
+D : So now more more cool aspect , ma more a cooler aspect uh rather than a device with many functions and many buttons with
+to --> 
+dialogue type : Inform
+D : instead of i instead of ha of a device which can do many things , a device which is pleasant to to watch , to see .
+
+to --> 
+dialogue type : Inform
+D : all this fashion it's it's fruit and the the the theme is fruit and vegetables .
+to --> 
+dialogue type : Inform
+D : And also in the in the U_S_A_ the the current the mor the most popular feeling it's it's a spongy .
+
+to --> 
+dialogue type : Elicit-Inform
+B : What what do you mean by fruit and vegetables and spongy ?
+
+to --> 
+dialogue type : Inform
+D : I didn't miss and I saw that the fruit , there are many fr pictures of fruits and vegetables in the clothes .
+
+to --> 
+dialogue type : Assess
+B : So we're not gonna have a remote control in the shape of of a banana ,
+
+to --> 
+dialogue type : Inform
+D : Vegetable textures and all this kind .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : So which fruit are you thinking of ?
+
+to --> 
+dialogue type : Inform
+D : I ha I haven't thought of any particular fruit ,
+to --> 
+dialogue type : Suggest
+D : but the general aspect of the of the remote control may may could remind some kind of vegetable ,
+
+to --> 
+dialogue type : Suggest
+D : instead of vegetable , some natur mm uh natural object or something .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : or you want just some kind of like fruit logo on the
+
+to --> 
+dialogue type : Assess
+D : No , not n not not too much focus , not too much focu not n not too s not too similar to a fruit because next year the ten the trend the trend will be different .
+
+to --> 
+dialogue type : Assess
+B : I'm not , I'm not really sure if uh that would really appeal to everyone though ,
+
+to --> 
+dialogue type : Suggest
+B : like maybe just like a little bit n a little fruit picture somewhere in the corner ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Is fruit cool ?
+
+to --> 
+dialogue type : Assess
+B : Okay , but it has to be easy to uh to use though and to hold you know ,
+
+to --> 
+dialogue type : Inform
+B : Well , probably the only thing is a banana that I can think of ,
+
+to --> 
+dialogue type : Inform
+B : a cucumber .
+
+to --> 
+dialogue type : Assess
+A : Maybe too long .
+
+to --> 
+dialogue type : Inform
+A : and you you you will not have pla enough a lot of place to put a L_C_D_ on a banana also .
+
+to --> 
+dialogue type : Assess
+D : and also it's I'm not convinced about this L_C_D_
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Uh do you want a an L_C_D_ with twenty five Euros ?
+
+to --> 
+dialogue type : Assess
+A : you're simply looking s to a remote control that looks like a banana with few buttons with only a few buttons .
+
+to --> 
+dialogue type : Inform
+B : Okay . So I received an email um around lunchtime letting me know that the brilliant minds at our technology division had developed an integrated programmable sample sensor sample speaker unit ,
+
+to --> 
+dialogue type : Suggest
+A : So you are User Interface guy .
+
+to --> 
+dialogue type : Inform
+B : It means that it can recognize , it can do like a match on a on a certain phrase that you speak and then can play back a phrase in response to that .
+
+to --> 
+dialogue type : Suggest
+B : I guess you could build that in , you could you could link the the recognition of a certain phrase to some function on on the remote control .
+
+to --> 
+dialogue type : Suggest
+B : but it basically means we c we can kind of consider this from uh you know uh a theoretical or usability kind of viewpoint without worrying too much about you know how to develop it because we have this already done .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Is this a technology that recognize keywords speech keywords ?
+
+to --> 
+dialogue type : Inform
+B : it's it'll recognize uh I guess keywords , but you know keywords in a certain order like a phrase .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So this is not s really to do to to do control .
+
+to --> 
+dialogue type : Inform
+B : It's designed it's designed as a fun kind of thing ,
+
+to --> 
+dialogue type : Assess
+A : yeah comp completely pointless for the inter for from the interaction point of v point of view .
+
+to --> 
+dialogue type : Assess
+A : So this is out of discussion .
+
+to --> 
+dialogue type : Assess
+B : I think it doesn't really add much to the functional design and it's it's it's not mature enough to use as a speech recognition engine , so
+
+to --> 
+dialogue type : Inform
+B : I've just done a quick mock-up of uh uh some of the features of our potential funky-looking uh remote control
+
+to --> 
+dialogue type : Suggest
+B : But um , I've just indicated here , we could have actually two scroll wheels ,
+
+to --> 
+dialogue type : Assess
+B : But I think it's important , you know , to have two scroll wheels because , you know , you want one for for the channel , but you also want one for for the volume ,
+
+to --> 
+dialogue type : Inform
+B : I've also included this turbo button
+
+to --> 
+dialogue type : Assess
+B : because I think , you know , every design should have a turbo button ,
+
+to --> 
+dialogue type : Inform
+B : so with this turbo button you can , say , skip over t channels if uh , you know , if I'm if I'm going if I'm scrolling past them
+
+to --> 
+dialogue type : Suggest
+B : but I mean we can discuss about what other kind of buttons we need , um .
+
+to --> 
+dialogue type : Inform
+B : it's just you know a couple of scroll wheels and a button cause it's hard to get so many buttons on a banana
+
+to --> 
+dialogue type : Inform
+B : well , I guess you need an on and off switch ,
+to --> 
+dialogue type : Suggest
+B : but you could you could o you could turn it turn it on by taking the top off the banana maybe , you know ,
+
+to --> 
+dialogue type : Assess
+A : So i it looks like we're going completely to forget about the L_C_D_ thing .
+
+to --> 
+dialogue type : Suggest
+D : I I think we could use somehow the s coffee machine dialogue interface or so .
+
+to --> 
+dialogue type : Assess
+A : No we can we can't use that .
+
+to --> 
+dialogue type : Assess
+B : Well , I f I think it's probably more than , than our can handle because it's designed for a coffee machine , you know , to say hello in the morning .
+
+to --> 
+dialogue type : Assess
+B : I don't I don't know if that speech recognition is , you know , even if we can do it , I think it's not really appropriate for uh television environment .
+
+to --> 
+dialogue type : Suggest
+B : It might be useful to have some kind of base station ,
+to --> 
+dialogue type : Suggest
+B : even if it's just you press on a button on it and uh and the remote control starts beeping , you know , this is a way of finding the remote .
+
+to --> 
+dialogue type : Inform
+C : So this is going to be about the component design .
+to --> 
+dialogue type : Inform
+C : So first thing is we need power source for the remote control .
+to --> 
+dialogue type : Suggest
+C : So I was of the idea that we can have two kind of power supplies ,
+to --> 
+dialogue type : Suggest
+C : one is the usual batteries which are there ,
+to --> 
+dialogue type : Inform
+C : they could be chargeable batteries if there's a basis station kind of thing
+to --> 
+dialogue type : Suggest
+C : and on top of that we can have solar cells ,
+to --> 
+dialogue type : Inform
+C : when the lighting conditions are good they can be used so it'll be pretty uh innovative kind .
+to --> 
+dialogue type : Suggest
+C : Then uh we need plastic with some elasticity so that if your if the remote control falls it's not broken directly into pieces ,
+
+to --> 
+dialogue type : Assess
+B : I guess that fits in with the spongy kind of design philosophy .
+
+to --> 
+dialogue type : Suggest
+C : and then it should be double curve .
+to --> 
+dialogue type : Inform
+C : The s science for the ease of handling and there are some other issues why we need double curve .
+
+to --> 
+dialogue type : Inform
+C : with plastic you can have double curve but with uh certain other materials we cannot have double curve .
+
+to --> 
+dialogue type : Assess
+C : but plastic is I think is the most appropriate one ,
+to --> 
+dialogue type : Inform
+C : it'll bring the cost down
+
+to --> 
+dialogue type : Assess
+A : Yeah but it's more easier to do a banana in plastic than uh in wood .
+
+to --> 
+dialogue type : Elicit-Assessment
+B : but are we set on the banana idea ?
+
+to --> 
+dialogue type : Assess
+D : the shape of a banana is not it's not really handy .
+
+to --> 
+dialogue type : Assess
+A : Yes it is .
+
+to --> 
+dialogue type : Assess
+B : Yeah , okay , so capsicum or pepper . Yeah .
+to --> 
+dialogue type : Assess
+B : I don't know , it seems a little bit kind of bulky to me , like
+
+to --> 
+dialogue type : Inform
+B : But like a banana you can you can be holding like this and have the scroll wheel kind of on top
+
+to --> 
+dialogue type : Inform
+C : Okay , so push buttons for the traditional users so that they don't feel they are alienated ,
+
+to --> 
+dialogue type : Inform
+C : Then uh there are different kind of chips ,
+to --> 
+dialogue type : Inform
+C : one one is the basic chip and the regular chip and one an adva advanced chip .
+
+to --> 
+dialogue type : Assess
+C : Pricing is a factor for us , that's why we'll go for the regular chip .
+
+to --> 
+dialogue type : Elicit-Inform
+B : So are there any issues where we place this this chip to make sure you can actually hear the the speaker from the outside of the banana ?
+
+to --> 
+dialogue type : Suggest
+C : Uh , so we can have it at one of the boundaries so that things are slightly better .
+
+to --> 
+dialogue type : Suggest
+C : or as hearing is concerned , we can have some gap at some place ,
+
+to --> 
+dialogue type : Suggest
+C : so our T_V_ remote can have little extra things to support additional devices like V_C_R_ D_V_D_ players which are usually attached with the T_V_ ,
+
+to --> 
+dialogue type : Suggest
+B : It depends , if we like , if we are concentrating on like a fruit design , then maybe maybe we wanna sell a collection of fruit , you know , like a different fruit for each device .
+
+to --> 
+dialogue type : Inform
+C : So you're having the basis station and there is a button ,
+to --> 
+dialogue type : Inform
+C : if you press that button wherever the remote it'll start beeping so you know where the remote is . Uh
+
+to --> 
+dialogue type : Assess
+B : I think that's a pretty handy feature .
+
+to --> 
+dialogue type : Assess
+D : Yeah but I'm a bit worried about the budget .
+
+to --> 
+dialogue type : Inform
+C : basis station is nothing more , just it's a wire which is coming from the main cable and uh you're having one socket on which the thing sits .
+
+to --> 
+dialogue type : Inform
+C : L_C_D_ has already been ruled out , A_S_R_ has been ruled out .
+
+to --> 
+dialogue type : Assess
+B : I'm just wondering actually , 'cause , you know , I this whole fruit thing with the banana , it's um it seemed like it first seems a bit kind of uh niche , like only a few people would really want a banana ,
+to --> 
+dialogue type : Suggest
+B : but what if it was kind of uh a stylised banana ?
+to --> 
+dialogue type : Suggest
+B : You know , rather than having it kind of you know yellow and really looking exactly like a banana , you could make it kind of silver .
+
+to --> 
+dialogue type : Assess
+A : If you make something that looks like a banana it should have the colour of a banana .
+
+to --> 
+dialogue type : Suggest
+B : maybe like still in the shape of a banana .
+
+to --> 
+dialogue type : Suggest
+B : Um , but you know , just maybe maybe not exactly the same texture as a banana
+
+to --> ,A
+dialogue type : Suggest
+A : Before before st before ending the meeting I'd like to to draw some sketch about the pro future prot prototype .
+
+to --> ,A
+dialogue type : Suggest
+A : So we need to take some de decisions about um about what we're going to do .
+
+to --> 
+dialogue type : Assess
+A : so we're going for a stylish banana shape .
+
+to --> 
+dialogue type : Inform
+A : We'll have a base station extra uh on the side .
+
+to --> 
+dialogue type : Inform
+A : So we that means we need a button on th on the on the basis .
+to --> 
+dialogue type : Inform
+A : Uh , we have a R_F_ for um for beeping for beeping .
+
+to --> 
+dialogue type : Inform
+A : and your tur turbo turbo uh button .
+
+to --> 
+dialogue type : Assess
+B : Yeah , which I think it's it's probably best actually on the on the underneath of the the device ,
+
+to --> 
+dialogue type : Inform
+A : And and you have two wheels .
+
+to --> 
+dialogue type : Inform
+B : Oh we need a we need a power um on off switch as well .
+
+to --> 
+dialogue type : Assess
+B : Well , I dunno if the traditional user is gonna buy a a banana remote
+
+to --> 
+dialogue type : Inform
+C : But you know our targets are very high , means fifty million Euros is the profit which we want make .
+
+to --> 
+dialogue type : Inform
+A : You have to uh work on the look and feel uh design
+to --> 
+dialogue type : Inform
+A : and you have to work on the user interface ,
+to --> 
+dialogue type : Inform
+A : in fact you two you have to work together to model the first uh f first prototype .
+to --> 
+dialogue type : Inform
+A : Uh Marketing Expert uh have to go to product evaluation .
+

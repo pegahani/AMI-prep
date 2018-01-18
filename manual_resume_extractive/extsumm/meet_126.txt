@@ -1,0 +1,489 @@
+to --> 
+dialogue type : Inform
+C : . I did get a bit more done than the last time ,
+to --> 
+dialogue type : Inform
+C : 'cause I knew that I didn't have time so I just copy and paste everything into the
+to --> 
+dialogue type : Inform
+C : Sometimes I have these pop-ups or these sounds and there's nothing there ,
+to --> 
+dialogue type : Inform
+C : and also with I don't know how to use PowerPoint , so it takes me forever to get something done with it .
+
+to --> ,A
+dialogue type : Inform
+A : Uh we have again three presentations and then we have to decide on what concepts the mobile phone has to uh f the remote control has to support .
+
+to --> 
+dialogue type : Inform
+D : So welcome to the marketing presentation once again .
+
+to --> 
+dialogue type : Inform
+D : Um fashion watch watchers uh have detected the trends for young public , because that's our public .
+
+to --> 
+dialogue type : Inform
+D : fruit and vegetables will be will be the most important theme for clothing , uh shoes and furniture .
+to --> 
+dialogue type : Inform
+D : And the feel of the material is expected to be spongey .
+
+to --> 
+dialogue type : Inform
+D : oh yeah well this is the fruit and vegetables looks of fresh bright colours .
+
+to --> 
+dialogue type : Inform
+D : most important aspect for remote control happens to be a fancy look-and-feel . Instead of the current uh functional look-and-feel .
+
+to --> 
+dialogue type : Inform
+D : And the second most important aspect is that a remote control should be technological uh innovative .
+
+to --> 
+dialogue type : Assess
+D : I think we pretty much covered that with our screen and um and speech recognition ,
+
+to --> 
+dialogue type : Inform
+D : And the third development um is that the remote control should be easy to use .
+
+to --> 
+dialogue type : Inform
+D : Well the first aspect uh was twice as important as the second aspect,w which was twice as important as the third aspect .
+
+to --> 
+dialogue type : Inform
+D : Uh nothing about the buttons but just sponge kind of thing , and and some fruit and colours
+
+to --> 
+dialogue type : Inform
+D : Just made a quick design .
+
+to --> 
+dialogue type : Inform
+C : I'm dealing with the components design .
+
+to --> 
+dialogue type : Inform
+C : I uh used some design examples we had uh from similar products .
+
+to --> 
+dialogue type : Inform
+C : Uh for example the energy source . we have four types .
+to --> 
+dialogue type : Inform
+C : The basic battery .
+to --> 
+dialogue type : Inform
+C : Uh we have a hand dynamo ,
+
+to --> 
+dialogue type : Inform
+C : Uh the kinetic provision of energy which means if you move the thing , if you shake it .
+
+to --> 
+dialogue type : Inform
+C : And uh of course solar cells .
+
+to --> 
+dialogue type : Inform
+C : for the uh a case , there's uh the traditional uncurved flat hard case .
+to --> 
+dialogue type : Inform
+C : Single curved , which means that it has uh curves in one dimension .
+to --> 
+dialogue type : Inform
+C : Or the double curved .
+
+to --> 
+dialogue type : Suggest
+C : but well you know that we will have to go for the double curved 'cause it's daring and different from what we have now .
+
+to --> 
+dialogue type : Inform
+C : Well we have all kinds of hard uh materials like the the hard plastic , the wood and the titanium .
+to --> 
+dialogue type : Suggest
+C : I would definitely go for rubber
+
+to --> 
+dialogue type : Inform
+C : We have yeah several uh interface designs .
+to --> 
+dialogue type : Inform
+C : Uh we can use a scroll buttons for the menus ,
+to --> 
+dialogue type : Inform
+C : but we already kind of decided to go for the f for the pushbuttons , for the the arrow buttons .
+
+to --> 
+dialogue type : Assess
+C : the advanced chip I think is easiest to implement uh for the production , 'cause they they can print it better .
+
+to --> 
+dialogue type : Inform
+C : I first uh chose for the battery , 'cause yeah I'm traditional and that's the most obvious , easiest choice to go to .
+to --> 
+dialogue type : Suggest
+C : But I really think that we should maybe uh think about the kinetic energy ,
+
+to --> 
+dialogue type : Inform
+C : I can imagine that the kinetic uh type energy source would be more expensive to make .
+to --> 
+dialogue type : Inform
+C : But it is more longlasting , that the people don't have to ever buy batteries again .
+
+to --> 
+dialogue type : Inform
+D : and especially when the material's rubber . It can be done , I mean , you can't harm it ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : So double curved is like this , this , this , or
+
+to --> 
+dialogue type : Inform
+C : No it means curved in two dimensions .
+to --> 
+dialogue type : Inform
+C : So uh w single curved ? Uh let's say would be a b square box , but then with curves on one dimension .
+
+to --> 
+dialogue type : Inform
+B : One one uh very important thing I was uh yeah thinking about is the speech uh option .
+
+to --> 
+dialogue type : Inform
+A : I think you can just uh match the speech commands with the functions that are already present .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : But do uh j do we uh do the speech just for the basic options , for the simple buttons ?
+to --> 
+dialogue type : Elicit-Assessment
+B : For for everything ,
+
+to --> 
+dialogue type : Inform
+B : in the in the last uh meeting we uh we were yeah putting the the simple and the advanced options separated .
+
+to --> 
+dialogue type : Inform
+B : Pressing the the menu option uh will disable uh all other options on your uh remote control .
+to --> 
+dialogue type : Inform
+B : And only the the L_C_D_ panel will uh light up and then you can only uh change the yeah the options .
+
+to --> 
+dialogue type : Inform
+B : but this is the the the simple uh layout .
+to --> 
+dialogue type : Inform
+B : Uh display on the upper side with the the menu button and maybe a some sort of cancel button or save button .
+
+to --> 
+dialogue type : Inform
+B : And uh if there are older people they wanted more uh yeah more uh luxurous so that's an a also an option .
+
+to --> 
+dialogue type : Inform
+A : So we only , we already decided that kinetic would be the choice for energy .
+to --> 
+dialogue type : Inform
+A : Uh the case would be doubly curved . So
+
+to --> 
+dialogue type : Inform
+D : Rubber material .
+
+to --> 
+dialogue type : Assess
+A : Advanced chip . Okay .
+
+to --> 
+dialogue type : Inform
+C : I'm just thinking , this is not my department , but I I'm not sure what this is gonna cost ,
+
+to --> 
+dialogue type : Inform
+A : I didn't get any information about that so
+
+to --> 
+dialogue type : Elicit-Inform
+A : Uh do you have a picture of doubly curved case ?
+
+to --> 
+dialogue type : Inform
+B : This is the the menu I was uh looking uh at .
+
+to --> 
+dialogue type : Inform
+C : S see this is the the the standard traditional type , where the form uh yeah serves the function , you know .
+
+to --> 
+dialogue type : Assess
+C : But this m is more appealing to old people and we don't want that .
+
+to --> 
+dialogue type : Inform
+C : And th that means curved in both dire dire uh dimensions .
+
+to --> 
+dialogue type : Inform
+C : where your thumbs would be laying in the instrument and it has to be nice to hold . And
+
+to --> 
+dialogue type : Assess
+B : Th this looks a little bit like like for only for children . So
+
+to --> 
+dialogue type : Assess
+C : Yeah but that's that's the the problem uh yeah the dilemma actually ,
+to --> 
+dialogue type : Assess
+C : 'cause we wanna appeal to the to the young public with fancy with flashy colours , and with a lot of shape .
+
+to --> 
+dialogue type : Assess
+C : Yeah , and the and the rubber , it it will look cheap always ,
+
+to --> 
+dialogue type : Suggest
+B : Okay but the the colours , you you can make it uh make the colours with LEDs uh beneath the the buttons .
+to --> 
+dialogue type : Suggest
+B : If you press a button and you can disable the the colour LEDs for for people that don't like it .
+
+to --> 
+dialogue type : Inform
+C : And this is , this is with the curved that I mean .
+
+to --> 
+dialogue type : Suggest
+A : Well we could make a compromise between that .
+
+to --> 
+dialogue type : Inform
+A : Uh instead of doubly curved we take a single curved . So to appeal a little more to the all the public .
+
+to --> 
+dialogue type : Suggest
+D : Yeah so we keep it singly c single curved then ?
+
+to --> 
+dialogue type : Assess
+C : I would go for the double curved .
+
+to --> 
+dialogue type : Inform
+C : I mean our aim is to make something different right ?
+
+to --> 
+dialogue type : Suggest
+C : And I I'm I'm thinking uh you know uh a drawing palette , where you have the shape for your thumb .
+
+to --> 
+dialogue type : Assess
+B : but if you if you make it more curved we we can make more and more options for buttons .
+
+to --> 
+dialogue type : Suggest
+C : You can make a trigger button or something like that .
+
+to --> 
+dialogue type : Suggest
+C : and we need something that well that that you can able to use in one hand I think .
+
+to --> 
+dialogue type : Suggest
+D : But from the side you you can have it also in a kind of shape .
+
+to --> 
+dialogue type : Suggest
+D : A little upwards . So that the screen is more
+
+to --> 
+dialogue type : Assess
+D : So then you have double double curved in some way .
+
+to --> 
+dialogue type : Suggest
+C : How about we do a uh a pop-up screen , like the laptop .
+
+to --> 
+dialogue type : Assess
+A : If you can uh flip .
+
+to --> 
+dialogue type : Assess
+D : But I dunno if that's too expensive .
+
+to --> 
+dialogue type : Assess
+A : Okay so the buttons are on top here , and you flip it over that way .
+
+to --> 
+dialogue type : Suggest
+A : and you can maybe even drop the menu button because maybe if you flip it open it will auto activate amauto uh uh automatically .
+
+to --> 
+dialogue type : Assess
+D : So okay b but you have t you need some button to flip this open .
+
+to --> 
+dialogue type : Assess
+C : Well yeah the the idea of it was , is that because you close it , you cover the L_C_D_ screen and it won't be vulnerable to scratches or whatever .
+
+to --> 
+dialogue type : Suggest
+C : We just have to make sure that the closing mechanism won't break .
+
+to --> 
+dialogue type : Suggest
+C : or do we wanna make its shape look like a banana or something ?
+
+to --> 
+dialogue type : Assess
+A : I think that uh it's a nice design .
+
+to --> 
+dialogue type : Assess
+D : Yeah so okay we should better choose one sh one shape .
+
+to --> 
+dialogue type : Inform
+A : So the keywords are primary co colours , spongey ?
+
+to --> 
+dialogue type : Suggest
+A : And ergonomical shape . Yeah .
+
+to --> 
+dialogue type : Suggest
+C : I would give it a female shape
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : I don't know what what colours should the basic print be like ?
+to --> 
+dialogue type : Suggest
+D : Like some soft green or something ?
+
+to --> 
+dialogue type : Suggest
+A : Orange or something .
+
+to --> 
+dialogue type : Suggest
+D : and then and then very bright , uh a yellow banana , an orange , uh a green apple , stuff like that ,
+
+to --> 
+dialogue type : Assess
+C : Yeah w we need very primary colours , like bright red , bright yellow .
+
+to --> 
+dialogue type : Assess
+B : Yeah but the primary colours w we can uh create with the with the LEDs on the on the remote control .
+
+to --> 
+dialogue type : Assess
+B : If you make it uh just a yeah bl give it a blue colour , then it's just a neutral colour ,
+
+to --> 
+dialogue type : Assess
+D : That doesn't really work . To draw , I guess .
+
+to --> 
+dialogue type : Assess
+D : So that's that's a dark blue basic colour I guess .
+
+to --> 
+dialogue type : Assess
+D : Yeah with some some yellow banana
+
+to --> 
+dialogue type : Suggest
+C : So it not not only in in the colours of the LEDs , that we want something to keep it visible at all times ,
+
+to --> 
+dialogue type : Inform
+C : 'cause I remember from one of our first meetings that uh people lose their uh remote controls often .
+
+to --> 
+dialogue type : Elicit-Inform
+D : I mean , the the colour of the background of the display ?
+
+to --> 
+dialogue type : Suggest
+D : So just just a a blue blue backlight or something like that .
+
+to --> 
+dialogue type : Suggest
+B : maybe a maybe a white a white backlight ?
+
+to --> 
+dialogue type : Suggest
+C : But don't we wanna make the background the the bright colo colours ? So th the total of the thing is very bright ?
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+D : But then then again , which colour should the buttons be ?
+
+to --> 
+dialogue type : Assess
+D : But maybe the buttons , all buttons in red is maybe a bad contrast for colourblind people .
+
+to --> 
+dialogue type : Inform
+C : Red and green are actually the b the easiest to discriminate . Even for colourblind .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : So red buttons are okay ?
+
+to --> 
+dialogue type : Suggest
+D : You better bet better better keep the LED and the button itself in the same colour I guess .
+
+to --> 
+dialogue type : Suggest
+C : what we should do I think is is make kind of a see-through plastic button , with uh one coloured LED behind it .
+
+to --> ,A
+dialogue type : Inform
+A : but uh basically you two are going to work on the smartboard .
+to --> 
+dialogue type : Inform
+A : Next thirty minutes to design something so
+
+to --> ,A
+dialogue type : Inform
+A : You will do the evaluation .
+
+to --> 
+dialogue type : Inform
+A : You probably get a mail .
+
+to --> 
+dialogue type : Assess
+A : Yeah but maybe you can do the evaluation you don't have to evaluate yet but you can make a procedure which to follow .
+
+to --> 
+dialogue type : Elicit-Inform
+C : So we're gonna work here ? On this sketchboard ?
+
+to --> ,B
+dialogue type : Elicit-Inform
+B : But we have to do it at this moment , after th this meeting ?
+
+to --> 
+dialogue type : Inform
+A : Yeah you have uh
+to --> 
+dialogue type : Assess
+A : thirty minutes .
+

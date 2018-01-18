@@ -1,0 +1,230 @@
+to --> 
+dialogue type : Inform
+A : The first kick-off meeting .
+
+to --> ,A
+dialogue type : Inform
+A : First the opening ,
+to --> ,A
+dialogue type : Inform
+A : then the rest .
+
+to --> 
+dialogue type : Inform
+A : We m have to make a new remote control .
+to --> 
+dialogue type : Inform
+A : It has to be original , trendy and user-friendly .
+to --> ,A
+dialogue type : Inform
+A : So we will get back th on that .
+to --> 
+dialogue type : Inform
+A : First we have to make a functional design .
+to --> 
+dialogue type : Inform
+A : After that we have to make a conceptual design ,
+to --> 
+dialogue type : Inform
+A : and then after that a detailed design .
+to --> ,A
+dialogue type : Inform
+A : So we'll discuss that later .
+
+to --> 
+dialogue type : Inform
+A : So first to we have to make a small painting .
+
+to --> 
+dialogue type : Inform
+A : First you can save the documents .
+to --> 
+dialogue type : Inform
+A : We have to do that every time we make something .
+
+to --> 
+dialogue type : Inform
+A : And we have to use the pen and the eraser .
+
+to --> 
+dialogue type : Inform
+A : We all have to use this one .
+
+to --> 
+dialogue type : Offer
+A : So I'll make an example .
+
+to --> 
+dialogue type : Inform
+A : Um you can change some things .
+to --> 
+dialogue type : Inform
+A : Um format , line , and change it .
+to --> 
+dialogue type : Inform
+A : And you can change the colour .
+
+to --> 
+dialogue type : Inform
+A : So and after it you have to save it .
+
+to --> 
+dialogue type : Assess
+C : An elephant .
+
+to --> 
+dialogue type : Inform
+A : So you're next .
+
+to --> 
+dialogue type : Suggest
+C : Uh a bird .
+
+to --> 
+dialogue type : Suggest
+D : Now save ?
+
+to --> 
+dialogue type : Assess
+D : Okay .
+
+to --> 
+dialogue type : Inform
+A : Now next . The budget .
+
+to --> 
+dialogue type : Inform
+A : we will sell the t at twenty five Euros .
+to --> 
+dialogue type : Inform
+A : And we have only twenty of twelve and a half Euro to make it .
+
+to --> 
+dialogue type : Inform
+A : First I wanna hear from you .
+to --> 
+dialogue type : Elicit-Inform
+A : Uh what are your experiences with remote controls .
+
+to --> 
+dialogue type : Inform
+C : Big one , they are uh not easy to use .
+
+to --> 
+dialogue type : Inform
+C : And uh g big buttons ,
+to --> 
+dialogue type : Assess
+C : m uh that's easier to use than uh I think .
+
+to --> 
+dialogue type : Inform
+C : Big buttons , positive .
+
+to --> 
+dialogue type : Inform
+B : Uh well I think the the the goal of a remote control is that it's it it has an influence on the T_V_ set .
+to --> 
+dialogue type : Inform
+B : And that it controls the channels and the the volume .
+to --> 
+dialogue type : Inform
+B : And uh I I I think it's positive if there's a a LED uh uh a LED on the corner of the of the remote .
+
+to --> 
+dialogue type : Inform
+B : And that if you push the button the LED uh gives a light , and uh and you see that it's working .
+
+to --> 
+dialogue type : Inform
+B : But I my my experience is that it it it's convenient to have that .
+
+to --> 
+dialogue type : Inform
+D : Uh at home we have a T_V_ , a video uh recorder , a D_V_D_ player , and a satellite receiver .
+to --> 
+dialogue type : Inform
+D : We have uh four distinctive remote controls for that .
+to --> 
+dialogue type : Inform
+D : That's not really ea easy .
+to --> 
+dialogue type : Inform
+D : So it would be nice if we have one for all .
+
+to --> 
+dialogue type : Inform
+A : For our own remote control we have to think how do we make it .
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : So what ideas do you have for it , for the new remote control ?
+
+to --> 
+dialogue type : Suggest
+C : The weight . Not not too heavy .
+to --> 
+dialogue type : Suggest
+C : Not much buttons .
+
+to --> 
+dialogue type : Inform
+C : That when you drop it , it won't break .
+to --> 
+dialogue type : Suggest
+C : Like uh some kind of rubber on it .
+to --> 
+dialogue type : Suggest
+C : Or hard uh hard plastic .
+
+to --> 
+dialogue type : Inform
+C : Uh something like when you uh lose your uh remote control , sometimes it happen . Uh it between the couch and you can't find it .
+to --> 
+dialogue type : Suggest
+C : When you push a but a button on the T_V_ , then you hear some uh some sort of bleep .
+
+to --> 
+dialogue type : Assess
+B : Yeah well that's that are good ideas . Uh
+
+to --> 
+dialogue type : Suggest
+B : And looking on the budget , not too expensive uh material .
+to --> 
+dialogue type : Suggest
+B : So probably plastic or something . Uh
+
+to --> 
+dialogue type : Suggest
+D : Yeah I think it uh from a marketing point of view , it also has to look nice .
+
+to --> 
+dialogue type : Inform
+D : on our website we can see what products we already have .
+to --> 
+dialogue type : Suggest
+D : And it should work with as many uh as possible of them .
+
+to --> 
+dialogue type : Suggest
+C : Uh it it won't take a lot of batteries .
+to --> 
+dialogue type : Suggest
+C : So you don't won't have to change the batteries uh once a week or uh once every two weeks .
+
+to --> 
+dialogue type : Inform
+A : It's only the first ideas .
+
+to --> 
+dialogue type : Inform
+A : uh what are we going to do now is Next meeting is in half an h hour .
+
+to --> 
+dialogue type : Suggest
+A : Um , what you have to do . Well look on your .
+
+to --> 
+dialogue type : Inform
+A : And Next instructions you'll get in your email . So
+

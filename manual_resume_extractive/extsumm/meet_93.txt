@@ -1,0 +1,460 @@
+to --> 
+dialogue type : Be-Positive
+A : welcome back fro to the second meeting .
+
+to --> 
+dialogue type : Inform
+A : the first presentation we'll be looking at is Poppy's presentation .
+
+to --> 
+dialogue type : Be-Positive
+B : I will take this time just to apologise .
+to --> 
+dialogue type : Inform
+B : I , I only , uh , received my emails later on . 'Cause I was too busy carried away doing my own thing ,
+
+to --> 
+dialogue type : Inform
+B : Um , so I was looking at how we're going to go about the working design ,
+
+to --> 
+dialogue type : Inform
+B : Uh , on a functional side of things , we found out that wh from our previous meeting , we decided that there're certain points that will make our product unique .
+to --> 
+dialogue type : Inform
+B : Um , one is the visibility in the dark ,
+
+to --> 
+dialogue type : Suggest
+B : And we could use illuminated buttons ,
+
+to --> 
+dialogue type : Suggest
+B : Or we could use fluorescent materials
+
+to --> 
+dialogue type : Suggest
+B : Um , also we could use um an alarm .
+to --> 
+dialogue type : Inform
+B : So if we lost the um remote control , perhaps there could be a button on the television set itself , which you could press ,
+
+to --> 
+dialogue type : Inform
+B : Um , another thing I think we d missed out on on the last meeting was the fact that we should consider the environmental impact of our design .
+to --> 
+dialogue type : Inform
+B : Um , from previous researches I've carried out on other projects , um we've learnt about smart materials where um um specific alloys of metals have a shape memory .
+to --> 
+dialogue type : Inform
+B : So they can be heated and um and cooled , and they change the shape of um the metal .
+
+to --> 
+dialogue type : Inform
+B : So um , the benefits of this for our product would be that when it came to the end of its product life , if it was heated , um everything would spring apart .
+to --> 
+dialogue type : Inform
+B : So , all the um individual components could be easily separated , and then some could be reused , some could be recycled ,
+
+to --> 
+dialogue type : Inform
+B : I mean , the user would return the p product to the company ,
+to --> 
+dialogue type : Inform
+B : 'cause it's the product's responsibility to get rid of what they've made .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Would we be the company that would break down these , or uh metals ?
+
+to --> 
+dialogue type : Inform
+A : One thing we have to consider is our uh one hundred percent um turnover goal that we have for our financial sector .
+to --> 
+dialogue type : Suggest
+A : Um , so we'll have to investigate how much that will cost us , cost the company ,
+
+to --> 
+dialogue type : Inform
+B : Um also there is um components .
+
+to --> 
+dialogue type : Inform
+B : But I haven't put this plan together yet .
+
+to --> 
+dialogue type : Inform
+B : This would actually show the circuit diagram .
+to --> 
+dialogue type : Inform
+B : Although I haven't come up with the final circuit yet .
+
+to --> 
+dialogue type : Inform
+B : I it just shows what sort of energy source .
+to --> 
+dialogue type : Inform
+B : It could be a battery ,
+
+to --> ,A
+dialogue type : Inform
+A : And , um , the next presenter will be Tara .
+
+to --> 
+dialogue type : Inform
+C : There're two functional design options .
+to --> 
+dialogue type : Inform
+C : A multifunctional remote control , which can be used for several entertainment devices .
+to --> 
+dialogue type : Inform
+C : And a single function remote control , used specifically for the television .
+
+to --> 
+dialogue type : Inform
+C : Um , multifunctional controls can be difficult to use , as the multitude of buttons can be confusing .
+to --> 
+dialogue type : Inform
+C : A single function remote control is simpler to use , but it means you have to have other remote controls for your other entertainment devices .
+to --> 
+dialogue type : Assess
+C : Um , I think that a single function remote control would be preferable ,
+
+to --> 
+dialogue type : Inform
+C : It'd be more compatible with a range of television sets , making it more internationally sellable .
+
+to --> 
+dialogue type : Inform
+C : And it would be more profitable as it would be more simplistic .
+to --> 
+dialogue type : Inform
+C : And less functions would have to be included .
+to --> 
+dialogue type : Inform
+C : So it would be cheaper to make .
+
+to --> 
+dialogue type : Elicit-Inform
+D : So as far as we know , um , a single function television remote control is us usable internationally ?
+
+to --> 
+dialogue type : Inform
+B : Um , I was just wondering about the , what , what Genevieve said before , about having like some hidden controls like having the outer casing .
+to --> 
+dialogue type : Inform
+B : And that would probably , um , I d , well well what you said before about it being a more profitable simplistic design .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Does anyone object and , and find the multifunctional might be a better way to go ?
+
+to --> 
+dialogue type : Inform
+D : because we're trying to do so much , that if we're trying to make a unique , user-friendly , dadada , and it's also multi also multifunctional , um , we're gonna go over budget for one thing .
+
+to --> 
+dialogue type : Inform
+C : And with this we'll have more room in the budget probably to make a more original design .
+
+to --> 
+dialogue type : Offer
+D : Okay . So I'll be discussing the functional requirements of this remote control .
+
+to --> 
+dialogue type : Inform
+D : Um , I've done some marketing research , a lot of interviews with remote control users , um , and some internet research .
+
+to --> 
+dialogue type : Inform
+D : and firstly I wanted to remind you about our company motto and purpose .
+to --> 
+dialogue type : Inform
+D : So we believe in providing international market with fashionable products .
+to --> 
+dialogue type : Inform
+D : Um , hence our motto , we put the fashion in electronics .
+
+to --> 
+dialogue type : Suggest
+D : Um , and we should also be looking to trends in clothing and interior design . Not just in electronic fashion .
+
+to --> 
+dialogue type : Inform
+D : Any trends that are going on in , in the public , even media ,
+
+to --> 
+dialogue type : Inform
+D : Um , seventy five percent of users of remote controls find them ugly .
+
+to --> 
+dialogue type : Inform
+D : Eighty percent of users would spend more money when a remote control would look fancy .
+to --> 
+dialogue type : Inform
+D : Current remote controls do not match well the operating behaviour of the user .
+
+to --> 
+dialogue type : Inform
+D : Um , seventy five percent of remote control users said that they zap a lot .
+
+to --> 
+dialogue type : Inform
+D : Um , and fifty percent of users say they only use ten percent of the buttons .
+
+to --> 
+dialogue type : Suggest
+A : so it might be very appealing if , um , we have very concise buttons .
+to --> 
+dialogue type : Suggest
+A : And another thing with um lots of surfing , we'd probably have to work on something that could be um a lot more durable ,
+
+to --> 
+dialogue type : Offer
+D : And actually to go with that , I'm gonna give you some statistics on the uh relevancy of the buttons , how much they're used .
+
+to --> 
+dialogue type : Inform
+D : Channel selection is used a hundred and sixty eight times on average per hour .
+
+to --> 
+dialogue type : Inform
+D : Teletext , um , now I'm not too clear on what that is .
+
+to --> 
+dialogue type : Inform
+B : it's just information that um , like television timetables , what's on , what's on now , what's on next , on every channel , and
+
+to --> 
+dialogue type : Inform
+D : So it looks like something that we're gonna want to do some research on and include on our remote control .
+
+to --> 
+dialogue type : Inform
+D : Um , and has a r a high relevance of six point five .
+
+to --> 
+dialogue type : Inform
+D : Remote controls are often lost somewhere .
+
+to --> 
+dialogue type : Other
+D : Um , remote controls are bad for R_S_I_ .
+
+to --> 
+dialogue type : Suggest
+D : But we'll have to also avoid , you know , buttons responding to the slightest touch as well .
+
+to --> 
+dialogue type : Suggest
+D : So I guess we're gonna have to figure out what age group we're , we're targeting ,
+to --> 
+dialogue type : Suggest
+D : and if and if voice recognition is something we wanna look into .
+
+to --> 
+dialogue type : Assess
+D : So it m it may be too complicated for us , but it's something to keep in mind anyway .
+
+to --> 
+dialogue type : Inform
+A : And something that might further complicate it is that the T_V_ makes noise itself .
+
+to --> 
+dialogue type : Suggest
+A : We need to decide if that is our um intention is , is a simplistic design .
+
+to --> 
+dialogue type : Inform
+D : Um an L_C_D_ screen though might be something that , you know , you can shift through pages kind of li the way this PowerPoint is working .
+
+to --> 
+dialogue type : Suggest
+C : It would be good if it had the actual programme that was on , and what was next .
+
+to --> 
+dialogue type : Assess
+C : Might be quite expensive to do that though .
+
+to --> 
+dialogue type : Suggest
+D : Um , I think our priority really should be unique design .
+
+to --> 
+dialogue type : Suggest
+D : so uh in my opinion it should be , um , user-friendly and unique .
+
+to --> 
+dialogue type : Inform
+D : Um , I th myself , voice recognition kind of scares me off .
+
+to --> 
+dialogue type : Suggest
+D : I mean if we wanted to concentrate on fifteen to twenty five years olds , we could go for the fancy stuff .
+to --> 
+dialogue type : Suggest
+D : But if we wanna make fifty million , and and have everyone want this remote control , we should maybe
+to --> 
+dialogue type : Suggest
+D : stick to the basics .
+
+to --> 
+dialogue type : Suggest
+D : Um , so I I think , I think the older generations we should be catering to a bit more .
+
+to --> ,A
+dialogue type : Inform
+A : Before we go into uh more discussion on we want this design to look like , I've received some information from the management that will affect some of our decisions .
+to --> 
+dialogue type : Inform
+A : Um , for one thing , because Having controls with D_V_D_ , V_C_R_ , that sort of thing , would really complicate the design of the remote control . Um , we've decided not to include them and make it a specific , just a specific television um function .
+to --> 
+dialogue type : Assess
+A : Which is good as , as we've sort of decided that we would like to go with that anyway .
+
+to --> 
+dialogue type : Inform
+A : Another thing that might um affect other decisions is that um the management feels that teletext is outdated , because more people are using the internet now .
+
+to --> 
+dialogue type : Inform
+A : So , um , all the remote controls must have our um We'll incorporate our logo and colour in in some way .
+
+to --> 
+dialogue type : Inform
+A : but for the purposes of this meeting I , I wasn't offered a , like a type of logo or colour ,
+
+to --> 
+dialogue type : Inform
+D : It's probably R_ R_R_ in yellow .
+
+to --> 
+dialogue type : Suggest
+A : Um , so , now we need to discuss , um and come to a decision on our remote control functions , of , of how this is going to be .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Are we going to write off the L_C_D_ option ?
+
+to --> 
+dialogue type : Inform
+D : So no L_C_D_ , no teletext , and no voice recognition .
+
+to --> 
+dialogue type : Inform
+C : I don't use teletext that much , but if it was on your T_V_ , you'd want to be able to use it ,
+
+to --> 
+dialogue type : Inform
+A : It was a management decision ,
+to --> 
+dialogue type : Inform
+A : so it's , it's pretty much out of our hands at this point .
+
+to --> 
+dialogue type : Suggest
+D : Um , well I guess , just from my findings it looks like we wanna minimise buttons .
+
+to --> 
+dialogue type : Suggest
+A : I think we should definitely go ahead with the alarm system idea that you had .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Would you be able to , um , put the little device anywhere ?
+
+to --> 
+dialogue type : Inform
+C : so it would need to be something that you could stick somewhere , or something .
+
+to --> 
+dialogue type : Inform
+A : It would be able to use the same reception on the remote c control I guess , but the actual device would have to have its own infrared signaller .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Would it need a battery then ?
+
+to --> 
+dialogue type : Offer
+B : So , mm , more research into that one .
+
+to --> 
+dialogue type : Inform
+A : um , the glow-in-the-dark , fluorescent , whatever , system , um is a go ahead .
+
+to --> 
+dialogue type : Suggest
+D : Um right , if w if we're minimising buttons , we might be able to make them actually larger .
+
+to --> 
+dialogue type : Suggest
+A : We could , may , possibly , sorry , incorporate them both so that the buttons could maybe be in the shape of the numbers themselves and be made out of some glow-in-the-dark material .
+
+to --> 
+dialogue type : Inform
+D : I just thought that it , it might be sucking more battery power , if there , if it is a light up .
+
+to --> 
+dialogue type : Inform
+B : Um , so like big b um buttons , for people you are visually impaired .
+
+to --> 
+dialogue type : Inform
+D : I guess the other option , referring to the battery thing is , you know how cellphones will t light up for fifteen seconds or something , when you're s and then it goes ,
+
+to --> 
+dialogue type : Inform
+D : Um , if instead of a constant light up on the , on the remote control , if it lights up for ten seconds when it's touched again .
+
+to --> 
+dialogue type : Assess
+A : That's probably feasible .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Um , did we want to go for the glow-in-the-dark look ?
+to --> 
+dialogue type : Elicit-Assessment
+A : Or did we want to go for the lighting up instantly ?
+
+to --> 
+dialogue type : Inform
+A : Because it might , for , for our design purposes , I mean , the lighting up thing might be better because glow-in-the-dark material has a funny kinda colour .
+
+to --> 
+dialogue type : Assess
+A : So we've decided on lighting up things .
+
+to --> 
+dialogue type : Inform
+D : it might be perceived as tacky , glow-in-the-dark .
+
+to --> 
+dialogue type : Suggest
+D : Yeah well , I was just gonna throw out there the thought about um personalising the remote control .
+
+to --> 
+dialogue type : Suggest
+D : So I I dunno if there's something that diff , you know like five different face plates .
+
+to --> 
+dialogue type : Assess
+C : and then that would be uh more profitable like as a sideline to the remote as well .
+
+to --> 
+dialogue type : Suggest
+A : I think that we should incorporate that .
+
+to --> 
+dialogue type : Suggest
+D : You could start out with three , and if , if we hit it big then we can add some on .
+
+to --> 
+dialogue type : Inform
+B : Um , the environmental factor , we didn't bring that up again .
+
+to --> 
+dialogue type : Suggest
+A : We'll have to do more research .
+

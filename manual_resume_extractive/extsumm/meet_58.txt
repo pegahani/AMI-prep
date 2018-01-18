@@ -1,0 +1,874 @@
+to --> ,C
+dialogue type : Inform
+C : I sent you the agenda ,
+
+to --> ,C
+dialogue type : Inform
+C : Anyway , it's the meeting's gonna follow more or less the same structure as last time ,
+
+to --> 
+dialogue type : Inform
+C : it was on the in the project documents .
+
+to --> ,C
+dialogue type : Inform
+C : so we'll go round each of you in turn
+to --> ,C
+dialogue type : Inform
+C : and you can give your presentations on what you've been up to .
+to --> ,C
+dialogue type : Inform
+C : Um and at the end of that we need to discuss what you've come up with , so that we can make a decision on the key remote control concepts ,
+
+to --> 
+dialogue type : Inform
+C : we need to know about the components' properties , materials , the user interface and any trends that the Marketing Expert has been watching .
+
+to --> 
+dialogue type : Inform
+A : so I haven't made a PowerPoint presentation ,
+
+to --> 
+dialogue type : Offer
+A : I I thought I'll use the whiteboard instead .
+
+to --> 
+dialogue type : Inform
+A : I thought I'll use the whiteboard because we have so many different options
+to --> 
+dialogue type : Suggest
+A : and what we can do is that we can start um uh rubbing off the options that we do not require
+to --> 
+dialogue type : Suggest
+A : and putting in the options that uh are m or highlighting or underlining them or something like that .
+to --> ,A
+dialogue type : Inform
+A : Okay , so uh I'll start again with a brief introduction to connect that anyway brief introduction to the insides of a remote control
+
+to --> 
+dialogue type : Inform
+A : If you open it , you have a circuit board here , right ,
+to --> 
+dialogue type : Inform
+A : and this is the chip that I was talking about last time .
+to --> 
+dialogue type : Inform
+A : This basically sends information to a tr uh transistor here , which then uh sends the information to an L_E_D_ device here .
+to --> 
+dialogue type : Inform
+A : If you flip the printed circuit board , and this is th the most important point here ,
+
+to --> 
+dialogue type : Inform
+A : So you see for example a particular button attaches to a particular place on the P_C_B_
+
+to --> 
+dialogue type : Inform
+A : on pressing this button I a circuit completes ,
+to --> 
+dialogue type : Inform
+A : the information goes to the chip , which is somewhere here
+to --> 
+dialogue type : Inform
+A : and the chip that tra then translates the code into an infra infrared radiation , which goes goes out through there .
+to --> 
+dialogue type : Inform
+A : So uh the important point that I read over the website was uh that the configurations of these printed circuit circuit boards uh are quite cheap to make ,
+
+to --> 
+dialogue type : Inform
+A : so these are the different options that we have .
+
+to --> 
+dialogue type : Offer
+A : So the batteries , I'll start with the battery , right ?
+to --> 
+dialogue type : Inform
+A : So they can be simple which is like uh the normal batteries in uh our uh the cells , yeah ?
+
+to --> 
+dialogue type : Inform
+A : And dynamos .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : So uh I don't know if even if you want to consider this ,
+
+to --> 
+dialogue type : Inform
+A : So the third one is uh the kinetic energy ones .
+
+to --> 
+dialogue type : Inform
+A : The the kinetic energy one is uh that e uh uh they are usually modern watches , since our hand keeps moving , it keeps the watch ticking .
+to --> 
+dialogue type : Assess
+A : But I dunno i if it is a good idea for a remote control , because it'll just lie there for a long while sometimes .
+to --> 
+dialogue type : Inform
+A : But as soon as you pick it up it moves and then again it uh re recharges or something .
+to --> 
+dialogue type : Inform
+A : And the fourth option is the solar cells , which are also made by the company .
+to --> 
+dialogue type : Inform
+A : Environment friendly .
+
+to --> 
+dialogue type : Inform
+A : There are different cases that can be provided .
+to --> 
+dialogue type : Inform
+A : They can be basically the shape of the cases , they can be flat ,
+to --> 
+dialogue type : Inform
+A : they can be curved with uh one-sided curved and one side flat ,
+to --> 
+dialogue type : Inform
+A : and they can be curved with on both the sides .
+
+to --> 
+dialogue type : Elicit-Inform
+D : Um you mean this would be like the the overall shape of the remote control , yeah ,
+
+to --> 
+dialogue type : Inform
+A : Yeah ,
+
+to --> 
+dialogue type : Inform
+A : uh there were different kind of supplements available ,
+to --> 
+dialogue type : Inform
+A : um like it can be in plastic , rubber , wood , or titanium , right ?
+
+to --> 
+dialogue type : Inform
+A : so uh we can use even um a certain titanium is also used uh in the company to make uh uh some space design equipment ,
+to --> 
+dialogue type : Inform
+A : so it's kind of um uh it'll be probably nicer to use , because it relates to the overall image of the company ,
+to --> 
+dialogue type : Inform
+A : but uh it cannot be used on a double curved surface .
+
+to --> 
+dialogue type : Inform
+A : we can have push-buttons , like most remotes do
+
+to --> 
+dialogue type : Inform
+A : the interface options now .
+
+to --> 
+dialogue type : Inform
+A : Uh we can have scroll wheels like the ones on um uh mouse pointers uh uh
+
+to --> 
+dialogue type : Inform
+A : they can even have an an integrated uh push-button inside the scrolling thing .
+
+to --> 
+dialogue type : Inform
+A : we can have L_C_D_s .
+
+to --> 
+dialogue type : Inform
+A : so th this concerns firs first of all the the chips I I showed you at uh
+
+to --> 
+dialogue type : Inform
+A : The P_C_B_ is uh inexpensive , so we can put put in uh whatever we want ,
+to --> 
+dialogue type : Inform
+A : but the various integrated circuit options are , we have either a simple one
+to --> 
+dialogue type : Inform
+A : or a regular
+to --> 
+dialogue type : Inform
+A : or advanced .
+
+to --> 
+dialogue type : Inform
+A : okay , so the good thing about uh wh wh why why we would want to use advanced u why we might want to use advanced is that L_C_D_s can only come with the advanced chip .
+
+to --> 
+dialogue type : Inform
+A : we need regular or advanced for uh scroll wheels .
+
+to --> 
+dialogue type : Inform
+A : Um and the chip basically includes the infra infrared sender .
+
+to --> 
+dialogue type : Inform
+A : besides this in electr under electronics uh also the company has started making a sample sender ,
+to --> 
+dialogue type : Inform
+A : which is did not explained what i what it was ,
+
+to --> 
+dialogue type : Inform
+A : So I'm guessing that uh the sample speaker is probably something like um uh you know , as soon as you press a button , it it mm uh give gives you feedback , one five or whatever .
+
+to --> 
+dialogue type : Inform
+A : I dunno whether sample sender sender has to do something with voice recognition or not , but anyway .
+
+to --> ,A
+dialogue type : Suggest
+A : now now uh I think that uh we can integrate um uh you know , uh the user interface uh and uh the marketing things in that ,
+
+to --> 
+dialogue type : Inform
+C : Right , interface concept .
+
+to --> 
+dialogue type : Inform
+D : Um to be honest actually , I mentioned some some of the things which which could fit on the on the this talk um this time , I m I mentioned them already in the previous talk .
+to --> 
+dialogue type : Inform
+D : So um yeah , this time um I might not have them on the slides but I I can just mention them aw again .
+
+to --> 
+dialogue type : Inform
+D : So um I thought um I would also include the definition of user interface
+to --> 
+dialogue type : Inform
+D : um so it's the aspects of a of of a computer system or programme which can be seen uh by the user um
+
+to --> 
+dialogue type : Inform
+D : uh the mechanisms that the user uses to control its operation and input data .
+to --> 
+dialogue type : Inform
+D : So this would p includes things like shape and size and buttons and um voice recognition as well , and colour , and so on .
+to --> 
+dialogue type : Inform
+D : Um um the method I employed this time was a again having a look to related products and mainly on the internet
+to --> 
+dialogue type : Inform
+D : and then um analyse them uh from the point of view of user fen friendliness
+to --> 
+dialogue type : Inform
+D : and also um whether their appearance was was pleasant .
+
+to --> 
+dialogue type : Inform
+D : this can help us to decide which features we want to incorporate in our product .
+
+to --> 
+dialogue type : Inform
+D : So in in the case of many user interfaces , they're just so full of buttons that it's actually uh hard to find the ones you you really um want to use
+to --> 
+dialogue type : Inform
+D : and um and it's just confusing , it takes y know time to learn .
+
+to --> 
+dialogue type : Offer
+D : and I thought I would just quickly show some of them that I found .
+
+to --> 
+dialogue type : Inform
+D : so yeah , they're quite big and have many many buttons .
+to --> 
+dialogue type : Inform
+D : Actually of the of all these I personally p prefer this one ,
+to --> 
+dialogue type : Inform
+D : because it's it's the smallest and and with with least uh with the smallest number of buttons as well .
+to --> 
+dialogue type : Inform
+D : And I would say even the appearance of some of them is kind of not so nice .
+
+to --> 
+dialogue type : Inform
+D : Our own company has developed a new in user interface
+
+to --> 
+dialogue type : Inform
+D : we can uh include voice recognition
+
+to --> 
+dialogue type : Inform
+D : i it's possible to record eighty different voice samples on it .
+
+to --> 
+dialogue type : Inform
+D : Um s another new development is a scroll button ,
+
+to --> 
+dialogue type : Inform
+D : Uh so uh this uh this one was already mentioned uh the L_C_ display .
+
+to --> 
+dialogue type : Inform
+D : And uh our own manufacturing division ha has uh designed a new um uh programmable speech uh
+
+to --> 
+dialogue type : Inform
+D : uh uh it it it comes together with a voice recognition ,
+
+to --> 
+dialogue type : Inform
+D : So I mean this is also one of the n dev new developments which we might consider if we wanted to include .
+
+to --> 
+dialogue type : Inform
+D : but it's once once the mm um gadget uh recognises uh the voice of the speaker , there can be a um pre-programmed answer ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : Um uh are you sure wha what this means , a spinning wheel with the L_C_ display ?
+
+to --> 
+dialogue type : Inform
+D : the scroll button is a different thing .
+to --> 
+dialogue type : Inform
+D : I I have a picture if you just a moment ,
+
+to --> 
+dialogue type : Assess
+A : Oh okay , the iPod thing , yeah .
+
+to --> 
+dialogue type : Inform
+D : but I think it's just like um it's it's a wheel , it's like not separate buttons .
+
+to --> 
+dialogue type : Inform
+B : It's like it's like where you you know how you have your your mouse , and y you go round and i it's kind of like that and you spin round
+
+to --> 
+dialogue type : Inform
+B : I like the the wheels that click on the side you you get 'em much slower ,
+
+to --> 
+dialogue type : Inform
+B : Do you know , if you're lookin if you're th scrolling through the A_ to Z_ of your music and you're looking for something at T_ , then it's a lot faster than the wheel ,
+to --> 
+dialogue type : Inform
+B : but you've got a lot less control over it .
+
+to --> 
+dialogue type : Inform
+D : Okay , and the personal preferences are pretty much the same as as as last time .
+
+to --> 
+dialogue type : Inform
+D : Okay , we decided to include voice recognition ,
+to --> 
+dialogue type : Inform
+D : so to have the standard uh major buttons like on , off , um ch the channels and and then um volume
+to --> 
+dialogue type : Inform
+D : and then the rest would be a menu on the screen .
+to --> 
+dialogue type : Fragment
+D : Um and I I also thought uh if we want to keep it small and nice um
+to --> 
+dialogue type : Assess
+D : and actually I I quite like the idea of a scroll a scrolling button ,
+to --> 
+dialogue type : Inform
+D : I thought it could be for for voice like , I dunno , it mm like on a um i like it used to be on Walkmans or something .
+
+to --> 
+dialogue type : Inform
+C : Okay , straight to trends ,
+
+to --> 
+dialogue type : Inform
+B : Um so what I did was to search the internet to come up with market trends and you know what users are gonna be wanting in the the near future .
+
+to --> 
+dialogue type : Inform
+B : Now , the first aspect is apparently twice as important as the second aspect , which is twice as important as the third a aspect .
+to --> 
+dialogue type : Inform
+B : So , I mean the the easy to use thing is fairly low down on the
+to --> 
+dialogue type : Inform
+B : which I think given the target group is what you would expect , really .
+to --> 
+dialogue type : Inform
+B : Um , you know , people want something new ,
+to --> 
+dialogue type : Inform
+B : something technologically innovative and different ,
+to --> 
+dialogue type : Inform
+B : so the whole idea with the L_C_D_s and the spinning and the colours and the voice recognition is quite like , quite the thing to go for .
+
+to --> 
+dialogue type : Suggest
+A : So um uh maybe uh as you're discussing things , is it okay if we just uh keep highlighting things here ?
+
+to --> 
+dialogue type : Assess
+A : so probably voice recognition is is kind of important , right ?
+
+to --> 
+dialogue type : Suggest
+C : And maybe the L_C_D_ and spinning
+
+to --> 
+dialogue type : Inform
+A : Okay , I I have a point about L_C_D_ ,
+
+to --> 
+dialogue type : Inform
+A : W uh L_C_D_s are basically for feedback , right , to the user who's pressing buttons ,
+to --> 
+dialogue type : Inform
+A : and the feedback can come through television itself ,
+to --> 
+dialogue type : Elicit-Assessment
+A : so do we need an L_C_D_ on the remote ?
+
+to --> 
+dialogue type : Inform
+B : Depends how fast your television runs , really ,
+
+to --> 
+dialogue type : Inform
+B : I mean we've got one of those um Telewest boxes
+to --> 
+dialogue type : Inform
+B : and you put the number in the remote
+
+to --> 
+dialogue type : Inform
+B : so i it actually takes quite a long time .
+
+to --> 
+dialogue type : Inform
+B : so I think , you know , a screen on the remote would probably cut down your time on that .
+
+to --> 
+dialogue type : Inform
+C : It it is also quite nice though to to have something here so you don't interrupt the picture on the screen ,
+
+to --> 
+dialogue type : Suggest
+B : But um I think maybe a way to do it would be a similar way to how you have your mobile phone , you know ,
+to --> 
+dialogue type : Inform
+B : like you have the slidey ones
+to --> 
+dialogue type : Inform
+B : and you have the flippy ones
+
+to --> 
+dialogue type : Suggest
+B : So you can have like what looks like a normal remote control , you know
+to --> 
+dialogue type : Suggest
+B : or like a minimalist remote control .
+to --> 
+dialogue type : Inform
+B : So you got your buttons one to nine , your on and off and your volume on that
+to --> 
+dialogue type : Suggest
+B : and then if you want to mess about with it , you flip it open and ,
+
+to --> 
+dialogue type : Inform
+A : So now we seem to have a consensus that L_C_D_s are definitely the way to go
+
+to --> 
+dialogue type : Assess
+C : Yeah , I think so .
+
+to --> 
+dialogue type : Inform
+A : because of style and
+
+to --> 
+dialogue type : Inform
+B : Okay , apparently , fruit and vegetables will be providing inspiration .
+
+to --> 
+dialogue type : Inform
+B : Um so these will be an important feature for clothes , shoes and furniture .
+to --> 
+dialogue type : Inform
+B : So I mean , I'm taking this to mean , you know , curviness .
+
+to --> 
+dialogue type : Inform
+B : 'Cause you don't tend to get flat vegetables . You know ?
+
+to --> 
+dialogue type : Suggest
+C : and possibly even uneven ,
+
+to --> 
+dialogue type : Suggest
+B : bit of asymmetry and stuff .
+to --> 
+dialogue type : Inform
+B : But that would be a good way to to get in the whole um R_S_I_ issue in there ,
+
+to --> 
+dialogue type : Inform
+B : so you wanna you curve it so that it's suitable for use with the right hand .
+to --> 
+dialogue type : Inform
+B : , I'm not quite sure about the relevance of material will be spongy .
+
+to --> 
+dialogue type : Inform
+C : Something a bit squishy and
+
+to --> 
+dialogue type : Suggest
+D : So it could be like a rubbery
+
+to --> 
+dialogue type : Inform
+C : and it'd help if you drop it ,
+
+to --> 
+dialogue type : Inform
+A : So if if we use uh latex cases , they won't allow us to use solar cells , as an energy source
+
+to --> 
+dialogue type : Suggest
+C : Or if we want to use the the latex , then we have to go with one of the other um power things .
+
+to --> 
+dialogue type : Inform
+A : so um we could use titanium , wood or plastic uh or uh
+
+to --> 
+dialogue type : Inform
+B : If it's made of rubber you could get the kinetic energy fairly easily there ,
+
+to --> 
+dialogue type : Suggest
+A : So probably double curved surface is the way to go ,
+
+to --> 
+dialogue type : Suggest
+A : Or or curved at one end and flat on the top ,
+
+to --> 
+dialogue type : Inform
+B : You have to have a certain element of flatness , I think .
+
+to --> 
+dialogue type : Assess
+A : singe single side curved or double side curved does not say too much , does it ?
+
+to --> 
+dialogue type : Suggest
+B : so I mean does curved one side mean one side is straight
+
+to --> 
+dialogue type : Elicit-Inform
+A : Di now did it say anywhere in your research material about this sliding stuff uh
+
+to --> 
+dialogue type : Suggest
+B : and , you know curved two sides means the whole thing is just a big curvy p thing ?
+
+to --> 
+dialogue type : Inform
+A : because um according to the information that I have , I think uh the onl only options that we have with the case is are these three .
+
+to --> 
+dialogue type : Inform
+A : It does not say anything about uh whether technically , you know , this this stuff is available at all .
+
+to --> 
+dialogue type : Inform
+B : Uh it's it's more about the protecting the L_C_D_ , which I think is where it came from .
+to --> 
+dialogue type : Inform
+B : But no , my research didn't tell me anything ,
+
+to --> 
+dialogue type : Inform
+C : Looking at what we've got , we we want an L_C_D_ display with a spinning wheel .
+
+to --> 
+dialogue type : Elicit-Inform
+A : hand dynamos are definitely out , right ?
+
+to --> 
+dialogue type : Inform
+C : it's not that's not streamlined and sexy , having a having a wind up .
+
+to --> 
+dialogue type : Inform
+A : kinetic energy does seem to have some kind of uh uh appeal ,
+
+to --> 
+dialogue type : Inform
+B : It's about the practicality of it really , isn't it ? You know ?
+
+to --> 
+dialogue type : Inform
+A : this this thing will have to be tapped every time ,
+to --> 
+dialogue type : Inform
+A : which which might be very frustrating for the user .
+
+to --> 
+dialogue type : Inform
+C : Depends how much how much movement it really needs .
+
+to --> 
+dialogue type : Suggest
+A : Okay , let's keep it option uh keep an option ,
+
+to --> 
+dialogue type : Inform
+A : It has to be at least curved from one side , yeah .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Wood , do you think wood will be a good idea ?
+
+to --> 
+dialogue type : Inform
+B : I can't imagine a m wooden remote control .
+
+to --> 
+dialogue type : Inform
+C : and given that we're we're looking at more spongy material preferences , I ha would think maybe rubber or plastic is more
+
+to --> 
+dialogue type : Inform
+B : I mean it's it's alright for a table ,
+
+to --> 
+dialogue type : Inform
+B : And splinters and stuff and
+
+to --> 
+dialogue type : Inform
+B : You have to have some push-buttons , don't you ?
+
+to --> 
+dialogue type : Suggest
+D : I think for for the channel numb uh channel numbers you still need them , wouldn't you ?
+
+to --> 
+dialogue type : Inform
+A : if you have an L_C_D_ display , then mm you can select almost everything on the L_C_D_ display .
+
+to --> 
+dialogue type : Inform
+D : when we s um discussed that we might like this flipping open thing , then I mean y you can use it as a normal remote control ,
+
+to --> 
+dialogue type : Inform
+B : I think this is going back to the the graph at the beginning that I made , where , you know , the buttons that people use all the time , you want buttons for them and everything else menu-driven .
+
+to --> 
+dialogue type : Inform
+B : I think the thing is , so if someone just wants to turn on their T_V_ and put on a channel , then it should be easier to use than any other remote ,
+to --> 
+dialogue type : Inform
+B : and then if someone wants to , you know , change the contrast on their T_V_ and they should be able to do that and it should be accessible ,
+
+to --> 
+dialogue type : Inform
+D : So I think it it doesn't make sense to have both like a scrolling and spinning thing ,
+
+to --> 
+dialogue type : Inform
+C : Just spinning and not scrolling , I would say .
+
+to --> 
+dialogue type : Assess
+B : But I mean the the thing with this whole if y you're planning on making it out of rubber , on the basis that it's spongy , then I'm not sure how well a scrolling wheel would work .
+
+to --> 
+dialogue type : Inform
+C : But if you've got a if if you've got a flipped thing , effectively it's something that's curved on one side and flat on the other side , but you folded it in half .
+
+to --> 
+dialogue type : Assess
+A : I'm not sure it'll be a good idea to construct the whole thing out of rubber .
+
+to --> 
+dialogue type : Inform
+D : the case would be rubber and the the buttons ,
+
+to --> 
+dialogue type : Inform
+C : No , I think it's just the casing rubber on the outside .
+
+to --> 
+dialogue type : Suggest
+A : Everything else in plastic or even titanium if we want to use it .
+
+to --> 
+dialogue type : Suggest
+B : Or maybe like interchangeable cases .
+
+to --> 
+dialogue type : Inform
+B : but I have like a you know , obviously my iPod's not made of rubber ,
+to --> 
+dialogue type : Inform
+B : but then I have a little rubber case that goes over the top of it
+to --> 
+dialogue type : Inform
+B : and I can change the colour , theoretically , to match my outfit .
+
+to --> 
+dialogue type : Inform
+B : I think the spinning wheel is definitely very now .
+
+to --> 
+dialogue type : Inform
+A : And uh colours can be provided with the case rather than
+
+to --> 
+dialogue type : Inform
+D : it was a a requirement that we use our um th the colours of our company ,
+to --> 
+dialogue type : Elicit-Inform
+D : so would it be like yellow , grey and black or something , or
+
+to --> 
+dialogue type : Inform
+B : That doesn't fit in with the whole vegetable theme though .
+
+to --> 
+dialogue type : Suggest
+C : Bananas .
+
+to --> 
+dialogue type : Suggest
+B : but I mean do you think we could incorporate the colours of the company into the buttons
+to --> 
+dialogue type : Suggest
+B : and then make the colour of the main remote the colour like vegetable colours , do you know ?
+
+to --> 
+dialogue type : Suggest
+B : I mean I suppose vegetable colours would be orange and green and some reds and um maybe purple
+to --> 
+dialogue type : Suggest
+B : and that and then you'd pick the buttons in company colours to to match with it .
+
+to --> 
+dialogue type : Inform
+A : Uh since we're having L_C_D_s there there's no way that we're will be able to
+to --> 
+dialogue type : Inform
+A : um what we do need to consider , however , is that the price is going up for the ever every such thing that we are considering ,
+to --> 
+dialogue type : Inform
+A : but since L_C_D_s seems to be uh a definite yes ,
+
+to --> 
+dialogue type : Offer
+A : So I'll rub off the other two .
+
+to --> 
+dialogue type : Elicit-Inform
+B : So are we discounting solar energy because rubber's gonna be used in there somewhere or
+
+to --> 
+dialogue type : Assess
+A : a although it does seem uh interesting .
+
+to --> 
+dialogue type : Inform
+A : Uh okay , so r we understand this better now that uh the the speaker is for the feedback , right ?
+
+to --> 
+dialogue type : Inform
+C : I think if we can if we can include them at not too much extra cost , then I'd put them in ,
+
+to --> 
+dialogue type : Inform
+C : And the case is curved on one side , but then flat flat , so it's flipped into each other .
+
+to --> 
+dialogue type : Inform
+A : Flat on the top .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Uh um we we're definitely going in for voice recognition as well as L_C_D_s , mm .
+
+to --> 
+dialogue type : Inform
+C : the advanced chip
+
+to --> 
+dialogue type : Inform
+C : So we've basically worked out that we're going with a simple battery ,
+
+to --> 
+dialogue type : Inform
+A : using the simple battery will be a safer option as compared to the kinetic energy one , I mean ,
+
+to --> 
+dialogue type : Inform
+C : We need the advanced yeah .
+
+to --> 
+dialogue type : Inform
+C : and a curved on one side case which is folded in on itself , um made out of rubber
+to --> 
+dialogue type : Inform
+C : and the buttons are also rubber .
+to --> 
+dialogue type : Inform
+C : We're having push-buttons on the outside
+to --> 
+dialogue type : Inform
+C : and then on the inside an L_C_D_ with spinning wheel ,
+
+to --> 
+dialogue type : Inform
+C : and it's gonna look sort of vegetable ,
+to --> 
+dialogue type : Inform
+C : and be in bright vegetable colours .
+
+to --> 
+dialogue type : Inform
+B : You've maybe got , you know like if you're modelling on iPod you've got five buttons and a wheel ,
+to --> 
+dialogue type : Inform
+B : and four of the buttons are in the wheel ,
+to --> 
+dialogue type : Inform
+B : and the other one's the little bit inside the wheel ,
+
+to --> 
+dialogue type : Inform
+C : Um the User Interface Designer will work on the user interface design
+to --> 
+dialogue type : Inform
+C : and the Marketing Expert is going to work on product evaluation .
+to --> 
+dialogue type : Inform
+C : And as well as that , the two designers are going to work together on our prototype following those instructions that we've just come up with using modelling clay
+to --> 
+dialogue type : Inform
+C : and you will get extra instructions from your personal coach .
+
+to --> 
+dialogue type : Inform
+C : In the meantime , the Industrial Designer over here is gonna work on the look and feel design ,
+
+to --> ,C
+dialogue type : Inform
+C : Okay , so now we've got thirty minutes before our next meeting .
+
+to --> 
+dialogue type : Inform
+C : And anyone who hasn't put their their presentation in the project documents folder , it would be good just so in case we have to refer to it .
+

@@ -1,0 +1,82 @@
+to --> 
+dialogue type : Inform
+C : Uh , making a profit of fifty million Euros .
+
+to --> 
+dialogue type : Inform
+A : so twenty five .
+
+to --> 
+dialogue type : Suggest
+C : So , it's go gonna have to be be pretty damn trendy .
+
+to --> 
+dialogue type : Inform
+C : I think the the only ones that I've seen that you buy are the sort of one for all type things
+
+to --> 
+dialogue type : Assess
+D : Yeah the universal ones . Yeah .
+
+to --> 
+dialogue type : Suggest
+C : So presumably that might be an idea to put into .
+
+to --> 
+dialogue type : Inform
+A : But but to sell it for twenty five you need a lot of neat features . For sure .
+
+to --> 
+dialogue type : Inform
+D : my first thoughts would be most remote controls are grey or black .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : so maybe we could think about colour ?
+
+to --> 
+dialogue type : Assess
+D : Um , and as you say , we need to have some kind of gimmick ,
+to --> 
+dialogue type : Elicit-Assessment
+D : so um I thought maybe something like if you lose it and you can whistle ,
+
+to --> ,B
+dialogue type : Suggest
+B : being as a Marketing Exper Expert I will like to say like before deciding the cost of this remote control or any other things we must see the market potential for this product
+to --> 
+dialogue type : Suggest
+B : like what is the competition in the market ?
+
+to --> 
+dialogue type : Suggest
+B : What speciality other remote controls are having
+
+to --> 
+dialogue type : Inform
+B : They really want to have something good , having a good design in their hands ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : What do we think a good size would be for this ?
+
+to --> 
+dialogue type : Suggest
+D : Kind of um , maybe more like a P_D_A_ kind of , just hand held ,
+
+to --> ,C
+dialogue type : Inform
+C : So you do the looking around at other remote controls .
+
+to --> 
+dialogue type : Inform
+C : and you could look into um basically how how it's made I_E_ like how you make it all in one , how what sort of materials are available to you whatever .
+
+to --> 
+dialogue type : Elicit-Inform
+D : So you want me to look at shapes and everything you said ?
+
+to --> 
+dialogue type : Inform
+C : Shapes and colours and um basically how to make it attractive .
+

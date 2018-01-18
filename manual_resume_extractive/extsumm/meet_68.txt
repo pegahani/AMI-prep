@@ -1,0 +1,243 @@
+to --> ,A
+dialogue type : Inform
+A : We're gonna just do a quick opening
+to --> ,A
+dialogue type : Inform
+A : and we can hopefully all get acquainted with one another
+to --> ,A
+dialogue type : Inform
+A : um then we're gonna start talk a little bit about tool training .
+
+to --> ,A
+dialogue type : Inform
+A : Um we've got a general plan for the project how we're gonna go about accomplishing this
+
+to --> 
+dialogue type : Inform
+A : we're making a remote control
+
+to --> 
+dialogue type : Inform
+A : Um we've got to make something as fashionable as possible ,
+
+to --> ,A
+dialogue type : Suggest
+A : and then finally we'll incorporate as kind of the last stage you know where you guys build or tell me tell us what's possible
+to --> ,A
+dialogue type : Suggest
+A : and then you tell us what we can um hope for and what way to go
+
+to --> ,A
+dialogue type : Inform
+A : So it's a three stage kind of thing .
+
+to --> ,A
+dialogue type : Suggest
+A : for now just for th the white board um basically uh just to get used to it ,
+
+to --> 
+dialogue type : Inform
+A : I'm Marty ,
+
+to --> 
+dialogue type : Be-Negative
+A : I'm a excellent Project Manager . Um .
+
+to --> 
+dialogue type : Inform
+D : I'm Sarah ,
+
+to --> 
+dialogue type : Inform
+D : and I'm the Marketing Manager or something .
+
+to --> 
+dialogue type : Inform
+C : I'm Ron .
+
+to --> 
+dialogue type : Inform
+C : and I am the User Interface Designer .
+
+to --> 
+dialogue type : Inform
+B : I'm Nathan ,
+
+to --> ,A
+dialogue type : Offer
+A : um and just write down I'm just gonna write down one of the names of my um desert discs
+
+to --> ,A
+dialogue type : Suggest
+A : uh project finance .
+
+to --> 
+dialogue type : Inform
+A : what we're trying to do is sell this remote for twenty five Euros . Um .
+
+to --> 
+dialogue type : Assess
+A : it's pretty dear ,
+
+to --> 
+dialogue type : Inform
+A : the profit aims to make fifty million Euros on it .
+to --> 
+dialogue type : Inform
+A : Eur internationally .
+
+to --> 
+dialogue type : Suggest
+A : one of the things I I was gonna mention to you um you guys the designers is that um it m we probably need a rever it needs to be a universal remote control probably .
+
+to --> 
+dialogue type : Inform
+A : Um but we wanna try to make it for twelve fifty .
+
+to --> ,A
+dialogue type : Inform
+A : um and I'd like the um Industrial Designer to get ge think about what needs to be done , like what the basic function of it .
+to --> ,A
+dialogue type : Inform
+A : Um U_I_D_ well yeah you right g your assignments are up there
+
+to --> 
+dialogue type : Inform
+A : I need you to tell us what um we what the user's gonna want .
+
+to --> ,A
+dialogue type : Suggest
+A : and we'll discuss the trade-offs in between
+
+to --> 
+dialogue type : Elicit-Assessment
+C : we can't kind of build it into other uh products .
+to --> 
+dialogue type : Elicit-Assessment
+C : For instance like a mobile phone or something like that .
+
+to --> 
+dialogue type : Inform
+D : I don't think there's any rules about it yet . So
+
+to --> 
+dialogue type : Elicit-Inform
+C : can we sell a remote control phone for twenty five pounds or less ?
+
+to --> 
+dialogue type : Suggest
+B : Maybe a remote with changeable faces , like the faces that you can buy for phones .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : does anybody have any initial ideas ?
+
+to --> 
+dialogue type : Inform
+D : as soon as you said that I was thinking like all the other things you could get a remote to do , like your microwave or your front door
+
+to --> 
+dialogue type : Assess
+D : but then , I've never been a fan of those huge remotes that have like a million buttons ,
+
+to --> 
+dialogue type : Suggest
+C : But I'm thinking I'm thinking kind of P_D_A_ uh design
+to --> 
+dialogue type : Suggest
+C : so touch screen design rather than button
+to --> 
+dialogue type : Inform
+C : so that you can kind of flip around all sorts of different things .
+
+to --> 
+dialogue type : Inform
+A : we've got this kind of an idea of a trade-off between um uh size and functionality .
+
+to --> 
+dialogue type : Assess
+D : but at the same time if you get it to do too much you're not gonna be able to tell them apart ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : maybe like an L_ like a touch screen type of remote ?
+
+to --> 
+dialogue type : Assess
+D : An interesting option .
+
+to --> 
+dialogue type : Suggest
+B : Needs it needs one outstanding feature to set it apart from all the other remotes .
+
+to --> 
+dialogue type : Suggest
+B : I think , making it out of a nice material would be very important ,
+to --> 
+dialogue type : Assess
+B : because so many of those remotes that you see , these universal remotes look so cheap and low quality .
+
+to --> 
+dialogue type : Inform
+D : there's such a problem with losing them ,
+to --> 
+dialogue type : Assess
+D : that adding this whole like P_D_A_ pen business is only one more thing to lose ,
+
+to --> 
+dialogue type : Assess
+C : I like the idea of the uh multi plate .
+
+to --> 
+dialogue type : Assess
+B : I think , it wouldn't be such a bad idea to have a like a locator device ,
+to --> 
+dialogue type : Suggest
+B : maybe a simple button that you have on your television to help you find your remote .
+
+to --> 
+dialogue type : Inform
+C : there used to be those whistling devices
+
+to --> 
+dialogue type : Suggest
+A : Cou could we not do something where like just a little lit like literally just a very small kind of thing
+
+to --> 
+dialogue type : Suggest
+A : that you could place something else
+
+to --> 
+dialogue type : Suggest
+A : and it makes the remote page .
+
+to --> 
+dialogue type : Suggest
+A : so maybe we might wanna trade off some of the features for a lower price .
+to --> 
+dialogue type : Suggest
+A : Without without getting into that whole like you know go down to bargain store remote you know bargain store universal remote
+
+to --> 
+dialogue type : Fragment
+D : Or if you our users in mind ,
+
+to --> 
+dialogue type : Inform
+D : these grandmas are not gonna be into this whole new let's design ,
+
+to --> 
+dialogue type : Inform
+D : they're used to the buttons
+to --> 
+dialogue type : Suggest
+D : so we'll have to be careful of exactly who we're marketing this to ,
+
+to --> ,A
+dialogue type : Offer
+A : I'm gonna put these initial ideas that we've got in the um project documents ,
+
+to --> ,A
+dialogue type : Suggest
+A : and then ov obviously uh the U_I_D_ and the I_D_ you know you you can keep on the you know sort of at the cutting edge of how to get about maximising what is possible
+

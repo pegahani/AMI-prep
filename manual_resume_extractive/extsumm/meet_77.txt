@@ -1,0 +1,341 @@
+to --> ,A
+dialogue type : Inform
+A : we're going to consider um user needs , technical effects , and the working design of our remote control .
+to --> 
+dialogue type : Inform
+A : Um I've been taking meetings on the minute minutes on the meetings ,
+to --> ,A
+dialogue type : Offer
+A : and I'll be putting them in the shared documents folder
+
+to --> ,A
+dialogue type : Suggest
+A : Um so can we have updates from everyone from what you've worked
+
+to --> 
+dialogue type : Inform
+D : In order to see what the functional requirements were to be found , um
+to --> 
+dialogue type : Inform
+D : a hundred people were tested in a usability laboratory
+
+to --> 
+dialogue type : Elicit-Inform
+D : Um , how do I put this
+
+to --> 
+dialogue type : Elicit-Inform
+D : So what happens it doesn't work ?
+
+to --> 
+dialogue type : Suggest
+C : Could you just plug it back into hers
+
+to --> 
+dialogue type : Inform
+B : The cable might be a little loose or something .
+
+to --> 
+dialogue type : Inform
+D : Custome Customers and users don't like the way remote controls look ,
+to --> 
+dialogue type : Inform
+D : they don't like the way they feel ,
+to --> 
+dialogue type : Inform
+D : they don't think they match their operating behaviour ,
+to --> 
+dialogue type : Inform
+D : and an example is what we were talking about , the buttons , they only use ten per cent of the buttons ,
+
+to --> 
+dialogue type : Inform
+D : I don't know what R_S_I_ means .
+
+to --> 
+dialogue type : Inform
+D : So the most important buttons are those to do with channel selection .
+
+to --> 
+dialogue type : Inform
+D : yeah so and and people like to zap a lot apparently ,
+
+to --> 
+dialogue type : Inform
+D : Channel selection , teletext , volume , and power .
+to --> 
+dialogue type : Inform
+D : The other ones are the settings , and they're used less than you know zero point eight to zero point five times per hour ,
+to --> 
+dialogue type : Inform
+D : and this means that I think we can we could have like a a button for all the settings ,
+
+to --> 
+dialogue type : Suggest
+D : and I think we should design according to these buttons .
+
+to --> 
+dialogue type : Inform
+D : about the screen , and speech recognition , some people are more willing than others to actually pay for that .
+to --> 
+dialogue type : Inform
+D : And if we look at the market , f people from well from fifteen to thirty five year old year olds ,
+
+to --> 
+dialogue type : Inform
+D : um ninety one to seventy six percent of people in that age range are willing to pay more for this sort of product ,
+to --> 
+dialogue type : Inform
+D : while people that are above thirty five years ol um years old go from thirty five percent to eight percent ,
+
+to --> 
+dialogue type : Inform
+D : but I think that the people that actually do buy remotes m more are those like teenagers and young professionals and um , most likely ,
+
+to --> 
+dialogue type : Elicit-Inform
+C : Okay so now I need to press F_ eight , what is it ?
+
+to --> 
+dialogue type : Elicit-Inform
+C : What's function ?
+
+to --> 
+dialogue type : Inform
+C : This my presentation about the uh technical functions design
+to --> 
+dialogue type : Inform
+C : and I basically just tried to focus on um just what what functions we need and how to make that the best function for the user .
+
+to --> 
+dialogue type : Inform
+C : And okay so basically um I think i uh like it is really important that we sort of get this done in a user friendly and fashionable way .
+
+to --> 
+dialogue type : Suggest
+C : you know keeping buttons together that like close together that um are used in the same way ,
+
+to --> 
+dialogue type : Suggest
+C : keeping the number of buttons the uh leas you know to a minimum ,
+
+to --> 
+dialogue type : Inform
+C : um but basically we need to make sure that it turns on and off the T_V_ .
+
+to --> 
+dialogue type : Inform
+C : or do we need to have like functions for cable or V_C_R_ ?
+
+to --> 
+dialogue type : Assess
+C : I just thought that these two remotes were pretty boring ,
+
+to --> 
+dialogue type : Assess
+C : And I think we can find something that's more fun to look at and use than either of those .
+
+to --> 
+dialogue type : Suggest
+C : uh but I mean I think we sh can sort of think about things like um like colour and you know size , shapes , that sort of thing , to best fit the user .
+
+to --> 
+dialogue type : Inform
+B : Okay so this is on the working design , which is sort of the uh mechanical functions of the remote ,
+
+to --> 
+dialogue type : Inform
+B : Um so I think we need two basic functions which is just the basic remote functions ,
+to --> 
+dialogue type : Inform
+B : the user can input a channel or volume setting and it will be output to the T_V_ .
+to --> 
+dialogue type : Inform
+B : And also we talked about um a location function where maybe you could press a button on the T_V_ and it would send sort of signal to the remote where it would beep or flash or vibrate or whatever to tell you where the remote is .
+to --> 
+dialogue type : Inform
+B : So the components we need are an energy source to power the remote ,
+
+to --> 
+dialogue type : Inform
+B : processor to take the information ,
+
+to --> 
+dialogue type : Inform
+B : and we also need something on the remote that would receive the location signal and have an output , like possibly a beep or a vibration .
+
+to --> 
+dialogue type : Suggest
+B : Um so my personal preferences for how to build the remote would probably be uh , battery for the energy source ,
+
+to --> 
+dialogue type : Suggest
+B : um a button pad for input ,
+
+to --> 
+dialogue type : Suggest
+B : I_R_ transmitter to communicate to the T_V_ ,
+
+to --> 
+dialogue type : Suggest
+B : and I'd probably say a buzzer for the location function on the remote itself .
+
+to --> ,A
+dialogue type : Offer
+A : and then I just wanna mention some new project requirements that came in .
+to --> 
+dialogue type : Inform
+A : Um , teletext is apparently outdated , so due to internet popularity , so that's off the list . Um ,
+to --> 
+dialogue type : Inform
+A : also our remote should be used only for television , um ,
+
+to --> 
+dialogue type : Inform
+A : Um and also we need to incorporate our corporate image onto this ,
+
+to --> 
+dialogue type : Suggest
+A : So we need to make some decisions on the remote control functions .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : so do we wanna go ahead and design this thing with the finder button ?
+
+to --> 
+dialogue type : Assess
+B : It's easy to implement .
+
+to --> 
+dialogue type : Inform
+B : but uh I mean speech recognition is really hard to programme ,
+
+to --> 
+dialogue type : Assess
+A : if you consider our budget , to h have speech recognition programmed in every single remote might be a little pricey .
+
+to --> 
+dialogue type : Inform
+B : and I was thinking , I_R_ is line of sight , so unless the remote is like actually in front of the T_V_ it's not gonna work ,
+to --> 
+dialogue type : Inform
+B : um so probably like a radio signal like on a on a cell phone .
+
+to --> 
+dialogue type : Inform
+B : Yeah , so it would be a two part package .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Do you still want to build a little thing next to the telly or to p hang on the wall
+
+to --> 
+dialogue type : Assess
+A : We probably leave that .
+
+to --> 
+dialogue type : Inform
+C : So then our target age group would be the nineteen to thirty five range ,
+
+to --> 
+dialogue type : Assess
+D : You don't need a light .
+
+to --> 
+dialogue type : Inform
+A : And like if the if the phone's under the couch , you might not see the light , so
+
+to --> 
+dialogue type : Suggest
+A : 'Cause that that is something we have to decide , is whether we want to have V_C_R_ capabilities .
+
+to --> 
+dialogue type : Assess
+A : And and if we're if we're targeting young professionals and teenagers , I mean it's gonna be D_V_D_ type , that's the the technology these days .
+
+to --> 
+dialogue type : Assess
+C : I think still though , it shouldn't be that hard to take like just reduce the number of buttons you know ,
+to --> 
+dialogue type : Inform
+C : like 'cause if you just have like one menu button , that works like with a
+to --> 
+dialogue type : Inform
+C : you know , or you can just kind of scroll through the options u that come up on the T_V_ .
+
+to --> 
+dialogue type : Assess
+A : So we definitely want a power button and numbers .
+
+to --> 
+dialogue type : Suggest
+C : That sort of like joystick flat touch thing , yeah .
+
+to --> 
+dialogue type : Inform
+A : like um if you can yeah if you can call it then it's
+
+to --> 
+dialogue type : Inform
+C : Then it can live anywhere .
+
+to --> 
+dialogue type : Elicit-Inform
+C : but do you need a screen then , do you have to have a screen then ?
+
+to --> 
+dialogue type : Suggest
+D : you can have the number on the telly going like one two three four five once you scroll and then
+
+to --> 
+dialogue type : Suggest
+D : if you actually just want to zap , you can have like a thing like that , and that , and then it can just be plus and minus .
+
+to --> 
+dialogue type : Inform
+C : Well y you have to you have to like be able to change the function of it to like
+
+to --> 
+dialogue type : Inform
+D : w right if you're on the channel let's say , then you press on the middle and then if you do that again the volume goes up , and if you do that it goes down .
+
+to --> 
+dialogue type : Inform
+C : But the only thing is like , iPods are so expensive ,
+
+to --> 
+dialogue type : Inform
+B : I don't think it's the wheel dealy .
+
+to --> 
+dialogue type : Suggest
+C : like it could be a cool sort of you know , because it could be circular , you know , or something weird like that , just
+
+to --> 
+dialogue type : Inform
+A : You know actually our our new project requirements , I'm not sure if they meant o onl use only for television as in not for D_V_D_ or just not internet type things .
+to --> 
+dialogue type : Offer
+A : So I'll I'll check that and update you on the next
+
+to --> 
+dialogue type : Inform
+A : Um so everyone's gonna go finish their questionnaire ,
+to --> 
+dialogue type : Inform
+A : uh then when we come back after lunch we'll have thirty minutes of individual work ,
+to --> 
+dialogue type : Suggest
+A : um yeah , so think about the things we've discussed and bring some new ideas to our next meeting .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : So but I'm saying like , does it make sense to have like some kind of a button ,
+
+to --> 
+dialogue type : Inform
+C : so like you're if you're on T_V_ , like you can switch channels ,
+to --> 
+dialogue type : Inform
+C : but then if uh if you're on D_V_D_ then like the channel bu like the the region of the disc that was for channels is for like switching to different tracks
+

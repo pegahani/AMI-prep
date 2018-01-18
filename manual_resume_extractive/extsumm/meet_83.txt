@@ -1,0 +1,443 @@
+to --> 
+dialogue type : Be-Positive
+A : Welcome to the what should be the last of these meetings
+
+to --> ,A
+dialogue type : Suggest
+A : the um th the the minutes of the last meeting uh I think we'll take those as read , um
+
+to --> ,A
+dialogue type : Inform
+A : the um th the the next uh thing we we we'll have a look at the uh th have a look at the prototypes
+to --> ,A
+dialogue type : Inform
+A : and uh look at the uh evaluation criteria and finance
+to --> ,A
+dialogue type : Inform
+A : and then uh uh just tidy up with production
+
+to --> 
+dialogue type : Inform
+B : we basically have the same kinda lay-out here
+
+to --> 
+dialogue type : Inform
+B : you hold it like this
+to --> 
+dialogue type : Inform
+B : and it gets kinda moulded to the to the shape of your hand , basically .
+to --> 
+dialogue type : Inform
+B : Um on the left we've got the scroll for the volume ,
+to --> 
+dialogue type : Inform
+B : on the right we have buttons for the channels up and down and that kinda
+to --> 
+dialogue type : Inform
+B : so you can hold it and scroll ,
+to --> 
+dialogue type : Inform
+B : or you can hold it and and push .
+to --> 
+dialogue type : Inform
+B : Uh this is the power key ,
+to --> 
+dialogue type : Inform
+B : um it's kinda like the biggest
+
+to --> 
+dialogue type : Inform
+B : Uh that's the little menu key .
+to --> 
+dialogue type : Inform
+B : This is the infra-red section
+
+to --> 
+dialogue type : Inform
+B : Uh we got a microphone there which for all the voice commands
+to --> 
+dialogue type : Inform
+B : so you can you know talk to it like that
+
+to --> 
+dialogue type : Inform
+B : Um the logo is down down there um
+to --> 
+dialogue type : Inform
+B : and has the cover on it
+
+to --> 
+dialogue type : Inform
+B : the red bit's the cover
+to --> 
+dialogue type : Inform
+B : and it kinda goes over everything
+to --> 
+dialogue type : Inform
+B : and then there's holes for the buttons to come through . Um .
+
+to --> 
+dialogue type : Suggest
+C : And so we figured it would be kind of you know a light weight plastic ,
+to --> 
+dialogue type : Suggest
+C : just kind of a light non-descript grey
+
+to --> 
+dialogue type : Suggest
+C : and then the covers will be that sort of rubbery material like they make iPod covers ,
+to --> 
+dialogue type : Inform
+C : so they kinda just stretch over .
+
+to --> 
+dialogue type : Inform
+C : spongy like is something that people wanted
+to --> 
+dialogue type : Inform
+C : and it just sort of stretches over
+
+to --> 
+dialogue type : Assess
+B : But it's also e e easier to put on versus like mobile covers
+
+to --> 
+dialogue type : Suggest
+C : and then the buttons come through
+
+to --> 
+dialogue type : Suggest
+C : each one of 'em on the very end will have the logo with the yellow circle and the R_R_ .
+
+to --> 
+dialogue type : Inform
+A : for some strange re reason I had it in my mind that they'd put them down vertically
+
+to --> 
+dialogue type : Suggest
+B : we could broaden the broaden it out a bit
+
+to --> 
+dialogue type : Assess
+A : but um as you say you can just make the base a little bit bigger
+
+to --> 
+dialogue type : Suggest
+B : if we just lengthen it I guess
+to --> 
+dialogue type : Inform
+B : so it comes down to the base of the hand
+
+to --> 
+dialogue type : Inform
+B : The final product would actually stand up , yeah .
+
+to --> 
+dialogue type : Assess
+A : I think the uh the basic concept i i is is absolutely bang on
+
+to --> ,A
+dialogue type : Suggest
+A : let's have a look at the um f finance .
+
+to --> ,A
+dialogue type : Offer
+A : if I get the uh spreadsheet up .
+
+to --> 
+dialogue type : Inform
+A : this is the company's uh uh costing for for various uh uh aspects of design
+to --> 
+dialogue type : Inform
+A : and I I I've treated some of these slightly uh liberally given the constraints placed on us ,
+
+to --> 
+dialogue type : Inform
+A : for instance if if they require us to have it in the corporate colours , then that is not a special colour ,
+
+to --> 
+dialogue type : Inform
+A : we're just simply on batteries ,
+to --> 
+dialogue type : Inform
+A : the the one th the one decision I've had to make is that um
+to --> 
+dialogue type : Suggest
+A : we're we will have to find a s a regular standard chip to to do this with
+to --> 
+dialogue type : Inform
+A : and I I um I'm I'm I'm certain that they they are around
+
+to --> ,A
+dialogue type : Assess
+A : that I don't think is a a serious problem .
+to --> 
+dialogue type : Assess
+A : The uh the the voice sensor is is expensive
+to --> 
+dialogue type : Inform
+A : but we we made a a basic decision that that was absolutely fundamental to the to the design
+to --> 
+dialogue type : Suggest
+A : so that that has to stay .
+
+to --> 
+dialogue type : Inform
+A : Um it's simply made of plastic
+to --> 
+dialogue type : Assess
+A : so th that's uh that's no problem
+
+to --> 
+dialogue type : Inform
+A : we haven't actually got a scroll wheel
+to --> 
+dialogue type : Inform
+A : we we we got push buttons and and a simple uh um slider
+
+to --> 
+dialogue type : Inform
+A : I do don't know that they're special colour .
+
+to --> 
+dialogue type : Inform
+A : the the costings uh come in at exactly on target at twelve point five
+to --> 
+dialogue type : Assess
+A : uh but I thi I think we have a a very strong case to argue that uh what what we've got is is so in innovative and uh and different
+to --> 
+dialogue type : Inform
+A : that um any any slight compromise we have to make on on cost is is offset by the uh you know the uh you know the the the the concept of it being a a fashion accessory and and having the the interchangeable covers
+
+to --> 
+dialogue type : Inform
+A : if the management expect us to be techno again fail again technologically innovative um that they they have to accept that we we can't operate absolutely within uh the constraints that they give ,
+
+to --> 
+dialogue type : Inform
+A : I I think we can argue that we we have uh come in on on budget . Um .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Andrew do you want what do you want to say about um the uh yeah the evaluation
+
+to --> 
+dialogue type : Inform
+D : Method of evaluation testing the product was to just if it met all the criteria all the conditions that we set out to set out to solve , from the point of view of the the consumer and the management .
+
+to --> ,D
+dialogue type : Inform
+D : what I've been asked to do is , on the whiteboard
+to --> ,D
+dialogue type : Inform
+D : um gauge our team response to these questions .
+
+to --> 
+dialogue type : Inform
+D : on a scale of one to seven , one being true and seven being being false .
+
+to --> 
+dialogue type : Inform
+D : And then at the end just take an average
+
+to --> ,D
+dialogue type : Suggest
+D : look at these questions .
+to --> 
+dialogue type : Elicit-Assessment
+D : Is the device f flashy and fashionable ?
+
+to --> 
+dialogue type : Assess
+A : I think most definitely .
+
+to --> 
+dialogue type : Assess
+B : I'd say definitely a one yeah .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : and also uh technologically innovative ?
+
+to --> 
+dialogue type : Assess
+B : Yeah , defi yeah , yeah
+
+to --> 
+dialogue type : Inform
+A : the voice technology indeed .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Easy to use ?
+
+to --> 
+dialogue type : Assess
+A : I don't see we could've made it any easier .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Uh suitable for the consumer ?
+
+to --> 
+dialogue type : Assess
+B : Yeah definitely .
+
+to --> 
+dialogue type : Assess
+C : I think it made we met all of the consumer
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Uh is it complicated ?
+
+to --> 
+dialogue type : Assess
+A : No .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Uh functional ?
+
+to --> 
+dialogue type : Assess
+B : Yeah definitely .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : found easily .
+
+to --> 
+dialogue type : Inform
+D : We've b built in the the speech , where are you , function .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Does it take long to learn to use ?
+
+to --> 
+dialogue type : Assess
+B : No , not at all .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : The R_S_I_ compares to the current standards ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : Less buttons
+
+to --> 
+dialogue type : Assess
+B : it is sorta the the handle more ergonomically correct as well .
+
+to --> 
+dialogue type : Elicit-Assessment
+D : Um will device appeal to all age groups ?
+
+to --> 
+dialogue type : Assess
+A : I think it will
+to --> 
+dialogue type : Inform
+A : because I mean uh old older people who can't manage the buttons anyway will actually probably like the like like the voice bit so
+
+to --> 
+dialogue type : Inform
+D : we had the we had the data saying that old people will be less likely to pay extra money
+to --> 
+dialogue type : Inform
+D : but the funct the increased functionality , the e ease of use of the device might make up for that .
+
+to --> 
+dialogue type : Assess
+B : I I I think it will tend to appeal more to younger aged groups
+
+to --> ,A
+dialogue type : Suggest
+A : I think we can reasonably say it's another another one ,
+
+to --> 
+dialogue type : Assess
+A : in in in in my interpretation of management's instructions uh is that yes it it meets the requirement
+
+to --> 
+dialogue type : Inform
+A : it's it's simple to use ,
+to --> 
+dialogue type : Inform
+A : um it's it's it's within budget ,
+
+to --> 
+dialogue type : Assess
+A : I I think we've done an amazing job
+
+to --> 
+dialogue type : Other
+D : one two three four five six seven eight nine ten eleven .
+to --> 
+dialogue type : Inform
+D : Eleven divided by eleven's one so equals average of one .
+
+to --> ,C
+dialogue type : Assess
+C : I think we worked well together
+to --> 
+dialogue type : Assess
+C : and looked really at what the consumers wanted and what we were trying to make
+
+to --> ,A
+dialogue type : Elicit-Assessment
+A : th this this slide here I mean the satisfaction with uh room for creativity ,
+
+to --> ,C
+dialogue type : Assess
+C : seemed to discuss things pretty well
+
+to --> ,A
+dialogue type : Assess
+A : I think we've allowed ourselves uh as much creativity as the uh the the the product uh allows .
+to --> ,A
+dialogue type : Assess
+A : Um I won't comment on leadership ,
+to --> ,A
+dialogue type : Assess
+A : uh teamwork I think we've uh I think everybody's uh worked pretty well together .
+to --> 
+dialogue type : Assess
+A : Um we've just about coped with the whiteboard and digital pens ,
+
+to --> ,A
+dialogue type : Assess
+A : and new ideas found , um , again gi no given relatively everyday product , I think we've v very uh very effectively come up with a a new uh
+to --> ,A
+dialogue type : Assess
+A : uh a new approach .
+to --> 
+dialogue type : Elicit-Inform
+A : Um are the costs within budget ?
+to --> 
+dialogue type : Inform
+A : Yes .
+to --> ,A
+dialogue type : Elicit-Inform
+A : Is the project evaluated ?
+to --> ,A
+dialogue type : Assess
+A : We're we're all happy that it it meets all the criteria , um
+to --> 
+dialogue type : Be-Positive
+A : Thank you very much indeed ,
+
+to --> 
+dialogue type : Be-Positive
+B : Cool , thank you ,
+
+to --> ,A
+dialogue type : Offer
+A : So I call the meeting closed .
+
+to --> 
+dialogue type : Assess
+A : Um then again the the the the shape of the case means that it's it's expensive to uh um l to make 'cause of the the th the double curves
+

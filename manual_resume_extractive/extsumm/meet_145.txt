@@ -1,0 +1,394 @@
+to --> 
+dialogue type : Inform
+A : Um the top goal of this meeting is to reach a decision on the product , on the target group um and and the functions of the remote control ,
+
+to --> 
+dialogue type : Inform
+A : the new project requirements ,
+
+to --> 
+dialogue type : Inform
+A : but we should not um support teletext in the remote ,
+
+to --> 
+dialogue type : Inform
+A : Um the remote control should only be used for television ,
+
+to --> 
+dialogue type : Inform
+A : Uh the third requirement is that we should focus on customers that are younger than uh forty ,
+
+to --> 
+dialogue type : Inform
+A : then for Roo , as well uh important , the corporate image should be recognisable in our product .
+
+to --> 
+dialogue type : Inform
+B : the function of remote control is basically to send messages to the television set .
+
+to --> 
+dialogue type : Inform
+B : Then I found uh two different kind of remote controls ,
+to --> 
+dialogue type : Inform
+B : the multi-function uh remote control with many possibilities , but um the lack of the feeling I already mentioned uh in the previous uh discussion .
+to --> 
+dialogue type : Inform
+B : And the ease-of-use remote control with uh the less p possibilities but a great feeling in in touching the buttons .
+
+to --> 
+dialogue type : Assess
+B : But my in my opinion , the the easy to use R_C_ is uh the best uh possi possibility for us .
+
+to --> 
+dialogue type : Inform
+C : And the m most easy way to do this is by uh sending pulses of infrared light to a T_V_ set .
+
+to --> 
+dialogue type : Inform
+C : there's a energy source here .
+
+to --> 
+dialogue type : Inform
+C : The user interface connected to a chip ,
+to --> 
+dialogue type : Inform
+C : which is connected to the sender ,
+to --> 
+dialogue type : Inform
+C : which generates messages using uh infrared light ,
+
+to --> 
+dialogue type : Inform
+C : It's almost every piece of equipment um every piece of uh every T_V_ set is controlled infrared .
+
+to --> 
+dialogue type : Inform
+C : And uh the more luxury uh remote controls have lithium buttons .
+
+to --> 
+dialogue type : Inform
+B : The glow in the dark uh concept uh we discussed .
+
+to --> 
+dialogue type : Suggest
+C : So maybe we should consider that .
+
+to --> 
+dialogue type : Suggest
+C : personally I think we should infra use infrared ,
+to --> 
+dialogue type : Inform
+C : because uh otherwise our device cannot uh communicate with uh almost every T_V_ set .
+
+to --> 
+dialogue type : Suggest
+C : Uh another important point is uh we really should use uh energy uh sparse , friendly components .
+
+to --> 
+dialogue type : Suggest
+C : Um for cost-effectiveness , we should really use a very low-cost uh circuit board ,
+
+to --> 
+dialogue type : Suggest
+C : And um the money we save on using this we can use uh for elaborate fancy lighting uh techniques , blinking LEDs and all that kind of fancy stuff .
+
+to --> 
+dialogue type : Inform
+B : I think it's the same as in the cell phone , just light in in the device that that shines on all the buttons ,
+
+to --> 
+dialogue type : Assess
+B : Yeah , but not for each button one LED , I think .
+
+to --> 
+dialogue type : Inform
+D : The buttons to zap are used the about uh fifteen hundred times ,
+to --> 
+dialogue type : Inform
+D : when uh the power button is only used one time .
+to --> 
+dialogue type : Inform
+D : And the volume button's only four times .
+to --> 
+dialogue type : Inform
+D : So they're obv obviously uh the most important buttons .
+to --> 
+dialogue type : Inform
+D : And uh lots of people complained they kin can't find their remote control .
+to --> 
+dialogue type : Suggest
+D : So we might want to build in a feature to uh support them . Some uh audio signal . Like uh home phones .
+
+to --> 
+dialogue type : Inform
+C : There's no um elaborate technique uh used in this uh kind of equipment .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+B : I'm just wondering , the sound signal , from where do you execute th the s sound ?
+to --> 
+dialogue type : Inform
+B : Another device is not a solution .
+
+to --> 
+dialogue type : Inform
+C : and your T_V_ set starts to make a uh kind of weird sound ,
+
+to --> 
+dialogue type : Inform
+B : But but T_V_s don't have all uh uh buttons . Uh
+
+to --> 
+dialogue type : Inform
+D : And even if the T_V_ set would have such a button , uh you would have to walk to your T_V_ ,
+
+to --> 
+dialogue type : Elicit-Inform
+C : Because how can you separate the clapping sound from other sounds .
+
+to --> 
+dialogue type : Suggest
+B : But we can have just uh uh a home stat uh f a base station next to the T_V_ . Just a little antenna or uh something .
+
+to --> 
+dialogue type : Inform
+B : I don't think people would bother walking to the T_V_ and press that button because they lost the their remote .
+
+to --> 
+dialogue type : Inform
+C : the most important thing for people is that there's a central point to which they can go and uh b uh perform a a some kind of uh . And then uh the remote control uh reports itself ,
+
+to --> 
+dialogue type : Inform
+C : But that will be very costly , I think .
+
+to --> ,A
+dialogue type : Suggest
+A : m maybe um w we uh we do agree on on the thing that the remote should have such a function , if it's possible within the costs and all that kind of things .
+
+to --> 
+dialogue type : Backchannel
+D : Yeah .
+
+to --> ,A
+dialogue type : Suggest
+A : Um maybe Sebastian should have uh a detailed look later on and um come up with a solution ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : And do we even uh prefer the sound above the the LEDs , the lightning uh function ?
+
+to --> 
+dialogue type : Assess
+C : I I think so ,
+
+to --> 
+dialogue type : Inform
+A : according to Ruud , um people do not use um all the extra features very very often .
+
+to --> 
+dialogue type : Suggest
+B : Just through uh the easy uh design . We can make uh a nice design when when there's not mu uh much buttons in it .
+
+to --> 
+dialogue type : Inform
+C : we should save costs uh by not implementing a lot of functions
+
+to --> 
+dialogue type : Elicit-Inform
+A : do you think the market would would respond to uh a simple
+
+to --> 
+dialogue type : Inform
+D : if we um include other uh innovative functions uh then they uh might ,
+
+to --> 
+dialogue type : Suggest
+C : Maybe it's more important to make the make it look like a very uh friendly , easy to catch piece of equipment ,
+
+to --> 
+dialogue type : Inform
+C : I was more thinking about a more elaborate way of controlling , by by these kinds of sticks or something like that .
+to --> 
+dialogue type : Inform
+C : I don't know if if it's user-friendly .
+
+to --> 
+dialogue type : Inform
+D : And if you use that stick for volume control and channel uh selection , you have the m two most important functions in one uh button .
+
+to --> ,A
+dialogue type : Suggest
+A : draw draw it on the board .
+
+to --> 
+dialogue type : Suggest
+B : It's just an easy uh way of of a round button what which can be pushed in four directions . Instead of a stick .
+
+to --> 
+dialogue type : Suggest
+B : just a round uh button should be the trick , I think .
+
+to --> 
+dialogue type : Inform
+A : uh it's not necessary to to have a full list ,
+to --> 
+dialogue type : Inform
+A : but I want um the kind of functions , for example uh th the most important are volume and uh programme selecting .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Dual channel watch .
+
+to --> 
+dialogue type : Assess
+B : I wouldn't buy it personally . A remote control without the ten digits .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : And and do we want um the ten digits ?
+
+to --> 
+dialogue type : Inform
+C : But if you're uh a regular T_V_ user , and you just want uh to watch the the Dutch television networks , well , you can uh you can use uh about ten buttons . That's enough .
+
+to --> 
+dialogue type : Inform
+D : And if we are targeting at the younger audience , they will probably watch more channels than the older people .
+
+to --> 
+dialogue type : Assess
+C : But I think these uh ten uh buttons look a bit dull .
+
+to --> 
+dialogue type : Suggest
+A : You c you can d make them very fancy
+
+to --> 
+dialogue type : Elicit-Inform
+C : so you can experiment by uh with with shape or with size or with colour , that kind of thing .
+
+to --> 
+dialogue type : Suggest
+C : maybe it can be combined with the find the remote control .
+
+to --> 
+dialogue type : Inform
+C : when you add uh speech recognition to your remote control , uh it's very easy to change uh the channel . That's one thing .
+
+to --> 
+dialogue type : Inform
+C : but I'm afraid it will be a bit costly .
+
+to --> 
+dialogue type : Suggest
+A : Uh If if we would um drop the ten digits
+to --> 
+dialogue type : Suggest
+A : but keep the programme and the volume ,
+
+to --> 
+dialogue type : Inform
+C : So we can expect that there will be a less longer life to the batteries .
+
+to --> 
+dialogue type : Inform
+C : There are some uh hybrid hybrid devices which incorporate a solar panel and rechargeable batteries .
+
+to --> 
+dialogue type : Suggest
+D : And uh if we if we could inc uh include a c a cradle in which it could recharge , then there wouldn't be uh a big problem .
+
+to --> 
+dialogue type : Inform
+C : it's very cheap .
+
+to --> 
+dialogue type : Inform
+C : It's just a a case with two uh metal contacts .
+
+to --> 
+dialogue type : Elicit-Inform
+A : although we are focussing on younger people uh to make it uh profitable uh Profitable . We we yeah , we still need to take in account the the bit older people .
+
+to --> 
+dialogue type : Inform
+C : we've decided to implement a seemingly uh easy design .
+
+to --> 
+dialogue type : Inform
+C : but uh we can make it easy on the inside or elaborate on the inside .
+
+to --> 
+dialogue type : Assess
+C : But I think there's a big advantage in making it more elaborate by uh implementing uh speech techniques , uh voice recognition , that these kinds of things .
+
+to --> 
+dialogue type : Inform
+C : If we just add uh uh a chip which does the voice recognition , uh our circuit board will become even more cheap .
+
+to --> 
+dialogue type : Suggest
+B : then we should just uh take a look at the costs and uh especially for the voice recognition .
+
+to --> ,A
+dialogue type : Inform
+A : Um the Interface Designer , um I would like to the next meeting I would like to receive the uh components concept .
+
+to --> ,A
+dialogue type : Inform
+A : User Interface Designer , uh Roo , I would like to see the user interface c uh concept .
+
+to --> 
+dialogue type : Inform
+A : It should be an easy interface with not so much buttons . S just a a p a p a volume and a programme one . And um um yeah , some some fancy lights .
+
+to --> 
+dialogue type : Elicit-Inform
+C : So we drop the voice recognition ?
+
+to --> ,A
+dialogue type : Assess
+A : We can decide the next meeting . Yep .
+
+to --> ,A
+dialogue type : Inform
+A : I'm sure the marketing expert will receive uh t uh you will do some trend watching .
+
+to --> 
+dialogue type : Elicit-Inform
+B : if we use the LEDs , i does it use much more energy
+
+to --> 
+dialogue type : Inform
+C : they're p f uh power friendly LEDs also .
+
+to --> 
+dialogue type : Inform
+C : Uh no , they're uh they're a little bit more expensive ,
+
+to --> 
+dialogue type : Suggest
+A : maybe maybe like clapping in your hands ,
+
+to --> 
+dialogue type : Assess
+B : just a base station next to the T_V_ is the best possibility .
+
+to --> 
+dialogue type : Inform
+C : But um before I do that I w I want to warn you that uh by implementing this kind of a function the technical design will become more complicated
+
+to --> 
+dialogue type : Inform
+D : 'cause young people uh like new features .
+
+to --> 
+dialogue type : Suggest
+A : We need to find a balance between uh the advanced techniques and and the user-friendliness .
+
+to --> ,A
+dialogue type : Offer
+A : Um I will put the minutes I just made in the project documents folder .
+

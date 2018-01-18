@@ -1,0 +1,1105 @@
+to --> ,C
+dialogue type : Inform
+C : I was a little short on time ,
+
+to --> 
+dialogue type : Assess
+B : Yeah , same here .
+
+to --> ,A
+dialogue type : Inform
+A : we have uh forty minutes for this uh for this second meeting ,
+to --> ,A
+dialogue type : Inform
+A : and we have to make uh sure that we going t that we are sure , that we are ,
+to --> ,A
+dialogue type : Inform
+A : that we know what we're going to make uh th what the product is going to like look like .
+to --> 
+dialogue type : Inform
+A : Uh first I have the notes of the last meeting ,
+to --> ,A
+dialogue type : Offer
+A : so I showed uh show them to you .
+
+to --> 
+dialogue type : Elicit-Inform
+A : the f the f the points we had last meeting was the um Should be a univ uh universal remote control
+
+to --> ,A
+dialogue type : Inform
+A : I just got a email from the from the personal coach
+to --> 
+dialogue type : Inform
+A : and it should be a T_V_ remote control only .
+
+to --> 
+dialogue type : Inform
+A : it still has to be uh f a r a remote control for kids and elderly .
+
+to --> ,A
+dialogue type : Inform
+A : All these points uh we have to look at .
+
+to --> 
+dialogue type : Inform
+A : The um uh the main uh people of interest of this company are forty plus people .
+
+to --> ,A
+dialogue type : Suggest
+A : So we have to look at that as well .
+to --> 
+dialogue type : Suggest
+A : 'Specially old people , maybe bi bigger buttons or something ,
+
+to --> ,D
+dialogue type : Inform
+D : I've used a marketing report on uh the site .
+to --> ,D
+dialogue type : Inform
+D : Uh I think you've uh read it too .
+to --> ,D
+dialogue type : Inform
+D : Uh and uh f and furthermore I uh surfed the o the other site .
+
+to --> ,A
+dialogue type : Inform
+A : I didn't get it uh anyway .
+
+to --> ,D
+dialogue type : Inform
+D : I I was the only one who get it .
+
+to --> ,D
+dialogue type : Inform
+D : it was uh uh uh um um a report about uh an experiment with uh a lot of users .
+to --> 
+dialogue type : Inform
+D : And uh they had a lot of findings in their report uh with statistical uh uh uh thing uh with statistical uh proof .
+
+to --> ,D
+dialogue type : Inform
+D : I um I had three pages with findings and sev a lot of uh a lot of findings .
+
+to --> 
+dialogue type : Inform
+D : Uh seventy five percent of the users find uh most remote controls ugly .
+
+to --> 
+dialogue type : Suggest
+D : so we have to make a beautiful remote control .
+to --> 
+dialogue type : Inform
+D : Uh eighty percent of users would spend when uh a remote control will l uh look fancy .
+
+to --> 
+dialogue type : Inform
+D : Older people will uh spend more money uh for uh something uh uh what's good .
+to --> 
+dialogue type : Inform
+D : Because younger people are more critical uh about uh uh where they spend their money money at .
+to --> 
+dialogue type : Inform
+D : Uh seventy five percent uh seventy five percent of the users say they zap a lot .
+
+to --> 
+dialogue type : Suggest
+D : I think uh we we have to make uh good zap buttons .
+
+to --> 
+dialogue type : Assess
+A : The last point is quite an interesting
+
+to --> 
+dialogue type : Inform
+D : fifty percent of users say they only use ten percent of the buttons .
+
+to --> 
+dialogue type : Assess
+D : And uh maybe our uh fold open system is is a good one ,
+
+to --> 
+dialogue type : Suggest
+A : we should have the ten percent on the on the top ,
+
+to --> 
+dialogue type : Inform
+D : Remote controls are often lost somewhere in the room .
+to --> 
+dialogue type : Inform
+D : That's exactly what we said about um maybe a home station for uh for it uh to uh recharge the batteries or something .
+to --> 
+dialogue type : Suggest
+D : Uh I thought mo maybe we could make a clap system ,
+to --> 
+dialogue type : Suggest
+D : so when you clap your hands it will beep or something .
+to --> 
+dialogue type : Inform
+D : Uh you must find it uh quickly .
+
+to --> 
+dialogue type : Suggest
+B : Uh . Maybe just a button on the home station .
+to --> 
+dialogue type : Suggest
+B : So remote control beeps when you click that button on the home station .
+
+to --> 
+dialogue type : Suggest
+D : we can uh combine that .
+to --> 
+dialogue type : Inform
+D : Uh it takes too much time to learn how to use a r new remote control .
+to --> ,D
+dialogue type : Suggest
+D : Uh I think we must t uh take a look at this .
+to --> 
+dialogue type : Inform
+D : It's only uh th thirty four of the thirty four percent .
+to --> 
+dialogue type : Assess
+D : But it's uh a tough one .
+
+to --> 
+dialogue type : Inform
+D : Uh next , remote controls are bad for R_S_I_ .
+
+to --> 
+dialogue type : Assess
+D : Because if we make a ha whole new product , our own style , we we c uh this is so difficult , uh a difficulty I think .
+
+to --> 
+dialogue type : Assess
+D : Yeah , but only if they zap a lot , and they watch over five hours T_V_ or something .
+
+to --> ,D
+dialogue type : Suggest
+D : Uh we mustn't look too much at uh the last point .
+
+to --> 
+dialogue type : Inform
+D : Uh the last uh experiment uh was about gadgets , like uh speech recognition .
+to --> 
+dialogue type : Inform
+D : We didn't uh think about that already .
+to --> 
+dialogue type : Inform
+D : And uh an L_C_D_ on the remote control .
+
+to --> 
+dialogue type : Inform
+D : Um uh they finally had a conclusion that younger people um uh under an age of f forty five are uh more interested in new features .
+
+to --> 
+dialogue type : Inform
+D : but they're more critical .
+to --> 
+dialogue type : Inform
+D : And older people uh want to spend uh more money .
+
+to --> 
+dialogue type : Elicit-Inform
+A : we have uh a new uh age of forty plus .
+
+to --> 
+dialogue type : Elicit-Inform
+D : But y But you but you already said that the uh company was about uh forty plus uh clients ?
+
+to --> 
+dialogue type : Suggest
+A : so we just can skip the L_C_D_ r on the remote control ,
+
+to --> 
+dialogue type : Suggest
+D : I I think we can speak , uh we can skip speech recognition uh directly ,
+to --> 
+dialogue type : Inform
+D : because it's not reachable for twenty five Euros .
+
+to --> ,D
+dialogue type : Offer
+D : I have my personal uh preference .
+
+to --> 
+dialogue type : Assess
+D : that's not very good ,
+to --> 
+dialogue type : Inform
+D : because I thought about television , D_V_D_ player , stereo and V_C_R_ .
+
+to --> ,D
+dialogue type : Inform
+D : But it's already out of the question , this .
+to --> 
+dialogue type : Assess
+D : Um my point is , well , I If we ma uh make a a remote uh control for only television , I think it's hard to uh sell it for twenty five Euros .
+
+to --> 
+dialogue type : Inform
+D : On the market you can now buy for twenty Euros a remote control for everything .
+
+to --> 
+dialogue type : Suggest
+D : so we mi mm we m must made it make it uh very special .
+
+to --> 
+dialogue type : Inform
+D : I told about the home station .
+to --> 
+dialogue type : Suggest
+D : Uh it must be simple ,
+
+to --> 
+dialogue type : Inform
+D : And I I found a motto .
+to --> 
+dialogue type : Inform
+D : And we put the fashion in electronics .
+
+to --> 
+dialogue type : Inform
+D : The company is about our uh th th their own fashion , their own style .
+
+to --> 
+dialogue type : Inform
+A : But old people are not looking for that .
+
+to --> 
+dialogue type : Suggest
+C : I think the main thing is the usability , that's where we can uh make it a special product .
+
+to --> 
+dialogue type : Inform
+B : 'cause there are already , like you said , so many controls out that support lot of stuff .
+to --> 
+dialogue type : Suggest
+B : But we have to make sure that we're better usability ,
+
+to --> 
+dialogue type : Suggest
+B : So make it just a different colour or different shape ,
+
+to --> 
+dialogue type : Inform
+B : Technical functions design .
+
+to --> 
+dialogue type : Inform
+B : But um we have elderly people ,
+to --> 
+dialogue type : Inform
+B : so we need to keep it simple .
+to --> 
+dialogue type : Suggest
+B : Uh the way I want to keep it simple is to use the sen uh standard . So standardised uh methods like uh on all uh remote controls .
+to --> 
+dialogue type : Suggest
+B : Not too full ,
+to --> 
+dialogue type : Inform
+B : like uh Jens already said , only ten percent is being used .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : what do you think of only the numbers and the on-off button or
+
+to --> 
+dialogue type : Suggest
+B : But yes uh basic functions like numbers and that sort of stuff .
+
+to --> 
+dialogue type : Suggest
+B : the options that we put on there should be easy to use ,
+to --> 
+dialogue type : Inform
+B : and 'cause you have more room then ,
+to --> 
+dialogue type : Suggest
+B : and for elderly people big buttons .
+to --> 
+dialogue type : Suggest
+B : Uh an icon on it or text on it ,
+to --> 
+dialogue type : Inform
+B : so it's very clear what that buttons does .
+
+to --> ,B
+dialogue type : Inform
+B : Um a way to find out uh what people use is maybe just to use uh questionnaires on the internet
+
+to --> 
+dialogue type : Inform
+B : Of functions I could think of . Uh volume , channels , the the basic according to . Just one two three etcetera . Uh text service options . Um basic on-off .
+
+to --> 
+dialogue type : Suggest
+B : Could I think of favourites ?
+to --> 
+dialogue type : Inform
+B : I always look up the same um pages on text
+to --> 
+dialogue type : Inform
+B : and always have to click the number .
+to --> 
+dialogue type : Suggest
+B : But if you could make a new option , that you just have to press one button
+
+to --> 
+dialogue type : Inform
+C : but then you have to remember what favourite is what channel .
+to --> 
+dialogue type : Assess
+C : So you might as well remember the number .
+
+to --> 
+dialogue type : Assess
+A : Maybe i maybe it's too complicated ,
+
+to --> 
+dialogue type : Assess
+B : I would find it handy , I think , when you just press one button and you get on six six six .
+
+to --> 
+dialogue type : Elicit-Inform
+C : But um how can you remember what uh channel uh connects to what favourite button ?
+
+to --> 
+dialogue type : Inform
+A : If I use my telephone , I never use those buttons to to to call
+
+to --> 
+dialogue type : Inform
+A : If I don't do it , maybe old people
+
+to --> 
+dialogue type : Inform
+B : They don't like new features .
+
+to --> 
+dialogue type : Stall
+B : Right .
+
+to --> 
+dialogue type : Elicit-Inform
+B : play , pause . I dunno if that's usable
+
+to --> 
+dialogue type : Elicit-Inform
+B : miss Did I miss any other buttons , basic buttons ?
+
+to --> 
+dialogue type : Assess
+A : that's the only th the only thing you need .
+
+to --> 
+dialogue type : Inform
+C : Uh uh the p uh next and previous .
+
+to --> 
+dialogue type : Elicit-Inform
+C : Li like a web browser ,
+
+to --> 
+dialogue type : Inform
+B : Six seven eight or five .
+
+to --> 
+dialogue type : Suggest
+C : But uh um there's also a button to uh go to the channel you've been before .
+to --> 
+dialogue type : Inform
+C : Like a web browser back button .
+
+to --> 
+dialogue type : Assess
+A : but I think it's all too difficult for old people .
+
+to --> 
+dialogue type : Inform
+B : just use uh when you wanna switch between channels all the time .
+
+to --> 
+dialogue type : Suggest
+B : I think um f Especially for older peo elderly people use standard buttons .
+
+to --> 
+dialogue type : Assess
+B : Yeah , the ten plus button .
+to --> 
+dialogue type : Suggest
+B : Just uh one one pressing , or quickly after each other .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : w wouldn't it be a problem to uh Because you h have to be fast enough .
+
+to --> 
+dialogue type : Inform
+B : But I think that's in the T_V_ as well . That's how the uh the T_V_ T_V_ handles it .
+
+to --> 
+dialogue type : Inform
+B : So you have uh like a five seconds period to press those two buttons .
+
+to --> 
+dialogue type : Inform
+D : It's the T_V_ who depends that it must be two seconds or three seconds or one second that you must uh type one or two .
+
+to --> 
+dialogue type : Inform
+B : So if you have a universal T_V_ controller , you needed one button that has two uh stripes .
+
+to --> 
+dialogue type : Inform
+B : Most things in modern T_V_s are also on the menu .
+to --> 
+dialogue type : Suggest
+B : So you also need a menu button .
+to --> 
+dialogue type : Suggest
+B : And then uh navigation uh
+to --> 
+dialogue type : Assess
+B : But we can integrate that with volume and previous and next ,
+
+to --> 
+dialogue type : Suggest
+C : I I think you ha really have to divide between functions you often use , like um uh m maybe uh switch channels and uh volume and k that kind of things , and uh the menu button .
+to --> 
+dialogue type : Inform
+C : Because you n almost never use menu button .
+
+to --> 
+dialogue type : Assess
+A : Maybe it's still still a good idea , I'm not sure .
+to --> 
+dialogue type : Suggest
+A : You'll also have to use a mute button
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : I don't know where where you have to put it .
+
+to --> ,B
+dialogue type : Offer
+B : now my personal preferences .
+to --> 
+dialogue type : Suggest
+B : Uh using the standards , basic
+to --> 
+dialogue type : Suggest
+B : Um I think that we should stand out uh unique , being unique with the design .
+to --> 
+dialogue type : Suggest
+B : So we have to , I dunno , uh make a different shape than usual .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Does it have to be Uh it has to be uh with different colours
+
+to --> 
+dialogue type : Assess
+D : Maybe we can give it out in different colours .
+
+to --> 
+dialogue type : Suggest
+A : It's like a iMac or something .
+
+to --> 
+dialogue type : Assess
+D : That's fa That's fancy . That's uh fashion .
+
+to --> 
+dialogue type : Assess
+A : But it looks cheap as well ,
+to --> 
+dialogue type : Inform
+A : because it's a small thing .
+
+to --> ,B
+dialogue type : Suggest
+B : maybe you can look at uh mobile phones .
+
+to --> 
+dialogue type : Assess
+B : They they're uh designed very well .
+
+to --> 
+dialogue type : Inform
+B : You think you can't make a T_V_ controller too small , 'cause then you will always lo always lose it .
+to --> 
+dialogue type : Assess
+B : But uh well , I think that's a good example .
+
+to --> ,C
+dialogue type : Inform
+C : the working design .
+to --> ,C
+dialogue type : Inform
+C : The method I used is uh search the web . Just the web page provided .
+
+to --> 
+dialogue type : Inform
+C : Um basically what happens is you press a button ,
+to --> 
+dialogue type : Inform
+C : uh then a circuit gets closed by pressing the button , uh like a switch .
+to --> 
+dialogue type : Inform
+C : And by closing that certain circuit , the chip knows uh what bu button is pressed .
+
+to --> 
+dialogue type : Inform
+C : Then the chip produces a pattern . Like a Morse code
+
+to --> 
+dialogue type : Inform
+C : And and sends that to the uh L_E_D_ .
+
+to --> 
+dialogue type : Inform
+C : Um and the light emitting diode is uh producing infrared light .
+
+to --> 
+dialogue type : Inform
+C : And uh transmit that uh to the T_V_ .
+
+to --> 
+dialogue type : Elicit-Inform
+A : we we also have to have a LED li LED light on it ?
+
+to --> 
+dialogue type : Elicit-Inform
+B : Ain't it just to to indicate that it's transmitting ?
+
+to --> 
+dialogue type : Suggest
+A : Red's l shows up like something's wrong ,
+to --> 
+dialogue type : Suggest
+A : and green is like it's okay ,
+
+to --> 
+dialogue type : Inform
+C : on most uh uh remote controls it's red .
+
+to --> 
+dialogue type : Suggest
+A : The whole the whole uh remote control becomes uh green if you press the buttons .
+
+to --> 
+dialogue type : Assess
+C : I I think uh the batteries will be uh a little
+
+to --> 
+dialogue type : Inform
+A : we have a recharger in it ,
+
+to --> 
+dialogue type : Fragment
+A : If we can still make that then
+
+to --> 
+dialogue type : Inform
+B : It's just to indicate something's on .
+
+to --> 
+dialogue type : Inform
+C : That it's working .
+
+to --> 
+dialogue type : Inform
+C : And uh the receptor in the T_V_ senses the pattern .
+to --> 
+dialogue type : Inform
+C : So we have to understand what patterns are used to , you know , to make it universal .
+to --> 
+dialogue type : Inform
+C : So that it can be used with all the T_V_s .
+to --> 
+dialogue type : Inform
+C : We have to really understand what patterns are used ,
+
+to --> 
+dialogue type : Inform
+C : Otherwise it won't work .
+
+to --> 
+dialogue type : Elicit-Inform
+B : we have to uh make buttons for that as well ,
+
+to --> 
+dialogue type : Inform
+C : The chip um uh is producing the pattern .
+to --> 
+dialogue type : Inform
+C : So we have to make a chip that produces patterns to , y you know , to
+
+to --> 
+dialogue type : Elicit-Inform
+D : An automatically search function for each television , or something .
+
+to --> 
+dialogue type : Inform
+C : I dunno how it's uh exactly how it works .
+
+to --> 
+dialogue type : Inform
+B : I I use a universal uh remote control ,
+
+to --> 
+dialogue type : Inform
+B : And you have to put in a number ,
+
+to --> 
+dialogue type : Inform
+D : I have a modern one .
+to --> 
+dialogue type : Inform
+D : And the modern one you you uh you type uh search ,
+
+to --> 
+dialogue type : Inform
+D : And uh uh uh after uh a short time the television turns off .
+to --> 
+dialogue type : Inform
+D : And then you know , oh it it's the right one .
+
+to --> 
+dialogue type : Suggest
+C : We have to make a a s a bit more intelligent chip than the standard one .
+
+to --> 
+dialogue type : Inform
+C : That's uh when the circuit is closed , it produces the pattern .
+to --> 
+dialogue type : Inform
+C : But uh ma basically for uh brands of T_V_ these patterns are different .
+
+to --> 
+dialogue type : Inform
+C : what you have to do is uh get these patterns right .
+
+to --> 
+dialogue type : Inform
+C : What he's doing when he's configuring this pattern , this chip , uh is trying to switch off the television .
+to --> 
+dialogue type : Inform
+C : And when it's uh switched off , you can push a button as uh it's working now ,
+
+to --> 
+dialogue type : Inform
+C : And then he saves that setting
+
+to --> 
+dialogue type : Inform
+C : Um the energy source is uh the battery , basically .
+to --> 
+dialogue type : Inform
+C : Um that's connecting to all the components .
+
+to --> 
+dialogue type : Inform
+C : the subcomponent is uh w I I think it is uh the button pressed .
+
+to --> 
+dialogue type : Inform
+C : when you press a button , a switch get closed .
+
+to --> 
+dialogue type : Inform
+C : So the chip knows what button you pressed .
+to --> 
+dialogue type : Inform
+C : And the chip sends out uh the pattern to the infrared bulb .
+
+to --> 
+dialogue type : Elicit-Inform
+A : So that's the LED , L_E_D_ .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : we can make the normal one also a normal light . Not a LED light , but as a normal one .
+
+to --> 
+dialogue type : Inform
+D : Uh if you if you use the buttons , uh both of them works .
+
+to --> 
+dialogue type : Suggest
+A : Maybe you have to uh put uh a small light around the button you push .
+to --> 
+dialogue type : Inform
+A : So you see green if you push that button .
+
+to --> 
+dialogue type : Assess
+D : Mm I think it's unnecessary power uh you use then .
+
+to --> 
+dialogue type : Elicit-Inform
+A : But does it make any difference for the energy you use ?
+
+to --> 
+dialogue type : Inform
+B : i it it will look different ,
+
+to --> 
+dialogue type : Elicit-Inform
+D : Is LEDs uh beneath the the buttons ?
+
+to --> 
+dialogue type : Assess
+B : Yeah , w around the buttons , or in the buttons even .
+
+to --> 
+dialogue type : Elicit-Inform
+A : The same as a telephone , or a mobile phone , or what do you mean ?
+
+to --> 
+dialogue type : Inform
+A : It it only takes a l a little energy and it's not that much .
+
+to --> 
+dialogue type : Assess
+A : Maybe that's a good idea for old people as well .
+to --> 
+dialogue type : Suggest
+A : It's only few LEDs . Only four or something . Four LED .
+
+to --> 
+dialogue type : Assess
+B : But if we use a battery station ,
+
+to --> 
+dialogue type : Assess
+A : Yeah , that's a good idea , okay .
+
+to --> 
+dialogue type : Suggest
+D : Maybe what Paul said , uh under the on the on the home station , uh a button to uh to call your uh remote control , that it beeps .
+
+to --> 
+dialogue type : Inform
+A : But you have to make a sound device in it then .
+
+to --> 
+dialogue type : Assess
+C : maybe it's that that's a little too hard to make . Especially for that kind of money .
+
+to --> 
+dialogue type : Assess
+D : twenty five Euros , I think we can make it .
+
+to --> 
+dialogue type : Inform
+C : Production cost is uh t uh twelve and a half .
+
+to --> 
+dialogue type : Inform
+D : But but we only have to make it for television ,
+to --> 
+dialogue type : Suggest
+D : and um we must have something special .
+
+to --> 
+dialogue type : Inform
+B : I think uh you also have uh remote controls with a lot of options .
+to --> 
+dialogue type : Inform
+B : But we lose about ninety percent of those options .
+
+to --> 
+dialogue type : Suggest
+D : Uh . We have to give our customers some extras .
+
+to --> ,C
+dialogue type : Inform
+C : the the personal preference , I didn't fill it out .
+to --> ,C
+dialogue type : Inform
+C : Because I was short on time .
+
+to --> 
+dialogue type : Suggest
+C : Basically what we could do too is uh have a Bluetooth uh integration .
+
+to --> 
+dialogue type : Inform
+A : We have some new uh project requirements .
+to --> ,A
+dialogue type : Suggest
+A : We have to have a look what they are .
+
+to --> 
+dialogue type : Inform
+A : Uh teletext has become outdated since the popularity of internet .
+to --> 
+dialogue type : Inform
+A : So a teletext option , maybe we have to skip that one .
+to --> 
+dialogue type : Assess
+A : I'm not sure .
+to --> 
+dialogue type : Assess
+A : I don't think so ,
+
+to --> 
+dialogue type : Inform
+C : and I I think a lot of people use uh teletext , still use .
+
+to --> 
+dialogue type : Inform
+A : and it's it's on your comp it's on your television .
+to --> 
+dialogue type : Inform
+A : It's only one button .
+
+to --> 
+dialogue type : Suggest
+A : We definitely should use it . Um
+
+to --> 
+dialogue type : Inform
+A : The remote control should only be used for a television .
+
+to --> 
+dialogue type : Inform
+A : And um the the forty plus people , I already told you .
+
+to --> ,A
+dialogue type : Assess
+A : Oh , this is a problem .
+to --> 
+dialogue type : Be-Positive
+A : Oh sorry about that .
+to --> 
+dialogue type : Inform
+A : The new product should reach a new market with customers are the younger than forty .
+to --> 
+dialogue type : Suggest
+A : So it should be flashy or just more interesting .
+
+to --> ,B
+dialogue type : Inform
+B : that's It changes things .
+
+to --> ,A
+dialogue type : Inform
+A : I just I just didn't read it well .
+
+to --> 
+dialogue type : Inform
+C : That kinda changes the whole situation .
+
+to --> 
+dialogue type : Suggest
+B : then we have to make some nice features .
+to --> 
+dialogue type : Assess
+B : I think uh the thing in the dark is a good way ,
+to --> 
+dialogue type : Assess
+B : to make it more like a mobile phone . More modern .
+
+to --> 
+dialogue type : Inform
+D : L_C_D_ doesn't work for uh twelve and a half Euros I think .
+
+to --> 
+dialogue type : Assess
+B : And I d I don't don't think it's very usable in a remote control ,
+
+to --> 
+dialogue type : Assess
+C : I I don't y you'll use it often ,
+to --> 
+dialogue type : Inform
+C : because you can see on the television wh what channel you
+
+to --> 
+dialogue type : Suggest
+C : I think you you have to make it a bit flashy and and popular .
+
+to --> 
+dialogue type : Assess
+C : because the Like in the mobile phones , usability is not that good I think .
+
+to --> 
+dialogue type : Inform
+D : But uh some of you had uh something to read about um uh speech uh recognition .
+
+to --> 
+dialogue type : Assess
+B : Yeah , I tho I think that's not usable .
+
+to --> 
+dialogue type : Assess
+D : That's very That's fancy . That's cool .
+
+to --> 
+dialogue type : Suggest
+D : Only the numbers , only numbers . Uh furthermore nothing . But only the numbers , one to twenty or something .
+
+to --> 
+dialogue type : Assess
+A : Yeah , maybe we have to integrate that as well . If it's possible .
+
+to --> 
+dialogue type : Inform
+A : I don't think it's very expensive actually .
+
+to --> 
+dialogue type : Inform
+D : I didn't have information about that .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : And and and does it have to work only in English , or in Dutch too or
+
+to --> 
+dialogue type : Assess
+D : that's a problem ,
+
+to --> 
+dialogue type : Suggest
+D : Uh only in English . Only in English I think .
+
+to --> ,C
+dialogue type : Offer
+C : it's probably my job to figure that out ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : Does it lie in the centre of the room and can you scream from wherever
+
+to --> ,D
+dialogue type : Suggest
+D : then th we have to think about that .
+
+to --> 
+dialogue type : Assess
+A : Maybe maybe it's too hard to uh to realise that .
+
+to --> 
+dialogue type : Inform
+A : We have short time to to put it on the market ,
+
+to --> 
+dialogue type : Assess
+D : In uh indeed uh the languages are a difficult thing .
+
+to --> 
+dialogue type : Assess
+B : I don't think it's uh useful enough to take the effort to design something with uh speech recognition .
+
+to --> 
+dialogue type : Inform
+D : A uh someone says that uh give me one Coke , and the T_V_ turns uh to one .
+
+to --> 
+dialogue type : Suggest
+B : And then you have to say uh T_V_ channel one , or something . Not just one ,
+
+to --> 
+dialogue type : Assess
+D : Okay , no speech recognition .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : Do we , do we make uh a light under the under the n under the numbers and everything ?
+
+to --> 
+dialogue type : Assess
+B : Yeah , I think so .
+
+to --> 
+dialogue type : Suggest
+A : If you press something , it lights up for a few seconds ,
+
+to --> 
+dialogue type : Elicit-Assessment
+B : It lights up when it's dark ?
+
+to --> 
+dialogue type : Suggest
+A : If you push something , it it all lights up .
+
+to --> 
+dialogue type : Suggest
+D : it it mustn't work all the time .
+to --> 
+dialogue type : Suggest
+D : It uh uh it have to work only when you use it .
+
+to --> 
+dialogue type : Suggest
+D : if you use one button , it must turn uh on for twenty seconds , and then it must turn off .
+
+to --> 
+dialogue type : Suggest
+A : It's the same as the telephone . Yeah .
+
+to --> 
+dialogue type : Suggest
+B : Different colours ,
+to --> 
+dialogue type : Suggest
+B : uh maybe use even different fonts .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : so y you just make it th through You look through it ?
+
+to --> 
+dialogue type : Suggest
+A : Uh when you use teletec teletext , you can press a green or a red button to go to the next one , or to go to the previous one .
+
+to --> 
+dialogue type : Suggest
+A : but maybe you can put um the g the options of teletext on the second level of the remote control .
+
+to --> 
+dialogue type : Inform
+B : Uh teletext options are only four buttons or something .
+
+to --> 
+dialogue type : Inform
+A : Because you ne almost never use it .
+
+to --> 
+dialogue type : Inform
+C : but younger people I think um more often use the internet
+to --> 
+dialogue type : Inform
+C : and elderly people often use teletext .
+
+to --> 
+dialogue type : Inform
+D : I use te teletext every day , I think .
+
+to --> 
+dialogue type : Inform
+B : And I think , uh 'cause um we don't have that many buttons ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : we just keep it one level then ?
+
+to --> ,A
+dialogue type : Inform
+A : We're going to have a lunch lunch break . Um
+
+to --> ,A
+dialogue type : Inform
+A : you know what you have to do .
+
+to --> 
+dialogue type : Inform
+D : Trendwatching .
+
+to --> ,A
+dialogue type : Inform
+A : we're finished for t for this time .
+

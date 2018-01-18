@@ -1,0 +1,493 @@
+to --> 
+dialogue type : Be-Positive
+A : Hello . Hello .
+
+to --> 
+dialogue type : Elicit-Inform
+A : you all read what we are going to do or not ?
+
+to --> 
+dialogue type : Inform
+D : We're gonna make a remote control .
+
+to --> ,A
+dialogue type : Inform
+A : I just made a a simple uh presentation .
+
+to --> 
+dialogue type : Inform
+A : that's my name , .
+to --> 
+dialogue type : Inform
+A : Uh we're going to make uh a remote control ,
+
+to --> 
+dialogue type : Other
+A : are we going to uh this agenda of our meeting .
+to --> ,A
+dialogue type : Inform
+A : You know , this is about twenty five minutes , this meeting .
+
+to --> 
+dialogue type : Inform
+A : it has to be original , trendy , user-friendly
+
+to --> ,A
+dialogue type : Inform
+A : Uh first we have uh uh three steps of uh making the the remote control .
+to --> ,A
+dialogue type : Inform
+A : Fir the first thing is th the functional design ,
+
+to --> ,A
+dialogue type : Inform
+A : We have to look what the needs are , the effects of the functional design , and and how the mm the the remote control works , so that's where we're going to look in the functional design ,
+
+to --> ,A
+dialogue type : Inform
+A : The the second thing is the conceptual design ,
+
+to --> ,A
+dialogue type : Inform
+A : that's uh the spe the specifications of the components and the properties and the specifications of the user interface .
+to --> ,A
+dialogue type : Inform
+A : And we have to look what uh the market is doing for what kind of uh remote controls are in the market .
+to --> ,A
+dialogue type : Inform
+A : And the third thing is uh the detailed design
+
+to --> ,A
+dialogue type : Inform
+A : it's exactly how it looks and whatever .
+
+to --> ,A
+dialogue type : Inform
+A : these are two smartboards , with the uh f uh s an introduction of that one .
+to --> ,A
+dialogue type : Inform
+A : And you already saw you know all that that you here can put uh things in the the red project uh map .
+
+to --> 
+dialogue type : Fragment
+A : what we're going to do first is um
+
+to --> 
+dialogue type : Inform
+A : You have to uh draw uh a favourite animal on the whiteboard
+
+to --> ,A
+dialogue type : Inform
+A : and we have to uh use a different pen colours and different thickness of the pen .
+
+to --> 
+dialogue type : Inform
+A : and um and say why it's your favourite animal .
+
+to --> ,A
+dialogue type : Offer
+A : first have to show you ,
+to --> ,A
+dialogue type : Suggest
+A : maybe you can come here to have a look how it works .
+
+to --> ,A
+dialogue type : Offer
+A : Use pen format .
+to --> ,A
+dialogue type : Inform
+A : and a different colour can use here
+
+to --> ,A
+dialogue type : Offer
+A : line width ten .
+
+to --> ,A
+dialogue type : Suggest
+A : Just draw slowly ,
+to --> ,A
+dialogue type : Inform
+A : because otherwise it won't work .
+to --> 
+dialogue type : Assess
+A : It's a very nice elephant , you can see .
+
+to --> ,A
+dialogue type : Inform
+A : It's a bit slow you can see ,
+to --> ,A
+dialogue type : Assess
+A : this is a bit annoying .
+
+to --> ,D
+dialogue type : Elicit-Inform
+D : and then uh what's the colour ?
+to --> ,D
+dialogue type : Elicit-Inform
+D : How do I do
+
+to --> ,A
+dialogue type : Inform
+A : It's in format .
+
+to --> ,A
+dialogue type : Suggest
+A : Just make a new blank new blank page .
+
+to --> ,A
+dialogue type : Suggest
+A : Maybe you should hold your pen a bit more to the back ,
+
+to --> ,B
+dialogue type : Offer
+B : let's make it um a dog .
+
+to --> 
+dialogue type : Offer
+B : I make a cat of it .
+
+to --> ,B
+dialogue type : Inform
+B : I just draw too quick I think .
+
+to --> ,A
+dialogue type : Inform
+A : I thought these pens would be just um uh you write it down and you download it to Word ,
+
+to --> ,B
+dialogue type : Inform
+B : but you actually got to write on the paper .
+
+to --> ,A
+dialogue type : Inform
+A : but I d I I thought it would be just in in in uh typed words in Word ,
+
+to --> ,B
+dialogue type : Inform
+B : but it's just a picture .
+
+to --> ,D
+dialogue type : Elicit-Inform
+D : Y you can you can't edit in the edit it in Word .
+
+to --> ,A
+dialogue type : Assess
+A : it's not that cool as I th thought it would be .
+
+to --> ,A
+dialogue type : Offer
+A : Now we just have to save everything ,
+
+to --> 
+dialogue type : Inform
+A : what we know is that we have to sell this uh remote control for about twenty five Euros .
+
+to --> 
+dialogue type : Inform
+A : And uh we have to make a profit of fifty million Euros ,
+to --> 
+dialogue type : Inform
+A : so we have to uh use a big market in Europe .
+to --> 
+dialogue type : Inform
+A : The production cost are about half the price of selling price ,
+
+to --> 
+dialogue type : Elicit-Inform
+A : can someone make a a calculation about how many we have to sell of these to make fifty million ,
+
+to --> 
+dialogue type : Inform
+A : we're gonna have a little discussion about um what experience are with a remote control the and everything ,
+
+to --> ,A
+dialogue type : Suggest
+A : You have to put it exactly on the on the
+
+to --> ,C
+dialogue type : Inform
+C : My laptop is crashing .
+
+to --> ,A
+dialogue type : Inform
+A : Uh actually my laptop doesn't work ,
+
+to --> ,D
+dialogue type : Assess
+D : Okay . I think it works .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : How does this work ?
+
+to --> ,D
+dialogue type : Suggest
+D : Press F_ eleven .
+
+to --> 
+dialogue type : Elicit-Inform
+D : my first question was does it have to be a a universal remote control ?
+
+to --> 
+dialogue type : Assess
+A : that's a good question .
+
+to --> 
+dialogue type : Inform
+D : Because we sell it uh uh uh lonely from the t and not with the television , we sell it uh apart .
+
+to --> 
+dialogue type : Inform
+C : Yeah , it probably would be universal .
+
+to --> 
+dialogue type : Inform
+A : I don't think you can buy a a a universal uh remote control for twenty five Euros ,
+
+to --> 
+dialogue type : Inform
+D : I know uh you can buy a re a universal uh control for uh only twenty uh Euros
+
+to --> 
+dialogue type : Suggest
+A : we we just say we just say that's universal remote control .
+
+to --> 
+dialogue type : Elicit-Assessment
+C : And uh also for the V_C_R_ and uh D_V_D_ player
+
+to --> 
+dialogue type : Inform
+A : so a lot of buttons on the remote control .
+
+to --> 
+dialogue type : Elicit-Inform
+A : what what what's a remote control ,
+to --> 
+dialogue type : Inform
+A : it's just a black thing with some buttons on it ,
+
+to --> 
+dialogue type : Suggest
+B : we can try to make it special .
+
+to --> 
+dialogue type : Suggest
+D : Um if we uh control the V_C_R_ and the D_V_D_ player player with it uh it has to be clear ,
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : And how big should it be ?
+
+to --> 
+dialogue type : Suggest
+B : It shouldn't be too big ,
+to --> 
+dialogue type : Inform
+B : but I don't think we can make it too small ,
+
+to --> 
+dialogue type : Suggest
+B : We can't make it smaller than the things we see now I think .
+
+to --> 
+dialogue type : Suggest
+B : Or we have to make something uh like uh mobile phones that you can uh fold it opem .
+
+to --> 
+dialogue type : Inform
+B : maybe more trendy .
+to --> 
+dialogue type : Inform
+B : Fold open ,
+to --> 
+dialogue type : Inform
+B : where you can see uh more options . I think
+
+to --> 
+dialogue type : Suggest
+B : something uh on top , just dren general things like volume and T_V_ channels and inside things you don't use that often .
+
+to --> 
+dialogue type : Suggest
+C : O or you could th think of an uh uh a small touch screen on the remote control .
+
+to --> 
+dialogue type : Elicit-Inform
+A : Why should you use a touchscreen on a remote control ?
+
+to --> 
+dialogue type : Inform
+C : or um maybe to keep it uh easy and uh small .
+
+to --> 
+dialogue type : Elicit-Assessment
+A : But it's not t t t too expensive to put a touchscreen on it .
+
+to --> 
+dialogue type : Suggest
+D : And we have to care for uh the strength of the remote control ,
+to --> 
+dialogue type : Inform
+D : because uh uh remote controls are most uh things in the house that falls down on the ground and it get often uh broken .
+
+to --> 
+dialogue type : Assess
+A : And if you have a touch screen in it , it's definitely too too fragile uh fragile .
+
+to --> 
+dialogue type : Suggest
+A : You can put games on your remote control . Whatever .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+C : And uh how about the batteries ?
+to --> 
+dialogue type : Elicit-Assessment
+C : Uh should you put it in a recharger
+
+to --> 
+dialogue type : Suggest
+D : Ma maybe a home station .
+
+to --> 
+dialogue type : Suggest
+B : but yeah , we have to look at the price now I think .
+
+to --> 
+dialogue type : Elicit-Inform
+B : uh how much is your uh standards uh mobile phone recharger ?
+
+to --> 
+dialogue type : Inform
+C : if you buy it uh separately from your phone it's probably expensive ,
+to --> 
+dialogue type : Inform
+C : but I don't know what the project uh projection costs are for such a thing .
+
+to --> 
+dialogue type : Assess
+A : because maybe it's too expensive .
+
+to --> 
+dialogue type : Suggest
+A : Uh if you th look at the market , it's probably it's still the best way just to put batteries in it ,
+
+to --> 
+dialogue type : Assess
+D : but a home station is uh a really good idea ,
+to --> 
+dialogue type : Inform
+D : because uh lots of people are uh lose their remote control and don't know where it is ,
+
+to --> 
+dialogue type : Suggest
+B : Maybe uh use it as a separate option . Sell it uh separately .
+
+to --> 
+dialogue type : Inform
+C : and and you just have normal batteries that you can recharge and just put it in the station ,
+to --> 
+dialogue type : Inform
+C : or you can change your batteries ,
+
+to --> 
+dialogue type : Assess
+A : The option , just the option , that's cool .
+
+to --> ,D
+dialogue type : Inform
+D : Uh I I set something on paper already , size , looks , uh usable ,
+to --> 
+dialogue type : Suggest
+D : uh the buttons on usable places ,
+to --> 
+dialogue type : Suggest
+D : uh the the on off button must be on top ,
+to --> 
+dialogue type : Suggest
+D : uh it has to lay good in the hand ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : does it has to b have to be um uh like a different form than a normal remote control
+
+to --> 
+dialogue type : Assess
+C : uh if if we want to make it special , we probably have to do a lot of testing , if it really works .
+
+to --> 
+dialogue type : Suggest
+B : you can um have uh the basic things on the same place , like on off button on top and the T_V_ channels one two three four as a block , and then the volume uh obviously on t on top , so you can see .
+to --> 
+dialogue type : Inform
+B : But the rest is uh you don't use that often ,
+to --> 
+dialogue type : Suggest
+B : so if you have a clear button with an good icon on it , it should be clear as well .
+
+to --> 
+dialogue type : Fragment
+C : And what we have to think about too is uh uh buttons that you use often are um maybe uh like when you fold it open ,
+
+to --> 
+dialogue type : Inform
+D : Uh on on top are the the basic options on top ,
+
+to --> 
+dialogue type : Inform
+C : basically when I'm watching T_V_ I'm just using like five buttons or so ,
+
+to --> 
+dialogue type : Assess
+A : maybe it's very hard to to make it fold open and to l look like it's very uh uh
+
+to --> 
+dialogue type : Assess
+D : Mm . If you if if you make to fold open it's or also an uh the strength uh is not s as good as a normal uh remote control .
+
+to --> 
+dialogue type : Suggest
+A : So maybe we have to to uh keep it like mm a square , just normal remote control .
+to --> ,A
+dialogue type : Suggest
+A : Just think about it .
+to --> ,A
+dialogue type : Inform
+A : We have to close this uh to finish this uh meeting ,
+
+to --> ,A
+dialogue type : Inform
+A : We have uh another thirty minutes ,
+to --> ,A
+dialogue type : Inform
+A : so then we're going to meet again .
+
+to --> ,D
+dialogue type : Elicit-Assessment
+D : Um for m for me uh the Marketing Expert , the user requirements uh specification , do I need to think as a user ,
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : what's in the market ,
+
+to --> 
+dialogue type : Suggest
+A : I think this if you you have to n know if it's for s a T_V_ , a D_V_D_ player , all that things .
+
+to --> ,A
+dialogue type : Elicit-Inform
+A : uh what kind of uh buttons do you have .
+
+to --> ,B
+dialogue type : Inform
+B : There's already a document in the folder about it .
+
+to --> 
+dialogue type : Inform
+B : I already wrote some down , some ideas .
+
+to --> ,A
+dialogue type : Suggest
+A : see you in thirty minutes .
+

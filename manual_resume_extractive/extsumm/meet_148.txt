@@ -1,0 +1,136 @@
+to --> ,A
+dialogue type : Inform
+A : I'll be your Project Manager for today , for this project .
+to --> 
+dialogue type : Inform
+A : My name is Mark
+
+to --> 
+dialogue type : Inform
+D : Um my name is Dirk , Dirk Meinfeld .
+to --> 
+dialogue type : Inform
+D : Um I will be uh Pr Project the Marketing Expert .
+
+to --> 
+dialogue type : Inform
+B : Nick Broer ,
+to --> 
+dialogue type : Inform
+B : User Interface Designer .
+
+to --> 
+dialogue type : Inform
+C : My name is Xavier Juergens ,
+to --> 
+dialogue type : Inform
+C : I'm the Industrial Designer ,
+
+to --> 
+dialogue type : Inform
+A : we need design a remote control for television set ,
+
+to --> 
+dialogue type : Inform
+A : which has to be original , trendy and user-friendly .
+
+to --> 
+dialogue type : Suggest
+A : So apparently we need to um be very at um very open to what's currently hot in the market .
+
+to --> ,A
+dialogue type : Inform
+A : First step will be the functional design .
+
+to --> ,A
+dialogue type : Inform
+A : so to help with these , you have we have the SMARTboards here .
+
+to --> ,A
+dialogue type : Offer
+A : I'm supposed to give you an introduction on this doodling board ,
+
+to --> ,A
+dialogue type : Suggest
+A : just stuff that you wanna share , just put it in the in the project folder ,
+
+to --> ,A
+dialogue type : Offer
+A : I'll put the the minutes of every meeting , I'll put them there too ,
+
+to --> ,A
+dialogue type : Offer
+A : gonna give the electronic white-board uh a shot .
+
+to --> 
+dialogue type : Suggest
+A : So , draw us your favourite animal .
+
+to --> 
+dialogue type : Inform
+A : It's supposed to be a dolphin ,
+
+to --> 
+dialogue type : Assess
+D : I like the elephant .
+
+to --> ,C
+dialogue type : Offer
+C : the animal I'd like to draw is a tiger .
+
+to --> 
+dialogue type : Inform
+A : I introduce to the world the amazing ant .
+
+to --> 
+dialogue type : Elicit-Offer-Or-Suggestion
+A : What are y What are your first ideas for the new product ?
+
+to --> 
+dialogue type : Inform
+A : The project I got was just for a T_V_ remote control .
+
+to --> 
+dialogue type : Suggest
+B : I was thinking about design remote control , with our uh motto and all .
+
+to --> 
+dialogue type : Suggest
+B : No rational changes or whatever , 'cause it revolutionary changes ,
+
+to --> 
+dialogue type : Elicit-Assessment
+A : so very intuitive design , I guess .
+
+to --> 
+dialogue type : Elicit-Inform
+B : Do we want people who are disabled in any way to uh , yeah , to be able to use it as well ?
+
+to --> 
+dialogue type : Suggest
+A : but I think it's a little take it into consideration .
+
+to --> 
+dialogue type : Suggest
+C : is uh the the material it is made of , it should be something light .
+
+to --> 
+dialogue type : Inform
+A : Selling price , twenty five Euros .
+
+to --> 
+dialogue type : Inform
+A : The production price , twelve and a half Euros , approximately .
+
+to --> 
+dialogue type : Inform
+A : We'll reach the uh reach that profit .
+
+to --> 
+dialogue type : Fragment
+D : international .
+
+to --> ,A
+dialogue type : Inform
+A : Anyway , we'll take this project in three steps , three pha uh three phase of design .
+
