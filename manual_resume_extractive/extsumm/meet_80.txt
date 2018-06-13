@@ -101,7 +101,7 @@ dialogue type : Inform
 A : um and that goes along with being trendy , uh uh you know the I want it uh scenario .
 to --> 
 dialogue type : Inform
-A :User-friendly
+A : User-friendly
 to --> 
 dialogue type : Inform
 A : as as we all know , remote controls can be uh uh very user-unfriendly

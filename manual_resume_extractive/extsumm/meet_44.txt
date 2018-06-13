@@ -285,7 +285,7 @@ C : Square buttons ?
 
 to --> 
 dialogue type : Assess
-A :Yeah
+A : Yeah
 
 to --> ,A
 dialogue type : Suggest

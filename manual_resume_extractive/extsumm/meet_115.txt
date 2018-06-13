@@ -302,7 +302,7 @@ dialogue type : Suggest
 A : but then you you can push uh some other button as well .
 to --> 
 dialogue type : Assess
-A :Okay
+A : Okay
 to --> 
 dialogue type : Assess
 A : Yeah . That's right . So if you scroll to a number and then you wait a half second , then it g turns to that channel .

@@ -22,6 +22,8 @@ class extractive(meeting):
         self.initializations()
         self.meeting = self.get_meeting_name_byFile(self.file_name)
 
+        print self.meeting
+
         file = open('./manual_resume_extractive/extsumm/' + self.meeting + '.txt', 'w')
 
         if self.suffix == 'extsumm':
@@ -130,17 +132,18 @@ class extractive(meeting):
 tool = tools.tools('extractive')
 meeting_list = []
 
-for file in tool.get_list()[33:]:
-    print file
-    d = extractive(file)
-    d.get_extractive_resume()
+# for file in tool.get_list():
+#     print file
+#     d = extractive(file)
+#     d.get_extractive_resume()
 
 
 #lists = list(set(meeting_list))
 #print lists
 
-# file = 'ES2012a.extsumm.xml'
-# d = extractive(file)
-# d.get_extractive_resume()
+file = 'TS3012a.extsumm.xml'
+print file
+d = extractive(file)
+d.get_extractive_resume()
 
 

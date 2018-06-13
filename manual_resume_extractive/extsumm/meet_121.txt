@@ -737,7 +737,7 @@ A : There has to be a on button on the remote ,
 
 to --> A
 dialogue type : Assess
-B :No
+B : No
 to --> A
 dialogue type : Inform
 B : you just tap I think .

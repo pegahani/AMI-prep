@@ -1,9 +1,11 @@
 to --> 
 dialogue type : Inform
 A : Right well um from the last meeting I was trying to send you the minutes ,
+ 
 to --> 
 dialogue type : Inform
 A : but uh it didn't work out too well ,
+
 to --> 
 dialogue type : Offer
 A : so maybe in sort of um quick summary of the last uh meeting , I can quickly give you what we what we had .
@@ -11,18 +13,23 @@ A : so maybe in sort of um quick summary of the last uh meeting , I can quickly 
 to --> 
 dialogue type : Inform
 A : Right so we had the fact that we're gonna have the the logo uh the company logo in its uh colour scheme incorporated onto the the device the remote device .
+
 to --> 
 dialogue type : Inform
 A : We had uh made our decisions about uh made our decisions about uh the device itself ,
+
 to --> 
 dialogue type : Inform
 A : that it was gonna be simple to make it uh enable us to complete the project in time .
+
 to --> 
 dialogue type : Inform
 A : We're gonna have uh effectively two pages ,
+
 to --> 
 dialogue type : Inform
 A : a front page which had the uh features that the uh the customers most wanted ,
+
 to --> 
 dialogue type : Inform
 A : and then the uh the backup features on the second page so that it could uh meet the technical requirements .
@@ -34,18 +41,23 @@ B : I think we all have a presentation again ,
 to --> 
 dialogue type : Fragment
 B : For the components design , um next step is
+
 to --> 
 dialogue type : Inform
 B : basically the the way the remote's gonna work is still the same idea as before .
+
 to --> 
 dialogue type : Inform
 B : We still have the user interface which is all the buttons we're gonna incorporate .
+
 to --> 
 dialogue type : Inform
 B : Then there is a chip
+
 to --> 
 dialogue type : Inform
 B : and still the sender .
+
 to --> 
 dialogue type : Inform
 B : So um yes including the power s supply as well .
@@ -69,9 +81,11 @@ B : which would mean the batteries wouldn't have to be replaced .
 to --> 
 dialogue type : Inform
 B : but I think that was gonna cost a little more .
+
 to --> 
 dialogue type : Inform
 B : And then there's solar cells . Um as a final option .
+
 to --> 
 dialogue type : Inform
 B : For the buttons , we have um an integrated push button ,
@@ -79,9 +93,11 @@ B : For the buttons , we have um an integrated push button ,
 to --> 
 dialogue type : Inform
 B : which I guess is just the same as the standard ones .
+
 to --> 
 dialogue type : Inform
 B : This says it's uh similar to uh the button on the mouse for a normal for like uh like modern computer .
+
 to --> 
 dialogue type : Inform
 B : Um there's a scroll wheel which is you know the new mouse has just got like the centre section which you can scroll up and down ,
@@ -89,6 +105,7 @@ B : Um there's a scroll wheel which is you know the new mouse has just got like 
 to --> 
 dialogue type : Inform
 B : Um one issue for the buttons is , depending on which material we use ,
+
 to --> 
 dialogue type : Inform
 B : if we use rubber buttons then it requires a rubber case ,
@@ -100,6 +117,7 @@ A : What would be the cost do do we know ?
 to --> 
 dialogue type : Inform
 B : I th I think the there wasn't too much difference in the cost , that that related to the actual buttons ,
+
 to --> 
 dialogue type : Inform
 B : but it does affect the printed circuit board .
@@ -111,9 +129,11 @@ B : The firm supplies a simple , a regular and an advanced um circuit board .
 to --> 
 dialogue type : Inform
 B : So if we've got the scroll wheel for one of the buttons , that would require a slightly more advanced circuit board than if we just had a standard um push button .
+
 to --> 
 dialogue type : Inform
 B : Um one final thing we came up with was some information on the speech recognition .
+
 to --> 
 dialogue type : Inform
 B : There's a small unit available through the company um which obviously would be an extra cost ,
@@ -125,6 +145,7 @@ B : Um going to my personal preferences , um I thought possibly for power we cou
 to --> 
 dialogue type : Inform
 B : And this would avoid batteries running out , having to replace batteries and such like .
+
 to --> 
 dialogue type : Inform
 B : Um for the buttons , I thought we'd probably get away with just having the standard um push buttons rather than the scroll wheel .
@@ -140,12 +161,15 @@ B : Um and for the circuit board , again depends on which features we want in th
 to --> 
 dialogue type : Inform
 B : if we're gonna have the speech recognition , we'd have to probably get an advanced one . I'm guessing .
+
 to --> 
 dialogue type : Inform
 B : Uh but I don't know ,
+
 to --> 
 dialogue type : Offer
 B : so that is something I'll have to look into .
+
 to --> 
 dialogue type : Inform
 B : Um that's a that's a decision for all of us . Um .
@@ -157,6 +181,7 @@ A : So are we able to make that decision now in a sense that this is the point a
 to --> ,A
 dialogue type : Suggest
 A : I mean one way is to do each of the presentations
+
 to --> ,A
 dialogue type : Suggest
 A : and then make decisions going back to the various presentations as they were .
@@ -208,6 +233,7 @@ B : Did everyone get this on the speech recognition ?
 to --> 
 dialogue type : Inform
 B : So it is basically the concept we discussed before .
+
 to --> 
 dialogue type : Inform
 B : Um but then we don't know for sure whether it would require a more complicated circuit board .
@@ -227,6 +253,7 @@ C : But the way that I interpret that um it doesn't seem to send out a signal to
 to --> 
 dialogue type : Inform
 C : it's like a parrot just rep reply replying to your message .
+
 to --> 
 dialogue type : Inform
 C : So I don't think it would effect our circuit board .
@@ -278,15 +305,19 @@ B : but Maybe we maybe we'll find out how much that does cost and have to decide
 to --> 
 dialogue type : Inform
 C : Um okay , so very brief presentation , um .
+
 to --> 
 dialogue type : Inform
 C : From looking at the remotes that are out there at the minute , none of them are particularly um sleek and sexy .
+
 to --> 
 dialogue type : Inform
 C : Um I haven't actually got the examples of the scroll button there ,
+
 to --> 
 dialogue type : Inform
 C : um but there's some curved cases that you can see , uh a range of sizes uh .
+
 to --> 
 dialogue type : Inform
 C : All of them have a lot of buttons there um
@@ -294,6 +325,7 @@ C : All of them have a lot of buttons there um
 to --> 
 dialogue type : Inform
 C : Um some of the uh remotes that I looked at , one of the models da did actually have voice recognition where you could um where it was connected to the remote control functions .
+
 to --> 
 dialogue type : Inform
 C : And uh it was quite uh a swish model ,
@@ -305,6 +337,7 @@ C : I mean maybe it's better not to try and compete with that sort of thing
 to --> 
 dialogue type : Inform
 C : Um the scroll buttons , as you've already mentioned , um there's examples of those ,
+
 to --> 
 dialogue type : Inform
 C : but they don't look as sleek as other models .
@@ -319,12 +352,15 @@ C : Th there was a specialist type of remote that we could think about , um .
 to --> 
 dialogue type : Inform
 C : There was children's remote ,
+
 to --> 
 dialogue type : Inform
 C : where um they just had a very limited range of buttons
+
 to --> 
 dialogue type : Inform
 C : and they were b uh bright and colourful
+
 to --> 
 dialogue type : Inform
 C : and um you you could program them so that they could only look at certain channels .
@@ -336,9 +372,11 @@ A : Well we're to go for the international market rather than a local market
 to --> 
 dialogue type : Inform
 A : The one thing that you can often do with products is you can uh make small modifications .
+
 to --> 
 dialogue type : Inform
 A : So you have your basic model which you would sell at whatever ,
+
 to --> 
 dialogue type : Inform
 A : and then you could have additional features
@@ -354,6 +392,7 @@ B : So maybe the children's remote should be like a a next step ,
 to --> 
 dialogue type : Inform
 A : but on this basic one I'm reckoning that we're going for the basic model to be discussed here
+
 to --> 
 dialogue type : Inform
 A : and that uh you would have for future reference the possibility of adding in extra features at extra cost to take care of specialist market segments .
@@ -365,6 +404,7 @@ A : Alright , so we're just gonna have the the rubber buttons ,
 to --> 
 dialogue type : Inform
 C : Um there was a mention just as kind of a warning about button design .
+
 to --> 
 dialogue type : Inform
 C : Um just to avoid ambiguity .
@@ -376,15 +416,19 @@ C : Um I think the thing was that if you decide to do this , to have triangular 
 to --> 
 dialogue type : Inform
 C : they might see yeah , they might see this pointing down and think right that's gonna turn the volume down ,
+
 to --> 
 dialogue type : Inform
 C : whereas the actual button's pointing up , so the function is to turn the button up .
+
 to --> 
 dialogue type : Inform
 C : So , be careful what you put on the buttons
+
 to --> 
 dialogue type : Inform
 C : and be careful of the shape that you make them ,
+
 to --> 
 dialogue type : Inform
 C : because they might be kind of two um contradicting kind of shapes .
@@ -404,9 +448,11 @@ D : Right , um I've been looking at some trends in in sort of basically fashion 
 to --> 
 dialogue type : Inform
 D : that we'd sort of asked people about remote controls and what what was good about them , what was bad , what they used .
+
 to --> 
 dialogue type : Inform
 D : And we've also been looking at sort of fa sort of fashions and what people are wanting out of consumer goods at the moment .
+
 to --> 
 dialogue type : Inform
 D : So we've had people in Paris and Milan watching the uh fashion trends .
@@ -414,15 +460,19 @@ D : So we've had people in Paris and Milan watching the uh fashion trends .
 to --> 
 dialogue type : Inform
 D : The most important thing was that the thing sort of look and felt fancy rather than just functional .
+
 to --> 
 dialogue type : Inform
 D : And second , there should be some technological innovation .
+
 to --> 
 dialogue type : Inform
 D : And then third and l less important than the other two , there should be an ease of use as well .
+
 to --> 
 dialogue type : Inform
 D : And apparently , the fashion trends are that people want sort of clothes and shoes and things with a fruit and vegetables theme .
+
 to --> 
 dialogue type : Inform
 D : Um but um the feel of the material should be spongy ,
@@ -430,6 +480,7 @@ D : Um but um the feel of the material should be spongy ,
 to --> 
 dialogue type : Inform
 D : we need to emphasise the fancy design with on on our remote control above all else .
+
 to --> 
 dialogue type : Inform
 D : And then also try and add in technological informat innovation
@@ -441,9 +492,11 @@ D : which could be our sort of find the thing with a hand clap .
 to --> 
 dialogue type : Inform
 D : And then maybe find a way to incorporate these trends so that we sort of capture people's imaginations .
+
 to --> 
 dialogue type : Suggest
 D : So maybe we could make the buttons shaped like fruit and veg ,
+
 to --> 
 dialogue type : Suggest
 D : or the the buttons could be spongy , uh somehow .
@@ -455,9 +508,11 @@ D : And then sort of even wackier than that , we could maybe have a fruit or veg
 to --> 
 dialogue type : Elicit-Inform
 D : How how far we actually want to go along and sort of follow the trends ,
+
 to --> 
 dialogue type : Elicit-Inform
 D : do we think the trends are particularly important for this type of gadget ,
+
 to --> 
 dialogue type : Elicit-Inform
 D : or or you know , do they not matter that much ?
@@ -473,9 +528,11 @@ A : Well you were just talking about you've got to be careful how you shape your
 to --> 
 dialogue type : Suggest
 C : Maybe just one button ,
+
 to --> 
 dialogue type : Inform
 C : say the standby button is quite kinda separate from all the other functions .
+
 to --> 
 dialogue type : Suggest
 C : Maybe that could be a little apple .
@@ -499,6 +556,7 @@ A : If y if you change all the buttons then you've got the problem that this yea
 to --> 
 dialogue type : Inform
 B : I mean it just seems realistic that the remote control market isn't the kind of thing which takes in those kinds of fashion trends .
+
 to --> 
 dialogue type : Inform
 B : to something which is maybe more universal .
@@ -510,6 +568,7 @@ C : But I suppose as long as it's quite a subtle design ,
 to --> 
 dialogue type : Suggest
 B : Maybe the spongy feel is something we could think about , um .
+
 to --> 
 dialogue type : Suggest
 B : Maybe still with a rubber design we could
@@ -529,6 +588,7 @@ A : The m the main problem is how f how frequently do the fashions change ?
 to --> 
 dialogue type : Inform
 A : Whereas if you kept the product the same but you could have a difference from year to year , uh it seems to me that you could incorporate a fashion statement if you like , rather than changing the whole kit and caboodle .
+
 to --> 
 dialogue type : Suggest
 A : You're just changing one aspect like like the standby button or something like that ,
@@ -540,6 +600,7 @@ B : I suppose we maybe are limited in the fact that we still have to put the log
 to --> 
 dialogue type : Suggest
 B : Maybe we could think of the the cases like changing with the fashions
+
 to --> 
 dialogue type : Inform
 B : like the Nokia phones where you could take the casing off the outside .
@@ -555,6 +616,7 @@ C : But we are supposed to use the um company colour scheme , aren't we ?
 to --> 
 dialogue type : Inform
 A : You could have your company badge and logo .
+
 to --> 
 dialogue type : Inform
 A : I mean a lot of um computers for instance like like on the one you've got there , it actually has a sort of um stick on badge
@@ -566,9 +628,6 @@ B : And whether we'd have a big enough market to have this kind of like secondar
 to --> 
 dialogue type : Assess
 D : I'm not convinced on whether having changeable covers would be something that people would buy into .
-
-to --> 
-C : Okay , so if we just went for one colour of a rubber case
 
 to --> 
 dialogue type : Inform
