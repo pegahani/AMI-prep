@@ -1,0 +1,372 @@
+B : and uh
+B : Yeah. So I - I - the - the problem is that I actually don't know how th- these held meetings are held, if they are very informal and sort of just people are say what's going on and O_K.
+B : O_K. So I guess that what may be a - reasonable is if I uh first make a report on what's happening in Aurora in general, at least what from my  perspective.
+E : That  great.
+B : Yeah.
+B : And I said "well big surprise, I mean we could have told you that months  didn't  else  either,
+B : mainly  fair.  know  that."
+B : And of course uh the - it's not working on features  wish  that you provided better end point at speech because uh -
+B : or at least that if we could modify the recognizer,
+B : And so then ev- ev- everybody else says "well we should - we need to do a new eval-  evaluation
+B : without  voice activity detector, or we have to do something about it". And in principle I - uh I - we agreed.
+B : But  unfortunately nobody ever officially can somehow acknowledge that this can be done, because French Telecom was saying "no, no, no, now everybody has access to our code,
+B : Yeah well our argument was everybody ha- has access to our  had  access to our code. We never
+B : then you negotiate, or something,  right? I mean, if you find our technique useful, we are very happy.
+B : which probably is also true. I mean, you  know,
+B : uh what will be available th- is - will be a code.
+B : "so let's deal  with that". So I don't see the problem. The biggest problem of course is that f- that Alcatel French Telecom cl- claims "well we fulfilled
+B : if we are allowed to run uh uh new algorithms,  assume  fight  for that, really.
+B : uh but  u- u- n- u-  our  cepstrum
+B : gets uh - gets you twenty-one percent improvement overall  and twenty-seven improvement on SpeechDat-Car
+B : then obvious the database  - uh I mean the - the -
+B : uh the baseline  nobody  improvement.
+B : So they agreed  that uh there will be a twenty-five percent improvement required on -
+B : on uh h- u- m-  bad mis- badly mismatched -
+E : But wait a minute, I thought the endpointing really only helped in the noisy  cases.
+B : And so, so now  they want to say "we - we will require fifty percent improvement only for well matched condition, and only twenty-five percent for the serial cases."
+B : and suddenly you are saying "oh no we - we will do something less", but maybe we should discuss  other  people were not there because not everybody participates at these
+B : teleconferencing c- things." Then they said "oh no no no because uh everybody is invited. "
+B : However, there is only ten or fifteen lines, so people can't  even con- you know participate.
+B : uh I think QualComm is uh saying, too  yet.  try  once again, one more round."
+B : So this is where we are.  I hope that - I hope that this is going to be a- adopted. Next Wednesday we are going to have uh
+B : Yeah, that's what - that's a g- very  good uh point, because David says "well you know we ca- we can manipulate this number by choosing the right weights anyways." So while you are right but - uh you know but
+B : Uh yeah, if- of course if you put a zero - uh weight zero on a mismatched condition, or highly mismatched then - then you are done.
+B : want to make sure their criterion is -
+B : Uh it may be that - that - Eventually  it may ha- may ha- it may have to happen.
+B : and uh essentially there were these arbitrary
+B : Their argument there was the L_P_C model fits the peaks  noise.
+B : And I thought "well, that makes sense," but so far we can't get much - much out  of it.
+B : not - not - not much. Or even I was thinking about uh looking back into these totally ad- hoc  techniques like for instance uh
+B : uh the one way to uh deal with noisy speech is to add noise to everything.
+B : So. I mean, uh uh add moderate amount of noise
+E : I  see.
+B : effective, right? Because you already uh had  the noise uh in a -
+B : And it was working  these  think  about it, it's actually pretty ingenious.
+E : Yeah. So you're making all your training  uniform.
+B : Exactly.  And if - if then - if this data becomes noisy, it b- it becomes eff- effectively becomes less noisy basically.
+B : But of course you cannot add too  clean  recognition goes down, but I mean it's yet to be seen how much, it's a very simple technique.
+B : Yes indeed it's a very simple technique, you just take your spectrum and - and use whatever is coming from F_F_T, constant,
+B : the continuation basically of the - of the model into these parts where the issue  set to zero. That's what we want to try.
+B : I have a visitor from Brno. He's a - kind of like young faculty.
+B : And then  most of the effort is uh now also aimed at this e- e- TRAP recognition.
+B : Ah, you don't know about TRAPS!
+B : Yeah I mean tha- This is familiar like sort of because we gave you the name,  but, what it is, is that
+B : Uh so if you s- So, given the spectrogram  you essentially are sliding - sliding the spectrogram along the uh f- frequency axis and you keep shifting this thing,
+B : and you have a spectrogram.  time  trajectory
+B : of the energy at a given frequency ",
+B : and what you get  vector.
+B : And this vector  phoneme.  Namely you can say
+B : i- it - I will - I will say that this vector  will eh - will - will describe the phoneme which is in the center of the vector.
+E : But you have many  of those vectors per phoneme, right?
+B : Well, so you get many decisions.
+B : Because if you run this uh recognition, you get - you still get about twenty percent error - uh twenty percent correct.  uh -
+B : uh so it's much better than chance.
+B : which actually tell you that something is happening across  across  bands.
+B : It's uh uh uh I mean time T_zero is one  number,
+B : time t-
+B : It's just like shortened f- elements  of this vector?"
+B : Turns out they are  neighboring  ones, right? They - they represent the same - almost the same configuration of the vocal tract.
+B : So there's a very  high correlation. So the
+B : classifiers which use the diagonal covariance matrix don't like  de-correlating  them.
+B : And - and - and so on and so on. So we are learning quite a lot about that. And then another issue is how many vectors we should be using, I mean the - so the minimum  one.
+B : how to use at least the neighboring  band because that seems to be happening - This I somehow start to believe that's what's happening in recognition.
+B : Cuz a lot of experiments point to the fact that people can  split the signal into critical bands,
+B : then oh uh uh so you can - you are quite capable  of processing a signal
+B : in- uh uh independently in individual critical bands. That's what masking experiments tell you. But at the same  time
+B : That's why the articulatory events, which uh F- F- Fletcher  two,  relative  relation.
+B : Absolute  number doesn't tell you the right thing. You need to - you need to compare it to something else, what's happening
+B : but it's what's happening in the - in the close  neighborhood. So if you are making decision what's happening at one kilohertz, you want to know what's happening at nine hundred hertz and it -
+E : So it's really w- It's sort of like saying that what's happening at one kilohertz depends  around  relative  to it.
+B : To some extent, it - that is also  true. Yeah. But it's - but for - but for instance,
+B : recognition can discard  it.
+B : Hey!
+A : Hey!
+B : O_K, we need us another - another voice  here.
+B : Yeah, I think  so.
+B : so - so for instance if you d- if you a- if you add  noise  that normally masks - masks the uh - the - the signal
+B : the - the decisions you're making about a signal within a critical band. Unless  same  modulation frequency
+B : So the s- m- masking curve, normally it looks like sort of - I start from - from here, so you -
+B : you have uh no  maching  is increasing. And when you e- hit a certain point,
+B : So. But,  modulate  the noise, the masking goes up and the moment you start hitting the - another critical band, the masking goes down.
+B : that cognition can take uh
+B : But if you go too far  broad,  you are not increasing much more, so - so if you - if you are far away from the signal -
+B : uh from the signal f- uh the frequency  signal  is,
+B : then the m- even  the - when the noise is co-modulated it - it's not helping you much.
+B : So things like this we are kind of playing with - with - with the hope
+B : Like uh partially  of course we promised to do this under the - the - the Aurora
+E : Mm-hmm.
+E : Yeah.
+B : s- trying to find out what to do with these vectors, so that a g- simple Gaussian classifier would be happier
+B : I know that Naran- when last time Narayanan
+E : Right. Well, I mean, I've known other friends who - they - they go to Ind- they go back home to India for a month, they come back married,
+B : I know, I know, and then of course then what happened with Narayanan  was that he start pushing me that he needs to get a P_H_D because they wouldn't give him his wife.
+B : And she's very pretty and he loves her and so - so we had to really -
+B : Oh yeah. We had - well I  had a incentive because he - he always had this plan except he never told me.
+B : We were - after presentation we were driving home and he told me.
+B : Yeah. So I - I said "well, yeah, O_K" so he took another - another three quarter of the year but uh he was out. So I - wouldn't surprise me if he has a plan like that, though  -
+B : And S- and Satya  four  years served,
+E : So have the um - when is the next uh evaluation? June  or something?
+B : Uh there, we don't know about evaluation, next meeting  is in June. And uh uh but like getting - get together.
+E : Are people supposed to rerun their systems, or - ?
+B : Nobody said that yet. I assume  so.
+B : date for uh delivering uh endpointed data.
+B : And this uh - that - that sort of stuff.
+B : But I uh, yeah, what I think would be of course extremely  useful, if we can come to our next meeting and say "well you know
+B : we did  get
+B : but uh we can  get fifty percent improvement. Because people will s- will be saying it's impossible.
+E : Using your  uh voice activity detector?
+B : u- Yes. Yes. But I assume that it will be similar, I don't - I - I don't see the reason why it shouldn't be. I d- I don't see reason why it should be worse.
+B : Cuz if it is worse,  then we will raise the objection, we say "well you know how come?"
+B : Because eh if we just use our voice activity detector, which we don't claim even that it's wonderful,  one  of them.
+B : We get this sort of improvement, how come that we don't see it on - on - on - on your  endpointed data?
+C : I guess it could be even better,  because the voice activity detector that I choosed is something that cheating, it's using the alignment
+C : and only  the alignment on the clean channel, and then
+B : endpointed baselines? So they must have run already something.
+B : And Harry said " Yeah.  word  yet, that we have other - other things which we can try."
+E : Where's uh Guenter  going?
+B : Aachen University, but it's a good school and he - he's  happy.
+B : Yeah.
+B : yet, wi- with the current system. Which event- es- essentially I think that we should be happy  with because that - that would mean that at least people may be forced to look into alternative solutions and -
+C : I - I mean we are not too far  from - from fifty percent,
+C : from the new baseline.
+C : Yeah, because it de- it depends on the weightings  and -
+E : Hmm.
+C : Yeah, finally we - we've not finished  with this. We stopped.
+C : a big part of the experiments, but it's not, yeah, finished yet.
+E : So have you been running some new  experiments? I - I thought I saw some jobs of yours running on some of the machine -
+C : Yeah. Right. We've fff done some strange things like
+B : start putting every co- any  coefficient, which you are using in your vector, in some general power.
+E : In some what?
+E : You're compressing  range,  right? of that -
+B : Morgan was @@  and he was - he was saying well this might be the alternative way how to play with a - with a fudge factor, you know,
+E : Uh-huh.
+B : because we observed that uh higher parameters were more important than lower  for recognition. And basically the - the C_ze- C_one contributes mainly slope, and it's highly affected by
+E : Right.
+B : we had exponential lifter, or triangle lifter, basic  number of lifters.
+B : Insertions, deletions, or  the - the -
+B : The only of course problem is that there's an infinite number of combinations and if the - if you s- if y-
+E : Oh. Uh-huh.
+E : You need like a - some kind of a -
+B : I shouldn't be saying this in - on - on a mike, right?
+B : Or I - uh - I_B_M,
+B : but I wonder  if there isn't some way of doing this
+E : You know actually,  bad.  once,  right?
+B : Yeah.
+B : Absolutely.
+E : these exponents  are just applied to that - So.
+B : And hev- everything is fixed.  Everything  fixed.  Each - each -
+E : And is this something that you would adjust for training? or only recognition?
+B : For both,  you would have to do.
+E : You would do it on both.  So you'd actually -
+B : Or less  important, so that's - th- that's a - that's a painful one, yeah.
+B : You just may n- may need to c- uh give uh less weight
+B : You don't have to retrain  it.
+E : Oh. So if you - Instead of altering the feature  themselves,
+E : you - you modify the - the - the Gaussians  models.
+B : You modify the Gaussian in the model,  test  training  training  uh - in trained model,
+B : all you would have to do is to multiply a model  constant.
+E : But why - if you're - if you're multi- if you're altering the model,  test  data, why would you have to muck with the uh cepstral coefficients?
+E : No. But you're running  model.
+B : If you have a trained - trained recognizer, in the model, you know
+B : the - the - the - the component  dimension
+E : All of the - all of the mean and variances that correspond to C_one, you put them to zero.  Yeah.
+B : wh-
+B : To the s- you - you know  as  important, you multiply it by point one
+E : But what are you multiplying?  means,  right? I mean you're -
+E : I think  deviation
+B : Effectively, that's - that - that's - I - Exactly.  That's what you do. That's what you do, you - you - you modify the standard deviation as it was trained.
+E : Oop. Sorry.
+A : It's the same - same mean,  right?
+E : So by making th- the standard deviation narrower,
+E : uh your scores get worse  exactly  on  the mean.
+B : So in order - if you - in order to make dimension which - which Stephane  sees uh less important,
+B : you can multiply by w- you can - you can basically de- weight  it in the model. But you can't do it in a - in a test data because you don't have a model for th- I mean
+B : uh when the test  do  is that you put this particular
+B : component  compress  it.
+E : Couldn't you just do that to the test data and not
+E : do anything  training  data?
+E : Uh-huh.
+B : After  you train the model,
+B : de-weight
+E : if you wanted to try an experiment uh by leaving out
+E : say, C_one, couldn't you, in your test  data,
+E : the normal range of the Gaussian
+E : But what if you set if to the mean  of the model, then?
+E : And it was a cons- you set all  C_ones  coming
+E : in through your test  there  mean
+E : that your model  had.
+B : No that would be very good  match, right?
+C : Which - Well, yeah, but we have several  means. So.
+B : I see what you are sa- saying,  but
+C : Right?
+A : Saying.
+B : uh,
+C : Wait. Which -
+B : But what you can do, I'm confident you ca- well, I'm reasonably  centuries  is  what you can do, is you train the model uh with the - with the original data.
+B : Then you divide it by four and you take a square, f- fourth  root.
+B : Then if you think that some component is more - is more  important then th- th- th- it then - then uh uh i- it is,
+E : But don't  mean,  also?
+B : No.
+B : No.
+C : uh the - The variance is on - on the denominator  in the - in the Gaussian equation. So. I think it's
+C : maybe it's the contrary.
+B : Exactly.  Yeah. So you - so you may want to do it other way around, yeah.
+C : That's right.  O_K.
+E : for C_one had a mean of two.
+E : by squaring  it.
+E : of your C_one original data has -
+E : is four.
+E : But your model  two.
+E : expended the range,  mean  doesn't match anymore.
+B : Uh-huh.
+B : Yeah.
+B : You would have  to modify the mean in the model. I - you - I agree with you. Yeah.
+E : Yeah, so y-
+C : Well.
+E : But as a simple  could  just -
+E : just muck with the variance.
+E : to get uh this - uh this - the effect I think that you're  talking about, right?
+E : Could increase the variance to decrease the importance.
+E : Yeah, because if you had a huge  variance,
+E : you're dividing  you get a very small
+E : contribution.  Yeah.
+E : Yeah, you know actually,  pitch
+E : into the Mandarin  recognizer.
+E : And this particular pitch  algorithm
+E : when it didn't think there was any voicing,  zeros.
+E : uh when we did clustering,  we were getting
+E : groups uh of features
+B : p- Pretty new outliers, interesting outliers, right?
+E : with a mean of zero and basically zero variance.
+E : when ener- vectors  zero  great  score.
+E : I mean it was just, you know,
+E : incredibly high score, and so that was throwing everything off.
+E : So
+E : if you have very  really  matches.
+C : Mm-hmm.
+E : So that's a way, yeah, yeah - That's a way to increase the - yeah, n- That's interesting.
+E : So in fact,  that would be -
+E : That doesn't  require any retraining.
+E : So that  means
+E : it's just recognitions.
+E : Yeah.
+E : you modify  copy  rerun  whole  bunch of those.
+E : That  easily  I think, and you have a whole bunch of
+E : That's an interesting idea,  actually.
+E : For testing  the -
+E : Yeah.
+E : That's right.  now  memory  on that uh -
+B : And Chuck is sort of really fishing for how to keep his computer busy, right?
+E : the Linux  box.
+E : Yeah.  Absinthe.  Absinthe.  processors  on that.
+E : And two gigs of memory.
+E : Yeah.
+E : Exactly.
+A : Pretend, yeah.
+E : Yeah.
+B : Then you are sort of in this mode like all of those ARPA people are, right?
+E : Yeah.
+B : ty- I mean we are - we have a government contract. And they pay us by - by amount of computer time we use."
+B : It was in old days when there were uh - of P_D_P-eights and that sort of thing.
+E : Oh, my gosh!
+E : So he had to make it look like -
+E : Idle  time. Yeah.
+B : Nobody was looking even at what was coming out.
+B : Yeah, I know, right.
+E : So keyboard
+E : That's  experiment.
+E : Ugh!
+E : Yeah.
+B : but third  pub  there  anymore.
+B : And one day there was - there was no plane.  they  were sort of smart enough that they looked if the plane is flying there, right?
+E : And there wasn't?
+B : and -
+B : so they got in trouble.
+B : But.
+E : That  try.  up.
+B : But then of course one can then think about some predictable result to change all  of them. It's just like we used to do these uh - these uh - um the - the
+B : uh distance measures. It might be that uh - Yeah.
+E : Yeah, so the first  one  same.
+E : And - and do that for each one. That would be one  set of experiment -
+E : Wh- yeah, when the data matches  that,
+E : But there could  naturally
+E : Because I - Like, I've  cepstral  smaller,  right?
+C : They - t- Yeah. They have smaller means,  also.
+E : I mean, just naturally.
+E : Yeah.  Exactly.
+E : And so it seems like they're already  compressed.
+E : The range  of values.
+B : with a diagonal covariance when you knew  what all the variances were over the old data.
+C : Mmm.
+E : Any -
+B : uh more communication between - between uh uh center.
+A : Yeah.
+B : What - you know, nowadays, yeah.  It's actually do-able, almost.
+E : Is the um - if we mail to "Aurora- inhouse ",
+B : So we  do  that.
+E : Yeah we sh- Do we have  a mailing list that includes uh the O_G_I people?
+C : Uh no. We don't  have.
+E : Maybe we should set that up.  easier.
+B : Yeah. Yeah. And then we also can send the - the dis-  to the same address right, and it goes to everybody
+B : Because what's happening naturally in research,  know,  is that people
+B : essentially start working on something and they don't want to be much bothered, right? but what the - the - then the danger  is in a group like this,
+B : except which is not s- is not the same.
+E : Mm-hmm.
+B : Yeah because Intel paid us uh should I say on a microphone? uh some amount of money, not much. Not much I can say on a microphone. Much less then we should have gotten for this amount of work.
+B : uh not for training  whole  thing, including M_L_P, trained M_L_P is
+A : Yeah.  I mean, I remember when we were trying to put together all the ICSI software for the submission.
+B : That's what he was saying, right. He said that it was like - it was like just so  when,  and -
+C : Yeah.
+C : it's maybe not so easy to use it on another architecture.
+B : And uh in - otherwise  the Intel libraries, I think they are available free of f- freely.
+B : And -
+E : Does anybody have anything else?  to -
+E : you've ever done  turn,
+E : you say the transcript  number and then you read the digits,
+E : the - the strings  numbers  as individual digits.
+E : Sure.
+B : So this is scrap- transcript L_ one O_ one.
+B : eight five O_ seven two O_ five three eight
+B : one one eight five two eight seven five nine
+B : nine six one four five nine five zero zero
+B : eight eight two seven five eight seven two zero
+B : nine three four eight three six three nine six five four five
+B : eight two O_ eight four four one eight one O_
+B : O_ O_ two five eight six one eight six seven five one
+B : four three seven four four O_ two eight nine zero
+E : Transcript L_ one zero two.
+E : two nine five six four five two six
+E : seven six eight four three eight four nine one three
+E : four eight nine zero two five six four five two two three
+E : two nine two nine nine zero one three one seven
+E : eight zero nine two nine three six six zero zero
+E : five six seven four two one three three seven
+E : six six eight three three three two one
+E : zero three two six six nine one three seven nine nine one
+A : Transcript L_ dash one O_ three.
+A : seven six three seven seven seven three two
+A : two one nine two three four six zero six three one four
+A : nine four O_ eight five three six eight six two
+A : zero zero nine one eight seven six eight one eight O_ nine
+A : O_ O_ nine four three four five five three two
+A : seven one one one five O_ three one nine
+A : zero eight three two three zero nine five five
+A : four nine two two nine eight six seven eight six
+D : Transcript L_ dash one zero four.
+D : six nine five zero zero seven four nine zero
+D : nine one five zero zero five one six nine
+D : nine two nine nine one five one two zero seven
+D : eight five three eight nine zero three two one five four one
+D : two i- zero four one one three eight five five
+D : three seven seven five three nine nine eight one seven
+D : one zero five zero eight two seven s- two two six
+D : nine one eight six nine three two five two
+C : Transcript L_ dash one zero zero.
+C : one four nine five three six four nine six four
+C : three three seven three one three eight eight one one
+C : four eight one two zero zero three six one
+C : one zero seven eight eight six two seven six five
+C : six two seven one one four nine nine one
+C : six two three six eight two seven six nine one
+C : four two three six four one five five eight two eight three
+C : zero nine two three one seven five zero

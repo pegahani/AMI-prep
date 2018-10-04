@@ -1,0 +1,340 @@
+B : So I guess this is more  you  up to date, Johno.
+C : This  me.
+D : Did you add more stuff to it? later?
+D : I  don't know.
+D : There were, like, the - you know, @@  and all that stuff. But.
+D : I thought you - you said you were adding stuff but I don't know.
+B : Ha!
+B : What's the situation   like at the entity that is mentioned? if we know anything about it? Is it under construction?
+B : on fire or something happening to it? Or is it stable?
+B : @@
+C : So is - This is - A situation are - is all the things which can be happening right now?
+C : Or, what  is the situation
+B : That's basically just specifying the - the input for the - w- what's
+C : Oh, I  see y- Why are you specifying it in X_M_L?
+B : Just because it forces us to be specific about the values
+B : So, we will, uh -
+B : This is a schema.  This is -
+B : I mean we're sure  gonna interface to -
+B : We're gonna get an X_M_L document from somewhere.
+B : "We are  were  able to observe that w- the element,
+B : um, @@  car  near. "
+B : So that's gonna be -
+C : And then we can r- uh
+B : Yea- Are you talking - are you talking about the - the structure?
+B : I mean when you observe  a node.
+C : When you - when you say
+C : the input to the
+C : Which I don't think is this.
+B : No, it's certainly  not this.
+B : Nuh.
+B : X_S_L  Yeah.
+C : Yeah.
+B : I mean, once   - Once you have this sort of as - running as a module -
+B : Right? What you want  is -
+B : You wanna say, "O_K, give me the posterior probabilities of the Go-there node,
+B : when this  is happening."
+B : Right? When the person said this,  there,  raining,  and this is happening.
+B : And with this  you can specify the - what's happening in the situation, and what's happening
+B : with the user.
+B : And,
+B : all the possible outputs,  too.
+C : O_K.
+B : and not-going-there  posterior   probability,
+B : As, if I understand it correctly, it always  all  all  all  decision nodes.
+B : input  something,
+B : not  EVA  values.
+C : Yeah, wait  use - oh, uh  Yeah, O_K.
+B : list  of - of, um,
+B : what to do  with it,
+B : how to interpret  it,
+B : So y- you said if you - "I'm only interested in whether he wants to go  look  node,
+B : That  element or object,
+C : Not a C_Struct. That's not what I was trying to k- though  yeah.
+B : Let's look at an example.
+B : Yeah. w- We'd need to prune.
+C : Well, actually, you don't even need to do  that with X_M_L. D- Can't you just look at one specific -
+B : No-
+B : Yeah, exactly.  @@
+B : Xerxes
+B : But, we don't really know  complete  overall  result.
+B : we  want to know,
+B : o- on this? or know the location?
+B : Or does he want to go  there?
+B : Nuh?
+B : @@
+B : Do this in Perl.
+B : O_K .
+B : So.
+B : I mean. It's always  gonna give us a value of
+B : how likely we think i- it is that he wants  doesn't  want to go there,
+B : or how likely it is that he wants  to
+B : get information.
+B : But, maybe w- we should just reverse  little  delicate.
+B : So, does he wanna know where it is?  go  there?
+B : And i- if there's sort of a clear winner here,
+B : just know where, uh t- uh, he does  want to go there.
+C : into one smaller subnet?
+C : basically be
+B : Or Go-there. A lot of people ask that, if they actually just wanna go  there.
+B : You're gonna say - y- you're gonna say, g- "Go down that  way."
+B : I don't know whether I understand  Again,  this  -
+B : that person wants to go there now
+B : the nicest  cab,  or so s-
+B : wants to know it - wants to know where it is because he wants something fixed  there, because he wants to
+B : So, it - n- I mean - a- All  I'm saying is,
+B : whatever our input is,  we're always gonna get the full
+B : some  things
+C : this is another, smaller, case of reasoning in the case of an uncertainty,  which makes me think Bayes-net should be
+C : the way to solve
+C : But since we can only deal with a finite amount of stuff -
+C : Yeah, so basically take these three things and then put them   into another belief-net.
+B : But, why - why - why only those three?  Why not the whol-
+A : Is food not allowed in here?
+B : Yes, it is  allowed.
+C : As long as y- you're not wearing your h- your h- headphones.
+C : Well, I do- I - See, I don't know if this is a good idea or not. I'm just throwing it out.
+C : But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant
+D : O_K.
+B : Let's not forget we're gonna get some very strong discourse  things, right?
+B : Nuh?
+B : at?" Nuh?
+C : Oh!
+C : Oh, I'll wait until you're plugged in.
+C : Oh, don't  here.
+C : You know how you don't like that  one. It's O_K.
+A : Oh, do I not?
+C : That's  weird  one.
+C : That's the one that's painful. That hurts. It hurts so  bad.
+C : That headphone. The headphone that you have to put on backwards, with the little - little thing - and the little - little foam block on it?
+B : I think it's th- called "the Crown".
+C : Oh, wait, here it is. h- This  thingy.
+C : Excellent!
+B : We're discussing  this.
+B : Assume we have something  everything  fine?
+C : Did you just sti- Did you just stick the m- the - the - the microphone  tea?
+A : No.
+B : let's just assume our Bayes-net just has three  decision nodes for the time being.
+B : These three, he wants to know something about  where  is,  he wants to go there.
+C : This is - i- That's what you s- it seemed  like, explained it to me earlier w-
+B : Yeah. @@
+B : No, I can - I can do the Timing node in here, too,  and say "O_K."
+C : Well, yeah, but in the s- uh, let's just deal with the s- the simple  case of we're not worrying about timing or anything.
+B : Go-there has two values, right?, Go-there and not-Go-there.  that.
+A : Excuse me.
+B : has these  values.
+C : Oh, I  see why we can't do that.
+B : And, um, in this  case we would probably all agree that
+B : he wants  go  there. Our belief-net thinks he wants to go there, right? In the, uh, whatever, if we have something like
+A : Yeah.
+B : this like that  and maybe here also some -
+A : You should probably
+A : make them out of - Yeah.
+B : something like that,
+B : then we would guess, "Aha! He, our
+B : has s- stronger beliefs that he wants to know where it is, than actually wants to go there."
+C : I guess they are  evenly weighted.
+A : Well, d- yeah,  this is making the assumption.
+B : What do you mean  really  anymore.
+A : @@
+A : If we trusted the Go-there node more th- much more than we trusted the other  ones, then we would conclude, even in this situation, that he wanted to go there.
+C : Bayes-net.
+C : So is the only r- reason we can make  all these smaller Bayes-nets, because we know we can only deal with a finite set of constructions?
+B : I don't see your point. What - what - what I  am thinking, or what
+B : And now we need an expert system or belief-net or something that interprets  that,
+B : So, he wants to know something about it, and what it does.
+B : Nuh?
+B : Based on the k- what the question  was,  so what the discourse, the ontology, the situation and the user model gave us, we came up with these values for these decisions.
+C : that would take all   of the inputs and weight them appropriately for that question.
+C : see if I'm confused. Are we going to make a node for every question? Does that make sense? - Or not.
+A : Hmm.
+A : I don't - Not necessarily,  I would think. I mean, it's not based on constructions, it's based on things like, uh, there's gonna be a node for Go-there or not, and there's gonna be a node for Enter, View, Approach.
+A : @@
+B : @@
+B : And not  was  local,  because all of these factors have presumably already gone into making these
+C : Yeah.
+B : Because there are interdependencies,  right?
+B : for example, the Go-there  so  high, um,
+B : uh, w- if it's - if it has reached - reached  a certain height, then
+B : scoring pretty good on the true  true  value -
+B : He wants to go there and  know something about it?
+B : I think to some  are.
+B : Or maybe they're not.
+B : Well, if he doesn't  go  there,
+B : even if the Enter
+C : Wel-
+B : Enter  Info-on  is High.
+C : if we have a Ba- another Bayes-net to deal with this stuff, the only r- reason
+A : Yes, I mean. Sure. You do  need to know - I mean, to have that kind of information.
+B : Yeah, I'm also agreeing that a simple
+B : pru-
+B : Take the ones where we have  a clear winner.
+B : Prune those out and just hand over the ones where we have a winner.
+B : Yeah, because that would be the easiest   way.
+B : We just compose as an output an X_M_L mes- message that says.
+B : "Go there now."
+B : But in this  definitely  doesn't  want to go there. He just wants to know
+B : where  it is."
+B : or let's call this - this "Look-At-H-"
+B : gets a really high score, too.
+B : We can't expect this to be sort of at O_ point
+B : three, three, three, O_ point, three, three, three, O_ point, three, three, three. Right?
+B : Somebody needs to zap  that.
+B : There needs to be some  knowledge that -
+C : I just
+C : So  then,
+C : would have a node to tell you which one of those three you wanted, and based upon that node, then you would look  at the other stuff.
+C : Does that  make sense?
+B : You first look o- at the lowball  ones, and then -
+C : There was a  confusion there, k- I didn't intend to say every possible thing should go into the Bayes-net, because some of the things aren't relevant in the Bayes-net
+C : Like the Endpoint
+C : is not necessarily relevant in the Bayes-net for Where-Is  go  there or not.
+A : Like, if you're asked a Where-Is question, you may not even look - like, ask  for the posterior probability of the, uh, E_V_A node, right?
+B : Aren't we always  all?
+B : That's un-
+B : Mmm.
+B : computational  time. So either you
+B : always have it compute all  all  all  nodes, and then prune
+B : @@
+B : a priori
+C : So basically, you'd have a decision tree Go-there.
+C : If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ?
+A : I mean, it w-
+C : Well, in the case of Go-there, it would  true,  you'd wanna know what endpoint
+C : was. And if it was false,  you'd wanna d- look at
+C : either Lo- Income  Info-on or History.
+A : That's true, I guess. Yeah, would  have that.
+A : Well, hopefully it's fixable.
+A : It's - there's a -
+B : Um, by the way, are - Do we know whether Jerry and Nancy are
+A : They should come when they're done  stuff,  basically, whenever that is.
+C : What d- what do they need to do left?
+A : Jerry needs to enter marks, but I don't know if he's gonna do that now or later.
+C : She's on the email  list, right?
+B : Mm-hmm.
+B : Because
+B : where we also  have decided, prior to
+B : we would have a rerun  three
+B : sometime
+B : Believe it or not, we have all  bottom
+D : You added a bunch of
+B : We - we - we have - Actually what we have is this  line.
+A : Four  inputs.
+B : Four.
+C : I  see.
+B : Yep.
+A : Yeah.
+A : Sorry. Yeah, I'm confusing two.
+A : Yeah.
+B : all the ones to which no
+B : this, this, this, and so forth.
+B : just fiddle around with it a little bit more.
+B : edges.
+B : And, um, we won't  meet next Monday.
+C : Italia?
+B : On - on Friday.
+B : This - this  Friday.
+D : Oh. This  Friday?
+C : Ugh.
+B : This  Friday.
+A : Italy, huh?
+B : Do you guys - Oh, yeah. So. Part  want  surprise  back.
+B : Yeah? You - or have a finished construction   parser and a working belief-net, and uh -
+C : That  disappointing.
+B : Well, that's actually what I  personally.  you  lot  I  nothing.
+B : But, uh, i- do you guys have any vacation plans, because I myself  am going to be,
+B : this is actually not   weekend  we're going camping.
+C : Yeah, I'm wanna be this - gone this weekend, too.
+B : Ah.
+B : But we're all  Tuesday  again?
+B : And once we have finished  it,
+B : and that's going to be more just you and me,
+C : Killing machines!
+B : reasoning  machines.
+D : us three working on it, or - or - ?
+B : our final,
+B : definite  -
+D : So, when you were saying we need to do a re-run
+D : What - Like, just working out the rest of the -
+D : This  week?
+B : So, this  week, yeah.
+C : When you say, "the whole group", you mean
+B : And, Ami
+C : You  know.
+B : We  will.
+B : O_K. Because then, once we have it sort of up and running, then we can start   you know,
+B : Yeah, I can worry about the ontology interface and you can - Keith can worry about the discourse. I mean, this is pretty - Um, I mean, I - I - I hope everybody uh knows  that
+B : these are just going to be uh dummy  values, right?
+A : Which -
+B : S- so - so if the endpoint  Go-there  discourse  will just be fifty-fifty.
+A : Um, what do you mean? If  the Go-there says No, then the Go-there is -
+B : But, what are the values of the Go-there- discourse?
+A : Well, it depends on the situation. If the discourse is strongly  indicating that -
+B : Yeah, but, uh, we have  no discourse input.
+A : Oh, I  see. The d- See, uh, specifically in our situation, D_ and O_ are gonna be, uh - Yeah. Sure. So, whatever.
+D : Is that what the Keith  node is?
+D : O_K. And you're taking it out?
+D : All the D_ 's are -
+B : sk-  let's - let's call it "Keith-Johno
+A : Johno?
+B : an H_
+B : somewhere printed .
+C : There  you go.
+B : Yeah.
+A : Oops.
+C : Does th- th- does the H_ go b- before  after
+A : my  Before  the A_.
+C : O_K, good.
+C : Cuz you kn- When you said people have the same problem,  my  after  the uh e- e- e- the v-
+C : I always have to check,
+C : every time y- I send you an email,
+C : a past email of yours,  to make sure I'm spelling your name correctly.
+A : Yeah.
+C : I worry  about you.
+B : But, when you abbreviate   any  H_'s.
+A : "Basman"? Yeah, it's because of the chessplayer named Michael Basman, who is my hero.
+C : You're  geek.
+C : It's  K.
+C : How do you pronounce your  name?
+D : Eva.
+C : Eva?
+A : Not Eva?
+C : What if I were - What if I were to call you Eva?
+D : I'd probably  still respond to it.
+C : @@
+D : I've had people call me Eva,   but I don't know.
+C : No, not just Eva,   Eva.   Like if I u-
+C : take the V_  German  V_ ?
+D : Um, no idea  then.
+C : As long  K.  I mean, I might slip out and say it accidentally. That's all I'm saying.
+D : That's fine.
+C : Cuz even in people,  talking  construction.
+B : Or, if even  something Chinese, for example.
+C : What do you think about that,  Bhaskara?
+A : But how many constructions do - could we possibly have
+C : In this  system, or in r-
+A : No, we.  Like, when people do this kind of thing.
+C : Oh, when p- How many constructions do people  have?
+C : I have not
+A : O_K, so it's like in the thousands.
+C : The - Yeah.
+C : Any - any form- meaning  pair, to my understanding, is a construction.
+C : And form u- starts at the level of noun - Or actually, maybe even sounds.  Yeah.
+B : Phoneme.  Yep.
+C : the ditransitive  construction.
+A : Discourse-level
+C : Yeah.
+B : you know, you can probably  count -
+A : How's that? How it can be finite, again?
+C : Nah, I can't think of a way it would be infinite.
+B : Well, you can come up with new  constructions.
+C : Yeah.
+A : But, I mean, in the practical sense, it's impossible.
+C : Right. Cuz if we have a fixed number of neurons - ?
+C : So the best-case scenario would be the number of constructions - or, the worst-case  scenario is the number of constructions equals the number of neurons.
+C : But still
+C : finite.
+C : No, wait. Not necessarily,  is it?
+C : We can end the meeting. I just -
+C : Can't you use different var- different levels of activation?
+B : Turn off the mikes. Otherwise it gets really tough for the tr-

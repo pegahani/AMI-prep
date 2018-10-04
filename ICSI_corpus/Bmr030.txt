@@ -1,0 +1,270 @@
+C : Fourteen whatever.
+E : So, topic number one is, we got the N_S_F A_T_R - I_T_R , excuse me,
+E : and they, like, cut the budget by a th- by two thirds.
+E : So they - they approved  for  all the sites,
+E : Or, excuse  cut  it by sixty-two percent.
+E : So, uh, Morgan is, uh -
+E : And  immediately,
+A : Hmm.
+E : So, I mean, it's good  could  have been but it was, uh -
+D : Hmm.
+E : Yeah, it was specifically  on the meeting.
+C : Not  great.
+E : O_K, good. I liked  that one.
+B : Mapping meetings, or - ?
+E : Well, the - the sort of general  idea was, you can think about meetings at lots of different levels,
+E : all the way d- from all  the way down to acoustics to all the way up to dialogue, discourse, topic.
+E : And so this - this was, how do you map all that information  onto  that?
+E : So that the - the analogy  of  at  different resolutions.
+B : speech
+B : It might  have been. Yeah. We had to get some -
+E : She's a linguist on campus.
+A : I sent -
+E : Yeah, I got it. With the instructions.
+A : I guess  Morgan's leaving on Saturday?
+A : hear  something, but -
+E : Yeah, so I guess we ge- we had better be on call for a little while.
+A : It's just Alt Tab.
+E : Alt Tab.
+B : Yeah.  Yeah, he -
+B : No. He said  tried  that, but he didn't like it
+E : @@
+A : Well  -
+B : presentation mode.
+A : Well, because if you just touch Alt a- If you just hit it once?  it'll go back to the previous application.
+B : Oh!
+E : And - and all I said was oh just cycle through with Alt Tab because that's the standard way of doing it in Windows.
+A : Not
+E : But of course he doesn't use  Windows.
+D : Hmm.
+B : Oh, so what do you have to do? You have olt- Alt Tab and -
+E : Hold down at - hold down Alt, and then tap Tab several times and you'll cycle through all the open applications.
+B : Ah. O_K. And then it won't -
+E : That's  a good idea.
+B : How much memory  does he have?
+B : How much memory  does he have?
+E : It was faster than my P_C. So.
+B : So, are we  the only ones who are giving demo? Or is, uh,
+A : I could  @@
+E : I assume.  But they're all doing Communicator stuff.
+B : Oh!
+A : And it's part of the talk itself,  so it's really not a big part.
+A : @@
+E : I mean, the talk's  only twenty minutes.
+A : It's just gonna be a couple of
+A : I know. Right . Uh-huh.
+E : of screen time.
+B : Oh.
+A : But it's a good tool to have.
+A : The - th- the m- the meeting I_ R  stuff is actually -
+E : Actually, both  of them.
+E : help, my brain -
+E : prosody stuff anyway.
+E : we should talk to users  of that technology who are actually gonna be using it and see what they would like to see.
+A : Yeah, have you guys seen the display? Have you guys seen either of the demos? They're pretty cool, like -
+A : So you can see exactly where the overlaps are.
+C : And  - there's something like a median filter in it? or something? And uh, and it's - it's a linear fit or whatever. Yeah.
+A : @@
+E : you have to figure out how many pieces  you want.
+E : And so there's a trade-off  because the best -
+E : the best mean squared  fit would be with an infinite number of knots.
+E : Well, sure it is. But
+A : Well -
+A : Yeah. It -
+A : Yeah, I actually don't know off the top of my head.
+B : Was this code that you downloaded  to do this? Or was it -
+A : This was um, Kemal Sonmez at S_R_I,
+B : At S_R_I dot com?
+A : Yeah. Did I just -
+E : No, I - you said "at S_R_I" so I had   to add the "dot com".
+A : Oh.
+B : the implementation that you used was something that you  coded up here? Or you grabbed code from somewhere else?
+A : Uh, so that's what you  were working on, right?
+D : Right. That's the same software I used to get the data.
+C : Yeah, I m- didn't have time to - to look at that, so.
+E : So, other topic is, uh, the I_B_M
+E : transcription status stuff. So we've sent a few to them. We've gotten a few back.
+B : She said it was much  really  helped a lot to have that.
+B : No, f- no. So from the point where we  s-  take it, it's faster.
+E : Right. We knew  it would be longer to have multiple groups.
+B : @@
+A : Yeah, right.
+B : you know, if they can be working on that while we're working on the other things, then when we get them   in,
+A : Mm-hmm.
+B : Yeah, th- Right now it is taking a bit of time to turn around the meetings from I_B_M, part- There's - there's several  problems. One is, um,
+C : Fff!
+B : So either ninety minute or sixty minute tapes, so they  had to try to find an appropriate place to break this large file that we gave them.
+A : Oh. Well
+B : And then we can give those  to I_B_M and it'll make it easier for them to put them on tape.
+B : Um, then the other  thing is that these -
+E : Because I think that would be cheaper than having our  people do it, but do it with the same process with these beep files.
+B : Hmm, that's  an interesting idea.
+E : I mean, cuz, originally  I had disc-
+E : discounted  hard.  beep  files worked out.
+B : Yeah. So the only difference would be, we  I_B_M .
+B : we can send I_B_M the tapes or we can send this transcription  place the tape-
+E : And we might  anyway.  silly.  shouldn't  be a bottleneck.
+B : So, I don't know where the bottleneck was.  Was the bottleneck in breaking this large file up into the
+B : appropriate size chunks?  putting  tape?
+E : It may well have been partially  tried  bleeps,  But, uh,
+B : Exactly.
+E : do,  and that would just make things go faster.
+B : Yeah, so how do  do  that? How would we put -
+B : Line-out into the line-in on a tape player, and -
+B : Oh! Well, that  sounds pretty easy.
+E : So - I mean, that's the easy  set-up  at I_B_M. I've seen digital -
+E : digital analog tapes  where it's controlled by the computer.
+C : The easy
+E : But we  this  time.  So you would have to sit there for an hour while it's recording.
+B : Yeah. But if it was at your desk
+C : Yeah, but you - Yeah. Pfff. Yeah.
+B : Well,
+A : Should we be discussing this,
+B : Since we started  doing this new, uh, beep format with "beep number beep",
+B : uh, transcripts. They have a third  one and Brian just sent me a note saying "oh, that
+B : well, into the - the, uh, master sheet here with the statuses and I pick ones that Thilo has, um, pre-segmented, and I change the status to "Trans-_I_P I_B_M",
+E : Master.
+E : So -
+B : huge  chunks, right now, of meetings
+E : We should at least ask, um,
+B : for them, but -
+A : Mm-hmm.
+B : Yeah.
+C : Yeah.
+E : And that means - That - that's more of a problem because y- then you have to be  there.
+C : And all of the P_Cs are connected to the network, too,  bad .
+A : You're just talking about playing  it -
+B : So when that thing - When it stutters like that, is it because there's a delay getting the data off  a disk? Or is it because there's a delay in the D_ to A_?
+E : You know, it's a problem with these multi-user systems  is that
+C : But they are also  on the networks, so.
+B : Yeah.
+E : That's true. do  wanna be using a machine that's not -
+B : Hmm.
+B : get  one,
+B : and just dedicate it to doing this.  Not even hook it u- Well,
+E : Actually, it wouldn't be bad to have that,  plus put on that machine a C_D burner.
+B : We don't  machine  do  these things, right? So, one of these old
+B : Pentiums that we have -
+A : Hmm.
+E : real  question is, where would we put it and who would do it? I guess whoever records the meeting.
+E : I mean, it- it's not a big  deal, but it's yet another thing you have to do.
+B : That's why I wanted to avoid  do  could,
+B : It's just another -
+E : Actually there are a few - I saw a web-based  one at one point.
+B : Y- can you send them   huge  audio files?
+C : You can,
+B : Yeah.
+C : they never will be able to read
+B : That's  interesting.
+B : Well, that's true.
+C : Uh
+B : @@
+E : Yes.
+C : Send it via email.
+B : Yeah.
+E : And   are  compressed  ones, right?
+B : I don't know.  Wha- whatever you generate. Yeah, the last ones you did were compressed.
+E : Were "shortened". Yeah.
+B : Wonder if the ones before  that were shortened.
+C : It's all speech. Yeah. Yeah.
+E : I think it only saves, like, half.  Only.
+C : Only.
+B : Yeah.
+E : Give us a couple more wireless channels.
+B : Oh! That'll  be nice.
+A : next  week?
+C : Experiments? Yeah.
+E : Wha- what  did I have on the agenda I mailed out?
+C : These are  next week.
+A : The demo  them.
+B : Yeah.
+B : Oh, I made a -
+A : Mm-hmm.
+B : I'll either create a sub-directory for, like if it's Meeting Recorder project, or Hub-five or whatever. So we c- I just have to create those sub-directories, and
+B : Uh, D_E, which is where we're putting all the meeting stuff -
+E : No, D_E is full.  F.
+B : No, it's D_ E.
+C : D_ E,  I think, yeah?
+B : D_ E's  not full.
+C : D_ D  is full.
+B : Or, that was the last  one that w-
+B : And each meeting is roughly half
+E : Half.
+B : We're getting close.  Yeah. So.
+E : Shoot!
+B : Yeah.
+E : I just hate  data.
+B : Yeah, it feels funny, huh? If we have the capability.
+E : regular  ones.
+E : Yeah, the other  also  is once we exp- once
+E : So another option is to copy it to tape manually  and  the tape copy,
+E : the archive  back-up  them   off-line.
+B : Abbott is basically -
+E : Full.
+B : e- e- We can't add anymore disks  size  on  it, but that
+E : Well, that  tight  machine  room.
+E : Eesh!
+B : I think  he wants to sorta go with the same type
+B : Yeah, it's full in there. Have you seen it recently with all of the new
+B : machines that we got - uh, the SUN-Blade-one-hundreds? They're like stacked up on benches and things all over.
+A : Mm-mmm.
+B : It's really
+C : Oop.
+E : I assume they're in the P_make pool.
+B : Yeah. They're in the P_make  pool. So if you do a "reginfo minus show attribute", and
+E : P_make  P_make  customs  magic.
+C : Oh god.
+B : minus show-A_T_T_R".
+B : Yeah.
+B : Yeah.
+E : Ones that aren't  on people's desks.
+B : Well, there's sort  of. There's this one called -
+B : There's the attribute called "no-"
+B : is roughly  that.
+B : It's - Although it's like it- h- My  desk.  do  time.
+B : Sure.
+E : Transcript L_ three ten.
+E : seven eight nine, three nine, two one five O_
+E : five O_ five, four two three, one seven nine eight
+E : zero eight nine, zero three, one eight six seven
+E : three five six, two one O_, seven one one nine
+E : two six eight two, six, seven seven three
+E : two five nine O_, four seven seven, four six six three
+E : eight one nine, five six three, two one one
+E : zero, three two seven, seven six, six three O_, two.
+D : Transcript L_ dash three eleven.
+D : Two, eight O_ three, O_ seven, nine eight two, six.
+D : Eight three, two four, three eight, seven three, three eight.
+D : Nine one three, one three O_, eight eight six seven.
+D : Seven, O_ nine O_, O_ four, seven one one, eight.
+D : Zero, six six three, nine seven, six nine three, five.
+D : Two two five five, nine, one seven three.
+D : O_ eight six seven, nine three four, four three five seven two.
+A : Transcript L_ dash three-one-two.
+A : One six zero, six five, zero five seven one.
+A : Nine five one five, three nine eight six, one two nine one.
+A : Seven five, four four, two four, two eight, four seven.
+A : Four zero eight three, zero four five eight, eight seven nine zero.
+A : Five three seven, one one one, zero four nine one.
+A : Two four four, nine three seven, nine two one.
+A : Four seven, seven four, four two, three six, four seven.
+A : Zero zero, nine two, seven six, six one, eight five.
+B : Transcript L_ dash three zero seven.
+B : Six six three eight, O_ four O_ five, eight four six eight.
+B : Two O_ six, eight eight, seven three eight five.
+B : Six six three, one zero six, five eight seven six.
+B : Three nine five, five seven four, three three six.
+B : Six eight five zero, seven four eight seven, eight eight zero eight.
+B : Three four three zero, three five four five, eight four zero seven.
+B : Six two six, five five two, five two eight.
+B : Zero eight, zero five, two six, four eight, one six.
+C : Transcript L_ dash three O_ eight.
+C : Seven, three six two, eight five, nine four eight, one.
+C : Nine one four, four zero two, nine three three eight.
+C : Five zero, five five, three six, five eight, two one.
+C : One five eight, five one two, eight nine three.
+C : Six three two, two nine nine, five four four.
+C : Nine, eight two four, seven one, eight one nine, nine.
+C : Zero two five nine, eight, five one four.
+C : Six zero nine two, seven, three four five.
+E : And off.

@@ -1,0 +1,589 @@
+B : Right.
+B : Hence no problem.
+F : Let's see.
+F : So. What? I'm supposed to be on channel five?
+F : Her  Doesn't seem to be, yeah.
+B : Hello I'm channel one.
+D : @@
+D : Testing.
+F : Alright, I'm five.
+D : Sibilance.
+D : Sibilance. Three, three.
+D : I am three.
+D : See, that matches the seat  there.  So.
+F : Yeah, well, I g- guess  it's coming up then, or -
+D : Ergo, the classic off-by-one error.
+B : But mine  is correct.
+D : Is
+E : No.
+B : It's one.
+B : Channel one.
+E : Look at the back.
+D : Your mike
+B : Oh.
+D : Ho!
+D : I've bested  again,
+B : No,  paper's  correct.
+D : The paper  is  correct.
+B : Look at the paper.
+D : I didn't det- I was saying  microphone,  not  paper.
+C : Nnn,
+C : It's always offset.  Yeah.
+B : Yes, you've bested  again!
+C : probably not,  is my guess.
+D : Oh,  five  of us?
+E : Well, he - he was very affirmative in his way of saying he will be here at four. But you know, that was before he knew about that George lecture probably.
+C : This - this is not  -
+B : Forge ahead.
+C : Forge ahead, yeah.
+E : Cool.
+B : Are you  in charge?
+E : Sure.
+E : Well, I  informal  talks with
+E : most  C_B_T's being in the same order in the X_M_L as in the
+E : transversion .
+E : The - uh, Java - the embedded Bayes wants to take input - uh, uh, a Bayes-net - in - in some Java notation
+F : Actually, maybe I could try, like, emailing  the guy and see if he has any- something already.
+F : And put them into different formats.
+C : He charges so much. Right.
+C : No, I think it's a good idea that you may as well ask.  Sure.
+E : And, um, well top  hand parse is standing.
+E : Um. But we'll skip that.
+D : So the trees for -
+D : are written. So I just need to But
+C : You  me  a note
+C : I didn't finish the sentence  understood
+D : I  know what he's talking about.
+C : But Nancy  doesn't.
+B : Hiring somebody.
+E : O_K, so
+C : No.
+E : natural language generation produces
+E : but, a syntax  concept-to-speech.
+B : Mm-hmm.
+E : Now and this concept-to-speech module has if you get the following syntactic
+E : structure, how to map this onto prosodic   rules.
+B : Sure
+B : Mm-hmm.
+E : And Fey  rewrite
+E : uh, the German  syntax-to-prosody  rules -
+E : No, she doesn't.  English.
+E : Into English. And um
+E : therefore the, uh -
+E : if it's O_K that we give her a couple of more hours per week, then she'll do that.
+D : What language  written i- Is that that Scheme thing that you showed me?
+D : She knows how to program in Scheme? I hope?
+E : No, I - @@
+E : My  guess is - I - I asked for a commented version of that file?
+E : If we get that, then it's Festival.
+D : Like You know?
+C : Yeah.
+B : Mm-hmm.
+C : Anyway, it - We'll sort this out. Um.
+C : But anyway, send me the note and then I'll- I'll check with, uh, Morgan on the money. I - I don't anticipate any problem but we have to ask.
+C : Oh, so this was -
+C : You know, on the generation  thing,
+C : um
+C : if
+C : sh- y- she's really going to do  well.  So it'll say it's nonsense with
+C : perfect  intonation.
+E : Yep. We ha- we have  to change the voice.
+B : Wh- Which one?
+A : That's good to know.
+D : "I have your reservations."
+A : But I will not
+E : It is - Uh, we have the choice between the, uh, usual Festival voices, which I already told the SmartKom people we aren't  gonna use because they're really bad.
+C : It's the name of some program,  synthesizer.
+E : But, um
+A : You know, the usual party voices.
+B : Yeah, I know.
+E : type voices that are really nice and we're going to use gender,  if we want.
+E : Uh.
+D : Does O_G_I stand for - ?
+E : Oregon. Try Oregon.
+C : Oregon @@  Graduate Institute
+C : It turns out there's the long-standing  links with these guys in the speech group.
+B : Hmm!
+E : Hmm.
+C : In fact, there's this guy who's basically got a joint appointment,
+C : He's- spends a fair amount of time here. Anyway.
+C : Leave it. Won't be a problem.
+E : O_K. And it's probably also absolutely uninteresting for all of you to, um
+E : thereby increasing the number of running SmartKom systems in this house from three.
+E : Intuition. Maybe - maybe - maybe a bit for the A_I i- intuition thing.
+B : Will it work again,
+A : Yeah.
+D : Yeah.
+A : This is something you ha- you get used to as a programmer, right? You know, that way .
+E : Hmm.
+E : Yeah, that would work
+E : and what we know about that.
+E : Oh, but by - Uh, we can ask, uh, did you get to read all four hundred words? Was it O_K? Was it?
+C : I did.
+D : I - I wa- I was looking  logically.
+C : Yeah.
+C : Yeah.
+D : Yeah.
+C : You know, i- Yeah, it -
+D : Each
+A : It was written by committee.
+C : But c- the meeting  looks like it's, it's gonna be good.
+C : So.
+B : Yeah, I didn't know about it until Robert told me, like,
+C : Yeah, I - I ra- I ran across it in - I don't even know where,  you know - some just - some weird
+B : @@
+C : And, uh, yeah, I- I'm surprised I didn't  know about it
+B : Y- yeah. Well, yeah. I was like, why didn't Dan
+C : I- so I - I did  see that.
+C : Oh wha- Yeah. Before we get started on this st- so I also had a nice email correspondence with Daphne Kohler, who said yes indeed she would love to work with us on the, um, - you know, using these structured belief-nets and stuff
+C : but starting in August, that she's also got a new student working on this and that we should get in touch with them again in August and then we'll figure out a way for you - uh - you to get seriously connected with, um
+C : their group. So
+C : And it looks to me like
+C : we're now at a good point to do something - start working on something really hard.
+A : Oh!
+A : Hmm!
+B : Yeah, it's hard. Yeah.
+C : It's a hard puzzle. But  part  of it is the way they connect to
+A : Yeah.
+C : So all  linguists  cognitive  linguists know about, but then there's this problem of the
+C : belief-net  moderately  temporal  belief-nets.
+C : they incorrectly  dynamic  dynamic  doesn't  time  slices. And Srini used those and people use them.
+C : one of the things I w- would like  is to st- understand to what extent we can not only figure out the constructions for them
+C : uh sort of what the formalism will look like and where the slots and fillers will be, but also what that would translate into in terms of belief-net and the inferences.
+C : So the story  have  models,  principle,  should  be feasible
+C : to set them up in such a way that if you've got the past tense and the present tense and each of those is a separate belief  structure
+C : that they do their inferences with just  the couplings that
+C : are appropriate.
+C : But that's g- that's, as far as I can tell, it's - it's putting together two real  hard problems. One is
+C : the linguistic  part of
+C : what are  the couplings and - and when you have a certain, uh, construction, that implies certain couplings and other couplings, you know, between let's say between the past and the present, or any other one of these things
+C : and then we have this inference  work
+C : um, let's say one in - in, you know, different tenses or my beliefs and your  beliefs, or any of these other ones of - of multiple models. So
+C : you know, in the long run we need to solve both  of those and my suggestion is that we
+C : them both, uh, in a way we- that, you know, th- hopefully  turns out to be consistent, so that the -
+C : And sometimes  easier
+C : to solve two hard problems than one  constrain  each other. I mean if you've got huge ra- huge range of possible choices
+A : Yeah.
+C : um -
+C : We'll  anyway,  so that's, um -
+A : Did it - did it at once. So maybe - maybe it'll be a similar thing.
+C : Yeah.
+C : No, I know, I th- I- I think that is  gonna be
+C : the key  big  constructions  right is that
+C : people do  rules,  trees.
+C : And if we - if the formalism is - is good,  then we should be able to
+C : have, you know, sort of moderate  scale thing. And that by the way is - is, Keith, what I encouraged George to be
+C : talking with you about. Not  the formalism yet
+C : The p-  another  thing, um
+C : thing that Nancy  agreed to in a - in a weak moment this morning
+B : I was really
+F : Hmm.
+C : Uh, sorry. In a - in a friendly moment.
+A : Same thing.
+C : O_K? Probably skipping  the mental spaces part.
+B : Seems  -
+A : Right. I do.
+C : so that everybody has something to look at. We've talked  about it, but only the innermost inner group
+A : Knows.
+B : Yeah, and - and not even all of them really do. But like -
+A : Yeah.
+C : Right.
+A : There's - The group as a whole
+B : Right.
+B : Ah, communication!
+C : Communication, documentation and stuff. Anyway,  so, uh, with a little luck -
+A : So, uh, what was the date there? Monday or - ?
+A : It's a Friday.
+B : But, uh, but - but the two  of us will probably talk to you at well before th- I mean.
+A : End  of n-
+A : Yeah, I have a busy weekend but after that -
+A : Yeah, gung-ho.
+A : Great,
+C : You know, if you say we're - we're dump - dump - dump .
+C : There's a really  hard problem we haven't solved yet - that, that's just fine.
+B : Mm-hmm.
+C : Right, t- t- if - to the extent that we have  write  it
+C : and to the extent we don't,  do.
+E : Can we - ?
+E : thinking of an example out of our
+E : tourism thing domain, that involves a - a - a decent mental or setting up -
+B : Right.
+A : Uh, what was supposed  other  ones, so, um, you know, I don't have a write-up of -
+E : Hmm, yeah. I think - I think we already came
+E : to the conclusion that we have two alternative paths that we -
+E : um
+A : It's gone.
+E : um
+E : So assume these are two, uh, nodes we can observe in the Bayes-net. So these are either
+E : true or false and it's also just true or false.
+E : If we encounter a phrase such as "where is X_?", should that set this  and  likely?
+E : this,  false,  actually  now means - ?
+C : Uh w- that's a s- O_K, so that's a - that's a separate  issue. So I a- I I th- I agree with you that, um, it's a disaster to try to make separate constructions for every
+C : reading, although there are some  be  there.
+B : Good.
+B : Mm-hmm.
+B : Or have every construction list all the possible pragmatic implications of the same one. Right.
+B : Very
+A : So right, this one is maybe in the gray area. Is it - is it like that  or is it just sort of
+E : One
+E : Or in some cases, it's - it's quite definitely  just  know - wanna know
+E : where it is.
+C : And I guess, see, the more important  this  stage is that we should be able to know how we would handle it in ei-
+C : f- in the short  run it's more important to know
+B : Which one it is.
+A : Which of that is. Yeah, O_K
+C : right now.
+C : W- we know for sure  both.
+C : In the short  run, let's - let's
+C : be real  clear on h-
+C : what the two alternatives would be.
+E : we had another idea floating around
+E : But the nice  would  work  Gurevich   who is going to be visiting us, uh, the week before, uh, August
+E : And she would like to
+E : back to the old Johno observation that if y- if you have a dialogue history and it said
+E : the word " admission  fee"
+E : um, it's more likely that the person actually wants to enter  than just take a picture of it
+E : Now what could  really  stupid way.
+E : Then there is the clever  Keith  middle  I'm  get  X_ , which is whatever, the castle.
+E : and look up those  through the dialogue history and check dynamically
+E : But Keith suggested that a - a much cleaner way would be - is,   know  before,  this just a- continues to add up, you know, in th- in a -
+C : Yeah.
+C : Yeah. So that's certainly psychologically.  technically
+C : Um
+D : I mean, cuz it would - the - the thread would know what nodes automatically load it in.
+C : You could  do that. Um.
+C : here's - here's a way - in th- in the bl- Bayes-net  think  about it this way, that if
+C : um enter.
+B : Turn prior on
+B : It would already be higher in the context.
+C : So at the time you mentioned  it -
+C : In some ways it's not as good but it's got.  have  a connectionist implementation.
+C : Now my guess  not  a question of time but it
+C : is a question of whether another mentioned.
+C : I mean, we could look at dialo- this is - Of course the other  thing we ha- we do is, is we have this data coming
+C : which probably will blow all our theories, but - probably  will happen,
+C : Here's a - here's a proposed design.
+C : and
+C : the, uh, standard  thing.
+C : And so it could  when another
+B : Renew @@
+C : re- re- essentially re-initiali- you know, re-i- essentially re-initialize the state.
+C : And of course i- if we had a fancier  one with multiple worlds
+C : someone was uh
+A : "Here's my plan for today. Here's my plan for tomorrow." hypothetically.
+C : Uh, tal- so I'm talking about shopping  and then you say, uh, you know, well, um
+C : "What's it cost?" or something. Or - Anyway.  yet.
+C : But I do
+E : How much is, uh - I would like to whatever, something completely different, "then I go to, you know, Point Reyes",
+E : it - it's not  anything,  rejection  of entering
+C : Right.
+B : Right.
+C : Right.
+A : Yeah.
+C : Well, and - and - and the simple  idea is that it's on- it's only for m- for the current
+C : uh, tourist e- entity of instre-
+A : Yeah.
+E : Yeah. But that's -
+E : I mean this - this function,
+C : When th- When the - this is mentioned,  the
+B : Of that
+C : changes.
+C : Yeah.
+C : Now, uh - But I think Ro- Robert's right,  determine  that,
+C : Does  have  implications  decisions? "
+C : does  computation.
+B : So, sort of forward chaining in a way, rather than backward. O_K.
+C : Yeah.
+C : But - but what's Robert's  saying is - is,
+C : and I think he's right,
+C : is you don't  itself
+C : all the synonyms and all - you know, all the wo-
+C : maybe.
+C : I'll have to think  that.
+C : I can thi- I can think of arguments in either direction on that. somehow  you want to do it.
+E : Mm-hmm.
+E : or changing of the
+B : I don't know, I mean -
+D : What - uh, what's the argument for putting it in
+C : you've recognized the word,  lexical   construction for it, so you could just as well tag
+C : probability of entering.
+C : You - So you could - you could - you could invert - invert  that  the lexicon since you
+D : Oh, I  see.
+C : had to recognize it anyway.
+C : That  - that's the argument in the other direction.
+C : at - at -
+C : Yeah, and this is -
+E : Even though uh the lexical
+E : uh, won't do
+E : "But I- but I'm not  interested in the opening times"
+B : Yeah.
+E : is sort of a- more a V_ type.
+E : Yep.
+E : So.
+E : @@
+E : This   a  s-
+E : I think it's also something that people have not done before, is
+E : If we wanted  function   Jan   to put it in there.
+C : O_K.
+C : You've noticed  that.
+E : keeping on good terms with  Jan.   Yeah.
+C : O_K.
+C : So the point is, it's very  likely that Robert's thesis is going to be along these lines, and the local rules are
+C : if it's your  you  get to decide how it's done.
+C : O_K. So if, you know - if this is - seriously,  your  this  way, that's the way it's done.
+B : Yay, it's not me.  me  when it's someone's thesis.
+C : No,  lot  of theses going.
+B : Now it's not. Yay! so
+A : There's a few
+C : Right.
+E : Then we'll see how f- f-
+E : Yeah.
+C : Um.
+C : Yeah. So I think in fact,
+C : That's the other thing. uh, this is - this is,
+C : speaking of hard problems, very  good time
+C : per- se
+C : ends  clearly  part  of th- Huh?
+B : Yeah, we've - we've done quite  We've been doing quite a bit of that.
+A : Yeah.
+C : Well I said.  But that's part of what the f-
+B : We have many jobs for you, Ro- Robert. The conclusion.
+C : Well, he's gonna need  this.
+C : Right. So. in  it
+B : No, you weren't  purpose.
+C : Yeah.
+B : Obviously.
+C : Right. Well I - That's tentative.  proposals.
+B : No,  decisions.  O_K.
+A : Yes.
+C : Yeah, that - That's  the point, is - is th-
+E : Constraints.  Let's call them constraints, around which one has to -
+B : Actually, yeah. There's a problem with that word, too, though.
+C : Yeah. Anyway. But so that's that's w-
+D : Yeah, but it - he- the decisions I made wer- had to do with my thesis.  So consequently don't I get to decide then that it's Robert's job?
+C : No.
+A : Anyhow.
+B : Well, I'll just pick a piece of the problem and then just push
+E : I've always been completely in favor of consensus decisions, so we'll - we'll find a way.
+B : I can -
+C : Right.
+B : I
+E : It - it might even be say that I should be forced to
+A : Always good.
+C : Right.
+E : That metaphor is not going anywhere, you know.
+B : I didn't get
+E : Ha- None  of that is basically still around, but it's -
+C : D- i- @@
+A : That's normal.
+C : I - this is - I'm shocked.  first  change.
+B : Really?
+C : Right. Anyway,  great.  So, uh, a sec- I mean you're gonna need it anyway.
+E : Yeah, and I would like to d- discuss it and, you know, get you guys's input and make it sort of bomb-proof.
+B : Oh! Oh, O_K.
+E : Bullet-proof.
+E : That's
+C : Both proof .
+C : Right.
+C : th- the draft of the p- proposal on the constructions  lot  construal.
+C : And, um, we oughta be doing  it.
+E : Um.
+B : @@
+E : one  for a while.
+E : I just talked to Ami. It's- it's a coincidence that he can't  couldn't  here.
+B : @@
+C : And the N_T_L meeting moved to Wednesday,
+E : Yeah, it was just an exception.
+E : Mmm. Yeah.
+E : And, um. How do we feel about doing it Wednesdays? Because it seems to me that this is sort of a time where when we other  people, there - they seem to be s- tons of people around.
+C : The only disadvantage is that it may interfere with other
+C : s- you know, other - other - No, you - Uh, people in this  group connecting with - with
+B : Those people who
+C : those people much.  I  don't care. I- I- uh
+A : To tell you the truth, I'd rath- I'd, I'd - would like to avoid more than one I_C_S_I meeting per day, if possible.
+C : No, that's fine.  I mean that -
+E : The - I'd like to have them all in one day, so package  them
+C : Well p-
+B : Yeah.
+C : Yeah. @@  too.  I'm basically - I'm here. So.
+E : Well, if - one sort of thing is, this room is taken at - after three-thirty pr- pretty much every day
+E : by the data collection. So we have subjects anyway  one.
+B : Oh.
+E : I would suggest that we need to - to talk -
+B : Oh, oh, O_K.
+E : No.
+E : the - s- meeting recorder meeting meeting meeting recording on meeting meetings -
+B : O_K. Yeah.
+E : So.
+C : Interesting.  Tuesday.
+A : Ah, yeah.
+B : Well, we're  usually  two.
+D : Would it -
+E : I mean w-
+E : Well, actually we- w- we- we did  Monday  Bhaskara  couldn't
+B : Hhh. do  need a Palm Pilot.
+E : come Monday. So there's - Nothing's  Monday  either.
+D : Although I thought you wanted to go camping  camping.
+E : Yeah, that's another s- thing. Yeah.
+E : I mean
+B : Usually?
+E : Sometimes  it works out that way.
+B : Well, I mean, the linguists'
+A : That should be relatively flexible be-
+A : Yeah. There's just sort of the
+B : The multiple meetings yeah.
+A : And, you know, of course Nancy and I are just sort of always talking anyway
+B : Yeah.
+E : O_K, so other  problems w- w- w- ?
+E : But, I  suggest
+D : Ha-ha-ha.
+C : O_K.
+C : earlier we - At least for next week, there's a lot of stuff we want to get done, so why don't we plan to meet Monday and we'll see if we want to meet any more than that.
+B : At o- o- o- o- one, two, three - ?
+E : Three's  too late. Two-thirty?
+C : Oh, I i- I  Two  is the earliest I can meet on Monday.
+C : Here I'm blissfully  do  have some stuff scheduled on Monday.
+B : You guys will still remind me, right?
+B : Y- you'll come and take all the - then  remind me.
+B : Why do I have this unless I'm gonna write ? Fine.
+E : do I get to see th- uh, your formalism before that?
+B : Yes.
+B : O_K. I was actually gonna work on it for tomorrow - like this - this weekend.
+E : notion  of what - what you guys have in store for me.
+C : Well m- @@  you know, w- maybe Mond- Maybe we can put - This is part of what we can do Monday, if we want.
+A : Alright.
+B : Yeah,  I  know.
+B : you  you  know, that - you know, see if they're consistent.
+B : I might - I might - um, s- You said you're busy over th- until the weekend, right?
+B : That's fine. So we might  continue our email
+B : thing and that might be fine, too. So, maybe I'll send you some -
+E : So the idea is on Monday at two we'll -
+E : we'll see an intermediate version of the formalism for the constructions, and do an on-line merging with my construal ideas.
+E : So it won't be, like, a for- semi-formal presentation of my finalizing that proposal. O_K, that's fine.
+B : Cuz then you'll find out more of what we're making you do.
+D : Hmm, hmm.
+E : Yikes.
+A : Oy, deadlines.
+E : Perfect.  Can you also write it up?
+B : It's like, "this is what we're doing. And the complement is Robert."
+B : O_K.
+B : my bib file. So.
+E : Sounds good.
+C : Mm-hmm.
+A : Because probably  work.
+C : O_K? So let's think of a name for - for whatever the - this intermediate structure is. Oh, we talked about semspec,  for "semantic spec- specification" and that seems -
+C : Um.
+A : It's more general @@
+B : Only have to change one vowel. That's great. All the old like graphs, just change the - just, like, mark out the -
+C : Right, a little substi- substi- You know, that's what text substitution
+A : Yeah. It's good  for you.
+C : uh macros are for. Anyway, uh, so let's - let's for the moment  call it that until we think of something better.
+C : Part  missing  sorts  that weren't in there, incl- including the questions - We didn't - we never did figure out how we were gonna do emphasis
+B : Yeah, we've talked a little bit about that, too, which -
+B : uh, uh, it's hard for me to figure out with sort of
+B : O_K, yeah, understood.
+B : You have preliminary data? Cuz I know, you know, we've been using this one easy sentence
+B : and I'm sure you guys have - uh, maybe you are the one who've been looking at have it a little bit more
+B : Mm-hmm mm-hmm.
+A : And I have not  gotten them out of the way yet. Surprise. So, um.
+B : Mm-hmm.
+B : Yeah.
+A : run with that,  you know, try and do some of the sentence constructions now. It would make sense.
+A : uh formulate this.
+E : So Mary fixed the car with a wrench.
+E : So you perform the mental sum  who  fixed the car with a wrench?"
+E : You basically are told, to - to do this
+E : someone  what that, you know,
+A : Means.
+E : means, and then who  that someone was.
+A : uh, indefinite pronouns like "someone fixed the car" because lots of languages, um, have W_H questions with an indefinite pronoun in situ or whatever, and you just get intonation to tell you that it's a question.
+B : Use actually the same one.
+A : So it makes sense
+C : Skolemization.
+C : In - in logic, it's - it's - @@  it's actual- Huh? What?
+B : Right. Skolem constant in, yeah.
+A : shko-
+B : Yeah. Right.
+C : That- that's not - that's not saying it's bad,  it's just that -
+A : Uh, no, all the focus stuff. We sort of just dropped that cuz it was too weird and we didn't even know, like, what we were talking about exactly, what the object of study was. So.
+B : Um-mmm.
+E : do  background
+E : get me  into that because - I mean, I wo- I w- scientifically worked on that for - for almost two years.
+A : Yeah. w- We should figure out what our questions are, for example, to ask you. So.
+B : O_K.
+B : He's  been around.
+B : Eh. with us? Yeah. I would say that tha- that those discussions have been primarily, um, Keith and - Keith and me,  but um
+B : like in th- the meeting - I mean, he sort of - I thin- like the last  um
+A : Sometimes Hans has been sort of coming in there as sort of like a at  right now, so it's
+B : Like - like what you call  certain things, which we decided long ago we don't care that much right now.
+B : But in a sense, it's good to know that he yet  a word like "constraint" causes a lot of problems.
+C : O_K. This is consistent with
+B : And, so. Right. So.
+C : the role I had suggested that he - he play,
+C : O_K, which was that
+C : these linguists this stuff at all.
+C : So could
+C : So, internally,  whatever works, cuz it's hard enough.
+C : But if he g- if he turns - is - is really gonna turn around and help t- to write this version that
+C : does  other linguists in the world
+C : um
+C : then  use
+B : Mm-hmm. Sure.
+C : make it hard  plenty  worse.
+C : So.
+A : No, right. I mean, tha- that role is - is, uh, indispensable but that's not where sort of our heads were at in these meetings. It was a little strange.
+C : I have to catch up with him,  and I wanted t- to get a feeling for that. O_K.
+B : when we're into data  German,  in particular, whatever,
+B : that's great,  more  more  to say than, let's say, I would about some of these things.
+B : But when it's like, well, w- how do we capture  these things, you know, I think it's definitely been Keith and I who have d- you know, who have worried more about the -
+C : Well, that's good. That's - I- I- I think that should  be the -
+C : the core group um
+C : that's, you know, I think very  close to the maximum number of people working together that can get something done.
+A : Yeah.
+B : Yeah  have  have
+C : I - I - I - I definitely  get that impression. Yeah. That's great.
+B : So anyone else would like uh Anyway.
+C : Well, but - Well.  back  to the bigger group.
+C : Yeah. other  actually implementing this stuff?
+B : I was just gonna say, though, that, for instance, there was - you know, out of a meeting with Johno
+B : came the suggestion that " oh,
+B : could it be that the aren't  effects  bindings.
+B : Which so  type  haven't  yet given me - you know, we haven't yet thought of a reason that that wouldn't work.
+B : Right? As long as we allow our type constraints to be reasonably complex.
+B : So - Anyway,  to be - to talk about later.
+C : Yeah, it has  to in the sense that
+C : you're gonna use them eventu- it's - you know, it's sort of a, um, generate and test
+B : Mm-hmm. Mm-hmm.
+C : kind of thing, and if you over-generate  some  constraints that you hold back and don't use
+B : Mm-hmm. Mm-hmm.
+C : then you'll match some things - I mean, I - I d- I don't think there's any way that it could completely  fail. It - it could be that
+C : The original bad  idea of purely context-free grammars
+C : died because vastly  too many parses.
+C : You know, exponentially  concern  totally  fail, but that -
+B : That it would still
+B : Right? So by just  just  in the form of j- semantic types, right? Like
+B : might still
+C : No question. Yeah. And I think it's a - it's a perfectly  start.
+C : You know, and say, let- let's see how far we can go  this way.
+B : Mm-hmm. Mm-hmm.
+D : Well it definitely  makes the problem easier.
+C : I'm - I'm in favor of that.
+C : Uh, cuz I think i- I think it's - As you know, I think it's real hard and if w- if we - Right.
+B : So Friday, Monday
+B : Monday. So. O_K, that's - Tuesday.  th- that's the conclusion. O_K.
+A : Yeah.
+E : So, you- your dance card is completely filled now?
+D : Mm-hmm.
+E : Why don't  -
+B : Yeah, and I have nothing  to do this weekend but work.
+A : Bummer.
+F : @@
+B : Oh, I don't have it this weekend, so, tsk
+B : - I can't believe I'm - It's a - it's like a game, but it's for, like, dancing. Hard to - It's like karaoke, but for dancing,
+A : @@
+B : and they tell you what - It's amazing. It's so  so  so  so
+C : I do.  @@
+C : Although I - God knows I - I - I could use something like that. @@
+B : I can't wait to hear this.
+B : Oh, definitely.
+B : Oh, oh, Dance Dance Revolution - O_K. Anyw-

@@ -1,0 +1,229 @@
+E : One two three four five six - I'm on seven.
+C : It's probably the P_Z_Ms.
+F : Yeah.
+A : uh, Crown mikes. I  do. I l- I think - I find them very comfortable. Uh, but it seems to depend on your head shape.
+B : Who does?
+E : I prefer  these, but I don't mind using those.
+B : O_K.
+A : People who show up late have to use these.  So,
+A : Sony  mikes.
+A : Just two more of those,  um. And that - that's easy and that will certainly work.
+A : Find one we like and potentially get six,  same.
+A : Um, these  are better, if they're worn correctly.
+C : Have you listened  them?
+A : So, I mean, they're not  lot  are  little  better.
+A : I don't know, but - you know, in - in sort of random polling
+B : L- Liz - Liz said something that leaves me believing that nobody  likes them.
+F : Gosh, cuz I much  prefer them, I think they're a whole lot, multiple levels, better.
+F : It seems a shame t- to discard - discard  them if - if they're better auditory quality and there're only a few people who dis- who object.
+A : Should we get just more Sony  hate  Sony  ones.
+A : pinches the temples  too much.
+F : And -
+A : I mean, so, if you wear  back,  too  bad.
+F : I hate it because it's hard to adjust the microphone.  still  not
+A : But then we have the wiring issue, and - what  to do. What do - what do people think?
+C : But the problem is again the - the plug, or - ?
+A : The plug is proprietary. So that's why I was saying getting more Sony  ones is trivial, because we can just go out and buy them. Any other ones we have to buy them in pigtail versions and get them wired.
+F : O_K, n- now may- maybe I just don't know this but, um, are the only two possibilities from Sony  tried?  Or is there another -
+A : So, the only possibilities from Sony are that  one and the lapel mike.
+E : Well, it s- It seems like right now  those,  these
+F : O_K, it's just - I'm just thinking that if - it'd be - yeah, but I know - but I mean to have the user
+A : No, no, we definitely would not  have the user fill it out. It would be me, Chuck, or Liz, depending on which meeting it is.
+E : Oh that's way  more than I thought. I - yeah.
+D : For one of these?
+A : Well the Crown  those  are like one-ninety.
+C : Oops.
+E : Is there any educational discount?
+A : Yeah right.
+A : No.
+E : And when I was at Computer Motion we used Shure, the S_M-ten-A's, and I think  bucks  or something.
+A : I mean, the Sony  ones are expensive because they're proprietary, so they can charge whatever they want. These are expensive because they're quite high quality. So.
+A : So we should buzz that out if we send the data to Sony.
+F : We should keep a list of things we're gonna bleep out and the conditions under which -
+A : So, you do not  have to bleep that out. I don't mind if Sony knows my opinion. So.
+A : Also, we're pro- I wanna double check with Morgan, he did  before  I went to Japan on buying another wireless system so that we can go all wireless, instead of the mix of wired and wireless. And I think that's the right thing to do.
+D : Uh-huh.
+A : And also I'm gonna re- probably  replace the Andrea mike with a Shure, but I'll test it, uh, sometime today or tomorrow to make sure the Shure one really works, cuz I have an extra Shure in my office.
+C : Yeah.
+F : Yeah that's right, we gotta get the obligatory door-slam.
+F : I guess, right, the door-slam phone.
+A : And then we could have the phone  phone,
+F : That's an idea.
+A : This is something we were talking about before  after  back,  and now I'm back, so, we should do that at some point. So we should
+A : Well, O_K, you mean it's built into the S_R_I, because we have the same thing with shorten in the sound  tools.
+B : Y- uh, I guess,  but it
+B : And actually, s- the sound tools don't  understand that.
+B : At least Feacalc  doesn't. So.
+D : to my eighteen gig disk,  which is local.
+B : But that's gonna be only temporary.
+B : Oh, now I have another use for the -
+B : uh wavefile and the new
+B : wavefile, and then - Oops! And then I check, you know, if this works, so, you can use the -
+B : almost finishing the processing, that I was running out of disk space.
+A : Shortening everything on the fly.
+B : while this other thing was still going on,  this
+B : And low and behold I gained three g- three gig of space and um, you know -
+B : No, no. Actually it was fast enough. This is very fast. This - this really runs quickly. And that's -
+F : That must have been suspenseful.
+A : Watching the disk meter.
+B : That was very  suspenseful.
+D : To be O_K.
+A : Yep, the way Feacalc   - calc does it.
+B : Right, the - the only reason we do this is because the - the S_R_I front-end doesn't have a way to - to um
+D : And segment on the fly.
+B : someone could try to put a hack like that into the -
+A : And that way we wouldn't have multiple versions floating around. About the only difficulty with that is if it's compressed.
+A : Then you really do  first.
+A : And yeah I mean, that - it -
+B : If you don't  segment  compression,  because you don't have that wasted -
+B : that extra copy.  So.
+E : Right we - I mean the original Switchboard  are.
+B : I mean, the segmentation also saves  nonspeech  regions.
+A : No, it was - I was still here. It was the day I left.
+A : No if I - if I had done it on purpose I would have timed it right after
+F : And it's conceivable I mean, I - I don't - I mean, so um, I was told that it's possible  that that might have, uh, caused additional wear on it. Maybe caused it to - to go bad sooner.
+A : Well, I think there was something else going on, because uh Dave Johnson said that D_D was getting accessed frequently.  shouldn't  be.
+E : Yeah, there was  something weird about that.
+E : to the backup  software, as if they had been written,
+E : you know, every single night,
+E : i- for - f- you know, a week in a row,  which is really weird.
+F : That's very  strange. I didn't realize that. O_K.
+A : So at any rate, so for file reorganization we need to first  decide what we're gonna do and then when we're gonna do it.
+A : So I'm not sure who isn't involved with that. I mean, certainly me, Chuck and Jane. Anyone else care?
+A : not  during this meeting but s- another time, and just get a list of everything we're gonna do.
+E : Maybe n- next week if we could.  I'm trying to finish up some stuff.
+F : O_K, now - and you're just - you're not talking about the s- the X_ disks - the X_ uh partitions, just the backed up space, or - ?
+A : Well, both  need to be reorganized.
+E : I actually haven't looked at it yet. I haven't had a chance, so.
+C : Hmm.
+F : I haven't either. Sorry.
+A : And -
+F : I will by next week,
+B : I mean, th- that's all these segment  names that we- we've been using. I would rather not mess with them
+A : Well, I mean, how you  choose to do it - the naming is up to you.
+D : I mean, it should probably be - eventually  should probably be consistent with what you're doing but,
+D : I looked  at the naming conventions and they look fine to me, but at the same time it was just like you know to rename everything would be -
+E : If we  you're  doing, will it?
+D : I assume you're not gonna go, like, into, you know, my  my
+B : Right.
+A : at ICSI to change M_R to M_R_M at all places at ICSI.
+A : one of our sponsors, did a global sear- search and replace for - between "sponsor" and their  name.
+F : Oh no, oh no.
+F : Yeah, one - one can imagine that that might be problematic.
+A : Yeah, one can imagine the problems that that would engender.
+C : And he sent an email that he couldn't - couldn't install it and I - I just described him, well, what I did and it was really straightforward, so.
+B : Oh, well, yeah I - I - I actually wasn't sure whether this is the right meeting for it, because it has uh very little to do with - with meeting  recordings, but
+B : @@
+B : um some recognition experiments with ICSI front-end.
+B : uh waveform. You know, it looks like a waveform except instead of samples you have feature  vectors following the header.
+B : trained uh on the same training set uh a standard system with the S_R_I  scratch,
+B : um based on a twenty-four filter bank
+B : I do not
+B : S_R_I  front-end is from hundreds hertz to th- th- thirty-se- thirty-seven fifty or something like that.
+E : There's one other slight difference, right? Or two - two  differences.
+A : Who cares?
+E : Except you get a lot of negatives the other way.
+B : Right, then,  then  conversation  length normalization just like all the other features.
+E : Oh!
+E : Oh!
+B : Um now, I understand that the common practice here  has been to just do c- standard uh mean subtraction, um on the waveform.
+B : Right. But in what we've  C_zero  other  features, we've done standard mean subtraction over the whole
+B : the results
+B : um
+B : Oh. I tried it with  without.  Uh.
+B : So without
+B : and with adaptation.
+B : the phone  do  with adaptation, but it gives you sort of a first
+B : Uh, so without  adaptation,
+B : something like ROVER. It's actually more sophisticated than ROVER but it's -
+A : Why do you think the ICSI front-end is so much worse?
+B : Good question.  That's fine .
+B : And then maybe another up - I don't know how much the C_zero normalization business really matters I can't it see, I mean can't see it - the @@
+B : I could.  Yeah.
+B : We could also  ICSI  features. That's something we wanted to do - yeah. We could - I was actually thinking we could use the warping factors that we compute for the M_F_C_C's
+B : to the P_L_P c- uh Dan added the  -
+A : they don't correspond one-to- one  though.
+B : No, but they should  be
+B : close,  since this -
+B : You know, this front-end
+B : filter banks do you use, what - what bandwidth do you use, and stuff like that. And uh we could play the same kind of games with the ICSI  front-end.
+B : Uh, actually, the analysis  bandwidth played a very crucial role. We used to use a narrow bandwidth and
+B : But the good news is that even with this - with the ICSI system being that much worse,  combining  the two.
+B : Um, the difference actually widens.  hope  reduces  because it might
+B : more interesting  experiment.
+B : And I actually want  to
+B : do the system  combination
+B : um with  eval  system um, on some subset of the data at least, probably only for the males, because I don't have time to train both males and females, but um.
+B : It does  get pretty big. Yeah.
+B : Yeah, and it does  become sort of unwieldy to have these very large feature vectors. And that would
+A : O_K, let's do them one at a time  instead of simultaneous since we actually have time.
+C : Oh no.
+A : Transcript L_ one O_ five.
+A : nine four two three two seven seven zero nine nine nine seven
+A : O_ nine three eight zero O_ O_ one
+A : two nine O_ eight five five eight seven seven five
+A : three nine five five seven three four four seven nine
+A : six two seven four two seven three eight O_
+A : eight six five seven zero nine one zero
+A : three five two three zero nine five three
+A : nine two five O_ two nine three three one two
+B : Transcript L_ one zero eight.
+B : six nine four eight seven three two two six two
+B : five five eight seven eight two five two one O_ one nine
+B : one two nine eight one zero six seven nine three
+B : six five eight one nine five eight one
+B : eight one five two one seven two O_ nine
+B : three seven O_ four seven three two nine
+B : zero one two nine six nine nine one three five five O_
+B : one three five nine nine five three one one six
+D : Transcript L_ one O_ six.
+D : two three eight eight seven seven eight one
+D : eight zero four nine one zero seven two zero five seven two
+D : eight nine eight eight six nine six one eight
+D : two four two eight two six seven eight four seven
+D : nine seven five five seven one five zero two zero
+D : one three O_ nine seven two six two four seven zero eight
+D : two two zero eight five seven nine six two zero
+D : seven eight zero four five three six seven nine
+C : Transcript L_ one O_ nine.
+C : O_ nine O_ seven eight nine eight four three
+C : eight six three six eight six eight five six
+C : seven eight four four six five zero zero
+C : seven six three five one five nine O_ O_ two
+C : seven two O_ five eight O_ five six four seven three four
+C : nine three four O_ one four nine two five
+C : nine six nine eight five seven one O_ five eight
+C : four seven seven zero six five seven four
+C : Um, why?
+F : Oh he did? Never mind. O_K good. Alright. So.
+F : Alright. Transcript L_ ninety.
+F : two three two one two four zero three
+F : five O_ eight two nine one one two O_
+F : nine one nine O_ three two five nine two seven
+F : two O_ seven four two seven three one three one
+F : three seven six four four O_ two three nine three
+F : nine five nine three five nine nine seven four three
+F : one nine five one seven eight one three
+F : eight zero three nine one seven nine nine eight O_ seven eight
+E : Transcript L_ one zero seven.
+E : one nine one seven one two nine six nine six eight six
+E : nine seven two nine O_ two four five four
+E : eight O_ nine seven one eight zero zero two
+E : seven six four nine nine one two two six
+E : three zero eight one six four zero one
+E : two one three one eight five two six five seven eight zero
+E : three O_ three eight three three eight seven four
+E : one eight one four two eight four -
+E : Sorry, start over.
+E : one eight one four two eight two four five four
+B : some of the channels, or - ?
+B : I don't know  what they do. Maybe the batteries went dead, or th- they just didn't - they played with the thing and it didn't leave it in the "on" position or whatever.
+A : I don't know, uh eh. Fff.
+A : What would you like it to do
+B : I mean, there's never gonna be a signal from all the channels, right? because - or rarely.
+A : Well if an unblacked out channel is zero, is actually spitting out zeros, you can be pretty sure it's off.
+A : Right? Cuz there's little background noise. The question is, when the software detects  do?
+B : That's a good question.  know.  But is there some - We can collectively think of some - of some mechanism that might reduce the risk of - of just -
+A : We - we already  see  whether your mike is working or not. Um.
+B : @@
+A : It's pretty clear we can  detect it, so.

@@ -1,0 +1,785 @@
+A : three eight eight, seven one, four six two seven
+A : six nine two, six four O_, nine seven nine
+A : two one, one six, zero two, three zero, nine six
+A : eight six one, six four, eight nine three six
+A : four O_ eight, five six nine, eight eight zero
+A : zero seven, four two, eight two, four four, nine one
+A : five, four one five, seven seven, one one nine, seven
+A : four eight seven, nine three, four two four zero.
+B : O_K. Ami, do yours then we'll open it  and I think it'll be enough.
+F : One five six, seven four one, five six four
+F : zero five one, four five three, nine two zero five
+F : one three three eight, zero, two five zero
+F : eight zero three six, nine, two eight nine
+F : six seven one, one nine, eight one nine nine
+F : eight, five zero eight, nine eight, four five five, eight
+F : three zero seven, seven eight four, eight one seven
+F : zero eight three nine, eight, three eight three.
+A : all
+B : Alright. Anyway. So, uh, before we get started with the, uh, technical  think  is happening with the -
+B : our  So -
+B : that shouldn't come up in this meeting. Th- this - this is s- should
+B : and that's pretty much independent of this.
+B : But, uh, I just want to make sure we're all together on this.
+B : uh, in parallel
+B : where you're working with me and Robert, draft a note that we're gonna send out to various CogSci c- and other classes saying, "here's an opportunity to be a subject.
+B : Contact Fey."
+C : our  - sort of our first -
+B : O_K. So, we're looking for a total of fifty people, any  means all students but we'll s- we'll start with - with that.
+B : parallel  script.
+B : Uh, with - uh, Jane, and maybe Liz and whoever,  on actually getting the script worked out.
+B : But what I'd like  K,
+B : The week after that's Spring Break, and maybe we'll look for them - some subjects next door or i-
+C : Yeah .
+C : Yeah. Also, Fey  will not be here during spring break. So.
+B : Um.
+B : So, is - Is that
+C : Yeah. Also, um, F-
+C : kindly ask you to - to do the same thing, which is we gonna check out our social
+C : um, kid children's gymnastic classes, pre-school parents and so forth.
+C : They also sometimes have flexible schedules.
+C : So, if you happen to be sort of in a non-student social setting, and you know people who may be interested in being subjects -
+C : We also considered using the Berkeley High School and their teachers, maybe,
+C : and get them  interested in
+C : stuff.
+C : And, um.
+B : Oh, yeah. The high  great  idea.
+C : note,  the "write-up" note, send it to you and Fey and then -
+B : And why don't you also copy Jane on it?
+C : Are we - Have we concurred that, uh, these - these forms are sufficient for us, and necessary?
+B : Uh, th- I think they're necessary.
+B : permission  form.
+B : Uh, there has  be
+B : Um
+B : um, they have the right
+B : um
+B : I- The last paragraph "if you agree to participate you have the opportunity to have anything excised which you would prefer not to have included in the data set."
+B : O_K? that,  we- had to be included for this
+B : other  about  really  make sense.
+B : Um, so what I'd like  to do
+B : is also  our  subjects sign a waiver
+B : And if they don't  sign  show  them the final transcript. But, um.
+C : Yep . Makes sense.
+B : yeah  might
+B : S- i- Jane  do  this", uh,
+B : "on the same form, we need a separate  form." But anyway. I'd - I'd - I'd like to,
+B : this really is  the same project,
+C : Yeah .
+C : Yeah .
+C : So much for the data,
+C : They're gonna transcribe. They're also gonna translate the, uh, German data from the
+C : They're - they
+C : with that.
+C : So. w- c-
+C : Well I guess the good - good  last  parser.
+C : So, um
+C : Bhaskara and I started working on the -
+C : the parser. Then Bhaskara went to class and once he came back, um,
+C : it was finished.
+C : So.
+B : Which is lot.
+D : That's the, uh, point.
+C : The - uh, that's  lot.
+B : O_K.
+B : Right.
+C : And um.
+E : What did you end up having to do? I mean, wha- Was there anything
+B : Yeah, we can show  us, right?
+C : We d- The first we did is we - we tried to - to do - change the - the "laufen"
+C : And we noticed that whatever we tried to do, it no effect.
+C : And we were puzzled.
+C : And, uh, the reason  was that the parser i- c-
+C : completely ignores the verb.
+E : Hmm.
+C : So this  sentence -
+C : parses
+E : I
+C : all - all of this.  So it's basically feature film and T_V.
+E : Today O_K. And the - t- and the time, right?
+C : That's what you need.
+C : If - if you'd add - add Today and Evening, it'll add Time or not. So it - i- it does
+C : And -
+B : So, you can sho- You - you - Are - are you gonna show us the little templates?
+C : Yeah. We ar- we can sh- er - I can show you the templates.
+E : "The former end g-"  Oh, I see. Uh-huh.
+C : I - I also have it running
+C : do this  now,
+C : um, you can see that
+C : it parsed the wonderful English sentence, "Which films are on the cinema today
+C : But, um.
+B : No i-
+C : " this  evening, which - which films are on the cinema", or "running in the cinema, which -"
+E : O_K. Key  words, e- basically.
+B : Well
+C : Ge- elaborate, or, more or less,
+B : Actually, it's a little  tricky,
+B : allowable German orders which aren't allowable English orders and so forth. And it is  order-based. So it - it -
+B : Oh.  So it - it doe- I- it - These -
+B : u- these optional elements, it's - it's actually a set,  sequence?
+C : It is not -
+C : Yeah. We were - I was afraid that, um -
+B : Oh!
+E : So it really is
+B : Really  a se-
+F : e- yeah. Mm-hmm.
+B : Oh, wow.
+C : Um, I mean, these sentences are just silly. I mean, uh, d- these were not the ones we - we actually did
+E : Hmm.
+C : Um. What's an idiomatic of phrasing this? Which films are
+D : @@  playing
+F : Actually, you would say, "which films are on  tonight?"
+B : Do I?
+C : O_K. So. Wonderful parse, same thing.
+C : Um.
+B : Right.
+C : um -
+C : Anyways.
+C : that the uh -
+C : the parser was able to do. And it still is,
+B : Yeah.
+C : And, um - Sorry.
+D : many  variations in those sentences, they will still parse fine.
+D : So, in a sense it's pretty broad.
+C : O_K.
+C : So, if you want to look
+C : Um,
+C : and this  @@
+C : "Spielfilm"   "Film"   "Kino"   to "cinema" -
+C : to- "today" - heu- "heute"   "Abend"   to "evening"
+B : Capitalized as well
+C : And, um.
+C : And that's - that's the next step, but we'll get to that in a second.
+C : And so this  means, um,
+C : "Want I like" is all maybe  not
+B : So - so, the point  this  see  see  this "?
+C : "Action watch",
+C : whatever. Nothing
+C : except
+D : A_V medium.
+C : Where it gets that  It's correct, but I don't know where it gets it from.
+D : " See ".
+C : Oh, " see ". Yeah.
+D : I mean it's sort of -
+C : Yeah. Yep. O_K.
+C : And "see this"
+C : is exactly the same thing.
+B : O_K, so it is  set-based. Alright.
+D : those percentage signs, right?
+D : why do we even have
+C : tell  score.
+C : And the value of the score is, v- I  assume,
+C : I
+D : So that's  the main purpose. Alright.
+C : So we - we shouldn't belittle it too  doing  something,
+C : some  things,
+E : Mm-hmm.
+F : Right.
+B : is.
+E : Right
+F : But -
+C : O_K.
+C : Um, let's hope that the generation will not be more difficult, even though the generator is a little  bit more complex.
+C : that means we may need two hours and twenty minutes rather than an hour ten minutes,
+B : Alright.
+C : And the next thing I would like  either,
+C : to say, "O_K let's now pretend we actually
+C : the mapping  of - of, uh, words to the M_-three-L_ but we also wanted to change - add a new sentence type and and make up some - some new M_-three-L_ - s-"
+B : Yep.
+B : That'd be great.
+C : See th-
+B : whether one can get that to run.
+C : Mm-hmm.
+C : And, um,
+D : So, that's - Fine, yeah.
+D : Yeah, so where are those - those functions "Action", "Goodbye", and so on, right? Are they actually, um,
+C : um -
+C : schemata.
+C : um -
+C : Is this where it is? This is already the X_M_L stuff?
+C : and converts it somehow.
+C : Um.
+C : Um, where it actually produces the - the X_M_L out of the, uh, parsed stuff.
+D : Oh, O_K.
+C : No, this is not it.
+C : Uh. I can't find it now.
+D : Yeah.
+D : No, that's not it.
+C : Yeah.
+C : This is what you would need to - to change - to get the, uh, X_M_L changed.
+C : So when it encounts- encounters "Day",
+C : it will, uh,
+C : activate those h- classes in the - in the X_M_L stuff
+C : But, um -
+C : I saw  those actions - uh, the "Goodbye" stuff somewhere.
+C : Hmm, hmm, hmm, hmm, hmm.
+C : Yeah .
+C : Oh.
+D : That's just a
+C : So whatever - n- this does - I mean this is, basically, looks l- to me like a function call, right?
+C : And, um -
+C : which we can make it do in a second, here
+B : y-
+D : a l- a field  to it, or something.
+B : Yeah. They also seem to affect state,  cause some of them -
+B : there were other  actions
+B : uh, that - that s- seemed to step - state variables somewhere, like the n- s- " Discourse
+C : Yep.
+B : O_K. So that's going to be a call on the discourse and confirm that it's -
+C : W- we- Mm-hmm
+D : Oh, you mean that's not going to actually modify  change  Oh.  Oh.
+B : I think that's right. I think it's actually - That looks  like it's state modification.
+C : e-
+C : Um, well i-
+C : There is a feature called "Discourse-Status",
+C : it will - it will put this in here.
+B : Well, go back,  all  those th- things,
+B : while they look  like function calls, are just
+B : I'm not - I'm not sure.
+C : let's test
+C : causes it to c- to create basically an "Action Goodbye-End-Action". Which is a means of telling the system to shut down.
+C : it should do that.
+C : It sho- it creates this,
+C : "Confirm Goodbye".
+D : Right there.
+D : But there is  some kind of function call, because how does it know to put Goodbye in Content, but, uh, Confirm in Features?
+D : So, it's not just that it's adding that field. It's
+C : Mm-hmm. Yeah .
+A : It's  mystery  functions.
+D : Well, they're defined  somewhere, presumably.
+B : Yeah, each is - S- so that's funny. You bury the s- the state in the function
+C : When it -
+B : Alright. Uh @@
+C : it -
+C : So, now, this,  it cannot do anymore. Nothing comes out of here.
+A : A "not a number" is a value. Awesome.
+C : doesn't speak German anymore, but it does speak English. And there is, here,
+C : So, this tells us that whatever is - has the I_D " zero " is referenced here -
+C : by @@  seed  and this is exa- "I want -"
+C : What was the sentence?
+C : "need two seats here." Nuh .
+C : Our d- This is re- um
+C : Mmm
+C : Here, we change - and so, we - Here we add something to the Discourse-Status, that the user wants to change something that was sort of done before
+B : I  see. And it - and it runs around looking for Discourse Status
+B : And other people ignore
+B : Alright.
+B : So, yeah. I definitely think it's -
+B : Uh
+C : Sort of get
+B : Yeah, a kid  next
+B : tags,  and stuff like that.
+C : Point number two.
+C : This is sort of the uh,
+C : Hmm. Interesting. It's just going up,  it's not going
+C : back down.
+C : So, this is - um, what I got today is M_-three-L_ for
+C : um,
+B : Yep.
+C : even though it - you can't see it on - on this resolution.
+C : um
+C : also not very interesting,
+C : and here is the more  interesting stuff for us, is the routes,
+C : route elements,
+C : and, again, as we thought it's really simple. This is sort of the, uh,
+C : um, parameters. We have
+C : @@
+C : simple " from  to  objects" and so forth,
+C : points of interest along the way -
+C : It seemed to me that this m- way of doing it is sort of a stack- a step backwards from the way we've done it before. t-
+B : So these are - these are your friends back at E_M_L.
+B : So this is not a complicated  negotiation.
+B : There's - there's not seven
+C : No.
+C : No, this is very straightforward.
+B : Great.  So this is just trying to -
+B : It's a design  political  thing.
+C : Yeah.
+C : And, um -
+C : And, uh -
+C : e- So that you understand, it is really  route,  and you cut it up in different pieces.
+C : every element  of that e- r- r- f- of that -
+C : Every segment  we call a "route element".
+C : and every step has a " from  start,  to  end,  and some points of interest along the way.
+C : What w- I was sort of missing here, and uh, maybe it was just me being too stupid, is, I didn't sort of get the - the notion of the global goal
+C : of the whole route. Really, s- was not straightforward visibly for me.
+C : And some other
+C : suggested that they should n- be - k- uh, kind enough to do s- two
+C : um, since you  had suggested that -
+C : that, um, we figure out if we ever, for a demo
+C : Now, what's the state of the art of getting to entrances,  vista
+C : And the Approach  mode, anyhow, is the default.
+C : That's all they do it these days. Wherever you'll find a route planner it n- does nothing but get to the closest point where the street network is
+C : at minimal distance to the geometric center.
+C : @@
+B : important.  managerial
+B : You're in the midst of this, so you know better. But it seems to me it's probably
+B : li- uh - minimize  the number of
+B : uh, change  requests we make of them.
+B : our  story together.
+B : O_K? And think about it some, internally,  before
+B : asking them to make changes.
+B : Oh. Does this - does this make sense to you guys? It - I mean you're - you're doing the - the interaction but it seemed to me that
+B : what we ought  to do is come up with a -
+B : uh, something where you, um -
+B : And I - I don't know who's mok- working most closely on it. Probably  Johno.
+B : O_K.
+B : O_K? our  group saying "Hmm, well -"
+B : O_K? And get our  best idea of what we should add.
+B : And then  go back to them.
+B : Is i- or, I don't know does this make sense to you? Or
+C : Yeah.
+C : Sort of, what I - my  feeling was eh- we - we sort of reserved something that has a r- eh-
+C : an O_K label. That's - th- that was my th- first sort of step.
+C : No matter how
+C : this is sort of our playground. And if we get something in there that is a structure elaborate  complex  simulation,
+C : that would be - u- the - the perfect goal.
+B : short  ra- range optimization.
+B : It's the sort of - o- one or two year  class  do
+B : How - how would we try to characterize  now
+B : that's leave enough space to do  all that stuff?
+B : And - so that sounds like a great
+B : So y- so you guys will send to the rest of us
+B : um
+B : a version of
+B : um, this,
+B : and - the - uh, description  -
+A : With sugge- yeah, suggested improvements and -
+B : um
+B : Uh, this - and this, of course, was just the
+B : action  language
+B : uh, t- for this class of - of things,  we might want to try to encompass.
+B : And -
+A : Then the scope of this is beyond
+B : um,
+B : you know, um
+B : We don't - I mean, that's an issue.  know  what, entirely.
+A : X_M_L stuff here  just has to do with Source-Path-Goal type stuff,
+B : Right.
+A : So, but this O-  that?
+B : Oh. It's beyond  @@  -
+B : tourists in Heidelberg.
+A : O_K.
+B : O_K?
+B : one could have, tours,
+B : um, explanations of why  why  no  end
+B : ask.
+B : So, at least - unless somebody else wants t- to suggest otherwise
+B : the general  domain
+B : uh, broaden.
+B : That is, tourists  in Heidelberg.
+B : And if there's something somebody comes up with that can't  sure.
+B : uh
+B : if there's any -
+B : important
+B : I mean if - if you want to
+B : and - you know, what - what are  only
+B : this whole  issue of,
+B : uh, referring  expressions, and, what is it that they're actually
+B : dealing  with in the world?
+B : And, again, this is li- in the databa- this is also pretty  well formed because there is an ontology,
+B : and the database, and stuff. So it isn't like,
+B : All  the entities
+B : do  To get at them from a language may not be trivial.
+F : Right.
+B : really deep  mysteries about
+B : um, what w- what things the system knows  about.
+F : Right.  ask  for it.
+B : All  those things. Yeah. You have proper names, and descriptions.
+B : And
+C : Now  German.
+C : the shortest k- the - the more general descriptions of all the objects and, um, persons and events. So, it's a relational database with persons, events,
+C : and, um, objects.
+C : there. But did y-  there  will be great because the reference problem really is not trivial, even if you have such a g-
+B : He knows.
+C : Ah- he-
+A : Could you give me an example of a reference problem? so - so l- I can  make it more concrete?
+C : How do I get to the Powder-Tower?
+C : We sort of t- think that our  Powder-Tower  to an object I- I_D in a database
+C : is also
+F : Or - or if you take something even more  after  for
+A : Mmm.
+A : Or the re- the restaurant where they wear  lederhosen?   Or is that -
+C : Or the-
+E : Uniquely.
+A : O_K.
+C : O- or - or tower, or this  that
+C : hmm?
+B : back? "
+B : again,  which  of these things,
+B : uh, people want to
+B : dive into.  What,
+B : uh, I think I'm
+B : and I guess, pwww!
+B : I'll try to come up with some
+B : general  story about,
+B : fit together. There's this whole framework
+B : And I haven't had a chance to
+B : I want to do that early,  late.
+C : u- u- u- u-
+C : the de- g- uh, small  -
+C : Something, uh, maybe we should address one of these days, is to - most  of the work people actually always do is look at some statements,
+C : and - and analyze those.
+B : Hmm.
+C : But the whole - i- is it - is it really relevant  questions?
+B : yeah?  yeah,  I- d-
+C : this is special  case in that sense.
+C : Um,
+C : I don't know.
+D : @@
+C : And how soon, I don't know .
+F : Muh-
+C : " Who  got kicked out of France?" Nuh.
+B : Yeah, or, you know. "Wh- why is he - why is he pushing for promotion?" or, "who's pushing proof-" er, just pick - pick any of them and just
+B : So I don't - I don't think,
+B : uh, it's at all
+B : difficult  -
+B : Uh, to convert them to question forms that really  time,
+B : um -
+B : And - sort of - we don't know how to handle them, too.  Right? I mean, it's -
+B : We don't  declarative  forms,
+B : @@
+B : really,
+B : and, then, the interrogative forms, ah-oh.
+D : Ooo!
+E : Oh. it's just that - that the goals
+E : are g- very different to cases - So we had  thought
+E : most  the person talking is trying to,
+E : I don't know, give you a statement and tell you something. And here,
+C : Help you create a mental model, blah-blah-blah. Yeah.
+E : Yea- eh - y- Yeah,  guess
+E : And th- th- the - their discourse patterns probably
+E : Yeah.
+B : Right. No, I think that's one of things that's interesting, is - is in this sort of
+B : over- arching  say,  this - the storytelling scenario.
+B : And I think it's really worth thinking through
+E : Right. Cuz for a while we were thinking, "well, how can we change  more
+B : uh, summer  is just
+B : half  other  half is this,
+E : Mm-hmm.
+B : So once that's  done,
+B : then all  the rest of it is,
+B : you know, what we  research.
+B : And we can - w- we can do all sorts  of things that don't fit into their
+B : framework at all.
+B : Th- there's no  do  that.
+B : If  use  all the, uh,
+B : execution  engines,
+B : you know, really
+B : try  things that
+B : would be too - too much pain to do ourselves.  obligation
+B : So, if we want to turn it into u- understan- standing stories  about Heidelberg,
+B : we  can do that.
+C : Or, as a matter of fact, we need
+C : and if we if we'r- eh - take a ten  need
+C : e- w- a- Assuming we have  actually   do  have these wonderful stories, and historical anecdotes, and
+C : knights jumping out of windows, and-and-and -
+C : tons
+C : and if we want to answer a question  on that,
+C : we actually have to go one step before that, and understand  that.
+C : In order to e- do sensible
+B : You might,  yeah.
+F : Mwa- Mm-hmm.
+C : um, this has been a - a - a Deep  research
+C : run  text,  content,  machine  us,  later, to
+B : Right.
+F : So, uh - So, uh, I was just going to ask, um, so,
+B : O_K. So - eh - Yeah. So, what happened  is,
+B : uh, quote parser, there's a particular piece
+B : of this big  German,
+B : And one  English  that.
+F : Right.
+B : That,  these guys did in a - in a day.
+B : The other  other  roughly  at the same level,
+B : uh, X_M_ L  structures,
+B : produces an output  X_M_L structure which is
+B : instructions for the generator.
+B : O_K? And then there's a language generator,  and then after that a s- a synthesizer that
+B : uh, language  generation, to
+B : actual specifications for a synthesizer.
+B : Eh, but again, there's one  one
+F : Got it.
+B : O_K. And that - But as I say, this is -
+B : all  along  was viewed as a kind of -
+B : necessary,  but - but not -
+B : And much more interesting  is the fact that,
+B : doing  this, we - we are,
+B : you know, inheriting this system that does all sort-  of these other
+B : Not precisely  what we want, and that's -
+C : and, um, get a first draft of that.
+C : Now, we have um just, I think two  short  things.
+C : "Noisy-OR" front?
+D : talk a little bit about that,  because that might be a good, uh,
+D : sort of architecture to have, in general for, uh, problems with,
+B : And what's the other  one? so that - just we know what the d- agenda is?
+C : Um, the Wu  paper, I think maybe -
+B : new  probably  let's
+B : uh, what he's doing. It's just a little  embarrassing cause all this was in his thesis and I was on his thesis committee,
+B : and, so, knew  this at one time.
+F : Ugh.
+B : It's not only uh  Is - Part of what I haven't figured out yet is - is how all this goes together.
+D : O_K. So - should I - Is there a white board here that I can use?
+E : Yeah.
+B : squealing sound?
+B : It's probably  just as easy. I-
+D : Hey!
+A : I was envying you and your pocket cause I don't have one.
+E : It was a quick one, huh ?
+E : They have clips! Huh.
+A : exactly
+D : Yeah. So, um - Recall that, uh,
+D : this kind of structure in our Bayes-nets.
+D : Namely, that, um - You have these nodes that have several bands, right? So -
+D : Does
+D : So, uh -
+D : Like, let's just look at the case when, um, this is actually the - the final action, right? So this is like, uh,
+C : Y-
+D : touch, or - Sorry. Uh
+C : E_- EVA
+C : @@
+D : Yeah, E_- E_V_A , right?
+D : Enter, V- View, Approach, right?
+F : W- what was this? It - i- i- i- ehhh,
+F : I mean -
+D : So, I mean, we'd like to - take all these various cues, right? So this one might be, say, uh -
+F : Like the army. Yeah.
+E : New terminology?
+D : I don't know, it could be, like -
+D : admission fees
+D : you know,
+D : um -
+D : if it's closed  or not, at the moment.
+D : Alright, so you have nodes.
+D : Given N_nodes, and furthermore, the fact that there's three things here, we need to specify "three times", uh, "two to the N" probabilities.
+D : afternoon, evening, night". So, this could be more
+D : So, it's a lot,
+D : And, that's a lot of probabilities to put here, which is kind of a pain. So
+D : Noisy-ORs are a way to, uh,
+D : Um
+D : Where should I put this?
+D : So, the idea is that, um,
+D : The idea is to have these intermediate nodes.
+D : Well, actually, the idea, first of all, is that each of these things has a - quote-unquote distinguished  state, which means that this is
+D : really
+D : So, for example, if we don't really know if the thing is a landmark or not,
+D : Or, i- if that just doesn't seem relevant, then that would be th- sort of the Disting- the Distinguish state. It's a really, you know,
+D : you know, if they didn't talk about it, that would be the Distinguish state.
+C : S- so, this is a fanciful way of saying "default"?
+D : So -
+D : Yeah, yeah. That's just what they - the word they used in that paper.
+D : So, the idea is that, um, you have these intermediate nodes, right? E_one, E_two, E_three and E_four?
+D : So
+D : is -
+D : represents what  this would be -
+D : if all
+D : So, for example, suppose that the person - I mean, suppose the thing that they talked about is a landmark.
+D : But none of the other - sort of cues really apply.
+D : Then,
+D : W- The this would just represent the probability distribution of this,
+D : assuming that this cue is turned on and the other ones just didn't apply?
+D : So, you know, if it is a landmark, and no- none of the other things really ap- applicable, then - this would represent the probability distribution.
+D : Maybe we just t- k- Maybe we decide that, if
+D : They want to view it with probability,   probability,   uh -
+D : with probability   and they want to approach it probability point one, say -
+D : Right? So we come up with these l- little tables for each of those
+D : O_K.
+D : And the final thing is that, um -
+D : this is a deterministic function of these,
+D : so we don't need   to specify any probabilities.
+D : G_ of E_one comma E_two.
+D : and our example G_ would be, um,
+B : Well. O_K, so th- so the important  point -
+B : W- not  what the G_ function is.
+B : There is a - a - a general kind of idea of shortcutting the full C_P_T. Th- c- the full conditional probability table - with some  function.
+B : O_K? Which y- w- you choose appropriately for each case. So, depending on there are  different functions which are most appropriate.
+B : So I gave - eh - Bhaskara a copy of this, eh - sort of "ninety-two" you  got one, Robert. I don't know who else has seen it.
+B : So, I- u- w- Um, yo- uh - you - Have you  read it yet?
+A : O_K
+B : O_K.
+E : Yeah,  @@ .
+B : And - so, you other guys can decide how interested - Anyway.  And -
+B : One of the questions just come at  Bhaskara is,
+D : Yeah, it's a good question. Um
+D : The - so what we want, is basically JavaBayes to support deterministic, uh, functions.
+D : And, um -
+B : Right. So the little handout that - The little thing that I  sent - I sent a message saying,
+B : So, if Ba- JavaBayes won't do it for  you,
+B : Um - and, what I  do  that,
+B : um, evidence combination. So one of - one function that you could  the -
+B : little table like that, then you could take the,
+D : Mmm.
+D : I don't think you can do this, because -
+B : Yep.
+D : G_ is a function from
+D : that
+D : to that.
+B : Right.
+B : There is a w- I mean, if y- if - if you decide what's - what is appropriate, is probablistic evidence combination, you can write a function
+B : that does it. It's a pui- it's  actually one of the examples he's got in there.
+B : But, anyway,  exactly  which functions -
+B : now is it  clear
+C : I mean, in some - it seems very plausible in some sense, where we will  not  observe  some of the stuff.
+D : Oops,
+D : Is - Oh, right. W- would not be ab- able to observe
+C : I- if it's a - a - a discar- Discourse Initial Phrase, we will have nothing  in the discourse history.
+B : Yeah, so there's - there's two  separate things, Robert.
+B : O_K? Th- that's what they're real  good at.
+B : eh, basically whatever w- it's - Probabilistically, whatever it would be. And it's - it's sort of not a great  estimate, but -
+B : it's the best one you have,
+B : And I think that's  the one he was getting at.
+D : have this many numbers, whereas in this case you just have to have three for this, three for this, three for this. Right? So you have to have just
+D : So, this is much smaller than that.
+A : Asymptotically.
+D : Yeah. Right.
+A : U- yeah, yeah.
+A : So, really, i- What a - A Noisy-OR seems to kind of
+B : That one actually isn't
+D : it's a Noisy-arg-max or a Noisy-whatever.
+B : Yeah, whatever. Yeah. So -
+B : Eh -
+B : Um
+A : Well, my point was more that we just - eh - With the neural net, right, eh, things come in, you have a function that combines them and -
+B : Yeah, it - it - Tha- that's true. It is a- is also more neural-net-like, although -
+B : Uh, it isn't necessarily  sum -
+B : uh, s- you know, sum  of weights or anything like that.
+A : Right.
+B : I mean i- You could have,
+B : really is  one that's essentially says, uh, take the max.
+B : Same.
+B : Uh
+B : And, I thi- I think that's the standard  way people
+B : uh
+B : There are a couple other ones. There are ways of breaking this up into s- to - to subnets and stuff like that. But, um
+B : The
+D : Yep. So
+C : It - I mean you - you can always uh - see easily that - that I'm not grasping everything  me
+C : not
+C : it's point three, point four, point two. If it's a castle, it's point eight, point one, point one. If it's,
+B : Right.
+C : And so forth.
+C : necessarily  every time for something but, uh -
+D : It'll be students - Where else would it  be stored? That's the question.
+C : let's see.
+B : is just  what you want for this. So that -
+B : if  particular
+B : that, it's one that is a monument,
+B : then, that would be stored there.
+B : If you don't,  you look up the hierarchy,
+B : um, you know, Approach  E_V_A  specific  landmark you put it there.
+B : If you don't,  you just go up the hierarchy to the first place you find one.
+B : Uh, or, link to - or - but - but in any case - i- View it logically as being in the ontology. It's part of what you know  about -
+B : a - an object,  is its E_V_A vector.
+D : O_K. Mm-hmm.
+B : And, if yo- As I say, if you know about a specific object,   you put it there. This is part of what Dekai was doing.
+B : If you don't know anything else
+B : uh, you just take whatever your crude approximation is up at that  equal,  whatever  it is.
+B : So, that's a very pretty relationship between
+B : And it seems to me the obvious  thing to do, unless
+B : we find a reason to do something different.
+D : Yeah.
+B : Does this make sense to you?  Bhask- ?
+B : either  -
+B : some  tag  fields,
+B : some
+B : Th- the - th- you know, there's always  do
+B : i-
+B : i-
+C : But it's, uh - What For-
+C : If we get  the mechanism,
+C : that will be sort of the wonderful
+C : how to make it work  second  part, in the sense that -
+C : right now.
+C : given the craw bet  projects
+C : that all  taxonomy  all  history,
+C : they're really trying to build one top level ontology ft- that covers all the E_M_L projects, and that's, uh, uh, sort of a tough cookie, a little bit tougher than they
+C : figured. I could have told
+C : But, nevertheless, it's going to be there by n- by, uh, next  from
+C : what I don't think is ever  ontology,  entering  r-
+C : town halls, and looking  approaching
+C : especially since we are b- dealing with a case-based,  instance-based
+C : So, there will be nothing  that  Berkeley
+C : Heidelberg
+B : Well, they - they - they - How ar- What are they gonna do  with instances? I mean, you - y-
+C : Well, that's - Hhh.
+C : That's - that's al- different question. I mean, th- the - first, they had to make a design
+C : "do we take ontologies that have  not,
+C : And, so, since the d- decision was on types,
+C : we now have to hook it up to instances.
+B : But what i- What is   SmartKom  gonna do about that?
+B : Cuz, they have instances all  time.
+C : in - in and of itself. That's more something that
+C : I  kicked loose
+C : thing.
+B : Uh - uh - SmartKom's  need
+B : I understand,  doing
+B : O_K. It's a
+C : No, but - th- the r- eh - I th- I still  think that
+C : there is enough
+C : Let's assume there are only twenty  object types in this world.
+C : And it will know if any  institutional  meanings.
+C : So, in a sense, "I" used as Institutions for some s- in some sense or the other.
+C : enterable.
+B : Yeah.
+B : Anyway.  may
+C : Yep.
+B : Conceptually,  we know what should be done.
+B : When we see  done,  easiest
+B : Like, i- i- it - it may  be,
+B : with their types,  data  that  case,
+B : And if we- d- there isn't  type  type.
+B : uh, E_V_A tree.
+B : uh, vectors that we need. So, we'd have our own little
+D : Mm-hmm.
+B : and we want its E_V_A vector, pppt-pppt!
+B : it's that. "
+B : So, I- I think we can handle that. And then - But, the combination  functions,
+B : is, uh - is the bigger  deal.
+B : I think that's  where we have to get technically clever.
+A : We could just steal the classes  JavaBayes  and then
+A : interface  code.
+B : Well, I me- ye  eh, yeah, the -
+B : Yeah, I mean, it's, uh, e- e- e- e- e- cute.
+B : I mean, there's this huge
+B : But, yeah,  we could look at it.
+A : Well, I was j- O_K. Yeah.
+B : inter-  sort  of a kind of a - it - The thing is, it's kind of an interpreter and i- i- it expects its data structures to
+B : be in a given form, and if you say, "hey, we're gonna
+B : make a different  data
+A : Well, no, but that just means there's a protocol,
+B : It may or may not. I don't know. That's the question is "to what extent does it allow us to put in these G_  functions?"
+A : Well, no, but - I mean - What I uh the  -
+B : Yeah, that's fine  end.  embedded?
+B : Oh, that  truly  hope  -
+B : Yeah, yeah, yeah, yeah, yeah, you bet .
+B : But, at that  point you may say, "hey, Java Bayes isn't the only package in town. Let's see if there's
+B : another  civilized  about this."
+D : @@
+B : Now, Srini
+D : Mmm.
+B : cuz he
+B : said that he  did
+B : But he doesn't remember - at least when I talked to him, he didn't remember
+B : whether it was an e- an easy  natural  thing, or whether he had to do some violence to it to make it work.
+B : Uh. But he did  do  it.
+B : Well, I say that's one  do  convert  it
+B : int- into a - into a C_P_ T  you zip  -
+B : It's blown  huge,
+D : I don't think - I mean, the fact that it blown u- blows up is a huge  issue in the sense that -
+D : the
+D : that,  which isn't so bad.
+B : So we could do that. And maybe that's what we'll do.
+B : But, um
+B : So, I will, e- before  @@
+B : p- push
+B : and try to understand  it.
+F : Yeah, I - I would like a copy, y- y- yeah .
+F : O_K.
+B : And, um
+B : I think -
+C : O_K. And I- I'll - I'll think s- through this, uh,
+C : eh - getting EVA vectors
+B : Well, you and I should talk about it.
+B : Alright, great!
+B : And, Robert, thank you for
+B : under - He - he's  sick,
+C : 
+A : I was thinking maybe we should just cough into the microphone and see if they can't - th- see if they can handle

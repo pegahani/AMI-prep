@@ -1,0 +1,367 @@
+E : yesterday or the day before. So, he doesn't plan on coming real  soon, but he is taking
+E : sabbatical this year and so he'll probably come for six weeks at some point.
+E : @@  Right.
+D : On? Am I on? I think I'm on? Good. Good.
+B : Yeah.
+B : Actually -
+F : I just had one of the most frustrating meetings of my career.
+A : It's definitely not the most  I've
+F : Yeah.
+E : I - I avoided  could  for you guys, but, uh -
+F : Yeah.
+A : Mm-hmm.
+F : For which we thank you, by the way. I know you were - you were doing that, but, anyway.
+A : Are very appreciative, yeah.
+F : Oh, I could tell you had a rough day, man!
+D : Nah.
+F : Yeah, it's a great story.
+F : Oh my goodness.
+A : What?
+D : All at the same time.  I don't know if - I would get distracted and confused, probably.
+A : Really?  synchronize?
+D : Oh wait do we  have t-
+F : Uh
+A : And any rate?
+E : e- yeah , the-
+A : Yeah, that's true.
+A : O_K.
+E : "two two four, one nine three, six eight four one"
+C : This is transcript L_ two nine
+D : nine four six, six five one, nine three five five
+F : two three three zero,
+E : nine five five, nine five seven, seven six two three
+A : seven four one,
+B : five five six two,
+C : nine three five, eight four two, O_ six six nine,
+D : seven seven zero three, two, six two five
+E : four six four, five three, two three one five
+B : zero four zero eight, nine, zero nine one
+A : two one seven five, three nine six five, three eight seven two.
+C : three zero, three nine, four O_, eight eight, five eight
+F : six two eight five, four, four three eight
+E : six four six, nine O_, two O_ one eight
+D : eight four two, O_ six three, six nine five six
+B : six nine nine eight, six, six eight - zero eight four.
+A : one, five six eight, eight nine, nine four nine, nine.
+F : one five eight, zero seven two, three seven five
+C : five one O_ seven, four, s- five six one
+E : nine six, six five, nine seven, four O_ two six
+D : eight two nine, nine zero,
+B : two five seven seven, two, five seven two.
+F : six six two, three five six, five eight nine seven
+C : five four one six, six, one two five
+A : five four two six, five, seven O_ two.
+E : eight five, eight three, two six, seven five, two seven
+B : five two nine four, eight, eight four nine.
+D : six seven four, four six zero, five one three
+C : two seven eight five, nine, eight four two
+A : O_ eight, eight three, seven five, five five, two O_.
+F : four one one eight, eight five one three, seven one seven five
+B : seven four, six three, eight zero, one one, eight zero.
+D : six three O_, two five, three four seven eight
+E : five nine eight, two six, nine five one six
+C : three five nine nine, O_ seven two nine, six three two zero
+A : two six seven, four O_ four, three three five seven,
+D : zero, one six seven, one five, four four seven zero
+E : six O_ six, six nine one, seven four six nine.
+F : five six three zero, three four zero four, five nine nine one
+B : seven, three eight five, six six, five nine one, nine.
+C : one, one one eight, five five, O_ one eight, one
+A : O_ six seven, nine two, one three nine six.
+D : seven four eight, nine one two, one five four.
+B : six two nine, three nine six, six two zero five.
+F : eight, nine seven one, three seven, two four nine, one
+A : four seven one, six one six, five two one two.
+C : one six eight three, six, eight nine six
+B : six two zero s- three.
+F : two one six, seven three,
+A : You lose.
+F : O_K, bye! That  meeting!
+E : Right.
+F : Now, uh, why?
+C : Just to save time.
+C : Does matter for them.
+A : Are we gonna start all
+A : Oh. Too bad. I kinda like it.
+F : Well, could we?
+D : Are we to r- Just to make sure I know what's going on, we're talking about Robert's thesis proposal today? Is that
+C : We could.
+A : We are?
+C : We might.
+E : Well, you - you had s- you said there were two  i- i-  talk  -
+D : Oh yes, and that too.
+C : And the same  proposal.
+C : I will  have time to do some revision and some additional stuff on various airplanes and trains. So,
+C : much of a chance you had to actually read  it because -
+A : yet,
+A : but I will.
+A : O_K.
+C : Um, the -
+C : "this is construal", and then it continues to say that one could potentially build a probabilistic relational model that has some general,  domain-general rules
+C : discourse model to instantiate elements in the classes of the probabilistic relational model what
+C : But, with a focus on @@
+A : Can I s-
+F : I think I need a copy of this, yes. I- is there an extra copy around?
+D : O_K, we can - we can - we can pass - pass my, uh - we can pass my extra copy around. Er, actually, my only  copy, now that I think about it, but. I already read half of it, so it's O_K.
+C : Um, I don't - I, uh - I don't need it. Um, actually this is the - the newest  version after your comments, and -
+A : I'm changing this.
+A : Just so you know. But, anyway.
+C : Yeah, um, if you would have checked your email you may have received a note from Yees  asking you to send me the, uh, up-to-d-
+A : O_K.
+C : But for this  it doesn't matter. But, uh -
+C : Hmm!
+A : I'm making changes. "Don't worry about that." O_K. Mmm-mmm.
+A : Oh! O_K, sorry, go on.
+C : And any  type of comment whether it's a spelling or a syntax or
+F : five.
+C : Interesting.
+A : Anyway.
+A : And y- uh, email any time, but most usefully before -
+D : The twenty-first I'm assuming.
+E : No, this  is the twenty-first.
+D : What  man!
+F : Well, better hurry up  then!
+C : sell  him this idea.
+C : O_K?
+C : Then I'm also  going to present a little talk at E_M_L,
+C : of course, I'm - I'm gonna start out with this  slide, so the most relevant aspects of our stay here, and um,
+C : which is probably not,  uh, the case
+C : in that discotheque example, or in the Bavaria example, you just want to know where it is.
+C : one that might ask for directions  location.
+C : Um, and so forth and so forth. That's sort of motivating it.
+C : um, SmartKom stuff, that we did,
+F : Oh, you've got the parser
+F : Sorry.
+C : That's the - not  the construction parser. That's the, uh, tablet-based parser, and
+C : the generation outputter.
+D : Halfway
+A : Mmm.
+C : And, um, and Fey is doing the synthesis stuff as we speak.
+C : probably.
+H : Where is a nightclub?
+A : Yeah.
+J : A popular disco is the Young Ganz .
+H : Where is  it?
+J : In order to get there take bus number forty-two towards the @@  exit  birdband .
+A : What is the s- ? Oh!
+H : Uh.  I'm looking for the University.
+I : O_K. @@  I can get the address, or if you know where you are, I can tell you how to get there.
+I : It's at the  Hauptstrasse
+H : Is that anywhere near the castle? @@
+C : and then maybe talk about the big picture here, e- tell a little bit - as much as I can about the N_T_L story.
+C : I - I wa- I do  wanna, um -
+C : and then,
+C : make a resume of that, and then I stole an X_schema from one of your  talks I think.
+A : I was like, "where'd you get that?" O_K. "Looks familiar."
+E : You certainly can.  I mean I- y- I- you know, I don't know -
+E : Well, the time  if  mirror  neurons,
+E : then you should talk about the more recent  stuff, about the kicking and, you know, the - yeah, yeah - and - that the plan is to see to what extent
+E : the - you'll get the same  about  this, so that -
+E : and that we're planning to do  this, um,
+E : So that's one  thing. Um.
+E : Depends.  is
+E : a, um, whole language learning  story,
+E : O_K? which,
+C : Yeah.
+E : even on your five-layer slide, you - you've got an old  off.
+C : Yeah, I - I - I do  here.
+C : And, of course, you know, the - the big picture is this  would  -
+C : I mean, there is  interesting stuff in her- terms of how language works, so the emergentism
+E : central.  What
+E : you might  wanna do
+E : and may not,  might  this is  - rip off a bunch of the slides on the
+A : Which you've already done,
+C : Well, I - I don't feel bad about it at all because - because you are on the, uh, title.  that's  you.
+A : Sorry
+C : Hmm?
+C : Propagated?
+A : Yes.
+C : I mean I might  Leipzig,  so.
+C : It's on biocomputation. Would -
+E : Yeah, it's different,  this is the, uh, D_N_A building, or someth- the double helix building.
+A : Kind of a different level of analysis.
+A : What?
+D : building  in the shape of D_N_A, is that what you said?
+F : Oh! Oh boy!
+A : What?
+F : That's brilliant!
+A : Oh my god!
+F : Hhh.
+E : You d- you really  - now I- I spent - the last time I was there I spent maybe two hours hearing this story
+D : Y- You definitely wanna w- don't wanna waste that money on research,  you know?
+E : Right.
+E : i- there's infinite  fill  researchers.
+F : And everybody gets a trampoline in their office.
+F : Alright, let's stop talking about this.
+E : a lot of the - this is  interacting with,
+E : O_K.
+E : Anyway!  Enough of that, let's talk about your thesis proposal.
+A : On that  one?
+A : I'll probably - I c- might have - I'll probably have comments for you separately, not important  Anyway.
+C : Oh, in the presentation  bibtex.  that's  quite possible.
+E : So I did note- i- i- it looks like the, uh, metaphor  didn't get in yet.
+C : did,  there is a reference to Srini -
+E : Well, s- reference is one  thing, the question is is there any place - Oh, did you put in something about,
+E : Good. I  see where you have it.
+E : what I meant  is,
+E : I think even  before  give  this,
+E : unless  talked  scalability  that you get by, um,
+E : combining the constructions with the general construal  mechanism. Is that in there?
+C : Um, but I - I did not focus on that  aspect but, um -
+C : Ehhh,
+A : That's not about that, @@  is it?
+E : it s- says  it but it doesn't say - it doesn't - it d- it d- yeah, it doesn't give the punch line.
+C : Why.
+E : Cuz let me tell the gang what I think the punch line is,  because it's actually important,
+E : constructions,  that, uh, Nancy and Keith and friends are doing,
+E : in a way,  general
+E : to metaphorical  metonymic  cases and all those things, requires this additional mechanism,
+E : of construal.  And the punch line is, he claimed,
+E : if you do this right,  you can get
+E : And it - to the extent that that's true  then - then
+E : it's a big  exists.
+D : these base  constructs and then a general mechanism for coercing them.
+E : and any metaphorical one - and abstract goals and all that sort of stuff - you
+E : can do  grammar.
+E : And it is  the same grammar.
+E : the way the construction's  written
+E : it requires that the object of the preposition   for example be a container.
+E : Well, "trouble" isn't a container, but it gets constr- construed  as a c- container.
+E : um, I  could.
+C : No, it doesn't say it at all.  No.
+C : Even though -
+C : One could argue what - if there are  basic cases, even.
+C : I mean, it seems like nothing  free.
+E : Oh, nothing  free,
+E : but there are  cases.  That is,
+E : Oh, it doesn't mean that they're unambiguous.  can  can  be construed
+E : you know as - as a obstacle, or as some physical object. So there are multiple  construals.
+E : And in fact that's part  done.  This is why there's this interaction between the analysis
+C : Yep .
+E : So, uh, yeah,  magically  make
+E : ambiguity  go away.
+C : No .
+E : But it does  say that,
+E : you walked into the cafe  are  construing the cafe
+E : as an obstacle.
+E : And if that's not  consistent with
+E : other things,  then
+D : You con - you conditioned me with your first sentence, and so I thought, "Why would he walk into  cafe  and then
+F : He slipped on the wet floor.
+D : oh, uh -
+C : Yeah, but, y- y- if you find "walked smacked  slammed  into the wall" -
+E : but " run  does.
+E : well, or "into the cafe " for that m- you know - "His car ran into the cafe."
+C : Yeah. Or you can run into an old friend, or run.
+E : Well, you can "run into" in that  sense too.
+E : probably  needs its own construction.
+E : um, there are  one  of them, but, um - I don't know.
+A : I mean, there- there's contact that doesn't - social  contact, whatever. I mean.
+F : Sudden surprising contact, right?
+E : Well, this is this motivated - but yeah - oh yeah, mo- for sure, motivated,  but then
+E : you can't parse  on motivated.
+F : Yeah. Right.
+D : You should get a T_shirt  says  that.
+E : O_K.
+A : There's - there's lots  but, uh,
+A : this has gotten -
+A : @@
+A : I mean wh-
+F : In other news.
+E : anything else you want to ask  us about
+C : Well,
+C : the - i- what would have been really  nice is to find an example for
+C : all  of this,
+C : So maybe if we w- if we can make one up  now,  that would be c- incredibly helpful.
+A : So, w- where it should illustrate
+A : uh - wh- when you say all  this, do you mean, like, I don't know, the related work stuff, as well as,
+E : I mean, that's what you started  with.
+E : So "in the bus" and "on the bus," um, that's actually a little  some  synonyms.
+A : Did you?
+C : th- w- I mean it's - he - there's a platform  regular  as we speak "J- Johno was on the bus to New York," um, uh, he's -
+E : Right. So - so that - that may or may not be what you - what you want to do. I mean you could  do something much simpler
+E : like " under  the bus," or something, where -
+C : But it's - it's - unfortunately,  tourist  say.
+E : Well,  repairing  yeah.
+C : So in terms of the - this - We had - we had - initially  we'd - started discussing the "out of film."
+C : could we capture that  with a different construal of -
+F : "The film ran out" you know, or, maybe you could say something like "The film is out" so like the - the film went away from where it should  you,  or something, right? You know.
+A : Yeah, is film the trajector?
+A : That -
+A : Or, "having" is also, um, associated with location, right? so if the film left , you know - state is being near film.
+E : Or being out of something  well.
+E : So "running out of it" definitely has a process  aspect to it.
+C : Is the d- the final state  out
+F : You got  out  of it. Yeah.
+A : That  part is fine.
+E : Yeah,  so - so nob- so no one has in - in - of the,
+E : professional linguists, they haven't - there was this whole thesis  on "out of".
+A : There was?  Who?
+E : Well, there - I thought  - or there was a paper on it. Huh?
+A : And undoubtably there's been reams  of work about it in cognitive linguistics, but.
+C : it's  -
+E : No no no, but not for your talk.  I'm- we're worrying about the th- the thes- it's just for one guy.
+C : Oh, the thesis!  That's - that's computa- should be very computational, and, uh, someth-
+A : Oh, I meant this,  you know, like -
+A : You know, it's an obvious one - but, uh  -
+C : I mean the - the old bakery  bakery  around here". So if you c- we really just construe it as a -
+C : No, it's the bakery itself  eat  buy?
+A : Nnn.
+A : No.  What?  Bakery " can't be something you're gonna eat.
+E : No, no. The question is d- do you wanna - do you wanna construe - do you wanna constr-strue
+E : Well th- well, that's one.  buy  something.
+E : But the other  is,
+E : um, pfff
+E : be asking about the existence of a bakery that doesn't  baked  goods."
+E : um, those are interesting examples but it's not clear that they're mainly
+E : construal  examples.
+E : a - So the metonymy  thing
+E : probably the easiest  and a- and actually the -
+E : Though, the one you have  isn't quite -
+E : N- no not that  one, that's - that's a - the sort of
+E : background.  This is the t- uh, page five.
+A : How much does it  cost?
+F : Two hundred million
+E : Right.
+F : Yeah, I think that's a good example, actually.
+C : But as Nancy just su- suggested it's probably  ellipticus.   Huh.
+A : Like, " it " doesn't refer to "thing," it refers to acti- you know, j- thing standing for activ- most relevant activity for a tourist - you could think of it that way, but.
+C : Well,  here  is - it's - it's - it's the same thing as "Plato's on the top shelf," I'm con- you know, th- that you can refer to
+C : width of the object, or so, www.
+E : metaphorical  use of "where"
+E : you - you can sometimes  where  when "
+F : Like what side were they on, or - ?
+A : What?
+A : O_K. I was like, "Huh? It was here.  Um.
+E : not metaphorical.
+C : Well, I - I - I -
+E : is that - it may  usage,
+F : Oh.
+A : So you want a more exotic one - version of that.
+A : I'm really into -
+E : Oh, you can do that?
+F : Fixed.
+A : A fixed expression, yeah.
+E : Right. But. -
+A : There're too - there're all sorts of fixed expressions I don't - like uh
+A : "I'm out of sorts now!"
+A : Like
+A : "I'm in trouble!"
+C : Um, so ib- in mus- for example, in museums, you know, as a building or as something where pictures hang  versus, you know,
+F : Oh geez.
+A : Anyway, I'm sorry.
+C : you know, despite the fact that this is not  H_T_I  systems try to be straightforward and less lyrical,
+C : construal still  is, uh, you know, completely,
+C : um, key in terms of finding out any  of these things, so,
+E : So that's - that's - that's a - that's a reasonable point, that it - in this  domain you're gonna get less metaphor and more metonymy.
+C : Hardly anything. So not even in descriptions
+C : I mean maybe the "where is something" question as a whole,  you know, can be construed as, u- i- locational versus instructional request.
+A : Right? @@
+A : Oh, you want a lexical example.
+E : Well, you might  both.
+C : Also it would  space  temporal  references are -
+C : just in the spatial  domain are rare.
+E : But it's - it's easy  plausible  ones.
+C : When - when you're getting information  on objects. So, I mean -
+D : For some reason when you said "feedback electronically" I thought of that - you ever see the Simpsons where they're - like the family's got the buzzers
+A : first  one, I think. The very very first one.

@@ -1,0 +1,504 @@
+D : O_K.
+A : to - to handle.
+C : Wow .
+D : O_K.
+E : Um, your name and some but it .
+E : O_K. You should be in play .
+E : And we can - you can flip this and uh get rid of the screen but @@
+B : Could I hit - hit F_seven to do that?
+B : on the -
+E : The uh - the - the remote @@
+A : @@
+B : Oh, the remote  will do it O_K. Cuz I'm already up there?
+D : O_K.
+A : @@
+A : I'm  in control here.
+E : O_K. Have a great meeting. I'll - I'll come back up in about an hour and check and see if you're still meeting .
+B : You are  in control.
+B : All ready?
+D : Wow, we're all so high tech here. Yet another p- PowerPoint presentation.
+B : I - Well it makes it easier to do PowerPoint.
+B : So,
+C : Johno, where are you?
+B : Let's see. Which one of these buttons will do this for me?
+B : Aha! O_K.
+B : Do I wanna go back  to the first one? O_K.
+C : Well, I mean, just to -
+C : It's basically uh
+D : I can read! I'm kidding.
+C : talks about uh - decide what the intermediate sort of nodes were, you know, because -
+A : But if you really want to find out what it's about you have to light bulb.
+B : Although I've - I've never - I don't know what the light bulb is for. I didn't i- install that into my PowerPoint presentation.
+A : Do you wanna try?
+D : Ach u-
+B : I'd prefer  not  to.
+D : It's a needless good idea. Is that the idea? O_K.
+A : Why are you doing this in this  presentation  mode?
+B : program and then if I do that
+C : Can you maximize   the window?
+A : No, It's O_K. It's - It'll work .
+B : Well I can do  middle  JavaBayes.
+B : So then the features we decided - or we decided  talked  about, right?
+B : Uh the - the prosody, the discourse, verb choice. You know. We had a list of things like
+B : and this i- we actually have a separate feature but I decided to put it on the same line for space.
+B : which we can look up because I mean if you're gonna Tango  gotta  reason  for it.
+B : And it's either because you're in route  walls.
+B : The context, which in this case we've limited to "unknown",
+B : It's "We are open to suggestions."
+D : uh, in this particular domain - you said - be - i- it could be on two different lines
+D : their being nice w- O_K.
+B : Yeah. I either could put "nice walls" on its own line or "open to suggestions" off the slide.
+C : Architecturally appealing from the outside.
+D : O_K.
+B : Yeah but if it's architecturally  significant you might be able to see it from -
+B : It was a long time ago.
+D : There's a lot of those.
+D : Something you want to inspect at close range because it's interesting. O_K.
+A : Well there - there is a term that's often used. That's "saliency", or the "salience" of an object.
+A : But it's really not.  very  salient but
+B : Like
+B : O_K, So our initial idea was not very satisfying,
+C : If you have N_ features, then it's two to the N_ - or exponential in N_.
+B : we have the features that we've drawn from the communication of some -
+B : the - the abstract idea being "I am a tourist I want to go to this place."
+B : So we're gonna set up
+B : what they've said previously and whatnot. And then we have
+B : like, the concept of whether they're a tourist
+B : or whether they're running an errand or something like that along those lines.
+B : things we couldn't extract the - from the data, the hidden variables.
+C : Want to do Vista, right? if you want to view things you wouldn't be in a hurry.
+B : like a navigational point to go to another place.
+B : "Let's look at the belief-net" other program.
+B : Um right now it's still kind of version of it, because
+B : we didn't know the probabilities of - or -
+B : Let's see. What happens if I maximize this?
+B : There  we go.
+B : But uh -
+B : The mode outputs.
+B : The probability   - whether the probability of a Vista, Tango, or Enter.
+B : whether the verb is a Tango verb, an Enter verb, or a Vista verb.
+C : Not at all. That's - that - that needs a lot of work. But uh probably  it'd be simpler to just have three verbs.
+B : No.
+C : Actually, the five things. The "closed" is also not directly extracted I guess, from the uh -
+D : From the utterance?
+C : Actually, no, wait. It is. O_K, "closed" sort of is.
+C : Right, so f-
+B : er  and what time it closed.
+C : Right, but the other ones, the final destination, the whether they're doing business, whether they're in a hurry, and whether they're tourists, that kind of thing is all uh sort of - you know probabilistically depends on the other things. Yeah.
+B : Yeah the -
+C : Yeah. So we haven't uh, managed - Like we don't have nodes for "discourse" and "parse", although like in some sense they are parts of this belief-net. But uh -
+D : So some of the - the top row of things - What's - what's "Disc admission fee"?
+C : "Can I get to this place?" "What is the admission fee?". So that's like a huge uh clue that they're trying to Enter the place rather than uh to Tango or Vista, so.
+B : There were - there'd be other
+B : but
+B : you know,
+B : That was the initial one that we found.
+D : O_K. So there are certain cues that are very strong either
+D : And then in that second row or whatever that row of Time of Day through that -
+D : Some of them come from the utterance
+D : either world knowledge or situational @@  O_K.
+C : Um.
+D : "Unmark @@
+C : Yeah, I m- I mean -
+A : Yeah. They're - they're are a couple  of more things. I mean
+A : I would  actually suggest we go through this one more time so we - we all
+A : uh, agree on what - what the meaning of these things is at the moment and maybe what changes
+B : you know unsure about, is how we have the discus- uh - the "admission fee" thing set up.
+B : So one
+B : thing that we were thinking was
+B : Uh - we kept um - things from directly affecting the mode
+B : beyond the concept,
+B : keep all the things we extracted
+B : to point at the middle and then down.
+D : cue.
+B : Yeah, that would be whatever building they referred to.
+D : Prosody.
+C : Yeah.
+B : That's how we have it currently set up, but it could be, you know,
+C : Yeah.
+B : based upon hour or discrete   it - des- descret-ize it.
+C : Yeah. Normally context will include a huge amount of information, but um, we are just using the particular part of the context which consists of the switch that they flick to indicate whether they're a tourist or not, I guess.
+C : So - Right, so it's not really all of context. Similarly prosody is not all of prosody but simply
+C : and
+B : Or un- unknown, yeah.
+D : but O_K. so the the context being um,
+D : I mean the - ar- ar- are do they allow business people to be doing non-business things at the moment?
+C : Rather, let me rephrase that. It - it can take values
+C : Um "nice walls" is binary, "closed" is binary "final destination", again - Yeah, all those are binary I guess.
+C : Yeah, anything with a question mark after it in that picture is a binary node.
+B : Wi-
+B : Yeah.
+C : Yeah, similarly "closed", I guess.
+C : To do that we would add another uh - value for that.
+C : Because it would now have to like uh - take that possibility into account.
+D : Like it's a conjunction of, I don't know, you know, the verb used and some other stuff that - that would determine - Yeah. Exactly.
+D : Um.
+B : Yeah. I want to get to the church quickly, and uh -
+D : That would be a cue.
+C : We can do a little
+B : Oh the- Yeah, we could.
+C : We can do a demo in the sense that we can um,
+B : Observe nodes.
+B : Dat-dat-dah.
+C : Just se- set a few of them. You don't have to do the whole thing that we did last time. Just like uh,
+C : maybe the fact that they use a certain verb - Actually forget the verb.
+C : I don't know, say they discussed the admission fee -
+C : and uh - the place has nice walls
+C : Yeah, no wait. That - that doesn't uh - it's not really consistent. They don't
+B : Oh, they  -
+B : Oh whoops. I forgot to uh -
+B : Ach!
+D : I'd like to do that again.
+B : One thing that bugs me about JavaBayes is you have to click that and  do this.
+C : O_K.
+B : O_K.
+B : So let's see. I want
+C : So that is the probability that they're Entering, Vista-ing or Tango-ing. And uh -
+D : So slightly toward "Tango"ing
+D : O_K.
+B : If it's night time, not  discussed admission fee, and the n- walls are nice. So, yeah.
+B : I guess that sort of makes sense.
+B : The reason I say the
+B : observed everything in favor of
+B : right?
+B : we couldn't figure out how to turn it off of "Tango".
+C : Well, that's obviously just to do with our probabilities. Like,
+B : Yeah, yeah.
+C : we totally hand-tuned the probabilities, right. We were like
+C : So obviously that's gonna happen.
+A : Yeah but it - it
+B : Yeah, that's - that's at -
+B : Spent my youth practicing the  tango de la muerte.
+D : So, the real case?
+A : The purpose was not really, at this
+B : I guess once we look at the data more we'll get more hidden nodes,
+B : Not because it would expedite the probabilities,
+C : Um. Well, yeah, I guess. little early .
+B : No, I think we should have uh - exponentially more
+B : I'm ju- I'm just jo-
+D : So. Are "doing business" versus "tourist" - They refer to your current task. Like - like current thing you want to do at this moment.
+C : Um. Yeah, well -
+D : Oh, so, I thought that was directly given by the context switch.
+C : but still they say things like, "I want to go uh, see the uh -
+B : I kind of thought of "doing business" as more of running an errand type thing.
+C : Yeah. Business on the other hand is, uh, definitely what you're doing.
+B : So i- wi- th-
+D : I see.
+D : So the "tourists" node very  consistent with the context node. Right? If you say that's more their -
+C : Yeah,
+C : I don't know, like in d-
+C : Do we
+C : Like it's -
+B : Oops.
+C : Th- the way we set the probabilities
+C : might not have -
+C : Yeah, it's - it's an - it's an issue, right? Like -
+A : Pretty  much the same?
+C : Yeah, it is.
+C : What's common is you just like don't observe the variable, right, and then just marginalizes -
+C : But uh -
+C : I guess we were thinking in terms of a switch that actually -
+C : I don't know if I totally am happy with the way it is.
+A : How long would it take to - to add another node on the observatory and, um, play around with it?
+B : Uh, well it depends on how many things it's linked to.
+A : Let's just say make it really simple. If we create something that for example would be um -
+A : So th- some things can be landmarks in your sense
+A : but can never be entered? So for example s- a statue.
+A : So
+A : maybe we wanna have "landmark"
+A : meaning  enterable  landmark"
+C : So basically it's addressing a variable that's "enterable or not". So like an "enterable, question mark".
+B : Also -
+B : you know, didn't we have a size as one?
+A : then of course, this is sort of binary as well.
+A : And then um, there's also the question whether it may  be entered.
+A : you know, if it's Tom - the house of Tom Cruise,
+A : you know, it's enterable
+A : but you may  not enter it.
+A : Unless you are, whatever, his - his divorce lawyer or something. Yeah?
+B : actually physically enterable or not?
+D : It seems like it would for uh, uh determining whether they wanna go into it or not.
+D : Cuz they -
+A : if it's not enterable, period.
+B : So Tom Cruise's house is not  a public building but it has a door.
+B : sh- explain to me why it's necessary
+B : and is not public.
+B : It seems like it's equivalent to say that it doesn't have a door a- and it -
+B : Or "not public" and "not a door" are equivalent things, it seems like in practice.
+A : for example, an object type,
+A : It's the hotel  Zum Ritter,
+A : that was left after the big destruction and for the Thirty Years War, blah-blah-blah.
+B : Hmm.
+A : It has wonderful
+A : But, um, it's still an unlikely candidate for the Tango mode  must say.
+A : Can we add, just so I can see how it's done, uh, a "has door"
+A : Oh actually it's - it - wouldn't  nodes,  right?
+C : What I was thinking was if you had a - like -
+B : You could affect -
+C : But
+B : Well,
+B : The safety net.
+D : I think you could just add it. I mean, I have before O_K. Whew!
+C : Well that's fine, but we have to see the function now. Has it become all point fives or not?
+B : And I want to edit the function going to  that, right?
+B : Right. It was fine .
+B : 2x added  this one.
+C : Yep.
+C : Didn't do it.
+C : That's kind of annoying.
+A : it doesn't screw - screw that up.
+B : Oops.
+A : Maybe you can read  in?
+D : Yes. Really I ha- I've -
+D : I haven't used it a lot and I haven't used it in the last you know many months so
+C : O_K.
+D : Srini's the one to ask I would say. Um. He might know.
+C : I mean in a way this is a lot of good features in Java it's cra- has a GUI and it's uh -
+C : I guess those are the main two things. It does learning, it has -
+B : Maybe it did a little  bit of learning, I don't remember.
+C : But uh - it's free.
+C : Maybe another thing that uh -
+B : But actually it had  them   were like, you know.
+A : What is the c- code? Can w- can we see that?
+B : There's like an X_M_L format for Bayes-nets.
+B : The- there is  one. I don't know if this uses it.
+B : Uh, yes I do  actually. Let me see.
+B : Oh man, I didn't n-
+C : what BAT , I guess.
+B : One of these days, it should open this, theoretically.
+B : Oh there  we go.
+B : To the world.
+A : Mm-hmm. O_K.
+C : Yeah.
+C : That's how actual probability tables are specified. As, like, lists of numbers.
+C : So theoretically you could edit that.
+C : But they're not very friendly.
+D : The layout of the table. Yeah.
+C : Well I -
+B : Actually we could write  generate  this.
+B : Yeah you could.
+B : We were doing it -
+C : something
+C : That might be worth it.
+D : Yeah, it's - Yeah.
+C : The other thing is it is in Java so.
+B : We could Or -
+B : Oh.
+C : Yeah. Go up one?
+B : Ah yes, good. "Source".
+C : I don't know if it actually manipulate the source, though. That might be a bit complicated. I think it might - it might be simpler to just
+A : But if th- if there is an X_M_L
+C : Um. The additional thing is I guess learning the probabilities,
+C : E- That's maybe, I don't know -
+B : Uh that's future future  work.
+C : Very  future.
+B : You could.
+D : Right.
+D : I missed my turn.
+B : No I - Earlier I went
+B : Should I pull up the Yes.
+D : Yeah. Could you put the - the um, net up again? Thanks.
+B : There  we go.
+D : So a more general thing than "discussed admission fee" um, could be - I - I'm just wondering whether the context, the background context of the discourse
+D : I don't know, if there's a way to define
+D : there has been something that has strongly associated with say one of the particular modes
+D : uh, and - and into that node would be various - various things that - that could have  specifically come up.
+A : the admission fee, and
+D : Mm-hmm.
+A : which has two -
+A : has it's own middle layer.
+A : Maybe this, you know, has some of um,
+A : phenomenon that you can observe. So things that point
+B : So instead of single node, for
+B : like, if they said
+B : "admission fee", or maybe, you know, "how much to enter" or you know something, other  cues. Exactly.
+B : That would all f- funnel into one node that would constitute entrance requirements or something like that.
+A : So " pay a  visit" -
+D : version of it.
+A : past  these things, so this would be just something that - where you
+A : However these are of course then
+A : the nodes, the observed  your  middle layer.
+A : So this again points to "final destination", "doing business", "tourist hurry" and so forth.
+A : And so then we can say, "O_K. we have a whole region -"
+D : Right?
+A : But with this  discourse phenomena. They ra- may have there own hidden layer
+A : real  hidden layer,
+C : Sure.
+B : there's a complete separation between the observed features and in the output.
+B : the discourse does - well for instance, the "discourse admission fee" node
+B : seems like it should point directly to the - or increase the probability of "enter directly" versus "going there via tourist".
+C : do they want to enter it, which is affected by admission fee and  and  by whether it has a door.
+D : Or maybe um, a famous restaurant. or, I don't know. There are various things that you might w- not want to eat a your own table .
+A : everything else is free then once you're ins- in  there.
+A : But i- you know, i- we can  - Something -
+A : Somebody can
+A : if we - um, you know, um -
+A : based on that result is never  going to enter that building. You know? Because it's just too expensive.
+D : there's change across several turns of discourse so
+D : I don't know how - if any of this was discussed - but how i- if it all this is going to interact with
+D : whatever general I mean.
+C : Yeah.
+B : What sort of discourse processing is uh - are the -
+A : The first thing we get is that
+A : already the intention  is sort of t-
+A : They tried  to figure out the intention, right?
+A : won't differentiate between all  modes, yeah?
+A : somebody that wants to go someplace,  now it's up for us to figure out
+A : what kind of going there is - is - is happening,
+A : so,
+A : because you say "O_K, how can I get to the castle?
+A : So even without an a- ana-
+A : information we had earlier  on is still here.
+A : so whenever the uh,
+A : um person is not actually rejecting  what happened before,
+A : "No I really don't  want to see that movie.
+A : discourse model, Yeah, that's what it's called.
+A : the discourse model actually stores what was presented at what location on the s- on the screen so it's a - it's a rather huge -
+A : huge thing but um -
+A : we can
+A : how
+A : um - which is a question. How deep do
+A : we should
+A : And the dialogues are pretty - pretty you know
+D : So one thing that might be helpful which is implicit in the
+D : use of "admission fee discussion" as a cue for entry,
+D : Like all the different
+D : finding out information about this thing in order to go
+D : in as a tourist or finding out how to get to this place
+D : in order to do business.
+D : Um, because then
+D : anything that's a cue for one of the steps
+D : would be slight evidence for that overall plan.
+D : Um, I don't know. They're - in - in non- in sort of more traditional A_I kinds of plan recognition things you sort of have
+D : you know, some idea at each turn of agent doing something,
+D : and then get s- some more information and then you see
+D : "here's a sequence that this sort of roughly fits into".
+D : It - it might be useful here too. I - I don't know how you know you'd have to
+A : I mean there are some - some of them are extremely  elaborate, you know.
+A : and it - it's fifty steps, huh?
+A : just for buying a ticket at a ticket counter,
+A : you know, and - and maybe that's helpful to look at it - to look at those.
+A : runs up to you with a suitcase in his hands, says
+A : Um, even though there is probably no train from here to New York, right?
+D : The Transcontinental Railroad, doesn't that ring a bell?
+D : Well  of the way. Uh.
+A : and
+D : Well.
+A : yeah?
+A : Has anybody ever been  on an Amtrak?
+D : It's not like German trains.
+C : @@
+A : Much  faster. Mm-hmm.
+C : Yeah, it's way better
+A : yeah
+A : I used - um Amtrak quite a bit on the east coast
+A : You know, on Boston New York, New York Rhode Island, whatever, Boston.
+A : That's a different issue.
+B : This is going  to be an interesting transcript.
+C : That's -
+D : Let's all say it a few more times.
+D : So by the way tha- that structure
+D : that Robert drew on the board was like more um,
+D : cue-type-based, right, here's like we're gonna
+D : and then
+D : you know, we mentioned maybe
+D : if they talk about
+D : m- more than one way of organizing the variables into something so.
+A : doing business, and - and less in a hurry when uh - you're a tourist
+A : Um -
+A : what might  do  get this sort of task-based
+A : middle
+A : and then we'll get these sub-middle  layers, that are more cue-based.
+A : to proceed with this in - in the sense that
+A : and we make up some - some toy
+A : For the uh - nodes that are observable?
+C : Just observable nodes, evidence nodes?
+A : Identify
+A : And then these should then connect somehow to the more plan-based deep space
+B : Basically just refine some of the
+A : The- they - they will  some
+C : I mean but, they're even like
+C : you know we were like uh really
+D : Like, whatever.
+C : Right? Cuz if it's like, uh - If it's four things coming in, right?
+C : like a hundred and forty four or something
+D : And - That's terrible.
+C : possible things - numbers to enter, right? So.
+B : Some of them are completely absurd too, like -
+D : That's uh -
+B : confused.
+C : come here just to rob the museum or
+D : and see appropriate action.
+B : Yeah.
+C : Yeah.
+C : Is Srini gonna be at the meeting tomorrow, do you know?
+D : Quite possibly. Oh, oh, sorry. Sorry, Wednesday, yeah.
+A : The day after  Wednesday.
+B : J- Jerry never sent out a - sent out an email, did he, ever ?
+A : Ben, then , Ben.
+D : um,
+D : Sorry.
+A : O_K.
+C : Oh.
+A : I actually wanted to show that to you guys now but um.
+B : Do you want to trade?
+A : because I need to have a network.
+A : So we'll do that t- maybe uh -
+A : Um -
+A : go downstairs and - and - and look at this, but maybe not today.
+A : O_K, I have to report
+A : for the data collection, also
+A : So that looks good.
+A : Jerry however suggested that we should uh have a trial run with her,
+C : So who would be the subject of this trial run?
+B : "Is one of you
+D : I
+C : I mean that's what we wanna check, right?
+D : Well, in this case it's a p- it's a sort of testing of the wizard rather than of the subject. It's uh -
+A : but you know, if we take a subject that is completely
+A : you know, set up as -
+D : Uh-huh.
+C : Sort of having an actively antagonistic, uh -
+D : Yeah.
+D : whatever, the technical side of things?
+D : I'm sure we can get
+D : other people around who don't know anything
+D : Although he might cause problems but.
+D : um, data collection ready -
+A : just a tape recorder that's running in a room.
+A : we wanted to wait until we know who is the wizard, and have the wizard partake in the
+A : ultimate probe
+A : then nothing should stop us from sitting down next week and
+D : O_K. So the ideal task um,
+D : will have
+D : I don't know how much the structure of the evolving Bayes-net
+D : will af- affect - Like we wanna - we wanna be able to collect as much of the variables that are needed for that,
+A : Mmm-yea-some.
+D : Well not all  of them but you know.
+A : The - the basic  idea
+A : The data we get from Munich is
+A : very command line, simple linguistic stuff.
+A : that more,
+A : that elicits richer  language.
+A : And we actually did not  want to constrain it
+A : too  much,
+A : And then maybe we'll discover  the phenomenon -
+A : the phenomena  that we want to solve,
+A : you know, with
+D : O_K.
+D : So in other words this data collection is
+A : tell us, you know, what kind of phenomenon could
+A : And uh - since then, so.
+A : Uh.
+A : now that of course we have sort of started to lick blood with this,
+A : and especially since um -
+A : Johno can't stop Tango-ing,
+A : So now I think we should  maybe have
+A : at least one navigational task with - with sort of explicit  -
+A : uh not ex-  implicit  that the person wants to enter,
+D : Exactly.
+A : if we'd just get data we'd never know  wanted,
+A : That was that.
+B : I just randomly
+A : Maybe we ought to switch off these things before we continue.
+D : O_K. Switching o-

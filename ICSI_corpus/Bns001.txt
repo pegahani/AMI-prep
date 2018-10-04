@@ -1,0 +1,909 @@
+A : @@
+F : which is on the right hand side there.
+F : So this is transcript one five five one dash one five seven zero
+F : two seven
+F : three
+F : four
+F : five zero zero
+F : seven one six
+F : eight four four
+F : nine five two four seven
+F : O_ six O_
+F : zero
+F : one
+F : two O_ O_ two two O_ four
+F : four one seven five
+F : five three
+F : six six eight
+F : seven
+F : eight
+F : nine
+F : O_ O_ nine O_
+F : one one five nine
+F : two four six six two O_ five
+G : O_K, transcript is one seven three one dash one seven five O_
+G : O_ one nine nine O_ one three
+G : zero seven six seven five
+G : one seven four two O_
+G : two
+G : three
+G : four
+G : six one eight seven
+G : seven four zero seven
+G : eight six four eight
+G : nine five
+G : O_
+G : zero
+G : one zero
+G : three two three
+G : four three seven O_
+G : five three zero two
+G : six nine
+G : seven nine seven
+G : eight
+G : nine O_ nine
+B : O_K, this is transcript one five seven one, one five nine zero.
+B : three nine five
+B : four seven seven O_
+B : five nine
+B : six
+B : seven O_ O_ six one
+B : nine one six four two
+B : O_ seven one
+B : zero three
+B : one eight zero zero nine eight five
+B : two
+B : three
+B : four zero zero one seven
+B : six three five
+B : seven seven
+B : eight nine nine three
+B : nine six
+B : O_
+B : zero
+B : one
+B : three one eight five seven four three
+F : If you could sign that?
+D : O_K, Transcript script one four one one dash one four thre- uh three zero.
+D : seven six four six three seven four
+D : eight six six four seven
+D : nine nine O_
+D : O_
+D : zero zero six
+D : two two eight zero one two five
+D : three four
+D : four six O_ two
+D : five six four four six
+D : six eight one five
+D : seven O_
+D : eight
+D : O_ three
+D : zer-
+D : zero three five three two
+D : one five three
+D : two six two two
+D : three eight
+D : four O_ one six one
+D : five
+D : seven two three five one two eight
+E : Um, transcript number one six five one, one six seven O_- uh O_.
+E : six O_ O_
+E : seven zero
+E : nine one
+E : O_ three w- O_ O_ nine
+E : zero six two zero two eight five
+E : one eight
+E : two
+E : three
+E : four O_ eight five seven
+E : six two four
+E : seven four three nine five five zero
+E : eight seven two seven
+E : nine eight seven one one
+E : O_
+E : zero
+E : one
+E : three two O_ seven three
+E : four two
+E : five five six
+E : six five
+A : Transcript is
+A : O_ O_ five six
+A : zero zero six four
+A : two one one seven O_
+A : three three three eight
+A : four two
+A : five five three five
+A : six
+A : seven
+A : eight
+A : O_ two five three seven
+A : zero four seven four five six three
+A : one six eight eight
+A : two
+A : three O_ three three nine five one
+A : four
+A : six three
+A : seven four six six two
+A : eight five three
+A : nine
+A : O_
+C : Transcript one seven one one dash one seven three O_
+C : nine four
+C : O_
+C : zero
+C : one
+C : two zero zero three one nine nine
+C : four one
+C : five two one six nine eight eight
+C : six eight five
+C : seven nine zero eight
+C : eight O_ six nine
+C : nine O_ three nine
+C : O_ O_ seven
+C : one one six eight five two two
+C : two six zero eight
+C : three six five nine
+C : four seven four
+C : five eight three nine
+C : six
+C : seven
+C : nine four two O_ nine
+D : O_K.
+F : Actually
+G : research on how people
+G : behave while reading these numbers.
+D : Two nine seven seven?
+D : Right .
+D : So, then let's start with
+D : we learned too much,  I believe, so
+D : um, we have a new member in our group,  Miguel Sanchez.
+D : quite a little time and I think   meantime.
+D : And - Because I discussing with him uh, uh
+D : what the N_S_A group intends to do.
+D : I hope there will be a match, uh, then, for his future work.
+D : And the second  much  detail.
+D : I believe we still haven't left
+D : I would like to focus on the question
+D : going to solve with such a proposal." Not  activity  itself  outside,
+D : but, the technical  problem.
+B : uh Polytechnic University of Valencia
+B : and i- uh I um,
+B : just finished  my
+B : about uh um-
+B : power-saving techniques for wireless networking.
+B : And, uh I've been working -
+B : by the same  nodes.
+B : I've in  the study for some time
+B : these kind of networks.
+B : uh, networking @@ . So this kind of things I think I'm
+D : will have a talk next Tuesday
+B : That's  O_K.
+D : Um. One short other  topic is
+D : and visas and whatever,
+D : um write, with what we discussed before and
+D : in the form of H_T_M_L stuff. And
+D : put it on the web pages
+D : So, I will send an email, then, to everybody that they should
+D : No?
+D : So.
+D : Yeah?
+G : that would be fine, cuz now we can add some more stuff there.
+G : published there.
+G : Yeah and
+D : really structured. Then maybe you wi-
+G : Yep. I don't know, some - some hints, some web sites or links which are useful
+E : everybody? Or,
+E : I'm not interested  work.
+D : No, but this is - oh, uh - Everybody's obliged to do it for his own, you know.
+D : Claudia is not the webmaster here to, uh, get the collection for -
+G : Oh, oh, no, I'm not doing it for everybody but what I can -
+D : for - for everything.  So.
+D : uh, everybody's  own,  yeah.
+G : the chance to put his content inside so
+B : Well, like have a blueprint.
+E : O_K Mm-hmm.
+D : I ask everybody whether read  understand
+D : Yeah.
+D : Everybody say yes?
+D : Yes, O_K. Um.
+D : four building  network  level
+D : available wireless networks and, uh, also for future  generations.
+D : And, what the missing  thing is really
+D : what kind of problem
+D : wan- wanna s- solve
+D : And Wilbert yesterday mentioned, and he is right,
+D : maybe, service
+D : we are really  going to offer.
+D : The linkage   also   multimedia  application
+D : and, uh, this kind of networking  stuff is, um,
+D : there will  be
+D : of course, a portion of mobile  application.
+D : But, I think that's not the majority  focus  of
+D : um this kind of - um
+D : this kind of application anyway.
+D : So I  would like to - to - uh
+D : split,
+D : tsk
+D : and I would like to - more to focus if we have  building  network,
+D : um, glue  between these four building blocks exists and
+D : what kind of synergy   together
+D : exists for networking  stuff.
+D : And what kind of service
+D : could we provide in that area.
+D : We will  have these
+D : So maybe uh, Wilbert, you can start to discu-  oder   to - to
+D : Was it also related with - with these things. No? O_K, It was  @@ .
+C : This afternoon you mean? No, this was unrelated to - to the things of yesterday and last weeks
+D : Yeah.
+C : wha-
+D : uh, M_P_L_S and Wilbert an expert  for - for Multicast,
+D : and, uh, I discussed with Miguel.
+D : It's uh maybe a little  bit the shift to active routing, but it is still in the area of routing.
+D : My idea is, in principle, to have,
+D : independently  of
+D : any  any  contact,
+D : the institution which is behind
+D : That means uh K_P_N in your case and Siemens in our  case.
+D : other partners registered in the
+D : proposal  migh-
+D : this kind of things. Maybe they have certain additional activities and they're interested in the results before - The benefit here is,  in principle, that the
+D : results  available.  restricted  any way.
+D : If you have your own  activity.
+D : O_K, the better it is.
+D : But, anyway, if we come to a certain kind of uh, common work
+D : that's really beneficial   to
+D : everybody.
+D : And uh, especially, Wilbert, if you have in mind to
+D : go in the
+D : project proposal  view,
+C : Yeah, and
+C : This probably has to be a brainstorm  right now.
+C : Um What I told Joachim yesterday was that, uh
+C : uh for my  I  work for,
+C : they  service,
+C : Me,  on the other hand, I'm more interested in
+C : uh, core service,  myself.
+C : So I'm u- I was thinking about uh, how I could combine the both of them.
+C : as a - well, not really a U_M_T_S service, but - yesterday, what I discussed with Joachim was uh,
+C : a w- little bit based on your  ad-hoc networking also.
+C : the - the - the Lucent, uh, equipment has a l-
+D : Hmm.
+C : Sure.
+C : So, if they  else  will probably do it.
+B : uh um you know, uh, income,  too.
+C : I'm not sure about it. It could  be.
+B : Mmm. I think, they are using different, uh, radio technologies. So, not  compatible.
+C : You could have a U_M_T_S gateway
+C : that translates everything to that uh w- local @@ .
+D : Yet  the basic idea is, in principle, to switch seamlessly between
+D : wireless LAN technology, whatever
+D : and U_M_T_S, right?
+D : And you see the benefit that, in principle, the customer will save a lot of money.
+D : Because if in-house communication like WaveLAN or maybe
+D : U_M_T_ S  connection
+C : If connection is lost, I am - I'm not sure if sometimes you'd
+C : It's
+C : if it's uh
+C : I don't think  so.
+B : is eh the cost  function.
+B : who is switching from one - let's say - zero-cost  area
+B : to another network
+B : where he has to pay.
+B : It is O_K for the service to continue
+B : uh switches  from one network to another.
+B : wants to be aware that he's switching from one  another.
+B : while he's uh having, let's say, a vide- video conference
+B : uh over  the - the WaveLAN
+B : oh  he's not paying any extra cost.
+B : But when he continues  with this service
+B : on the U_M_T_S, he's having  to cover
+B : uh an important - let's say, an important cost - or some  cost,
+D : Yeah, non-null @@
+B : So uh
+B : wants  to be aware of.
+B : Of course, this doesn't  mean
+B : non- null  cost area network. But
+B : some users want  to do this.
+B : I'm not willing  uh you know the sports news.
+B : motion,  switching,
+B : wave - uh wireless uh local area network, well, I - I want  the service to be uh stopped."
+B : can be some pattern then that some users will follow.
+D : And uh this  one is, here, -
+D : this stuff  also  end  system.
+D : And in my conf- uh considered end  system,
+D : there is a certain kind of policy,
+D : concerning how  to use subnets technologies
+D : and - and all these kind of things. How to use quality of service, you know ,
+D : in advance,  pay
+D : for certain technologies  services.
+D : And that should  could  must  be a certain kind of
+D : user interaction always possible,
+D : I think that's  problem.
+D : instead of G_S_M  U_M_T_S  wireless  LAN today
+D : also  card
+D : from Dataco-  ? No.
+D : Dacom
+C : Oh, the one I have Sitcom  Yeah.
+D : uh subnet layer technologies available in your laptop.
+D : Is that the problem?  problem.  Right.
+D : the information that a s- certain coverage  subnet  techn- technology is available.
+D : then what Miguel  not  to switch,
+D : But this is end-system  related.
+D : That's not network  related.
+D : I see no  network related stuff within these -
+D : It's only  to set up i- u-
+D : For me  it's like a laptop t- to plug
+D : P_C_M_C_I_A - and currently will have two
+D : And I cannot  it
+D : other  only
+D : G_S_M, because the interfaces, the driver  interface,
+D : between different  technologies. So if I want to go to wireless LAN
+D : in principle, were close together  application.
+D : And then I go outside, and want to go still on,
+D : U_M_T_S  or G_S_M st- uh network.
+D : senseful application. From my  understanding, that means
+D : which you  as a  U_S_A_I_A architecture.
+D : do the switching
+D : uh, transparently  to this application,
+D : Maybe there's more potential. I don't s- see  it, but maybe you have a
+D : this end system device
+D : uh architecture,
+D : which will  automatically.
+D : where you listen to. So
+D : uh uh-
+C : what you w- what I would like to do, so
+B : But when quality of service  comes to the uh scene,
+B : well, I think we have a -
+B : a bigger  problem because
+B : seamless at all,  because
+B : maybe the - the quality of service we are getting
+B : when we are connected to a certain network,
+B : let's say high-speed  networking,
+B : cannot be sustained when we are
+D : their com- whether  their comments.
+A : maybe in different layers?
+A : So one layer is having  the seamless
+A : It's clear if a technology doesn't provide that quality of service,
+A : you can't do magic and have  it.
+A : certain constraints  on that.
+A : It's true.  But for - with the cases there -
+A : There, it is  possible.
+B : It can  done.  It is just -
+A : There are still  problems  i-
+A : doing  it.
+A : But it  might  be
+A : if it's a -
+B : Yeah. In fact, if you take the slower technology
+B : of the ones you are planning  to -
+B : offer this warran- this - uh this throughput  minimum  warranty you - you can get.
+B : So, if everybody is - is asking  less  than this minimum amount,
+B : no problem  at all.
+B : But in this case, maybe not too much effort should be put on providing this quality of service because you just have
+B : a - usually a huge  bandwidth compared
+G : Oh!
+A : @@   ist fertig.
+D : Uh. Good luck.
+C : The - the thing is that we are looking for a research topic on - on those
+D : And the building  blocks, yeah. Multicast, not a topic.
+C : So - so we went uh
+C : well, at least  no wireless environment or a mobile I_P environment,
+C : Iceberg?
+B : Barwan.
+C : Barwan uh E_S
+B : Barwan.
+B : what they were doing was some kind of
+B : uh things si- somehow similar  to this.
+B : Uh Don't know.
+B : I - I - I -
+B : And in this report, well, they - they pres- they have uh some slides, some uh papers, some - well, a lot of things.
+B : And well
+B : available in M_P-thr- M_peg  format.
+B : And uh
+B : well what this video was presenting was a kind of test of - of
+B : with a portable computer,
+B : And then, finally switching to - I think it was city P_D  or something like this.
+B : on -
+B : changed.
+D : @@
+C : I like them so
+B : to - to highlight the differences.
+B : Because if not, well, they can say, "Oh, you are doing the same thing. "
+B : "This was done
+C : Or maybe talk to them about s-
+B : Yeah, well we are close.
+C : operations  they thought of but didn't touch yet.
+D : Uh I - I will send also the pointer
+B : I'll - I - you - uh
+C : Well coincidentally, I b- bumped into this project here.
+D : Mm-hmm. Ah!
+C : And then from Nokia I came to this - that project, so.
+D : Ah! O_K, I see.
+D : Yeah? @@  O_K.
+C : research, so
+D : in Palo Alto as well as in Germany, Ulm,
+D : is doing,  car.
+D : uh G_S_M G_P_S  and - and fu- for future
+D : extended G_- uh G_S_M networks and wireless LAN and and other thi- and other network technology.
+D : lot of servers
+D : the trunk  of the car.
+D : wireless LAN, G_S_M and 2x Ricochet  networks.
+D : They collect   collect   - collecting a lot of data.
+D : use current  technology with a c- a combination of mobile I_P.
+D : uh if we are going something in that direction
+D : that is quite different from this thing here.
+D : I see some difficulty because nobody
+D : Bible  I would like to say
+D : As far as I know the U_M_T_S standardization is not  yet.
+D : Ninety percent, maybe, or eighty  percent. I kno- I'm not sure.
+D : But uh
+B : communic- wireless  communication systems.
+B : uh is there uh something more that - nnn, that - than more speed?
+B : Is there any other  advantage,
+D : You can  request certain kind of Q_S.
+D : You can  G_P_S  but
+D : it's not end-to- end  quality of service.
+D : It is only um what the gateways
+D : And within the core network set  up
+D : in the core network itself  not  the internet backbone core.
+D : And you use certain kind of tunnel
+D : mechanism   to
+D : uh is controlled  node .
+D : And you have the gateway to the P_D_N, or the Public Data Network.
+B : is that every voice channel  you use
+B : implied
+B : um
+D : You mean now for G_S_M, @@
+D : Yeah, what is  - what means quality of service. A certain degree. Right?
+B : No, but - um but not only  because of - of data speed, but also
+B : about delay,
+B : developed to y- uh with a voice service in mind.
+B : Ah, delay is also considered in these networks.
+B : by using several channels.
+D : It's packaged  data oriented.
+D : It's not really circuit-switched.  U_M_T_S  G_P_S  as a -
+D : a involvement in the core  network.
+D : You have, in principle, the path  which still is available
+D : for - for the G_S_M network. Also they use , in principle, the same
+D : uh the same mechanism.
+B : a - a lot of difference. We can expect  a lot of differences
+B : uh it is not  a big problem that any of us uh
+B : be uh um were  um a U_M_T_S expert because
+B : a technology  issue,
+B : than a research  issue.
+B : Maybe I'm wrong.
+B : Just es- um
+D : No, I think there's a lot - Yeah. - I think there's a lot of research.  But the question is "is this uh
+D : a research wh- in which direction we  are going?"
+B : I mean - to be done here, not - not at the - of course, you know, I'm - I - I agree with you that there are a lot o- of things to be developed but -
+B : But the point is that - uh this is probably not here.
+E : You think more about hardware  technology.
+E : So, there is a lot of hardware to develop, but not -
+B : all have a lot of things to be - to be - uh researched.   something  here.
+D : Right, but bear in mind the picture is a - is a little  different.
+D : The picture I  use  voice,
+D : it's not worth  to have this kind of network.
+D : And, currently in Europe, where it will be deployed first, I believe,
+D : for - using it for voice. Because they paid a lot of money. So.
+D : you use the U_M_T_S to connect to the internet  services  which
+D : um device
+D : phones,
+D : then you have certain kind of problems, you know, because you cannot use these things .
+D : from the mobile node up to the certain kind of server, "correspondent node", or whatever  destination,
+D : only one link where you have certain kind of subnet
+D : And you have to match these things anyway.
+D : It's like a normal ethernet.
+D : to the - uh to - to the - to the - the internet  technology.
+D : And furthermore, you see that the trend  is to put more
+D : I_P  technology,
+D : really,  really  adaptations,
+D : to their access network itself.
+D : And potential,  research  work.
+D : First  of all.
+D : We can design  them,
+D : yeah, from the protocol  simulations,  whatever.
+D : And we go around here and we have maybe a G_P_S-base station sponsored by Ericsson,
+D : So, that's  my point.
+C : May-
+C : Unless you get some money through some way
+C : like the zip  uh -
+C : s- zip  also discussed before a little bit.
+C : That's um normally with - if you do a socket programming, it's directly
+C : could you introduce  such a session management, or -
+C : uh talks, and so on, uh like zip .
+D : higher  level.
+D : Right? It's no  more  network.  leaving  network  area.
+C : So how do you want to focus on network services.
+C : Well the- So "network applications", if you look at the name of the group,
+C : by  a network.
+C : If you look at "network "
+C : uh, level two or something or
+C : everything below  three.
+D : No  see  I_P
+D : despite the fact that layer four is only residing, normally,
+C : But are there "network applications ", then?
+C : So, the - the name is "Network Services and Applications", s- so what could be an en- example  of a network application if you
+C : look at the O_Z  stick?
+D : "Network Applications". So, everything
+C : O_K.
+D : in the world.  network?
+D : For my  so  - such a long time
+D : For instance, e-commerce.
+C : O_K, O_K, well, they will - I didn't  want to get a discussion now.
+D : And it's really, really yeah
+D : You know? Yeah.
+D : uh to the network.  any  application.
+D : And we also  security.  expert  anymore.
+D : Hannes  was an expert for that.
+D : So the
+D : lot of activities in the outside world and I believe there's a lot of contacts.
+D : Or there could  be
+D : And uh many universities maybe Claudia mentioned Duisburg. And uh - in principle,
+D : We will not take care about these  one, but we can use them as
+D : um
+D : and starting from that.
+D : Or, are there other  suggestions?
+E : have already so much work put into this proposal, why to switch  now?
+E : So we have to think about an application which   - which is um
+E : you decide to play a g- video game with somebody else  who's traveling.
+D : I'm sure, O_K, that it is the wrong place to get the foundation why we are use this kind of application,
+D : application, in principle, while it is then  very very easy to get a certain kind of access
+D : who provides  this service.
+D : we - we are playing videos, in principle, if you have a field  trial.
+D : You can
+D : um, now, how to say, the requirements  of this application using
+D : But nevertheless, it's not the best for 3x
+D : But it - Does anybody see
+D : certain kind of potential  on,
+D : and to start  the work
+D : based on these building blocks? Because Multicast you still mentio- uh you mentioned that there is no  potential. I think it's
+D : next generation networks
+D : in the wireless
+D : they are still  some potential to map
+D : because they use  it.
+D : all this kind of things, I think, is very beneficial
+D : neglected   right  in that sense.
+C : Well, think it works, but uh yes, the mapping of course between multicasting and the U_M_T_S or - or whatever
+C : I - I only know how it works on copper and like ethernet and on P_S P_P_P  over something
+D : I_P -layer technology,
+D : then, why do - the mapping of multica-  also   potential
+D : mapping of Multicast, I think, must be of major interest  for them. Right?
+C : make it part u- like the ETSI  or whatever - where U_ - wherever U_M_T_S is standardized
+C : Of course, yeah, this - this group could do that, too.
+C : Could be, but
+B : generation. I mean, are they maintaining -
+B : are they holding  the same web technology?
+B : Or, are ju- just they - discarding
+B : I - I don't know what will happen.
+B : we-
+B : strongly  affected.
+B : At least, uh, if you - we want to use U_M_T_ S.
+B : looking for an answer  because I don't know if uh some of you have
+B : carriers  are planning to do about this.
+C : our web gateways, when we g- even go to G_P_R_S
+C : let alone U_M_T_S .
+D : Now, WAP is   not  only  thing. It's only the adaptation towards the
+C : But but still a le- d- it's a - it's a fundamental
+D : So  yeah.
+C : It's stored in a WAP  cookie,
+D : It's transparent, in principle, what you can carry,  but -
+D : It must be uh
+C : But @@
+D : @@  of the contents, in principle.
+D : It's too late,  I believe.
+D : then I think it was  there would be a good chance that it is
+D : and - and uh I would say "handies", so that's wrong phones,
+D : Yeah, but - The hype  but
+D : pffft
+D : I never  saw a user using WAP.
+E : I don't have a mobile phone.
+D : Oh.
+A : Who is using mobile phones?
+C : Bu- well, you don't have a mobile phone in - in the U_S_A here.
+B : No. No.
+B : Not  me.
+B : Mmm.
+B : my main  complaint has been all the time
+B : Ah or something like this, but -
+C : Bu-
+C : I'm the first one to admit that's a h- that it is a hype,
+C : but - and - but I'm - I just wanted to say it is  used.
+C : no.  I'm not a supporter of it.
+C : So they have this optimized protocol to - to transmit a few ASCII bytes that can every, well, second, a few times.
+C : But the thing was, y- you just asked well, "will - will it be the same, will there be WAP for U_M_T_S" and so on, Q_P_R_S. And - well - I don't have the answer, but I thought it was not.
+B : Well
+B : I - I don't know  what will -
+A : is  so general that it can be used with U_M_T_S.
+A : So if you still  want to use
+D : Yeah.
+D : Yeah.
+G : Yeah, but the task changed really a lot,  so, I'd - I rather would like to
+D : Yes,  right.
+G : The first point is it's much more than it was before I left,  that big now.
+G : And it really changed a lot cuz the - I mean I found  inside  left  the discussion was that we are talking about uh
+G : Now we are talking about something which is much more precise and the - the range of stuff is maybe more
+G : narrow than before so I'd rather like to - to follow it a bit, and then to get more into the ideas.
+C : c- Can I do another one, like
+C : U_M_T_S or wireless expensive.
+C : not really billing,  of course. I wouldn't -
+C : bit  voice or some other -
+C : That - those type of application you m- may - might want to make more out of a megabit per second or something.
+C : Could that be something, or - ?
+D : Also   we want to go more in the triple-A_
+D : Right? Because billing alone
+C : Or is n-
+D : Or Authentification and Authorization.
+D : and nobody  is -
+D : has the skills to deal with that.
+A : My  impression on this
+A : every single block research done already. So, multicast.
+A : But no one actually put them together.
+A : the problem with this  big
+A : So that you really  have a complete -
+A : in one scenario, multicast, networking.
+D : Yeah. I-
+A : Not just the islands alone.
+G : uh cuz when I  this  here.
+G : And so the discussion was much broader than it is maybe right now. And there I had the impression the umbrella was this kind of classroom Right?  wrong?
+D : Yeah, in principle, it is  detail
+G : Yeah, yeah, yeah. It is.  course.
+G : Yeah.
+D : oder   what c-
+D : could be derived  aligned .
+G : you know, everything of these work packages uh fit together under this one big umbrella.
+G : And now it sounds different.  that's  understand.
+G : Ah but, it's also because I missed weeks.  So.
+G : It's a - a bit hard for me to follow the development what happened in the last four weeks, why it changed  so.
+D : Yeah O_K maybe one sentence - one sentence. If you're focussing on the argument chain as follows. I have an application.
+D : These requirements are,
+D : access and then mobility management
+D : and -
+D : That is  it. I want to focus on it.
+D : Then you have in mind that - Or you must  have in mind
+D : that all other  other  networking stuff
+D : is not affected  by this.
+D : That you can use it with every  mechanism   in the network,
+D : that is not  multimedia  classroom,
+D : it must be fit end to end.  And if you assume something, like we discussed it,
+D : very hard with - with Multicast,
+D : that you assume that Multicast will be available
+D : portions  of the network or
+D : end,
+D : all throughout of the internet.
+D : Otherwise it makes no sense,
+D : uh Multicast, we must  both  approaches",
+D : that you have eh application  layer Multicast as well as maybe
+D : some  other Multicast and maybe
+D : really  @@
+D : server
+D : you want to use any  application.
+G : So if I understand it right,  what has changed is before we were focussing on -
+G : So - Cuz what's difficult for me  is what is meant by "application"? So. Cuz I have sometimes the impression that everybody is defining "application" in different way. So, what exactly is mean by "application"?
+D : But elsewhere any  application in in in any kind of
+G : So what has changed is that we're not only focussing on this intelligent classroom,  everything.
+D : Not on everything.
+D : That's not true.
+D : here,
+D : that we have a certain kind of eh possibility  change  access  networks.
+D : That means the wireless  that  provides,  mobility.
+D : But the problem is that you could not focus access  end  scope.
+D : And if you see, for instance - We have routing algorithm but different protocols and whatever  Multicast,
+D : different things really for different providers,  things.
+D : For instance, that's one provider domain and you can say well why not use active routing  in that provider domain?
+D : forwarding  process.
+D : It's impossible
+D : to deal with that in the whole internet,
+D : because security reasons and whatever  impossible.  So how to combine these
+D : pos- uh potential um extensions in the um access  networks,
+D : and - without losing the end to end scope in the internet.
+D : Then you can have certain n- novel features give the providers like K_P_N or whatever,
+D : see the building blocks for the future networks because
+D : there's a three g- third generation like U_M_T_S, a fourth generation more I_P related.
+D : There will be a fifth generation, I'm sure.
+D : uh uh full I_ P,  end to end.
+D : But nevertheless you can only - not only focus on "O_K, I provide this mechanism"
+D : because u- you are accessing a certain kind of server node in the internet,  application.
+D : And then this mechanism must fit  it there.
+D : impossible to change.
+D : You see the difficulties with I_P version six,  Multicast.
+D : They are discussed since, you know, ten years  or whatever.
+D : The specification  islands  in that. We cannot assume that everything is end to end available.
+D : maybe
+D : at a certain stage end to end available, maybe we have a lucky that the islands are connected to each other or - the same applies for M_P_L_S, for instance,
+D : maybe they are only portions  available,
+D : not  nothing  is available.
+D : But you have to select  content in the internet.
+D : So is it possible to d- have certain kind of normal features in the access  network without losing the end to end scope of - with these difficulties we are dealing with.
+D : I always say that the success of internet make it unflexible.
+D : It's impossible to change  very easy.
+D : It's easy maybe more on the access network as in the internet backbone.
+D : done in - in - si- since - uh since a decade.
+D : some f- some  start  with something.
+D : And that's my missing point.  That we
+D : maybe in the first stage fo- for the N_S_A core itself,
+D : mmm University of Berlin or something and maybe University of Mannheim or Duisburg or  oder   whatever.
+D : then you have only to take care  a little bit aligned,
+D : and the activities are literally  going in the - in the same um pace.
+D : So that's the basic idea.
+D : But really it's to - to figure out certain kind of smaller  .
+D : That's  back,
+D : and we have certain boat,
+D : O_K, we can go to a broader scope  whole thing, yeah.
+B : Uh let's assume that we are successful  proposal,
+B : so we get the funding
+B : Because answering this - these questions
+B : know  application  we want.
+D : Yeah, but the problem is second  step.
+C : Mmm.
+C : N-
+C : Well, I'm  sure.
+C : I - I th- I think I agree with him.
+C : You want to do a big  great  thing.
+C : then it starts to get big we should all go to the - in the same direction.
+C : then freedom  thing  you want to m- do.
+C : No. But you - but you don't get  Siemens,  for instance.
+D : O_K, everybody's paid here.
+A : But for theoretical - or for historical  if  do  with that?"
+A : So if we don't know  would  like to do with the money,
+A : we probably wouldn't get  do  what we don't know.
+D : That's right. That's right. Yeah. Yeah.
+D : Now , that's the point why I am focussing on - more on the -
+A : That's just the same question just other way around .
+B : Some days ago, I bought, like some of you, this kind of things.
+B : This is a P_D_A eh three com uh Palm Pilot compatible, nothing - nothing that great, but it has some - some possibility of being expanded.
+A : Modernistic stuff!
+A : Completely useless!
+B : in here  wireless  thing I can put on - on this
+B : A lot more expensive, but that's O_K, I have the funding
+B : Then I can add a couple  of cards at most,
+B : In - in the better case, maybe I'm only  able to add two different networks to this thing.
+B : the difficulty I see is that
+B : um, maybe we are uh too advanced   advance  for the current technology.
+B : able - It will - Sorry. It will be difficult  for us
+B : to develop a - a reasonable  test bed with the available technology.
+B : If somebody tell us, "O_K, now here you have the thing,  How  now?
+B : you know, to get used to the uh - all the ideas and to see that all the things are really connecting  most  among the different things we are trying to align.
+B : Now let's proceed. What - what kind  buy,  put  program.
+D : and eh I could speak only for my  skills,
+D : I believe to derive a certain kind of Q_S Reservation-in- Advance  scheme
+D : mapped then really  to desired network
+D : @@
+B : The point is for
+D : But first  generic  but
+D : you can have more of a qualitative description,
+D : and - and - and
+D : whatever  ways  to have certain kind of Q_S Reservation-in-Advance, and I see it as definitely is necessary to have this one
+D : But then,  to go, for instance, to U_M_T_S,
+D : And if I really have an I_P  application,
+D : where I need  will  rest of the internet.
+D : So how  can I map these things uh to the U_M_T_S stuff?
+D : And what  first  generation?
+D : And how it is possible to map this one to this  technology?
+D : identified,
+D : what is really  for Q_S - eh Q_S-in-Advance for - for mobile systems,
+D : Because then you are
+D : maybe no  more related to this kind of thing.
+D : I believe the same  Multicast.
+D : And I believe the same  routing.
+D : So, in principle,  would  paperwork  anyway,
+D : and then prototypes
+D : must be derived  maybe we will start here with a certain kind of uh testbed equipment we still have here. We have four
+D : and maybe then  -
+D : uh uh Hopefully, then we have
+D : with the money also not eh only for the room , that would be great, but
+D : there are also some sponsors  then then
+D : then we add a certain kind of field  trial.
+D : But I think that's -
+D : that's years,  you know.
+B : A long way, yeah.
+D : That's years.
+D : But in the beginning we must have a certain kind of framework
+D : Real  whatever.
+D : because these  definitely  available in Europe.
+D : There's some money spent  certain  flavor.
+D : It will  be available.
+D : And it will be also  U_S_A .
+D : despite the fact they are also  certain kind of thr- third generation and fourth generation networks.
+D : So that is what I  have in mind with that.
+D : There's not the selling  idea behind it.
+D : Yeah, if you go with  O_K  this  one here".
+D : extend something and the end system, or what you mentioned here was the seamless four technologies inter-working in the end s- ,
+D : then you have an - an - a device which you can sell.
+D : If you go for a networking pfff um
+D : uh improvements, in principle, and - and understanding next generation building  blocks,
+D : uh there's no product.
+D : But it is a long term - it's long term, I think, uh work  you can do.
+D : some application  boat  their  application stuff,
+D : It might be we have then the active classroom, but it could be another  one
+D : that is not representative,
+D : Yeah. Then - then is  something available but
+D : We have some content. We will then  discuss it on next Tuesday as I mentioned.
+D : Uh Anyway, but uh that were - is my answer  to the question if some money is available.
+D : The good thing is that the money is  paid  here.
+D : So that is  money that the - the smallest portion of money which is available.
+D : because maybe then K_P_N is uh no more interesting to go on  with this work,
+D : And if we have other  suggestions and eh have this as a long term
+D : the road map for the - the next generation networks is - is eh - is for many  years.
+D : And b- before U_M_T_S will be deployed very  well, I believe eh it will be common t- uh two thousand four or something like that.
+D : And - and have intermediate  related  in this direction, something like the seamless handover for two technologies or whatever.
+D : This is a smaller portion in the gen- more generic framework, I would like to say, from this  proposal.
+D : Why not go in this  way? I -
+D : in the matical  you  in a certain kind - a certain extent, you are decoupled from networking stuff.
+D : Because your focusing on the mathematical thing of whether it's a network or other thing, it doesn't matter  -
+E : I'm focused on performance evaluation and um - especially of communication  networks and -
+D : Yeah. So. There is it  still ongoing activity
+D : eh also within Siemens  and also with some project there.
+D : And I believe your routing stuff is also  available, uh,
+D : and - and that's why, in principle, the skills will be always available I guess .
+D : if there is a certain type of project in the home  countries and then the
+D : @@
+D : Currently no money is available, you know.
+B : Yeah but uh, this will -
+B : I think w- This will improve over time, I'm sure.
+B : This is usually the best ah - the best place to - to put a project on.
+B : Because it is involving different partners from different points of - of Europe .
+D : Now, I will not prevent anybody from getting some cake  and we are sitting here together it's
+D : I - I think you got  you  here from this current available scrap project proposal.
+D : Can we both  have together,
+C : So - that makes sense to do  in this ar-
+C : I mean the Bay  @@
+C : So, one somebody or two somebodies can be found uh founded or get money
+C : to join this  project.
+D : Can you consider poten-  also   in the meantime,
+C : They - they want something pretty strange  service,  network  service.
+C : There are sixty million billion people in the - in the world that think of services all day
+C : And just think of a service like that, if I could  do this.
+D : No, but, uh fff maybe based on this one and you see the networking stuff
+D : as much as possible to the internet. That's the basic idea,
+D : that you can  use  of these novel things.
+D : or they are on layer f- one to l- l- up  to layer four.
+D : Because they do not consider it very well. They know there is  a certain kind of location information
+D : And the networking guy said O_K it would be great  to have Multicast and all these kind of things in the network,
+D : uh for applications, there were new app- old application make use of it and how can new  application arise
+D : Yeah, what is our  -
+C : So I'm just trying to think uh m- more ahead, like uh use the wireless device as a - only as a signalling  thing or something.
+C : I think the- they are working pretty hard to get I_P available very good and efficiently from uh two mobile devices or wireless devices.
+C : a th- thing
+D : looks very strange to me  because you have different numbering screens, concerning you have a phone number,
+D : for me,  you have not the end to end parts of for - for I_P functionality.
+D : But anyway you - yeah?
+C : Our group might fo- want to focus on the uh I_P over ether no
+D : Why? What kind - what kind - I_P over what  do you call it?
+C : or over ether  -
+D : No  net.
+D : That would be great!
+C : Over -
+C : carefully integrated for  is  no net.
+C : If you want to do - make like also for wireless devices end to end I_P available, that  could be a vision.
+C : Well, so he - he says well I_P to I_P or end to end I_P, is far - well, it's far away.
+C : So you - what you might  S  out there
+C : and just do uh I_Ps playing over radio.
+C : Like - like S_D_H, I_P over fiber or W_D_M-   W_D_M.
+D : @@
+D : @@
+D : If you have different kind of protocols texts and network management system, and the billing system and all these kinds of things which is besides  the networking stuff, in principle, but you still need it,
+D : @@  Well, that's my final vision you know.
+D : uh additional maclear
+B : Unless - unless we speak about quality of service,
+B : which is not eh embedded  on - on I_P services.
+D : And - and - But yeah but I think we sh- we will miss the cake and I think we should stop now but please everybody,
+D : much progress today  in the meeting,
+D : this kind of activity lives from all,  input  of all.
+D : I could not - I f- didn't have the time  in the past and I will not have it in the future and
+D : maybe I will stay here only s- four weeks  weeks.
+D : not the best  thing if the activity is dead when I am leaving
+D : uh also from the contributions of everybody,  and it's in their own interest
+B : Well, if Klaus  -
+D : And I try to motivate  free.  starting.  ramp.
+D : If not, the long term and then these things must be, nevertheless - must be defined in much more detail.
+D : Yeah.
+D : um what Adam mentioned to uh switch off,
+E : Not to switch off.
+C : Don't switch it off.
+D : @@
+D : cake  area.
+D : and
+D : now let me see whether he will be here, and
+D : We did  We are done.
+D : O_K. Hopefully everything went fine.
+F : Yeah, just leave them on for now.

@@ -16,7 +16,7 @@ class meeting(object):
 
         schema = self.file + "/corpusResources/meetings.xml"
 
-        if file != None:
+        if self.file != None:
             self.tree_resource = ET.parse(schema)
             self.root_resources = self.tree_resource.getroot()
             self.num_meetings = len(self.root_resources.getchildren())

@@ -1,0 +1,818 @@
+G : - headphones  that aren't so uncomfortable.
+B : I think - Well, this should be off the record, but I think -
+D : Uh
+A : We're not recording yet, are we?
+G : Um, I don't think they're designed to be over your ears.
+G : Yep.
+B : Yeah.
+G : But I definitely haven't figured it out.
+F : I guess I have to d- stop doing this sigh of contentment, you know, after sipping cappuccino or something.
+G : "Sip, sigh."
+D : Is this -
+A : O_K. Do we do th- do you go around the room and do names or anything?
+G : I think that -
+G : usually we've done that and also we've s- done digits as well, but I forgot to print any out. So. Besides with this big a group,
+D : No.  better  with this big -
+B : You can write them   on the board, if you want.
+E : Mari? Y- I think your - your - your thing may be pointing in a funny direction.
+H : What -
+A : Whoops.
+E : So that thing - the little - th- that  That's  it. Yeah.
+A : So - Oh, this
+H : Otherwise you just get a heartbeats.
+A : Yeah. It's kind of -
+D : Oh, yeah, the element, yeah, n- should be
+H : It's a -
+D : mouth as possible.
+D : Alright. So what we had was that we were gonna talk about data collection,
+D : and -
+H : Well, one thing that came up in the morning - in the morning was the, um,
+H : So he has, um, these, uh, um, tsk note-taking  things,
+A : actually take notes as a summary  as opposed to n- take notes
+A : in the sense of taking advantage of the time-stamps.  So action item or
+A : So that wouldn't be a summary.  query  side.
+G : had
+G : write it down and mark it somehow,  you know.
+E : I mean, cuz I  tend to take notes which are summaries. And so, you know -
+F : uh, quality of the handwriting recognition was quite poor.
+A : So -
+G : have someone clean it up
+A : things that people want to do so that - for frequent  things.
+D : No, not a- No, I just - My mind went elsewhere. So,
+D : and
+D : where am I? I'm on channel three.
+G : And I'm Adam Janin on channel A_.
+H : I'm Jane Edwards, I think on channel B_.
+A : Mari on channel zero.
+C : Katrin on channel two.
+H : Should we do it a second time with pseudo- No. No.
+D : on channel -
+G : And, uh, do you want to do the P_D_As and the P_Z_Ms?
+E : P_Z_M nearest, nearest, next
+E : Next  one.
+E : Furthest. P_D_M-right, P_Z_A-right - P_D_A-right, P_D_A-left.
+G : Yeah, and eventually once this room gets a little more organized, the Jimlets will be mounted under the table,
+G : and these guys will be permanently mounted somehow.  You know, probably with double-sided tape, but -
+H : I have a question on protocol in these meetings, which is
+D : have in column - common  that we will not know.
+H : Good.
+D : I mean, we - we were originally gonna do this with V_L_S_I design, and - and - and the reason we didn't go straight to that was because immediately  percent  jargon to - to us. So.
+G : Well, that was just one  of the reasons. But, yeah, definitely.
+H : O_K.
+H : and the summary issue.
+D : Right. We can go back.
+A : So, actually there's kind of three  issues. There's the CrossPad issue.
+A : Should we do it and, if so, what'll we have them do?
+F : sub-problems  in that, in that where - or when do you actually ask them about that? I mean, that was -
+F : earlier that, you know, maybe two weeks later, which is when you would want  to query these things, you might ask them then.
+F : there's a problem  with that in that
+F : if you're not -
+G : And -
+D : There's - there's another  problem which is, um,
+D : we certainly do  Meeting  Recorder.
+D : how - you know, we - we did n- you know  another meeting here for another group and - and, uh, they were fine with it. But if we'd said, "O_K, now all eight of you have to -
+D : have to come up with, uh, the summar-"
+G : asked  them   did.
+D : t- See?  There we go.
+G : ideas for queries after the meeting and no one ever did. I didn't follow up either.
+E : Mm-hmm
+G : no one spontaneously
+G : provided anything.
+D : uh, as opposed to what you'd really  want to know if you were gonna use this thing.
+G : I just don't know how else to generate the queries other than getting an expert
+H : Tsk. you  words  like, you know, "action item" and things like that, which
+E : Although -
+H : t- to some  also,  um, was thinking, with reference to
+H : the n- uh, note-taking,
+H : the advantage  later.
+H : And the fir- third thing I wanted to say is the summaries  afterwards,
+H : um, I think they should be recorded  written
+A : normally
+A : at most  meetings somebody is delegated to be a note-taker.
+A : And - So why don't we just use the notes  takes?
+G : I mean, that gives you a summary  but it doesn't really - How do you generate queries from that?
+H : Yeah.
+E : I mean, they're something.  It's a - a kind of output you'd like.
+B : Actually -
+G : Uh, James  breaks.  problem  I'm  something  with information retrieval
+G : what I'm gonna do for my thesis.  something.  not  anything  summarization.
+G : And so if someone wants to do  that, that's fine, but it's not gonna be me.
+D : you know  once we get some of these
+A : Well  -
+D : and send them off to I_B_M and get a bunch of transcriptions even if they're slightly flawed or need some other -
+G : Yep.
+D : And then we'll have some data  there.
+A : Yeah.
+D : l- looking and thinking, what do we want to know  at  least.
+B : I actually want to say something about the note  pad. So,
+B : and you tell them not to doodle, or try not to
+B : be using that for other purposes, and each person has a note pad. They just get it when they come in the room.
+B : Then  who's  when.
+B : sort of the hot  places where people are writing things down. I mean, you can tell when you're in a meeting when everybody stops to write something down that something was just said. It may not be
+B : kept  summary,  but at that point in time is was something that was important.
+H : Mm-hmm.
+B : Or someone could just pu- you could just put your hand on the pad and go like that if you want to.
+D : That's a good idea but that doesn't -
+D : Maybe I'm missing something, but that doesn't get to the question of how we come up with queries, right?
+A : Well, what it does -
+B : then  points  go  time  talking  about. And you r-
+D : Yeah.
+A : does  thing.  I don't think it gets at the -
+A : the queries per- se,  does  give us
+A : "what were the hot-points of the meeting? "
+D : knowing what's important doesn't tell you what people are going to be asking.
+B : But I bet it's a good superset of it.
+E : Well, see, there are th-
+A : talk about blah. And at least that gives you the word  query  on.
+B : At least you can find the locations  keywords  and -
+G : hit  query  is. What -
+A : Right. It'll tell you the hit  query.
+G : And so you could - you can generate  query  hits,  but -
+H : Mm-hmm.
+D : Yeah, but we're just looking for a place to start  with that because, you know, th- what - what - what James
+D : is gonna be doing  is looking at the user-interface and he's looking at the query in - in -
+D : i- We - we have five hours of pilot data of the other  zero  queries.  So he's just sort of going "where - where do I -
+A : w-
+A : Well, th- you could do - I think the summaries actually may help get  us there,
+A : for a couple  One,  if you have a summary - if you have a bunch of summaries,
+D : Mm-hmm.
+A : So words that come up in different types of meetings may be something that you would want to query  about.
+A : Um, the second  thing you could possibly do with it is just run
+A : a little pilot  experiment with somebody saying "here's a summary of a meeting,
+A : what questions might you want to ask  back? "
+G : Yeah, I think that's difficult because then they're not  summary.
+A : That's one possi- one possible scenario,  have  the summary,
+A : and you want to ask questions to get more detail.
+G : th-  Well,  have  to be.
+G : O_K. So that - that is another  talked  about,
+G : which is for someone else,
+G : as opposed to as a my  primary thought
+G : in the information retrieval part  of it would be.
+G : I guess if you had a meeting participant,
+G : I don't know how to do  system.
+B : summary  drive  queries  then. I mean, your research is going to be very circular.
+G : Yeah, that - that's what I was saying.
+E : is
+E : And it's something that didn't  nicest  for.
+E : Cuz it's the things that you wouldn't have bothered to make an effort  to record but they get recorded.
+E : So, I mean - And th- there's no way of generating  occur.  You know, it's like -
+G : But at least  started.
+H : also  w-  summaries  as an indication of the
+H : y- So if th- if the obscure item you want to know more about was some form of data  collection,
+H : And, you know - And - and maybe you could get to it by that.  If you - if you had the - the larger structure of the -
+H : looking  for with reference to those l-
+H : those larger headings,  then you can find it even if you
+G : Mmm.
+G : Although it seems like that's, um,
+B : be  a note-taker.
+B : No, I mean, but someone who can come sit in on the meetings and then takes the notes with them that the real note-taker -
+G : But they -
+B : And that way that one student has, you know, a rough  idea of what was going on,
+B : because that- that's a lot of trouble and maybe it's not the best way to do it.
+B : But if he has some students that want to study  that
+G : stuff
+G : they've been doing for the last couple of years,  working  on it.
+G : I think they're done.
+G : Um, so I'm not sure that they have  currently  working on
+G : notes.  interest  someone in
+G : is the combination  of note and speech.
+B : Mm-hmm.
+G : And so the question is "is there such a person?" And I think right now,  the answer is "no".
+A : Well-
+D : I think that the -
+D : now  I'm thinking that the summary - a summary, uh, is actually a reasonable,
+D : uh, bootstrap into this - into what we'd like to get at. It's - it's not ideal,  someplace.
+D : Uh, I wouldn't have any idea  someplace.  summary  of it, I'd go "oh, yeah, I was in that meeting,
+D : I remember that,
+D : um, what was the part that -"
+D : And - and th- I think  that might
+D : then help  summary,
+G : Mm-hmm.
+D : but just as a - as a - as a refresh  meeting.
+A : two  purpo- purposes. One, as sort of a refresh to help bootstrap
+D : Yeah.
+A : queries, but also, I mean, maybe we do want to generate summaries.  And then it's -
+A : you know, it's kind of a key.
+B : So how does the summary get generated?  idea  of a summary, but
+A : Well, i- i-  - ?
+B : I wanted to think carefully about who's   generating it and how - because the summary will drive
+A : What I - I think, you know, in most meetings,
+A : this one being but
+A : in most meetings that I  attend, there's somebody t- explicitly taking notes, frequently on a laptop -
+A : Um, you can just make  it be on a laptop, so then yo- you're dealing with ASCII and not somebody - you don't have to go through handwriting recognition.
+B : Mm-hmm.
+H : that, um, there's - we're using "summary" in two different ways.
+G : Minutes.
+H : And what I  originally thought was, um, if you asked someone "what was the meeting about?"
+H : And then they would say "well, we talked about this and then we talked about that, and so-and-so talked about -"
+H : My  thought was
+H : Whereas if you just say  it immediately after the meeting,
+H : uh, with mult- See, I - I also  worry about having a single note-taker because that's just one person's perception.
+H : you know, it - it's releva- it's relative to what you're focus
+D : Mm-hmm.
+H : major topics  interested  in.
+H : So, my  both  of those types, you know, the note-taking and
+E : Yeah.
+D : Adam, you can -
+H : Yeah.
+D : you can correct me on this, but - but, uh, my impression  was that, uh,
+G : Never. I've never seen it at ICSI. Does anyone - ?
+G : I mean, Dan  is the one who - who
+B : Dan?
+E : I've d- When we - when we have other  European
+E : In fact, I often do it. Yeah.
+D : Yeah, but those are bigger deal things. Right? Where you've got fifteen peo- I mean, most - th- this is one of the larger meetings. Most  of the meetings we have are
+D : four or five people and you're not - you don't have somebody sitting and taking minutes for it. You just get together and talk about where you are.
+G : Culture.
+G : The I_RAM  meeting, they - they take notes every -
+G : There's uh  at each meeting.
+G : There are more. I mean, there are ten-ish.
+B : Y- you should  record  board.  hard to reconstruct what's going on. I - I don't know how -
+B : Or  use  the boards. But there's sort of this missing information otherwise.
+G : I agree, but - but
+E : We sh- we should -
+E : Well, I don't know.
+G : and - and instrumented rooms. And project,  I  think.
+G : Yeah, different -
+B : Uh, y-
+B : Yeah. People who were never at  very  otherwise.
+E : Well, no. I mean, I - I just think - I mean, I think that right now we don't make a record of where people are sitting on the tables.
+B : Even people who were
+G : Huh .
+G : Right.
+E : And that - the - at some point that might be awfully useful.
+G : But I think adding
+H : Mm-hmm.
+G : photographs  problems.
+H : It's just  record.
+E : n- uh,
+B : I don't mean that you model  it.
+H : It's i- because discourse is about  things, and then you have the things that are about, and it's recoverable.
+B : Because someone -
+B : someone later might be able to take these and say "O_K, they, you know - at least these  there  talking  about, and -"
+D : Li-
+D : uh, L- L-
+E : I'll go and get the  camera.
+D : Yeah.
+B : in storing  these images in any data we collect so that later we can do other things with it.
+D : Yeah.
+H : Mmm.
+D : So - so to address what - what Adam's  think  you - uh, that
+D : And if the database exists and includes some visual  information that doesn't mean that an individual researcher is going to make any use of it.
+G : But that - it's gonna be a lot of effort on our  part
+G : get all the standards, and to do anything with  it.
+D : So we're gonna do what we're gonna do,  whatever's reasonable for us. But having -
+B : I think even doing something very crude - Like I know with ATIS,  we just had a tape recorder running all the time.
+B : And later on it turned out it was really good  from  the machine.
+B : So if you can find some really,
+B : you know, low, uh, perplexity,
+G : Low fidelity. Yeah.
+B : yeah, way of -
+B : of doing  that, I think it would be worthwhile.
+H : I agree. And if  it's simple as - I mean, as simple as just the digital -
+B : Otherwise you'd - you lose  it.
+H : Yeah.
+D : minimally,  Dan  is referring to at least having some
+D : representation of the p- the spatial position of the people, cuz we are  processing.  And so -
+G : Right.
+D : so, um -
+G : Well, once the room is a little more fixed that's a little  Well,  the wireless.
+D : Yeah.
+G : But -
+B : has  doing  vocal  meeting,  Waibel's  group.
+B : And they have that with two
+B : So I think we would be - we might lose the chance to use this data for somebody later
+G : Yeah.
+G : I - I - I don't disagree. I think that if you have  that, then people who are interested in vision can use this database.
+G : The problem  with it is
+G : you'll have more  people who don't want to be filmed than who don't want to be recorded.
+H : Well, she's not making -
+G : So that there's going to be another  group of people who are gonna say "I won't participate".
+C : Mmm. That's true.
+G : Um -
+B : Or  look  boards,  talking.
+H : Well -
+D : Uh-huh. Great idea.
+H : Well, there's - that'd be the - the parallel, yeah. But I think y-  minimal  preservation of things on boards,
+H : sp- spatial organization - And you could anonymize the faces  for that matter. You know, I mean, this is - We can talk about the -
+G : work.  To set it up and then anonymize it?
+B : No, it wa- n- not, um -
+A : No, no, no, no.
+G : Couldn't find it?
+H : Hmm.
+B : And they - they didn't actually align  have  it, though.
+H : Yeah. Well, it's worth   considering.   Maybe we don't want to -
+H : spend that much more time discussing  it, but -
+F : Did they store it digitally, or - ?
+B : Hmm-mm. I think they just -
+D : Well, I think for - I mean, for our purposes we probably will d-
+D : we - we might try that some and - and we certainly already have some  don't  have that,
+H : Yeah.
+B : I'm just - The community -
+B : there will probably be  some video data in there.
+D : There  you go.
+B : And so that could argue for us not  doing it or it could argue for us
+B : doing  overlaps  is when
+B : um, easier - made easier if you had video.
+D : determining   this on the basis of our own,
+B : Mmm.
+D : Um,
+D : I - I - I think that we do have to do some  picking and choosing
+D : of the stuff that we're doing.
+D : But I - I am  do  think that we m- minimally want - something -
+D : we might want to look at - at some - some, uh, subsets  of that. Like
+D : for a meeting like this, at least,  boards,
+B : Of the board.
+H : Exactly.
+B : Or at least  make sure that the note-taker takes a sh- you know, a snapshot of the board.
+D : a-
+D : and know the position of the people -
+B : That'll make it a lot easier for meetings that are structured. I mean, otherwise later on  down  we'd
+H : Especially  all  recording.
+G : Uh, except in - er, if we weren't recording
+H : Well, I don't understand that  point. I mean, I just think that the -
+G : The point is that we're not saving  anyway.
+G : Right? In - in setting.
+H : Well -
+A : What do you mean
+C : And you're gonna send it out by email, too.
+G : Well, uh, in that case we don't need to take pictures  of it.
+C : Yeah.
+H : Well -
+A : Well, that's why - that's why I'm saying that I think the note-taking
+A : would be - I think in many - for many  meetings there will be some sort of note-taking,
+A : I mean, I think it would be great  if we try to get a picture with every meeting.
+H : I agree.
+A : so - so we won't worry about requiring  get  it for,
+D : So -
+D : So, I mean, departing for the moment from the data  collection question but actually talking about, you know, this group and what we actually want to do,
+D : to everybody
+H : That's great.
+D : that - that we started with was whether there was anything else we should do during - during th- during the collection. And I guess the CrossPads was certainly one idea,
+B : Ow.
+D : uh, and we'll get them from him and we'll just do  that. Right? And then the next thing
+A : Well, before we leave the CrossPads and - and call it done.
+A : So, if I'm  collecting data
+A : we really seriously  me  collect data
+A : and I can't  less  you  guys to go to the trouble of using it,
+D : What  -
+D : I guess the point was to try - again, to try to collect more
+D : zero,  seems  like that would - could still -
+A : O_K.
+B : I think it'd be useful to have a small amount of it just as a proof of concept. It will  -
+G : And - and they seem to not be able to give enough of them away, so we could probably get more as well.
+B : You know, what you can do  with things.
+A : That's true. So if it - if it seems  me.
+B : But not - not to rely on them for basic modeling.
+G : Yeah, I'm not sure. I think it- it - it will again depend on Landay, and if he has a student who's interested, and how much infrastructure we'll need.
+G : easy,  do
+G : Um, but if it requires a lot of our  won't
+D : And so we try it out and see how it works.
+G : Yeah. Yeah, we have to sort of figure out what we're gonna do. Right.
+B : I just wouldn't base any of the modeling  having  those.
+B : It's just -
+G : I think, though, the importance  good idea, though.
+G : in front of them   -
+G : O_K, if something's important everyone clap.
+G : Yeah. Um, I think that's right.
+D : O_K.
+A : So, I - I  think that this is
+A : gonna be useful. So if we record data I  will definitely ask for it.
+G : Yeah.
+G : Yeah. What I was gonna say  is that I don't want to ask people to do something they wouldn't normally do in a meeting.
+G : I think it  definitely
+G : And then Jane's  afterward  bad  one.
+D : So who - who does this summarization?
+D : Yeah .
+G : Ugh.
+E : nice  thing.
+H : How fascinating.
+G : And see - score  them?
+B : They have all these memory experiments about how little you actually retain and wasn't -
+E : That's right. Well, that's the interesting thing, though. If we do - if we collect four different summaries, you know, we're gonna get all this weird  perceive
+G : Oh .
+G : Hmm.
+E : this is not  research.
+B : Right, right.
+A : Mm-hmm.
+A : But - but again, like the CrossPads, I don't think I would base a lot of stuff on  it, because I think -
+G : Running to -
+A : you're probably not gonna get a lot of people wanting to do this.
+H : Well, I think if -
+G : spoken,  what I was thinking is, oh then people have to come up and you have to hook them up to the recorder.
+G : So, if they're already here  not  already here for - I'd rather do email.
+H : Yeah, I'd just try - Well, however the least intrusive and - and quickest way is, and th- and closest to the meeting time too, cuz people will start to forget it as soon as they l- leave.
+A : Yeah. I think that - I think doing it orally
+G : At -
+A : at the end of the meeting is  time.  I just don't - because
+H : Mm-hmm.
+G : Yeah, read the digits, do the summary.
+H : w-
+H : I would s- Yeah.
+D : some cases where they will,  then it would be helpful.
+H : also  wondering, couldn't that be included in the data sample so that you could increase the num- you know, the words that are,
+H : uh, recognized by a particular individual? If you could include the person's meeting  summary  stuff, maybe that would be
+D : Hmm.
+H : Under the same  circumstance,  cuz if they just walk next door with their set-up,
+G : God, that's bugging me.
+H : You turn -
+H : Uh, let the record show the light is flickering.
+A : For a little  That and y-
+G : Too much caffeine.
+A : Too much caffeine and really tired, but then I thought "no, maybe that's real".
+G : I thought it was the projector  moment.  It was like, "what's going on?"
+G : We - we've just been talking, how do we generate queries? And so that was one suggestion.
+F : so, the question I  automatically  given a summary?
+E : Hello. Dan here.
+B : that goes a little bit beyond where we
+E : O_K.
+E : Mari?
+E : Someone wants to know when you're getting picked up. Is someone picking you up?
+A : Um, what's our schedule?
+D : Well, you still wanted to talk with Liz.
+A : you and I need dis- Uh, no, we did the Liz talk.
+D : Oh, oh. You already did the Liz talk. O_K.
+B : We-
+B : I have like no recall memory.
+A : Uh, after. We need to finish this discussion, and you and I need a little time for wrap-up and quad chart.
+G : what?
+D : I'm at your disposal. So, up to you.
+G : At least.  Yeah.
+G : m- i- Even if that much? Less.
+B : It's interesting that he's got, like,
+E : O_K, five-thirty.
+E : Sounds -
+E : O_K. h- Thanks, bye.
+E : That's that.
+G : Well, in answer to "is it Landay's problem?", um, he doesn't have a student
+G : allocated  for him
+D : Yeah, well there's gonna be these student projects that can do some
+D : uh, again, just as a bootstrap,
+D : if we do  like  summaries,
+D : then having the people who are involved in the meetings themselves,  more,
+D : come up with - with - with queries, uh, could at least  give -
+D : give Landay an idea of the kind of things that people might want to know.
+D : Maybe.
+G : I, uh -
+F : That was sort  aimed towards.
+G : Or - or just a memory refresher.
+B : That's a good one.
+H : would not in- even include  what the person thought was the most interesting
+B : Dan doesn't know what sex he is.
+A : to ask  than have them summarize the meeting.
+H : about.
+D : Hey.
+B : Ah-
+H : So you get the general structure, the important points of what the meeting was about  summary.
+H : But with the "what's the most interesting thing you learned? " -
+H : Uh, so the fact that, uh, I know that Transcriber uses Snack
+B : Going to see the kids.
+E : You - you can keep it on.
+H : you know. So, I mean, you could ge- pick up some of the micro items that wouldn't even occur  headings  informative.
+C : Are you thinking about just asking one participant or all of them?
+C : Make it a voluntary thing, and then -
+G : one  do  done  -
+G : people could, like, listen to them a little bit and generate some queries.
+H : Yeah.
+G : Of course Jane doesn't need to. I'm sure you have that  memorized
+A : what was the most interesting thing you learned,
+G : Mmm.
+H : Yeah. Yeah.
+A : And - and that  stay  for.
+D : Boy, I - I don't know how we get at this -
+G : Me too, me too, me too.
+E : On the other hand people might try and come up with different ones, right? They might say "oh, I was gonna say that one but now I have to think of something else".
+D : Well -
+G : Well,
+G : you have the other thing, that - that they know  doing  it.
+G : We'll - I mean, we'll - we'll be telling  them that the reason we're trying to do this is -
+D : basically the form that you're doing something else later,
+D : from this meeting related to the something else.
+D : So it's really the imp- the - the list of what's important's in the something else
+D : rather than the - minor  minor  meeting.
+G : Right.
+D : Uh, in fact if - if it was really  major,  check  on it even.
+D : So it's - it's that you're trying to find - You're - you've now -
+D : But - but thr- three months from now if for some reason I get really interested in dialogue,  was  Mari  was saying?"
+G : Yeah, like Jim Bass says "add a few lines on dialogue in your next perf-"
+A : Uh -
+D : Yeah.
+D : And then I'm trying to fi- I mean, that's - that's when I look - in general  most,  is when it's something that
+D : didn't  first
+D : new  stuff.
+G : But that - that's gonna be very
+A : um, I would  be, uh, wanting to do a query about.
+D : Yeah. That - that might get at some  of what I was -
+D : that w- uh, I didn't  dominant  thing, because if I thought it was really important it tends to stick more than if
+D : I didn't,
+G : But -
+G : can't  all  of it, right?
+G : W- we just need to start somewhere.
+D : Yeah, and this is a starting point.
+F : introduce   by saying, you know, this was important now and, you know, maybe tha- something else is important later?
+H : Well, and - and one thing, we - we're saying "important" and we're saying "interesting".
+D : W-
+D : own  mind is that, um,
+D : the soonest  we can do it,
+D : bootstrap somehow,  and -
+H : I will  say that - that I - I chose "interesting" because I think it includes also "important"
+H : in some cases. But, um, I - I - I feel like the summary gets at a different type of information.
+G : Hmm.
+E : And "interesting" is more interesting than "important".
+A : O_K-   O_K.
+A : In the interest of, um,
+G : Importance?
+A : generati- um -
+H : Mm-hmm.
+H : Yeah.
+A : let me just go through the things that I  wrote down as being important,
+A : CrossPads we were going to try,
+A : um, if Landay can get the, uh - get them   to - to you guys,
+D : Mm-hmm.
+A : getting just, uh, digital pictures -
+A : qu- ask people to mention something interesting that they learned. So rather than say the most  interesting thing,
+H : k-
+A : something  interesting, and that way you'll get more variety.
+H : Sure.
+G : Uh, you might want to mention something that - that you  up.
+A : "Thing
+H : Mm-hmm.
+H : Mm-hmm.
+G : n-
+G : I think that's gonna predominantly end up being whoever
+H : And - and that would also be that the data would be included in the database.
+G : Yeah, that would be, let's see, me.
+H : Mm-hmm. O_K.
+E : I mean, there is still this hope that people might actually think of real queries they really want to ask at some point.
+E : And that if - if that ever  should happen, then we should try and write them down.
+H : Mm-hmm.
+E : Yeah, really. If they're real
+D : Well, and again, if we can figure out a way to jimmy a - a - a - a very rough system, say in a year,
+H : Yeah.
+A : Play with and generate real queries from.
+D : ask queries.  Uh -
+B : I think - I just wanted to say one thing about queries.  I mean,
+B : the level of the query could be, you know, very low-level or very high-level. And
+G : Well, we're gonna -
+B : on this issue of all the people who ha- You know, you can gen- you can ask queries that are meaningful for people. In fact, they're very  meaningful cuz they're very high-level.
+B : But they won't exist anywhere  a- you know -
+G : Absolutely. So I think we're gonna have to start
+G : with keywords and - and if someone becomes more interested we could work our way up.  But -
+D : I- I'm not so sure I agree  Oz-ish,
+G : Yeah, I was thinking about Wizard of Oz, but it requires the wizard  to know all about the meetings.
+E : We'd
+D : true  Wizard of Oz because people are too
+E : Well
+E : Yes.
+H : I- I was wondering if - if there might be one s- more source of queries which is indicator phrases like "action item",
+G : Right. Since we have  the transcript.
+B : Well, probably if you have to sit there at the end of a meeting
+B : and say one thing you remember, it's probably whatever action item was assigned to you.
+B : I mean, in gen- that's all I  remember from most meetings.
+H : I think you'd remember that,  yeah.
+G : That - that's all  down.
+B : So, in general, I mean, that could be something you could say,  do this.
+H : Yeah, that's true. Well, but then you could - you could prompt them to say,
+B : I mean, that's realistically what people might well be remembering. So.
+H : Yeah. Well, but - you know, but you could get again @@  -
+A : Well, we're piloting. We'll just do  it and see what happens.
+B : Yeah.
+D : But - I'd - I -
+A : O_K-
+D : Mm-hmm.
+H : Yeah. yeah.
+A : or maybe we should wait until the summary of this - until this meeting is transcribed and then we will hav-
+G : Thanks.
+D : somewhere  up there we had milestones, but I guess - Did y- did you get enough milestone, uh, from the description things?
+A : I got -
+A : eee,
+A : O_K.
+D : And, you know, there's obviously
+A : requirements.
+A : Uh,
+A : people are supposed to send me U_R_Ls
+E : Right. We -
+A : And - and
+D : Right.
+A : let's see. Choo-choo-choo.
+A : We - Mailing list? Uh, you need to put together a mailing list.
+D : Three of them. I mean,
+A : Uh, I think w- Yeah.
+A : Um,
+D : mostly together.
+A : uh, I
+A : um, about getting the data. Who should I email?
+G : Uh, how quickly do you want it?
+A : Um.
+A : I think the only thing Jeff  would do anything with right now -
+A : But I'm just speaking fr- based on a conversation with him two weeks ago I had  he  would want is the digits.
+A : Um, but I'll just speak for myself.  I'm interested in getting the language model data.
+A : Eh, so I'm just interested in getting transcriptions.
+D : Wh-
+D : Mm-hmm.
+G : That's right.
+D : w-
+D : and then what they're gonna do is take the C_D-ROM and transfer it to analog tape and give it to a transcription service, uh, that will - Yeah.
+D : See,  that's
+G : I thought  so.
+D : No, I mean, it'll be
+D : probably about like you did,  and then there will be some things - you know, many things that don't work out well.
+D : all  of it. Right? We'll give them all the - the multi-channel stuff and -
+G : O_K. That's, uh, my question. So we'll give them
+G : It's not hard.
+B : Ah, yeah.
+D : It's also won't be adding much to the data to give them the mixed.
+F : It's not - Right. It doesn't - it isn't difficult for us  to do, so we might as well just do it.
+A : Right.
+B : Yeah. You should - that may be all that they want to send off to their
+A : uh, my shipping  did.
+H : I did. I - I m- emailed them the Transcriber U_R_L,
+H : um, the on-line, uh, data that Adam set up,
+H : The U_R_L so they can click on an utterance and hear it.
+D : currently  particular  they want to see the one with the - the way the recording room is set up
+D : and so on, your - your page on that.
+A : O_K.
+G : Not an immediate  higher-level  information.
+A : O_K.
+G : Well, or d- or not even higher  different  level, prosody and all that sort of stuff. We're gonna
+A : Yeah. We never had our data format discussion.
+H : did.  We discussed, uh, musi-
+G : But that's not - That's display.  That's different than format.
+A : That's -
+A : W- My - my u- feeling right now on format is you guys have been doing all the work and whatever you want, we're happy to live with. Um,
+E : Well - uh, yeah.
+A : other people may not agree  data,  talk.  But -
+D : So a key thing will be that you - we tell  you
+H : Great.
+D : what it is.
+A : Yeah.
+F : "Here's a mysterious file and -"
+D : good slash bad, depending on how you define it, uh, users.
+C : and use our system, that'd be good.
+A : Yeah. Or, like if you have a -
+C : Your grandmother.
+A : Yeah.
+A : e- You know, it could result in some good bloopers, which is always good for presentations.
+A : So -
+D : Yeah. @@
+D : My mother  very
+G : He would never use it.
+A : O_K.
+D : We talked  about that we're getting the recording equipment running at U_W. And so it depends,
+D : major communications between Dan and U_W folks as to -
+E : Yeah. I mean,
+A : get it put together by the beginning of August. So, um,
+H : Mmm.
+A : We don't know.
+G : It's a tape recorder.
+D : Um, and he also  said something about outside - there - that came up about the outside text sources, that he - he may have
+E : Yeah, that was - uh, that was - What he was saying was this - he - this thing that, uh, Jason had been working on
+E : finds web pages that are thematically related to what you're talking about. Well, that's the idea.
+E : supposedly got the right vocabulary.
+G : Yeah.
+A : Yeah.
+G : not gonna be working on that anymore. He's switching to
+G : Who?  Landay or Jason?
+D : O_K.
+A : you know, otherwise, if you guys have any papers
+A : I could - I could use, uh - I could use your web pages. That's what we could do.
+D : search  for them? They're - we know where they are. Yeah, that's true.
+A : Oh, forget  this!
+A : I - One less action item.
+G : does  is h- it picks out keywords and does a Google-like
+G : search.  So you could -
+E : Yeah.
+D : There's - there's some, uh, Carnegie Mellon  and -
+G : Yep.
+A : C_M_U,
+B : That's  eventually  be able to have a board or a camera, because of all these classroom -
+G : Well, Georgia Tech did a very elaborate instrumented room. And I want to try to stay away from that. So -
+A : Um -
+A : O_K. I think that's good enou- that's - that's pretty much all I  can think of.
+H : maybe   getting some data gathered in such a way that, um,
+A : Oh, yeah.
+H : Now, I mean, you know, it's true, I mean, we were discussing this earlier, that
+H : depending on the task  - so if you've got someone giving a report you're not gonna have as much overlap. But, um,
+F : Adam!
+H : i- i- uh, so we're gonna have  anyway.
+H : But, um, in a meeting which would otherwise be highly  overlapping, is the near-field
+H : mike enough  or should we have some rules of participation for some of our samples to lessen the overlap?
+D : Hmm.
+E : @@  turn off
+A : to get a variety of meetings. That's something that if we get the - the meeting stuff going at U_W,
+H : O_K.
+A : that I probably can do more than you  guys, cuz you guys
+A : are probably mostly going to get ICSI  here.
+B : Mark and others have said that there's quite a lot of found data from the discourse community that has this characteristic and also the political -
+D : Wasn- but w- I think we were saying before also that the natural language group here had less overlap. So it also depends on the style of the group of people.
+H : Mm-hmm.
+G : Mm-hmm.
+H : I just wanted to - uh, because you know, it is true people can modify the amount of overlap that they do  if - if they're asked to.
+H : Not - not entirely  modify it, but lessen it if - if it's desired.
+A : i- using different groups of people
+H : Time.
+A : and different sizes.
+A : e- e-
+A : Yeah.
+H : Mm-hmm.
+H : Well, I - just as - as - as a contributary -
+A : as,
+H : Mm-hmm.
+A : unintrusive as possi- as you could be with these things hanging on you.
+H : Oh, yeah.
+H : Yeah.
+D : Yeah. Did they discuss any of that in the - the meeting they had with L- Liberman? What -
+B : Liberman and others were interested in a lot of found data. So there's lots of recordings that -
+B : meetings that were sort of like this  and said that those are nothing like these meetings.
+B : @@
+B : that found  easily,  then of course we would do it,
+D : Mm-hmm.
+D : @@
+B : As far as I know,  not.  Um, but e-
+G : It's also - it's not -
+B : I'm not sure. Um,
+B : if people were interested they could talk to them, but I - I got the feeling there was some politics involved.
+G : I think @@
+B : No.
+B : I mean, the -
+E : Oh, really? It's those  guys.
+D : far-field?  I  see.
+B : But they had multiple mikes and they did  did  do real conversations.
+B : But that could change  cuz Mark -
+D : I mean, we still haven't sent out the first note saying "hey, this list  exists". But - but, uh, once we do that -
+D : Yeah. It's on - I already added that one on my board to do that.
+D : hopefully everybody here is on that list. We should at least check that everybody here - ?
+G : I think  everyone here is on the list.
+F : I'm  not.
+G : I think  are.
+D : We haven't sent anything to the list yet.
+D : We're just compiling  the list.
+D : Mm-hmm.
+G : Like Jane,  for example.
+G : You are
+H : Yeah, I am.
+H : So, I w- uh, just - just for clarification. So "found data", they mean like established corpora of linguistics and - and other fields, right?
+H : It sounds like such a t-
+H : Yeah, O_K.
+H : But it includes like standard corpora that have been used for years in linguistics and other fields.
+E : "Hey, look what we
+B : Mark's aware of those, too. That would be found data because they found it and it exists. They didn't have to collect it.
+H : O_K. Exactly.
+E : "I found this great corpora."
+G : "Psst.
+D : Many
+B : You can
+A : Yeah.
+B : Rrrh!
+G : I  thinking
+G : So, can you determine the interesting points by who's writing?
+H : Well, I - I just realized there's another category of interesting things which is that, um,
+H : I - I found this discussion very, uh, i- this - this question of how you get at queries  really interesting. And -
+H : uh, nebulous,  what - what that - what kind of query it would be because it depends on what your purpose is. So I actually
+H : found that whole process  of -
+H : that's not really a specific fact. I just sort of thought we - we went around a nice discussion of the factors involved there, which I thought
+E : Not that I -
+E : The boards  will  pictures  of them, but -
+A : They're related to this morning's  meeting.
+G : To the pre- previous  meeting. That's right.
+E : O_K. Well, that's  why I'll take pictures of them, then.
+F : I'm gonna pass
+G : Ah!
+H : Oh.
+F : So.  Um,
+E : moment.
+B : Pass.
+A : uh, a spin on different - slightly  different spin on what you said, this issue of, uh, realizing that we could take
+A : minutes,  goal.  So that - that may be kind of the test - in a sense, test data,
+A : uh, the - the template  do  with this data.
+C : up,  and
+C : it's something that, as you said, is a whole research topic in itself, so I don't think we'll be able to do  anything on it because we don't have funding on it,
+C : uh, in this project.  But, um,
+C : want to do something on.
+G : I wonder if work's already been done  on it.
+H : Like e- expert systems and stuff, or - ?
+H : Uh-huh.
+K : I especially
+K : That was the part I was at.
+D : Well, being more management  research,  me  people
+D : and not any of the facts.  really  enjoyed
+D : hanging out with this group of people  me.
+E : How are we gonna find that in the data?
+G : Well, if we had people wearing the wireless mikes all the time -
+G : Yeah, I think  -
+F : Well, I mean, one thing you could search  laughing  a lot. Right? So.
+D : Yeah. I'd probably search for something like that.
+G : actually  couple  Landay  his  laugh?
+D : Jeff
+H : Yeah.
+K : Not  hearings.
+F : No.
+H : @@
+D : Great.
+D : Now these  we turn off.
+C : Very nice.
+H : That'd  be nice. O_K.
+B : Huh.
+E : @@  knows .
+B : They're using my -
+G : flashing light  on it, do you?

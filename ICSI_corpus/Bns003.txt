@@ -1,0 +1,562 @@
+G : Is this a virtual meeting, or - ?
+H : Uh, they're partici-
+H : O_ K.
+H : O_K, thanks again.
+D : O_K. Thank you, Adam. I will call you then when we are ready  that  sense.
+H : O_K. Thanks.
+D : Um I have couple of points we should discussed.
+D : I believe, in the meantime it's a higher probability that I will  return,
+D : I would like to say, earliest stage will be end of January,
+D : so that means we have to get over six weeks and -
+D : Then furthermore I would like  know  status  everybody.  I know for sure, O_K,
+D : um Miguel,   have your plans
+D : concerning your  work.
+D : definitely clear,  in principle.
+D : what are your  current plans and
+D : What we  have discussed, in principle, concerning the ongoing process with U_ -
+D : get the freedom
+D : to launch   here the project in the sense in whatever kind of form
+D : and get, in principle, paid
+D : by another  Siemens.
+D : So long  I will stay. I believe, a couple of months definitely
+D : uh, to Germany
+D : so that is my current opinion, concerning how Siemens deal with - with my, uh, ongoing effort.
+D : And, furthermore, I would like to - First of all, thanks  to
+D : uh Dietmar  because he started to use a
+D : testbed.
+D : Uh I will - So - so the first, uh
+D : I  second  box,
+D : and I'm looking for two other volunteers
+D : who are setting the third  fourth  box.
+D : A box is a C.
+D : Equipped with - with - we should equipped it with - with Linux or maybe too with Free B_S_D, I doubt - I don't know
+B : stop, - the first thing the most, eh, complicated is to fit them with the
+D : And now we have an expert.
+B : um
+B : to - to put the removable hard disk in and - and it's -
+B : but i- but it's not - not, um difficult or something like that.
+D : I ju-
+D : so I don't know
+D : I know in the meantime it's running,  next  one.
+B : So Wilbert  will set up the second computer.
+C : I can build, eh, any computer uh you n-  - installing whatever.
+D : No promises?
+D : and even maybe to - to, uh P  stuff on it.
+D : Ah, he's very hard to sell
+B : So it's about one hour to put this, uh hard disk in and
+B : a further hour to, uh - Well,
+D : network  running  then.
+D : Could we wait until the network is running?  Because currently it's not possible,
+D : uh, based on certain fire  working  on that.
+D : Nah, but nevertheless thanks to Dietmar that he @@ .
+E : Did the networks have internet  connectivity?
+D : Yes, we have, eh, for - for secure socket,
+D : and, uh web  access,
+D : And - But currently it's not working,  right?
+B : Right, um
+B : uh
+B : got access   local  network here,
+B : And, till Monday  there's no access at all to any machines,
+D : uh
+B : So, I think it's related to the work, um they've done on Sunday here and I sent -
+E : all  the internet, r-
+E : to outside.
+E : Full.
+D : internet outside  access,
+D : but no telnet  and not R_login or whatever kind of things, you know.
+E : A restricted  in.
+E : Not.
+E : Huh.
+D : Yeah, F_T_P  yes.
+D : But no telnet.
+D : Uh because you can -
+D : The - the - the point is that we will use it, as it is uh described several times, that we will use it as a local  network,  in principle,
+D : from your P_C or your L_S  to this, uh - uh,
+D : uh, to this testbed,  you know.
+D : you download it, if that  s- must be possible from the network, but normally
+D : for demonstrations or to figure out if you have a scenario where you have to use more  than,
+D : cuz that is the primary, uh uh reason  for this testbed.
+D : So, definitely  you have to have
+D : He lot  of work and I could only
+D : pass her  some advices and some discussions with her concerning the web pages.
+D : And now we are, in principle,  project
+D : area. But they're also some contributions from you  guys requested.
+D : and the alumni   page, in principle, we have to,
+D : you know ,
+D : who are worth  to be
+D : alumnis   alumnis,   yeah.
+D : Is it  " alumni"
+F : Aber das wird jetzt geaendert.
+F : Das wird geaendert.
+D : I think everybody  should
+D : improved or if there's some comments   or
+D : Uh because it is - you know, that's very  important
+D : maybe now- not for us
+D : potential successor as a group  leader
+D : can hook in  with these things
+D : these web  updated  every  necessary.  We tried to do it,
+D : so that it must be at least  only  really  major changes happen.
+D : So that means somebody's leaving  the group,
+D : uh, somebody is joining  new  project is started,
+D : And, so please
+D : I have announced in the project  area
+D : the major headlines.
+D : And especially, Wilbert,  maybe you can write something
+D : And something like that  my  stuff.
+D : I would like to discuss it before,  but
+D : It is not worth  now  because nobody raised it before.
+C : Yeah, I  think so.
+D : And, uh, so l- let us have a bilateral   afterwards.
+D : I would - what I would like  to have is
+D : your  here.
+D : cuz it's a general  architecture, certain stages maybe to future
+D : because that  never  happen,  from my point of view.
+D : It should be started as the edge  device,
+D : so that it cu- certain  mechanism,  whatever,
+D : ingress  outgress  a- edge device,
+D : because it will  be at the certain stage
+D : I_P  networks
+D : before its goal .
+D : Fuel  these  boxes,
+D : uh  because the mobility happens there
+D : and the forwarding process and the routing  separated,  from my point of view.
+D : And to have there  a certain kind of intelligent mechanism,
+D : to set up the routes  because they have all the information.
+D : They know  go  because I_P addresses are still there
+D : and - within  the packet. I mean, how can this use,
+D : to the more traditional  routing within the
+D : internet backbone itself.
+D : I'm not a e xpert  all  for this.
+D : bilateral   afterwards.
+D : So, one more time, everybody
+D : headlines  project  proposal
+D : the things what they have still  in mind
+D : uh @@  know  @@  present the last major
+B : The  pages are already on the web?
+A : It is.
+D : you can now access it normally with maybe W_W_W I_C_S_I Berkeley EDU,
+A : So I tried to do this today
+A : if you could do it afterwards  nice  quite  sure that I can't find every,
+C : One is - is the, uh, I think it's Joe's, uh, graphic,  I think it should be better.
+D : You are definitely  right.
+D : It was  in a good shape, but
+C : No, it is just,  uh -
+C : so it will get more natural.
+A : come from the logo to the
+C : To the home  page.
+A : ICSI web p- home page
+E : Newbies.
+A : So, there  I have to add some information, I don't know, I t-
+A : I tried  to set up everything by today
+A : um
+A : Yeah, so how - maybe how you  did it or
+A : um
+A : another point
+D : Yeah, but nobody do  that, you know.
+D : that's the point. We discussed  it still a couple of weeks or months ago.
+D : Uh, the point is normally it is  an I_C_S_I task anyway.
+D : @@
+E : mmm, I  part,  restricted.
+D : A-
+D : And this is not  on the web, and the - the - the -
+C : this could be on a starting  if - digest
+A : I don't know, maybe I talk with Jane  about this. If we can
+A : on the ICSI home page too.
+E : M- move it on the normal ICSI,
+E : I_C_S_I .
+E : Maybe every group has somewhere hidden, uh
+D : We can do  that.
+E : deep
+D : Yeah, but the point  responsible  for that.
+E : Yeah, but eh - but my  networking  group
+D : Uh, yes, I see  there your point.
+D : That's right. But if  responsible  to
+D : get up to date information. I believe, we are the group,
+D : much more faster to join  leave  the group as other groups.
+D : And, so, the most  problem
+D : as - as of ,
+D : uh, it's likely that uh, the people here in this  group needs this information
+D : um, much more other  groups.
+E : But that could still  be
+E : applicable if you put it under the ICSI  responsibility  for that.
+D : Yes, I see  th-
+D : Yeah, but we - we can do  that.
+E : So I think th- I think both arguments  are not an ar-
+E : are arguments against having this under the normal I_C_S_I  page.
+F : But the problem  is, are you allowed to change anything on the
+F : So you may need just  main  ICSI page to the N_S_A page.
+D : of the real UNIX  tree.
+D : in compliance and in accordance
+D : with the structure of the web  pages.
+D : the group leader normally do not have access   web  pages.
+D : He has access   A  pages.
+D : but I think that's an administration  agrees  that the information
+D : page must  be
+D : on the general,  highest  level.
+D : O_K, I have no problem  with that.
+B : that we have access
+A : Yeah, but this  is not a problem at all, I -
+A : I mean, if y- you  know  that there is something changed with the health insurance, then you send Jane an email like "Could you please change this, blah-blah-blah."
+D : You know
+D : And - and that was a reason  decided
+D : that we put it - information on the N_S_ A  ago   ago.
+D : In our  directory.
+D : Yeah, we can do that. We then  create a link and then we have to ask with Jane, O_K?
+A : Yeah. Another  point is I want - I want to - would like to add
+A : for instance the two workshops which have  going on,
+D : Of course that is a living thing. I think it's a good idea,
+D : not only that the workshop was a talk announce because they are still  announce it is a broader sense.
+D : from the talks here, if it's worth  to have it on the web, anyway
+D : um, should be published in that way that the people can access   it.
+D : For instance  I have my U_S_A_I_A slides.
+D : things and - is going on maybe you have some Multicast  slides concerning your work at I_G_M_P and
+D : and if we have some talks from EXTERM ,
+D : still a growing context  opportunity  for the people you know there,
+D : "Oh, this guy did  something there,
+D : that's - and I think it's a great idea  from Claudia to -
+D : to have this event  page because
+D : a big deal,
+D : you know.
+A : , it's easy to - to add it,
+D : Nah, O_K. If there are no events, then there are  no events. But we still have a few which happened in the last year
+D : Something in the center pipe .
+B : Um, I don't know. Maybe it could be a good thing
+B : if we have  such an event button
+B : that there's a date,
+B : when the last update  was.
+D : Is it another thing we have to ?
+A : Huh! O_K.
+D : O_K you  Well.
+D : "update event button".
+D : So,
+D : @@
+D : contri- or will he consider  currently,
+D : - it is worth  to know
+D : and even if it's  nur unschl-
+D : and if it's come to a real proposal,  in,
+D : uh, one more time  because I need this information definitely t-
+D : that it's worth  here.
+D : And currently you see no chance,  as far as I know,
+A : for me everything   has completely changed, so now I go back and I don't anything what to do,
+A : back in Germany
+D : ffft
+A : No, no, no.
+D : Ja
+E : b- but I think even - also K_P_ N.
+E : is lost for the, uh, for the I_C_S_ I.
+E : nothing  is possible anymore, so.
+E : Absolutely.
+D : And, if  they are interested in
+D : uh, a certain kind of project
+D : to a certain kind of really service  end  product  thing
+E : It will be different  thing.
+E : a few  area,
+E : but it's ou- outside of I_C_S_I.
+D : After you will leave here that is .
+D : Yeah, and then what do you intend to do in the last two months
+E : uh an open source router.
+D : This is that from  from Mark, right?
+E : Right now I'm interested and I'm looking into it and I'm working  working  on it,
+D : do you believe that you can finish  that until
+E : I hope  so. I-
+E : That would be cool.
+D : little bit, time  constraint, right?
+E : hard  work.
+E : But I'm working  on it.
+D : O_K, Mi- Miguel,
+C : if, uh, there is some  interesting work, uh, going on, well I - I will
+C : to do  some work from Spain too.
+C : So, that's my future
+D : and, uh, do you have some students  which could be join
+C : Yeah.
+D : I assume there is  a certain activity. Maybe i- if you will leave in July
+C : uh, finished  their studies.
+D : What they are doing  then?
+D : I'm sorry .
+D : Ach so,    ach so,
+C : You - you have to - to pass the different tests  subjects.  And,
+C : finished  with this, uh well -
+C : you're not  supposed to do it.
+C : for not doing other  things.
+C : Ah yeah em nnn, not really.
+C : there is.
+C : it is not  a research work.
+C : Usually it's an application  work.
+C : So you build a web site, your own E_commerce site, uh,
+D : Are certain tasks  and so?
+C : we have, uh, other students are
+C : they are starting as, uh, researchers,
+C : aaa, but
+C : uh, people working  with you. If you don't have,
+C : you don't have anybody.
+D : We're not talking  I.
+D : I'm talking if there is  least  with the N_S_A group,
+D : diplomas thesis, whatever  kind of thing
+C : fo- redirect
+C : let's say as a subject work  of something
+C : that you can -
+C : you can introduce some research topics too. So
+C : because, eh, students are not  supposed to do
+E : You can change
+E : I think it's pretty healthy  to have a project, eh, where you have to write actually some part of research or.
+C : Yeah, I think so  but,
+C : on the subjects  because sometimes
+C : subjects are fixed
+E : O_K .
+C : uh, give  any - any stuff you want.
+C : to provide a certain - a certain prime
+C : for the subject too,
+C : is something  that can be changed.
+D : Have you other things?
+D : uh, the German government for research in the project so-called Invinet
+D : absolutely freedom
+D : and I would like to go on with the Q_S in advance mechanism
+D : relation of U_S_A_I_A I also  have the
+D : They have now a P_H_D. It is  settled,
+D : is also going in that sense so the topic is still going - go- going on.
+D : and when I will come back here,  I would like to use these things too to maybe come to a
+D : um, outside of this goal, with contributions here from, uh
+D : first of all from the N_S_A group and then from - from other  partners.
+D : But this  ou- uh  discussed with my management
+D : and this will happened,
+D : and email exchange during that time
+D : detail  these things
+B : No, no, no, no, no.
+B : yeah, funded   by an institution of the German government, so,
+B : and I have to do research for them,  of course. I have to
+B : time left I think to do some work on
+B : at the moment it's quite difficult to find students, eh, who are doing their master's thesis and so on
+B : because there are  not a lot of students, uh, which are in this state in Germany now,
+B : joining in and, um
+F : So, topic  then.
+F : and after that I presumably going to a Siemens  gee-mens , but related to that
+F : it's some of pre-stage to that, so it might be more
+F : And progress,  on,
+F : I would like to have it. Sorry.
+F : but oder?
+D : @@  this is.
+F : write the paper about Quality of Serving routing.
+F : So you have um distributed routing at the edges,
+F : that the information is outdated,  know to  always have the
+F : exact  information of your links, dates, and so on.
+F : It what we have  plans of that.
+F : look at some routing  policies,
+D : Now as I see,  in principle, uh
+D : fff
+D : that's a really raw view .
+D : M_P_L_S offers certain kind of success  of active routing, because
+D : forwarding  pass is a little bit
+D : decoupled  routing  and this was, in principle -
+D : really  the subject but in a broader sense it could be seen
+F : definition of Christian Tschudin,  M_P_L_S is a
+F : active route-
+F : So it's very - It's static? It's - No, active?
+F : But it's sort  because they have these program
+D : uh, data forwarding  pass
+D : and update,  in principle, only the routing information
+C : the - the - the same idea of labeling packets
+D : Yeah, so what I mean is at a certain  degree,
+D : yeah, that has to be figured out.
+C : There's a connection point.
+D : @@
+D : I know, in the past it was always if I'm
+D : not writing  happen.
+D : So, I believe, Wilbert, you are going out  of these activity.
+D : You have to use your time
+D : you will not find any  time to contribute anymore to this
+D : Then from Miguel's  side
+D : We can do it, as I mentioned before, bilateral   afterwards,
+C : Later.
+D : beneficial   contribution to the activity
+D : I  will write
+D : long as I have time  here,
+D : uh, on the proposal itself  and in the near-term future,
+D : several  times,
+D : one more time the professor, what is his name? Rao? or - ?
+F : Landay?
+D : because he's a professor in - uh, responsible for the infrastructure  at U_C_B and he has some projects
+F : Landay.
+D : I would c- c- name it cor-  intelligent classroom.
+D : I don't know whether I can succeed to get an appointment  then
+D : contact list and @@  the interests of each partner
+D : and I say "Oh poo, currently I don't know."
+D : The second question is how long I stay here and say ooo, I don't know",
+D : everything must be just  settled a little bit more.
+D : it's a pity
+D : that Multicast is, in principle, removed
+D : and we do not have any expert  from Multicast anymore.
+D : Because that is a major @@ ,
+D : and, um, but neverless we have to live  with this situation.
+D : You are laughing, again?
+D : So maybe we have to rewrite something, have new ideas going forward more in
+D : uh
+D : for the future telecommunication core  networks because
+D : tunnel generations and all those kind of things
+D : and I - I believe that would be very beneficial   to use it for the
+D : really uh, mobile scenarios in - in that network,
+C : Oh, not really,  you know,
+D : Then we can extend  Multicast.
+C : No,
+C : O_K ,
+C : nobody is - is knowledgeable  about multicasting but
+C : address  future,
+C : a new person  could address this.
+C : uh, it - it makes  no sense to me
+C : a meaning  itself
+C : O_K ,
+C : O_K .
+C : Sorry.
+D : no, no, because that's, uh, that's why I mentioned that it is important thing.
+D : taking into  end  system,
+D : Where it should be ada- @@  adaptation   performed
+D : for ubiquitous   access to the network? Should it be in the end system itself?
+D : new member.
+D : work, I @@
+D : quite sure
+D : But he showed up the next day but only for administration stuff, but for the technical discussion he was here one day.
+F : Several  days.
+E : Yeah, I do remember  research
+A : I just met him when I arrived.
+D : @@
+C : O_K .
+D : Any other  question?
+D : Any other  comment?
+E : We have to do
+D : Yes, we have to do it, so that means we have to read the transcript script
+A : I don't know .
+D : And I will call Herr Janin   @@ .
+D : Transcript number is two O_ nine
+D : two
+D : three
+D : four zero one one
+D : six two five
+D : seven two
+D : eight six four one zero zero eight
+D : nine eight six
+D : O_
+D : zero
+D : one O_ three O_ five six nine
+D : three one
+D : four five seven eight
+D : five three zero three two
+D : six
+D : seven nine
+D : eight
+D : nine O_ five five six three one
+D : zero one zero five eight zero one
+D : one four five one zero three zero four
+D : two six four one
+A : Transcript is, uh two three one one dash two three three O_.
+A : one one
+A : two six nine
+A : three three
+A : four nine
+A : five
+A : six
+A : seven O_ one seven six
+A : nine one zero six
+A : O_ two nine
+A : zero four three
+A : one nine O_ three seven
+A : two eight eight
+A : three
+A : five one six two zero
+A : six five two seven zero zero eight
+A : seven six four six seven
+A : eight nine five
+A : nine nine
+A : O_
+A : zero
+C : Transcript two two nine one dash two three one
+C : zero six eight eight zero
+C : one seven zero zero two zero zero
+C : two nine five
+C : three
+C : four
+C : five O_ two five nine
+C : seven five three one three O_ two
+C : eight three fif- five six O_ four seven
+C : nine six nine nine
+C : O_ nine seven five three
+C : zero
+C : one
+C : two O_ five
+C : four three nine three eight
+C : five five
+C : six th- eight one two two zero seven
+C : seven nine six
+C : eight
+C : nine
+C : O_ O_ three
+E : Transcript th- two two seven one
+E : O_ seven
+E : zero six five
+E : one eight four three O_ seven five
+E : two
+E : three zero zero four
+D : He's laughing all the time.
+E : five two O_ nine four O_ O_
+E : six two seven two
+E : seven seven four five one
+E : eight eight zero
+E : nine
+E : O_
+E : zero zero five four
+E : two one eight
+E : three six O_ four O_
+E : four eight six zero
+E : five six two nine nine six nine
+E : six
+E : seven
+E : eight
+E : O_ six four
+A : Oh, oh Wilbert
+A : Oh, I'm so
+E : No, it wasn't.
+E : I - I - I saw it already standing
+E : when I was here  so then I started laughing,
+E : @@  oh, oh,
+D : O_K, Michael please.
+F : Transcript is two one three one two one five O_
+F : four seven zero
+F : five five
+F : six
+F : seven
+F : eight zero two seven four
+F : O_ two eight seven
+F : zero seven
+F : one three
+F : two nine
+F : three nine seven two zero
+F : four
+F : five
+F : seven four one
+F : eight four six zero
+F : nine five three six nine eight O_
+F : O_ nine five five four
+F : zero
+F : one
+F : two O_ four six five
+F : four one five two
+B : O_K, transcript number is two one one one dash two one three O_.
+B : three
+B : four
+B : five O_ O_ nine O_ four f- nine
+B : six zero zero six six
+B : eight three seven five O_ three three
+B : nine seven O_ five
+B : O_ seven
+B : zero six zero zero zero
+B : one
+B : two
+B : three
+B : five three
+B : six three six seven six
+B : seven six four one O_ eight nine
+B : eight
+B : nine
+B : O_
+B : zero zero seven seven seven
+B : two one O_ s- one seven
+B : three four four nine seven
+D : Adam?

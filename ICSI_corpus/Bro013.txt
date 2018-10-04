@@ -1,0 +1,351 @@
+A : We're going? O_K.
+A : Yeah. Probably wanna get this other door, too.
+A : O_K. So.
+A : Um.
+A : What are we talking about today?
+A : Oh, yeah. That was kind of uh interesting. The - both the uh -
+A : for one  sure
+E : Of data?
+A : training
+E : Yeah.
+A : or not, uh, the uh -
+A : near microphone only is - is uh three or four percent.
+A : fairly simple front-ends
+A : uh, with the S_R_I system. So I th- I think that the uh -
+A : mostly  digits,  of course, but - but then again -
+A : In fact  Ms
+A : Did anybody mention about whether the - the S_R_I system is a -
+A : the wor- as a word  model or as
+A : Yeah. Probably. Huh?
+E : Yeah. I think so, because it's their very d- huge, their huge system.
+E : And.
+E : uh unsupervised adaptation.
+A : Still.
+A : But - but uh what - what I think I'd be interested to do given that,
+A : take - I guess that somebody's gonna do this, right? - is to take some of these tandem things and feed it  into the S_R_I system, right?
+E : We can do something like that . Yeah.
+E : But I guess the main point is the data
+A : So there's - there's - there's two things being affected. I mean. One is that - that, you know, there's something simple that's wrong with the back-end. We've been playing a number of states
+A : uh, you know. But, yeah, so far he hadn't gotten any big improvement, but that's all
+A : that,  even  that  part not retrained,
+A : much better H_M_ Ms.  Yeah.
+A : Um.
+A : But just train  features,  the features coming from our Aurora stuff. So.
+E : But what would be interesting to see also is what - what -
+E : recording conditions. I don't know. Because
+E : it's probably not a problem of noise,  because
+E : It's not a problem of channel,  because there is
+E : The - the fact that - the result with the tandem and Aurora system are
+A : Oh. I uh but I'm - I'm almost certain that it - it -
+A : I mean, that it has to do with the um amount of training  data. It - it's - it's orders of magnitude off.
+E : Yeah but we train only on digits  and it's - it's a digit task, so. Well.
+A : having a huge - If -
+A : if you look at what commercial places do,  data.  This is a modest amount of data.
+A : So.
+A : I mean, ordinarily you would say "well, given that you have enough occurrences of the digits, you can just train with digits rather than with, you know" -
+A : But the thing is,  huge  word  huge  amount of data
+A : then you're going to have many  occurrences of similar uh allophones.
+A : And that's just a huge amount of training for it. So it's
+A : I - I think it has  to be that, because, as you say, this is, you know, this is near-microphone, it's really pretty clean data.
+A : Um.
+A : training? I mean, that could be hurting  clean  case.
+A : Yeah. Yeah. Cuz this is clean data, and so that's not too surprising.
+E : Well, o- I guess what I meant is that
+E : I guess we could have better results than this.
+E : uh from this,
+A : Oh. I  see.
+E : Four- Fourier.
+E : @@
+A : So in the actual
+A : and here we're getting three or four - three, let's see, three
+A : um point eight
+A : So if you, you know, put the ad- adap- take the adaptation off, then it - for the English-Near you get something like two percent.
+A : And here you had, you know, something like three point four.
+A : And I could easily see that difference coming from this huge amount of data that it was trained on. So it's -
+A : You know, I don't think there's anything magical here. It's, you know, we used a simple H_T_K system with a modest amount of data. And this is a - a, you know, modern
+A : So. I mean, the H_T_K is an older H_T_K, even. So.
+A : Yeah it - it's not that surprising. But to me it just - it just meant a practical attention to we probably should uh -
+A : Cuz we've had the problem before that you get - show some
+A : Yeah. So the three point four percent for this uh is - is uh -
+A : So why is it - It's an interesting question though, still. Why is - why is it three point four percent for the d- the digits recorded in this environment as opposed to
+A : Given - given the same - Yeah. So ignore - ignoring the - the - the S_R_I system for a moment, just looking at
+A : the T_I-di- the uh tandem system,
+A : if we're getting point eight percent, which, yes, it's high. It's, you know, it - it's not awfully
+A : Um. uh four times as high,
+A : Right? I mean, there's - is  background noise.
+A : Um. And uh I suspect when the T_I-digits were recorded if somebody fumbled or said something wrong or something that they probably made them take it over.
+A : It was not - I mean there was no attempt to have it be realistic in any - in any  sense at all.
+E : it's very, very clean and it's like studio recording
+A : Right.
+A : Yeah. So I think they were -
+E : It's not controlled at all, I mean.
+A : Bless you.
+B : Thanks.
+A : I - Yeah. I think it's - it's -
+E : Mm-hmm. But-
+A : it's the indication it's harder.
+E : Yeah.
+A : Uh.
+A : Yeah and again, you know, i- that's true either way.
+A : for uh things that are same data as in T_ - T_I-digits the same - same text.
+A : same system would - would get, you know, point - point three or point four or something
+A : on the actual  both  these digits are showing up as harder.
+A : Which I find sort of interesting cause I think this is closer to -
+A : uh I mean it's still read.
+A : But I still
+A : um when they're - they're dealing with people saying digits over the telephone. I mean.
+A : the uh - the - the companies that - that do telephone speech get anything like point four percent on their
+A : Uh, I mean, for one  do  phone up who don't have uh
+A : it's a we- we it's -  it's -
+A : it's U_S. it has - has many people
+A : I mean.
+A : O_K. That was that  topic. What else we got?
+A : Did we end up giving up on - on, any Eurospeech submissions, or - ?
+E : Yeah. I - I guess e- the only thing with
+E : So, I think, yeah - I think we basically gave up.
+A : Um.
+A : Now, actually for the - for the Aur- uh we do  have stuff for Aurora, right? Because - because we have ano- an extra month or something.
+A : Well, that's
+A : We don't - we don't have to flood it with papers. We're not trying to prove anything to anybody. so.
+E : Yeah. Well. So.
+E : Perhaps the point is that we've been working on
+E : is, yeah, we have put the um the good V_A_D in the system and
+E : it really makes a huge difference. Um.
+E : I think, yeah, this is perhaps one of the reason why our system was not -
+E : perhaps even better sometimes.
+B : Huh.
+E : Uh. The problem is that it's very big and
+E : we still have to think how to -
+E : where to put it and -
+E : uh either some delay
+E : it doesn't work,
+E : from the f- from the terminal side and
+E : the V_A_D should be before the L_D_A
+E : which means perhaps on the terminal side and then smaller
+A : This is the one they had originally? Oh.
+A : Yeah, but they had to get rid of it because of the space, didn't they?
+E : we will be able to make a V_A_D that's small and that works fine.
+A : Well. So that's a problem. Yeah.
+A : But the other
+A : if - if - I - I don't know what the thinking was amongst the - the - the ETSI  folk but um
+E : Mm-hmm.
+E : V_A_D or frame dropping
+E : they still want to - just to give some
+E : um
+E : uh ready I think.
+A : Determined.
+A : I see.
+A : But I was thinking that - that uh
+A : "Sure, there may be some interaction, but I don't think we need to be stuck on using our or O_G_I's V_A_D. We could use somebody else's if it's smaller or -
+A : So that's  good.
+E : Uh. So there is this thing. There is um -
+E : with shorter delay from the L_D_A filters,
+E : there was one filter with fif- sixty millisecond delay and the other with ten milliseconds and
+E : I think it's sixty-five. Yeah.
+E : Both should have sixty-five because - Yeah.
+A : You didn't gain  anything, right?
+E : And. So I did that  and
+E : So, let's see
+E : to the reference filter.
+E : Yeah
+A : perverse nature uh of reality. Yeah.
+A : O_K.
+C : Yeah.
+E : next week I think we will
+D : No, I w-
+D : with Matlab and to found some parameter robust for voiced-unvoiced decision.
+D : But only to play. And we -
+D : they - we found that maybe w- is a classical parameter, the
+D : sq- the variance
+D : spectrum of time
+D : quite
+E : Yeah. So, basically we wa- want to look at something like the ex- the ex- excitation signal and -
+D : Clean, and this noise.
+D : Uh this is uh - this axis is
+A : Frame.
+D : Of the - No,  this is the variance, the difference
+A : For this  one.
+A : Oh. There's two  graph.
+A : but it - but it g- with noise of course but - but -
+A : Uh.
+E : The p- the peaks should be voiced portion.
+D : But I meant to have see @@  two - two the picture.
+D : This is not the different. This is trying to obtain
+A : No pre-emphasis? Yeah.
+A : Yeah so it's - doesn't do too well there.
+D : This is quite similar.
+D : this is -
+D : ho- how I obtained the
+A : Right.
+A : I know  something  orthogonal
+A : But if you were to really try and get a voiced-unvoiced, do you - do you want to totally  ignore that? I mean, do you - do you - I mean,
+A : clearly a - a very big - very big cues for voiced-unvoiced come from uh spectral slope and so on, right?
+D : clear
+D : in these section
+D : if s- @@
+D : low values @@
+A : Well, you probably want - I mean,
+A : certainly if each  uh
+A : first auto-correlation coefficient, divided by power. Or - or uh
+A : there's uh -
+A : I guess we prob- probably don't have enough computation to do a simple pitch detector or something? I mean with a pitch detector you could have a -
+A : Uh. Or maybe you could you just do it going through the P_  um harmonic structure.
+D : they say that yesterday
+E : Um.
+E : Yeah, there is
+E : look at this um spectrum,
+E : What's this again? Is it the mel-filters?
+E : and it clearly appears here,
+E : and it happens
+E : the width of the lower frequency mel-filters
+E : It's around one hundred, one hundred and fifty hertz
+E : uh, add additional variability to this envelope and
+A : That's as - as a separate thing. Yeah.
+A : Yeah. Maybe so.
+A : Um.
+A : Yeah. So, what - Yeah. What I was talking about was just, starting with the F_F_T you could - you could uh do a very rough thing to estimate - estimate uh pitch.
+A : And uh uh, given - you know, given that,
+A : uh those harmonics. Uh.
+A : It's uh a variant on what you're s- what you're doing  the mel
+A : does
+A : if you just you know subtracted off uh your guess of the harmonics then something like this would end up with
+A : and our first kilohertz, even.
+A : And um
+A : if was uh noisy,  the proportion that it would go down would be
+A : So you oughta be able to pick out voiced segments.
+A : So.
+A : Anyway.
+A : O_K?
+A : That's what's going on.
+A : Uh.
+A : What's up with you?
+B : Um
+B : um
+B : and uh
+B : extending the Larry Saul work
+B : and um I asked him some questions about factorial H_M_Ms so like later down the line when
+B : we've come up with these - these feature detectors, how do we -
+B : how do we uh
+B : uh model the time series that - that happens
+B : um
+B : and
+B : and we talked a little bit about
+B : when you're doing inference - or w- when you're doing recognition, there's like simple Viterbi stuff that you can do for -
+B : for these H_M_Ms and
+B : the uh - the great advantages that
+B : um a lot of times the factorial H_M_Ms don't
+B : um
+B : don't over- alert
+B : on uh the sub-problems at hand so
+B : you can imagine um
+B : um transitioning independently and then
+B : at the end you - you uh couple these factorial H_M_Ms with uh -
+B : um based on -
+B : based on some more data.
+B : So he - he seemed - he seemed like really interested in -
+B : in um - in this and said - said this is - this is something very do-able and can learn a lot
+B : yeah, I've just been continue reading
+B : um
+B : thinking of maybe using um
+B : m- modulation spectrum stuff to um -
+B : as features um also in the - in the sub-bands because
+B : it seems like the modulation um spectrum tells you a lot about
+B : the intelligibility of - of certain um words and stuff
+C : uh I'll try to write up in my next stat- status report a nice description of
+C : what he's doing, but it's - it's an approach to deal with
+C : reverberation or that - the aspect of his work that I'm interested in
+C : the idea is that um
+C : too short to encompass reverberation effects um in full.
+C : and so
+C : you - you'd like it to be that
+C : um
+C : in,  but
+C : it's not really  with these ten millisecond frames
+C : But if you take, say, a two
+C : um window -
+C : I'm sorry a two second
+C : then in a room like this, most of the reverberation response
+C : is
+C : then things are l- more linear. It is - it is more like the reverberation response is simply c- convolved
+C : and um -
+C : and you can use channel normalization techniques
+C : like uh in his thesis he's assuming that the reverberation response is fixed. He just does um
+C : mean subtraction, which is like removing the D_C component of the modulation spectrum
+C : and
+C : um deal - uh deal pretty well with the um reverberation
+C : and um speech
+C : um
+C : method training trading the um and um
+C : come ca- uh synthesizes a new representation which is with say ten
+C : So I don't really know the theory. I guess it's - these are called "time frequency representations" and h- he's making the - the time sh- um finer grained and the frequency resolution um less fine grained.
+C : s- so I'm - I guess my first stab actually in continuing know
+C : Oh, and um, and um
+C : we don't really know how fast
+C : the um - the reverberation response is varying the Meeting Recorder data
+C : um so um
+C : imp- echo canceller implementation and um
+C : I want to try
+C : the - the response, say, between a near mike and the table mike for someone using the echo canceller and looking at the echo canceller taps and then
+C : see how fast that varies
+A : Um. I think we're
+E : O_K. I'm reading transcript L_ dash forty
+E : three four nine one one O_ five one eight three
+E : six two O_ five seven O_ four one nine six
+E : O_ one four four nine five seven three seven
+E : six one four two O_ five two seven
+E : eight nine nine three six six three eight nine
+E : seven one seven eight three one nine three O_
+E : one nine five seven five five one eight zero
+E : eight two nine eight four six one nine four eight one two
+C : Um.
+E : Eee.
+B : Ha!
+A : No. I mean. I think people will do what they say. It's O_K
+A : I mean in digit recognition we've done before, you have - you have two pronunciations for that value, "O_" and "zero".
+A : I mean is  convention  for it.
+E : O_K.
+A : See. I mean, you'd have to tell them
+A : Yes. That's right. It was - it was spelled out, and they decided they wanted to get at more the way people would really say things.
+A : Uh. Transcript L_ dash three
+A : one three two six one zero one four two four seven five
+A : nine three eight seven two six two six two seven
+A : six seven three four two two two four
+A : two nine six four O_ four O_ eight eight two
+A : eight seven nine nine four O_ O_ eight two
+A : seven eight zero three nine five one two three
+A : eight four three five five nine eight one four two
+A : zero two zero nine two nine two six
+A : Actually, let me just s- since - since you brought it up, I was just - it was hard not to be self-conscious about that when it
+A : when I'm talking on the phone,  I almost always say zero.
+A : And uh - cuz - because uh i- it's two syllables. It's - it's more likely they'll understand what I said. I'm  in, but some people say "O_" and -
+B : Yeah I normally say "O_" cuz it's easier to say.
+A : Yeah it's shorter. Yeah. So it's - So. don't  think  about it.
+B : "O_"
+B : Oh, no!
+B : O_K. I'm reading transcript L_ thirty eight
+B : five four five O_ three two eight five eight
+B : three three eight nine O_ four one O_ nine
+B : eight five O_ seven one one one four O_
+B : two one six one eight two five six seven eight
+B : five seven six eight two O_ O_ O_ four
+B : seven O_ O_ five eight seven seven seven five six
+B : five six one three seven one nine one three
+B : four three six O_ O_ nine nine two two O_
+C : I'm reading transcript L_ dash thirty seven.
+C : O_ five one nine O_ three two seven one six six nine
+C : six two seven O_ two six four five one O_
+C : five four two nine five O_ O_ one
+C : seven one one two seven one eight one two three
+C : four O_ eight four five seven six two two nine
+C : eight two three six seven two six seven six four
+C : nine two seven three one two five three
+C : nine three six eight six one nine one seven seven
+D : Transcript L_ dash thirty six
+D : O_ four four one six two nine O_
+D : four seven three eight four five six five four six eight eight
+D : three one two five two five four five nine
+D : nine seven zero six nine eight five eight five one
+D : zero eight three two nine seven three one four five
+D : six four nine three eight four four two two three
+D : four five three O_ two four five four two two
+D : six eight two one eight nine eight one nine

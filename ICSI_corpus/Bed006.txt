@@ -1,0 +1,342 @@
+F : nineteenth.
+F : @@
+G : Oh that's right.
+D : But.
+G : Well.
+G : No offense. Like.
+C : O_K, wh- wh- Yeah. O_K. Some in- some introductions are in order.
+G : Getting ahead of  myself.
+G : Yay!
+C : they're engaged in - in various activities, some of which you will hear about today. Ami is um our counselor and spiritual guidance and um also interested in problems concerning reference of the more complex type,
+A : Well.
+E : Oh wow.
+A : u- That's pretty good, I think. Yeah. Thanks.
+C : Keith is not technically one of us yet,
+G : "One of us."
+E : Yeah right. I've got the headset  on after all.
+E : yes.
+B : The "I don't know myself" joke.
+G : Mm-hmm.
+E : I know Nancy.
+G : What?
+G : About me  you?
+B : About me.
+G : O_K. O_K.
+A : You could  you.
+G : know.  I didn't mean to be humor copying, but O_K, sorry.
+G : Of Oz.
+D : It's very exciting.
+G : Not witch-like.
+E : Wizard.
+F : Wizardess.
+C : O_K, um, why don't we get started on that  subject
+C : what happened is that um, "A_", there was some confusion between you and Jerry with the - that leading to your talking to Catherine Snow,
+C : and he  was uh he - he agreed completely that some- something confusing happened.
+C : Um his  students.  It - it's exactly how you interpreted it,
+D : M- m- Majors? Majors? O_K, mayor - Something I don't know about these O_K. O_K.
+C : Ma- majors,  majors.
+C : Majors.
+C : Majors  and um just sending the - the little write-up that we did on to those email lists uh -
+C : So. So, that is uh -
+C : Um well he said um we - definitely "yes", however there is always more  his  else's  class at the moment and one should sort of reach out and try and get them all.
+D : I guess.  him,
+D : That's generally  done.
+G : me  either  of us could post it to- uh is it - if it's a general solicitation that you know is just contact you then we can totally pro- post it to the news group so.
+G : O_K, so you'll send it or something so .
+D : I can send it. I'll send it, yeah.
+G : Oops.
+G : Oops.
+C : Maybe.
+C : Um and then, secondly, we had, you may remember, um the problem with the re-phrasing, that subject always re-phrase sort of the task that uh we gave them, and so we had a meeting on Friday talking about how to avoid that,  and it
+C : how to get the - the subject m- to really have  intentions and sort of to act upon those, and um
+C : there the idea is now that next actually we - we need to hire one more person to actually do  complicated.  So if you know anyone interested in - in what i'm about to describe, tell that person to - to write a mail to me or Jerry soon, fast.
+C : Um the idea now is to sort of come up with a high level of sort of abstract tasks "go shopping" um "take in uh a batch of art" um
+C : "visit - do some sightseeing" blah-blah-blah-blah-blah, sort of analogous to what Fey has started in - in - in compiling - compiling here  anchoring  it with specific um
+C : o- um entities and real world places you will find in Heidelberg.
+C : and then goes in and solves the task with the system, I_E Fey,  and um
+G : so um y- you'll have those say somewhere what their intention was - so you still have the -
+C : Nuh.
+C : and we have a real  interesting subject which is Ron Kay
+C : And he also approached me and he offered to help I said "sure we need help you can come in as a subject" and he said "O_K". So that's what's gonna happen, tomorrow,
+D : Based on the web site, yeah, at the  -
+C : Talk to a machine and it breaks down and then the human comes on.
+C : Because what will happen then is that people repeat
+C : are  going to hire,
+C : uh then you - you may want to find out how to get  here  because this is where the shopping district is".
+C : Yes. In a sense that's exactly the - the - the idea, which is never
+A : Well, u- u- the one experiment th- that - that - that I've  read somewhere, it was - they u- used pictures.
+C : Yeah.
+A : i-
+A : you might be able to combine you know text uh and - and some sort of picture
+A : and kind of chew  the task and then take the test away - the - the - the - the - the text away so that they are not uh guided by - by
+A : by what you  wrote, but can come up with their - with their own -
+C : to we have um uh the E_D_U Project, let me make one more general remark, has sort of two - two side uh um
+C : module. And um
+F : Um, not   -
+C : By that look I -
+F : But not - not any time part
+C : O_K, so that's good. That's better than running into problems.
+C : Uh, meaning  did  it in English for us.
+C : @@
+C : Oh do I have it here?
+B : I'll
+E : You will be here.
+F : Finals  was that.
+G : Yeah w- it doesn't really have much meaning to grad students but final  projects  might.
+G : That -
+B : Guaranteed, it's just uh will I be here,  too  actually but -
+E : They're very dependent
+E : We're done.
+C : you  movie  if  something actually happens and some answers come out, then we're done.
+E : Toll.
+G : If - and they're kind of correct. And they kind of are - are correct. It's not just like anything.
+E : So it's not
+E : Right.
+G : And they're mostly in English. So.
+G : Are they - is it using the database? the German T_V movie. O_K. So all the actual data might be German names?
+C : um well -
+E : "Die Dukes Von Hazard" @@
+C : what films  they are actually showing. And most of them are going to be Hollywood movies.
+C : So, "American Beauty" is "American Beauty", right? Yeah.
+G : But they're shown like on a screen. It's a - I mean so would the generator, like the English language sentence of it is - "these are the follow- you know the following films are being shown" or something like that?
+C : and there you go. And the presentation agent will go "Hhh!"  Nuh?
+C : But it's - so this time we - we  problem  German  movie  titles.
+C : Nuh?
+C : unless we get some - some topical German  just  come out and that are in their database.
+C : So the person may select "Huehner Rennen"   or whatever.
+E : O_K. What's the next  thing?
+C : Yeah this is not an X_M_L this is sort of towards an - a schema  definition.
+C : And all the names could - should be taken "cum grano salis".   So. This is a -
+C : the fact that we're calling this "action schema" right now should not entail that we are going to continue  is
+C : Exactly. Yeah. Also,  these things may or may not
+C : So this  may  your  even  within  the domain of entering in the light of a Source-Path-Goal schema, that we need to put in - fill in additional structure up there.
+C : But this sort of gets the job done in that respect and maybe it is even conceptually somewhat adequate in a   sense that
+C : um we're talking about two different things. We're talking more on the sort of intention  there,  and more on the - this is the - your basic bone um schema, down there.
+B : Uh one question, Robert. When you point at the screen is it your shadow  keep   looking where your hand is,
+C : Well, that  all.
+E : Spit right here.
+B : Right. Currently.
+G : Oh, yeah.
+C : And what we  shadow,
+G : What did you think he was doing?
+G : O_K, sorry.
+B : I just -
+D : Eee.
+G : here.  O_K.
+B : Which - which we're abbreviating as " RAD ".
+G : Hmm.
+G : Hmm.
+G : Hmm. Mm-hmm.
+B : um cuz we've been arguing about it all week,
+B : I mean the -
+B : the features  I guess. I'm not - it's hard for me to exactly s-
+B : the Source  Goal  will store the -
+C : maybe a dimensionality, maybe canonical
+C : s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using the S_P_G schema in an Enter, View, or Approach mode, right? This is just properties of the S_P_G schema.
+G : It's gonna be one - y- you'll pick one of those for - O_K these are - this is just a layout of the possible  that could go - play that role. O_K, go it. Uh-huh.
+C : Yes, yes. Since you bring it up now, we will worry about it. Tell us more about it.
+G : O_K.
+G : and that - that may or may not be what you guys intended.
+G : But if it is,  then the top block is sort of like
+G : um, you know, you have to list exactly what X_schema or in this  action schema, there'll be a certain one,
+G : um you know goal - uh goal I guess in this case. So uh is there an easy way in this notation to show when there's identity  basically between things and I di- don't know if that's something we need to invent or you know just -
+C : e- when you talk about the real  world, actually identical to the goal of the -
+C : The way - we absolutely have those means that are even part of the M_-three-L_ A_ A_P_I,
+C : And um. This referencing thing however is of temporary  nature because sooner or later the W_-three-C_ will be
+C : specification and then it's going to be even much  real  pointing  individual  instantiation   within  via  documents,
+C : That's @@  but it's soon. So it's g- it's - the spec is there and it's gonna part of the M_-three-L_ A_P - A_P_I filed by the end of this year so that this means we can start using it basically now. But this is a technical detail.
+C : Yeah, I mean personally,  more  forward
+C : to the day when we're going to have X_  forms, which l- is a form of notation where it allows you to say
+C : that if the S_P_G action up there is Enter,
+C : then the goal  type can never be a statue.
+C : you know this,  Liberty,
+C : however it is uh you know sort of - these sort of things are imaginable.
+G : Tsk.
+C : so it would be considered valid if we have an S_P_G action "Enter" and no S_P_G schema, but a forced action  schema.
+C : Could  happen.
+G : Whi- which is not bad,  because I mean, that there's multiple sens- I mean that particular case, there's mult- there - there's a forced side of -
+C : Hmm. It - maybe it means we had nothing to say  about the Source-Path-Goal.
+C : What's also  nice, and for a- i- for me in my mind it's - it's crucially necessary, is that we can have multiple schemas and multiple action schemas in parallel.
+C : And um we started thinking about going through our bakery  questions, so when I say "is there a bakery here?"
+C : you know I do  ultimately  go  that person actually wants to buy something to eat there. Nuh? And if these are two different schemas, I_E the Source-Path-Goal schema of getting there and then the buying snacks schema, nuh? -
+C : ye- Yeah, they they would - both
+G : both  things.
+E : See.
+D : Buying -
+E : I'm sure there's a commercial event schema in there somewhere.
+G : Oop.
+D : buying his  food -
+G : I-
+C : so we would - we would instantiate the S_P_G schema with a Source-Path-Goal blah-blah-blah and the buying event
+G : Interesting. Would you say that the - like -
+C : Now it's technically  possible that you can fit schema within schema,
+G : uh I - I think that's nicer  for a lot of reasons but might be a pain so uh -
+C : r-
+G : I mean there are truly times when you have two totally independent goals that they might express at once, but in this  case it's really like
+G : So there's like levels  single  event of which they are
+G : both a part. And they're - independently  they - they are events which have
+G : they have to match up in - in nice ways. So it seems like each of them has its own internal  structure and mapping to these
+G : Like - I - I -
+C : this is the result of one week of arguing
+G : O_K.
+C : and um -
+E : Right.
+G : yeah that would be - that would be nice.
+C : I mean it's - if we can actually you know get it so that we can, out of one  more  schema,  I mean, then we're already pretty good, right?
+A : I mean many actions presuppose some - um almost other  you have a general intention of uh
+A : on - on and decide  the level of - of abstraction that - that you aim at it kind of zero in on that, and more or less ignore the rest, unless there is some implications
+A : that - that you want to constant draw  from -
+A : from sub-tasks um that are relevant
+A : uh I mean but very  difficult.
+G : The other thing that I just thought of is that you could want to go to the bakery because you're supposed to meet your friend there or som- you know so
+G : you - like being able to infer  the second thing is very useful and probably often right. But having them separate -
+B : Sure it - O_K. Yeah.
+C : Well there - there - there should never be a hard coded uh the bakery question to the
+G : Yeah. Exactly.  train station London before, yeah.
+A : Well.
+A : I have a question about the slot of the S_P_G action. So the Enter-View-Approach the - the - the EVA um, those are fixed slots in this particular action. Every action of this kind
+G : It's like  -
+A : you know in some  way what this action is all about. It can be either A_, B_ or C_. Um.
+C : maybe even not.
+A : No, no. There - a- a- actually by I think my question is simpler than that, um
+A : is - O_K, so you have an S_P_G action and - and it has three different um uh aspects um
+A : because you can either enter a building or view it or - or approach it and touch it or something.
+A : Um now you define uh another  action, it's - it's called um
+B : Oh the - O_K  uh maybe I'd -
+B : the categories inside of action schemas, so, S_P_G action is a category.
+B : derived I don't know if I u-
+E : And what are some types of that?  And an Enter,
+B : basically. So if I want to go from outside to inside
+G : I mean I guess I'm wondering whether - You could  just have under action schema you could just sort of say whatever you know it's gonna be Enter, View or Approach or whatever number of things and pos- partly because
+G : you need  may  be multiple categories as you say which is um the reason why it gets a little messy um but if it has -
+B : Well, this is one of things we were arguing about.
+G : O_K, sorry. You didn't tell me to -
+C : th- that's the way that seemed more intuitive to Johno I guess also for a while - for not  - we have not seen the light.
+B : No.
+G : I- it's easy to go back and forth isn't it? Uh-huh.
+G : Which is why I would think you would say Enter and then just say all the things that are relevant specifically  abstract  will be in the abstract things as well. And that's why the bindings become useful.
+E : Ri-  You'd  out?
+C : Um and I agree  that you know this is something we need to discuss, yeah.
+G : I- in fact what you could say is for Enter,
+E : List all the parent  categories.
+G : a frame hierarchy, right? like you have these blended frames. So you would say enter and you'd say my  parent
+G : frames are such-and-such, h- and then those are the ones that actually you then actually define and say how the roles bind to your specific  roles which will probably be f- richer and fuller and have other stuff in there.
+E : This sounds like a paper
+G : Yeah it could
+G : I'm just telling you what I think, you just hit the button and it's like -
+C : And , I guess fr- uh
+E : Hhh. Damn  this headset!
+E : When you this uh, eh -
+G : Metacomment.
+E : Yeah.
+E : That's all recorded.
+G : "Damn this project."
+E : Hhh. I don't know. Like -
+E : How do I - how do I come at this question?
+E : You know? Like, do you say "alright I'm going to uh - do an S_P_G action".
+E : And then you know somebody ne- either the computer or the user says "alright, well, I know  that? "
+E : And "oh, O_K, so I can do an Enter-View-Approach". It's not like  that, right?
+E : It's more like you say "I want to, uh - that.
+E : the um - the uh sort of representation that you  were just talking about seems more relevant to the kinds of things you would have to do?
+C : Well my  mind that sometimes
+C : even two  could be on, and would be interesting.
+G : O_K.
+G : @@
+C : U- s- t-
+G : "Approach and then
+G : Run like this uh -
+C : get the task done extremely  well because this is exactly the discussion we need -
+C : uh let's make a - a - a - a sharper  will  end  anytime  soon.
+G : Yeah, I can guarantee that.
+E : Sigh.
+E : Right.
+E : In my
+G : And you could have also  indicated that by saying "Enter, what are the kinds of action I am?"
+G : So like unless @@  - Are there reasons why one is better than the other I mean that come from other sources?
+E : Again -
+C : mainly meaning from the natural language understanding, or from the deep  language understanding to the action planner.
+C : using this  approach is because
+C : So you always need the whole body of - of y- your model um to figure out what belongs to what. Or you always send it along with it, every  message.
+C : I'm completely willing to - to - to throw all  of this away and completely redo it,
+G : @@
+E : cuz I'm new and I don't really just - I just don't know what to make of this and what this is for,  and stuff like that, you know, so if someone could make an example
+C : I will promise for the next  X_M_L examples for a - a run through and - and see how this - this then translates,
+C : is there more to be said? I think um -
+C : In principle  does,
+C : um wha- how do how does Professor Peter  call that? The uh
+C : hhh,
+A : Oh, uh
+E : Alright.
+G : Oh!
+C : we - we will play around with all of them but the principal  distinction between having the - the pure schema and their instantiations on the one hand, and adding some whatever,
+C : @@
+C : If you all share that  my  day much happier.
+G : Uh yeah wait  -
+G : Uh that's true. Although um roles -
+G : Yeah. I was going to -
+G : Bread rolls?
+B : Yeah, pastries is what I'm  talking about.
+E : Help!
+G : I guess I'll agree to that,
+C : O_K. That's all I  have for today.
+C : Oh no, there's one more issue. Bhaskara brought that  one up. Meeting time rescheduling.
+G : I n- Didn't you say something about Friday, or - ?
+C : not  good anymore.
+D : It's fascinating.
+C : gets you anywhere  in - in your life then uh
+G : "That's the right answer."
+D : I'm just glad that I don't have to work it out
+C : to c-
+C : @@
+D : I'm just glad that don't have to work it out myself,  all
+C : Uh but you're  a linguist. You should -
+D : Oh yeah. That's why I'm glad that I'm not involved in working it out.
+C : O_K.
+A : @@
+E : So already again this week, huh?
+F : Yeah.
+E : Yeah. Between now and then.
+G : probably .
+A : Yeah.
+A : Yeah.
+A : An- and I would like to second Keith's  request. An example wo- would be nice t- to have kind of a detailed example.
+G : or, better, speech.  So.
+C : and um if you can get that binding  point also maybe with a nice example that would be helpful for Johno and me.
+G : let's uh
+G : yeah they're -
+E : I think you've got one on hand, huh?
+G : @@
+C : in  general  nature, we should distill them out and put them where the schemas are.
+C : If there are things that you know are intention-specific,
+C : That's  wonderful.
+G : Yeah. So it's gen- it's general across all  of these things it's like -
+G : I mean Shastri would say you know binding is like Um.
+G : So I don't think it will be isolated to one  or the two, but you can
+C : Yeah. And - and there will be a - a - a relatively  high level of redundancy in the sense that
+C : if we want to get really  RAD ."
+C : I mean if - if people really  like our - our RAD, I mean w- what might
+C : happen is that they will get rid of that action thing completely,
+G : I can't believe we're using this term. So I'm like
+D : You don't have to use the acronym.
+G : I see what you mean.
+B : RAD's a great  term.
+E : It's rad,
+B : Why?
+E : It happened to c- be what it stands  for.
+B : It just happened to be the acronym.
+C : ye- no but i- but if you - if you - if you work  that  great  acronym because it e- evokes
+D : Just think of it as - as "wheel" in German.
+C : and um - and also - So, description,  having the word d- term "description" in there is wonderful,
+C : uh "rich" is also great, rwww.
+F : Hmm.
+B : Who doesn't like to be a-
+E : Plus it's hip. The kids'll
+F : Hmm.
+C : It's - it's rad, yeah.
+G : And intentions will be " RID "?
+G : will have some  overlap but not total with
+C : Yeah, well just transcript is just not available  transcribed  it yet.
+C : Um I can e- I can uh I'll  transcribe it though. It's no problem.
+G : I take that back then.
+G : you know like two  examples I mean, y-
+C : This  Friday.

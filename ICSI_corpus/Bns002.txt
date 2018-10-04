@@ -1,0 +1,1252 @@
+F : Yep.
+C : O_K. So, welcome to our next meeting. Uh, today we will have a talk from Miguel Sanchez work related to ad-hoc networks.
+C : We have here a guest, a former ICSI member of the N_S_A group, Jordi Domingo Pasqual. He is, uh, assistant professor at U_P_C.
+C : And maybe Jordi, you have a few words because we will have tomorrow a talk from him in more detail concerning what's going on.
+E : Eh, you - you want me to say - Oh!
+E : Of course. Broadband Commu-
+C : This is not related to hearing, it's only for
+C : fixing it. It's not a earphone.
+E : Ah, it's not a hear - It works this.
+C : It's only
+E : Ah,  much more comfortable.
+C : Yeah.
+E : thank you.
+E : I'm uh working in the Broadband Communications Group and eh,
+E : and em tool - developing tools uh for quality of service, eh
+E : performance analysis.
+E : That's eh - both Spanish and European projects, ongoing
+E : in this area.
+C : And after the talk of
+C : say something about in which direction it will go
+C : uh
+C : Maybe it was my
+C : deployed to everybody,  me,  so in the meantime everybody got, I believe, this pointer from me, and
+C : next  meeting,
+C : to get a little bit familiar with these things.
+A : Worse
+C : And technical  discussion, maybe more a few topic and items we will focus in the next days, until the next meeting.
+C : Everything is done. Then,  uh, we have to read these number
+C : and we go around here, every member. So.
+C : Miguel, please.
+D : Well, eh, I - I have prepared, eh, a really short talk
+D : I have been doing some w- some research work
+D : And eh, well, mainly I will present uh -
+D : I will present some ideas and some concepts about are,
+D : about the issues in media access control in wireless networks, also about routing in such kind of networks
+D : and, eh, I will make some comments also about the current standards of wireless local area networks
+D : and finally, I will present the blueprint of - of my research project or my research uh proposal here.
+D : So is.
+D : These nodes of course can be mobile nodes,
+D : and, eh in this network there is no infrastructure.
+D : So active thing we have
+D : is sometimes, uh done by direct communication from one node to the other,
+D : they can talk to each other.
+D : But sometimes it is not possible,  this direct communication, because nodes,
+D : And in this case, can  be done, communication can be done, by uh using multi-hub routing.
+D : an intermediate, or a set  of intermediate nodes
+D : will route or will forward the packet from the sender to the destination.
+D : uh nodes are as both arced as both
+D : uh other  neighboring  nodes.
+D : And this makes a uh difference from other  kind of network.
+D : And well, regarding
+D : eh we can say that, well, cellular networks are infrastructure-based networks,
+D : in this kind of ad-hoc networks, we don't have useful  for eh
+D : after  some kind of - of - eh
+D : um catastrophe- catastrophic event,
+D : or, also when - even  we don't want, for different reasons, to use the available network.
+D : where maybe we don't want to use the other - the enemy network infrastructure, for evident reasons.
+C : But you can also, I believe, uh to have an ad-hoc network, where one node is then  world.
+C : For instance, what I have in mind, you have a car,  different  other,  for instance,
+C : but one  M  G_P_S  whatever  kind of things.
+D : That's  O_K.
+C : uh, for one  node within the ad-hoc network to provide connectivity to the outer world, right?
+D : That's O_ K.  That's perfect, you know. This - in this case, we will say that this node is acting as a - as a gat- external gateway,
+D : from this  other  networks,
+D : and of course the underlying
+D : uh protocols can can be, of course, uh I_P-based.
+D : for example, NASA is - is uh studying, is uh the use of these networks, these ad-hoc networks, for sending multiple probes, uh, um missions.
+D : So, for example, all of you are aware of this uh - the last Atlas, the last successful uh Mars mission, the cellular   vehicle was only one,
+D : except well maybe the cost,  to send not only one mobile rover, but ten tons of them, or -
+C : 
+D : or the other area uh of - of - of application, is the so-called network of sensors,
+D : where we can deploy a set of sensors in a maybe uninhabited area,
+D : take some  information
+B : Um, is that really  moving.
+B : And I think it's - makes no sense with moving sensors because then you don't know where the sensors are.
+D : You know, it's an interesting question. Uh, the - the main thing about an ad-hoc network is not that nodes move.
+D : the way of  topology changes can happen.
+D : kind  of topology changes can we expect?"
+D : Well, eh, the thing is that usually in - in a n- in a network of sensors, what we have, or the idea  is to have
+D : um, an important  number  of sensors,
+D : and maybe with a high filer  rate.
+D : out of order eh environmenta- environmental conditions.
+D : even when these nodes  are not moving,
+D : Then, uh what will happen in a - in a regular network, uh in a network where you don't have
+C : Let me go back to your uh uh example. Have in mind some routers are burnt
+C : here, at ICSI or whatever kind of thing, what will happen then even in a fixed  network?
+C : So, if some sensors are getting out of uh no  node is moving.
+D : Well, uh, you know, and finally, uh, another non- military  applications, where
+D : uh maybe  a network is available, like for example, a room like this,
+D : but possible application of ad-hoc networks could be
+D : and eh we just can communicate
+D : seamlessly of access point, any kind of uh
+D : because want  local  based, it's only
+D : to chat to each other or to exchange files with the person, which is front  of us.
+D : O_K, but we n- don't want  internet  or something. O_K?
+D : And, of course, the same eh - the same scenario, could also happen in a place where
+D : there is no available.  Let's say a meeting room
+D : the point  question  could be for some of us,
+D : the idea of saying "O_K, longer  any  destination in just one hop?"
+D : This seems to make sense because, this way
+D : about routing later, but uh it -
+D : it seems that i- probably that the problem is - is not an easy  one,
+D : But the problem is if w-
+D : we just uh power  in each tr- transmitter,
+D : so this uh transmitter can reach any destination in only one hop,
+D : several high-powered  transmissions at the same time
+D : uh I think I'm not telling
+D : So that's why we cannot allow
+D : So, the idea of hav- having a longer  range  one.
+D : what we have is a set of nodes,  location.
+D : and uh,
+D : I'm trying to uh show
+D : has a maximum transmission range,
+D : in the simpler way,
+D : The value  of this radius
+D : is uh -
+D : uh simplife- simplified model
+D : and of course this can be uh a lot,
+D : what are  the differences
+D : uh, in this - in this eh wireless transmission,
+D : a special  domain  wire  for transmitting a signal.
+D : I'm trying  to show in this picture,
+D : wants  this  transmitting,
+D : if we  are using some kind of carry detect scheme, like for example, C_S_M_A,
+D : the problem is that this node  hear
+D : it won't  be able to hear anything
+D : that
+D : no  other transmission is going on,
+D : and he will  start transmitting.
+D : if he does,  what will happen
+D : is that this node  this  node
+D : will also  receive this transmission,
+D : and this will produce, at least at these two  nodes,
+D : none  of these two simultaneous transmissions will be properly
+D : O_K, eh, this problem  is what
+D : I think this is the previous  one?
+A : @@
+D : this is what is called a " hidden  terminal" problem.
+D : this node is not able  hear
+D : this other node because of the distance
+D : uh, between them.
+D : is uh really producing at least some reception problem at these two nodes.
+D : a certain, and a specific  uh,
+D : guarantee that nobody
+C : Um examples  for such kind of protocols?
+D : This  This one, n- next slide is -
+D : and - and the base of most  of this protocols,
+D : of course, this is only  intended for unicast transmissions,
+D : a neighbor  node. O_K?
+D : But not  broadcast.
+D : Uh, to all  the nodes.
+D : eh being able to send data.
+D : another packet called C_T_S, "Clear To Send",
+D : receives  from  the destination,
+C : occupied
+D : Uh. Yes.
+D : uh, if I want  to send you something,
+D : you to answer  me
+D : my neighbor  now  off  or maybe you are
+D : and also  because that way
+D : Miguel, for example, it may be  me
+D : will hear  know
+D : in fact, forcing  receiver  transmit
+D : for a short  period  time
+D : uh receiver
+D : neighbors
+D : that a recept- a reception is taking  place.
+C : Or, is anybody allowed also  to send R_T_S packets?
+C : Because if I go to an intermediate  me  Michael.
+C : And Michael send also  some R_T_S packet in the time and - and - uh uh
+C : uh Jordi too  and whatever.
+C : Then you will never
+C : then you're always exchanging R_T_S and non-acknowledgement
+D : First of all, not  eh, anyhow.
+C : So it's only  scope
+C : transmissions? O_K.
+D : R_T_S packets can  other  R_T_S packets.
+D : So, collisions,
+D : data  collisions.
+D : are short  packets,
+D : really short packets. Let's say eh eh thirty bytes or less.
+C : Fine .
+D : a collision in this short packet
+D : that there is - there are - there is no  collision
+D : because we- well, we - we only  waste really small time colliding.
+C : O_K, but that means, in principle, that on the MAC  C_T_S  packet
+C : between neighboring  nodes,
+C : and you send afterwards the data.  maybe  intermediate  always
+C : be assured to be uh s- uh uh R_T_S and C_T_S packets are changed
+C : before you can  the data, right?
+D : if reservation  doesn't  work O_K,
+C : Maybe it's better to - to uh,
+C : So, maybe my idea first.
+C : So this is what, node one?  two  and this is the source,
+C : But- but anyway,  do  that in the ad-hoc network. This is maybe the sco- this is within the scope
+C : of
+C : this, uh special network. That means here that is uh within the transmission
+C : So if I send um, a C_T_S,
+D : a C_T_S.
+D : That's  O_K.
+C : So. In the meantime,
+C : when he gets this
+C : and then C_T_S and then he can send the data, right?
+D : That's  it.
+C : Yeah? And that's what I mean.
+C : In the meantime,  still  data  here,
+C : where he try to get certain connectivity on the MAC  layer.
+D : Yeah, but eh a node is only -
+D : two
+D : it will  waiting
+C : O_K, and then  he try to forward this data.
+C : After  all  the data?
+D : But n- not  before.
+C : Could it not be a little bit strange because if that is starting a file  transfer with millions of bytes,
+D : we are - we are talking only about a data  packet.
+C : One data p- He have to do it for all  data packets?
+C : So but, in principle,
+C : when he receives  the data packet then he -
+C : The same applies for the next  data packet.
+C : So it's acting, in - in prin-
+D : But not  meantime.
+D : will need to check
+D : inside  the data packet, so,
+D : the reception
+D : because usually your network hardware
+D : provides you a copy  packet
+D : you know  that reception is successful
+C : Naja   @@
+D : uh without errors.
+C : Mm-hmm. Yeah, @@ . O_K.
+B : um any disturbance of other  nodes in the um sending range of, yeah, N_one.
+D : O_K. This is the transmitting
+D : this is the receiving node,
+D : places of the
+D : So, any  node,
+D : for example, this node is a neighbor of the receiving node,
+D : but it is not  transmitting  node.
+D : uh informed, that a recev- a reception is taking place in - in - in it's area.
+D : further transmission until
+B : But then this node, um, this transmission is uh aborted.
+C : And delayed.  Yeah.
+B : And so there's no advantage  data  packets.
+D : If this node was  transmitting  before,
+D : it should ha- uh packet  in advance, O_K?
+D : should hear  it before.
+D : So this node is -
+D : W- won't  be sending the eh
+D : So this transmission won't  take place.
+C : Yeah.
+C : It's always true that only one  node
+C : for one  frame. That's the point. We always said "from data" but it's really one frame.
+D : the R_T_S and the C_T_S packet
+D : have a field, a control field
+D : where total length of the data packet is shown.
+D : when you hear  one
+D : uh C_T_S or one uh R_T_S packet,
+D : that the frame
+D : that they are trying  to transmit -
+D : or, that this one is trying to transmit this one receive  -
+D : You know  the length.
+D : try to get the control, or t- try to send  own  transmission.
+B : nodes have the same range  of transmission.
+B : So, the s- same radius  range .
+B : So otherwise um this one node maybe
+B : would hear his neighbor but not vice versa.
+D : it depends. It depends mainly on - on the antenna gain
+D : receiver uh threshold.
+B : Mm-hmm. But I'm thinking about this example you gave before.
+C : Uh-huh.  right.
+D : uh transmission and  receiving signals.
+C : Yeah, but, Miguel, this  point  from - from Dietmar, but maybe here is a wall.
+C : And this guy is behind the wall,
+C : his transmission rate is something like that.
+D : deformed
+D : because of some obstacles.
+D : O_K? But this wall is working both ways.
+D : making this node not to hear this one,
+D : it's also making this one not  to hear this node.
+D : Because  of this wall,
+D : like here.
+D : No, but this is not  the scenario we are assuming.
+B : Mm-hmm. O_K. It's a assumption it's - it's clear. But on the other hand, um, in a real world it isn't, or - ? Um.
+D : In a?
+B : real  scenarios, uh, you have to -
+A : It - It is  actually -
+D : Uh not really, but also depends on uh you know, for example power relationships,
+D : because for example, uh
+D : uh let's say more gain
+D : What is also true is that one directional antenna works both ways.
+B : You're not  assuming this. Yeah.
+D : It provides you when you are transmitting but also when you are receiving.
+D : so, in general, in general even when - if there - uh if there i- are different antenna gains,
+D : Only  important  power  difference
+B : Yeah, a cellular phone and  a car.
+D : So um But this - this - this is not our scenario. In our scenario, all the nodes are exactly the same.
+D : and eh here's where our is done.
+D : The main idea for - for our work, is
+D : well, using  this reservation mechanism, we are reserving an area of space
+D : for a single transmission. Uh, if this area is bigger than what is really needed, we are, somehow, wasting
+D : So, uh
+D : our first eh work in this area these transmission values, these uh
+D : the area, the covered area, trying  to get a minimum value,
+D : so
+D : reduce not-used  space for other
+D : network  throughput, to higher number of simultaneous transmissions.
+D : mmm, worked about this problem
+D : One of these ways has been to uh
+D : calculate
+D : for the transmission range
+D : uh, and to get an equal value for all the transmitters.
+D : So,
+D : to obtain for the transmission range.
+D : uh, it is about -
+D : we are using a different value for every single transmission.
+D : First point,
+D : the transmission for uh
+D : for an scenario  we have a - a fixed area,
+D : where we deploy all the nodes,
+D : and, freely around this - this area
+D : and, uh, what we have presented, to uh
+D : calculate radius
+D : that provides at the same time - that provide us
+D : the better throughput possible - the better possible throughput,
+D : but without our network getting partitioned,
+D : which is a problem that we are trying to avoid.
+D : this is the deployment area of - or - or node, and if we have some nodes here  here,  well maybe these nodes in this area,
+D : what can we do to avoid this?
+D : longer enough to reach from so the nodes from this area will be able to reach the nodes on this other area.
+D : But, again, we can assume that eh
+D : if uh, nodes are moving, in a random fashion, this configuration is not very likely to happen.
+D : So
+D : uh value
+D : for a given uh probability.
+D : @@  we -
+D : uh, we cannot say that this is not gonna happen, what we can say is this is not very likely to happen, if nodes move
+C : if uh in the previous slide you mentioned that you uh are working also on adaptive power control.
+C : Is it not possible then,
+C : if I send  find  any neighbor because one of the cluster below,
+D : Yeah, th-
+C : is it not possible to extend  the power
+C : until the maximum  maximum  of power, O_K,
+C : then I'm lost anyway.
+D : but not - not uh, by me. But uh, there is, uh
+D : one, at least one person who is - who is doing what they call "topology control",
+D : uh certain properties uh from your network, like for example,
+D : Ram Ramanatan
+D : And they are controlling the power to eh this g- uh mmm get this -
+D : uh, um, is more or less
+D : we  the neighbors to these nodes which are
+D : uh closer than a given distance,
+D : our algorithm with something,  no  power control, which is the usual uh mechanism
+D : So, what we are doing here
+D : the no  power control, but again we have to fix - in order to be able to compare, we have to fix a given
+D : And, uh
+D : in advance, before  sending the data,
+D : to
+D : Well, uh we are assuming that e- y- for - at least for uh veh- uh you know, uh, car
+D : the f- um frame length is so small that only um
+D : very - very small um space can be - can be eh traveled while the transmission is taking place.
+D : You know,
+C : The frame could also  whatever,
+C : I don't know  bytes,  time.
+D : One kilobyte is uh eight uh
+C : No, s- no sorry m- Yeah, that's right.
+D : Oh per - per hour.  Sorry.
+C : But first of all it took place R_T_S C_T_S  occupied  another  anyway  time.
+D : I mean, it will be a start with another  R_T_S C_T_S.
+D : But, anyway, network,  this  - I will have to translate this,
+D : It shou- should be something ipsh  @@
+D : @@
+D : thirty meters
+D : For most of - of - of uh the wireless technologies, maybe not for all of them, O_K, but -
+D : I'm - of course, I'm also
+D : uh consider the network as if it were
+D : we are considering that motion can be con- is not - is not important.
+C : Yeah, what I think - Maybe some, uh
+C : cases why  I go this way with my node, and suddenly, I s- go out of the scope of the transmission area, because it's really a random movement.
+C : Then I still hear - this is during  the data transmission.
+D : adding with this behavior is, uh
+D : uh a little bit more, probably some - some
+D : uh small part to the uh bit error  rate.
+D : and, should eh have to be eh dropped, but anyway,
+D : eh in the wireless transmission, so
+D : we won't have a hundred percent eh perfect eh channel anyway.
+D : So eh
+D : Y- you can - you can see that it is not very likely to happen, you - you - you eh have to consider
+C : Nee.   besides  C_T_S  additional
+C : MAC layer functionality  deal  whatever,
+C : for whatever control, or whatever  kind of things, you know.
+D : I - I maybe I - I - I - had to - to prepare a more detailed eh, view, I - I just was trying to do something soft,
+D : not to - to bore th- the public but of course there are a lot of other smart eh things that are built in, in these protocols, like for example, an automatic, uh
+D : acknowledgement.
+D : uh in the same way as this R_T_S and C_T_S packet - some of them use,
+D : which is also a short packet,
+D : so you - you are getting some kind of link layer uh acknowledgement scheme
+D : usually when you send a -
+D : uh is also contemplated in this eh
+D : in fact, eh nnn some people proposing this mechanism
+D : is - is showing a - a b- a big improvement
+D : and eh there are a lot of other mechanisms, also regarding and a time-out mechanism, or the time-out algorithm for these retries when you and you don't succeed, uh, what - what you
+D : the amount  of time you have to wait until you retry again.
+D : I just the main ideas.
+D : You - Feel free  to ask uh whatever you want, but
+D : I -
+D : I want to insist that
+D : uh a simplified  light  version.
+D : well, uh you know
+D : eh what it's doing is to check  receiver
+D : some advantages can -
+D : have  power control,
+D : less
+D : than the maximum power
+D : How often do you use less power than the maximum?
+D : this will -
+D : Depending how nodes are moving,
+D : all your neighbors are at the maximum distance
+D : this probably, doesn't l- look  like uh something very
+D : O_K? because well, l-
+D : probably y- neighbors  that are
+D : close  away
+D : these neighbors that are in the -
+D : frontier  coverage  area.
+C : Uh, do you assume that also  next years?
+C : In other words, um
+C : um
+C : for batteries, and - and - and - @@   sofort   so on
+C : uh will it be succeeded that you have so much power available that this difficult mechanism who is in the wireless network will be uh out of scope?
+D : Mmm.
+C : I do not have, in principle, really the constraint to uh
+C : deal with - with uh power  savings.
+D : uh you - you have uh an endless
+D : uh source of - of gas,
+D : do you think it will - it will be a problem,
+D : amount  of gas your - your car is - is using?
+D : pocket,  wallet,
+D : be  a problem for
+D : environment.
+D : So, to your question is
+D : in this line, that
+D : have  an endless uh source of power,
+D : maybe  it's not a problem,
+D : for the battery uh lasting.
+D : But, it is a problem because you are using more area
+D : should.
+D : at the same time.
+D : And therefore only  connected to - to the - to the power
+D : it is also  connected to the net- to the global network throughput.
+D : again, uh, you know, uh
+D : the - the m-
+D : in the industry?"
+D : What I think  that will happen is that they will
+D : try to get
+D : mmm
+D : better
+D : hardware than we have now because now
+D : with transceivers
+D : is that a lot of power
+D : consumed
+D : logic  of the transceiver,
+D : not  uh transmitted to the air.
+D : It is not power transferred to the air. So,
+D : the problem now
+D : most  of the power
+D : card
+D : is consuming,
+D : is - is - is drawn
+D : logic  control of the card.
+D : All the - all the calculations, all the hardware -
+D : of this eh, let's say,
+D : wasted power, because
+D : what you cannot avoid is, uh
+D : to p- l- the part of the - of the radio  frequency power you have to transmit.
+D : cannot  be avoided.
+D : But what you can  can  reduce
+D : and probably
+D : because now it is the main factor, the main consumption factor,
+D : is the logic inside.
+D : processors,  for example.
+D : uh power efficient than before.
+C : with a lot of difficult  mechanism,  air  one  percent  power  ninety-nine  percent is consumed by
+C : packet processing and - and - and - and - uh uh C_P_ U  whatever,
+C : is it worth  to have it?
+C : If I really,  whatever  kind of thing -
+D : Yeah,  pero   e-
+D : you have to worry about your environment,
+D : you  don't own
+D : that are
+D : uh  among  the community.
+C : O_K.
+E : Excuse me @@ . If I understood correctly, the mechanism
+E : eh
+E : eh
+E : eh minimum  power need
+D : The destination.
+E : the neighbor.
+E : eh more transmissions uh
+D : Can take place at the same time.
+D : uh, it is always  however,
+D : uh
+D : greedy mechanism,
+D : in - in - or,
+D : more than greedy in this case, it could be,
+D : mechanism to - trying to avoid
+D : to use any extra space
+D : is also leading
+D : a higher level of interference
+D : at the receivers.
+D : uh look for some trade-offs
+D : to avoid too much
+D : uh interference
+D : at the receivers.
+D : little  bit more power
+D : than these
+D : mathematically minimum values.
+D : O_K? because if not,
+D : the uh
+D : mmm
+D : the frame error rate or the bit error rate
+D : uh, skyrockets.
+D : O_K? because of the - of high interference  levels.
+D : A lot  also means
+D : for
+D : receiver  point of view,
+D : neighbors
+D : or - or nodes
+D : transmitting at the same time.
+D : my  transmitter,
+D : are my intereferers
+D : and are -
+D : and all of them are producing
+D : less  quality reception,
+D : so
+D : if they are a lot of them,
+D : well, uh the reception can be
+D : can be uh disturbed.
+D : this is taking longer than I expected.
+D : Let's - let's uh take a k- a - a really - a really light uh view at the - at the routing in this - in this network, which is
+D : another  important
+D : area of - of research.
+D : You know,
+D : in fact there is a - a group at the I_T_F
+D : This working group is - is devoted to
+D : uh try to - to present or to agree
+D : a common protocol
+D : for routing I_P traffic
+D : on these eh kind of networks, on these ad-hoc networks,
+D : at this moment there are,
+D : I would say, a lot
+D : of proposals
+D : different  protocols
+D : on these networks
+D : chosen
+D : but,
+D : for the moment eh
+D : we have
+D : several of them on the table.
+D : any protocol has some advantages and some disadvantages.
+D : problem  we have to solve
+D : routing  protocols
+D : is
+D : the fast eh -
+D : the fast pace at what eh topology changes
+D : can happen.
+D : So
+D : the problem here is that
+D : now
+D : uh
+D : node  is my neighbor,
+D : not.
+D : So any route  going  through this neighbor
+D : possible
+D : and should change.
+D : And the problem is that
+D : well
+D : uh
+D : an- if you let me a personal comment,
+D : I think that one error
+D : a set
+D : of mobility patterns
+D : to - to do the -
+D : the tests.
+D : because
+D : well, mobility is
+D : making
+D : these uh neighborhood relationships to appear or to disappear,
+D : So
+D : uh, it should be interesting if we agree
+D : uh a common - a common
+D : set of motion patterns
+D : to perform the tests
+D : not,  well, it's difficult to -
+D : to perform comparisons
+D : protocol and another,
+D : a different one.
+D : But anyway,
+D : now what we have is - is two basic approaches to this -
+D : this problem.
+D : Eh, mainly
+D : practive  protocols
+D : which are um extensions  of - of uh
+D : um back door and link end state routing protocols -
+D : distance vectors, sorry, and - and link end state protocols,
+D : have a process,
+D : trying to - to maintain up-to-date
+D : a set of routing table- tables and the nodes
+D : and eh every routing de- decision
+D : table,  and sending to the proper
+D : neighbor node
+D : set  of protocols are using a reactive
+D : approach
+D : and these protocols are trying to work on demand, so
+D : they are trying to solve on only
+D : these routers
+D : that are needed
+D : want  to send
+D : uh, a packet to a - a given destination,
+D : for this packet.
+D : I'm using
+D : header  of this packet,
+D : the set of eh nodes
+D : that should be forwarding this node to the destination.
+D : of course,
+D : two  mixed
+D : and some hybrid proposals are also
+D : paper,
+D : and eh
+D : the advantages of both
+D : uh mechanisms
+D : eh some- sometimes
+D : making a kind of combination of - of them
+D : uh, let's say, for example,
+D : using
+D : practive  approach
+D : for the closer set of nodes,
+D : for the neighbors and maybe
+D : the next level,
+D : and, using a reactive approach
+D : I mean, as our routing approach,
+D : nodes that
+D : are
+D : practive  area.
+D : well,
+D : have been proposed
+D : for this scenario too,
+D : and, well, they have to deal with the same problems that they're
+D : end-to-end routing protocols.
+C : Mmm. What do you mean by multicast  protocols? Routing?
+D : So, for - for - uh, for sending one to any.
+D : Uh well,
+D : the main - the main problems that some of the solutions eh are exhibiting,
+D : is uh
+D : the lack of eh scalability
+D : the
+D : source routing protocols
+D : have a problem when you - when you scale from - or scale
+D : badly
+D : thousands  of nodes
+D : because, well, you cannot have
+D : let's say,
+D : header  length.
+D : You have a limited - a limited header length. So -
+C : And maybe we will have to explain a little bit for those who are not familiar with source routing. You can  have the
+C : or the in - the I_ P  know
+C : even if it's not the direct  one  of
+C : uh where you really  P  header.
+C : is going  then to this guy and so on and so on, until finally it's reached destination.
+C : And, that's what I mean, you cannot put it - thousand intermediate nodes in for example,  P  addresses in the header, so that the packet is for- uh forwarded accordingly to -
+D : Something
+D : So you - your packet
+D : should look like -
+B : So you are looking first for node two and then for node three and so on.
+C : You'll know to remove h- it's h- from the header, in principle, and - and so on,
+D : it's - it's a problem. Of course, there are also some -
+D : solutions
+D : like uh
+D : uh employing some kind of - of uh
+D : hierarchical source route- routing, so you don't have to put
+D : all
+D : the - all the route -
+C : This  that may  that the different parts could be one to number four.
+C : Maybe
+C : And they  remove itself from the header.
+C : It must be  not the whole path, you know.
+D : eh, is
+D : eh trying to provide some quality of service
+D : in these networks,
+D : because, well,
+D : only  thing you know for sure,
+D : here
+D : So,
+D : providing quality of service is also -
+D : in - in this network.
+D : uh there are some proposals.
+D : Not really, because I don't trust -
+D : sure  proposals  O_K ,
+D : I don't -
+D : I don't think that -
+D : cannot  warr- you - you -
+D : too much in these networks.
+D : So, I see
+D : this like a
+D : not  convinced about.
+D : trust  you can really provide quality of service, but of course -
+C : That depends on the service  level you want to be.
+C : Definitely not a guarantee  level.
+C : But maybe something like a control load level or something like that, seems to be for me possible.  Right?
+D : Yeah.
+D : some  of the proposals which include -
+D : other  also  under research or under study
+D : is, uh
+D : some  proposals, too.
+D : with uh global or local power consumption.
+D : So, for example, you could ask
+D : to u-
+D : with the lowest
+D : uh global
+D : uh consumption
+D : or with your
+D : local consumption, for example.
+D : would the option  me  use  less power
+D : sending  packet  closest  neighbor.
+D : so that way
+D : transmitting to the closer - close - to my closer node,
+D : is, uh
+D : than sending to a more distant node.
+D : Maybe
+D : the closer node
+D : not  not  good  direction to the - to reach the destination.
+D : But
+D : it is for sure
+D : less  thing  me.
+D : But probably this uh -
+D : not  something really useful.
+D : And that ca-
+D : really  useful
+D : power consumption in the routing function.
+D : So,
+D : because in this way,
+D : one  node  is -
+D : being forced to use more power but - but if we take a look at the whole thing,
+D : ask  consumption route,
+D : well, the same way
+D : want
+D : uh some packet to be shipped in the real life,
+D : or w- twenty-four hours
+D : service, and we are willing to pay more or less
+D : for this service.
+C : Yeah, but it's riot  case, you know.
+C : it's, in principle, then the same.
+D : Yeah. That's O_ K.
+D : open  problems,
+D : well
+D : just a quick comment about - probably
+D : all  of use are
+D : of the availability
+D : of this eh standard
+D : point eleven
+D : powering
+D : you know, uh the evolution of the -
+D : of the - of networking industry in the wireless area.
+D : And
+D : the first adaptors
+D : uh
+D : were
+D : only one and two megabytes per second,
+D : but now we - you - you can buy for - for the same price - for even the same price
+D : eleven  megabytes per second version
+D : use it for - for a while, and it w-
+D : pretty  well.
+D : and uh,
+D : devices
+D : have
+D : two  different modes of operation.
+D : One of them, and probably the most popular,
+D : is uh
+D : where
+D : you have
+D : a set of mobile nodes, and then you have
+D : one or more access points.
+D : These access points are uh
+D : in fact providing
+D : the eh
+D : required connectivity
+D : wired  network,
+D : and from there to the internet usually.
+D : mode  of operation
+D : which should be appropriate, for example, for this meeting room example,
+D : uh
+D : doesn't require any - any access point,
+D : and in this second case, communication happens
+D : f- eh um from one computer to the other at the link ly- layer.
+D : So, if I want to connect
+D : to uh, let's say, Miguel's,
+D : a packet,
+D : and he will receive it, and that's it.
+D : O_K, we can build on top of this some
+D : uh routing algorithm, some ad-hoc routing algorithm, but this is out of the scope of the - of the standard.
+C : frequency   hopping, uh two modes and - and - and also infrared.
+C : Does it still apply for - for the uh eleven-B?
+D : For the - no.
+D : radio
+D : direct sequences spread spectrum.
+D : But, in fact, there is an ongoing new version, I think it's c- version-A_,
+D : commercially  available
+D : which w- will use
+D : uh orthogonal frequency division multiplexing
+D : and will get probably twenty-five megabits per second.
+D : but, again, the will move to five gigahertz,
+D : uh five point five gigahertz, eh
+D : gigahertz,
+D : area of a spec- expect - uh spectrum
+D : But now, uh current devices
+D : are split at -
+D : You know, that the old -
+D : version
+D : and the new ones are the - the eleven megabits uh are uh two point four m- uh I_S_M band.
+C : Megahertz , yeah.
+D : However,
+D : some old uh waveLANs are also,
+D : but not  older  oldest  ones,
+D : are also uh two point four m- eh gigahertz.
+D : S-
+D : And the good thing is that now,
+D : especially with the new version,
+D : all you - you ca- you - you are - you start to see
+D : uh compatible products in the market.
+D : Because eh -
+D : second  version,
+D : but also because
+D : I think it's the only way
+D : for this industry to take off.
+D : uh
+D : buy, let's say, waveLAN,
+D : you are tied to waveLAN
+D : al- the rest of your life.
+D : But now you can -
+D : you can have interoperable products
+D : from several vendors,
+D : which is, I think,
+D : what,
+D : power the ethernet uh revolution
+D : You can buy
+D : work  with the other brand.
+D : beginning,  the - I think that
+D : to put things in perspective,
+D : need to know is
+D : Bluetooth is for.
+D : And uh Bluetooth is mainly for
+D : cable.
+D : You know, the other day I was joking about
+D : that our wireless microphones
+D : wireless  had  this wire,
+D : So, the point is
+D : that eh Bluetooth is mainly a technology
+D : for cutting these kind of cables.
+D : short  - short distance cables,
+D : uh, carrying usually
+D : really s- uh, sh - nnn,
+D : boys  and something like this.
+D : uh
+D : had only the - the range of ten meters,
+D : a certain meeting
+D : extended  use  other  purposes,
+D : different
+D : than the original ones."
+D : So, em, uh, I have the feeling that this is -
+D : u- this is what is uh
+D : confusion
+D : in the -
+D : in the Bluetooth eh -
+D : or in the way people is - is looking at Bluetooth because they can say "O_K, hundred meters is - is -
+D : an acceptable distance,
+D : inside  inside  a - a small office. So,
+D : uh some people, I think, is being tempted to
+D : provide them
+D : uh, some kind of local connectivity, but
+D : uses.
+D : Eh, however, I think that the - that the -
+D : current eh standard eh working devices,
+D : you - you -
+D : you cannot switch to another thing, to another slower thing.
+D : But uh
+D : even when they are using the same - the same uh, um
+D : area of a s- a spectrum,
+D : eh the technologies are different,
+D : eh is using a frequency hopping system
+D : and uh
+D : both uh dialing sequence and frequency hopping,
+D : spread the spectrum techniques,
+D : are also intended
+D : So,
+D : two  techniques
+D : not  any  other  thing.
+D : So,
+D : even  haven't  tried,
+D : and I cannot tell you for sure,
+D : I think that
+D : the only problem
+D : one network will encounter
+D : uh in the presence of the other
+D : is a little bit
+D : of more noise.
+D : And this will produce a little bit
+D : less throughput,
+D : nothing  more.
+D : I don't expect any - any more problem.
+D : the - the - the own Bluetooth specification
+D : is also
+D : another  several  networks
+D : c- will be - could be
+D : in the same area of space
+D : using  the same
+D : hopping  technology, frequency hopping technology.
+D : But again,
+D : this technology
+D : is uh trying to avoid
+D : the other networks by choosing different hopping patterns.
+D : uh
+D : if several Bluetooth networks can - can uh coexist without a problem,
+D : I don't see any problem will - will happen if - if we
+D : one uh Bluetooth with another wireless uh local area network technology.
+C : Well that's a good news, O_K? anyway,  initial scenario
+C : I believe because Bluetooth is on one chip,
+C : whatever  Bluetooth  connectivity.
+D : Five bucks. Five bucks chip.
+C : And that means your mouse, and - and - and -
+C : Yeah, and - and - and whatever  kind of - of eh things connected to your laptop and also your microphone and whatever you will - will have,
+C : is Bluetooth-based.
+C : Yeah, or will  be Bluetooth-based.
+D : Will  be.
+C : Yeah, and this is - this is eh within  maybe an uh wireless LAN. So,
+D : Will  be.
+D : to be compatible with existing
+D : telephones.
+D : So, hopefully,
+D : will  to use some of
+D : our old devices
+D : or maybe our - our cordless phone base station at home,
+D : with a computer. S-
+D : really  nice applications will - will appear.
+D : I'll try  to.
+D : So,
+D : let me - let me just uh finish, you know.
+D : Uh well,
+D : I told you.
+D : and eh
+D : you know, the point, or - or - or -
+D : the - the spark of - of my -
+D : was proposing to work here,
+D : the fact that
+D : modes  of operation, I was telling you here -
+D : that you have to choose at the driver level
+D : if your network adaptor
+D : is working in an
+D : access point-based environment or in ad ho-
+D : ad-hoc environment.
+D : I see this as a - as a limitation
+D : because I think that
+D : uh
+D : mmm, maybe you are
+D : some  of the benefits the other option,
+D : different than the one you are choosing,
+D : could  provide you.
+D : scenario  eh -
+D : dual  mode uh wireless network adaptor
+D : So
+D : to reach any access point
+D : node,
+D : network node
+D : do  favor
+D : to reach or to forward my packets to the access point.
+D : So
+D : main  idea, the driving force here,
+D : to uh
+D : try to obtain
+D : mode
+D : an adaptor to work either in the access point or in the -
+D : in the ad-hoc mode
+D : seamless  way.
+D : and to include in every  single  node  driver,
+D : mechanism
+D : will allow
+D : to extend the wireless coverage
+D : without a need of buying
+D : a lot of access points and putting even an access point inside the restroom.
+D : Of course this idea
+D : can sound
+D : p- can sound a little bit
+D : appealing  for the manufacturers,
+D : at least for the manufacturers of access point
+D : because well, they probably are very happy of selling a lot of them.
+C : But maybe for cars.
+C : Yeah, if your car  is the infrastructure, for instance. Yeah.
+D : the m- I think this is near the end, this is the last -
+D : awhile,
+D : cell array  systems?
+D : for example, think about
+D : some
+D : mechanisms
+D : other  users,
+D : and no directly to the base station,
+D : or,
+D : several technologies
+D : overlapped in a certain area,
+D : why can't we use
+D : closest  cheapest,  maybe, technology, or maybe
+D : consumption technology,
+D : the other technology.
+D : on the other hand,
+D : implications of this behavior?
+D : it is clear that, well,
+D : only
+D : base  station of my provider, well
+D : more or less straightforward, but
+D : uh, let's say, uh across a mall,
+D : using
+D : base station of a cordless phone
+D : inside  the shop I'm at the window of?
+D : a resource
+D : not  owned by my provider.
+D : a - let's say, a private property.
+D : to this private property,
+D : have  to pay or to refund some money to this guy.
+D : You know sure  about,
+D : but,
+D : with  you.
+D : my presentation is over,
+D : So.
+D : Oh, you are welcome.
+C : Maybe we have also the time to discuss with Miguel off-line the things if there is some other  questions.
+C : Maybe one  my  uh concerning the proposal, some kind of active routing mechanism.
+C : going in a quite different  traditional  really  a topic
+C : uh, within the I_T_ F.  know  certain activities
+D : Nnn, no to both q- to both questions.
+D : I don't have previous experience
+D : know  it would fix.
+D : uh
+D : of my previous work.
+D : So eh this eh doesn't mean that -
+D : getting  involved a little bit more in this active routing thing.
+D : So uh
+D : hopefully  I will be able to - to give you a better answer in the future.
+C : So.
+C : So I have only
+C : four.
+C : Jordi is colored one.
+C : and take a look to -
+E : Ah, thank you - thank you very much.
+C : Yeah. Kill
+C : So I started uh, for - for advertising the project proposal here to provide a few slides
+C : I think, first of all, Wilbert, is not here, second um, the um
+C : link here
+C : was not read
+C : So I suggest we go roughly to the slides here
+C : And motivation of the project proposal from my  point of view
+C : Wireless  access networks for the next generation
+C : will be more flexible. There's a @@  for uh current -
+C : uh uh uh for - for fast
+C : changes  within this network.
+C : And that means, if you go to slide number three,
+C : that having normal features in the mobile access network, and -
+C : and um
+C : and also
+C : based on that it belongs normally to one single provider  domain, that it is possible to - to uh
+C : use  technologies  within this network.
+C : uh we -
+C : it is i- impossible
+C : that, based on the success  of the internet backbone, it's
+C : uh unflexible,
+C : to p- uh fo- for the provision of these things.
+C : if we  are going to offer building blocks,
+C : and provide novel solutions for the next generation of wireless  access networks,
+C : taking into  the end-to-end scope,
+C : then I think it's really beneficial   work, also for the
+C : use of interactive multimedia application, so as it is described in the
+C : uh project proposal.
+C : Um the point is
+C : um
+C : to start
+C : with um
+C : co- uh of potential partners to do this really really really big work,
+C : seems not  time.
+C : because if you have settled everything, and discussed everything and - and - and - and uh - without any money in the background, and a lot  of money in the background,
+C : And today, uh Michael and me, we were on the U_C_B to discuss with a guy who is
+C : So there are a lot of interest, but without really hard money in the background, it is very hard to come to the initial steps.
+C : uh members of this N_S_A group has
+C : the constraints of this funding, and that means uh six universities and - and institutions uh, three in U_S_A and three in Europe.
+C : uh including  the N_S_A group
+C : and maybe that seems to be very reasonably, for me.
+C : But then  sense.
+C : Because then we cannot do - do anything  as it is described in the - in the bigger scope.
+C : So the point is to
+C : still  picture.
+C : And
+C : I @@  for instance
+C : maybe that we here  A  group
+C : um with some work
+C : that we put the pieces together.
+C : accounting also the
+C : joining people  of the N_S_A group, to do some work here.
+C : And if we  common  activity
+C : uh radius  final  European  proposal with this
+C : uh the - the whole funding.  my point, and my picture I have in mind.
+C : And I will go definitely back to Germany the tenth of December. That is fixed now.
+C : And I hope we can use these remaining weeks really  progress in -
+C : Because then I will make worth  to stay here,
+C : everybody  based on this statement I made uh next steps
+C : Um
+B : slides,
+C : yeah
+B : I'm just curious.
+C : also   official  ones,
+C : You see that in the ICSI U_S - on the U_S_ A  home  contributing.
+C : but these are then the official  ones, and I would like to have them -
+B : And all of them had agreed, or - ?
+C : They say they are very  interested in it. Yeah?
+C : that's the reason I invited  uh Christian Tschudin, the professor who did
+C : ten  years work in - in active routing.
+C : And uh - O_K the
+C : Universidad Nacional de Educat-
+C : Spanish.
+C : Maybe we have a better expert
+D : Universidad Nacional de Educacion a Distancia
+C : And he is also the one who had recognized uh
+C : Not Parez, Peire.
+C : P_E_I_R_E.
+D : Paez.
+C : Peire,  I_ R_ E_.
+C : You can - I - you can mail him later on the informa- Then, of course, the whole  A  also of the coordinator of all the things,
+C : and they did a lot   well  and the U_C_B. We still
+C : more professors involved which are application  the U_C_B is
+C : Yeah.
+D : will  send it, sorry.
+C : I will.  Future.
+C : And, uh last two slides, um
+C : of areas,  um within G_P_S, and, in principle, the same applies for U_M_T_S. There is no so much different.
+C : And you have the protocol  stack
+C : uh is going on.  And you see the difference. The amazing thing is that you have I_P over I_P.
+C : P  between the G_ and the S_ and the G_T_S_N.
+C : um involved nodes, and
+C : if, uh, we have in mind quality of service routing, and - and - uh qualit- uh mobility  P  layer functionality.
+C : future wireless networks.
+C : and
+C : or
+C : So there's transcript number is two three seven one dash two three nine O_.
+C : three
+C : four
+C : five O_ eight O_ two two O_
+C : seven two eight O_
+C : eight six nine
+C : nine five three O_
+C : O_ eight
+C : zero eight one eight three
+C : one
+C : two O_ four nine
+C : four one one five two zero eight
+C : five three
+C : six eight seven three O_ three seven
+C : seven nine nine
+C : eight
+C : nine O_ nine six O_ O_ nine
+C : O_
+C : one two O_ O_ eight
+C : two five nine one five
+C : three five five
+B : Um, transcript number two four five one dash two four seven O_.
+B : seven two
+B : eight one eight
+B : nine seven
+B : O_ seven three six four three O_
+B : zero nine zero nine three two zero
+B : one
+B : two zero nine three one
+B : four three
+B : five three one four
+B : six seven
+B : seven
+B : eight
+B : nine
+B : O_ O_ O_ seven six six O_
+B : one one seven
+B : two seven nine five seven
+B : three nine three two three six four
+B : four eight five four one
+B : five
+B : six
+B : next one please.
+D : Uh, transcript two four three one dash two four five O_.
+D : six five seven zero
+D : seven three O_ seven four two three
+D : eight seven nine nine
+D : nine
+D : O_ O_ three three
+D : zero
+D : two two six O_ seven seven O_
+D : three eight four
+D : four nine six seven four
+D : five five nine three
+D : six
+D : seven
+D : nine four five one
+D : O_ one two one
+D : zero five
+D : one seven five nine
+D : two nine
+D : three
+D : four
+D : five zero three
+E : Transcript number
+E : one O_
+E : three one three five three five zero
+E : four five two eight
+E : five six
+E : six six seven two
+E : seven
+E : eight
+E : nine
+E : zero two three zero one
+E : one two one nine nine
+E : two three
+E : three
+E : four
+E : five
+E : six O_ eight five O_
+E : eight one four five two
+E : nine six four one eight
+E : O_ six O_ eight six O_ two
+E : zero eight five nine one zero seven
+E : one
+A : Transcript is two three nine one
+A : four seven zero two one
+A : five
+A : six O_ seven six two
+A : seven zero nine eight
+A : nine three five two eight
+A : O_ four
+A : zero six eight two
+A : one eight one seven nine four five
+A : two nine O_ nine four eight O_
+A : three O_ one two six three one
+A : four zero
+A : six two one two O_
+A : seven four O_ seven O_
+A : eight six O_ one three six three
+A : nine eight four
+A : O_ six six six
+A : zero
+A : one O_ seven eight
+A : three two seven O_ nine
+A : four six nine
+C : O_K, thank you Now, please let - don't switch off power, I have to call Adam, so
+C : So I suggest, @@  @@  will - will be offered,

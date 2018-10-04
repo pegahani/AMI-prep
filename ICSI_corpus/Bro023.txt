@@ -1,0 +1,406 @@
+A : O_K, we're going.
+D : Damn
+D : Mm-hmm.
+B : Oh, O_K. I haven't noticed him.
+A : Wh- Back when I  year
+A : n- six months.
+C : N- nine months. Something  like that. Yeah.
+A : So, um, I guess we got lots to catch up on. And we haven't met for a couple of weeks. We didn't meet last week, Morgan.
+A : So, um,
+A : why don't we - why don't we start with you,  Dave, and then, um, we can go on. So.
+E : I- I did a test seeing if, um, it would work using past only
+E : where I used twelve seconds from the past and the present frame to, um, calculate the mean. And -
+A : Twelve - twelve seconds back from the current frame, is that what you mean?
+E : And compared to, um, do- using a twelve second centered
+C : Um, yeah, I mean, it was pretty - it was pretty tiny. Yeah.
+E : So that  was encouraging. And, um,
+E : So I w- bef- before, um - Back in May,  two  four  six  seconds.
+E : In those I trained  models  two  four  six  seconds. And, um,
+E : here,  twelve  test  set I was - subtracted using two seconds, or four seconds, or six seconds. And, um -
+E : um, six seconds, and eight seconds. Something like that. And it seems like it - it - it hurts  but it - it doesn't hurt that much. Um,
+E : u- usually less than point five percent, although I think I did see one  But this is, um,
+C : But it - but looking at it the other  help  training,  if you were going to have a short time for -
+C : I mean, why  do  it, if you knew that you were going to have short windows in testing.
+A : Yeah, it seems  I mean  speech,  right?
+B : Or l- or you're looking at six sec - seconds in future  and six in -
+E : N- n- uh - For the test  past.
+C : No, total.
+A : Is this twelve seconds of - uh, regardless of speech or silence? Or twelve seconds of speech?
+C : other  windowing  and so on is,
+C : that, um, I wonder if you trained with twelve seconds, and then when you were two  seconds in
+C : you used two  four  four  long  utterances you have the best,
+C : but if you have shorter utterances   can.
+E : "does it matter what models  training  data?"
+C : But I mean the other thing is that that's - I mean, the other way of looking at this, going back to, uh, mean cepstral subtraction versus RASTA kind of things, is that you could look at
+C : mean cepstral subtraction, especially the way you're  doing it, uh, as being a kind of filter.
+C : And so, the other thing is just to design a filter.
+C : You know, basically you're - you're - you're doing a high-pass filter or a band-pass filter of some sort and - and just design a filter.
+C : uh, not behave in the steady-state way that you would like it to behave until you get a long enough period,  but, um,
+C : And the only thing, you know, consistent  component.
+B : But do you really want to calculate the mean? And  regions  or you just use everything that's twelve seconds, and -
+E : Well, if I only use six seconds, it still works pretty well.
+B : Yeah.
+B : Yeah.
+E : I was trying  best  that  increasing past twelve seconds didn't seem to help.
+E : O_K.
+C : Yeah, and again, if you take this filtering  perspective and if you
+C : uh, ramp up of a filter anyway. And so you may - may just want to think  do  that,
+C : then, um, in practice  think  - if they're using it for a while,
+C : it means that their first  utterance, instead of, you know, getting, uh, a forty percent error rate reduction, they'll get a - uh, over what, uh, you'd get without this, uh, um, policy,
+C : uh, you get thirty  second  full  full  benefit of it if it's this ongoing thing.
+A : Oh, so you - you cache the utterances? That's how you get your, uh -
+C : Well, I'm saying in practice,
+A : Ah. O_K.
+C : you know, they'll say something first. And - and to begin  should  anyway.
+C : uh, in any event they might ask a second question. And it's not like what he's doing doesn't, uh, improve  does  improve  like.
+C : And so, uh, there's a higher probability of it making an error,
+C : uh, in the first utterance.
+A : What would be really  cool is if you could have -
+A : uh, this probably - users would never like  this - but if you had -
+A : could have a system where, before they began to use it they had to introduce themselves,
+A : verbally.  You know. "Hi, my name is so-and-so, I'm from blah-blah-blah." And you could use that initial speech to do all these
+C : Oh, the other  thing I guess which - which, uh,
+C : I don't know much about - as much as I should  system  but - but, um,
+C : if you - if you sort of did a first pass - I don't know what kind of, uh,
+C : the - with - either without the mean sub- subtraction or with a - a very short time one,
+C : and then, um, once you, uh, actually had the whole utterance  in,
+C : the, uh, uh, longer  then,  had,  only  used it to distinguish between,
+C : you - you might - it might not take very much time.
+C : some people really pushed everything in to make it in one pass but other people didn't  multiple  passes.
+C : And the counterargument to that which, say, uh, B_B_N I think had, second  second,  really,  really fast".
+C : So, um, if - if your second  pass  millisecond  cares?
+E : the - the idea of the second pass would be waiting till you have more recorded speech? Or - ?
+C : then, uh, one tactic is - you know, looking at the larger system and not just at the front-end stuff -
+C : is to take in, um, the speech with some simpler  time  mechanism,
+C : um, do the best you can,  alternates  said.
+C : And then the decoding  that  can  be much, much faster if it isn't a big bushy network.
+C : And you can decode that  processed  longer  time, uh, subtraction.
+E : O_K.
+C : um, and again, if the second pass is really,  fast  - Uh, another one I've heard of is - is in - in connected digit stuff,
+B : And that doesn't actually give  me any
+B : I mean, uh, b- it actually improves over the baseline  but it's not like - it doesn't meet something like fifty percent or something.
+B : Yeah. Yeah. Yeah. So, um - So that's - The improvement is somewhere around, like, thirty percent over the baseline.
+C : Is that using - in combination  with something else? With - with a -
+B : Yeah, yeah, yeah, yeah. So I just plug in  the Wiener filtering.
+C : So, does it g- does that mean it gets worse?
+B : No. It actually improves over the baseline of not  having a Wiener filter in the whole system.
+B : Like I have an L_D_A f- L_D_A plus on-line normalization,
+B : and then I plug in the Wiener filter in that, so it improves over not having the Wiener filter.
+C : But that's what I'm confused about, cuz I think - I thought that our system was more like forty  without  the Wiener filtering.
+B : well,
+B : No, it's the old
+B : uh,
+B : and eighty-nine, and -
+C : So I mean, if you can do all these in word  errors it's a lot - a lot easier actually.
+C : If you do all these in word  easier,  right?
+B : Oh, O_K, O_K, O_K. Errors, right,
+C : O_K, cuz then you can figure out the percentages.
+B : The t- yeah, there are two  One  baseline is M_F_C_C baseline that - When I said thirty percent improvement it's like M_F_C_C baseline.
+D : Or - ?
+C : So - so - so what's it start on?  what?  level?
+C : No, what's - what's the number?
+B : the M_F_C_C plus I do a frame dropping on it. So that's like - the word error rate is like four point three.
+B : And forty- forty.
+B : Yeah, it's like ten point one. Still the same.
+B : And the high  mismatch is like
+B : Five
+B : ten  - O_K, so it's like four point three.
+B : Mmm. @@
+D : three point four,
+D : uh, eight point, uh, seven, and, uh, thirteen point seven.
+B : Yep. So -  Thanks.
+B : single stage Wiener filter,
+B : it  doesn't work for Finnish and Spanish because the V_A_D endpoints are not good
+B : to estimate the noise because it cuts into the speech sometimes, so I end up overestimating the noise and getting a worse  result.
+B : So it works only for Italian by u- for - using a V_A_D to estimate noise. It works for Italian because the VAD was trained  on Italian.
+B : um, this - this was like not improving a lot on this baseline of not  having the Wiener filter on it.
+B : And the rest is like the L_D_A plu-  and the on-line normalization all remaining the same.
+D : No, I don't think  so. Is it on Italian?
+D : Mm-hmm.
+B : It's very  similar.
+C : Yeah. But again, you're - you're more  doing,  right?
+B : they take it to their time domain by doing an inverse Fourier transform.
+B : final  filter is acting on the input noisy speech rather than on the cleaned up.
+B : same  thing but - Uh, so we actually found that
+B : the VAD is very, like, crucial. I mean, just by changing the VAD  itself gives you the - a lot of improvement by instead of using
+C : Mm-hmm.
+B : the current VAD, if you just take up the VAD output from the channel zero,
+B : when -  instead of using channel zero and channel one,
+B : because that was the p- that was the reason why I was not  noise.
+C : @@
+B : speech, but only w- I mean, the same endpoints.  But the only thing is that the speech is very noisy for channel one, so you can actually use the output of the channel zero for
+D : Yeah, so actually I received a - a new document, describing this.  And what they did finally is to, mmm,
+D : um, only on the close-talking microphone,
+C : So it's not  place  time.  Is - is that it?
+C : Oh, so they will  send files so everybody will have the same boundaries to work with?
+B : But actually their alignment actually is not  seems to be improving in like on all cases.
+D : uh, two hundred milliseconds before speech and two hundred after  speech. And they keep the speech pauses also.
+D : Um, and the overall improvement over the M_F_C_C baseline - So, when they just,
+D : Yeah, some @@ .
+C : Yeah, but that
+A : high  level question?
+A : why are people doing that? What's - what's the deal  with that?
+B : noisy  signal, at a level which you, you w- try to estimate the noise from the w-
+B : Yeah.
+B : fff.
+C : Right actually, I guess -
+C : Yeah.
+A : I see. O_K.
+B : discontinuities across the spectrum because @@  the filter.
+A : Mm-hmm.
+C : even though this really should be in the power domain, sometimes people s- work in the magnitude domain because it - it - it works better. And, uh,
+A : So you're sort of trying @@  all.
+B : Y- Yeah, @@  we just wanted to have a few noise production - compensation techniques and then pick some from that - pick one.
+B : Yeah.
+B : the same  second  time. And that seems to be working.
+B : So the other thing what I tried was I used still the ten frames of noise estimate but I used this channel zero VAD to drop  the frames.
+B : which - which like sort of shows  that by using a proper VAD you can just
+B : Yeah, so far I've seen sixty-seven - I mean, no, I haven't  seen s- like sixty-seven percent.
+B : And, uh, using the channel zero VAD to estimate the noise also seems to be improving but I don't have the results for all  the cases with that.
+B : So I used channel zero VAD to estimate noise as a lesser 2x  frame, which is like,
+B : best  combination, uh, rather than using a few frames to estimate and then drop a channel.
+B : So, I mean - So this is like the noise compensation f- is fixed but you make a better decision on the endpoints.
+C : Yes.
+B : a lot  why  it's not.
+B : Well after that.
+B : So, uh - so the other - the other
+B : So, one of - one of reasons I thought like doing the averaging, after the filtering using the mel filter bank, that seems to be maybe helping  on  the mel filter ba- filtered outputs.
+B : Subspace, I'm - I'm like - that's still in - a little bit in the back burner because I've been
+C : O_K.
+B : going parallely but not much of improvement. I'm just - have some skeletons ready, need some more time for  it.
+B : Mmm.
+D : Uh, yeah. So, I've been, uh, working still on the spectral subtraction.
+D : So to r- to remind you to apply some spectral subtraction with an overestimation factor also to get,
+D : um, an estimate of the noise, uh, spectrum,
+D : and subtract this estimation
+D : but subtracting more  low,
+A : "Subtracting more", meaning - ?
+D : it's one,
+D : Generally - Well, I use, actually, a linear, uh, function of the S_N_R,
+D : which is bounded to, like, two or three,
+C : Oh!
+D : Yeah. So there is also a threshold, of course, because after subtraction you can have negative energies, and -
+D : uh - to - to add  - to put the threshold first and then to add
+D : So with a bump around one kilohertz.
+A : So when y- when you talk about there being something less than zero  after subtracting the noise, is that at a particular
+A : And so when you say you're adding something that has the overall shape  speech,
+A : is that in a - in  a particular frequency bin?
+A : Or you're adding something across all  the frequencies when you get these negatives?
+D : For each frequencies I a- I'm adding some, uh, noise,
+D : Uh. Right now I don't think if it makes sense to add something that's speech- shaped,  because then you have silence portion that have some spectra similar to the sp- the overall speech spectra. But -
+A : a negative.  It means that
+A : at that particular frequency  range you subtracted
+A : more  energy than there was actually -
+D : So - so yeah, you have an - an estimation of the noise spectrum,
+D : but sometimes, of course, it's - as the noise is not perfectly stationary, sometimes this estimation can be, uh, too small,
+D : so you don't subtract enough.  large  also.
+A : So in - in an ideal word i- world if the noise
+A : the worst that i- you would get would be a zero.
+A : I mean, the lowest  zero,  cuz i-
+C : Right.
+A : if there was no other energy there you're just  exactly  the noise.
+C : Yep, there's all - there's all sorts of, uh, deviations from the ideal here. I mean, for instance, you're - you're talking  at  point.
+C : that any particular instantiation or piece  number  bounded  range.  So,
+C : you're figuring out from some  noise  is.
+C : Then you're subtracting that  another  chunk,
+C : and there's absolutely no reason to think that you'd know  negative  in some places.
+D : Hmm.
+C : Uh, on the other hand that just means that in some  sense you've made a mistake because
+C : you certainly have stra- subtracted a bigger number  noise.
+C : Um - Also,  uncorrelated.
+C : And that certainly makes sense in s- in - in a statistical  interpretation, that, you know, over, um, all possible realizations that they're uncorrelated or
+C : But if you just look at - a quarter second,
+C : uh, and you cross-multiply the two things, uh, you could very well, uh, end up with something that sums to something that's not zero.  So in fact, the two
+C : signals could  relation  negative.
+C : But if down the road you're making use  power  spectrum,
+C : then it can be bad  to have something negative.
+C : Now, the other  wonder  left  it negative?
+C : What happens?  I mean, because -
+B : Is that  the log?
+C : Um, are you taking  log  before  mel?
+B : But you end up reducing some neighboring frequency bins - @@  in the average, right?
+B : Yeah.
+C : And then after that, instead of - instead of, uh, uh, leaving it as is  neighbors,  artificially  up.
+C : Which is, you know, it's - there's no particular reason that that's  either,  right?
+C : what you'd be doing is saying, "well, we're d- we're - we're going to definitely diminish  the effect of this frequency in
+A : Sort of the opposite  of that would be if - if you find out you're going to get a negative number,
+A : That would be almost the opposite,  right?
+A : Instead of leaving it negative, you don't  do it.
+C : Yeah, but that means that in a situation where you thought that - that the bin was almost entirely noise, you left  it.
+B : We just - Yeah.
+D : Yep. Well, actually I tried, something else based on this, um,
+D : So what I did is, uh, some kind of nonlinear smoothing. Actually I have a recursion that computes -
+D : signal energy minus what you subtract,   divided by the signal energy.
+D : the - the fact you - we go below zero one frame and then you can have an energy that's above zero. And -
+D : Yeah. So, well, basically that's this idea, and
+D : it seems to give pretty good results,
+D : Uh, I don't know if you have these improvement- the detailed improvements for Italian, Finnish, and Spanish there or you have - just have your own .
+B : Fff.
+D : Mm-hmm.
+C : So these numbers he was giving before with the four point three, and the ten point one, and so forth, those were Italian,  right?
+C : And this is, um, spectral subtraction plus what?
+D : Yeah. But instead of double stage Wiener filtering, it's - it's this smoothed   spectral subtraction. Um, yeah.
+A : for - Do they use spectral subtraction, or Wiener filtering, or - ?
+D : For what?
+D : It - it's Wiener filtering,  am I right?
+C : Yeah, plus, uh, I guess they have some sort of cepstral normalization, as well.
+D : But they also have two - two different smoothing @@ . One in the time domain and one in the frequency domain by just taking the first, um, coefficients of the impulse response.
+B : I mean, I'm - I'm @@  But
+C : I mean, it's not clear that these musical noises hurt us in recognition. We don't know if they do. I mean, they - they sound  bad.
+B : Mm-hmm. Yeah, yeah, the -
+D : Mmm.
+B : Yep.  Yeah.
+D : Yeah, although if - if we, um, look at the result from the proposals,
+D : even in these cases of high mismatch. So, maybe the neural net will help less  but, um -
+C : Maybe.
+A : Could you train a neural  net to do spectral subtraction?
+A : clean  noisy  version,
+A : and your  targets were the
+C : Yeah, well, that's not so much spectral subtraction  any  rate, yeah, people, uh -
+C : it's good for mapping from a particular noise to clean but then you get a different  noise.
+C : And the experiments we saw that visitors  here  showed that it - there was at least some,
+C : um, gentleness
+C : to the degradation when you switched to different noises. It did  seem to help. So that - you're right, that's another -
+A : How did it compare on - I mean, for - for good  cases where it - it -
+A : uh, stuff that it was  trained on? Did it do pretty well?
+C : kind  doing.  exactly  that, we're not
+C : It's - Yeah, it's kind of built into that. And - and that's why we have  does  help.
+C : Um - so, um, yeah, I mean, we'll just have to try it. But I - I would - I would - I would imagine  some.
+C : I mean, it - we'll just have to see whether it helps more or less the same, but I would imagine it would help some.
+C : So in any  event, all of this - I was just confirming that all of this was with a simpler system. O_K?
+D : the optimal one,
+C : It's amazing
+B : also?  Or - or no?
+D : @@
+C : Worse.
+D : Yeah. Um, mmm -
+D : So, uh -
+D : Yeah, b- but I don't think we have to worry too much on that right now while - you kno- .
+C : Um, s- Yeah, I mean, I think the only thing is that - little.
+C : Because if we completely ignore  latency,
+D : Mm-hmm.
+C : make it twenty-five. You know what I mean?
+C : Yeah, just, you know, just be - be a little  conservative because we may end up with this crunch where all of a sudden we have to cut the latency in half or something.
+D : Um. So, yeah, there are other things in the, um, algorithm that I didn't, uh, @@  a lot yet, which -
+A : Oh!
+A : Sorry. A quick question just about the latency  another  part of the system that causes a latency of
+A : a hundred  milliseconds,
+A : is this an additive  hidden  in that?
+B : We can - O_K.  can  parallel  also,  in some like - some cases like, if you wanted to do voice activity detection.
+B : voice activity detection and then you decide whether you want to filter or not. But by then you already have  the sufficient samples to do the filtering.
+B : So - anyway .
+A : two hundred milliseconds, don't you -  couldn't you just buffer up that number of frames and then
+C : Well, in fact, everything is  sent over in buffers cuz of - isn't it the T_C_P
+C : buffer some - ?
+B : Yeah, but that has  you  rely  on that latency all the time.
+C : Yeah.
+B : So - But the only thing is that the first  last  any  latency.
+A : Mm-hmm.
+A : Yeah, I wasn't thinking of that  particular  but more of, you know, if - if there is some part of your system that has to buffer twenty frames,
+C : Yeah. And - and that's sort of one of the - all  of that sort of stuff is things that they're debating in their standards committee.
+D : there is uh, these parameters that I still have to - to look at. Like, I played a little bit with this overestimation factor,
+D : Uh, I know that adding noise helped, um, the system just using spectral subtraction without smoothing, but I don't know
+B : I used ten - just ten frames. Yeah, because - I mean, the reason was like in T_I-digits I don't have a lot. I had  twenty frames most of the time.
+B : If I use a channel zero VAD to estimate the noise.
+B : Channel zero dropping.
+D : Uh, no, these results with two stage Wiener filtering is ten frames but possibly more.  I mean, if channel one V_A_D gives you - Yeah.
+B : Mm-hmm.
+D : So I expected it to be a little bit better, if, uh, I use more - more frames.
+D : try to look at noise estimation,
+D : mmm, and using some technique that doesn't need voice activity detection.
+D : Um, and for this I u- simply used some code that, uh,
+D : of the energy.
+D : And then average these minima and take this as an - an energy estimate of the noise for this particular frequency band.
+D : And there is something more to this actually. What is done is that, uh, these minima are computed, um, based on, um,
+D : high resolution spectra. So, I compute an F_F_T based on the long, uh, signal frame which is sixty-four millisecond -
+D : when you don't have speech, these minima will give you some noise level estimate,
+D : If you have voiced speech, these minima will still  give you some noise estimate because
+D : the minima are between the harmonics.
+D : uh, like s- five hundred milliseconds seems to be long enough, you still have portions which, uh, are very close - whi- which minima are very close to the noise energy.
+D : Sixty-four milliseconds is to compute the F_F_T, uh, bins. The - the F_F_T.
+D : uh, sounds, the harmonics are not, wha- uh, correctly separated.
+D : b-
+C : So you take sixty-four millisecond F_F_Ts and then you average them
+C : I  see.
+A : Mmm.
+D : of signal, so if the - the n- the noise varies a lot, uh, you can track - better track the noise,
+D : The only requirement is that you must have, in these five hundred milliseconds segment, voiced  sound at least.
+D : first on SpeechDat-Car - Well, only  estimates.
+D : Um,
+C : Uh, when you compare it with the V_A_ D-based,
+C : which
+D : It's the France-Telecom-based spectra, s- uh, Wiener filtering and V_A_D. So it's their system but just I replace their noise estimate by this  one.
+C : Oh, you're not doing this with our  system?
+D : Yeah, it's our  system  their  system.
+B : n- new noise estimate technique on this Wiener filtering what I'm  trying.
+B : So. I don't estimate the f- noise on the ten frames but use his  estimate.
+D : With this, no improvement, and,
+D : So it would be like frame dropping, because during the silence portions which are below the threshold of voice activity probability,
+D : when   we are not sure about if it's speech or silence, well,
+C : It's interesting. I mean, um, you know, in -
+C : in J_RASTA  we were essentially adding in, uh, white - uh, white noise dependent on our estimate of the noise.
+C : On the overall estimate of the noise. probability  in there.
+C : You could imagine  one that - that - that made use of where -
+B : There's -
+A : I guess when they run out of disk
+D : So.
+D : as the Ericsson proposal but, um, the probability of speech is not computed the same way. And
+D : Uh, so yeah, the next thing I started to do is to, uh, try to develop a better voice activity detector. And, um -
+B : So, it doesn't seems to help by their  use of channel zero or channel one.
+D : Yeah. So, u- but actually the V_A_D was trained on Italian  also, so -
+B : Italian.
+B : @@
+D : to train on these databases, and, um, also to, um, try different kind of features, uh, as input to the V_A_D network.
+D : the spectral slope, the, um, the degree   o- degree of voicing with the features that, uh, we started to develop with Carmen,
+D : and different kind of features, and - Yeah.
+D : The energy. Yeah. Of course.
+D : Yeah.
+C : O_K. Well, Hans-Guenter will be here next week so I think he'll be interested in all - all  of these things. And, so.
+A : O_K, shall we, uh, do digits?
+C : Transcript L_ dash two zero nine.
+C : Four six, two eight, eight nine, three zero, two zero.
+C : Four two two, zero eight zero, nine five two.
+C : Five, zero seven five, one two, one zero five, six.
+C : Nine three seven, one zero five, two seven six eight.
+C : Three one six, seven two seven, five three one one.
+C : Seven, three two nine, seven two, three zero four, two.
+C : Seven six four six, seven, zero one one.
+C : Five eight one, five two, two six eight eight.
+A : Transcript L_ dash two nine four.
+A : Six zero two, four five nine, two two eight.
+A : Zero five eight, two seven, three four f-
+A : Scratch that.
+A : three seven four six.
+A : Seven nine nine one, six zero zero seven, one four one eight.
+A : Six six seven, one seven seven, four four nine.
+A : Zero nine, four zero, one nine, six two, one three.
+A : Six zero, five nine, seven eight, two six, zero six.
+A : Eight, six one three, two nine, six nine seven, three.
+A : Eight, five five six, seven one, five seven six, six.
+E : Transcript L_ dash two eight four.
+E : Three six four, eight two seven, three six one one.
+E : Five, three six four, five four, nine four zero, eight.
+E : One three six, nine five four, two zero eight.
+E : Four, two three two, three five, seven seven three, eight.
+E : One nine nine six, six four eight eight, two four zero two.
+E : One five three, three nine, three eight three nine.
+E : Nine three six, five seven, eight zero six zero.
+E : Six eight nine, one five zero, seven nine three five.
+B : Transcript L_ dash two eight five.
+B : Seven two six nine, four, four one six,
+B : zero seven six nine, zero, four five four,
+B : One eight eight four, three eight five three, eight seven zero nine,
+B : zero five, three five, three nine, three two, six six,
+B : four, nine zero nine, nine zero, nine one zero, nine,
+B : six seven one three, zero five two seven, one two three six,
+B : seven eight three, two nine six, three three eight five,
+B : four seven five seven, one two seven six, four nine seven five.
+D : Transcript L_ dash two eight six.
+D : Three seven five, four five, one four six nine.
+D : Three, five four three, five three, one five zero, nine.
+D : Six eight five two, five eight two one, four three four four.
+D : Eight, two six five, five eight, zero zero eight, one.
+D : Five three nine six, one zero five five, three three eight three.
+D : Five zero one, one nine five, nine one zero.
+D : Five, three four three, one one, seven eight five, nine.
+D : Six zero five zero, one one eight seven, two three nine one.

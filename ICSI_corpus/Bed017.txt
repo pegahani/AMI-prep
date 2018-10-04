@@ -1,0 +1,290 @@
+A : Why?
+A : No, cuz she already told  before  she told you.
+E : No, she told me a long time  weeks  ago.
+B : O_K.
+B : @@  function -
+D : Wow.
+A : Well maybe she hadn't just started transcribing  me yet.
+E : Let me explain  something to you.
+E : My laugh is better
+D : there.
+B : Yo.
+A : I beg  differ.
+A : But you have to say something genuinely funny  example.
+D : The thing is I don't know how to get to the next page. Here.
+E : No.
+E : @@  least  laugh  jokes.
+D : Actually  I thought -
+D : How weird.
+E : Oh! Holy mackerel.
+A : Wow. Whoa!
+D : What?!
+D : Oh.
+D : wasn't even doing anything. O_K.
+A : Uh.
+D : That was r- actually Robert's idea. But anyhow.
+F : O_ K.  So, here we are.
+F : probably won't have one next  number  of people are gone.
+F : where we are  with E_D_U?
+B : Um,
+B : uh in a - in a smaller group we had uh, talked and decided about continuation of the data collection.
+B : Um, and we found another uh, cogsci student who's interested in playing wizard  for us.
+B : look um, at the psychology department students, because they have to partake  in two experiments in order to
+B : So they have to be subjected, before they can actually graduate.
+B : we want  some  time,
+B : to plan  which  what  time, and,
+B : sort of package the whole thing in a - in a re- in a few   more complicated
+B : as of this morning should  be resolved.
+B : "should be" means they aren't  yet, but - but I think I have the info now that I need.
+B : maybe  uh uh, when tomorrow is over,
+B : we're done. And ha- n- hav- we'll never have to look at it again
+B : we're seeing
+B : Um,
+B : the uh,
+B : uh I   don't  formalism  that'll be done officially s- once we're done.
+B : Um,
+C : Yeah.
+B : And, um,
+B : Andy, you actually go by Andy, right? Oh, O_K.
+B : Eh -
+C : Cuz there is another Andreas around, so, to avoid some confusion.
+B : That will be
+B : So my scientific director of the E_M_L is also the dean  of the International University,
+B : um, he @@  he's  actually doing, and
+B : why it is s- somewhat  we  are using.
+D : Ack!
+D : What are you doing?
+D : Yeah
+D : I've  been looking at the P_R_M stuff. Um,
+D : I sorta constructed a couple of classes.  user  site  class, and -
+D : and you know, a time,  route,  query  class.
+D : the user interest .
+D : And so
+D : a lot of these stuff I got from the flat Bayes-net, and  what they depend on,
+D : look  like in a P_R_M.
+D : are the intermediate nodes, and one of them   is like, time affordability
+D : s- some of these attributes only depend on stuff from, say, the user,  site.
+D : user,  but, if you look at travel compatibility
+D : then you have one-user  potentially  you can have many different sites
+D : it's probably the same . But um,
+D : re-use, like, um,
+D : not having to recompute a lot of the   stuff, because it's all from the user side. So if you changed sites, you -
+D : represent  the intermediate nodes.
+D : And that would - basically  it's just another class in the model,
+F : Well
+F : No.
+F : So y- you didn't yet tell us what the output  is.
+F : So what decisions does this make?
+D : of the visit, whether th- It's the E_V_A decision.
+D : doing a lot of, you know,
+D : So.
+D : Anything else  I missed?
+F : uh, probably gives the - the details to anybody who needs  them. Um,
+F : so
+F : You - you didn't look at all yet to see if there's anybody has a implementation .
+D : No, not yet, um -
+F : interpreter, so if - if we can't find  we  uh, go off and do something else and wait until s- one appears.
+F : the people at Stanford write papers as if  they had one,
+F : um, we'll  Anyway.  So that's
+F : a - a major  open issue.
+F : If  is
+F : an interpreter,  it looks like
+F : um, try to solve, you know, the problems,  do  it.
+F : Uh, and we'll see.  I  actually think it is
+F : will help  expression.  inference  doesn't.
+F : this way which you can't  express in a normal belief-net,
+F : uh, without going to some incredible hacking of  - sort of rebuilding it on the fly. I mean, the notion of instantiating
+F : i- it looked to me
+F : Eva were able  to come up with
+F : a
+F : you know, value for each of a number of uh, sites plus  its E_V_A thing,
+F : you know, with some other information about how much time the person has and whatever,
+B : Um-hmm, um, well, first of all uh,
+B : as, uh, mentioned before we probably should  look at t- the details. So if you have a write-up then uh, I'd love to read it and uh -
+B : Um, @@  these - w- w- when these are instantiated they take on the same values? that we had before? or are they -
+D : I can't really see the whole thing.
+B : have they  changed,
+B : Hmm.
+D : And status  would be, you know, more or less like, whether they're under construction, and - and - or
+B : Uh-huh.
+B : other  presumably,  Stanford  people talk about it,
+B : the probabilities also on the relations.
+F : That  actually  in the previous -
+F : the Ubenth  stuff. I don't remember whether they carried that over to this or not,
+B : It's sort of in the definition or - in the - in Daphne's  definition of a P_R_M is that
+B : classes and relations,  and  their relations.
+D : I remember them learning when, you know, you don't know the structure for sure, but I don't remember reading how you specify
+F : group  whatever.
+B : O_K .
+B : I think the w- long term perspective is - is pretty clear.
+A : Of course.
+B : until then we'll come up with a something that's - @@
+B : that's way  more complicated for you.
+B : Right?
+D : Jerry was like, "this is just too much".
+F : Yeah.  So, um,
+F : you could,
+F : from  this, go on and say suppose there's a group of people traveling together
+A : That's good
+F : uh, uh, thing for -
+A : That's
+B : Well that's not - not even something humans
+F : Right. Right. Well that's the - that would - that would be a - uh, you could sell  eh  you don't have to fight about this, just give your preferences to the -
+F : w- Exactly.
+B : But what does it - uh - Would a pote- potential result be to - to split up and never talk to each other again? You know.
+A : That  one
+B : Yeah.
+F : Yeah. Right.
+E : That'd  be nice.
+F : Anyway.
+F : you could  try to put in
+F : to  I  now.
+F : Anyway.  But uh,
+B : Good.  Then, we can move on and
+C : So uh, uh, well, thanks for having  first  visit.  project,  that's uh -
+C : uh, to have an opportunity to talk to some other researchers  field.  And - and so I'll just n- sort of give you a real quick introduction to what I'm working on, and
+C : O_K, so, um, what I started looking at, uh, to begin with is just uh, content management systems uh, i- i- in general.  So
+C : um, and you store meta-data  uh, associate to them. So there's some international standards like the I_-triple-E_, uh - There's an I_-triple-E_, L_O_N standard,
+C : well, what is the document about?  So it's some sort of taxonomic
+C : uh, ordering  of - of the - of the units. Now,
+C : semantic  glasses,
+C : uh you say, well that's not all that easy,  assumption  behind that is that uh, all the users of this system share the same interpretation of the keyword and the same interpretation of
+C : really elaborating much of that and uh - As a matter of fact, the only thing that m- apparently really  library  ordering codes, which are very, very coarse grain, so you have some like,
+C : science, biology, and then - But that's really all that we have at the moment.  So I think there's a huge,
+C : um, uh need for improvement  there.
+C : uh, and they always come running to us, and they'll say why's it not - it's not working, and we always give out the same answer, so we thought, well, it'd be nice to have a system  care  of this, and
+C : so, what I want to build is basically a - a smart F_A_ Q  system.
+C : uh need to do here is you need to provide some context information which is more elaborate than "I'm looking for this and this and this keyword. " So.
+C : uh, context  another  context makes a huge difference. So,
+C : I want to be able to model information like, um, so in the - in the context   of - in the context of developing distributed systems, of a- at a computer science school, um,
+C : um, maybe what's the background of that student's um, which um, which error  message was encountered.
+C : basically giving this um - Uh so we somehow need to have a formalized um, way of writing this down  basically,
+C : using this and some - some uh, knowledge about the domain I think you can do some - some simple inferences. Like you know that when somebody's working about - uh, working on - on servlets for example, he's using Java,  cuz servlets are used -
+C : are written in Java.  So some - some inferences like that, now,
+C : um, u- using this you can infer more information, and you could then match this to the meta-data  searching  against.
+C : given these inputs,  and then I can compute how many documents match,
+C : and use this as a metric  search.
+C : Now, what I plan  do  is I want to uh sort of do a uh -
+C : uh try to improve the quality of the search results, and I want to do this by having a depth uh, um, um - steepest descent approach.
+C : So if I knew which operating system the person was working on, would this improve my search  model  of this I could simply compute that,
+C : problem  facing  right now is um,
+C : it's fairly easy to hack up a system uh quickly,  works  small  scalability.
+C : um, what you can do  with those.
+C : um, which I think you're also  uh, uh looking into right now.
+C : we're all sort of carrying around our individual bookshelves,
+C : and um, if you have a question about a homework, it's - probably makes sense to ask somebody who's in your class with you, sort of the guru in the certain area,
+A : So it seems like a lot of - some  of the issues are
+B : Well, in a - in one - t- one s- mmm, small  difference in a - in a way, is that
+C : Yeah, so. So I'm - I'm not - I'm not building an expert  librarian,  basically that can point you to the right reference. I don't wanna compute the answer,
+A : Documents that have the answers.
+B : Well.  Uh, you have to s- still m-
+B : understand what the content says about itself,  and then match it to
+C : I - I assume that - that the- there will be learning systems that - that tag their - their content.
+C : m- @@  and basically what I - what I envision is that you - rather than just supplying a bunch of keywords you could basically - for - for an F_A_Q for example you could state
+C : sort of like a logic condition, when this document applies.  So "this document
+C : something  like this.
+C : But the - I think that the key point with these uh, learning  systems is that uh, a learning system
+C : um, uh I think you must  reuse  some -
+C : some existing
+A : O_K. Mm-hmm.
+C : So I think that's - that's crucial for - for the success of - or @@  -
+A : that we've talked about in this  group, and, actually associated groups, cuz
+A : I'm guessing that you - you won't  be doing that?
+A : O_K. Just checking. So, O_K.
+B : Hmm.
+C : No.
+F : On the other  hand,
+F : FrameNet
+F : could well  be useful. So do you know the FrameNet story?
+C : Um, yeah. Uh, not - not too  much, but uh,
+F : Oh. Th- that's another  here.
+F : indicate a frame, then you can find documents that actually have the whole frame,  rather th- than just
+F : is just trying to get the frames  lot  of it and they're - they're busily working away.
+F : But there are some application efforts trying to exploit  it.
+F : And this looks t- it seems to be  that this is a place where
+C : Yeah. I'm sure I could learn a lot  about um,
+B : tried to come up wi- or we had come up actually with a eh - with him working on an interface for FrameNet,  as it was back then, that would
+F : W- yeah, I know, I mean it - it - he - w- he did w-  what - what he did was much more s- sensible for him. I think uh,
+B : But so - I'm just saying, the uh, we had  that idea
+F : Yeah.
+B : And um.
+B : And Srini's  extraction  also, right? with that FrameNet base. Mm-hmm.
+F : So you - you guys never sent anybody else  U.
+F : Uh, this was supposedly an exchange  fine.  care,  little  surprised that
+C : Um,
+C : @@
+C : @@
+C : @@
+C : Uh  I don't know, I mean the uh -
+F : Alright. I mean I had forgotten a- I - To be honest with you, I'd totally  had  a program.
+B : Uh it's in the program?
+F : Yeah.
+C : Well I mean if - if I  love  here,  rather than
+C : work for some German  company, or -
+B : You are
+F : Oh, right!
+C : Well, I  sponsors
+C : Mm-hmm.
+F : Uh, unfortunately,
+F : is himself  out of town.
+A : @@
+F : Yeah, for - for some reason he's not  doing that.
+F : I don't know why he @@  - oh, I, who knows? Anyway, s- yeah, you'll see - you'll certainly see a lot of the people there.
+A : The other person I thought  of is Dan Gildea? because he did some work on topic
+A : which is, I mean, you - I mean. I don't - Depending on how well you wanna integrate with that  end, you know, like, taking the data and fig- you said the learning systems that
+A : has worked on that kinda stuff, and  both  of those things at once. So.
+A : I- u- Dan Gildea, G_I_L_D_E_A.
+B : Who?
+A : Well, if you fal- solve  problem,  too.
+F : One  of these times soon
+F : we're gonna hear about construal.
+B : No. Wh- I had something in my calendar.
+F : Oh, O_K. Right
+E : Wait  That's  away.
+F : Good
+B : Uh well, maybe I can - I can bribe  my way out of this. So.
+B : So I  spring
+A : Talk about changing the topic.
+A : At least this is a private meeting.
+F : Uh, this - this - this - t- the s- we're, uh, involved in a
+F : So the budget has not  been approved.
+F : And two  days ago -
+F : There's two l- you know, so, two branches of legislature. One  approved  it,
+F : yesterdayday  thought  back  sliding to people who -
+F : Oh! I have to tell you a wonderful  story about this, O_K?
+F : And then  So, I - it turns out I wound up having lunch today
+F : K_I_L_L - K_A_L_I_L.
+F : So they've been hiring  people right and left, so,
+F : uh, they  was,  I think,
+F : He was in the White House, I don't remember what he was saying  like  that.
+F : doing all the politics for CITRIS, but also,  lot  of interest in
+F : uh, actually doing things for society,  divide  and stuff like that. So that's
+F : s- interesting to me but maybe not to you. But the really  interesting thing was,
+F : this was his only
+F : I said, "Oh great! That's a good problem to work on." Anyway.  So it was nice that
+A : Mmm. Definitely.
+A : But for adults  and not for the
+F : and this was - this was literacy,  which actually is somewhat different problem. Maybe easier. I don't know.
+F : So this is reading,  rather than teaching -
+F : uh, to try to build an automatic tutoring  program,
+F : for kids
+F : whose first language wasn't English.
+F : Something  like that, isn't it?
+F : enormous
+F : problem in California,
+F : uh, programs that would
+F : be tutors  kids.
+F : We think  we could.
+F : Anyway.  slightly
+F : I know none of us have the spare time to look at it right now,  but it i- it's -
+B : O_K. So I - I did  manage to
+B : get - pull my head out of the sling by sidetracking into CITRIS, but uh or - a- temporarily  putting it out of the sling but, I - I'll volunteer to put it right back in by stating that
+B : I am
+B : n- uh among some other things in the process of writing up stuff that we have been discussing at our daily  meetings,
+B : thanks for all the comments,
+F : You're good.
+B : Nnn. s- sometimes, you know the sum is not uh less than the -
+A : Uh, right, right.
+F : Anyway.  Yeah, so - O_K, so that'd be great, but I'd -
+F : I think it's   -
+F : time again,  right?

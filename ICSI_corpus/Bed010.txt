@@ -1,0 +1,419 @@
+B : @@
+C : Alright. Good.
+C : let's get started. Nancy said she's coming and that means she will  be.
+C : My suggestion  is that Robert and Johno sort of give us a report on last week's adventures
+C : uh to start.
+E : am Smarticus."
+E : It actually says, "Roemisch einz, am Smarticus,"   which means it's just using a German synthesis module for
+B : O_K.
+E : Um,
+B : Oh, "Am Spartacus."    Verstehe.
+D : "I am Sm- I am Smarticus" is what it's saying. I gue-
+A : Right.
+E : exchanging a couple of files, once we have  them.
+E : And, um, it's not going to be a problem because  concept  to speech
+E : presumably.  Then, just with text to speech.
+D : in a LISP-like - the knowledge base is in a LISP-like form. And then the thing that actually builds  these syntactic structures is
+D : something based on Prolog.
+D : Greet-the-person goal, so it just starts - uh, it binds some variables and it just decides to, you know, do some subscold . Basically, it just means "build the tree."
+D : S- what do ca- structure
+E : the Texas speech version of it, which is actually the simpler  version, is gonna be done in October which is much too late for us. So.
+E : This  that.
+E : on seventeen modules before they actually can stomach it, anything.
+E : works because it's designed for this seevit  thing, where you have the gestural recognition
+E : running with this s- Siemens virtual touch screen, which we don't have  here.
+D : Why - I had - I did  need to chan- generate different trees than the German ones, mainly because you know like
+E : You have to switch it on.
+B : you know, non-English  word orders and so on, you know. And then all that good stuff. So. Like.
+C : It's eee really  complicated about it.
+D : O_K, you know how to do it?
+B : That's the opposite  of constructional. That's, you know, that's - that's H_P_S_G or whatever. You know?
+C : to any  are  funding.
+C : O_K? to uh -
+B : Make our stuff fit to that.
+C : Yeah, to - n- no, to just get the dem- get the demos they need.
+C : O_K? So between us all we have t- to get th- the demos  also
+C : give them lots more  than that by, you know, tapping into other things we do, that's great.
+D : You should probably move the microphone closer to your face.
+D : There's like a little - The twisty
+C : and, s- deliberately.
+C : in this demo  system is not because it's important to the research. It's just
+C : for closure.  So that if we come up with a question of
+C : "could we fit this deeper stuff in  You  know what the hell
+C : we- we're talking about fitting in.  So it's just, uh in the sam- same actually with the rest of us
+C : But none  time  fuse.
+C : So th- the demo- the demo requirements for this Fall  are sort of
+C : taken care of as of later this week  or something. And then - So, it's probably fifteen months or something until
+C : there's another serious demo requirement. That doesn't mean we don't think  six  months.
+C : keep the d- keep the context  open, but actually go after the basic issues.
+C : uh, other  subgroup that's worrying about formalizing
+C : the nota- getting a notation.  But
+C : sort of in parallel  with that,
+C : uh, the hope is tha- in particularly you  will work on
+C : but y- not  worry about parsing them or fitting them into SmartKom or
+C : any of the other - anything lik- any other  constraints
+C : for the time being.
+C : that you have to somehow meet all these other  constraints.
+C : Um. And similarly  parsing,
+C : we're gonna worry about parsing
+C : uh, the general  case
+C : you know, construction parser for general  constructions.
+C : And, if we need a cut-down version for something, or whatever, we'll worry about that later.
+B : O_K.
+C : And I assume that's also, uh, your plan as well.
+E : It's got . What I - what I think is - is a good idea that I can - can show to anyone who's interested, we can even make a - sort of an internal demo, and I - I show you
+C : So, c- sh- we could  set that up as actually an institute wide thing?
+C : Yeah I mean, that's the kind  of thing - That's the level at which
+E : O_K.
+E : pipe in extra X_M_L messages from left and right before you're -
+C : But any- so that - e- e- It's clear,  think.
+C : Actually,  next  this  one  trip  report.
+C : But uh starting next  meeting I think we want to
+C : Uh. I mean there are a lot  ontology  constructions  execution  things.
+C : But, more  focused on
+C : Now before  we do that,
+C : let's get back in - Oh! But,
+C : it's still,  understand  the demo version
+C : enough,  so that you can - can see what - what it is that - that uh it might
+C : And Johno's already done  that,
+C : uh, looked  looked  at the SmartKom stuff.
+C : Well, the parser,  and that stuff.
+E : Um.
+C : Maybe you're done,
+E : we are only  ones right now who have a running system. I don't know what the guys in Kaiserslautern have running because
+E : e- the version - that is, the full  version that's on the server d- does not work.
+E : did it without th- all the shortcuts that they built in for the uh October @@   System Gruppe   by now,
+E : the system - the integration  group.
+E : the outcome that is  sort of of scientific interest is that I think both Ralf and Tilman -
+E : um, I know  that they enjoyed it here,
+E : and they r- they - they liked, uh, a lot of the stuff they saw here,
+E : what - what we  have been thinking about,
+E : and they're more  than willing to - to
+E : um, cooperate, by all means.
+E : And um, part of my responsibility   is uh to use our internal "group-ware"
+E : so that whatever we  parsing  and - and generating and constructions w-
+E : we - we sort of uh put it in there and they put what they  do in there
+E : the, uh - If  I find someone at - in E_M_L that is interested in that, um I -
+E : I may even think that we could look - take constructions and - and generate  grammars  that - that Tilman is using is
+E : as you said nothing but a mathematical formalism. And you can just do anything  with it, whether it's syntactic trees,
+E : H_P_S_ G-like  construction.
+E : So if you  generation  side of constructing things and
+E : focused on the understanding,
+C : uh we - so we now  know
+C : I think, what the landscape  is like.
+C : what we need to do.
+C : And one  of the things we need to do
+C : tight  -
+C : tightly constrained,  is to finish up this belief-net stuff. So.
+C : Uh. And I was going to switch to start talking about that unless there're m- other more general  questions.
+C : O_K so here's where we are on the belief-net stuff   I  understand it. Um.
+C : Going back I guess two  weeks ago
+C : laid out this belief-net, missing only  the connections. Right?
+C : That is - So, he'd put all th- all the dots down, and we
+C : went through  think,  more  or less convinced ourselves that
+C : at least the vast majority  thinking  in  there.
+C : Yeah connections  weren't.
+C : So, uh Bhaskara and I went off and looked at some technical  questions about
+C : were certain operations sort of legitimate  computations  problem  with them
+C : And, so the current state  now,  um
+C : we'd like to actually get a running  belief-net
+C : for this particular subdomain
+C : done  weeks.
+C : uh, he's gonna leave  inheritance,  which is a uh - hopefully a belief-net that
+C : does  these things.
+C : And there're two aspects  technical,  coding  run,  and
+C : uh stuff like that. And the other  is the actual
+C : semantics.
+C : O_K? What all - you know, what are  relate.
+C : So he doe- h- he doesn't need help from this group
+C : technical  separately.  But in terms of
+C : what are the decisions  and stuff like that, that's something that we
+C : all  out.
+E : Well, no, we didn't decide. We wanted  to look into maybe
+E : sort of a paper  version of all the nodes and then
+C : Yeah I mean, that's a separate  problem.  do  better   visualization  and all that stuff.
+C : That's  separable, yeah.
+D : I  did  into  that, uh in terms of, you know, exploding the nodes out and down ag-
+D : imagine  hacking  do  that.
+D : with the GUI and,  thing  that we want.
+C : Well, we can p- If it's - If we can pay - Yeah. If you know it's paying  do  that.
+C : O_K? So - so don't  free  constraint.
+C : O_K. And you can ask  Kevin.
+G : Yeah, the one that uh people seem to use is uh Hugin or whatever? How exp- I don't think it's - Is it free? Because I've seen it advertised  in places so I - it seems to -
+C : I have a co- copy  one  point it was free.
+C : Uh but yo- I noticed people do  use Hugin so um,
+F : Why
+C : it's uh - Probably  real  anyway.
+C : But um, you know, if it's fifty  do  need  for that.
+E : And maybe there is an easy way of interfacing those two.
+E : If that  doesn't work,
+E : it's not  now.
+E : give you  input
+C : Doesn't  matter.
+C : Yeah and this is not a crisis that - I mean, you do,  student  should,
+C : you know do  work,  courses  all in good shape and - and - and - and then we'll dig - d- dig down on this.
+E : No, that's good.  week  doing it. So.
+B : How do you go about this process of deciding what these connections are? I know that there's an issue of how to weight  the different
+B : things too,  guess  and see if it sort of -
+C : There're two  design  learn.
+C : So uh what we're gonna do initially is - is do design,
+C : and, i- if you will,  guess.
+C : and  if you have data
+C : then, there are  numbers  structure
+C : and there are even  learning  structure,  although
+C : that takes a lot more data, and it's not as @@  and so forth and so on. So uh
+C : but for the limited  amount of stuff
+C : we have  particular  exercise
+C : I think  design  it.
+E : So but this  long run.
+B : look  saying.
+C : Yeah make  well  get.
+E : The German.
+E : Oh yeah, of course, German.  Yeah.
+C : Yeah, the y- your native   remember  that one.
+E : O_K.
+C : So he'll  get you some data.
+E : We probably  those  trial  runs.
+E : but we have data in English and German already. So. - Transcribed.  I will send you that.
+E : thingy.
+E : the - the Deep Map  project which um is undergoing some renovation at - at the moment,
+E : but this is a - a three  language project: German, English, Japanese.
+E : And - and information on  huge  on  differences  in spatial descriptions.
+E : Well, if yo- if you're interested  in that,
+E : @@
+B : O_K.
+E : the bordered  there.
+A : as you come beh- you drive behind  the car.
+A : In Hebrew  it means
+A : "park behind  follow  you.
+A : While in English,  front  absolute  front of the car.
+A : I don't think it - it's related to syntax,  different.
+C : No,  not.
+E : Carroll, ninety-three.
+E : so I - I - I - It might  be, since there are only a finite number of ways of doing it, that -
+E : The solution they proposed was that it was  due to syntactic factors.
+E : That syntactic facto- factors do  do  play a role there, wh- whether you're more likely,
+E : you know ,
+B : I mean  both  in - in English depending o- You know, like, "in front of the car" could you know - Like,
+B : But anyway,  so you know, I mean, this was - this was a - a very good talk on those kinds of issues and so on. So uh.
+E : I can also give you uh, a pointer to a paper of mine  reference  knows  how it works.
+B : Alright! Cool!
+E : Not  really.
+C : Great.  I've  not seen that.
+E : Well actually you have - only have two choices. You can either do a two-point
+E : or a three-point
+E : O_K? In some  origo
+E : the same
+A : Right
+E : "Origo" is a  Terminus technikus.   in that sense,
+E : this video tape is in front of me.  I'm  two-point.
+E : And three-point  has  an intrinsic front side like this chair then your f-
+E : No, from - from my  point of view your shoe is
+E : left  of the chair.
+B : "it's behind the tree from me" or something like that, I think,  in - in - in certain circumstances in English, right? As sort of "from where I'm standing it would appear that" -
+F : Looks a little  bit like Reichenbach for time.
+F : It's a lot  like it. Um.
+E : And then - and then here you - On this  ego
+E : or allocentric.
+E : And that's - that's basically
+E : it. So. Egocentric two-point,  three-point,  or you can have allocentric.
+E : aa-huh
+A : I'd love  see  kind of . Uh.
+C : Yeah. I see this is - this is getting into Ami's  thing.
+C : He's  - he's very interested in that.
+A : Here
+E : Yeah it's - or - or just - Yeah. It's also all on my - my home page at E_M_L. It's called "An Anatomy of a Spatial Description". But  I'll send that link.
+E : Yep.   Yep.
+C : things within reach, and things that are out  of reach.
+C : So there's - there's uh all this linguistic  stuff about
+B : Mm-hmm.
+C : the - Uh. Here's  the way the findings go.
+C : you know they do M_R_I, and - and if you're uh - got something within reach then there's one of your areas lights up, and if something's out  of reach
+C : uh a different  one.
+C : But here's  amazing  result,
+C : they say.
+C : You get  someone with a - with a deficit
+C : the s- typical  subdivision.  wall  laser  pointer, and you say,
+C : " Where's  the midpoint?" And they do fine.
+C : If you give them the line, and they have to touch  can't.
+C : Here's  real  experiment.
+C : The  same thing on the wall, you give them a laser, "where is it?",
+C : they do it. Give them a stick,  can't  do it.
+C : So there's a remapping  distant  nearby  space.
+C : It's not  within reach and you use the Within-Reach
+F : Oh. Wow.
+C : uh, mechanism.  So I'll d- I'll dig you up this reference.
+B : Circuits.
+B : That's cool.
+C : And so this doe- This is, uh - First  of all, it explains something that I've always wondered about
+C : I  not  certain  tool,  long  time,
+C : I start feeling the tip
+C : directly.
+B : Yeah yeah.
+C : of, physical  sensation, of
+B : What's going on at the end of the tool, yeah.
+C : Yeah, right. Have you hav- y- h- had  this?
+A : I - I think  exactly
+A : the th- same thing, but - but s- it - it - it's getting close  to that.
+F : W- what does it feel  like?
+C : Oh i- it feels  like your - as if your
+C : uh neurons  out  forces  it  directly  with it.
+A : uh devices that allow you to manipulate objects   when it's dangerous to get close?
+A : and there's a correspondence  between -
+A : you don't  difference  anymore.
+B : Yeah.
+C : Yeah, so anyway, so - So this was the first actual experimental  anecdotal  stuff.
+C : And of course it makes a lovely  def- uh story about why
+C : languages
+C : uh, make this distinction.  behavioral  too.  different  can't.
+C : But there seems  really  deep  embodied
+C : neural  difference. And i- this is, um - So. In addition to the
+C : Yeah uh exactly.  allocentric
+C : uh which appear all over the place, you also  apparently have this proximal-distal
+E : Well, Dan Montello  sort of, he - he does the uh uh - th- the cognitive map
+E : world , down in Santa Barbara.
+E : He - he already - well - i- probably most  without  knowing this - this evidence uh is talking about these small scale spaces that you can manipulate versus large scale environmental spaces.
+C : Well there's - there's uh been a lot  of behavioral things o- on this, but that was the first neur- neuro-physiological thing I saw.
+C : And. So, all  science,  right? And so these issues about
+C : uh, reference, and - spatial  discourse  all  this sort of stuff,
+C : uh, deixis  which is part of what you were talking about, um - So, all of this stuff is
+C : coming up essentially starting now.
+C : So we gotta do all this. So there's that.  system  things that come up.
+C : So " O_K  their  system. That means we need
+C : our  system." Right? It - it follows. And so,
+B : Mm-hmm. Yeah.
+C : uh, in addition  build  something
+C : and uh, Johno is point person on the parser, analyzer, whatever that is, and we're gonna start on that in parallel  with the
+C : um, the grammar  But
+C : to do that
+C : so, um - And so this is another thing where we're gonna, you know, have to get involved and make s- relatively  early I think, make some decisions on
+C : build the parser and stuff around that,  particular  ontology that we're gonna standardize on, and if so - For example, is there something
+C : that we can use there.
+C : p- pull out, for that.
+C : Uh, so there are gonna be some - some - some things like  that, which are
+C : not science but system.
+C : But we aren't  ignore  those cuz we're - we're not only going - The plan is not only to
+C : lay out  this thing, but to actually uh
+C : some  of it.
+C : And how  so  forth.
+C : Uh. Part  works  right,
+C : is wh- It looks  like we're now in a position
+C : construction  want  for this
+C : applied  project
+C : can be the same  Nancy  language  modeling.
+C : So. It's always  now  seems that
+C : um, there's a good shot  at that. So we've talked about it, and
+C : the hope
+C : is that we can make these things the same  thing,
+C : and of course it's only w- In both  piece  system.
+C : But it would be nice  piece
+C : were exactly  the same piece. It was just this
+C : construction  analyzer.
+C : And so we think  - we think we
+C : have a shot  at - at that.
+C : So. The for- So.  circle  formalization  task,
+C : get  shape  where it can actually
+B : Be of use to someone who's trying to do this, right?
+C : And the - the - the - the thing that got Mark into the worst  trouble is he
+C : had a very  ambitious thing he was trying to do, and
+C : he insisted on trying to do it with a limited  mechanisms.  not  to cover the space.
+C : And it just - it was just terribly  frustrating for him, and he seemed fully committed to both
+B : Right.
+C : Uh. Johno is much  more pragmatic.
+C : uh, complete.
+F : O_K. Just checking.
+C : observed,  in any case.
+C : Now, you  do, but that's O_K.
+B : Cuz I don't have to implement anything.
+F : I
+F : It's - So. Whether I do depends on whether I'm talking to him or him  probably. Which meeting I'm in.
+B : Yeah, right.
+C : Right. Why - a- actually, uh, the thing is, you - you do  small  that -
+F : It's O_K to be purist within that context. Yes, good.
+C : Within  that, yeah, and uh, it's - a- and still, I think, you know, get something done.
+B : Cool!
+C : But to try to do something upscale  and  purist
+C : what you're purist about doesn't actually work,  real  hard.
+B : Yeah.
+C : O_K. And then the other  thing is
+A : @@  It's possible yeah.
+C : Robert's  gonna pick a piece of this space,
+C : his absentee thesis. I think you all know that - that you can just, in Germany - almost  just send in your thesis.
+B : Just a drive up. Ca-chuk!
+C : Yeah right. O_K.
+E : There - there's a drive-in thesis uh sh- joint over in Saarbruecken.
+B : Exactly. Drive through, yeah.
+C : It costs  credit  well.  But, uh, - But anyway, so, uh,
+C : gotta be worked out, hopefully  over the next few weeks, so that - that it becomes clear
+C : And, while we're at   this level, uh,
+C : there's at least  one new
+C : doctoral student in computer  science who will be joining the project, either
+B : O_K.
+C : It really  is. Nobody believed th- th- that -
+F : Yeah, I thought it had  to be a joke,
+F : of your  sure.
+G : Is this person someone who's in first-year this year, or
+C : No, first year coming. So, she's - she's now out  here she's moved, and she'll be a student as of
+C : then. And probably  she'll pick up from you on the belief-net stuff, so sh- she'll be chasing you down and stuff like that.
+C : Uh, against
+C : uh undergraduate  honors  thesis on this.
+C : No,  interestingly enough.
+F : We always  not  in the class, who - It's interesting.
+C : So we'll see how this goes. Oh there's yet another  one of the incoming
+C : first - incoming  first-year graduate students who's expressed interest, so we'll see how that goes.
+C : anyway,
+C : I think  as far as
+C : this group  goes,
+C : it's certainly  continuing
+C : for the next few weeks
+C : to get closure
+C : belief-net  ideas  that are involved in that, and what are th- what are the concepts.
+C : it- it's beginning to take   shap- shape, so
+A : Right
+C : at some of the - your traditional  light,
+C : get reflected  constructions.
+C : I suspect  that's right.
+A : after that  before  that.
+A : an affiliation with a research  Geneva,  forgot  name  of.
+C : uh - There's a - there's a - a very  We'll  - we'll go through this,
+C : technical  institutes. There's one in - in
+C : Zurich,
+C : E_T_ H,  French  speaking one,
+C : in Lausanne,
+C : O_K? which is uh E_P_F_ L.
+C : So find  Probably  we're connected to them.
+A : Great.  I'll let you know.
+E : Hmm. Uh. I - I think the one you - you gave here a couple of weeks ago would  there,  too.
+C : A lot  either  place, D_F_K_I or uh -
+C : Yeah, so, and - and if there is  a book, that you'll be building up
+C : some audience for it. And you'll get feedback  they've  actually -
+C : these D_F_K_I  anyone
+C : over the last decade  build  them.
+C : the belief-net and the decisions now,  which would be fine, it's probably -
+C : is partially proposal, and partially   don't  understand".
+C : O_K? Uh, "these are the decisions" - I don't think we're gonna get lots  design  problem.
+C : Yeah.
+D : it going to be hard.
+B : Yeah.
+C : But anyway,  yeah.
+B : Pretty soon.
+E : O_K.
+D : So, the seventeenth will definitely be the last day, like it or not for me.
+C : nothing  seven  people, right? So, um,
+B : Right.
+C : actual work  gets done.
+B : Yeah.
+C : So we'll do  that.
+C : Great. Oh, the other  thing we wanna do is catch up with
+C : uh, Ellen  she's  image  schemas
+C : um, an important pa- We - we want  formalized  and stuff like that.
+B : Quite relevant, yeah.
+C : So let me - let me make a note  to do that.
+D : O_K.
+B : precisely that sort of thing over the summer, so.
+C : although she said it's a secret.
+D : Hi @@
+D : Wednesday's much better for me, yeah.
+C : I'm
+B : Yeah, right.
+D : Bhaskara.

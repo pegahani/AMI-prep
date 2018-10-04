@@ -1,0 +1,839 @@
+B : Yeah.
+B : So,
+D : u- O_K .
+A : Why is it so cold
+G : I c- I could talk about the meeting.
+H : Does everyone - has everyone met Don?
+C : Now,
+B : O_K, agenda item one, introduce Don.  did  that.  Uh -
+A : Well, I had a - just a quick  discussion  missed,  but just about the -
+A : the wish  list item of getting good quality close-talking mikes on every speaker.
+B : O_K, so let's - let's - So let's just do agenda building right now. O_K, so let's talk about that a bit.
+B : Uh, @@  uh, we can talk about that. You were gonna - starting to say something?
+G : Well, you - you, um, already know about the meeting that's coming up and I don't know if - if
+G : this is appropriate for this.
+E : What  meeting?
+B : No, no, that's O_K. We can - so - we can ta- so n- NIST is - NIST folks are coming by next week and so we can talk about that.
+G : Yeah.
+E : Who's  coming?
+B : I think
+B : Uh, O_K, so we can talk about that. Uh, I guess just hear about how things are going with, uh, uh, the transcriptions. That's right. That would sorta be an obvious thing to discuss.
+A : Uh, we started So,
+B : O_K.
+A : But if anyone has -
+A : uh, the main  thing would be if anyone has, um, knowledge about ways to, uh, post-process the wave forms that would give us better recognition, that would be helpful to know about.
+H : Dome  yeah, it sounds like a topic of conversation.
+C : Yeah
+B : Alright,  other things.
+G : I had thought under my  meeting,  which includes like the pre-segmentation and the - and the developments in multitrans.
+B : Alright, why don't we start off with this,
+B : I guess the order we brought them   up seems fine. Um,
+B : uh, it - it'd be better  everybody.  Right?
+A : And actually in addition  to that, that the -
+A : And the reason  work  dialogue  and so forth,
+A : uh - or and even on prosody,  which Don is gonna be working on soon,
+A : it adds this extra, you know, vari- variable  for each speaker to - to deal with when the microphones aren't similar.
+A : So - And I also  also  had a strong preference for doing that. And in fact she said that
+A : that's useful for them to know in starting to collect their  data too.
+B : Right, so one th-
+B : we could get more, uh, of the head mounted microphones even beyond the number of radio  channels we have because
+B : I think whether it's radio or wire is probably second-order. And the main thing is having the microphone close
+H : Right, so, uh, actually the way Jose is wearing his  correct. The good way. So you want to -
+D : Is -
+D : I- it's not  correct?
+B : Is.
+B : Yes.
+D : Yeah.
+D : Yeah.
+H : And this  adjustable,  so this about as good as I can get cuz it's a fixed boom.
+H : The little - the boxes under the table.
+B : Yeah.
+B : Yeah.
+E : Can we get these,  wireless?
+B : No, but my point  is -
+H : I - I'm not sure I'm follow. Say that again?
+B : that are not quote-unquote standard.  So why don't we replace those -
+H : O_K, just two.
+B : Well, however many we can plug in.  three,  three.  radio,
+B : and so then that would be, you know, three  more.
+B : So, uh - so we should go out to our full complement of whatever we can do,
+B : all  mike.  I think the original reason
+B : that it was done the other  way was because, it w- it was sort of an experimental thing and I don't think anybody knew whether people would rather have more variety or -
+B : or, uh, more uniformity, but -
+B : @@
+H : Sounds like uniformity wins.
+D : Right .
+B : Yeah.
+E : mikes? Is that what you mean? Or - ?
+A : Well Jane  transcribers.
+G : did  discuss  this. Uh, and - and -
+G : a couple  transcribers  fact  some  where, um -
+G : ugh double  equipment  worn.
+G : And he's always - they always - they just rave about how wonderful Adam's - Adam's  channel is.
+H : What can I say.
+G : And then,
+A : So does the recognizer.
+H : Oh, really? Yeah, I'm not surprised. I mean, "Baaah!"
+G : Yeah.
+G : Yeah, but I mean it's not  that,  it's also you know you-
+A : Even if - if you're talking on someone else's
+G : It's also like n- no breathing, no - You know, it's like it's -
+G : it's um, it's really - it makes a big difference from the transcribers' point of view and also from the research s- point of view.
+H : Yeah, I think that the point  mike  signal.  We're not doing research on close talking mikes.
+H : So we might as well  get it as uniform as we can.
+A : That's  O_K.
+B : but, uh, yeah,  future  ones we can get it a bit more uniform.
+G : And there was some  uncomfortable  for people, to -
+H : So.
+G : Good.
+A : Great, thank you very much. It's makes our job a lot easier.
+E : Especially for people with big heads.
+B : O_K.
+H : And, you know, we're researchers,  all  have big heads.
+B : Uh,
+G : Yeah.
+G : Jonathan Fiscus is coming on the second of February and I've spoken with, uh, lot  everyone.  Um, and, um,
+G : and also, um, he was interested in the pre-segmentation and then he's also interested   in the transcription conventions.
+G : You know, O_K. So the room,  room  recordings  are done, and that kind of thing.
+G : And, um. O_K, in terms of the multi-trans,  well that - that's being modified by Dave Gelbart to, uh, handle multi-channel recording.
+H : I was just thinking I should have invited him to this meeting.  I forgot to do it.
+G : Yeah, O_K.
+G : Yeah. Well that's O_K, I mean we'll -
+G : Yeah, and it's t- and it looks  really great. He - he has a prototype. I - I, uh,
+G : @@
+G : didn't - didn't see it, uh, yesterday  today.
+G : And, uh, that's - that will enable us to do nice
+G : um, tight time  ending  possible  with limitations of -
+G : of the, uh, original design of the software.
+G : So, I
+G : In terms of, like, pre-segmentation,  continues  terrific  transcribers.
+G : Do you - I know that you're al- also supplementing it further. Do you want to mention something about that c- Thilo, or - ?
+C : different portions if there is some activity in - in different  channels.
+G : Excellent, so this'd be like w- e- providing also speaker  Wonderful.
+C : Yeah. Yeah.
+G : Wonderful.
+B : Um, something I guess I didn't put in the list  but, uh,
+B : on that, uh, same  day later on in - or maybe it's -
+B : No, actually  this
+B : uh, Dave Gelbart and I will be, uh, visiting with John Canny  who i- you know, is a C_S professor,
+G : Oh.
+H : H_C_C .
+B : who's interested in ar- in array  microphones.
+H : Oh, he's doing array mikes.
+B : stick an array mike here when we're doing  or - or maybe
+E : That  cool.
+B : it's - it's not a specific  table  them
+B : Um, I also  had a discussion - So, w- uh, we'll be over - over there talking with him, um, after class on Friday. Um,
+B : uh, a German, uh, scientist who's got a fair sized group doing a range of things. It's sort of auditory related, largely for hearing aids and so on. But -
+B : and, uh, head models and
+B : Get him to give some talks and so on. But anyway,  this stuff.
+E : That - that reminds me, I had a - a thought of an interesting project  that
+E : somebody could try to do with the data from here, either using, you know, the - the mikes on the table or
+E : using signal energies from the head  sitting,
+E : Oh, did  he? Oh, that's interesting.
+B : A little  extreme thing  but just - it was just sort of
+B : e- e- given that, the - the - the block of wood with the - the - the two mikes on either side,
+B : if I'm  you're  there  is speaking, it - if you look at cross-correlation functions, you end up with a -
+B : if - if someone who was on the axis between the two is talking, then you - you get a big peak there.  other  way. And then,
+B : uh, it - it - it even  different  two  - two people on either side are talking than if one in the middle. It - it actually looks somewhat different, so.
+E : Well I was just thinking, you know, as I was sitting here next to Thilo  that
+E : when he's talking,
+E : my  your  guys's   mikes. So if you just looked at -
+E : yeah, who's  closest  who.
+H : Or who talks the loudest.
+D : Yeah.
+C : Yeah.
+A : You just search for Adam's voice on each individual microphone, you pretty much know where everybody's sitting.
+D : Yeah.
+B : Yeah. We've switched positions recently so you can't - Anyway.
+G : Jonathan Fiscus expressed an interest in, uh, microphone  arrays.
+G : Um, is there - I mean - b- And I also  want to say, his - he can't stay all day. He needs to
+H : Oh,  morning.
+G : So it makes the scheduling a little bit tight but do you think that, um - that, uh, i- John Canny should be involved in this somehow or not.  I have no idea.
+B : Probably  not but I - I'll - I'll - I'll know better after I see him this Friday what - what kind of level he wants to get involved.
+B : Uh, he might be excited  appropriate  whatsoever.  I - I just really don't know.
+H : Is he  I'm blanking on the name of the project.
+B : Well that's  up.
+B : Yeah. No, I mean, that's what all this is about.  haven't  done it yet.
+H : O_K. I had read some papers that looked like they had already done some  work.
+B : They wanted  to do it -
+B : Uh, well I think  room
+E : Are they going to do video  well?
+B : I think.  think  they are.
+H : Oh, cuz what - what I  had read was, uh, they had a uh
+H : very  large  amount of software infrastructure for coordinating all this, both
+B : Well, I'm - I'm - I'm not sure. All - all I know is that they've been talking to me about a project that they're going  to start up
+B : recording people meet- in meetings. And, uh, it is related to ours. They were interested in ours. They wanted to get some uniformity with us, uh, about the transcriptions and so on.
+B : And one - one  remember  but one -
+B : one, uh, difference from the audio  are  array  mikes.
+B : So, um, I mean, I'll just tell you the party line on that. The reason I didn't  go for that here
+B : was because, uh, the focus, uh, both of my  Adam's  interest was
+B : we're not  recording  research  than to
+B : actually apply  scientific  room  as we wanted it.
+B : But the thing we ultimately  wanted to aim at was a situation where
+B : i- uh, in - in an p- impromptu  know  be.  unlikely  microphones.
+B : Um, so it was only  for that reason. It was just, you know, yet another piece of research and it seemed like we had enough troubles just -
+D : Hmm.
+B : uh, there's a whole range of things - there's a whole array  that people do on this. So, um,
+B : the, uh - the big  arrays, uh, places, uh, like
+B : really,  good
+B : in fact  one  point we had a - a proposal in with Rutgers where we were gonna do some of the
+B : sort of per  multi-channel  it d- it d- we ended up not doing it. But -
+E : I've seen  demonstrations  microphone  amazing
+H : And then they have little  too  don't  wood,  right?
+B : Yeah, our block of wood is unique. But the- No, there are these commercial things now you can buy that have four mikes or something and - and, uh,
+B : Um, so if we connected up with somebody who was interested in doing that sort of thing that's - that's a good  whenever  I've described this to other people who are interested on the - with the acoustic side
+B : that's invariably  the question they ask. Just like someone who is interested in the general dialogue thing will always ask
+B : "um, are you recording video? "
+B : Um, right? And - and the acoustic  people will always say, "well are you doing, uh, uh, array microphones?" So it's -
+B : it's a good  do,
+B : but it doesn't  how  two  imagined  P_D_A that we have.
+B : So maybe  do  some more of it.
+G : Well one thing I - I mean, I don't know. I mean, I know  imagine  expensive  to have a -
+G : an array of microphones. But couldn't you kind of approximate  the natural sis- situation by just shutting off
+G : uh, channels when you're - later on? I mean, it seems like if the microphones don't effect  each other then couldn't you just,
+G : you know, record  use  all the data?
+B : Yeah, if ninety-nine percent of what you're doing is c- is shutting off most  mikes,
+B : But if you get somebody who's - who - who has that as a primary interest  then that put - then that drives it in that direction.
+H : That's right, I mean if someone - if someone came in and said we really want to do it,
+H : I mean, we
+B : Well, uh, at some  some  level. But then, you know, there's - it -
+E : What you save, I mean, if you're going to do research with it. yeah
+H : So that they can do  time  not  save out each channel individually.
+B : for optimum flexibility later  you'd want to save each channel. But I think in practical situations
+B : you would have some  some  processing  reduce  some  equivalent  directional.
+E : Sort of saving the result  of the beam-forming.
+A : for doing  getting  the data, because there's
+A : a number of sites - like right now S_R_I is probably gonna invest a lot  good,
+A : You know, it'd be nice  if we can have at least,
+A : uh, make use  recording  go  collected  these really impromptu meetings,
+A : I don't know, save it out or have whoever's interested
+H : do  video
+A : right n- right now we're all being recorded but we're not being taped.
+A : Um, but it - definitely  microphone  interested  in this,
+H : Well, but I think we need a researcher here  who's interested in it.
+H : To push it along.
+B : See the problem  is it - it took, uh,
+B : uh, it took at least  six months for Dan
+B : a  microphone array in here pretty easily and, uh, have it mixed to - to one channel of some sort. But,
+B : I think  @@  I mean, how we're gonna decide -
+B : For - for maximum flexibility later you really don't  want to end up with just one channel that's pointed in the direction of the - the - the p-
+B : you want actually to have multiple channels being recorded so that you can -
+B : And to do  that, it - we're going to end up greatly increasing the disk space that we use up,
+B : we also  boards  channels  this  meeting,
+B : we've got eight people and - and six mikes. And there  fourteen.
+H : And we actually only have fifteen.  One of them's -
+H : Details.  fifteen,  sixteen.
+A : So suppose you can get an array in because there's some person at Berkeley who's interested and has some
+A : as we save
+A : who's interested,
+A : Um, and it - it seems like as long as we can time  beginning,  mix  rest?  know.
+B : Yeah. So I think  time  align the two.
+A : once you make the up front investment out  each time, and - and
+A : not have to worry about the disk  space factor, then it mi- it might be worth having the data.
+B : I'm not  practical  real  issue is
+B : that, uh, there is no  way to do a recording extended to what we have now with low skew.
+B : So completely  separate  set  sampling  so  over  this.
+B : So it would depend  processing  later,
+B : but if you're d- i- the kind  array  care  times.
+B : And - and so you actually  completely  have,  two  channels or something.
+H : Or a hundred
+B : So, uh, I don't think we can share the resource in that  could  could  trying  them.
+A : Right, I mean at least they'd have the data  transcripts,  and -
+B : And then we can offer up the room,
+A : data.  You know,
+B : Well I thi-  talking  to these other people to see what - you know, what - what we can do.
+E : Is there an interest  video  these  meetings?
+H : Yes,  absolutely.  problem,
+H : you have an infrastructure problem, you have a problem with people not wanting to be video taped, and you have the problem that no one who's currently involved in the project  do  it.
+A : Right. Internally,  know  is  interest  from other
+A : places that are interested in looking at meeting  having  video.  So it's just -
+G : Yeah, w- although
+G : I - I have to u- u- mention the human subjects problems, that i- increase with video.
+B : if - i- I- I've heard  before,  on  a video camera?" But
+B : you know, it's sort of like saying, "uh, well we're primarily interested in - in some dialogue  things,
+B : the thing  is,
+B : once you actually  serious  actually  effort  in.
+E : Mmm.
+B : And, uh, you really  right.  So I think
+H : I know . Yep.
+B : NIST or L_D_C, or somebody like that I think is much better shape to do all that. We - there will  doing.
+G : Mm-hmm.
+H : Oh! Probably not.  did  actually. Didn't you read a digit string?
+F : I was - Yeah, I was - I was here - I was here before once.
+E : You were here at a meeting before.
+F : Oh, I think  Did  I? I don't know.
+H : I'm pretty  meeting.  Thank you.
+G : You don't - you don't have to leave  for it. But I just - you know.
+H : Well I can't,  in.
+A : Yeah.
+F : I don't care. You can do whatever you want with it . That's fine.
+B : Yeah.
+B : Uh, transcriptions.
+G : Each - I gave each of them, uh, their own data set. Two of them have already finished  the data sets.
+G : And the meetings run, you know, let's say an hour. Sometimes as man- much as an hour and a half.
+G : Oh, it's - what I mean is one  meeting. Each - each person got their own meeting. I didn't want to have any conflicts of, you know, of - of
+G : and so - And, uh, meetings,  you know, I think that they're - they go as long as a -
+G : Uh, right now all eight of them have differe- uh, uh, additional  data sets. That means potentially as many as ten might be finished by the end of the month.
+G : Hope so. But the pre-segmentation really helps a huge amount. And, uh, also  here  really helped a r- a lot
+G : in  terms of clearing - clearing up h- hearings that involve overlaps. But, um,
+G : just out of curiosity I asked one of them   taking  data  set. She said it takes about,
+H : or  Yep. It's pretty good.
+G : O_K. Uh, these still,  finished,  they're  their  pass through. They still need to be edited and all but -
+G : uh, looking, uh, uh, spending a lot of time with - I'm not quite sure the connection, but spending a lot of time with the ATLAS system.
+G : And I guess that - I mean, I - I need to read  up  on that. And there's a web site that has lots of papers. But it looks to me like that's
+G : the name that has developed for the system that Bird and Liberman developed graphs approach.
+G : So what he  wants me to do and what we - what we
+G : will  do and - uh, is to provide them with the u- already transcribed meeting
+G : for him to be able to experiment with in  this ATLAS
+G : System. And they do  some  at least that's  our  them   that  format, and see how that works out.
+G : I - I - I explained to him in - in detail the, uh, conventions that we're using here  in this -
+G : Um, independently  he's interested in the consistency of the encoding and that sort of thing. O_K, um -
+A : Sorry, can you explain what the ATLAS - I'm not familiar with this  ATLAS system.
+G : Uh, well Adam's  I  acquaint  myself more with it. But, um,
+G : alternative, uh, choices  that you could use for each -
+H : I don't remember the acronym. The - the one - the - what I think  you're referring to, they - they have this concept of an an- annotated transcription graph representation.
+H : And that's basically what I based the format that I  did -
+H : I based it on their work almost directly,  very,  very similar. And so it's - it's a
+H : data representation and a set of tools for manipulating transcription  graphs of various types.
+G : Including L_D_C. think  so.
+G : So, um, um - and, you know, in terms of like the conventions that I'm  I've  adopted,
+G : it - there - there's no  all.
+G : Um, O_K, now I also  wanted to say in a different - a different
+G : Brian Kingsbury.  So, um, I corresponded briefly with him. I,
+G : uh, c- I - He still has an account here. I told him he could S_S_H on and use multi-trans, and have a look at the already done, uh, transcription. And he - and he did.
+G : will not  time  information.
+G : And, um, that's, uh - You know, I need to get back to him and - and, uh, you know, explore that a little bit more and see what they'll be giving  us in specific, but I just haven't had time yet.
+G : Apparently  - Well, I get the sense they're kind of like that. Like it's like a pool of - of somewhat uh, secretarial -
+G : I don't think that they're court  reporters. I don't think they have the special keyboards and that - and that type of training. I - I get the sense they're more secretarial. And that, um,
+G : uh, what they're doing  is giving them -
+E : Like medical  transcriptionist type people -
+H : products,
+E : Oh, so they're hiring them, they're coming. It's not a service  to.
+H : Well they - they do  understanding  this   does  speech  product.
+E : I  see.
+E : I  see.
+G : Up to now it's been monologues,  my  Brian  himself  downloaded - So -
+G : So, um, Adam sent them a C_D and Brian  himself  downloaded -
+G : uh, cuz, you know, I mean, we wanted to have it so that they were in familiar f- terms with what they wanted to do.
+G : He downloaded
+G : one channel per audio  transcribing from one channel.
+G : And then what he's  check  it,
+E : Oh.
+G : a- before they go be- beyond the first  one.
+E : So each person gets one  these  channels  -
+H : Well, but that's O_K, because, you know, you'll do all  combine  them.
+G : I have t- I, you know I -
+C : Yep.
+G : do  really  my  case -
+E : Well if you're tran- if you got that  there  -
+H : No, no. We're talking about close  desktop.
+D : No, close  talk.
+B : Are  you?
+H : I sure hope  foolish  otherwise.
+G : Well I th- I so.
+A : I - I think it's sort of hard just playing the - you know, just having played  the individual
+A : files. And I - I mean, I know  sounds  like. I'm sort of familiar with -
+H : One side.
+G : And especially  lot  of these -
+A : Uh, it sort  depends  where you are in -
+G : Well, except I can say that my transcribers use the mixed  signal mostly
+H : So.
+G : unless there's a huge  disparity in terms of the volume on - on the mix.
+G : In which case, you know, they - they wouldn't be able to catch anything  But - but really -
+H : Well I think that - that might change if you wanted really fine time  markings.
+G : Well, O_K. Yeah, well -
+B : But they're not giving  f- really fine time markings.
+A : Actually, are th- so
+A : are they giving any  time markings? In other words, if -
+G : Well, I have to ask him. And that's - that's my email to him. That needs to be forthcoming. But - but the, uh - I did  say  that
+G : it's hard to follow one channel of a conversation even  know  the people,
+G : and if you're dealing furthermore  highly  network  never  heard  one  of these people was - was
+G : "I don't really know  abbreviations  "but I just put them in parentheses cuz that's the - that's the convention and I just" - Cuz you know, if you don't know -
+H : They also all have h- heavy accents.  The networks group meetings are all -
+E : Given all of the effort  that
+E : is going on here  M  doing it?
+E : Why not just do it all ourselves?
+B : Um, it's historical. I mean, uh, some point ago we thought that
+D : No, just -
+C : Uh-huh.
+B : and, um, here's, uh, a - a, uh, collaborating institution that's volunteered to do  it.
+B : in terms of time, money, you know? And it still  thing  but -
+E : I'm just wondering now  - Well, I'm - I'm wondering now if it's -
+A : Actu- yeah, Mar- Mari asked me the same question  as sort of -
+B : We'll  see. I mean, I think, th- you know, they - they - they've proceeded along a bit. Let's see what comes out of it, and - and, uh, you know, have some more discussions with them.
+H : So, um, Liz, with - with the S_R_I recognizer, can it make use of
+H : some  time marks?
+H : I - I guess I don't  means.
+A : in general  because  some  I'd say, like,
+A : I don't know, at least half  on average are g- are ha- are -
+A : have a lot of cross-ta- sorry, some of the segments  cross-talk.
+A : short
+A : segments if you're gonna do recognition, especially  forced alignment. So,
+A : uh, Don has been taking a first  stab actually using Jane's
+A : first - the fir- the meeting that Jane transcribed which we did  Thilo,  uh, I think
+A : told me why this was,  so -
+C : No,  th-
+C : Yeah. No. They - they were not switching  adjusting  them, so.
+H : Adjusting.  Oh.
+A : @@
+C : And aft- after a minute  better.  So -
+A : So we have to sort of normalize the front-end and so forth, and have these small segments. So
+A : we've taken that and chopped it into pieces based always  your  -
+A : your, um, cuts  mixed  signal.
+A : And so that every - every speaker  cuts.  speech  don't  don't  run it through. And we base
+A : that knowledge  transcription.
+A : Um, the problem  no  time  marks,
+A : you know, in the signal  heard  word.  And so -
+H : Oh, I  length.  I see.
+A : par- paragraph of - of talk, uh, I don't know how they do  this. Um, we actually don't know which piece goes
+E : Well you would need to - like a forced alignment before you did the chopping,  right?
+A : No,  used  Jane  doing  not,
+H : It's already chunked.
+A : they have a chunk and then they transcribes in  choose  the chunk or now they use a
+A : sort of heuristics and  I think .
+A : Th- but there's going to be a real problem, uh, even  silence  these,
+A : uh, the transcripts from I_B_ M,  don't  where  words  which  belonged  worried about
+E : a - a forced alignment?
+H : That's what she's saying,  can't.
+A : long  need  to know -
+A : you can always  up  reference  chop.  So -
+B : I - I think  are,  um,
+B : yeah, I'm sure  will  and so we - we have to have a dialogue with them about it. I mean, it sounds like
+A : Yeah. Maybe they have some - you know, maybe actually there is  grained,  maybe the transcribers -
+A : uh, I don't know, maybe it's saved out  pieces  something.  That  help.  But,
+G : Yeah. I - I need to - to write  to him. I just - you know, it's like I got over-taxed with the timing.
+A : Right. But the - it is  true  great.  I mean, that's - that's a good length.
+G : Well, I - I  fun  have  one already of that first m- of the meeting that
+G : uh, the first transcribed meeting, Do you have a - could you generate a pre-segmentation?
+C : Um, I'm sure I have some but - but that's the one where we're, um, trai- training  on, so that's a little bit -
+H : Oh.
+G : Oh, I see. Oh, darn.  course,  of course, of course. Yeah, O_K.
+C : It's a little bit at odd to -
+C : Yeah.
+A : And actually as  transcripts
+A : um, we can try  - I mean,
+A : the - the more data we have to try the - the alignments  better.  So it'd be
+G : Liz  Tuesday  finished  and then give them to you.
+B : I guess the other thing, I - I can't remember if we discussed this in the meeting but, uh, I know you and I talked about this a little bit,
+B : we're still a bit slow on feeding - at that  O_K, um,
+B : uh, it's not really a problem at the moment cuz we haven't reached  meetings?
+B : And the other one is, um, uh, is there some good use that we can make of the transcribers  things?
+H : We had
+G : And there is one  also  we discussed which was when, uh, Dave finishes the - and maybe it's already finished - the - the
+G : modification to multi-trans  overlaps.
+G : Uh, then it would be very - these people would be very good to shift over to finer grain encoding of overlaps. It's just a matter of, you know, providing - So if right now you have
+G : two overlapping segments in the same time  database  interface,  it'd be possible to, um,
+G : you know, just do a click and drag  each  each  segment.
+B : uh, we had s- had some  high  level
+B : Second was, uh, somewhat lower level just doing these more precise timings. And the third one is - is, uh, just a completely wild hair brained idea that I  have which is that, um, if, uh -
+B : if we have time  and people are able to do it,
+B : to take some subset of the data and do some very  instance,  uh, marking in some overlapping -
+B : potentially overlapping fashion, uh, the value of, uh, ar- articulatory  features.
+G : Yeah.
+B : You know, just sort of say, O_K, it's voiced from here to here,  here,  and so forth. Um, as opposed to doing
+B : phonetic - uh, you know, phonemic and the phonetic analysis, and, uh, assuming,  uh, articulatory feature values for those -
+B : those things. Um, obviously that's extremely  time-consuming. Uh -
+G : that, uh, being able to code that there's a - a fricative  vowel  that was.
+G : I think vowels - vowels are I think harder.
+C : Yeah .
+B : Well, yeah,  also  it's just the issue that - that when you look at the - u- w- u- u- when you look at Switchboard for instance
+B : very close up there are places where whether it's a consonant  vowel  still  calling  phone
+H : Yep, just features.
+B : better  way to do it but it - but -
+G : That's nice.
+E : Acoustic  psychological  categories. Yeah.
+B : ground work for people who were building statistical models that allowed  for overlapping changes, different timing changes as opposed to just
+A : O_K.
+A : But is - is the goal  meeting  data, like
+A : so that you can do far  of those gestures or -
+A : or is it because you think there's a different kind of actual production
+B : that  purpose I'm just
+B : And then you have i- and then - and then it's natural in all  senses, in the sense that you have microphones that are at a distance that
+A : I  see.
+B : you know, one might have, and  naturally,  right? So -
+B : um, if you say w- O_K, we've limited the use by some of our, uh, uh, censored  choices,
+B : we don't have the video, we don't - and so forth,
+B : but there's a lot  annotation  choices.
+B : And, uh, most of the things we've talked about have been fairly high  level, and
+B : being kind of a bottom-up person I thought maybe we'd, do some of the others. Yeah.
+G : It's a nice balance. That would be really nice to offer those things with that wide  range. Really nice.
+B : Yeah and hopefully  someone would make use of it. I mean, people didn't -
+B : uh, I mean, people have made a lot  TIMIT  its  well  I think has been very useful for a lot of people. So -
+G : Cool.
+A : sort of make a pitch for trying to collect  Um,
+A : I- actually I talked to Chuck Fillmore and I think they've
+A : what, vehemently said no before  but this time he wasn't vehement and he said
+A : you know, "well, Liz, come to the meeting tomorrow and try to convince  try. Go to their meeting tomorrow and see
+G : Good.
+B : Cuz they have something like three or four different meetings, right?
+A : a very different type  talk  definitely  end  meeting, probably.
+D : Talk -
+E : You mean in terms of the topic  topics?
+A : the fact that they're describing abstract  and, uh, just dialogue-wise, right.
+A : Um, so I'll try. And then the other  thing is,
+A : I don't know if this is at all useful, but I asked Lila  if I can
+A : departments in this building
+A : to see if there's any groups that, for a free lunch, if we can still offer  might be willing -
+H : Yeah, I guess you - you can try  but -
+H : The problem  so  much of their stuff is confidential.
+H : It would be very  hard for them.
+G : Also it does  way  demographic.  I mean, it seems like we - we had this idea before of having like linguistics students brought down for free lunches and that's a nice idea.
+A : Is - is  in  these departments?
+E : Does - does John Ohala have weekly phonetics lab meetings?
+A : So I actually wrote to him and he answered, "great, that sounds really interesting". But I never heard back because we didn't actually advertise openly.  We a-
+A : I told - I d- asked him privately.
+A : Um, and it is  folks.
+H : You might  them   a free lunch. But, um,
+H : it would be nice  me  who knew how to set it up and could do the recording so u- I didn't have to
+A : Exactly,  and - and -
+B : He- he's supposed - he's supposed to be trained to do it.
+A : Yeah.
+A : Plus  we could also get
+H : O_K, next week  you're going to do it all.
+D : Yeah.
+A : I would do my best.
+A : Um, the other  thing is that -
+A : transcribers can do, like dialogue act tagging, disfluency tagging, um,
+A : something we're y- language  modeling. And Mari's also interested in it, Andreas as well. So if you wanna
+G : Of course some  are  disfluency  tagging
+G : to some degree already.  Yeah.
+A : Great.  So a - a lot of this kind of -
+G : They'd be really good. They're - they're very - they're very consistent. Uh, I wanted to - whi- while we're - Uh, so, to return just briefly  meeting  data, um -
+G : I have two  questions. One of them is, um, Jerry Feldman's group, they - they, uh, are they -
+G : I know that they recorded one  meeting. Are they willing?
+B : I think they're open to it. I think, you know, all  these things are - I think there's -
+B : we should go beyond, uh, ICSI but, I mean, there's a lot  of stuff happening at ICSI that we're not getting now that we could.
+A : Oh, that we could.  thought  twice  already. If that's not the case then -
+B : No, no. No. So th- there was the thing  there  he hadn't -
+B : no  meeting.  smaller  week,
+B : and, uh, the notion was raised before that that could happen. And it just, you know - it just didn't come together  but -
+E : Well, and - and the other  too  originally  said "no" they didn't know about this post-editing
+G : Oh.
+B : Yeah. Yeah.
+G : That's important.
+B : Yeah, so I mean there's possibilities there. Jerry's  networks
+H : Well, I don't know if they meet  recording.
+B : want
+H : Um, ugh, what  was his name?
+H : it sorta trickled off.  They - and they stopped -
+B : down  people  people  is O_K.
+H : Well he was sort of my contact,  running  it now. So.
+A : Yeah, I mean, it - One  bizarre  but,
+A : I'd really like to look at - to get some
+A : And so I was thinking if there's any like Berkeley political  perfect.
+A : Well, you know, something - Um -
+C : Yeah.
+D : Yeah.
+A : Well, O_K. No, but maybe stu- student,  film-makers,  Something  a little bit
+H : Yeah.
+F : Yeah. Exactly.
+G : Yeah.
+G : Yeah, of course there is  problem  later
+A : colorful.
+G : Yes. Really.
+G : Well there was  A  idea, but -
+B : problem  there in terms of, uh, the
+G : And I had one other - one other aspect of this which is, um, uh, uh, Jonathan Fiscus expressed
+G : primar- uh y- a major  interest in having
+G : meetings which were all English speakers. Now he wasn't trying to shape us in terms of what we gather  but
+G : that's what he wanted me to show  him.
+G : So I'm giving him our, um - our initial meeting  English.  have  a lot of all English meetings right now.
+H : Well if he meant and non- British  zero.
+G : He doesn't care. No. Eh, well, British  is O_K.
+H : British is English?
+B : Why?
+C : Ooo, ooo.
+B : I bet  did.
+G : Oh, really.
+E : Knowing the application -
+A : That's -
+A : I was thinking, knowing  is  all  -
+B : I remember a study that B_B_N did where they trained on - this was in Wall Street Journal days or something, trained  tested  on, uh, different native speakers from different areas.
+B : uh, the worst  match was people whose native tongue was Mandarin Chinese.
+B : The second
+B : the - the - the - German  Swiss  Yeah, so it's - so I think, you know, if he's - if he's thinking in terms of recognition kind of technology I - I - I think he would probably want, uh
+B : American English, yeah. It - it - yeah, unless we're gonna train with a whole bunch of -
+H : I wonder if we have any.
+G : I think that the - Feldman's  meetings tend to be more that way, aren't they? I mean, I sort of feel like they have -
+H : Maybe.  Maybe.
+B : tough,  artistic  endeavor? I mean, film-making or something like that. You'd think like they would be -
+D : A film-maker.
+A : but it's a matter of opinion kind of thing.
+G : It's be fun.
+A : Uh, anyway,  if you - if you have ideas -
+H : RASTA. P_L_P. RASTA. P_L_P.
+F : We  we  discussion  one day.
+D : Yes.
+E : A- any department that calls itself science
+D : Department. Yeah.
+F : Uh, I  could make that pretty -
+D : Computer sci-
+G : We could get Julia Child.
+G : I know.
+H : That's  -
+A : I'm - I'm actually serious because, uh, you know, we have the set up here and - and that - that has
+H : Got a ticket.
+H : Well I had asked  business  school. I could -
+F : I know -
+A : student groups c- like clubs,  that.  Not  not  -
+H : Uh, the business  speech.
+H : But when they lost interest in speech they also
+H : stopped answering my email about other
+H : We should probably bleep that out.
+F : I heard  that at Cal Tech they have a special room - someone said that they had a special room to get all your frustrations out that you can go to and like throw things and break things.
+B : Yeah, now that
+H : Th- that's  not what we want.
+A : Well, far field mikes can pick up where they threw stuff on the wall.
+F : Yeah.
+B : Yeah, but we don't want them to throw the far field mikes
+F : Yeah.
+A : Oh. Yeah, right.
+H : " Please  that  direction."
+B : Anyway.
+H : Padded cell.
+H : There was a dorm  room at Tech that, uh, someone had coated the walls and the ceiling, and, uh, the floor with mattresses.
+H : The entire room.
+B : I had as my fourth  @@ ?
+G : Pre-processing.
+A : Well I think that - that was just sort of - I- I already asked Thilo  but
+A : um, people who are doing any kind of post-processing,  whether it's
+A : to separate  both,
+A : um, that we can sort of try  out as we're running recognition.
+A : Um, so, i- is that - Who else  is work- I guess Dan Ellis and you
+B : Yeah, and Dave uh Gel- Gelbart again, he's - he's interested in - in fact we're look- starting to look at some echo cancellation kind of things.
+A : O_K. Right .
+H : an issue with the close talking mikes, but who knows?
+A : I  bad
+B : by, uh - by any room acoustics or is it just - uh, given that it's close it's not a problem?
+A : It doesn't seem  cross-talk.
+H : e- I bet with the lapel  mike there's plenty, uh, room acoustic but I-
+C : Yeah .
+A : That - that may be true. But I don't know how good  get  That's true.
+H : yeah, what you said, cross-talk.
+A : A_S_R, uh, techniques. And so it'd be w- good  know  about it.
+E : not  talking they're picking up
+E : signals from other  and that's
+A : R- right, although if they're not  talking,  using the -
+A : the inhouse  K  because
+A : the t- no one transcribed any words  there and we throw it out.
+A : But if they're talking at all and they're not talking the whole time, so you get some speech and then a "mm-hmm", and some more speech, so that whole thing is one chunk.
+A : And the person in the middle who said only a little  around  it,
+A : that's  problem.
+G : does  Jose's  well,  And - and he also, he was -
+G : I was t- I was trying to remember, you have this interface  laptop  that you - you had different visual displays as speech and nonspeech events.
+D : Yeah, c- Yeah. May - I - I only  colors  for the different situation.
+D : But, eh, for me and for my problems, is uh - is enough.
+D : eh, in a simp- sample view, uh, to, nnn, to compare  assessment
+D : uh, few situation, eh, I consider for acoustic event is enough to @@ . I -
+D : I - I see that, eh,
+D : @@
+D : Because, uh, before,  you - you are talking about the - the possibility to include in the Transcriber program eh, um, a set of symbols, of graphic symbol to -
+D : t- to mark  during the transcription  transcription . No?
+G : Well, you're saying - So, uh, symbols for differences between laugh, and sigh,  other  kind of thing?
+D : Yeah, yeah. The s- the symbols, you - you talk of before.  No? To - to mark -
+G : Well, I  symbols  main  I  interface  is - is just that we'll be able to more finely c- uh,
+G : time  also  thinking  sounded
+G : to me, Liz, as though you - and, uh, maybe I didn't q- understand this, sounded  part  you're  segments  particular  together.
+G : And th- so if you have like a p- a s- you know, speech from one  then you cut out the part that's not that speaker, and you
+G : combine segments from same  them   right?
+A : Well we try  to find as close
+A : of start and end time of - as we can  to the speech from an individual speaker,
+A : because then we - we're more guaranteed that the recognizer will - for the forced  time  boundaries,
+A : because from those time  boundaries then the plan is to compute prosodic features.
+A : And the sort of more  isn't  align  the more
+A : errors
+A : Um, so, you know, that - that - it would help  to have
+A : either  very  is
+A : um, or  to have very -
+A : to have closer,  um,
+A : time - you know, synch  speech  transcribed  both.  And it's just sort of a open world right now of
+A : exploring  transcribing  here  good.
+A : Uh, the I_B_M one is more - it's an open question  right now. And then the issue of
+A : like global  processing of some signal and then,
+A : you know, before we chop it up  another  way we can improve things in that.
+E : What about increasing the flexibility of the alignment?
+E : Do you remember that thing that Michael Finka  did? that experiment he did a while back?
+A : Right. You can, um -
+A : Hhh.
+A : The problem  acoustic  low,  um,
+E : Oh, so that's  the problem, is the - the signal-to-noise ratio.
+A : Yeah. It's not  he  did is allow you to have,
+A : uh, words that were in another segment  edges  of - of segmentations.
+A : Right, things - things near the boundaries where if you got your alignment  there  chop.
+A : Um, and this problem is a little bit j- more global.  inside
+A : signal  eat,  tends  to do that. S-
+A : but we probably will  have to do something like that in addition.
+A : Anyway.  So, yeah, bottom - bottom line is just I wanted to make sure I can
+A : be aware of whoever's working on these signal-processing  techniques for,
+B : K,  uh
+B : tea has started out there I suggest we c- run through our digits and,
+B : Uh,
+B : So,
+B : Transcript three zero three one dash three zero five zero.
+B : O_ three six eight
+B : zero four nine six zero
+B : one seven zero five zero
+B : two nine
+B : three
+B : four
+B : six two
+B : seven two O_ four six four O_
+B : eight four one five two eight one
+B : nine
+B : O_ nine three seven seven six two
+B : zero
+B : one O_ nine
+B : three seven six O_ O_ two eight
+B : four two
+B : five four nine five
+B : six seven
+B : seven
+B : eight
+B : nine zero.
+H : Transcript three zero seven one three zero nine zero.
+H : zero zero four
+H : two one seven
+H : three
+H : four three two five
+H : five six three nine eight two six
+H : six
+H : seven O_ seven four O_
+H : eight
+H : O_ one O_
+H : zero five
+H : one four zero six
+H : two
+H : three nine six
+H : four
+H : five zero seven nine
+H : seven one seven six one seven
+H : eight five O_ three eight seven two
+H : nine seven zero four two nine nine
+H : O_ nine nine
+H : zero nine three.
+E : Transcript three one one one dash three one three zero.
+E : two eight seven eight zero two four
+E : three O_
+E : four O_ eight O_
+E : six three one six eight eight four
+E : seven six
+E : eight five
+E : nine eight nine
+E : O_
+E : zero
+E : one zero six six five
+E : three three
+E : four nine six four O_ O_ eight
+E : five nine zero
+E : six eight nine
+E : seven nine eight
+E : eight O_ four
+E : nine O_
+E : zero three
+E : one six zero
+E : two eight one.
+C : Transcript three one five one dash three one seven zero.
+C : four four nine nine
+C : five five zero six zero
+C : six
+C : seven
+C : eight O_
+C : O_ seven seven O_ three nine four
+C : zero four seven zero six
+C : one six eight two four
+C : two nine,
+C : three nine nine
+C : four
+C : five O_
+C : seven two six zero
+C : eight four
+C : nine five six seven seven O_ one
+C : O_ eight
+C : zero
+C : one
+C : two O_ one eight
+C : four two six four zero one nine.
+F : Transcript three three -
+F : zero six seven
+F : one three zero seven four
+F : two seven
+F : three eight six
+F : four
+F : five zero
+F : seven two
+F : eight four
+F : nine six O_ four five
+F : O_ five O_
+F : zero eight eight one
+F : one
+F : two
+F : four seven three nine seven
+F : five four eight two
+F : six six four five seven
+F : seven nine eight
+F : eight
+F : nine
+F : O_ O_ seven one two three one.
+A : Transcript two eight nine one, two nine one O_.
+A : four one eight
+A : five two seven seven two four zero
+A : six five three four seven
+A : seven nine one six
+A : eight six three
+A : nine O_
+A : O_
+A : one two five
+A : two four
+A : three four seven five eight four O_
+A : four five seven
+A : five
+A : six O_ nine four
+A : seven zero five six nine three two
+A : nine five zero nine
+A : O_ six
+A : zero three
+A : one nine one O_ five
+A : two
+A : three.
+D : five zero three
+D : six
+D : eight one six nine zero zero eight
+D : nine one nine eight seven
+D : O_ six O_ five
+D : zero four eight zero two eight four
+D : one
+D : two
+D : three O_
+D : five
+D : six five six
+D : seven four zero
+D : eight nine three zero nine
+D : nine nine six four four
+D : O_
+D : zero zero three seven five
+D : two one one O_ eight eight nine.
+D : three one
+D : four five zero seven four
+D : five six six three.
+G : Transcript two nine nine one dash three O_ one O_.
+G : eight five
+G : nine
+G : O_
+G : zero
+G : one
+G : three one five O_ five
+G : four four O_ O_ nine four two
+G : five six seven four six eight three
+G : six seven
+G : seven eight four
+G : eight
+G : nine O_ O_ one
+G : zero one six one three five zero
+G : one five seven
+G : two eight nine
+G : three
+G : four
+G : five zero eight seven four
+G : seven one one
+G : eight four zero three zero five one.

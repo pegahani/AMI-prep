@@ -1,0 +1,769 @@
+D : That's a different thing.
+C : shift things and th- the - the symptom  is typically that you -
+C : In fact, uh m- my brother's a gerontological psychologist and he - he uh
+C : gets down to sort of only three measurements that are good enough st- statistical   predictors of all the rest of it.
+E : Yeah.
+C : have
+C : Oh. Yeah. About  old  I am. O_K.
+A : Yep. We can edit that out if you want.
+D : Oh, that's optional.
+D : You know .
+A : This  time the form
+C : It also  later.
+C : Because Jane uh is not here  yet.
+C : Uh, she's probably least  involved in the signal-processing stuff so maybe we can just -
+C : just uh, I don't think we should go though an elaborate  thing,
+E : The  @@  -
+C : um
+C : Uh. Right now, that  he's not really showing any kind of uh distinction,
+C : but uh - but  we discussed a couple of the possible things that uh he can look at.
+C : Um. And uh one is that uh this is all in log  energy and log energy is basically compressing the distances
+C : uh between things.
+C : Um uh temporal
+C : standard deviation in the log domain,
+C : may not be the right thing to do.
+D : Are these the long  term means? Like, over the whole - I mean,
+D : the means of what?
+D : All the frames in the conversation?  Or of things that -
+C : Neither. It's uh between the pauses uh for some segment.
+C : he's uh measuring  at the frame level -
+C : of what  -
+C : But one thing he was pointing out is when he - he looked at a bunch of examples in log domain, it is  actually pretty hard to see
+C : the change.
+C : And you can sort of see that, because of j- of just
+C : if you sort of have log-X_  plus
+C : log- X_ ,
+D : Yeah, maybe it's not log distributed
+C : that's the log  X_  log  two  effect of having two of them.
+E : @@
+D : But you could do like a C_D_ F  know  that the distribution here is
+C : Actually, a P_D_F .
+C : But, either  way.  Yeah.
+C : B- Yeah, but I think also
+C : and can not  see
+C : a change in how big the - the signal is,
+C : I think you should at least  be able,
+C : doing casual looking and can get the sense, " Hey,  there. " and then you can play around with the measures.
+C : So. And when he's looking in straight energy  is,
+C : Actually we ca- had a question  Adam  in this.
+C : uh speech segments or s- or sampling over the -
+C : uh the amplitude equalization,
+A : um sampled ten minutes randomly.
+C : Right, O_K. So then that  means that someone who didn't speak
+C : very much
+C : probably  i- i- i-
+A : Yeah, this was quite quick and dirty, and it was just for listening.
+C : is - is -
+A : And for listening  well.
+A : Not a good measure.
+C : different people do  that there is -
+C : we were agreed that in addition to that
+C : uh there should be
+C : s- stuff related to  pitch and harmonics and so forth.
+C : Well, actually, you do  have some distributions here,
+C : uh for these  cases.
+C : um uh,
+C : separated.
+E : This is the - the first derivate of log of frame  energy
+D : What  -
+D : Frame energy.
+A : Except that
+D : I mean, what I meant is, even if you use linear,  raw
+C : "Number" -
+D : measures, like raw energy or whatever,
+D : we shouldn't make any assumptions about the distribution's shape,
+C : Yeah. But - And so in - in these  got
+C : just  derivatives,
+D : Yeah.
+D : Right. So, we don't
+A : Interesting
+E : I - I - I haven't the result
+D : Well it might be just good to know what it looks like.
+C : That's uh single  feature
+C : looking at the distribution, is  a good thing to do.
+E : Catal-  uh - Combining the different possibilities of uh the parameters.
+E : n- two combination.
+E : combination of two, of energy and derivate -
+C : Yeah, but - but what she's saying
+C : is, which is right, is le-
+C : let's start with the most  basic  wh- thing,
+C : which is we're  arguing
+C : uh if you look  energy,
+C : there'll be more
+E : That's right.
+C : just take a look at the distribution  things,
+C : much  plotted  here,
+C : just uh do it -
+C : Well in this case you have three.
+C : You have the silence,  and that - that's fine.
+C : worsened  by the -
+C : looking at regular  energy,
+C : looking at log  energy, we were just proposing that maybe it's -
+C : you know, it's harder to see with the log energy,
+C : does   a particular choice of normalization make it better?
+C : But I had maybe made it too complicated
+C : early on, that you look at scatter  two  dimensions.
+C : Let's start off just in one,
+C : uh, with this feature.
+C : I think that's probably the most basic thing, before anything very complicated.
+C : pitch-related  things are - are - are going to be a - a really likely candidate
+C : to help.
+C : Um
+C : But
+C : uh your  intuition
+C : from looking at some of the data,
+C : that it did  up,
+C : talking,
+C : match your intuition.
+C : having -
+C : having this table,  with the standard deviation, the variance and so forth,
+C : it's harder  to interpret than just looking at the -
+E : that eh in several - oh e- eh several times eh you have an speaker
+E : eh come  with another speaker with high energy and the
+E : Because there reach very many  @@
+C : This is -
+C : I w- want to point  to visual things,
+C : "If it's a reasonable  all,
+C : there's some  separation."
+D : So. Locally.  And the other thing is I-
+E : just locally , yeah.
+D : Sorry. I -
+A : I was just going to say that - that
+A : right now we're just exploring.
+A : What you would imagine eventually,
+E : Yeah.
+A : does a good job at one  another  type of overlap.
+C : thirteen or fifteen or twenty features to look at.
+C : Because something is a good  feature
+C : that you shouldn't  any  of that unless you know
+C : the individual  ones, at least, have -
+D : Well, especially  normalizing.  I mean,
+D : it's really  pick a normalization that matches the distribution for that feature.
+D : e-
+D : all  speech,
+D : the speech from just,  say, Morgan,
+D : And just  just  their overlaps,
+D : you know, if you can detect something that  can't  that  way, there's no
+A : No prayer.
+D : helpful  cleaner  individuals and then that combination alone.
+D : Plus,  I think it
+D : The m- the right model will be easier to see that way.
+D : Adam,  cuz he has a lot of overlaps and some other speaker who also has e- enough speech and just
+D : three  cases of Adam and the other person and the overlaps, maybe -
+D : and just look at the distributions,  is  a clear
+B : you can see
+B : eh you know without
+B : the
+B : extra
+D : Cuz if energy doesn't matter there,  like -
+E : To study  individual?
+B : Well, you - you - you don't have to study everybody
+A : That was a great
+D : you know, there's a conservation of energy and everybody -
+D : both   all.
+B : what if the equipment  adjusts somehow,
+C : no we don't  that.
+B : O_K.
+A : But I think that's what I was saying  about
+A : overlap.
+D : and within  those types,
+D : like as Jose  sounded like a backchannel overlap,
+D : meaning the kind that's encouragement,  like "Mm-hmm.", "Great!", "Yeah!"
+D : And it doesn't  floor.
+D : some of those,  as you showed, I think can be discriminated by the duration of the overlap.
+D : at one of our meetings - He's
+D : in mid-January. He's interested in trying to distinguish the types of overlap.
+C : Well I -
+D : help by categorizing some of them and then,
+D : you know, look at that.
+C : actually still  recommend that he do the overall thing
+C : because quickest  thing for him to do.
+C : and look  at it.
+C : And then  stuff
+D : Yeah, no. I didn't  mean that -
+D : for you  to do that, but I was thinking if -
+D : if Don and I are trying to get categories  data  for you, and we say this is what we think is going -
+D : So you don't have to worry about it. And here's the three types of overlaps. And we'll - we'll do the labeling  for you.
+C : Hm- hmm.
+D : Yeah, that we would be working on anyway.
+E : If there's time.
+D : Then maybe try  cases,  and see if that helps, or -
+C : from the means  that you gave,
+C : I don't have any  sense
+C : you know, there are any  should  be
+C : should be somewhat  separated.
+E : Yeah.
+C : I - I would still guess that if they are not separated at all,
+C : but
+C : For instance, I mean I wouldn't expect that it was very common
+C : overall,  that
+C : lower,  would.
+D : a case where - where you would never  know that unless you actually
+C : I mean. No. It could - it probably does  happen sometimes.
+D : It might  case,  comes  non-backchannel  cases.
+D : Because in back- Most  people when they're talking don't change their own
+D : predicting  the backchannel.
+D : And sometimes it's a nod and sometimes it's an "mm-hmm". And the "mm-hmm  energy.
+D : other  cases might.
+C : e-
+C : e-
+C : and - and again what they - what difference there was  would kind of be lost in taking the log,
+C : so,
+D : Well, it would be lost do.  It just -
+C : as well.
+C : Well, it won't  big.
+D : I mean, even if you take the log,  measures. So.
+A : Sure, but tone  might be very
+A : You could imagine doing specialized  types  of backchannels,
+C : I guess my point is, if you're doing essentially a linear separation, taking the log first does  in fact make it harder to separate.
+C : it's a nonlinear  does  in fact change the distinction. If you're doing a non- if you're doing some fancy thing then - then yeah.
+C : But anyway,  disagreeing on any of this, we should look at it more uh - more finely,
+C : between  all.
+C : And then you can move on to the uh
+C : uh more pitch related stuff.
+E : Not  consider the log
+E : @@
+C : Have you started looking at the pitch related
+E : The - ?
+C : Pitch related?
+E : I agree with you
+C : Oh, that's not  meant.
+C : we certainly  see  this but I - I - I -
+C : I certainly  better  than the
+C : Yeah.
+E : O_K.
+E : I - I had to finish
+E : by the moment with the
+E : and - and concentrate my - my energy in that problem.
+C : O_K. But I think, like, all these derivatives and second derivatives and all these other very fancy things, I think I would just sort of look  and then
+C : get into the harmonicity  as - as
+C : um, I know Adam  form  stuff he wanted to talk about
+B : I wanted to ask just s- something on the end of this  top- topic. So,
+B : at the bottom of that I did  proposal,  through  coding  involved  in s-
+B : you know, with reference - and you know I said that on my - in my summary,  that
+B : overlapped  with or overlapping
+B : but that in itself is not informative  types  of overlaps they're involved in so
+B : I  types  that.
+D : That  great.  great.
+B : it sounds like you also have uh something in that direction.
+D : We have nothing - You know, basically, we got environment
+D : had  would  or we'd have to, to get started,
+D : but if - It -
+D : it would be much better if you  can do it.
+D : You'd  at doing it also because
+B : Interesting.
+D : I don't have  a good feel for how they should be sorted out, and I really didn't wanna
+B : Mm-hmm.
+D : I think that's  effort in and of itself,
+D : because you can read  turn out and,
+D : You know, it's always  an interesting question.
+D : That'd be great.
+D : That'd be really  funding
+D : he - we're not paying him the full
+D : R_A-ship for - all  time.  So.
+D : data  where - where -
+E : we can consider is eh the duration.
+E : Because is possible eh some s- s- um eh
+E : some classes eh has eh
+E : a duration very short
+D : Yeah, definitely.
+B : It may be correlated.
+E : we have overlapping with speech.
+E : I think,
+E : window   of normalization,
+E : normalization window.
+E : Eh because eh if we have a type of,
+E : a kind of eh
+E : eh to normali- i- i-
+E : that if we normalize eh with eh
+E : eh by the left eh ri- eh
+E : eh oh a small window
+B : Mm-hmm.
+D : Yeah, that's true. The window shouldn't be larger  backchannel.
+D : Yeah.
+E : mmm
+E : bigger
+E : eh the effect
+E : stronger
+E : eh
+E : only a
+E : window
+E : Not  -
+C : around  overlapping  but -
+D : Well it's a sliding  window,  right? So if you take the - the measure
+D : in the center of the overlapped piece,
+D : something.  really  huge
+E : to consider only the - the small window
+D : You know, you shouldn't be more than
+D : like - definitely  three  times as big as your -
+D : as your backchannel.
+C : I'm not sure that's true.
+B : It is  empirical  question, it seems like.
+C : again if you're just compensating  gain,
+C : at consistent level,
+C : And then you  still s-
+C : And then if you look at the frame with respect  to that,
+C : change
+D : Yeah, it depends  That's  something we don't know.
+B : in this small @@
+A : a couple of different things. I mean, one is your analysis  window and then the other is any sort of normalization that you're doing.
+C : where we were last  week.
+D : it is  time  marks,
+D : and I was assuming that  inherited  because,
+D : you know, this student and I would be looking at the time
+B : Good. So, it wouldn't be
+E : my transcription   file, no?
+D : @@
+D : I don't think you need  to.
+A : Well we're not any time soon  alignment.  So.
+E : Yeah.
+D : Well, we - we wouldn't be able to do any  anyway,  so somehow if -
+A : I mean w- I guess we could do a very bad  one with Broadcast News.
+C : Well again for the close mike
+D : Cuz there's - there's a lot of work you can't do without  that, I mean,
+B : It would be very  inefficient.
+E : Yeah.
+D : Anyway So that'd be great.
+C : uh
+D : Do we hafta turn -
+C : we'll do that later.
+A : Yeah Right.
+C : So
+C : Uh "forms". You had something on forms.
+A : Oops.
+B : Oh! Oh good,  O_K.
+A : So one is a one time only speaker form and the other is the digits.
+B : Oh, I  see.
+E : Oh it's the same.
+E : Oh no no. Is - is new  Is O_K.
+A : So, they incorporate the changes that we talked about.
+B : Date and time.
+B : This is rather a low-level, but
+B : On - on the new  Time  then  Date,
+B : but I  thought -
+A : Oh you mean on the digit  form?
+B : but it used  used  first.
+B : Oh I  see.
+B : Well, how  would the -
+A : So it was  intentional.  It's an interesting observation, but it was intentional.
+A : Because the date  time
+A : and, excuse me, the time  digits,
+A : but I'm filling out the date  beforehand.  If you look at the form in front of you?
+A : you'll see I've already filled in the date  time.
+B : I  always assumed -
+B : So the time  exact,  because I've just been taking beginning time -
+D : Yeah, me too.
+A : Yeah, I've noticed that in the forms.
+A : The - the reason  time  person
+D : @@
+B : we've been messing  up  forms.
+A : I know.
+E : in - on there .
+B : two thirty,  I'd put two thirty, and I guess d-
+B : e- everyone  thirty,  and
+B : I didn't realize  there was "uh oh
+A : Actually it's about one third each. About one third of them are blank, meeting starts.
+B : This would be a radical  suggestion but -
+B : maybe write down when people
+B : start reading digits on that particular   session.
+B : I know, O_K.
+B : That's a good point.
+B : I  see. Good point good point.
+B : Seat and Session.
+E : "use only"
+D : very
+B : Well that does  question,  which is why is the "Professional use only" line not higher?
+B : Because we're filling in other  things.
+B : Well I'm comparing the new  old  one.
+A : Oh you're talking about the digit  form. The digit form doesn't -
+A : The digit - No, that's alright.  The digit form doesn't have a "for official use only" line.
+B : Sorry.
+A : It just has a line,
+A : which is what you're supposed to read.
+B : @@
+A : So on the digits  form,
+A : everything above  fill-in  form
+A : below  reads.
+A : You just started talking  form  referring  to.
+B : So I was looking at the change  this  new  version of it
+B : wi- digit  form, we had one already.
+B : are slightly  different.
+C : um is the name and email and
+E : Ah!
+B : And there's an addition  language,
+B : which is a bit  redundant.
+A : That's because the one, the digit form that has native language is the old  new  form.
+B : Oh! Thank you. Thank you, thank you. There we go.
+B : Oh,  I'll  catch up here.
+B : O_K, I  see.
+C : "South Midland, North
+B : That's the old and that's the new.
+A : I
+D : Actually,  I  know is from working with the database and having to figure it out.
+C : So is South Midland like Kansas? and North Midland like - like uh Illinois, or - ?
+A : I mean. So - so what accent are we  speaking?
+A : For the foreign language we couldn't
+A : classify every single one. So I just left it blank and you can put whatever you want.
+E : the Spanish language from the - the north of Spain, of the south, of the west and the -
+E : But.
+A : You know, when I wrote - I was writing those down, I was thinking, "You know, these are great linguist ".
+A : But I  I  I  don't know how to categorize them.
+D : Actually even if you
+D : t-
+C : if e-
+C : if y-
+C : if you're a T_I or M_I_T nineteen eighty-five.
+A : So I guess my only question  was if - if you were a South Midland speaking
+A : Would you know  call  yourself?
+D : I don't know.
+C : if you're thinking in terms of places,
+C : as opposed to
+C : names people have given to
+D : Yeah. Now the usage -
+D : Maybe
+D : No, I'm serious.
+E : in that side of the - the paper.
+D : Well just a little - You know, it doesn't have all  detail,  but you sort of -
+B : Well, I  multiple  ones
+B : and then the amount of time - so, roughly.
+B : you know "ten years
+B : on the east coast,
+C : I guess we don't  know.
+D : As I said, I don't think there's a huge  benefit
+D : for some  things it's really
+D : clear and usually listening to   it
+D : and so does
+A : Yeah, so I picked  talked  TIMIT,  TIMIT.
+D : these would be satisfying like
+D : a speech database,
+D : I know  Switchboard.  This is i- almost exactly the same as Switchboard
+B : Oh. O_K.
+B : I think a lot  of people - Yeah.
+A : Yeah, I  I  speak.
+D : It's like Northwest
+C : Oh, what is  Northern?
+C : Well and what - and what's Northern?
+D : I think originally it was  North -
+A : Yeah, so this
+B : I would say, I've - I've got a mix
+A : I think at the first  we  same.
+A : Or region  is.
+D : Well, you have a like techno-speak accent I think.
+A : a techno-speak  accent?
+B : Geek region.
+E : Is different. Is different.
+D : leave  this and see what people -
+D : and then um
+E : Yeah.
+C : I'm - now that you mentioned it though, I am - really am  confused by "Northern".
+C : I really am.  I mean,
+C : if - if you're
+C : in New England,  that's North.
+C : But that's also  Midland,  right?
+B : Oh, @@ . - O_K.
+D : Yeah. Of course, that's very  Michigan,
+C : and Oregon and Washington are - are Western,  but
+C : they're also Northern.
+B : Just rule them out.
+D : There's only a few people in Idaho.
+A : There are hardly any subjects from "beep"
+D : No, that's  -
+C : Maybe we should  on
+D : We could ask where they're from.  Yeah. But-
+D : We - we went - we went around this and then a lot of people
+A : Because th- if we start  from,  again  language  from? "
+D : I mean it gives us good information on where they're from,  but
+D : that doesn't enough  about their -
+A : You know am I speaking with German accent I don't think  so.
+B : Well, see, I'm  mostly "
+B : because, you know, then you have some - some kind of subjective amount  time  factored into it.
+A : Yeah, I guess I could try  map.  I mean there's not a lot of r- of room
+A : I think of  Northern  is the only one that I don't even know what they're meaning.
+B : Yeah.
+C : That's a joke. That's -
+E : Um
+A : @@
+A : I mean some  Southern  drawl, you know.
+D : And those people, if you ask them to self-identify their accent they  know.
+B : Yeah, they do.
+B : And they're proud  of it.
+D : day o-
+D : Yeah, exactly.
+B : It's identity  thing.
+E : @@  style.
+D : Depends who you ask, I suppose.
+A : W-
+E : Oh.
+A : I guess that's the problem with these categories.
+C : Well, Boston's @@  too .
+D : "Characterize your accent if you can."
+B : and - and so I  would say, "I don't know".
+D : I was - I was thinking of something along that line because don't  know,
+D : you know, ruling out the fact that you're totally inept or something,
+C : it wasn't that long ago that we had somebody here who was from Texas  sure  accent  left.
+A : O_K, so. I propose, take out Northern
+C : noticeable  drawl.
+B : Oh. sweepingly,  "how would you characterize your
+A : So you want to change the instructions  region?
+D : W-
+A : I  think  it -
+A : they're going to answer  way  Region."
+A : as if you say "what variety of region - region do you speak?
+B : So. I was suggesting not having the options,  just having them -
+E : Huh.
+A : Well what we talked  that  is so that they would understand the granularity.
+B : Yes, but if, as Liz is suggesting, people who have strong accents know
+A : I mean that's what I had before,  list  them.
+A : I mean I had  TIMIT.
+D : What if we put in both?
+D : So. One is had  characterize  yourself  accent,
+D : Actually
+B : because it is  easier  to have it open ended.
+D : And we - we might learn  say,  way to ask it.
+C : W-
+C : This is just a small  thing but
+D : @@
+B : Well, we thought  about it.
+B : we felt people would have
+B : that - that there are so  types  these other languages and we are not going to have that many subjects from these different
+A : So I mean, I - I mean the way I had it last  was Region was blank, it just said Region colon.
+B : That's what I  thought.
+A : And - and I  think that that's the best way to do it,
+A : because - because of the problems we're talking  last  list,  so I put in a list. So should we go back to -
+A : Well, certainly dropping "Northern  is.
+D : and then maybe this North Midland, we call it "North Midwest".
+D : South  Midwest, or just -
+D : South  Midwest.
+C : I - I think  so. Yeah.
+D : I don't know where Midland is
+C : Midland - Midland, Texas  Kansas?  I forget.
+C : But there's a town.
+C : in - in there. I forget what it is @@ .
+D : But, yeah. So. Kansas  South Midland. Right?
+E : @@
+C : And Colorado,  border,  would be
+D : I'm  Kansas,
+C : North  Midland.
+D : the - dropping North, so it would be
+D : where, of course, you have huge
+C : But you do  too.  So.
+A : Well, I shouldn't say  doesn't  City.  But I have no idea whether it does or not.
+B : It does  seem - I mean. I - I would
+B : would be easier for an an- analyst  to put in rather than the subject himself.
+A : I think that - that was what happened  with TIMIT,
+A : was that it was  an analyst.
+D : Yeah, I don't know how  it came from.
+C : d- w-
+C : and
+C : Pennsylvania
+D : So. That's  England  I think. Yeah.
+C : No,  it's not.
+A : Oh, no.
+B : I sort of thought they were part of the - one of the Midlands.
+C : No, no. No. Pennsylvania is not -
+D : Well, you know, Pennsylvania  dialect  and it's  totally  different than -
+C : Pennsylvania - Yeah. Pennsylvania is not  New England.
+C : and uh New Jersey  Maryland  South.
+C : We're all tired of this
+C : that we're agreeing  with you.
+C : So.
+B : No. I think -
+A : Is that a real accent?
+A : N_ E _Y?
+D : You could say Liverpool.
+A : Because that get's at both  of the things we were trying to do,
+B : parenthesis S_
+B : paren- closed
+B : Cuz if they spent time in -
+B : in Britain and  America -
+B : It doesn't have to be ex- all  all  exact, just in the same open field
+B : with a - with an S_
+B : sss,
+B : optional S_.
+B : Yeah.
+C : uh open mike topics or should we go right to the digits?
+D : I'm s-
+A : So. I - I have a version also  displays  all the channels.
+B : So you - this is n- Dan's  patches, Dan Ellis's patches.
+D : So when you say " slow ", does that mean to -
+A : I  wrote another version.
+A : Which, instead of having the one  one  view,
+A : It has multiple  with the views.
+A : But the problem  with it
+A : is the drawing  waveforms  so  slow
+A : that every time you do anything  it just crawls.
+B : That's a consideration.
+A : As you play,  move,  scroll.
+A : Just about anything,  and it - it was so slow it was not usable.
+D : Oh yeah.
+B : that'll be a big  help.
+D : Yeah.
+A : I think  that the one Dan has is usable enough.
+A : It doesn't display  displays  just the mixed signal.
+A : But you can listen  to any of them.
+A : No, he suggested  that, but he didn't -
+A : It's not installed.
+B : Oh, I thought  patches.
+A : At least not if we're going to use Snack.
+A : I mean you would have to do something ourselves.
+D : I probably  would  be  trying  use  the
+D : whatever's there.  And
+A : Why don't we - we see  how Dan's works and if it -
+D : Yeah.
+D : I wonder - I'm just wondering if we can display  wave  feature  -
+D : a feature  stream.
+D : And we want to plot that,  instead of the whole wave form.
+A : We - we could do  that but that would mean changing
+A : I mean this isn't a program we  wrote.
+A : and we've done patches  on.
+D : it's definitely  great to have the other one. That's -
+C : Is there some way  have someone write
+C : link it in,  or something? Or is that -
+A : Not easily. I mean y- yes  do  that. You could - you can write
+A : Let's try  enough,
+D : Right.
+A : we can do it otherwise. I think  is,  playing  mixed  in  there.
+B : also the case that - that uh this multi-wave   thing
+B : is proposed to the -
+B : uh stream  before  was simply that
+B : they hadn't had time to do it.
+B : so it's likely that this - this may be entered into the ch- this central
+B : @@ .
+C : They may well have not  demand  for it.
+D : So. You mean they could - they could do it and it would be they
+B : us.
+A : Depends on how much work  they did.
+E : Oh .
+B : This one that
+B : does  have the status of
+B : potentially being incorporated
+B : l- likely  being incorporated into the central code.
+B : Now, tha- Now, if we develop further
+A : I think if - if - if one of us sat down and coded  displayed  fast enough
+A : I'm sure they would be quite  incorporate  it.
+A : But it's not  task.
+D : O_K.
+B : you know, tied back into the original,  so that other people can benefit from it.
+B : However. I also  understand that you can have
+B : very  useful for their purpose and that you don't need to
+B : Yeah.
+D : I mean
+B : Uh-oh.
+A : Well, you want to go first?  Or.
+D : Well, I can wait for the digits but I
+D : can't  stay  discussion  I c-
+D : call.
+A : Do you wanna go do digits or do you wanna just skip  digits?
+D : No, I can do digits if  -
+D : But I don't wanna butt in,
+D : But if there's something on the rest  of the -
+D : O_K. Alright.
+C : Yeah, why don't you read the digits and then you can go.
+D : This is transcript two seven five one, two seven seven zero
+D : nine two five four four
+D : O_ four O_ one six
+D : zero five nine zero seven
+D : one seven nine zero eight three eight
+D : two
+D : three
+D : four zero zero seven zero three zero
+D : six four three seven
+D : seven six eight nine
+D : eight four
+D : nine nine five one
+D : O_
+D : zero zero eight
+D : one zero six
+D : three four
+D : four two
+D : five five nine
+D : six seven zero
+D : seven
+D : eight O_ five three three
+E : Transcript uh two seven one one dash two seven three zero.
+E : seven five seven six
+E : eight eight seven zero
+E : nine seven four four four
+E : O_ O_ one nine
+E : zero zero one six seven
+E : two two nine
+E : three four six one seven
+E : four five seven zero one
+E : five s-
+E : five six four two nine five O_
+E : six
+E : seven
+E : eight zero seven five six
+E : O_ one five nine
+E : zero four four zero five
+E : one five two two
+E : two eight one O_ two four O_
+E : three
+E : four
+E : five
+E : seven one eight two
+A : Transcript two six five one, two six seven O_.
+A : four
+A : five zero four seven nine seven two
+A : seven one three six five
+A : eight three O_ eight
+A : nine six zero five six
+A : O_
+A : zero
+A : one
+A : two zero two
+A : four three eight two
+A : five two zero seven seven eight three
+A : six seven six
+A : seven nine seven one seven
+A : eight
+A : nine
+A : O_ O_ two two
+A : one three seven
+A : two five five
+A : three five seven one five three eight
+A : four eight one one zero
+C : Transcript number two six seven one dash two six nine zero
+C : five
+C : six
+C : seven O_ eight three O_
+C : nine two two
+C : O_ three six O_ seven O_ four
+C : zero six
+C : one
+C : two seven one O_ one two four
+C : three
+C : four zero six seven two
+C : six four seven eight
+C : seven four
+C : eight three O_
+C : nine
+C : O_
+C : zero
+C : one zero eight nine nine
+C : three one nine
+C : four two seven seven five
+C : five seven five two
+B : Transcript two six nine one, two seven one O_.
+B : six nine
+B : seven
+B : eight
+B : nine zero
+B : zero two six eight two two four
+B : one four zero eight
+B : two three three three
+B : three
+B : four nine two four five zero six
+B : five
+B : six O_ six
+B : eight four one three four
+B : nine three four
+B : O_ eight six
+B : zero
+B : one
+B : two
+B : three
+B : five two seven one eight four eight
+B : six six six two O_ seven one
+B : Turn it off.
+A : And

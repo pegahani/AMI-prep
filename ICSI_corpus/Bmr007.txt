@@ -1,0 +1,1222 @@
+E : @@
+B : we -
+D : We're on again? O_K.
+A : That  great.
+H : Yeah, so if uh -
+D : O_K-
+H : hasn't  signed the consent form,
+A : That's terrific.
+H : The new  consent form.
+A : Now you won't be able to walk  bike,  huh?
+H : And uh, shall I go ahead and do some digits?
+D : Uh, we were gonna do that at the end,  remember?
+H : whatever you want.
+D : Just - just to be consistent, from here on in at least, that -
+B : The new
+D : that we'll do it at the end.
+H : It's uh -
+F : Testing, one, two, three.
+D : Well, it ju- I mean it might be that someone here has to go, and - Right? That was - that was sort of the point.
+D : I had asked actually anybody who had any ideas for an agenda
+D : to send it to me and no one did. So,
+H : So we all  forgot.
+F : From last
+D : O_K, so one item for an agenda is uh Jane has some uh
+D : and
+H : And I have some short  research issues.
+D : Uh, Adam has some short research issues.
+D : Um, I have a
+D : done  over the last three months I was supposed to
+D : send off, uh
+D : I - I sent a note about it to uh - to Adam and Jane but I think I'll just run through it
+D : also and see if someone thinks it's inaccurate or
+D : uh insufficient.
+A : A list that you have to send off to who?
+D : Uh, to uh uh, I_B_M.
+E : @@
+D : O_K.   They're, you know -
+D : So.
+D : So, uh so, I'll go through that.
+D : Um,
+D : And,
+D : anyone wants to talk about?
+A : What about the, um - your trip,  yesterday?
+D : Cuz that was all - all about the, uh -
+D : I - I - I can chat with you about that
+D : Anything else? Nothing else?
+D : Uh, there's a - I mean, there is a - a, um
+D : uh
+D : telephone call tomorrow,
+D : that some of us are involved in
+D : for uh a possible proposal.
+H : Do you want me to be there for that?
+H : I noticed you C_ C'ed
+D : as usual,
+D : anything goes beyond that.
+F : O_K, it's - it's very
+F : eh - it's
+F : basically  the same.
+F : But, same idea. So, if you've looked at this you've seen it before, so um
+F : as you know, uh
+F : part of the encoding
+F : an overlap.
+F : It's not indicated
+F : with, um precision,  it's just indicated that -
+F : what  parts of sp-
+F : which - which stretches of speech were in the clear,
+F : used this mark and, um
+F : uh,
+F : divided the -
+F : I wrote a script
+F : which divides things into individual minutes,
+F : five, and a little bit.
+F : And, uh
+F : you know, minute zero, of course, is the first minute up to
+F : sixty seconds.
+C : O_K
+F : And, um
+F : and then
+F : to the right,
+F : two  three  more  than three speakers.
+F : And,
+F : and,
+F : what I was looking for sp- sp- specifically was  the question of
+F : evenly  throughout or whether they're
+F : bursts  of them.
+F : Um.
+F : And it looked to me as though -
+F : uh, you know - y- this is just -
+F : not  statistically
+F : verified,
+F : but it
+F : did  throughout,  rather than being
+F : localized to a particular region.
+F : The part  maximum  number of -
+F : overlaps is an area where we were discussing
+F : whether or not it would be useful to indi- to s- to
+F : code
+F : stress,
+F : sentence  stress
+F : information  retrieval.
+F : So it's like,
+F : you know, rather,
+F : lively discussion there.
+D : What was - what's the - the parenthesized  that says, like -
+D : e-  six  two  point eight?
+F : cent.
+D : Mmm.
+F : six  session.
+F : you know, packing up to go basically, there's
+F : final  stuff, I think we -
+F : where  fell. I'd have to look at that. But
+F : the final three there are no overlaps at all.
+F : are not. So, i- it seems like it goes through bursts
+F : that's kind of it. Now,
+F : Another  question is
+F : is there - are there
+F : be  with  others.
+F : And, again particular
+F : um -
+F : testing  of it all, but
+F : I, um
+F : I took the coding of
+F : the - I, you know, my - I had this script
+F : figure out, um
+F : who
+F : was the first speaker, who was the second speaker involved in a two-person overlap, I didn't look at the ones involving three or more.
+F : And, um
+F : this is how it breaks down in the individual cells of
+F : who tended to be overlapping most often with who -
+F : marginal  totals, which is the ones on the right side and across the bottom, you get
+F : individual.  So,
+F : If you
+F : bottom,  those are the, um
+F : numbers of overlaps in which
+F : Adam was involved as the person doing the overlapping and if you look -
+F : I'm sorry, but you're o- alphabetical, that's why I'm choosing you
+F : And then if you look across the right,
+F : that's where he was the
+F : speaker  in the pair
+F : and got overlap-
+F : overlapped  with by somebody.
+F : And, summary  table,
+F : then you see that, um
+F : th- they're differences in
+F : with  or
+F : overlapped
+H : Is this uh counts  or is it -
+F : by.
+H : how much each person spoke.
+F : very  it would be good to normalize with respect to that. Now on the table I did
+F : away  from the raw frequencies by putting,
+F : percentages.  So that the percentage of time
+F : of the - of the times that a person spoke,
+F : what percentage
+F : eh, w- so.
+F : Of the times a person spoke and  furthermore was involved in a two- two-person overlap,
+F : overlapper  overlappee?
+F : And there,  differences,
+F : um,
+F : that some people tend to be overlapped
+F : with  overlapped,  but, of course,
+F : uh i- e- one  meeting,
+F : no  statistical testing involved, and that would be
+F : finding  kind of
+D : S- so, i- it would be statistically  incorrect to conclude from this that Adam talked too much or something.
+F : reliability.
+H : No - no actually, that would be actually  correct,
+F : No, no, no.
+E : Yeah, yeah.
+F : you know, I'm - I don't see a point of singling people out,
+F : now, this  is a case where obviously -
+D : B- I - I - I  enjoyed  this
+F : you know, it's like - I'm not - I'm not
+H : Yes, that's right, so you don't nee- O_K.
+F : I don't think that it's - I
+F : and - and, so, might as well do this.
+H : This is actually - when Jane sent this email first,  thinking  about
+H : anonymizing  data.
+F : Well, fair enough. Fair enough.
+F : not  tendencies toward
+F : styles,  different speaker styles.
+D : Oh  sure.
+F : And
+F : was  this, and w- what were they, and
+F : i- and I - and I know  that I can distinguish at least three types and, probably more, I mean, the
+F : general
+F : conversation  seventies  strict model where politeness involves that you let the person finish th- before you start talking, and
+F : and you know, I mean,
+F : w- we know that -
+F : an- and they've loosened up on that too s- in the intervening time, that
+F : that that's - that's
+F : relative  Coast  where people
+F : often  interest  saying.
+H : Uh-huh.
+F : And
+F : exactly!  Well, there you go. Fine, that's alright, that's O_K.
+B : Exactly!
+E : Yeah
+F : styles,  and it's um
+F : impose  a model of -
+F : there - of the ideal being no overlaps, and
+F : also  agree with that, so it's
+F : now, universally
+F : agreed  with.
+F : I can't say  universally,
+F : now, uh
+F : don't.  also
+F : uh,
+F : sub- of subcultural norms and
+F : cross-cultural norms and things.
+F : So, um
+F : um types  I  noticed. So,
+F : um, anticipating the end of a question
+F : and simply answering it earlier, and there are several of those in this - in these data where -
+F : because we're
+F : people who've talked to each other,
+F : we know
+F : style  is likely to be and so
+F : early.
+F : No problem.
+F : And places also
+F : which I thought were interesting, where two or more  people gave exactly th- the same answer in unison - different words of course but you know, the - basically,
+F : you know
+F : ev- even more sp- specific  than that.
+F : thing  and that it would be im-
+F : i- useful to subdivide these further and see if there are individual differences in styles with respect to the types involved.
+F : And that's all I wanted to say on that,
+F : unless  people have questions.
+D : Well, of course th- the biggest, um
+D : result here, which is one we've -
+D : new  isn't  familiar with this
+D : overlaps.
+E : Yes, yes!
+D : that - that, um
+D : here's a relatively short meeting, it's a forty -
+D : forty plus minute
+D : not  overlaps
+D : but,
+D : uh
+D : I think there's one -
+D : uh throughout this thing?
+F : none   - none.
+D : @@
+D : Oh, so the bottom three did  have s- stuff going on?
+D : There was  speech?
+D : O_K, so if - the - this  -
+A : It'd be interesting  time  is in the overlaps,
+F : Yes, exactly and that's - that's where Jose's pro-   project comes in.
+D : Oh, about how much is  it?
+E : The - the duration  of eh - of each of the overlaps.
+D : length?
+E : M- I - I haven't averaged it now but, uh I - I will, uh
+E : I will do the - the study of the - distribution of the duration of the overlaps.
+D : O_K, you - you don- you don't have a feeling for roughly how much it is? Yeah.
+E : mmm, @@  @@ .
+E : The duration is, uh the variation - the variation of the duration is uh, very big
+F : type  So backchannels will be very brief and -
+D : Oh,  I'm sure.
+E : Because, on your surface  a bit of zone of overlapping with the duration
+E : eh, overlapped  and another very very short.
+E : of the - of the - the fin- the - the end - the end word of the, um
+E : with the - the next word of the - the new speaker.
+E : Um, I considered that's an overlap but it's very short, it's an "X_" with a -
+E : and - the idea is probably, eh
+E : confusion with eh eh noise.
+E : With eh fricative  new  study .
+D : go ahead .
+G : You split this by minute, um so if an overlap
+G : straddles both  of those minutes.
+F : Actually, um
+F : um not.
+F : Uh, so le- let's think about the case where
+F : and then the minute boundary happens.
+F : And let's say that
+F : after that minute boundary,
+F : B_ is still speaking,
+F : and A_ overlaps
+F : with B_,
+F : that would be a new overlap.
+F : otherwise
+F : um, let's say B_
+F : comes to the conclusion of - of that turn without
+F : anyone overlapping with him or her,
+F : in which case there would be no overlap counted in that second minute.
+G : both a - a portion  of it is in minute one and another portion of minute two.
+F : my c-
+F : the coding that I was using -
+F : yets,   the coding of
+F : um I wou- I wouldn't be able to pick it up from the way it was
+F : encoded so far.
+F : when  they occur.
+D : I'm - I'm - I'm confused now. So l- l- let me restate what I thought  Andreas was saying and - and see.
+D : you start talking and I start talking
+D : and we ignore each other and keep on talking for six seconds.
+D : So we go over - So we were - we were talking  over one another,
+D : and it's just -
+D : in each  interval.
+D : So, um over  the minute boundary.
+D : Is this done  this.
+F : No,  wouldn't.
+F : It would be considered as an overlap in the first  one.
+D : good,  meant  the question, right?
+B : That's - that's good, yeah, cuz the overall rate is -
+C : @@
+F : Mm-hmm. Yeah. They're not  counted.
+G : Other- otherwise you'd get double  counts, here and there.
+B : @@
+G : harder
+F : count in that
+F : if A_ was speaking
+F : back  B_  again,
+F : I - I didn't count that as a three-person  two-person  overlap,
+F : A_  D_ .
+F : Because the idea was the first  speaker
+F : had the floor
+F : second  person
+H : Cuz i- i- I find it interesting  overlaps  all  two-speaker.
+H : I mean what I thought  - what I
+H : would have thought  in
+H : large  overlaps,  everyone  once,
+F : That's  interesting.
+H : apparently not.  neat.
+D : Yeah.
+H : This
+F : is.  I think so too, I think -
+B : I think  what's really interesting though, it is
+B : before d-
+B : yes,  overlaps " is to actually
+B : find out how  more
+B : two-party.
+B : Cuz in two-party  Switchboard,  awful  lot too if you just look at
+B : backchannels,  if you consider those overlaps?
+B : it's also ver- it's huge.
+B : looking  single-channel  processing for
+B : speech  recognition.
+B : have
+B : two-person  people.
+B : to a meeting,
+B : may  be a lot more but i- it may -
+B : not  be.
+D : Well, but see, I find it interesting even if it wasn't  any more,
+D : were  out
+D : nice,  so that - so the issue is in - in a situation
+B : not  nice ".
+D : where th- that's -
+B : It depends what you're doing.
+B : having, uh -
+B : depends what you're doing,
+B : Right now we're do- we have individual   mikes on the people in this meeting.
+B : "are there really more overlaps happening
+B : than there would be in a two-person  party ".
+B : And - and there well may be,  but -
+D : I shouldn't use words like " nice " because maybe that's too - i- too imprecise.
+D : But what I mean  is
+D : that, um in  Switchboard,
+D : many  not  considering is overlap.
+D : And what we're doing now  is,
+D : other  task,  are  considering overlap
+D : one  considering  it,
+D : one  of them
+D : not all  one  is
+D : I'm  very interested in
+D : audible,
+D : microphone.
+D : does  get mixed in,
+D : and it's pretty hard to jus-
+D : ignore  one  other.
+B : also  Switchboard  and if you
+B : think of meetings
+B : being recorded over the telephone, which I think,
+B : you know, this whole  point  studying  meetings  room  but to also have
+B : meetings  phone  lines.
+B : Maybe far field mike  dialogue  issues still apply,
+B : that  way
+B : conference  call.
+B : Switchboard
+B : think  simplest  case  meeting
+B : wondering  overlap
+B : of
+B : described  people  present.
+B : So it may be that having three  people
+B : very  not  be.
+D : That's an important  question to ask. I think what I'm -
+D : considering  that in Switchboard.
+B : Not you, me.
+H : Though it wasn't in  design.
+D : I mean, w- w- were -
+B : so, from the point of view of studying dialogue,  Dan Jurafsky and Andreas and I had some projects on,
+B : you want to know the sequence  of turns.
+B : So what happens is if you're  talking and I have a backchannel in the middle of your turn,
+B : what it looks  your  backchannel,
+B : even though my backchannel occurred completely inside  your turn.
+B : We know  wrong
+B : But, because
+B : the acoustic  segmentations  some  Switchboard  missing,
+B : people couldn't study  it,
+B : world  talk  that way.
+D : Yeah, I wasn't saying  that.
+D : Right? I was just saying that w- now  looking  at it.
+D : And - and - and, you - you maybe wanted  data  weren't.
+B : Right. We're looking  here.
+D : So that's why it's coming to us as new
+D : be
+D : you know, if your - if your hypothes- The hypothesis you were offering
+D : eh - Right? -
+D : if it's the null  hypothesis,
+D : and if actually you have as much  overlap in a two-person,
+D : we don't  answer  to that.
+D : The reason we don't  answer  studied
+D : and it wasn't studied  up.  Right?
+B : meeting,
+B : studying meetings  people  versus
+B : what
+B : kinds of questions you could ask with a two-person  meeting.
+B : It's important   to distinguish
+B : that, you know, this project
+B : is getting a lot of overlap
+B : other  projects were too,
+B : but we just couldn't study  them.
+D : May
+B : And and so uh
+D : May  have been. Right?
+B : there is  rate,
+B : So.
+B : It's - but I don't know how  high,
+A : I  have a question.
+D : I mean, my point was just if you wanted to say to somebody, " what  overlaps  here?"
+D : what we've learned about is overlaps  in this situation, is that - the first -
+D : first-order  lot  of them.
+D : common sense  notion of
+D : how - how much people overlap.
+D : Uh you know the fact that when - when - when, uh, Adam was looking for a stretch of - of speech before, that didn't have any overlaps, and he w- he was having such a hard time
+D : and now I look at this  see  happening  lot.
+B : That's also true of Switchboard.
+D : I wasn't saying it wasn't.
+B : Right.  So it's just,
+D : I was commenting about this.
+D : I'm saying if I  -
+D : have  front  of me,
+D : and we sh- which, you know we're gonna get
+D : much  lots  data,
+D : analyzed  first-order  thing  lot  overlaps ".
+D : not  just an overlap -
+D : bunch of overlaps - second-order  thing is
+D : it's not  one  point,
+D : but that there's overlaps, uh throughout  the thing.
+D : And that's interesting.  That's  all.
+B : reason  number  of people in the meeting.
+D : Oh yeah.
+D : Yeah, I wasn't making any statement  that.
+B : And - and it would actually be interesting to find out  because
+B : data say Switchboard, which isn't exactly the same kind of context, I mean these are two people who don't  know each other and so forth,
+B : But we should still  be able to
+B : somehow
+B : say what - what is the added   contra- contribution to sort of overlap
+H : Yep. I could certainly  see  either  way.
+F : O_K, now.
+F : Wh- yeah, I - I agree - I agree with Adam. And the reason is because I think there's a limit -
+F : bound
+F : simply
+F : audibility.  speak  do  make a judgment of
+F : "can -"
+F : you know, as adults.  adjust  so well,
+F : I mean, if a truck
+F : adults will
+F : well, depending, but mostly,  adults will - will -
+F : will hold off to what -
+F : noise  do
+F : monitor  things like that,
+F : about - whether we - whether our utterance will be in the clear or not.
+F : rhythmic  structure in conversation, so,
+F : you know, you - you t-
+F : people tend  time  their - their -
+F : their, um
+F : uh
+F : don't  want to be c- cross-cutting.
+F : And -
+F : there may be an upper bound on how  simply  from the standpoint of audibility and how loud the other people are who are already
+F : in the
+F : of certain types.
+F : backchannels,
+F : that
+F : intention  of being heard,
+F : backchannels,
+F : in which case
+F : those  might -
+F : there may be no  those.
+G : I - I have a feeling  that backchannels, which are
+G : the vast majority of overlaps in Switchboard,
+G : here,  unnatural
+B : If you can see  them, actually.
+B : Right  here,  but
+G : but, it's sort of odd if one person's speaking and everybody's listening, and
+D : Actually, I  think I've done it
+D : fair  @@  But.
+B : There's a lot of head-nodding,
+B : in this
+H : Yep, we need to put trackers  on it.
+B : @@
+A : In - in the two-person  -
+E : Yeah, yeah, yeah.
+F : He could,  he could.
+G : Yeah. So - so actually, um
+G : That's in part because the nodding,  visual  contact,
+G : function,  phone,  Switchboard
+G : work.  So
+G : so you need  backchannel.
+H : Your mike is -
+A : So, in the two-person  conversations,
+A : backchannel,
+H : That is  so it's on your ear.
+A : overlap
+A : in the speech? or -
+A : impression  is sometimes
+A : it happens when there's a pause,
+A : get a lot of backchannel, when somebody's pausing
+F : She's  doing that.
+B : Sorry, what were you saying?
+A : It's hard  to do both, huh?
+A : Um
+A : no, when - when - when there's backchannel,  I mean, just -
+A : I was just listening,  and -
+A : and when there's two  backchannel  it seems like,
+A : backchannel  happens  pitch  drops and the first person -
+A : and a lot  stops
+A : and then they start up  again, and so I'm wondering about -
+B : I think  lot  Jose
+B : I mean, this is called "precision timing" in conversation analysis,
+B : they come in
+B : but at a point where
+B : the
+B : complete.
+B : technically,  it's an overlap.
+A : But maybe a - just a small  overlap?
+B : information  the predictable information.
+E : More, yeah.
+H : It'd be interesting  prediction.
+A : I was just thinking more in terms of alignment,
+A : alignment  overlap.
+H : Language  overlap,  really  interesting.
+G : So - so -
+B : Well, that's exactly,  exactly  why  we wanted to study the precise timing of overlaps ins- in
+B : uh Switchboard,  say, because there's a lot of that.
+G : So - so here's  labeling
+G : Uh, to distinguish between, say, backchannels
+G : you know, benevolent  overlaps,
+G : and w- and -
+G : and sort of, um hostile  overlaps, where
+G : Uh, that  interesting,  problem  look  at.
+F : really  had the feeling that wasn't happening, that
+F : the hostile - hostile type.
+F : These were - these were
+F : benevolent types, as people
+F : finishing each other's sentences, and
+F : stuff.
+G : and this is sort of, not hostile,  competitive,
+G : one  finishing  something and
+G : you have, like, two  three  people jumping - trying to -
+H : Trying to get
+G : trying to -
+G : grab  turn.
+G : And so it's not  first
+G : waiting  finish.
+G : all  next.
+D : I have a feeling  most of these things are - that -
+D : that are not
+D : a benevolent kind are - are
+D : um
+D : are - are competitive  really  hostile. But.
+A : I wonder what determines who gets  the floor?
+F : Well, there are various  things, you - you have the -
+D : Uh a vote - vote in Florida. Yeah.
+H : It's been studied a lot.
+E : Voting for -
+G : Seniority.
+D : You know, the other  these -
+D : all  questions  hard  answer  with, uh u-
+D : data.
+D : @@
+H : Ach.
+D : So, um wonder  if what you're saying
+D : a smaller  number of people.
+D : uh, meetings currently with say five, six, seven, eight people
+D : really  have  or some three-person meetings and re- record them
+D : beef up the - the statistics  on that?
+F : it seems like there are two  possibilities there, I mean
+F : i- it seems like
+F : if you have just
+F : two  people it's not
+F : really,
+F : y- like a meeting,  w-
+F : is not as similar  as the rest of the -
+F : sample.
+F : It depends on what you're after, of course, but
+F : that  control  experimental
+F : more  than two.
+D : If you had two people meeting in this kind of circumstance then you'd still have the visuals. You wouldn't have that difference also  that you have in the
+D : say, in Switchboard  data.
+F : Yeah, I'm just thinking that'd be more like a c- control  condition.
+H : Well, but from the acoustic  point of view,
+D : Yeah, acoustic  is fine, but -
+G : If - if the goal were to just  overlap  you would -
+G : you could serve yourself - save  time  words.
+B : Well, I was thinking you should  be able to do this
+B : from the acoustics,  close-talking  mikes, right?
+H : Well, that's - the - that was my - my status report, so
+B : Right, I mean Adam was -
+F : You've been working  on that.
+F : Yeah.
+B : typology,  obviously, but
+H : this  discussing,
+D : Do you think that would be useful? I'm just thinking that as an action item of whether we should try to record some two-person meetings or something.
+B : I guess my - my first comment was, um only that
+B : we should n- not attribute overlaps  only to meetings, but maybe that's obvious, maybe
+B : look at are  these kinds of constraints that Jane mentioned, that
+B : what maybe the additional  right  after a turn,
+B : you know, because now you can have five  people trying to grab the turn, but pretty quickly
+B : there're - they back off  and you go back to this sort of
+B : So, I don't know. To answer your question I it - I don't think it's
+B : controls but I think it's worth recording all the meetings we
+H : Can.
+B : can.
+D : Well, O_K.
+B : So, um
+G : I  I  have an idea.
+B : D- I wouldn't not  record a two-person meeting just because it only has two people.
+G : we have - have in the past  continue  continue  phone  conference calls.
+H : Yeah, we talked
+G : And,
+G : and as a -
+G : as another c- comparison  we could
+G : what happens  overlap,  don't  have visual contact.
+H : It just seems like that's a very different  thing than what we're doing.
+B : I mean physically  record  the o- the other -
+D : Well, we'll have to set up  for it.
+D : to do that.
+G : Or,
+G : this is getting a little extravagant,
+G : blinds  or something to -
+H : Barriers!
+G : to remove, uh
+B : That's what they did  on Map Task,
+G : contact.
+D : Well, we - we record this meeting so regularly  it wouldn't be that -
+D : I mean strange.
+H : O_K, we can record,  no  look  at each other.
+B : Well, we could just put blindfolds  on.
+H : Close  your eyes.
+H : Turn off the lights.
+D : Oh, th- that  other  thing, weren't we gonna take a picture
+D : at the beginning of each of these meetings?
+H : thought  whiteboards.
+H : rather than take pictures of the meeting.
+D : Yes.
+D : There's a head nodding here vigorously, yeah.
+F : also take a picture of the meeting.
+B : Ee- you mean, transc-
+E : @@
+F : because you get then the spatial  speakers.
+G : Well, you could do that by just noting  enrollment  sheet the -
+F : And that
+F : could be
+H : Seat  number, that's a good idea.
+G : seat  number.
+E : Yeah. Is possible to get information from the rhythmic  ge-  uh, files.
+G : So you'd number  them somehow.
+H : I finally  remembered to put, uh
+A : We can - can't you figure it out from the mike  number?
+H : put native language on the newer  forms.
+H : The wireless  ones.
+H : And even the jacks,  in front of you.
+B : But probably  infer it.
+H : It would be another task.
+H : Having - having ground tu- truth would be nice,  seat  number would be good.
+A : Beam-forming  digit  uh stuff.
+H : So I'm gonna put little labels  chairs  seat  number. That's a good idea.
+G : Not the chairs.  chairs  are -
+G : Chairs  movable.
+G : Put them -
+E : The chair-
+G : Like, table  where they -
+F : the linguistic anthropologists  anyway,  because you get
+A : Just  joke.
+F : posture.
+G : What people were wearing.
+F : you know,
+F : face  or whatever but -
+F : these  important  cues, I mean the -
+G : Oh, Andreas  was -
+A : How big their heads
+F : how a person is sitting is -
+G : Andreas  wearing  same  sweater  again.
+F : It'd be better than nothing,  is - is -
+F : i- Just from a single  some  aspects.
+F : I mean I - I could tell  meetings  I notice that there are certain people who
+G : Morgan  funny  hair  again.
+F : Yeah.
+F : Well, I mean you black out the - that  part. But it's just, you know, the - the body
+A : He agreed.
+H : Of course, the - where  table,  very  interesting,  to
+H : gravitate  same  place  time.
+H : and it's somewhat  coincidental.  here  so that I can
+H : run into the room  hardware  catching  fire  something.
+G : Oh, no, you - you just like to be in charge,  that's why you're sitting -
+H : I just want to be at the head  table.
+D : Speaking  control,  to talk about .
+H : uh, using the close-talking  try  speaking.
+H : So my first  filtering,  that we talked about - about two weeks ago,
+H : it works O_ K,  except that
+H : very  sensitive to your choice of
+H : threshold.
+H : But if you try to use the same parameters on another speaker,  even if you normalize it based on
+H : the absolute loudness.
+B : But does it work for that one speaker throughout the whole meeting?
+H : It does  work for the one speaker throughout the whole meeting.
+H : Pretty  Pretty  well.
+H : How  do  it? What do you mean?
+H : So there was a minimum  run length, so that -
+A : Every frame that's over what  threshold?
+H : A threshold  pick.
+A : In terms of energy?
+H : So you take a - each frame, and you compute the energy and if it's over the threshold you set it to one,  zero,
+H : so now you have a bit  of zeros and ones.
+H : And then I median  filtered  that
+H : using, um filter length.
+H : Uh long,  you know, tenth of a second sorts of numbers.
+H : you know, pitch,
+H : you know, the pitch  contours,
+H : And that works O_ K,  how long your median filter is and how high you're looking for your thresholds.
+A : Did you ever try running the filter before  you pick a threshold?
+H : I had  mostly  already  easy  do.
+H : O_K and then the other  thing I did, was I took
+H : Javier's speaker-change  change  that  mikes,
+H : unfortunately  that's not working real well, and it looks like it's -
+H : candidate  places to do a break.
+H : And he does that using a neural net doing broad phone  classification and he
+H : the, uh one  of the phone classes is silence.
+H : And so the possible  breaks  silence  starts and ends.
+H : second  pass which is a modeling - a Gaussian mixture model.
+H : whether it improves  degrades  at  one of those particular places.
+H : And what looks like it's happening  is that the -
+H : even on the close-talking  mike
+A : Who  trained  on?
+H : Um
+H : So, at any rate, my next  midst  of and haven't quite finished yet was actually using the
+H : uh, thresholding
+H : Because one of the things that definitely  happens  put  low  lots  of breaks.
+H : All  definitely  acoustic events.
+H : They're definitely
+H : someone  talking.
+H : But, like, it could be someone who isn't the person here,  there  breathing.
+H : that  into the acoustic change detector.
+H : And so I think that  work.
+H : But all  of this is close-talking mike, so
+H : just  trying to get some ground truth.
+E : Only with eh
+E : when - when, y- I - talker. I - I think the
+H : Oh, absolutely.  intention  this  is  aide  truth.
+E : Um
+E : I - I - I mean that eh eh in the - in the mixed file
+E : you can find, uh
+E : great different, eh level of energy.
+E : Um
+E : I - I think for, eh algorithm based  on energy,
+E : eh, that um
+E : h- mmm, - more or less, eh, like eh
+E : When y- you the detect the - the - the first at - at the end  of - of the
+E : detector of, ehm princ- um. What is the - the name in English ? the - the, mmm,
+E : in - in the background
+H : I'm - I'm not sure what you're saying,  can you try -
+E : I mean that when - when you use, eh any
+A : I think he's saying the onset  detector.
+E : I - I think it's probably to work  great  level of energy.
+E : eh sp-
+E : Because the signal is, eh
+E : in - in that, eh more similar.
+E : between the different eh, speaker,
+H : But different speakers.
+E : I - I think is - eh, it will more difficult to - to detect
+E : bass-tone  energy.
+E : the - the change.
+E : I think that, um Yeah. And the - the another question, that when
+H : Ah, in the clo- in the P_D_ A,  question.  much  Much  harder.
+E : I review the - the - the work of Javier. I think the, nnn, the, nnn, neural network
+E : to - to get a broad class of phonetic, eh from, eh uh
+E : If you have, eh
+E : uh, I'm considering, only because Javier, eh nnn,
+E : the - the possibility of a - a change between the - between the speaker,
+E : eh between each phoneme.
+H : Yeah, when a phone  changes.
+E : Because, I - I - I think it's more realistic that, uh exists
+E : eh
+E : is - is, eh
+E : I - I found that the, eh eh, two speakers together
+E : without enough silence between - between them
+E : eh is better to use the acoustic change detector basically and I - I - I
+E : I_X or, mmm, BIC   criterion for consider all the frames
+D : just used silence
+D : was not because he thought it was better,
+D : it was - it was - it was the place he was starting.
+D : your  case, if you're here for only a modest number of months you try to
+H : Do  something.
+D : But his - his goal was always to proceed from there to then allow broad category change also.
+E : But, eh do - do you think that if you consider all the frames
+E : the - the, eh
+E : BIC   criterion
+E : to detect the - the - the different acoustic change, eh
+E : a general, eh
+E : eh
+E : An- and then, eh
+E : eh you can consider the energy
+E : This - this  BIC   distance  the hypothesis
+E : to the - this
+E : po-  process
+E : Because, eh eh, probably you - you can find the - the
+E : eh
+E : Less than, ene-  bass-tone  energy to - to consider that, eh
+E : that, eh zone.
+E : of s- a small silence between speaker, or
+E : another algorithm to - to process, the - the segment between marks
+E : eh founded by the - the
+E : the BIC
+E : the speech recognizer with a broad class or - or narrow class, because, in my opinion
+E : eh eh
+E : adapt
+E : the neural net, eh used by Javier with a mixed file.
+H : With the what  file?
+E : With a m- mixed  file,
+E : mix. Sorry.
+E : and then you - you, eh
+E : you try to - to apply that, eh, eh, eh, speech recognizer to that signal, to the P_D_A, eh I -
+E : you will have problems, because the - the - the - the you - you will need t- t- I - I suppose that you will need to -
+D : Well, I -
+H : Oh, absolutely.  This is - this is not what I was suggesting to do.
+D : Look, I - I think this is a -
+D : It's a - I used to work, like  kind of thing.
+D : have somebody who has some experience with this sort of thing, and they work on it for a couple months,
+D : Then you say, "O_K, I don't just wanna get most of the cases I want it to be really accurate."
+D : Then it gets really  hard no matter what you do.
+D : I have these other  here,
+D : learn  things from, either explicit training of neural nets or of Gaussian mixture models or whatever."
+D : don't  use any of those things. You say you have
+D : looked for acoustic change. Well, what does that mean?
+D : That - that means you set some thresholds  somewhere or something, right?
+D : and - and so thresholds  from?
+D : From something that you looked  at. So
+D : always  new  data
+D : um
+D : And I think that's a problem
+H : Well, also what I'm  not  intended  mikes.  I'm  doing
+H : is trying to use the close-talking  mike
+E : Yeah!
+A : You have candidates.
+H : Can-  try  first  pass  sort  works.
+G : actually - actually -
+A : to make marking  easier.
+H : haven't  time  intending  to spend a lot of time on it.
+H : So.
+G : um, I, unfortunately, have to run, but, um
+G : I can imagine um
+G : that
+G : takes into account far-field  and the
+G : uh not  close-talking  speaker,  all  of th-
+G : all  of the speakers.
+G : um
+G : If you model  the -
+G : effect that
+G : me  speaking has on
+G : well  as on that,
+G : build a -
+G : as a state  possible  speaker  combinations
+H : Two to the N_ .
+H : Two to the number of people in the meeting.
+D : But -
+H : Anyway.
+D : Actually, Andreas may- maybe - maybe just something simpler  but - but
+D : um, mike  mike  mixers where, you know, t- in order to able to turn up the gain,
+E : Yeah
+D : can,  you -
+D : you - you lower  talking,  right?
+D : And then he had some sort of
+D : reasonable way of doing
+D : uh, what if you were just looking at very simple  like  don't  threshold  overall  in  microphones.
+H : I was thinking  originally  to find out
+H : who's  loudest,
+H : that  certainly  talking.
+H : But I also  threshold  overlap.
+E : I - I
+E : I analyzed the - the speech files from the, I found zones
+H : put your name in.
+A : But he's  read  that.
+E : including.
+E : because, eh to, eh, to get
+E : and then, if you consider energy to - to detect overlapping
+E : in - in, uh, and you process the - the - in - the - the - the speech file from the - the - the mixed signals. The mixed signals, eh.
+E : I - I think it's - it's difficult, um en-  with energy to - to consider that in that zone
+D : just when he - when Andreas raised  other  information to be gained from looking at all
+D : of the microphones and you may not need to look at very sophisticated
+D : because if there's -
+D : if most  of the overlaps -
+D : you know, this doesn't cover, say, three,  most  two,
+D : if the distribution looks like there's a couple  high  low,  there's some information there about their distribution even with very simple measures.
+D : Uh, by the way, I had an idea with - while I was watching Chuck nodding at a lot of these things, is that we can all wear little bells on our heads,
+D : so that
+E : Yeah.
+F : "Ding".
+B : I think that'd be really interesting too,  with blindfolds.
+H : Nodding with blindfolds, "what are you nodding  about?"
+B : Yeah.  whether -
+B : one  @@ , like.
+A : Actually, I  bus  cell  phone
+A : speaking Japanese, and was bowing.
+E : Yeah
+A : you know, profusely.
+F : Ah.
+B : You know, if you watch people they'll actually do  these things. So.
+B : I still think we should try a - a meeting or two with the blindfolds, at least  of this meeting that we have lots of recordings of
+B : Um, maybe for part  whole  meeting.
+D : I think it's a great  idea.
+B : you know, I can see Chuck  here.
+H : Well, we could just  lights.
+F : Actually well also -
+F : I - I can say I made  barr- barriers for -
+F : the Collin  wha-
+F : just used, um
+F : kind of foam board.
+F : R- really
+B : But then we also  these  mikes, is the other thing I was thinking, so we need a barrier that doesn't disturb
+B : sound,
+F : It's true, it would disturb the, um the -
+B : um
+D : Blindfolds  would be good.
+D : Probably we should wait until after Adam's set up the mikes,
+B : you know it's -
+B : Be interesting to have the camera going.
+A : I'll  peeking.
+F : form.
+H : Yeah, that's right,  tell  blindfolding.
+F : blindfolded  while you're interviewed?"
+D : that's - that's - that's the one that we videotape.
+D : Uh
+D : I did  @@  couple  folks,
+D : So this is the things that I think  we did
+D : obviously not everything  highlights  that I can -
+D : outside  working  on.
+D : Um in no particular order
+D : uh, one,  meetings  recorded,
+D : you know from - from, uh
+D : Uh
+D : sent to I_B_M.
+D : uh next batch of recorded data put together on the C_D-ROMs for shipment to I_B_M,
+H : Hasn't  sent  but  -
+D : yeah, that's why I phrased  it that way,
+D : yeah O_K.
+D : Um
+D : uh and release forms worked out so the meeting participants have a chance to request audio pixelization of
+D : audio pixelization software written and tested.
+D : Um
+D : and exploratory   analysis of long-distance inferences for topic coherence, that was - I was -
+D : sure  if those were the right way -
+D : describe  that because of that little exercise that -
+D : that you and - and Lokendra did.
+F : say again?
+D : I - well, I- I'm probably saying  this wrong, but what I said was exploratory analysis of long-distance inferences
+D : Something  like that.
+D : Um
+D : I -
+H : I - I did a bunch  stuff  supporting  digits.
+D : "Bunch of stuff for s-" O_K, maybe - maybe send me a sentence  that's a little thought through about that.
+H : So, O_K, I'll send you a sentence that doesn't just say "a bunch of"?
+D : " stuff " is probably bad too,
+H : "Stuff" is not very technical.
+D : Yeah, well.
+H : I'll try to
+H : phrase it in passive voice.
+A : Technical  stuff.
+D : " range  things ",
+D : Um
+D : what you  Jane
+D : Thilo, can you tell us about all the work you've  last three months? That's -
+C : Um.
+C : Um, I didn't get it. Wh- what is "audio pixelization"?
+D : Uh, audio pix- wh- he did  explain  it quickly?
+H : It's just, uh beeping  out parts that you don't want included in the meeting so, you know
+H : you can say things like, "Well, this should probably  record,  but beep"
+D : Yeah. We - we - we spent a - a - a fair amount of time early on just talk- dealing with this issue about op w- e- e-
+C : @@
+D : way  and they might say something that would embarrass them or others later", and,
+D : how do you get around  that so in the consent form it says, well
+C : O_K, and you can say -
+D : unhappy with, yeah.
+C : O_K.
+D : uh, well you have to be careful  moment
+H : Yeah, you can either beep  silence.  decide.
+H : which was the right  Beep  auditorily,
+H : listening  to it, there's no mistake that it's been beeped out,
+H : software  silence.
+A : No,  no. You can - you know, you could make a m-
+A : as long as you keep using the same beep,
+A : people  model  beep,  and -
+F : I like  that idea.
+H : And I use - it's - it's, uh
+F : It's very  clear.  Then you don't think it's a long pause.
+A : Yeah, it's more  obvious  was  there  than if there's just silence.
+D : Yeah, that - I mean, he's - he's removing  thing  and - and - and -
+A : But I mean if you just replaced it with silence,
+A : it's not clear whether that's really silence  or -
+C : @@
+F : all  channels?
+F : Interesting.  like  that.
+H : Yeah you have to do it on all channels because it's, uh audible.
+H : potentially  audible, you could potentially recover it.
+H : Well, I - I haven't  thrown away any of the meetings that I beeped. Actually yours is the only one that I beeped and then, uh
+H : the ar- DARPA meeting.
+B : quiet  I am.
+H : DARPA  completely,  so it's in a private directory.
+B : You have  some  only
+F : That's great.
+D : Alright, so, uh uh, go on to the digits?
+F : I have one concept a- t- I - I want to say,
+F : which is that I think it's nice that you're preserving the time  relations,
+F : s- so you're - you're not just cutting - you're not doing scissor
+F : the time duration of a - de - deleted - deleted part.
+H : Yeah, since we wanna possibly synchronize these things as well.
+H : Oh, I should have done  Oh well.
+B : bleepable and somebody else overlaps during it they also get bleeped, too?
+D : before we do the digits, I did also wanna remind people, uh
+D : So that, uh, people's ideas don't get yeah, well
+B : And, I  interesting
+F : Thank  Thank  you.
+B : meant  Switchboard  neat.
+H : I was gonna say "can you do that for the other meetings, can you do it for them?" And, no  can't.
+B : Yeah. Does it take -
+F : Thank you.
+A : Actually - actually I - I thought that's what you were giving us was another  meeting  and I was like, "Oh, O_K!"
+F : Yeah. Aw, thanks.
+B : How long does it take, just briefly, like
+F : No.
+F : I have  script  now, so, I mean, it can work off the, uh
+B : t- to -
+B : O_K.
+H : It's -
+B : to label the, O_K.
+F : other thing
+A : But it has to be hand-labeled  first?
+F : Uh, well, yeah.  well, I mean
+F : his  - his algorithm is up and running
+H : If it works  well enough.
+F : then we can do it that  way.
+H : Right now it's not.
+F : I - I just worked off of my
+D : O_K, go ahead
+F : Thanks.
+F : Appreciate  that.
+H : Not quite  to the point where it works.
+F : I think - what I - what this has, uh, caused me - so this discussion
+F : caused me to wanna subdivide  backchannels, how much we have
+H : Yeah, my - my algorithm worked great  these,
+H : that  or with the
+H : uh, lapel
+H : very  face,  failing.
+B : I mean if you -
+H : I mean, we want  work,  right?
+H : change  the way we do the meeting.
+A : It's too late now.
+B : I feel like this troublemaker.
+H : It's uh -
+H : comment  software,  not a comment on
+H : prescriptions on how you wear microphones.
+H : Transcript one six one one, one six three O_.
+H : five three O_
+H : six one eight five
+H : seven five O_ u-
+H : Strike that.
+H : seven five one O_ eight
+H : eight seven seven O_
+H : nine eight
+H : O_ O_
+H : zero zero zero nine one three nine
+H : two one three
+H : three four
+H : four two eight nine zero
+H : five nine seven eight zero nine eight
+H : six nine O_ two three eight five
+H : seven
+H : eight
+H : O_ five O_ nine four six five
+H : zero two zero seven one
+H : one seven five two nine
+H : two six zero zero zero seven two
+H : three
+H : four
+A : Transcript one eight five one dash one eight seven zero
+A : four six zero five five
+A : five nine eight seven
+A : six eight one four
+A : seven
+A : eight zero five four zero six four
+A : O_ one six O_ O_
+A : zero seven zero zero four six five
+A : one two two
+A : two seven one six six
+A : three
+A : four
+A : five zero seven four
+A : seven two five four four
+A : eight three three one
+A : nine three four two one
+A : O_
+A : zero nine nine
+A : one
+A : two
+A : four one
+B : three six O_ eight
+B : four
+B : five
+B : six
+B : eight three seven nine two
+B : nine four eight one five
+B : O_ eight eight O_ three
+B : zero
+B : one nine O_ five six
+B : two
+B : three five four five
+B : three three five two seven O_ nine
+B : six five two O_
+B : seven eight eight one two nine eight
+B : eight nine three six two three three
+B : nine
+B : O_ O_ six O_ three nine nine
+B : zero
+B : two four
+B : two two four four
+B : three four zero
+D : Transcript one seven nine one dash one eight one zero
+D : one
+D : two zero zero five eight
+D : four three zero
+D : five one
+D : six six
+D : seven five five four zero
+D : eight
+D : nine O_ O_ three five eight four
+D : O_
+D : one four three six nine
+D : two two four
+D : three seven two
+D : four seven
+D : five
+D : six
+D : seven zero five six
+D : nine one
+D : O_ five seven eight seven
+D : zero three eight one
+D : one seven two nine one O_ two
+C : O_K, transcript one eight one one dash one eight three zero
+C : two
+C : three zero six five
+C : four O_ six
+C : six one five four seven O_ six
+C : seven three seven eight nine O_ O_
+C : eight nine five two
+C : nine seven
+C : O_ nine six four nine
+C : zero
+C : one zero
+C : three two
+C : four four
+C : five six O_
+C : six eight six four
+C : seven seven four
+C : eight O_
+C : nine zero
+C : zero one nine
+C : one two
+C : two eight eight two six zero four
+E : zero zero five seven eight two zero
+E : two one
+E : three four eight three five eight six
+E : four five two O_
+E : five five O_
+E : six
+E : seven
+E : eight O_ four
+E : O_ three nine O_ two three O_
+E : six four nine two zero
+E : one five four three
+E : two seven nine
+E : three
+E : four O_ O_
+E : five O_ O_ four O_ three two
+E : seven one three four five three O_
+E : eight two five eight one four six
+E : nine five five seven
+E : O_ eight nine
+E : zero nine
+F : Transcript one seven five one dash one seven seven zero
+F : zero one
+F : one four nine
+F : two eight eight seven eight nine seven
+F : three five
+F : four
+F : five O_ O_
+F : six zero four zero one
+F : eight one two zero two seven six
+F : nine two three one five one eight
+F : O_ three three O_ two O_ five
+F : zero
+F : one
+F : two
+F : three O_ O_ three one eight four
+F : five two four
+F : six four
+F : seven five two two eight five one
+F : eight
+F : nine
+F : O_
+H : O_K, thank you.
+F : Do you want us to put a mark  bottom  read,  or
+F : i-
+F : wasn't  read is -
+F : is known, so we don't do it.

@@ -1,0 +1,357 @@
+D : So.
+D : No, satly  the mes- the Mel Cepstrum, the new base system - the new base system.
+E : Oh the - O_K, the Aurora  system.
+D : one that only have t- three output, voice, unvoice, and silence, and
+D : The probabilities of the allophone . And
+D : li- a little bit better, but more or less similar.
+C : No no, what feeds  features  does it see?
+D : The feature - the input?
+D : bases  feature.
+D : the variance of the auto-correlation function, except the - the first point, because half the height value is R_zero  and also R_zero,
+D : Uh yeah.
+D : Auto-correlation? Yes, yes, the variance of the auto-correlation function that uses that @@
+C : Well that's the variance,  but if you just say "what is -" I mean, to first order,
+C : Another one is - but the other one is the spectral shape.
+C : "does the spectrum look like that  that ".
+A : Oh. R_ - R_zero.
+C : like that  that,
+C : it's probably silence.
+C : Uh but if it's low energy and the spectrum looks like that,
+C : it's probably unvoiced.
+C : Right. S- Yeah. Um,
+D : Bec- because the result are a little  bit better but we have in a point that
+C : Right. But it - it could be something else. Suppose you didn't  have anything like that. Then in that case, if you have two nets,
+C : whatever, fifty-six, or something, if you were to sum up the probabilities for the voiced and for the unvoiced and for the silence here,  better  this  one.
+C : So just having  buy  you anything.
+C : The issue is what you feed  it.
+E : So you're saying take the features that go into the voiced-unvoiced- silence  other  one,
+C : W- well that's another way. That wasn't what I was saying  do.  No I was just trying to say if you b- if you
+C : based on whether you feed  it something different.
+C : And something different in some fundamental way.  And so the kind of thing that - that she was talking about before,
+C : is chosen  in fact to sort of integrate out the effects of pitch and she's saying you know trying - So the particular measure that she chose was the variance of this m- of this difference,
+D : Maybe.
+C : Right? I mean maybe there's something about the variance that's - that's not enough or maybe there's something else that - that one could use,  but
+C : I think that, for me, the thing that - that struck me was that uh you wanna get something back here, so here's - here's  an idea.
+C : uh What about it you skip all the - all the really clever  spectrum  into this?
+C : That's a clever  clever?
+C : And you just took this  thing in here because it's a neural net and neural nets are wonderful and
+C : I mean that's what they're good  at.
+C : So I mean you're - you're - you're trying to be clever  statistic  that should - we should get about this difference but uh in fact,
+C : or feeding both  of them in
+C : you know, another  it  figure out what's the - what is the
+E : don't do the division,  but let the net
+E : have everything.
+C : But, it's kind of crazy,  if you just multiplied it out.
+C : But suppose you don't really know  good  at. So.
+C : Um. Anyway.  It's just a thought.
+D : uh no, the frame  error rate? Fifty-six I think.
+C : Yeah, voiced-unvoiced hopefully  better.
+A : Should be in nineties  somewhere.
+D : Silence  will be better but more or less the same.
+C : That's pretty bad.
+D : Yeah,  noise  also.
+D : I know.
+C : Oh yeah, in training.  Still,
+C : Well actually,  do  then.
+C : Um, if you're getting fifty-six percent over here, uh that's in noise also,  right?
+C : If you're getting fifty-six here,
+C : and see what you get then.
+C : I bet you get better than sixty- three.
+D : I remember @@  that I can't show that.
+C : Uh and that - you know anything that you do over here should be at least  as good as that.
+C : O_K.
+D : Uh,
+C : Oh.  TIMIT.
+A : Yeah, noisy  TIMIT.
+C : But noisy  TIMIT?
+C : I see.
+A : Hmm!
+E : For Aurora?
+C : the issue is whether people make a decision now  later.  later  is let's make sure
+E : When would they do  that?
+C : O_K, thanks.
+D : well  seriously the France Telecom proposal to look at the code and something like that
+D : carefully what they are doing with the program @@  and I begin to - to work also in that.
+E : They have a constant  in there, you said?
+C : uh times the - Well, this is natural  log, and maybe it has something to do with the fact that this is -
+E : Is that some kind of base
+C : Yeah, that's what I was thinking,  but - but um,
+C : I don't know.
+D : Because maybe they're - the threshold that they are using on  take  exactly this value.
+E : base two.
+C : Sixteen over
+E : Does it have to do with those sixty-fours, or - ?
+C : If we ignore  sixteen,
+C : the natural log of t- one  two  times the natu-
+C : I  don't know.
+C : Well , maybe somebody'll think of something, but this is uh -
+D : @@  I can understand the effect of this, no? because it's to -
+C : this is gonna be the natural log of one,  zero.
+C : to
+C : Uh, why they chose sixty- four  and something else, that was probably just experimental.
+D : Well. I - I will look to try if I move this parameter in their code what happens, maybe everything is -
+D : Maybe they tres hole are  on basis of this.
+C : Yeah.
+C : and so maybe that puts it in the right realm somewhere.
+D : I - this more or less anything
+C : so - so I thought, make sure somebody  go.
+C : I think for engineering students of any kind,  I think it's - it's if you haven't been there much, it's good to go to,
+C : uh to get a feel  speech.  Uh.
+C : So. I mean, I  didn't get to it.
+C : Wanna talk a little bit about what we were talking about this morning? Just briefly, or
+A : Oh! um
+A : Yeah.  So. I - I guess
+A : Yeah.  Yeah.
+A : um system to do phone  TIMIT.
+A : a set of phones, at least found in TIMIT.
+C : uh, maybe the first thing to do is just to count
+C : uh that you were counting,  values  for these ten bits,
+C : you could uh do phone recognition then and uh wouldn't have any of the issues of the uh training of the net or - I mean, it'd be on the simple  side, but
+C : um -
+C : But you'd get all the other  wrong.  nothing  tell  you that.
+C : uh
+C : If you just do this by counting, then you should be able to find out in a pretty straightforward way whether you have a sufficient uh set of events to - to do the kind of level of - of uh classification of phones that you'd like.
+C : O_K, how do you get the - your training  data.
+C : Cuz uh the transcription  project uh uh you know was
+C : uh similar - to what you're talking about with TIMIT training. So,
+E : you know, go through a few sentences, mark them   by hand and then see how different it is
+E : h- if it really even makes a difference.
+C : and hopefully there should be some point at which
+E : other  sequences  these  events
+E : too.
+C : Uh, you could,  but the thing is, what he's talking about here is a uh - a translation to a per-frame feature vector,
+C : so there's no sequence  think.  I think it's just a -
+E : I'm adding complexity.
+C : O_K, and you were saying something - starting to say something else about your - your class project, or - ?
+A : the - the simple  idea behind a support vector machine is
+A : what it - i- at the end of the day,  actually  does is
+A : um these features, or - or these - these examples,
+A : critical  examples,
+A : given a new  example,
+A : if the new  example falls
+A : um away  from the boundary in one direction then it's classified as being a part of this particular class
+E : boundary itself  is?
+A : Um. Hmm.  Let's see.
+A : Uh.
+C : You know, it - it goes back to nearest-neighbor sort of thing, right? Um,
+C : Um but of course if you have lots and lots of examples, then it can take a while to - to use  nearest-neighbor. There's lots of look ups.
+C : So a long time  ago people talked about things where you would have
+C : uh a condensed  nearest-neighbor, where you would - you would - you would pick out uh some representative examples which would uh be sufficient to represent - to - to correctly classify everything that came in.
+C : to that  kind of thing.
+E : I  see.
+C : neural net approach uh or Gaussian   mixtures for that matter are sort of - fairly brute force kinds of things, where you sort of -
+C : these things do  take a lot of parameters and - and uh
+C : uh learning  them.
+C : so I - I guess  the idea to this is that it - it is reputed to uh be somewhat better in that regard.
+A : Right. I- it can be a - a reduced um certain selected examples.
+A : Actually you don't get a - you don't get a nice number between zero and one. You get - you get either a zero or  one.
+A : it's um
+C : Yeah, and d- did they use sigmoid  softmax
+A : Um
+C : Oh, so it is  a sigmoidal.
+C : I mean , they're O_K, I - I don't - I don't think they were earth - earth shattering, but I think that
+C : to try  this and
+C : you know, it was the first time they tried  it, so -
+C : I don't even remember what the task  was,
+C : it was Broadcast News, or
+B : Oh. O_K .
+A : Oh! Uh I haven't gone through the entire table,
+C : But a- as I was saying, people do  get probabilities from these things, and - and uh
+C : we were just trying to remember how they do,  have  have  gotten probabilities. So they have some conversion from these distances to
+B : And -  O_K. O_K.
+A : Yeah, I can - I can show you - I - yeah, our  -
+E : So in your  you're  doing, uh
+A : Uh, is this the class project, or - ?
+A : Right,
+E : come up with the phones? or to come up with these vectors to see how closely they match the phones, or - ?
+A : uh w-
+E : I think  so.
+A : C-
+E : a vector of these ones and zeros and then try to find the closest matching phoneme to that vector, or - ?
+A : Oh. No, no. I'm not - I'm not planning to do any - any phoneme mapping yet.  Just -
+E : I wo- did they compare that - I mean, what if you just did phone recognition and did the reverse  lookup.
+E : So you recognize a phone  and which ever phone was recognized, you spit out it's vector of ones and zeros.
+A : Mm-hmm.
+E : Yeah. No.
+E : Insertion penalty?
+E : What I've been doing  is
+E : well it seems like there's a bug,
+C : Yeah, I agree,  but I thought that the normalization difference was one of the
+E : think that the normalization difference is gonna account for everything.
+C : Yeah, that  sense,  to check all that.
+E : Yeah. So I was doing that first,  before I did these other things, just to make sure there wasn't something -
+C : Although really,
+C : uh
+E : Yeah, and I think, hhh - I'm trying to remember but I think I recall that Andreas was saying that he was gonna run
+E : sort of the reverse  experiment.
+E : normalization that we  cepstral  features.
+E : back up from the system that he  had.
+E : I thought  he said he was gonna - I have to look back through my - my email from him.
+C : roughly  equivalent,
+C : um
+C : I mean the other  thing I wonder about was whether there was something just in the -
+C : their system  which was
+E : S_R_ I  works  directly,
+E : whereas with our  features, he's actually storing
+E : the cepstrum on disk, and he reads those  in. But it looked like he had to give it -
+E : com- computation that his mel cepstrum  thing does, so
+E : I - I don't know if that - it probably  ignores  it if it determines that it's already
+C : So, O_K. Let's go back to what you thought
+C : Ha!
+C : Oh! You had the sa- same answer anyway.
+E : Yeah.
+C : Uh-huh.
+E : So one thing that I did  notice, yesterday I was studying the um -
+C : Uh-huh.
+E : and we use everything.
+C : Yeah, I don't think it's in there,  I think it's in the uh uh
+C : uh the filters.
+C : So, the F_F_ T  filters
+C : The filter  T  bins.
+C : it actually copies
+C : uh features  filters,  I think,
+C : uh you specify,  last  ignored.  So that - that's a way that you sort of
+C : Yeah, so the idea is that the very lowest frequencies and - and typically the veriest highest frequencies are kind of junk.
+C : Yeah,
+C : I think that's a fixed  thing. But
+C : If you had ten  filters,
+C : then you would be throwing away a lot  at the two ends.
+C : fifty  anything.
+E : Use this  analysis bandwidth or something.
+E : you know just calling the RASTA libs and thing like that. And I didn't - I couldn't see any wh- place where that kind of thing was done.
+E : I didn't quite understand everything  that I saw, so -
+C : Yeah, see I don't know Feacalc  at all.
+C : phonetic classification at all.
+E : Another  thing I was thinking about was um is there a -
+E : I was wondering if there's maybe um
+E : So that, in effect, what I could do  cepstrum
+C : kind of difference from before,  actually  advantage  P  think,  is that the - the smoothing at the end is auto-regressive instead of being cepstral -
+C : uh, truncation.
+C : think  advantage.
+C : uh but we did  -
+C : eh we did  hear this comment
+C : from people at some  point,
+C : uh they got some better results with the triangular filters rather than the trapezoidal. So that is  an option
+C : in RASTA.
+C : play  that.
+C : But I think you're probably  bugs  first.
+C : I don't know.
+C : Could  be.
+E : One  did  notice  was that the um
+E : average amount of pruning  that was happening
+E : was therefore a little bit higher
+E : So, since he used the same exact pruning  thresholds for both,
+E : I was wondering if it could be that we're getting more pruning.
+C : He used  identical  pruning  range  of p- of the likeli-
+C : Oh well that's  -
+C : That's a pretty good there.  Yeah.
+C : I would think  that you might wanna do something like uh
+C : you know, look at a few points to see where you are starting to get significant search  errors.
+E : um a couple of the utterances that he  had run through,
+C : if - if that looks promising  you could, you know, r- uh run
+C : and presumably  he's running at some pruning threshold that's -
+C : But you may be in the wrong range  P  reason.
+C : exactly - behave  same.
+E : Uh.
+C : I guess this was a little  bit off topic, I guess, because I was - I was thinking in terms of th- this as being a - a - a - a core
+E : Yeah
+B : as far as my  stuff goes,
+C : What's - what's on -
+B : I take that  frame and four f- the four - I take - Sorry, I take the current frame and the four past frames and the
+B : four future  frames and that adds up to six seconds of speech.
+B : of the log magnitude spectrum over that N_.
+B : Uh-huh .
+C : actually a little side  think  that's the first results that we have
+C : uh of any  sort
+C : on - on the far field data
+C : uh for - recorded in - in meetings.
+C : Did he ?
+C : On the near  field, on the ne-
+B : On the far  also.  He did one P_Z_M channel and one P_D_A channel.
+C : Oh did  he?
+C : Oh! I didn't recall  that.
+C : What kind of numbers was he  getting with that?
+B : I'm not sure,  I think it was about five percent error for the P_Z_M channel.
+C : Five.
+C : So why were you getting forty- one  here? Is this -
+C : No, but wait  a minute. I -
+C : I think he -
+C : Maybe  right.  Yeah. Cuz it was getting like one percent -
+C : So it's still  this   one  near  Wasn't  it?
+C : for the close  mike.
+C : So it was like one to five - So it's still  this kind of ratio. It's just -
+C : is at some point just to take -
+C : Um.
+C : So here's this other  better,
+C : still  ratio.  five  percent error
+C : with the - the distant mike, and one percent with the close  mike.
+C : how close to that one  can you get
+C : if you transform the data using that  system.
+B : O_K .
+B : That's - that's the -
+C : but you've already seen  is  added noise here.
+B : O_K, so it's then - then it's - it's -
+C : Yeah, I mean, as  helpful - I mean,
+C : so that's  the question.
+C : Yeah, w- we're often asked  this when we work with a system that - that isn't - isn't sort of industry - industry standard great,
+C : on a - on a good  system.
+C : uh
+C : you know, this other one's  - it was a pretty good system. I think,
+C : uh you know stellar,  but -
+C : but given that this is real
+C : digits, as opposed to uh sort of laboratory  -
+E : And it wasn't trained  on this task either.
+C : And uh so the - the four or five  poor.
+C : basically get it wrong  almost all the time.
+C : um a significant reduction in the error for that  great.
+C : And - and then, uh Yeah.  So.
+C : I actually have to run.
+C : Yeah. Thank you
+E : Yep.
+C : Actually,  first,  come to think of it.
+C : Then I can be out of here quickly.
+C : O_K, this is transcript L_ dash one one zero.
+C : nine zero two five seven three two six six
+C : one six six six seven four two zero eight
+C : five one six nine four seven seven nine five zero
+C : five six zero two two five seven seven
+C : six zero eight nine zero seven two six four five
+C : two one nine two eight nine five five eight eight
+C : three two five zero two nine three four
+C : four six one two zero eight eight five
+A : Um transcript L_ one one one.
+A : three six two eight three three two two O_ seven
+A : one six six five four two six eight nine zero zero six
+A : three nine three three four seven five four seven nine six zero
+A : nine nine zero three seven four three two seven five four two
+A : four nine three five one nine seven eight one
+A : eight five O_ four nine four zero seven five three
+A : seven five eight four four one seven zero one
+A : eight five five three two five O_ three eight
+E : Transcript L_ dash one one two.
+E : zero seven eight seven six two one six four six five three
+E : one two five eight four seven seven two seven zero
+E : six three six three four seven nine seven six
+E : five two nine nine three two seven three two nine
+E : nine nine three eight nine one four one seven six O_ four
+E : four zero zero eight six seven four five eight
+E : zero six six three five nine seven seven seven
+E : seven three five five three two four five zero eight
+B : R- I'm reading transcript L_ dash one one three.
+B : six five six nine seven two eight four four O_ eight seven
+B : five one eight seven four zero five seven zero two
+B : four two five O_ three seven six eight one
+B : seven seven nine two one seven nine zero nine
+B : zero six zero five six eight eight five nine
+B : five two two two five five six six two nine
+B : one one seven two zero six seven one six two
+B : zero two three zero one nine zero two three
+D : Transcript L_ dash w- one one five.
+D : zero six four seven three two two seven one
+D : zero eight seven five eight six seven three
+D : seven five seven five five one one nine one four
+D : nine eight four one nine three one zero zero two
+D : four one zero three six eight two one nine
+D : six two eight nine six nine one eight six
+D : five six five zero three one one six
+D : six three nine eight seven eight three nine eight nine

@@ -1,0 +1,483 @@
+A : O_K, we're going.
+B : Let's see.
+B : Move it bit.  Test?
+B : Uh, and when they had the reverberation here,  uh, we'll measure the signal-to-noise ratio and it's, uh, about nine D_B.
+B : So, um,
+D : k-
+B : Um, I know that when you figured out the filters  that we're using for the Mel scale,
+B : but one of the differences that we found between the two systems that we were using,
+B : and the system that we were - the - the uh, other  system we were using, the uh, the S_R_I system,
+D : Yeah  @@
+B : Dave thought it was twenty,  but.
+D : Oh, it's - it's zero  filter?
+B : What kind of filter is that?
+D : Yeah, yeah. So it's - it's a weight on the ball  spectrum.
+B : still,  noise.
+B : So I wonder, is it - @@  Was there - their experimentation
+D : Um, yeah, we - we've tried including the full - full  bank.
+D : And   that's always worse than using sixty-four hertz.
+B : uh, low.
+D : Yeah, I mean, make it a hundred  or so?
+B : Um, it was  on the SpeechDat-Car.
+B : also?
+D : No, no, no. I think I just tried it on SpeechDat-Car.
+B : eh, he was looking at was performance in this  room.
+B : Well, you'd think  that'd be more like SpeechDat-Car, I guess, in terms of the noise.
+B : But, um - but it's still  pretty noisy. Even - even for a hundred hertz up, it's - it's still fairly noisy. The signal-to-noise ratio is - is -
+B : So, um, I mean, the main - the - the -
+A : So that's on th- that's on the f- the far  field ones though, right? Yeah.
+A : So wha- what is, uh - what's causing  that?
+B : And, uh, so I think when - when he gets done with his prelim study I think one of the next things we'd want to do is to
+B : Yeah. So.
+B : a recognizer, uh, system that was capable of taking advantage  of a really large training set -
+B : I thought that -  using  using
+B : all those parameters just set as they are.  So even if we had a hundred times as much data, we wouldn't
+B : that, uh - that seemed to be - So, if you have that -
+B : that better  recognizer that can - that
+A : uh, started working on the
+D : Oh, O_K.
+A : And another wad   - was a, um,
+D : Eight.
+A : compiled it.
+A : No - Well, I haven't grabbed that  two.
+D : Oh, there is another  short sample set - o- o- sample. O_K.
+A : There was another  short  latest  one that he just, uh, put out yet.
+A : And, um,
+A : Or if I did  yet .
+D : Cuz  they have it -
+D : Cuz they have, uh, already frozen those in i- insertion penalties and all those  stuff is what - I feel. Because they have this document
+D : Uh, it's th- it's there on that web. And, uh, on that,  I mean, they have run some experiments using various
+B : But that has nothing to do with what we're testing  on, right?
+D : uh, training part of the Wall Street Journal. Which is - I mean, the Aurora.
+B : O_K. So now,  we may come back to the situation where
+A : Yeah, O_K. Do you think that's something I should just send to him  list.
+B : Well, it's not a secret.  I mean, we're, you know, certainly willing to talk about it with everybody, but I think - I think that, um -
+B : Uh @@  think  done  about it. Um,
+B : you know. Uh - But, I mean, I think it all should  come up eventually, but if - if -
+B : features.  isn't,  also  there's probably not
+D : Oh. @@  So this is now - it's - it's compiled under Solaris?
+A : Yeah, i- that was a particular version.
+D : SUSI  yeah.
+A : Yeah, SUSI  or whatever it was but we don't have that. So.
+A : Should  fine  actually. No - no errors. Nothing. So.
+D : That's  good.
+B : one of the thing- I don't know - Well, we'll see how much they accomplish,  trying  to do in the
+A : Hmm.
+A : Wow.  That  would be neat.
+D : Hmm.
+C : Um, so it's exactly the same approach, but
+D : @@
+D : Yeah, it was  not  compensated .
+C : This - So, actually, we, yeah,  here  the features are noise compensated and there is also the L_D_A filter.
+C : um, nine frames of -
+A : Is that nine frames u- s- uh, centered around the current frame? Or -
+B : which - actually shouldn't be a problem, even in - in small phones. Yeah.
+C : So the previous syst- It's based on the system that has a fifty-three point sixty-six percent improvement.
+B : And,  better.
+B : That's great.
+C : So it's - it's not bad,  but the problem is still that the latency is too large.
+B : Two-seventy.
+C : The two-twenty is one hundred milliseconds for the um - No, it's forty milliseconds for t- for the, uh,
+C : Which is a million filter it ,
+B : @@
+C : @@  -
+B : @@
+D : t- If you are using three  three  frames, it is thirty here for delta.
+C : Yeah, I think it's - it's five  frames, but.
+D : So five  frames, that's twenty.
+D : O_K, so it's who un- two hundred and ten.
+B : Uh, p- Wait a minute. It's forty - forty for the - for the cleaning of the speech, forty for the I_N_ - A_N_N, a hundred for the smoothing.
+B : Well, but at ten - ,
+D : At th- input.  I mean, that's at the input to the net.
+B : and t- and ten - another  milliseconds   you said for the frame?
+B : O_K. And then there's delta besides  that?
+B : hhh,
+B : Wait a minute. Some  parallel,  isn't it? I mean, the L_D_A -
+C : The V_A_D use, uh, L_D_A filtered features also.
+B : Oh, it does?
+B : So in that case there isn't too much in  parallel.
+B : Um, so the delta at the end  is how much?
+C : But well, we could probably put the delta, um,
+A : Could that  help a little bit?
+A : I mean, I guess there's a lot  of things you could do to -
+B : So- Yeah. So if you - if you put the delta before the, uh, ana- on-line - If - Yeah - uh - then - then it could go in parallel. And then y- then you don't have that additive -
+B : O_K.
+B : And you ought to be able to shove tw-  somewhere  else to get it under two hundred, right? I mean -
+B : mill- a hundred milliseconds for smoothing is sort of an arbitrary amount. It could be eighty and - and probably do @@  -
+B : Well, we don't know. They're still arguing about it. I mean, if it's two - if - if it's, uh -
+C : @@
+A : So, how do you know that what you have is too much  if they're still deciding?
+B : Uh, we don't, but it's just - I mean, the main  thing is that since that we got burned last time,
+B : and - you know, by not worrying about it very much, we're just staying conscious  of it.
+B : And so, th- I mean, if - if - if a week before we have to be done someone says, "Well, you have to have fifty milliseconds less than you have now", it would
+A : But still,  win.  And it doesn't seem like you're - in terms of your
+A : delay,  you're, uh, that -
+B : He added a bit on, I guess,  before  we were - we were - had - were able to have the noise,
+B : uh, stuff, uh, and the L_V_A be in parallel.  And now he's - he's requiring it to be done first.
+B : Right. Well, so you say - let's say ten milliseconds   - seconds for the L_D_A.
+C : and - but - the L_D_A is, well, pretty short  right now. Yeah.
+C : Mmm.
+C : @@
+B : you know, that's - that's the difference as far as the timing,  right?
+A : Where - where is this -
+D : Point s-
+A : Oh.
+A : Wow. So this  percent.
+B : With the f- with  the neural net. Yeah, and r- and -
+D : first  one.  It was forty-four, actually.
+C : It would-
+B : We're - we're doing better.  I mean, we're getting
+B : better recognition.  either,  but -
+B : Uh, I mean, the important  thing is that we
+B : Yeah.  So, our,
+B : it's really, um - I think  it's just sort of -
+B : to be.
+B : I mean, it's still terri-
+B : Yeah.
+B : Good!
+D : o- o-
+A : So that would be even - That wouldn't change this number down here to sixty-two?
+C : If you add a g- good v- very  good V_A_D,
+B : Probably.  Yeah.
+B : That's great.
+C : Uh, but I started to play with the, um,
+C : uh, tandem neural network.
+C : Mmm
+C : So there is just this
+C : Um, so it's - makes forty-five features
+B : Yeah, h- he likes to use them both,  cuz then it has one part that's discriminative, one part that's not.
+A : Uh- huh.
+C : that - i- I just tested on SpeechDat-Car while the experiment are running on your  - on T_I-digits.
+A : Compared to these  numbers?
+C : @@
+C : I don't know. Uh.   It's -
+C : uh, trying to go down and
+D : Yeah. Yeah. Yeah.
+C : So -
+C : Um.
+A : I don't know, maybe I don't u- quite understand everything, but that adding features -
+A : I guess - I guess if you're keeping the back-end  fixed.
+A : Maybe that's  it. Because it seems like just adding information shouldn't give worse results. But I guess if you're
+A : keeping the number of Gaussians fixed in the recognizer,  then -
+C : Mmm.
+B : Suppose the information you added, well  noise.
+B : completely terrible,  completely  equivalent  another  one feature that you had,
+B : except it was noisier.
+B : Right? In that case you wouldn't necessarily expect it to be better at all.
+A : Oh, yeah, I wasn't necessarily saying it should be better.
+A : I'm just surprised that you're getting fifteen percent relative worse
+B : So having - having, uh, a g- a l- a greater number of features,  easily,
+B : I mean, you're right.  If you have - if you have, uh, lots and lots of data,
+D : So, was the training set same as the p- the February proposal?
+D : @@
+B : better training sets. Again. But, I - The other  before  you found that was the best configuration, but you might have to retest those things now that we have different -
+B : uh,
+B : I mean, you know what the straight  this.
+B : You know what it does in combination.
+A : What if you did the - Would it make sense to do the K_L_T
+A : on the full set of combined  features?
+C : Yeah. I g- I guess.  Um. The reason I did it this ways is that
+A : So you tried  the global K_L_T before and it didn't really -
+B : And is - are - i- i- are - are any deltas being computed of tha- of them?
+B : Are not.
+B : Could.  i-
+B : Uh, now I lost track of what I was thinking. But.
+B : Oh, I know what I was gonna say.
+B : issue  was that, um, this is supposed to be a standard that's then gonna be fed to somebody's recognizer somewhere
+B : maybe  maybe with the noise removal, uh, these things are now more correlated.
+B : within themselves,
+B : but they're pretty correlated with one another.
+B : And, um,
+B : Maybe.  You know .
+C : zero to clean?
+B : uh, lots
+B : Of course, you do  have the problem that,
+B : u- i-
+B : to match  anything. So we're only improving the training of our feature set, but that's still probably something.
+B : Yeah, that's the only place that we can train.  We can't train the other stuff with anything other than the standard amount, so.
+A : What - what  was it trained on again? The one that you used?
+B : How big  net,  by the way?
+D : So is it - is it though  the performance,
+C : Yeah. @@ ?
+C : They - k- uh -
+C : Mmm.
+D : I mean, earlier  had  any compensation, you just trained it straight away.
+D : is it something to do with the mismatch that - that's created after  the cleaning up, like the high mismatch -
+B : Oh, so - Right. So the training - the - the neural net   is being trained with noise compensated
+D : @@
+B : stuff. Which makes sense,
+B : ones are still  going to be,
+B : even after our noise compensation, are still gonna be pretty noisy.
+D : Yeah, so now the after-noise compensation  the neural net is seeing a different set of S_N_Rs than that was originally there in the training set.
+D : So the net saw all the S_N_R @@
+B : Right, but the SpeechDat-Car data that you're seeing is also  noise  compensation.
+D : Yeah, yeah, yeah, yeah, it is.  But, I'm saying, there could be some -
+B : Yeah, I mean, it depends on whether you believe that the noise compensation is equally reducing the noise on the test set and the training set. Uh -
+D : On the test set, yeah. @@
+B : Right? I mean, you're saying there's a mismatch in noise
+B : that wasn't there before,  same  equally,
+B : there would not  be a mismatch.
+B : noise compensation process may be imperfect,
+B : but. Uh, so maybe it's treating some things differently.
+C : Yeah. So -
+D : So cleaning up the T_I-digits and if the performance
+D : goes down  in  high  mismatch like this -
+C : Mm-hmm. Yeah.
+B : So it's not the same. I don't think there's anybody  recording over a car
+B : uh - the condition - It - it gave us an enormous  Meeting  Recorder digits, even though
+B : there, again,  these m- Macrophone
+B : digits were very, very different  from, uh,
+B : what we were going on here.  I mean, we weren't talking over a telephone here.
+C : Yeah, actually to s- eh, what I observed in the H_M
+B : Number of  deletions.
+C : Yeah, so I don't you know
+B : Yeah. Me either.
+B : cases that got better?  Say, for the - I mean, it - So it's only the highly mismatched?
+B : subtracting off speech.
+C : Separating
+C : Yeah. Mm-hmm.
+B : But, yeah, actually  -
+B : the TIMIT noises are sort of a range of noises and they're not so much the stationary
+C : Uh, there is  a car noise. So there are f- just four noises. Um,
+C : and - "Street" isn't - " Train  station", yeah.
+B : Actually, you - maybe you remember this. When you - in - in the old  experiments when you ran
+B : make things better  same?
+B : Than - ?
+B : Well, that's  interesting.
+C : all these things, then -
+B : Well, I still  think it would be k- sort of interesting to see
+B : uh, maybe  not  just a little bit worse. Maybe that
+B : they're a lot  worse.
+B : uh, it's, say, somewhere in between  what you're seeing now and - and - and, uh, what you'd have with just the pure features,
+B : then maybe there is  some problem of a -
+B : If it really is that the net  hurting  you at the moment, then
+B : focus on - on, uh, improving the - the net.
+B : somewhat better, say, five percent better, for the first two conditions, and fifteen percent worse for the other  one?
+B : But it's - but of course that one's weighted  effect  is.
+D : Well, it will - overall  it will be still better even if it is fifteen percent worse,
+B : Right. So the - so the worst it could be, if the others were exactly  four,
+D : Yeah.
+C : Mm-hmm.
+A : You know, I've  been wondering about something. In the, um - a lot of the, um -
+D : saying is, like, you take a block of features, like nine frames or something,
+A : Yeah, you c- you c- you can.  I mean, it's - you know, you're just basically i-
+D : two dimensional tile .
+A : You're shifting the feature space. Yeah.
+D : So this is a two dimensional tile .
+D : high  cost frequency. So it's like - more like a filtering in time, rather than
+A : what i- w- I mean, I don't know if this is a good idea or not,  other  kind of L_D_A,
+D : m-
+A : Right, it's the - It's - Right. The - So - Yeah, so it's sort of like - The tandem  stuff is kind of like i-
+A : nonlinear L_D_A. Yeah.
+A : But I mean, w- but the other  features that you have, um,
+A : th- the non- tandem  ones,
+B : The a- the argument  know,  argument  anyway is that, um,
+B : uh, we always  have the prob- I mean, discriminative things are good. L_D_A, neural nets, they're good.
+B : uh, maybe not - not gonna be helpful just because they're small,  basically.
+A : Right.
+B : So you f- you - you face the potential  problem with discriminative stuff, be it L_D_A or neural nets, that you are training
+B : to discriminate between categories in one  really  else.
+B : And so, uh, Stephane's  idea was,
+B : uh, let's feed, uh, both  this discriminatively trained thing
+B : and something that's not.
+B : So you have a good  set of features that everybody's worked really hard to make,
+B : and then, uh, you - you discriminately train it, but you also
+B : take the path that - that doesn't  together.
+B : it's, you know, you have  that  and use them as a feature combination with these - these other things.
+B : And that seemed, at least in the last  one, as he was just saying, he -
+B : he - when he only  did discriminative stuff,
+B : i- it actually was - was - it didn't help at all  in this particular case. There was enough of a difference, I guess, between the
+B : But by having them   both  some  of the time,
+B : the discriminative stuff is gonna help  you.
+B : And some  hurt  you, and by combining two information sources if, you know - if - if -
+B : Um, and in principle  think  that the neural net would do
+B : at the discriminant  part than L_D_A.
+B : Though, maybe not.
+A : Yeah.  Exactly.  five  system,
+A : and, um, Andreas and I talked  about it, and
+A : the idea w- the thought  was, "Well,
+A : uh, yeah, that i- you know - th- the neural net should be better,  but we should at least have
+A : uh, a number,  you know, to show that we did try the L_D_A
+A : in place  of the neural net, so that we can
+A : you know, show a clear path.  without  it, then you have the L_D_A, then you have the neural net, and you can see,
+B : Did - did you do  that or - tha- that's a -
+A : Um. No. That's what - that's what we're gonna do next
+B : Yeah. Yeah. No, well, that's a good idea.
+B : i- Yeah.
+A : We just want to show.  believes  it, but you know, we just -
+B : No, no, but it might not - not even be true.  I mean, it's - it's - it's - it's - it's a great idea. I mean,
+B : uh, looking at all  versions  of them. And,
+A : Yeah, and everybody's putting that on their systems  now, and so, I- that's what made me wonder about
+A : everybody's  you know, L_D_A on their features. And so. Uh.
+C : as the final H_M_M  are.
+A : Yeah, so it's different.  they  you  guys have. So that's why I was wondering if maybe it's not even a good idea. I don't know.
+B : I mean, part  of why - I - I think part of why you were getting into the K_L_T - Y- you were
+B : uh, you know, getting good orthogonal features was - and combining  the - the different
+B : ranges  - was the key thing that was happening or whether it was this discriminant thing, right? So you were just trying -
+B : orthogonalizing transformation, you were trying that  at one point, right?
+B : Does something.  It doesn't work as well.
+D : So it's like a scale @@  probability value.
+D : the advantage being like it doesn't have the latency of the neural net if it - if it can g- And it gave me like, uh, one point -
+D : One - more than one percent relative   improvement. So, from fifty-three point six it went to fifty f- four point eight. So it's, like,
+D : only  slightly more than a percent improvement, just like -
+B : But - i- d- I'm sorry, does it still have the median filter stuff?
+D : It still  has the median filter. So -
+B : So it still has most  of the delay, it just doesn't -
+D : Yeah, so d- with the delay, that's gone is the input,  which is the sixty millisecond.
+D : The forty plus twenty.
+B : Mm-hmm.
+B : Mm-hmm. Mm-hmm.
+D : The problem f- for me was to find a consistent threshold that works well across the different databases, because I t-
+B : Mm-hmm.
+B : Mm-hmm.
+D : uh, correlation - auto-correlation or some s- additional features of  - to mainly
+D : the improvement of the VAD .
+B : "before and after  feature.
+B : What about using it in the neural  net?
+D : Yeah, so - Yeah, so that's the - Yeah. So we've been thinking about putting it into the neural net also.
+C : Then you don't have to worry about the thresholds and -
+B : Yeah. So if we - if we can live  elsewhere,  then - then that would be a,
+B : good thing. Um, anybody - has anybody - you guys or - or Naren , uh, somebody, tried the, uh,
+D : So it was like, uh, forty-five cepstrum plus twenty-three mel - log
+D : And - and , just, like, it gave me the baseline performance of the Aurora, which is like
+D : zero improvement.
+D : So I just tried it on Italian just to know that everything is - I  anything  out of it because it was, like, a weird feature set.
+D : So.
+B : Yeah. Well, what I think, you know, would be more  neural  net.
+B : Right? And then -
+B : figure out the neural nets, I guess.
+D : The uh, other  thing I was wondering was, um,
+D : The - the - We have  flag.  I mean, should we f- feed the V_A_D flag, also, at the input so that it - it has some additional discriminating information at the input?
+C : Hmm- hmm!  Um -
+B : Wh- uh, the - the V_A_D what?
+D : We have the V_A_D information also available at the back-end.
+D : We have dropped so- silence frames? No,  haven't  still.
+C : Uh, still not.
+D : So, by having an additional, uh, feature which says "this is speech and this is nonspeech  neural  net.
+A : Do y- do you have that feature available for the test  data?
+D : Well, I mean, we have - we are transferring the V_A_D to the back-end  feature  back-end.  back-end  after everything - all the features are computed. So -
+A : Oh, oh, I  I  see.
+D : so the neural - so that is coming from a separate neural net or some  V_A_D.
+A : So you're saying, feed that, also,
+D : @@  Yeah.  So it- it's an - additional discriminating information.
+A : the neural net. Yeah. Yeah.
+B : You could feed it into the neural net. The other  you could do
+B : modify the, uh, output  probabilities of the - of the, uh,
+B : um, neural net, tandem  silence  probability.
+B : Right?
+B : and you could multiply  the two things, and renormalize.
+B : nonlinearity part and deal with that.  Uh, I mean, go backwards from what the nonlinearity would, you know - would be. But - but, uh -
+D : Through  max .
+A : But in principle wouldn't it be better  net  do that?
+B : Well, u- Not sure.
+B : I mean, let's put it this  way. I mean, y- you - you have this complicated system with thousands and thousand parameters
+B : and you can tell it, uh, " Learn  thing. "
+B : Or you can say, "It's silence!  away!
+B : I mean, second  direct.  Uh.
+A : what if you - Right.
+A : So, what if you then, uh - since you know  this, what if you only
+A : use the neural  speech  portions?
+A : Well, I guess that's the same.  similar.
+B : Yeah, I mean, y- you'd have to actually run  continuously,  @@  -
+A : But I mean - I mean, train  the net only on -
+B : Well, no, you want to train on - on the nonspeech also,  learning  in it,
+B : to - to - to generate, that it's - it has to distinguish between.
+A : But I mean, if you're gonna - if you're going to multiply the output of the net by this other decision,
+A : would - then you don't care  about whether the net makes that distinction, right?
+B : Well, yeah. But this other  perfect.
+B : So that you bring in some  itself.
+B : i- i- It's sort  deletions.
+B : Is too high.
+D : So, like, it's not really  among  classes.
+C : Oh-eee-hhh.
+A : I wonder if you could do
+A : But if you look at the, um, highly mism- high mismat- the output of the net on the high  distribution
+A : versus the - the other  peaks  or something?
+C : Yeah.
+C : It - it seems that the V_A_D network doesn't - Well,
+B : Yeah. Now the only  don't  wait  output  of the V_A_D
+B : before you can put something into  system,  lot,  missing  something here?
+B : Yeah. So that's maybe a problem  with what I was just saying. But -
+A : But if you were gonna put  feature  have  tandem  net, right?
+D : Um, well. We - w- we don't have it, actually, because it's - it has a high rate energy
+B : It's kind  some  of the things are,
+B : not in parallel, but
+B : it would be in parallel with the - with a tandem  net.
+A : Right.
+B : And - and - and then I guess another alternative would  be to take the feature that you're feeding into the V_A_D,
+B : And then maybe it would just learn - learn  it better.
+B : But that's - Yeah, that's an interesting thing to try to see,  if what's going on
+B : Which is probably true.
+B : Cuz - Well, the V_A_- if the V_A_D said - since the V_A_D is - is - is right  uh -
+C : Yeah.
+B : Might  be.
+C : he trained a network, not on phoneme targets but on the H_M_M state targets.
+B : Problem  is, if you are
+C : Yeah.
+C : And then anyway we would have to reduce this with the K_L_T. So. But -
+B : Yeah. Well, maybe.
+B : That and the correlation between  stuff.
+A : the other two cases
+C : Around five percent better,  I guess. If -
+A : sixty-two?
+B : Sixty- two.
+C : Sixty-two, yeah.
+D : Right? Yeah.
+C : Well, it's around five percent,  percent.
+D : Yeah. Yeah.
+A : All the other  ones were five percent, the -
+C : Well.
+B : next  next  Wednesday.
+B : By that time you'll
+B : Uh, you'll both  here.
+B : So there'll be no - definitely no meeting on - on September sixth.
+B : Uh, that's during Eurospeech.
+A : three  weeks or something?
+B : it's probably four  because of -
+B : is it three?  Let's see,
+B : And the - the third  one
+B : won't - probably won't be  a meeting, cuz - cuz, uh, Su- Sunil, Stephane, and I will all not be here.
+B : Mmm. two
+B : thirteenth,
+B : uh, we'll have meetings again but we'll have to do without Sunil  So.
+D : Thirty-first, August.
+B : Cool .
+D : p- s- It's like - Yeah, it's tentatively all full . Yeah.
+C : so the evaluation should be on
+B : O_K.
+A : Transcript L_ dash three five two.
+A : Five seven six four, five six seven zero, four six nine three.
+A : Six eight five zero, nine one three nine, four six four eight.
+A : Three four four two, seven, one eight two.
+A : One eight seven four, nine nine eight four, five eight nine seven.
+A : One eight three nine, zero one four five, three six two nine.
+A : Five four three, six two, six six seven three.
+A : Seven one five one, six zero seven two, five nine four two.
+A : Nine eight eight, eight one, nine eight one eight.
+C : Transcript L_ dash three five three.
+C : Seven nine one, one two six, five four two.
+C : Eight seven three, nine eight four, nine six four six.
+C : Three five, seven four, two two, five nine, six one.
+C : Five nine, nine seven, nine eight, five one, eight two.
+C : Seven five four five, six six five three, zero one one two.
+C : Nine nine zero seven, three, nine two six.
+C : Zero one nine, three nine eight, zero three five zero.
+C : Two eight six, two zero two, one eight one.
+D : Transcript L_ dash three five four.
+D : Two nine six, eight six three, seven six zero five.
+D : Seven one five six, one three seven zero, four two five six.
+D : Nine five three seven, zero, two one eight.
+D : One eight six three, nine eight seven one, one zero two nine.
+D : Three five three three, four nine three nine, zero three one five.
+D : Four zero eight six, four eight, nine five zero, three.
+D : Eight zero two eight, nine, seven nine one.
+D : Eight nine, nine one, three five, one eight, zero four.
+B : Transcr- transcript L_ dash three five zero.
+B : Eight four four, two three two, two six one seven.
+B : One two, eight three, one nine, nine one, one three.
+B : Four five, two four, five nine, six two, three three.
+B : Three, eight four six, five five, two zero two, five.
+B : Four, six nine three, one three, three six four, six.
+B : Two, eight four six, four one, four four six, four.
+B : Two nine nine four, three two eight seven, eight seven four two.
+B : Four two eight, two zero, seven four eight zero.

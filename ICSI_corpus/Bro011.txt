@@ -1,0 +1,265 @@
+A : -st.
+E : Hello?
+E : Mm-hmm.
+C : Uh-oh.
+E : Hello?
+A : eh e-
+B : I  was there.
+A : Oh you were  there?
+A : O_K.
+C : Well.  first  we discussed about some of the points
+C : About the um, well  -
+C : Well.
+C : There is  filtering  but
+C : uh the best w- m- Well.
+D : System on
+A : So you could  stricter  one.
+C : So we discussed about this,
+C : Uh "try it". Yeah.
+C : I guess.
+A : Sorry at twenty- five  hertz since they're downsampling by two.
+A : So. Does anybody know  what the
+C : So there is this,
+C : the um length of the filters.
+C : yeah,
+C : Yeah.
+C : And there again, yeah.
+C : For this, the conclusion of Hynek was, well,
+C : "we can try  it but -"
+A : O_K.
+C : Um, yeah.
+C : well,
+C : well,  know  really what's the important part
+C : probably a reason why, yeah,  on-line normalization helps because
+C : it - it, yeah,
+C : Yeah,  but perhaps everything could -
+C : could be in the filter,  I mean,
+C : Yeah.  So.
+C : Yeah.  So basically that was -
+C : well,  generally  good stuff
+A : the sense sort of that - that neither group of people wanted to - to bother  the other
+A : thinking or are unwilling to talk  about things but I think that
+A : that they would do certain things and they were sor- they didn't wanna bother you  and
+A : Uh.
+C : Yeah.  Well, but. Yeah.
+C : but then, yeah,
+C : uh yeah.
+C : perhaps a problem of communication. So, yeah.
+C : Yeah, slikes  and send mails.
+C : u- s- o- o-
+C : O_K .
+C : Basically.
+A : Oh.
+A : and that's probably the best thing to do. And there was  email  that said that
+C : So yeah we're - will start to do this  also.
+C : Uh so Carmen is just looking at the Ericsson   - Ericsson code.
+D : I studied Barry's sim code , more or less.
+D : to take @@  subtraction.
+A : When you say you don't have a result yet you mean it's - it's just that it's in process or that you -
+A : it finished and it didn't get a good result?
+C : Yeah.
+D : maybe will be good result or bad result, we don't know.
+C : Yeah.
+F : Uh
+F : haven't got the code yet, I haven't asked  Hynek for - for the - for his code yet.
+C : Oh yeah?
+A : so you, and then
+A : Delegate.
+A : That's  good.
+A : I think maybe it's Dan Ellis is going to be doing uh a different  cancellation. Um.
+A : close-miked  recordings.
+A : So uh this is especially  lapel  but even for the close - close-miked
+A : other people and so forth removed  isn't  speaking you'd like the part where they're not speaking to actually be -
+A : techniques.  echo  but
+A : uh other  speech.
+A : it was recognizing my  words,
+A : which were the background  speech
+A : close  mike.
+B : Oh the - What we talked about yesterday? Yeah that was actually my - I  was wearing the -
+A : Oh you - it was you  I was
+B : I was wearing the lapel  next  to me,
+B : and I only said one thing  you  were talking and it was picking up all your words.
+A : Yeah.
+A : Right?
+E : O_K.
+E : Um.
+E : So continuing to um extend
+E : that as a front-end cuz it - it detects these features and they  plug it into um back-end so I've been looking at a lot of
+A : But that's uh uh all - that's - is
+A : uh study  and, you know, what are the features that they're finding.
+A : We have this problem with the overloading of the term "feature" so
+B : Yeah.
+A : uh variables,
+A : what we're calling this one, what are the variables  that they're found - finding useful
+E : Oh yeah.
+A : that uh
+E : in  his variables that he used
+A : And the other thing you were talking about is - is - is where we get the targets  from.
+A : do you combine  them using the soft "AND-OR" or you do something, you know, more complicated
+A : we're discussing  is
+A : from somewhere  and then
+E : is working on um this MOCHA database where
+A : Yeah, yeah.
+E : and they
+B : You could just mount it to that  notice.
+E : Yeah it doesn't matter
+B : Weld it. Zzz.
+E : But I - I don't - I don't think they're doing that though.
+A : Maybe you could go to these parlors  you know  have - have, you know, reduced rates if you -
+B : You could - what you could do  rings  and stuff with embedded
+B : you know, transmitters  in them and things and
+E : Ye- cool.
+E : Um where either  you have um acoustic features at the same or - or just uh the acoustic waveform's being recorded for frame and then
+B : There's a bunch of data that l- around,
+B : Yeah.
+E : It's
+B : That's interesting.
+A : was - was Mark Randolph there, or - ?
+B : Mark  Randolph.
+C : pattern of pressure on the tongue
+B : parameters and trying to m- you know
+A : uh hesitation I  sounds  like
+A : continuous  variables
+A : and a bunch  of them.
+A : What you really  labels,
+A : And maybe  there's a trivial mapping if you wanna do it and it's e- but it -
+A : I - I - I worry a little bit that this is a research project in itself,
+A : set of things that you could do  John  before
+A : but
+A : the things  could  do, like nasality and voicing and a couple other things
+A : you probably  could do reasonably well.
+A : And then  really  be uh this uh
+A : uh binary  variable.
+A : Course then, that's the other  want  binary variables. So.
+A : I mean the other  thing you could do is
+A : boot  trying to -
+A : get  those binary variables
+A : uh the data itself  there, but
+B : Bin them   up into different categories and -
+A : So anyway  that's - that's uh - that's another whole
+A : direction  that cou- could be looked at.
+A : I mean in general  it's gonna be - for new data that you look at, it's gonna be hidden variable because we're not gonna get everybody sitting in these meetings to
+A : wear the pellets and -
+B : uh
+A : fits into the rest in - in my  mind, I guess, is that um
+A : And part  of it, this robustness, seems to come from
+A : multi-stream or multi-band sorts of things  and Saul seems to have
+A : a reasonable way of looking  at it, at least for one -
+A : The question  is is can we learn from that
+A : I mean, one  nice  about what he had I thought was that -
+A : the decision  about  how
+A : that you should train e- e- every
+A : multi-band  channels.
+A : yeah, the target
+A : Whereas what we  were doing is -
+A : the phone  target and then just back propagating
+A : from that
+A : i- It could  be for instance
+A : detectors for a particular band. You - you wanna ignore
+B : Mm-hmm.
+A : In our  scheme we're gonna try to train it up
+A : to do as well   predicting.
+B : truth  marks
+A : tail  yeah,  sonorant.
+A : But he's - but what he's- but what he's not  training up - uh what he doesn't
+A : is it sonorant in this  that  band? Is it sonorant in that band?
+A : i- It's hard to even answer that what you really mean is that the whole sound  is sonorant. So
+A : then  it comes down to, you know, to what extent should you make use of information from particular band
+A : in a sense  hard  decision that you should - you should use everything
+A : And uh because in the ideal  probabilities,  if we had
+A : and if the - if we also had enough data so that it was representative of the test  data
+A : then we would in fact be doing the right thing  to train everything as hard as we can.
+A : from the beginning  necessarily  want to train everything up towards the -
+E : From uh canonical mappings
+E : it's unclear um eh using TIMIT right, right.
+E : for um special cases.
+E : Yeah.
+A : all bands. Well no, that's not quite right, we did actually do them   separate - tried to do them separately
+A : Where he's s- this is not a labeling  per se.
+E : Mm-hmm.
+B : Yes,  I'm playing.
+B : the original system.  So there's the original system trained on
+B : So look at the difference there
+B : been able to go through from beginning to end the um
+B : at the point where I wanna know what should I change
+B : to improve  it.
+B : One of the first things I thought  fact  that they use
+B : the same  states  all  of the
+B : models
+B : and just looked  at, you know, the number of phones in each
+B : so then the - the total number of states for a word  three.
+B : And so when I did  that for the
+B : to the high end, eighteen.
+B : Now you have to really add two  to that because in H_T_K there's an initial null and a final null
+B : models that have eighteen states, there're really sixteen
+B : the two longest words of the Italian digits, the four  five
+B : And so they had sixteen.  So that's pretty close.
+B : most  words
+B : are sh- much shorter.
+B : wanna have nine  states.
+B : And so theirs  are s-
+B : sort of twice  long.
+B : my guess  -
+B : I - I printed out a confusion  matrix
+B : and it turns out that the longest words are actually the ones that do the best.
+B : So my guess  happening  is that
+B : a fixed length model for all  of them
+B : but the actual  words  some  of them are
+B : half  training  models.
+B : Because if you have a long  word
+B : Gaussians, you've gotta train in each case,  but
+B : for the shorter words,
+B : you know, the total number of frames  half  many.
+B : because you have so many states,  you just don't have enough data to train all those Gaussians.
+B : my  guess about how long they should be.
+B : And as part  of that
+B : when we train up uh th- you know, the model for " one ", which wants to have
+B : probabilities look  look  like in - in those models?
+B : what's happening,  you know, how these models are training up, you know, the long ones versus the short ones.
+B : quickly,  I did the silence model and -
+B : seconds  silence  model's the one that's used at the beginning and the end of each of the
+B : S_ P  between  digits, I - I haven't calculated that for that one yet,
+B : but I'm not sure that they are.
+B : Now the one thing about the S_ P  really  it only has
+B : you know, it's - it's not gonna hurt  lot
+B : and it's tied  center  state of the silence model so it's not its own -
+B : the way that they have it set up,
+B : I'm curious about looking  at,
+B : to the unmatched  case, and see
+B : if you can get an idea of -
+B : And Hynek,  when I wa- told him
+B : about this, he had an interesting point,  and that was th- um
+B : the - the final  models that they end up training up have
+B : So they're fairly,  you know, hefty models. And Hynek was saying that
+B : have enough compute
+B : So in fact what we may  want
+B : are simpler  models.
+B : perform to that.  But
+B : you know, it depends  on what
+A : I mean, I - I - I - what I thought  you were gonna say i- but which I was thinking was um
+A : where did six  eighteen  came from. You know, so.
+B : Yeah. Right.
+A : Uh another  parameter, right? that -
+B : Well one  thing - I mean, if I -
+A : how much better  can you make it? And um
+A : if you found that nine was better than six that would be O_ K,  I think, actually.
+C : retry the  M_S_G and things like that.
+A : Yeah we - we have a big list.
+A : You have a big list of -
+A : a little later next year there will  out  there and
+A : hopefully it'll have some  that -
+B : sort of in batch  mode like
+E : I - I think uh Mike tried it
+E : and he says it's impossible so he went to Octave.
+E : Octave is the um UNIX clone of - of Matlab which you can batch.
+B : Octave.
+B : O_K .
+B : I was going crazy  do  that.
+C : What is Octave so ?
+E : Uh, Octave? Yeah it's - it's - it's free. I think we have it here
+E : Um
+C : like Matlab, or - ?
+E : i- it's a little behind, it's the same syntax but it's a little behind in that
+E : Matlab went to these like um you can have cells and you can - you can
+B : perfect.
+F : Well  although

@@ -1,0 +1,253 @@
+B : Let's see, I should be
+B : Two. La
+D : Oh it was.
+A : By the way, there was a bug. Yeah, i- it wasn't using the proper
+D : Oh. Oh that's interesting. So why didn't you get the same results and the unadapted?
+H : It's not always possible.
+G : I could - can this be adjuste- like this? Is that @@ ? O_K, thank you.
+A : Basically there were no counts @@
+H : Yeah. O_K.
+C : Uh oh.
+C : No I- yeah, yeah, you're channel B_. So can you talk a bit? I thought it might be too O_K.
+E : I - I designed the form and I don't know what to put for my own region,
+C : A- actually, wait a minute, shouldn't it be the other way around?
+D : Not for me.
+C : On the other side, yeah.
+A : Well the thing is, if ten years from now you look at this form knowing that -
+C : W- we don't care how they - old they really are.
+G : Yes.
+C : I still don't see the problem.
+C : If you have the date @@ .
+F : Do you want this Adam?
+A : O_K.
+C : and um you know separated - used the individual channels we segmented it in- into the segments that Jane had used
+C : um and then we ran up to I guess the first twenty minutes, up to synch time of one two zero zero so is that - that's twenty minutes or so?
+A : reference was always one off with the - it was actually recognized so
+C : Yeah so that's what we have but that - that will be completely gone if this synch time problem
+C : So here's the actual   copy of the email um
+E : yeah yeah "bah"
+A : Oh, and -
+B : Hmm.
+D : It'll get those though.
+E : Did you say there's no language for P_Z_M?
+E : Maybe we shouldn't say P_Z_M in these meetings.
+E : Yeah, that's right, Jimlet.
+B : Well, we don't even know what that means, so I
+C : so but this is really encouraging because
+E : Yeah, that's right.
+C : on Switchboard-two data with the Switchboard-one trained - mostly trained recognizer and Switchboard-two   is -
+C : and a different topic and they're talking about things in the news that happened after Switchboard-one so there was @@  so that's great.
+E : you - the first run I ran of Switchboard I got a hundred twenty percent word error but
+A : Well that's - those are the only we- ones there are, I mean
+C : so that's the on- that's the only acoustic training data that we have a lot of and I guess Ramana , so a guy at S_R_I said that
+C : Like Trent Lott must have been from I  Switchboard was before uh.
+B : Good point.
+E : And it said a hundred percent male?
+A : um and it might be reassuring for everybody to know that it got all the genders right. Yeah so Yeah. Yes.
+C : The j-
+G : Oh that's - I'm glad.
+E : It got all two genders?
+C : Tcl   or T_C_L.
+E : That we're starting so well?
+D : So the real value of the database is these?
+C : Sorry can't remember.
+A : uh you know variants of - of - of the recognition runs um certainly doable.
+G : so this issue
+G : well anyway so uh I wouldn't be too concerned about it with respect to that although we should clear it with Eric and Dan of course but these results are based on data which haven't had the
+G : uh haven't had the chance to be reviewed by the subjects and I don't know how that stands, I mean if you - if you get fantastic results and it's involving data which -
+A : is there - are there any um
+F : There are lots of w- there are lots of ways to do the downsampling um different filters to
+E : Resample. Yeah and Dan's archaic acronyms.
+E : Not all of them.
+C : Some of the vowels, almost all the vowels, that's the hard part.
+A : Right and - and it doesn't - is no more work for um
+E : I don't think that gives you any information.
+C : Well we could try. Could easily try
+F : There's - there's your answer.
+A : That's what I would assume but you never know, you know.
+A : Actually, no. Don't stop. Don't stop at that part because
+F : Keep going.
+A : shouldn't use - you should s- you know, get @@
+G : One - one question which is I - I had the impression from this - from this meeting
+B : Which is more that anybody needs so
+C : And that's actually said in your meeting, that's how I know that. It's like are we downsampling to sixteen?
+G : That's exactly, and that's how I know it.
+C : Thank God it's not more than that.
+B : Uh but who knows? I mean we do- we - we - we - we - we wanna find all this stuff out, we don't know.
+C : Yeah well we could try it.
+E : Yeah.
+C : Well but he has fewer - he - he won't have more than eight and it's a meeting on even deeper understanding, E_D_U, so that sounds interesting. As a compliment to our front-end meeting
+E : Dot E_D_U?
+C : or - or put a
+B : cuz it is i- you know already we have a - a - a group of people in this room that cannot all be miked
+B : Yeah at least w- we got the good ones.
+D : Mmm.
+C : It's a lot of money for a handband.
+C : Is - is there any way we can have you know like a - a wireless microphone that you pass around to the people who
+F : That's like the Conch.
+A : like you know Jerry Springer thing, you know r-
+D : Like at conferences
+C : and I don't know identifying somehow? You know I was just thinking of Jerry Springer.
+A : Yeah. @@
+D : The Springer mike.
+B : Kind of rules out overlap but - but uh
+D : Liz hates the lapel.
+A : @@
+G : also an idea for another meeting, which would be to have the transcribers talk about the data
+D : So if we got them to talk about this meeting, it would be a meta - meta meeting.
+G : Yeah, exa-
+C : It's - they will get to transcribe their own meeting but they also get paid for having a break and I think that's a good idea, get them involved.
+G : yeah that's right.
+G : And so but he's only here until
+G : until   one and actually we're thinking of noon being uh lunch time so basically hoping that we can get as much of this done as possible before noon.
+D : Do digital ones ?
+B : No I don't think it's confusing. Well, it doesn't confuse me.
+E : Uh yeah I just don't know how we would do that, so.
+F : echo cancellation stuff or possibly the spectroanalysis over the overlaps, so.
+E : O_K, this is transcript three four three one three four five O_.
+E : five five five nine one
+E : six eight one four three zero three
+E : seven seven eight six O_ three O_
+E : eight
+E : nine zero
+E : zero four zero five zero
+E : one four four two four seven seven
+E : two five seven eight two six six
+E : three
+E : four
+E : five
+E : six zero eight two
+E : eight one O_ four eight three two
+E : nine nine
+E : O_ three one six eight one nine
+E : zero nine three zero zero
+E : one nine two
+E : two
+E : three zero
+E : five one one two
+H : Transcript eh three three nine one dash three four one zero.
+H : three
+H : four
+H : five zero
+H : seven one two
+H : eight four nine
+H : nine seven two six eight eight one
+H : O_ six
+H : zero
+H : one
+H : two
+H : four two seven three two nine seven
+H : five five zero
+H : six five four four
+H : seven seven eight two
+H : eight nine
+H : nine
+H : O_
+H : one one three three one eight seven
+H : two four O_ two
+H : three seven two
+F : Three three seven one dash three three nine zero.
+F : two
+F : three O_ nine
+F : five two four zero three one eight
+F : six five four zero zero one one
+F : seven six four two five nine four
+F : eight eight
+F : nine
+F : O_
+F : zero
+F : two five two
+F : three four five O_
+F : four four two two zero
+F : five eight
+F : six
+F : seven
+F : eight zero
+F : O_ one six five O_
+F : zero four three two
+F : one seven
+F : two nine six
+J : Transcript number three five one one dash three five three zero.
+J : eight
+J : O_ three two one O_ O_ seven
+J : zero five nine
+J : one nine
+J : two
+J : three six five two
+J : four
+J : five zero
+J : seven five two nine
+J : eight three eight two
+J : nine three O_
+J : O_ eight seven eight
+J : zero six zero
+J : one
+J : two
+J : four one three
+J : five three seven
+J : six four
+J : seven
+J : eight
+D : Transcript three four nine one dash three five one zero.
+D : seven zero
+D : nine two five eight four four three
+D : O_ five four nine
+D : zero eight
+D : one five zero two one
+D : two
+D : three
+D : four zero zero eight eight
+D : six six four nine six
+D : seven five seven seven eight zero seven
+D : eight five
+D : nine
+D : O_
+D : zero
+D : two four nine nine eight two zero
+D : three five O_
+D : four two eight O_ O_ O_ nine
+D : five
+D : six
+D : seven
+B : Transcript three four seven one dash three four nine zero.
+B : seven one
+B : eight seven seven three
+B : nine six
+B : O_ eight
+B : zero
+B : one
+B : two
+B : four two one three six zero zero
+B : five four eight seven five seven two
+B : six six one nine one six seven
+B : seven
+B : eight
+B : nine
+B : O_
+B : one four
+B : two two
+B : three seven O_ two
+B : four
+B : five seven one
+B : six
+G : Transcript three four five one dash three four seven zero.
+G : six seven
+G : seven seven eight eight eight seven nine
+G : eight four eight five six
+G : nine
+G : O_
+G : zero
+G : two two five two five three O_
+G : three eight four
+G : four nine four four one
+G : five nine O_ three
+G : six eight zero one five
+G : seven O_ five
+G : eight O_
+G : O_ four seven two six
+G : zero five four
+G : one five nine
+G : two
+G : three
+G : four
+G : five zero

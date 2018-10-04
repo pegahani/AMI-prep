@@ -1,0 +1,567 @@
+C : Morgan wants to make it hard.
+F : The, uh, counter is not moving again. It -
+C : Did - did - did it - ? I didn't even check  yesterday whether it was moving.
+F : It didn't move on me on one other meeting and it did on one and both recorded the same so .
+D : You know, I discovered something yesterday on these, um, wireless ones.
+B : Channel two.
+D : You can tell if it's picking up breath noise and stuff.
+D : So if you - yeah, if you breathe under - breathe and then you see A_F go off, then you know it's p- picking up your mouth noise.
+F : In fact, if you listen to just the channels of people not talking, it's like " @@
+F : It's very disgust- Sorry.
+F : Exactly. It's very disconcerting. O_K.
+F : So, um, I was gonna try to get out of here, like, in half an hour, um, cuz I
+C : @@
+F : really appreciate people coming, and the main thing that I was
+F : gonna ask people to help with today is to
+F : give input on what kinds of database format we should use in
+F : transcribers or discourse coders or whatever put in the signal,
+F : Right. So,
+C : So -
+C : I guess I am
+F : O_K, yeah. So you should,  definitely.
+C : if you want  to.
+C : so that you start with - with a time-line   tag.
+C : "Time-line".
+C : I don't e- I don't remember exactly  what my notation was, but it -
+A : Oh, I remember seeing an example of this. Yeah.
+C : and then "I_D equals T_ one, uh, one seven". And then,
+C : And then somewhere la- further down you might have something like an utterance tag
+C : So what that's  know  ends.
+F : O_K.
+C : We don't know what the t- time  actually is but we know that it's the same time as this end time.
+C : You know , thirty-eight, whatever you want.
+A : you're   essentially defining a lattice.
+C : And then, uh - and then these also  have I_Ds.
+C : oh, I don't know, uh,
+C : door-slam". You know?
+C : you could either say "time equals a particular time-mark" or you could do other sorts of references.
+C : "Prosody"
+C : You like the D_? That's a good D_.
+F : Yeah.
+C : Um,
+C : you know, so you could have some sort of type  here,
+C : the utterance that it's referring  to could be U_seventeen or something like that.
+F : I - I guess my question is more,
+F : uh, what d- what do you do with, say, a forced alignment? I mean  you've got all these phone labels, and what do you do if you -
+F : utterance which - where  the time boundaries that may or may not change - ?
+A : Oh, that's -
+A : That's actually very nicely handled here because you could - you could - all you'd have to change is the,
+C : Right. That's, the who- that's why  extra  level of indirection.
+C : So that you can just change the time-line.
+A : time-line  huge.  If you say - suppose you have a phone-level alignment. You'd have - you'd have -
+F : Yeah, yeah, especially at the phone-level.
+C : I would use just an existing -
+A : Mmm. But - but why not  use it for phone-level? It's just a matter of - it's just a matter of it being bigger. But if you have -
+A : you know, barring memory  limitations, or- uh - I- w- I mean this is still the m-
+C : It's parsing  limitations. I don't want to have this text file that you have to read in the whole thing to do something very simple for.
+A : Oh, no. You would use it only  want  the phone-level information, I'd imagine.
+C : Right. I mean, you'd - y- I - I am imagining you'd have multiple versions  want.
+A : You -
+C : word-level,  this would be O_K.
+F : Yeah. Yeah. Definitely.
+C : For word-level, it's alright.
+C : For lower  so  I  don't know. I don't know if that -
+F : I mean, we actually have - So, one thing that Don is doing, is we're - we're running -
+C : Yeah, I mean, for something like that I would use P_file or - or any frame-level stuff I would use P_file.
+F : Meaning - ?
+C : @@  More compact, which I think is - is better. I mean, if you did it at this -
+F : I mean  these are long meetings and with - for every frame, um -
+A : b-
+D : Yeah, I was thi-
+D : I was thinking the advantage is that we can share  this with other people.
+C : Well, but if you're talking about one per frame,
+C : you're talking about gigabyte-size files. You're gonna actually run out of space in your filesystem  for one file.
+A : not  phone-level  stuff it's perfectly -
+F : And th- it's -
+F : Phones are every five   frames  though, so.
+F : Or something  like that.
+A : But - but - but most  speech.
+A : v- Look at it, words times the average - The average number of phones in an English word is, I don't know, five  maybe?
+A : So, look at it, t- number of words times five.  That's not - that not -
+F : Oh, so you mean pause  phones take up a lot of the - long pause phones.
+C : P_file ,
+C : is too verbose. I would use something tighter  than P_files.
+A : I mean, I've - I've used  them. I don't know what their structure is. I've forgot what the str-
+D : But, wait a minute, P_file for each frame is storing a vector of cepstral or P_L_P values, right?
+C : Built into it is the concept of
+C : And then also attached  to it is an arbitrary vector of values.
+C : Right? And it has a header - it has a header format that
+C : the only problem
+C : even though they're always sequential. And so it does waste a lot of space.
+C : But it's still a lot  And  we have a lot of tools already to deal with it.
+F : I mean, that sounds good. I - I was just looking for something - I'm not a database person, but something sort of standard enough that,
+C : me.
+F : you know, if we start using this we can give it out, other people can work on it, or - Is it - ?
+C : Yeah, it's not standard. I mean, it's something that we developed at ICSI.
+F : But it's been used here and people've -
+C : But it's been used here and - and, you know, we have a well-configured system that you can distribute for free, and -
+D : you  guys used to store feat- your computed features in, right?
+F : O_K.
+A : Actually, we - we use a generalization of the - the Sphere format.
+A : Um, but -
+C : Well, what does H_T_ K  have  a concept of features?
+C : I'm just wondering, would it be worth while to use that instead?
+A : Hmm?
+D : share  this  kind of stuff, right? I mean -
+C : They generate their own.
+F : I just - you know, we - we've done this stuff on prosodics  and
+F : three or four places have asked for those prosodic files,  and we just have an ASCII,
+F : I mean, we could do  all  the frame values are - Hmm?
+F : They're - they're fair- they're quite large. And these are for ten-minute Switchboard conversations, and -
+D : Is - is the sharing  consideration or does that just sort of, uh - a nice thing to have?
+F : I - I don't know enough about what we're gonna do with the data. But I thought it would be good to get something that
+F : we can - that other people can use or adopt for their   own kinds of
+F : encoding. And just, I mean  some  decision about what to do. And especially for the prosody work, what -
+F : your features, um, and then keep the database up to date. Or you change a word, or you change a
+F : And so I wanted something where all of this can be done in a elegant way and that if somebody
+F : wants to try  else,  that it can be done flexibly.
+F : Um, it doesn't have to be pretty,  it just has to be,
+C : Yeah, the other thing -
+F : Oh.
+C : and see if they have anything at that level. I mean, I'm not sure what to do about this  with ATLAS, because they chose a different route.
+C : know that you're talking about language I  chose, and time,
+C : or your file format can just be a graph representation.
+C : So what it looked like ATLAS chose is, they  other  way, which was their file format is just
+C : better
+D : You could probably translate between them.
+C : is
+C : if we choose to use ATLAS,  do,  out  time  in it.
+F : care, as long as it's something useful to other people, what we choose.  So maybe it's -
+C : The only thing -
+C : Yeah.
+A : Do they already have tools?
+C : chose  reasons.  them   parse.
+C : You don't need a full X_M_L parser. It's very easy to just write a Perl script to parse it.
+A : As long as uh
+C : Exactly. Exactly. Which I always do.
+C : Well, I have it structured. Right? So each type tag has only particular items that it can take.
+C : If you have more information. So what -
+C : What NIST  this,  you would say something like "link
+C : and then "type" would be "utterance".
+F : So why would it be a - a waste  do  similar  translate  it?
+D : It probably wouldn't be a waste.  It would mean that at some point if we wanted to switch, we'd just have to
+C : if  directly  to what they're doing, rather than -
+A : Do they already have  something that's - that would be useful for us in place?
+D : Are they ready to go, or - ?
+C : The - I looked at it - The last time I looked at it was a while  year  ago,
+C : uh, when we first started talking about this. And at that  time at least
+C : it was still not very
+C : They just had the sort of conceptual node -
+C : uh, annotated transcription graph, which I really liked.  And that's exactly what this stuff is based on.
+C : Since  then, they've developed their own external file format,
+C : which is, uh, you know, this sort of s- this  sort of thing.
+C : Um, and apparently they've also developed a lot of tools,  but I haven't looked at them. Maybe I should.
+A : @@  We should - we should find out.
+F : I mean, would the tools - would the tools run on something like this,  if you can translate them anyway?
+C : worry  me is that maybe we might miss a little detail
+F : I mean, that - I guess it's a question that - uh, yeah .
+A : if -
+A : I - I think if it's conceptually close,  else  will be using, I mean,
+C : So I'll - I'll take a closer look at it.
+F : Actually, so it's - that - that would really be the question, is just what you would feel is in the long run the best thing. Cuz
+C : The other thing - the other way that I sort of established this  Transcriber  format.
+F : s-
+F : I mean, I like  this. This is sort of intuitively easy to actually r- read, as easy it could - as it could be. But,
+F : I suppose that as long as they have a type here that specifies "utt",
+C : It's almost  point  this,  though, is that you can't really add any supplementary information.
+F : You have to make a different type.
+F : Um, I guess in my mind I don't know enough - Jane would know better, about
+F : the types  annotations  and - and -
+F : But I imagine that those are things that would - well, you  that could span any -
+F : and then from the recognition  side we have
+F : backtraces at the phone-level. If - if it can handle that,
+F : And then at the prosody-level  we have
+A : Now - now how would you -
+C : Huge.
+A : how would you represent, um, multiple speakers in this framework? Were - You would just represent them as -
+C : there's a spea- speaker tag up at the top which identifies them and then each utt-
+C : the way I had it is each turn or each utterance, I don't even remember now, had a speaker I_D tag attached to it.
+C : this  tag,
+C : So - so somewhere else you would have another thing that would be, um -
+C : And so - so this one would have, um, an I_D is link -
+C : you know, was referencing L_seventy-four and had speaker Adam.
+A : Is i- ?
+F : Actually, it's the channel,  I think, that -
+C : This  isn't quite right. I have to look at it again.
+A : Right.
+A : So how do you these are the words that belong to that utterance?
+D : So each thing refers to the utterance that it belongs to.
+F : And what if you actually have -
+F : So right now what you  utterance,  channelized  is the
+F : which may or may not actually be, like, a s- it's usually not  - um, the beginning and end of a sentence, say.
+C : Well, that's why I didn't call it "sentence".
+F : So, right. Um, so it's like a segment or something. So,
+F : for - from the c- beginning of the sentence to the end of the sentence, from the annotations, this is a unit, even though it never  actually -
+F : i- It's only a unit by virtue of the annotations word-level.
+C : And, what -
+F : I think that should be possible  as long as the -
+F : But, uh, what I don't understand is where the - where in this type of file that would be expressed.
+C : Right. You would have another tag  somewhere.
+C : two  ways of doing it.
+C : and I_D is "S_whatever".
+A : So here's the thing. Um -
+A : Hhh.
+F : it's -
+C : Right.
+A : Um, well, s- let's - let's ta- so let's -
+C : Well, I think I'm - I think w- I had better look at it again because I - I'm -
+F : Yeah.
+A : y- So for instance @@  sup-
+C : There's one level - there's one more level of indirection that I'm forgetting.
+A : you know, uh, sentences.  phrases.
+A : And let's say that they don't nest. So, you know, a prosodic phrase may cross
+A : two sentences or something. I don't know if that's true or not but let's as-
+A : So, you want to be s- you want to say this - this word  is part of that sentence and this prosodic phrase.
+A : So, you would have to have two different pointers from the word up - one level up, one to the sent-
+A : @@  Right.
+C : And lower down you'd have "here's a sentence,  and it has these words in it".
+F : So you  Yeah.
+C : So I think that's - that would wor- Let me look at it again.
+A : Mm-hmm.
+A : The - the o- the other  you  had was, how do you actually efficiently extract, um -
+F : That's good.
+F : Well, uh, and, I mean, you guys might -
+F : I don't know if this is premature because I suppose once you get the representation you can do  this, but the kinds of things I was worried about is,
+F : I- I mean, I  um,
+A : or else you'll spend all your time sort of searching through very complex data structures -
+F : started to talk while Andreas was talking and his pitch was rising, Andreas's  That  kind of thing.
+C : Right. I mean, that's gonna be -
+C : Is the rising pitch a feature,  or is it gonna be in the same file?
+F : Well, the rising pitch will never be hand-annotated. So the - all the prosodic features are going to be automatically - So they're gonna be in those -
+C : But the -
+A : Yeah.
+F : So - Right. So normally what we would do is we would say
+F : "what do we wanna assign rising pitch to?" Are we gonna assign it to words?  Are we gonna just assign it to sort of -
+F : when it's rising we have a begin-end rise  representation? But suppose we dump out this file and we say,
+C : O_K. Well, in that case you would add that to this format r-
+A : You want sort of a grep that's - that works at the structural -
+C : have  that.
+A : on the structural representation.
+C : There's a standard again in X_M_L, specifically for searching X_M_L documents - structured X_- X_M_L documents, where you can specify both the content and the structural position.
+A : Yeah, but it's - it's not clear that that's -
+F : If -
+A : That's relative to the structure of the X_M_L document, not to the structure of what you're representing  in the document.
+A : Be-
+F : Uh -
+A : Because here  lattice.  underlying   -
+A : That's different  from searching through the text.
+F : But  it seems like as long as the features that -
+C : Well, no, no, no. The whole point  isomorphic.
+C : They completely.
+F : That's true if the features from your acoustics or whatever that are not explicitly in  this are at the level of these types.
+A : Hhh.
+F : That's right. That's true. That's why I was trying to figure out what's the best format for this representation. And it's still  gonna be -
+D : What about - what about, um,
+D : Uh, you - you could use the X_M_L to put the data in,
+C : Transfer.
+D : allows you to do all kinds of good search things in there.
+C : so that, uh, you could define a single A_P_I and the - the storage could be flat X_M_L files or a database.
+D : Mm-hmm.
+C : My  I suspect it's overkill to do a full relational database, that, um,
+A : But -
+C : just a flat file and, uh, search tools I bet  will be enough.
+C : little  hesitant to try to go whole hog on sort of the -
+F : So -
+C : the whole framework that - that NIST is talking about, with ATLAS and  a database and all that sort of stuff, cuz it's a big learning curve,
+C : just to get going. Whereas if we just  do a flat file format,
+C : sure, it may not be as efficient but everyone  use  it.
+F : @@  O_K.
+A : But this is - I - I'm still, um,
+A : not convinced that you can do much at all  on the text - on the flat file that - that - you know, the text representation.
+C : Well, if it's not representing  recover  course  point.
+A : No. You - you have to - what you have to do is you have to basically -
+D : @@  Yeah.
+C : O_K. Well, that  point.  saying
+A : Right.
+C : is that -
+A : But that's  do.
+C : For Perl - if you want to just do Perl. If you wanted to use the structured X_M_L query language, that's a different thing. And it's a set of tools that let you specify given the D_- D_D_T - D_T_D of the document,
+C : And so the point isn't that an end-user, who is looking for a query like you specified, wouldn't program it in this language. What you would do is,
+C : someone would build a tool  that used that as a library.
+F : uh, an - a value,  like a continuous value, like the slope of something. But
+F : you know, we'll do something  where we -
+F : segment-level, or - or something  phone-level  frame-level  when we get done with
+F : Well, I guess, the two  Chuck  mentioned is
+F : and  being able to at least get enough, uh, information out on -
+F : where we condition the location of features on information that's in the kind of file that you there.
+F : And that would - that would do it, I mean, for me.
+C : Yeah. I think that there are quick and dirty solutions, and then there are long-term, big-infrastructure solutions. And so
+C : look  want,
+C : it seems  quick
+F : So if - if you would l- look at that and let us know what you think. I mean,
+F : I think we're sort of guinea pigs, cuz I - I want to get the prosody work done  but I don't want to waste time, you know,
+A : Well -
+A : Ma- well, maybe you should actually look at it yourself too to get a sense of
+A : you know, Adam might have one  another,
+F : Especially if there's, e-  um - you know, if someone can help with at least the -
+F : the setup of the right -
+F : Oh, hi.
+F : the right representation, then, i- you know, I hope it won't - We don't actually need the whole full-blown thing to be ready,
+F : Um, so maybe if you guys can look at it and sort of see what,
+F : I think we're - we're - we're actually just - yeah, wrapping up, but, um -
+B : Hmm.
+C : We're about done.
+F : Yeah, sorry, it's a uh  short meeting, but, um -
+F : I mean  me  a lot, but -
+C : other  might  here,
+A : There used to be a problem that they get too large,
+A : and so uh  the filesystem
+C : Well, that's gonna be a problem no matter what. You have the two-gigabyte limit on the filesystem size.
+A : Maybe you could extend the A_P_I to, uh, support, uh, like splitting up,
+A : Yeah.
+C : I mean, if you do "man P_file" or "apropos P_file", you'll see a lot.
+B : True.
+B : used  looked  at it at least, briefly, I think when we were doing
+C : I have no idea.
+B : Oh, in there.
+C : I  think  it was Dave Johnson.
+A : No, P_files  way  Quicknet.
+A : P_files were - were around when - w- with, um, RAP.
+F : It's like the history of ICSI. Like -
+A : You  I
+D : I don't remember what the " P_ " is, though.
+C : The Quicknet library has a bunch of things in it to handle P_files, so it works pretty well.
+A : @@
+D : Probably  stands for "Phil".
+C : It's a Phil file?
+D : That's my
+F : Huh.
+F : be good to tie into anyway,  then it's -
+A : j-  I think there's -
+C : And, w- uh, as I said, I - what I did with this  based  it on theirs. It's just they hadn't actually come up with an external format yet.
+C : So now that they have  come up with a format,
+A : Mmm.
+C : I gotta look at it again.
+F : I mean, we can start  channelized  input. Cuz he has all of the
+F : channels, you know, with the channels in the tag and stuff like that. So that would be i-  directly,
+F : t- to import the-
+F : Well, right now, I g- Jane would - would -
+C : Mm-hmm.
+F : Yeah.
+F : Yeah, any kind of annotation that, like, isn't already there. Uh, you know, anything you can envision.
+E : Yeah.
+E : So what I  was imagining was - um, so Dave says we can have unlimited numbers of green ribbons.
+E : And since we w- we - I - I think it's important to remain flexible regarding the time bins for now.
+E : However, you know, you want to have it, uh, time- time- uh, located  in the discourse. So, um,
+E : And having it tied to the first word in an overlap segment is unique, uh, you know, anchored, clear.
+E : So the overlap  easy  with respect to that.
+E : You look puzzled.
+D : Uh.
+D : Well, th- overlap codes. I'm not sure what that @@  -
+C : I mean, it doesn't. I mean, that - not for the topic of this  meeting.
+E : you know, and - and - and let's say that this is a time bin. There's a word here. This is the first word of an overlapping segment of any  length,
+E : overlapping with any  other, uh, word - uh, i- segment of any length. And, um,
+E : or you can say that it was, um, a usurping of the turn, or you can - you know, any - any number of categories. But the fact is, you have it time-tagged
+A : uh, uh  it's related but not directly germane to the topic of discussion, but, when it comes to annotations, um,
+A : you often find yourself in the situation where you have of the same, say, word sequence.
+E : Yeah.
+A : O_K? And sometimes the word sequences even differ slightly because they were edited s- at one place but not the other.
+E : Yeah.
+A : you know, topics or what the heck. You know, there's a zillion things that people might annotate this for.
+E : Yep.
+A : or approximately.
+A : Or the times. But, see, if you'd annotate dialogue acts, you don't necessarily want to - or topics - you don't really want to be dealing with time-marks.
+F : I guess.
+A : You'd - it's much more efficient for them to just see the word  sequence, right?
+A : I mean, most people aren't as sophisticated  here  with, you know, uh, time alignments and stuff. So -
+A : So the - the - the point  is -
+C : Should - should we mention some names on the people who are n- ?
+A : So, um, the p- my point  you're gonna end up with,
+A : uh, word sequences that are differently annotated. And you want some tool,
+A : O_K?
+A : well, on dialogue acts as well as, uh, you know, um, what was  uh,
+A : utterance types. There's, uh, automatic, uh, punctuation and stuff like that.
+A : Because we had one set of annotations that were based on,
+A : uh, one version of the transcripts with a particular segmentation, and then we had another  version that was based on,
+A : uh, a different s- slightly edited  different  segmentation. So,
+C : Yep. I - I don't see any way that file  help  us with that. It's - it's all a question of semantic.
+A : No. But once you have a file format, I can imagine writing -
+C : Diff.
+F : W_diff  or diff. Yeah.
+E : Is it S_diff
+A : two diffs f-
+E : Mmm.
+A : um, but operating on these lattices that are really what's behind this - uh, this annotation format.
+C : There's actually a diff library you can use to do things like that that -
+C : anything  when you try to merge is really, really hard because you ha- i-
+C : The hard part isn't the file format. The hard part is specifying what you mean
+A : Exactly.
+C : And that's very difficult.
+C : But this is exactly what I mean,  is that - that the problem i-
+C : Yeah, exactly. The problem is saying "what are the semantics, what do you mean  by "merge"?" So.
+A : So - so just to let you know what we - where we kluged  it by, uh, doing -
+A : uh, by doing - Hhh.
+A : Both were based on words,  tags  for annotations.
+C : And then you did diff.
+A : diff.  Exactly!
+A : And that's how - Yeah.
+C : That's just wh- how I
+A : Uh, it - it was a kluge because it was basically reducing everything to - uh, to - uh, uh, to textual  alignment.
+C : A textual -
+F : But, d- isn't that something where whoever - if - if the people
+F : ye- um, if they tie  something,  like if they tied it to the acoustic segment - if they -
+F : You know what I mean? Then - Or if they tied it to an acoustic segment and we had the time-marks,  that would help. But the problem is exactly as Adam said, that you get,
+F : you know, y- you don't have  that information or it's lost in the merge somehow, so -
+E : Well, can I ask one question? It - it seems to me that, um, we will have o- an official version of the corpus, which will be only one -
+A : get  that because if the data gets out, people will do all kinds of things to it.
+E : O_K, then -
+D : What's - what's wrong with doing times? I -
+F : Uh, yeah, time is the -
+F : Yeah.
+F : He - he's a language modeling person, though.
+E : Ach!
+C : He included references to words.  word  is when - when it happened. Or she.
+E : But then couldn't you just indirectly figure out the time word?
+C : Sure. But what if - what if they change the words?
+E : Not - Well, but you'd have some  all  the words.
+D : But can they change the words without changing the time  of the word?
+C : Sure. But they could have changed it a little.
+C : The - the point  word  our
+C : And I - I guess the answer  is,
+C : um, it's gonna be different  time.
+C : It's j- it's just gonna be -
+E : Yeah.
+C : I- it's exactly  what I said before, which is that "what do you mean by "merge"?"
+C : So in this case where you have the words and you don't have the times, well, what do you mean  by "merge"?
+C : If you tell me what you mean,  do  it.
+F : Right. You can merge at the level of the representation that the other person preserved and that's it.
+C : So - so in - so in this one you would have to do a best match between the word sequences,
+A : Mm-hmm.
+E : But it could be that they just - uh, I mean, it could be that they chunked - they - they lost certain utterances and all that stuff, or -
+C : Right, exactly. So it could get very, very ugly.
+E : Yeah.
+F : Alright. Well, I guess, w- I - I didn't want to keep people too  I'll  read the digits. If anyone else offers to, that'd be great. And
+E : That's interesting.
+A : Ah, well. for the benefit of science we'll read the digits.
+C : Yeah.
+F : Thanks - thanks a lot. will sort of meet and I think that's great. Very useful.
+C : transcript two seven three one, two seven five O_.
+C : eight five O_ five one
+C : nine five zero six one
+C : O_ seven eight
+C : zero
+F : Go next.
+C : one
+C : two zero two
+C : four four three four four two seven
+C : five five six
+C : six six O_ O_ nine eight five
+C : seven six five
+C : eight eight four
+C : nine
+C : O_ O_ one nine one
+C : one five six one four
+C : two seven four eight five six zero
+C : three four
+C : four five O_
+C : five
+C : six
+C : seven.
+D : Transcript one five one one dash one five three zero.
+F : Let me -
+D : zero
+D : one O_ six six seven three nine
+D : three one zero five eight eight one
+D : four five three eight
+D : five nine four three four
+D : six six O_ one three four eight
+D : seven
+D : eight zero one one two four three
+D : eight O_ seven two nine.
+D : Scratch that.
+D : nine O_ seven two nine
+D : zero one
+D : one three nine four
+D : two two five
+D : three eight seven O_
+D : four
+D : five
+D : seven two two
+D : eight one zero
+D : nine five one
+D : O_ nine eight
+D : zero.
+E : Transcript one four five one, one four seven O_.
+E : nine five two O_
+E : O_ three O_ four seven
+E : zero seven one three six
+E : one nine O_ two
+E : two
+E : three O_ six O_ seven three two
+C : Oh, right.
+E : four zero one zero four
+E : six two O_ one
+E : seven five one
+E : eight five one two four five five.
+E : nine five seven one
+E : O_ O_ four nine
+E : zero
+E : one zero eight one seven nine zero
+E : three three six one three
+E : four four five eight zero
+E : five two five one
+E : six six zero
+E : seven seven four three seven
+E : eight.
+F : Transcript number three three three one, three three five zero.
+F : one three seven seven eight one zero
+F : two five nine five five
+F : three eight
+F : four eight nine two
+F : five
+F : six
+F : seven zero five one
+F : nine one
+F : O_ three three
+F : zero eight five eight three
+F : one four O_ one
+F : two
+F : three O_ three six
+F : four zero
+F : six one three zero
+F : seven six five
+F : eight three seven
+F : nine nine three
+F : O_
+F : zero.
+A : two two five two five nine O_
+A : three four two
+A : four
+A : five
+A : six
+A : seven O_ eight
+A : nine four eight two six
+A : O_ three
+A : zero eight eight zero
+A : one
+A : two
+A : three
+A : four
+A : six one
+A : seven five seven
+A : eight four five three seven nine one
+A : nine five seven zero.
+A : O_ O_ two five
+A : zero
+A : one O_.
+B : Transcript two nine seven one dash two nine nine zero.
+B : seven seven nine
+B : eight nine
+B : nine O_ two
+B : O_
+B : one one zero one
+B : two four five two
+B : three seven
+B : four four
+B : five
+B : six
+B : seven O_
+B : nine one four six zero
+B : O_ three nine four
+B : zero
+B : one eight one nine nine five eight
+B : two eight three seven five nine O_
+B : three
+B : four O_ seven three
+B : six two six two six
+B : seven three, zero one.

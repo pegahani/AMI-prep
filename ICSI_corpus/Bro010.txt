@@ -1,0 +1,282 @@
+A : O_K, we're on.
+D : Yesterday
+B : I guess.
+C : Uh, oh,  I'm  now
+B : Well
+A : talk where they were supposed to try to decide -
+B : to decide what to do, yeah.
+A : Ah, right.
+C : Yeah. No, that would have been a good thing to find out before this meeting, that's. No, I have no - I have no idea. Um,
+C : doing what we're doing. So what are you doing?
+B : Uh, well, we've -
+B : uh, we designed new filters,
+C : So when you say "we", is that something Sunil is doing or is that - ?
+B : Uh, us.  Yeah.
+D : But -
+B : the FIR  filters
+B : similar,  but that have shorter delays.
+B : No.
+C : Uh- huh.
+C : Yeah, you should talk  with him.
+C : Yeah. No, I mean, because the - the - the - the whole problem that happened before was coordination, right? So - so you need to
+B : Mm-hmm.
+B : Alright. Um,
+B : Well, I don't know, perhaps it - perhaps it doesn't hurt because the phase is almost linear but.
+B : the most important for speech so .
+D : The low f- f-
+C : So that would be within - ?
+C : Eighty  five .
+B : Um,
+C : Uh, yeah, but then there's -
+C : Two-fifty, unless they changed the rules.
+C : Uh, well the people who had very low latency want it to be low - uh, very -
+C : Unfortunately we're the main ones with long latency, but
+A : Think of it as what?
+C : so, uh, everything that we did in- in a way  it was - it was just
+C : adamantly insisting on going in with a brain damaged system, which is something - actually, we've done a lot  over the last thirteen years.
+C : Uh, this  is the way we should do it. And then we do it. And then
+C : we're talking about putting - putting some of that in  while still keeping some of our stuff. I think you should be able to end up with a system that's better than
+C : both but clearly the way that we're operating for this other  does  involved some latency to - to
+C : Yeah, and that's when you'd start
+A : this w-
+A : Right.
+A : Right.
+C : And there's physical inertia there, so probably the - the motion itself was all  -
+A : And it felt to, uh, the users that it was
+A : I don't think you can really tell.
+A : A person - I don't think a person can tell  the difference between,
+A : I'm not even sure if we can tell the difference between a quarter of a second and half  a second.
+C : and it took half a second to get back to you, a delay. Yeah.
+A : I mean, it may  feel different than talking to a person because when we talk to each other we tend to step on each other's utterances.
+A : So like if I'm asking you a question, you may start answering before I'm even done.
+C : we could  cut - we know what else, we could cut down on the neural net time by - by, uh,
+A : So is the latency from the neural net caused by how far ahead  you're looking?
+C : They weren't looking ahead much.
+C : Yeah, I mean, you could do this with a recurrent net. And - and then - But you also  could just, um,
+C : I mean, we haven't experimented  imagine  you could, um,
+C : I mean, we've d- we've done  some stuff with that before. I think it - it works O_K.
+A : We've always had - usually  we used the symmetric windows but I don't think -
+B : Uh, yeah.
+D : Also we were thinking to -
+C : K_ - K_L_T.
+C : Uh- huh.
+B : it's a linear transformation,  that -
+B : So.
+B : Ye-
+C : Uh, I mean, it doe- did  look like it buys you something over just the K_L_T.
+C : Could  be.
+C : But the other  part you were saying was the spectral subtraction, so you just kind of, uh -
+C : At what stage do you do
+B : on - on the mel frequency bands, so. Yeah, be- before everything.
+D : Oh, we don't know exactly when it's better. Before after V_A_D or -
+B : Yeah, um -
+C : they're - uh, one  talking  proposing  doing,
+C : The reason  for that was that, um, uh -
+C : if some- one p- one group put in the V_A_D and another didn't,
+C : uh, or one had a better  V_A_D than the other
+C : since that - they're not viewing that  as being
+C : part of the - the task,
+C : It still wouldn't be perfect  but I mean,
+C : And so,
+C : why
+C : Yeah, yep.
+C : I mean, if you look at the theory, it's - it should  be in the power domain but - but, uh, I've seen implementations where people do it in the magnitude domain and -
+C : I have asked people why
+C : there's this, um - you don't just subtract the - the estimate of the noise spectrum. You subtract th- that times  -
+C : Or - or less,
+B : Yeah.
+D : Hmm, maybe .
+B : Yeah.
+A : Is the estimate of the noise spectrum a running  estimate?
+C : data as possible  to estimate the noise, get a much better estimate, and subtract it off.
+C : that, uh, Hans-Guenter Hirsch
+C : takes at least a few seconds really. But, uh - I mean you can do  it with a smaller amount but it's pretty rough.
+C : And, um, in fact  I think the NIST
+C : No, no, it's based on this kind of method, this histogram method. histogram.
+C : Now, if you have signal  noise,  bumps
+C : Oh, yeah.
+C : So you have a mixture of two Gaussians.
+C : Right? And you can use E_M to figure out what it is.  You know. So - so basically now you have this mixture of two Gaussians, you - you n- know what they are, and, uh - I mean, sorry, you estimate what they are,
+C : and, uh, so this gives you what the signal is and what the noise  e- energy is
+C : in that band in the spectrum.  And then you look over the whole thing and now you have a noise spectrum.
+C : So, uh, Hans-Guenter Hirsch  and others have used that kind of method. And the other thing to do
+C : is - which is sort of more trivial and obvious - is to, uh,
+C : Uh, but,
+A : where the window was that you used to calculate the signal-to-noise ratio.
+C : Not necessarily. Cuz if you don't look into the future, right? if you just - yeah - I mean, if you just - if you -
+A : Guess.
+C : esti- some guess and - and, uh, uh -
+B : Yeah, but it -
+B : If- if you want to have a good estimation on non-stationary noise you have to look in the - in the future.  I mean,
+C : Yeah, y- I mean, you're talking about non-stationary noise but I think that spectral subtraction is rarely - is - is not gonna work really well for - for non-stationary noise, you know?
+B : Well, if y- if you have a good estimation of the noise, yeah,  has  to work. i-
+C : If it varies a lot,  speech,  even  centered,
+C : right? if you need a few seconds to get a decent estimate but it's changed a lot in a few seconds,
+C : I mean, good - good luck.
+A : Were his, uh, windows centered around the -
+C : No, I understand it's better to do  but I just think that - that, uh,
+C : for real  most  other  things where it's not so stationary and -
+C : modul- amplitude modulated noise is - is sort of a big problem in - in in - practice. I think that it's uh -
+A : We could probably  really  noise  files,
+A : and built the averages from them.
+C : Yeah.
+C : Well.
+B : What do you mean?
+C : Just cheat - You're saying, cheat.
+B : perhaps you don't even need  some kind of noise estimation algorithm. We just take th- th-
+C : you know, stationary  -
+A : th-
+C : But you could get hurt a lot if you just took some- something from the beginning of all the speech, of, you know, an hour of speech and then later -
+C : Uh, so they may be - you know, may be overly,  uh, complicated for - for this test but -
+C : but - but, uh, I  don't know.
+C : uh, we're already  without  it.
+B : Yeah, so.
+C : You bet.
+C : Yeah.  doing,  right? Is they're -
+C : @@
+B : I think.  Yeah, I think
+B : Is - is that right or - ?
+B : It's like saying what's under the threshold is silence, and -
+C : More or less?
+D : I do- I have not here the proposal.
+C : Um,
+C : chatting about but  haven't made it into these meetings yet. So you're coming up with your quals proposal, and, uh - Wanna just
+C : Yeah.
+E : um - Where we've  been
+E : @@
+E : uh taking
+E : And so what - what it basically  is - is, um - it's - there's -
+E : at the lowest level, there - it's - it's an OR  AND  gate. So, uh, on each sub-band you have several
+E : And at the - at the higher  level,
+E : for every - if, um - The higher  OR  gate.
+E : um, the presence of - of sonorance in any of the sub-bands, then the detect- uh, the OR  gate at the top says, "O_K, well this frame
+E : Oh, O_K. Well, the low level detectors are logistic regressions.
+C : So that,  by the way, basically is a - is one of the units in our - in our - our neural network. So that's all it is. It's a sig- it's a sigmoid,
+C : which you train by gradient descent.
+C : Well, actually, yeah, so I was using E_M to get the targets.
+C : And then he uses, uh, i- u- and then feeding into  OR  that's  the product. And then, um,
+C : then he has each of these AND  things. And, um,
+C : but - so they're little neural  neural  units.
+C : Um, and, um, they have to have targets.  targets  come from E_M.
+A : And so are each of these, low level detectors - are they, uh -
+A : are these something that you decide ahead
+A : What - what - what are they looking  inputs?
+E : Uh-
+E : Right, so the - O_K, so at each- for each sub-band
+E : pick ahead of time, um, "I'm going to have like five
+E : whole thing on maximum likelihood. Um,
+E : to typical, uh, full-band
+C : explicitly  trained for a product of errors rule,
+C : uh, for people  listening to narrow band stuff. That's Friday's talk, by the way.
+C : Uh, the third  thing I like about it is,
+C : uh, and we've played around with this in a different kind of way a little
+C : So in our  case when we've been training it multi-band things, the way we get the targets for the individual bands
+C : for the sound  this  ultimate  goal is - or not ultimate but
+C : penultimate goal is getting these - these small sound units. But - but, um,
+C : uh, what should we be training these intermediate  for?
+C : impossible.  all  sine  less.  I mean - Well not- I mean, it's g- all g- narrow band
+C : uh, i- I m- I think it's very hard for someone to - to - a person to make that determination. So, um, um, we don't really know  how those should be labeled.
+C : there, just sort of mixing it all together,  cruder  have
+C : You've done that. Did - did that help  at all?
+C : So - so that may or may  sense  But this is - this is, uh, I th- I think a little more direct.
+C : you know, our old foil, the - the nasty old standard recognizer with mel - mel filter bank at the front, and H_M_Ms, and - and so forth.
+C : And, um, it didn't do nearly as well,  noise.
+C : But the - one of the good questions in the audience was, well, yeah, but that wasn't trained  for that. I mean,
+C : but if you knew  sonorants  or not - So sonorants and non-sonorants is - is -
+C : it's - uh, but with the exception of the stops  I guess it's pretty much the same as voiced-unvoiced, right? So - so -
+C : Um. So, um,
+C : if you knew  Vocoder,
+C : you wouldn't use  would  use something that was sensitive to the periodicity and - and not just the envelope.
+C : so I think that the questioner was right.  interesting  because,
+C : uh, this is  what we are actually using for speech recognition, these smooth envelopes. And
+C : this says that perhaps even, you know, trying to use them in the best way that we can,  do,  with,
+C : you know, Gaussian mixtures and H_M_Ms do  sonorant  or not. Which means you're gonna make errors between similar sounds that are son- sonorant or obstruent.
+A : Didn't they -
+A : where they said "if we and then show how it would improve
+A : I thought  I remember hearing about an experiment like that.
+C : The- these same people? I don't remember  that.
+B : What could be the other low level detectors, I mean, for -
+B : Other kind of features, or - ? in addition to detecting sonorants or - ?
+E : Oh, build other - other detectors on different phonetic features? Um,
+E : uh  Let's see, um,
+E : I mean, w- easiest thing would be to go - go do some voicing  stuff but that's very similar to sonorance.
+C : Yeah, so there's a half dozen like that that are - angle  but maybe it's a good
+A : Uh .
+C : way to start.  Uh, these are things which, uh,
+C : John felt that a - a, uh - a human  annotator
+C : would be able to reliably mark.
+C : So the sort of things he felt would be difficult  for a human annotator to reliably mark
+C : would be tongue  position kinds of things. Yeah.
+C : Uh -
+A : You can look at stress.
+A : Yeah, there's a few  permit  permit.
+A : But - that's not very common in English.  other  languages it's more
+C : Well, yeah, but i- either case you'd write P_E_R_M_I_T, right? So you'd get the word  right.
+A : No, I'm saying, i- i- e- I thought you were saying that stress doesn't help you distinguish between words.
+C : We're g- if we're doing - if we're talking about transcription  as opposed to something else -
+A : The sequence,  right?
+A : So where it could help is maybe at a higher  level. Yeah. Understanding, yeah. Exactly.
+C : Yeah. But that's this afternoon's
+E : S- so, um, Ohala's going to help do these, uh transcriptions of the meeting data?
+A : by humans  and, um,
+A : because of having maybe some extra transcriber time we thought we could go through and mark some portion of the data  for that.
+C : and, we'll - we'll end up doing some  I think.
+C : I say it like "said-int" . I think it has a number of good things.
+C : we've  been talking about today and other days?
+F : we're interested in, um, methods for far mike speech recognition, um, in the far mike signal. So, um,
+F : there are other approaches which actually attempt to remove  robust  to it like M_S_G.
+F : comparing the performance of de-reverber-  de-reverberation approaches.
+F : @@
+F : o-
+B : Several microphones? Does it - ?
+F : O_K, well, um,
+F : a guy named Carlos, I forget his last name, who worked with Hynek, who, um,
+C : Yeah.
+F : um, except he used a longer time  window,
+F : like a second  maybe. And the reason for that is RASTA's time window is too short to, um
+F : um, I don't know what you call it - the reverberation response.
+F : @@
+F : the, um, all pole filter that you get out of that should be good.
+F : It's just the, um, excitation signal
+F : that is
+F : and so you can try and reconstruct a better excitation signal
+F : and, um, feed that  through the i-
+C : There's also  this, uh, um,
+C : we have, uh - and when we're saying these digits now we do  have a close microphone signal and then there's the distant microphone signal.
+C : And you could  baseline  given  both  should  cancellation. "
+C : through one method or another. Uh, that's not a practical  thing,
+C : uh, if you have a distant mike, you don't  baseline.
+C : Uh, it still won't be perfect  noise.
+C : Uh, but  And then there are s- uh, there are
+C : single  think  people have done for, uh - for this kind of de-reverberation. Do y- do you know any
+B : the stream of features uh I guess .
+B : @@  there - there's someone working on this on
+B : i- in Mons
+C : The first  great
+B : Mm-hmm.
+C : It's always
+C : feel they'll
+B : Well, he did echo cancellation  things  like, uh,
+B : Yeah.
+C : uh, where they're all  all  arrays,  other  what can we do that's cleverer
+C : that can take some advantage of only two  between  there.
+B : If there is - ?
+C : An obstruction  between them.
+C : It creates a shadow  helpful.
+C : with two ears  apart.
+C : For
+C : most - for most
+A : That  help  though.
+C : So that - Yeah, the - the head,  in the way, is really -
+C : that's what it's for.
+A : That's what the head's for?
+C : It's basically,
+C : That's right, yeah.
+C : Anyway, O_ K.  Uh, I think that's - that's all we have this week. And, uh, I think it's digit time.
+A : Actually the, um - For some reason the digit forms are blank.
+A : Uh, I think th- that may be due to the fact that
+A : Adam ran out of digits, uh, and didn't have time to regenerate any.
+C : Oh! I guess it's - Well there's no real reason to write our names  on here then, is there?
+C : other  stuff, or - ?
+C : O_K, yeah, I didn't notice  read  them   too.  It's a, uh, blank sheet of paper.
+C : Yeah, yeah, I'll do my credit card number later.  O_K.

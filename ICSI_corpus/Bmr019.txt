@@ -1,0 +1,745 @@
+B : O_K.
+C : Yeah.
+E : O_K, our agenda was quite short.
+B : close the door, maybe? Yeah.
+E : digits and possibly  Jane  said that Liz and Andreas had in- information on, but they didn't, so.
+B : @@
+B : which I came unprepared for, uh,
+E : Digits and alignments.
+F : Talk about aligning people's schedules.
+B : Yeah.
+C : Mm-hmm.
+E : forced
+F : Yeah. If we're very -
+D : Forced align.
+B : Yeah.
+F : Yeah.
+B : With - with - whatever it was, a month  roughly  in common, was on a Saturday.
+B : Ugh.
+F : It's pretty sad. Yeah.
+C : Have - Have we thought about having a conference call to include him in more of - in more of the meeting?
+B : No. But, h- I mean, he probably has to go do
+F : No, actually I - I have to - I have to shuttle kids from various places to various other places.
+B : Yeah.
+C : No. It's not good. That's not good.
+B : @@
+F : Uh -
+E : Ye- we- and we'd have to force you to read lots and lots of digits, so it could get real -
+F : Oh, yeah. Oh, yeah.
+F : I let, uh, my five-year-old have a try at the digits, eh.
+E : So, anyway, I can talk about digits. Um, did everyone get the results or shall I go over them again?
+E : it shouldn't  felt
+E : The lapel mike is a very high-quality microphone.
+E : And as Morgan pointed out, that there are actually some advantages to it in terms of breath noises and clothes  talking.
+G : Mm-hmm.
+B : Well, it's - Yeah, sort of the bre- the breath noises and the mouth clicks and so forth like that, the lapel's gonna be better on.
+B : The lapel is typically worse  on the - on clothes rustling, but if no one's rustling their clothes,
+D : Yeah. You don't move much during reading digits, I think.
+G : Probably the fact that it picks up other people's speakers - other people's talking  is  a good microphone.
+B : Right. So in the digits,  in most - most cases, there weren't other people talking. So.
+B : There typically don't, no.
+F : Because I - I suppose you could make  some that have sort of - that you have to orient towards
+E : little  bit, but they're not noise-cancelling. So, uh -
+B : intended  to be omni-directional.
+B : And th- it's - and because you don't know how people are gonna put them   on, you know.
+E : So, also, Andreas, on that one the -
+E : the back  part of it should be right against your head.
+E : Uh-huh.
+B : uh, I mean, there  primarily  that, um,
+B : K,  all  the participants in Aurora,
+B : was so much worse
+B : I.  And the interesting thing is that even though,
+B : not  good
+B : as having a - a l- very large amount of data and training up a - a - a nice good big
+B : H_M_M. Um, also you had the adaptation in the S_R_I system, which we didn't have in this.
+B : I- s- I think Stephane, uh, had seen them. So -
+F : Uh, I - I don't remember, but there was - there was a significant,
+F : loss or win from adaptation - with - with adaptation.
+F : And, um,
+F : you know, adaptation to the recognition hypotheses.
+F : And
+B : But I think one thing is that, uh, I would presume  -
+B : Hav- Have you ever t-
+B : Have you ever tried  this exact same recognizer out on the actual T_I-digits test set?
+B : It might be interesting to do that. Cuz my - my - cuz my sense,
+F : But - but, I have - I mean, people - people at S_R_I are actually working on digits.
+F : you know, h- is actually trained
+F : methods, and so forth, and I could ask them what they get
+B : numbers on T_I-digits also with the tandem thing. So,
+B : this, you know, very limited training H_T_K system.
+B : Uh, but the other is that, um, the digits
+B : recorded here in this room with these close mikes, i- uh, are actually a lot harder  studio-recording T_I-digits.
+B : some  some
+B : And another might be that, uh, I'd - I would presume  that in the studio, uh, uh, situation recording read speech that if somebody
+B : did something a little funny or n- pronounced something a little funny or made a little - that they didn't include it, they made them   do it again.
+E : noticed  that were blatant - that were correctable.
+E : couldn't tell whether - I couldn't tell whether he was saying zero or six. him
+E : Um, so there's a little  bit of correction but it's definitely not as clean as T_I-digits.
+E : So my expectations is T_I-digits would, especially -
+E : I think T_I-digits is all American English. Right? So it would probably do even a little better still
+B : Mm-hmm.
+F : Well. But remember,  telephone  bandwidth front-end here, uh, on this, uh -
+B : Mm-hmm.
+F : you know, speech bandwidth and,
+E : It is  wide-band. O_K.
+F : Mm-hmm.
+E : Mm-hmm. So, Morgan, you're getting a little breath  noise. You might wanna move the mike down a little bit.
+B : See w-
+F : one issue with - with that is that
+F : um, the system has this, uh, notion of a speaker  to - which is used in adaptation, variance norm- uh, you know,
+F : the V_T_L estimation. So -
+F : So does - so th- so does - does, um,
+E : Yep. Yep.
+E : That I don't know.
+B : Well, the other thing would be to do it without the adaptation and compare to these numbers without the adaptation.
+F : Right. Uh, but I'm not so much worried about the adaptation, actually, than - than the, um,
+E : I strongly  suspect that they have more speakers than we do.
+F : Right. But it's not the amount of speakers, it's the num- it's the amount of data per  speaker.
+E : So, although I - I sort of know how to run it, there are a little - a f- few details here and there that I'll have to dig out.
+F : And there's a - there's a script - and that is actually all  in one script. So there's this one script that parses waveform names
+F : database.
+F : Or you can fake - you can
+F : fake names for these waveforms that resemble the names that we use here for the - for the meetings.
+E : Right.
+E : I might have to do that anyway to - to do - because we may have to do an extract to get the amount of data per speaker about right.
+E : The other thing is, isn't T_I-digits isolated  digits?
+E : Or is that another one? I'm - I looked through a bunch  of the digits t- corp- corpora, and now they're all blurring.
+E : Maybe it's the Bell Gram .
+B : that's - that was isolated digits.
+F : not starting with the Switchboard models but by taking the Switchboard models and doing supervised adaptation
+F : Because that would adapt your models to the room acoustics and f- for the far-field microphones, you know, to the noise.
+F : And that  should really improve things, um, further.
+F : And then you use those adapted  speaker  adapted but sort of acous- you know, channel adapted -
+F : use that  as the starting models for your speaker adaptation.
+B : But the thing is, uh - I mean, w- when you -
+B : conversational  both.
+B : And for - for connected digits over the telephone you don't actually want to put a whole lot of effort into adaptation because
+B : gets on the phone and says a number and then you just want it.
+C : This is - this - that one's better. Mm-hmm.
+F : you want to - you want to - That's the obvious thing to try.  Right? Then, eh - because
+C : Oh. Oh.
+C : Yeah.
+F : Mm-hmm.
+A : Now you're all watching me. Alright. This way.
+C : If you have a strong  strong  could  use this. It's just we - we think it has some spikes. So, uh, we - we didn't use that one.
+A : You're all watching.
+C : But you could  if you want. I don't know.
+B : Yeah. we  wanna use that as the -
+E : Uh, it pivots.
+C : and then you have to scr-
+F : Yeah, I think this contraption around your head is not working so well.
+B : Anyway, what I was saying is that I - I think I probably wouldn't want to see that as sort of like the norm,
+C : That looks good. Yeah.
+B : But I think it's an important data point,
+B : Um.
+B : The other thing that - that, uh - of course,
+B : th- some of that. But, I think even - even if there was, uh, only a factor of two or something, like I was saying in the email, I think that's -
+B : that's a big
+A : O_K.
+C : Yeah. This would be O_K. We - we - we think that this has spikes  on it, so it's not as good acoustically, but -
+A : It's this thing's - This is too big for my head.
+F : Yeah, basically your ears  are too big. I mean, mine are too.
+A : No, my - my - But this is too big for my head.
+C : Well, if you'd rather  have this one then it's -
+A : O_K.
+B : great.
+A : Right. I already tried to get it close.
+A : O_K.
+B : So, where were we? Uh - Yeah.
+C : Yeah.
+F : What k- u- By the way, wh- what  factor of two did you - ? I mean -
+F : Oh, th- O_K. That  factor of two.
+B : little under a factor or two.
+B : could  try  looking  good  one.
+B : I mean, before
+B : Right. I understand. But doing the same kind of limited thing -
+A : Or - or some high number.
+B : as people have done in Switchboard evaluations or as - a-
+E : Could we do exactly  the same thing that we're doing now, but do it with a far-field mike?
+E : Cuz we extract the times  acoustics  from the far-field mike.
+A : Right. I understand that. I just meant that - so you have three choices. There's, um -
+A : where that person is talking only  from the transcripts but the segmentations were -
+A : were synchronized. Or you can do a forced alignment on the close-talking
+A : elsewhere  overlapping  those  pieces.
+A : In the H_L_ T  time-aligned,  transcription  process, which is good,
+A : and we took cases where the transcribers  said there was only one person talking here, because no one else had time -
+A : any  words in that segment and called that "non-overlap".
+A : Tho- good - the good numbers. The bad numbers were from the segments where there was overlap.
+B : start
+B : the same conditions that were used to create those,  and in those same segments just use one of the P_Z_Ms.
+A : Right. So we - we can do that.  Yeah.
+A : It might also depend on which  speaker th- it is and how close they are to the P_Z_M? I don't know how different they are from each other.
+E : For this particular digit ones, I just picked that one.
+B : This is kind of central.
+E : I sh- actually should've  could  be why the P_D_A is worse.
+B : That's probably one  of the reasons.
+A : Well, yeah. You could look at, I guess, that  P_Z_M or something.
+B : But the other is, it's very, uh - I mean, even though there's - I'm sure the f- f-
+B : lots  of low-frequency energy. So, even discriminating against it, I'm sure some of it's getting through.
+B : bad.
+B : But, I mean, if you listen to it, it sounds O_K. You know?
+E : Yeah. When you listen  to it,
+B : u- Yeah.
+B : Well, they're
+A : Mm-hmm.
+E : buy them
+B : But, I mean, the thing is people use those little mikes for everything  really  bad.
+A : Mm-hmm.
+B : doing something ridiculous  You know, it's -
+B : They - I mean, i- it's more or less the same principles  there's less quality control.
+B : They just, you know, churn them   them.
+F : people here are used  to using - to working with. So what - what do we do now?
+B : Well, I think what we wanna do is we want to - eh, and we've talked about this in other
+B : And then, um,
+B : I think that's the key thing. And then if we can feed it different features, then we can try all the different things that we're trying there.
+F : Mm-hmm.
+B : explicitly work on reverberation starting with some techniques that some other people have found somewhat useful, and - Yeah.
+F : So - so the key thing that's missing here is basically the
+F : you know, other features i- into the recognizer and also then to train the system.
+B : H- h-
+B : He's - he's sort
+F : Just sort of t- to make sure that we can do that and -
+F : does a lot of things on the fly but it unfortunately like the, uh, ICSI system is, where you can feed it
+F : and give those files to the recognizer.
+E : So tha- that's exactly what the P_file is for.
+B : Yeah.
+F : a separate file.
+F : But, you know -
+F : So.
+B : Cool.
+B : O_K. So the s- the - the next thing we had on the agenda was something about alignments?
+A : I don't know, did you  wanna talk about it, or - ?
+A : I can give a - I was just telling this to Jane  and - and -
+A : looking  that were occurring and
+A : I think was both  and
+A : needing constraints on word locations. And so we tried both of these st-  things. We tried saying -
+A : I don't know, I got this whacky idea that -
+A : just from looking at the data, that when people talk their words are usually chunked together.
+A : They're might  say one word and then another word far away if they were doing just backchannels?
+A : But in general, if there's, like, five or six words and one word's far away  wrong  on average. So,
+F : So that's actually interesting. The pruning was the same value that we used for recognition.
+F : And we had lowered that - we had used tighter  pruning after Liz ran some experiments showing that,
+F : you know, it runs slower  and there's no real difference in -
+A : Actually it was better  same  with tighter pruning.
+F : So for free recognition, this - the lower pruning value is better.  You -
+A : at a point where it's bad  enough that - that you don't lose anything.
+F : Um, but it turned out for - for - to get accurate alignments  it was really important to open up the pruning
+A : Right.
+F : Um yet  from the foreground speaker.
+F : Um, so that was one big factor that helped improve things and then the other thing was that,
+F : hypothesis in the middle  of the foreground speech. You can only have background speech at the beginning and the end.
+A : Yeah. I mean, yeah, it isn't always  clever  way to do this, where,
+A : um, you know, from the data  or from maybe some hand-corrected alignments from transcribers that
+A : words that do  did  allow to have background speech around it -
+A : those  would be able to do that, but the rest would be constrained.
+A : we basically also made noise models for the different - sort of grouped some of the mouth noises together.
+A : um, Jose's giving a presentation and he's talking about,
+A : um, the word "mixed signal" and someone didn't understand,
+A : uh, that you were saying " mixed " -
+H : Yeah, yeah.
+A : a lot  segment  occurs, like, a bunch of times.
+A : And Chuck's on the lapel  last  everywhere  everybody  else's "mixed",
+H : Yeah.
+A : cuz there's no adaptation yet. So there's -
+A : of a f- funky model. Like, it gives you some weird alignments, just because often the background  there,  especially when you get lots of the same words,
+F : Oh -
+F : to capture the rejects in the foreground,  like fragments and stuff, and the other copy would be adapted to the background speaker.
+A : Right now the words like reject models
+F : Mm-hmm.
+A : And another  one is turns, like people starting with
+A : "well how about". So the word "well" is in this -
+A : in this segment
+A : uh, proximity  really  said it in general.
+E : Is the proximity constraint a hard  constraint, or did you do some sort of probabilistic weighting distance, or - ?
+F : But, um, we just didn't have time to play with, you know, tuning yet another - yet another parameter.
+F : we would need a hand-marked, um, word-level alignments or at least sort of the boundaries of the speech betw- you know, between the speakers.
+F : the parameters of the - of the model, uh, to op- to get the best performance.
+A : I looked at them. I spent two  days  Waves  -
+A : Oh, it was painful  because
+A : And you're - yo- you're looking at these segments where there's a lot  of speech. I mean, a lot of them have a lot of words.
+A : Not by every  some  speaker there's a lot of words.
+H : Ju-
+B : Yeah.
+A : segments from just one person  altogether  reject  pauses  -
+D : Yeah.
+A : So I looked at them   all in Waves and just lined up all the alignments,
+A : and, at first it sort of looked like a mess  and then the more I looked at it, I thought "O_K, well it's moving these words leftward and -"
+A : You know, it wasn't that  bad. It was just doing certain things wrong. So - But, I don't,
+A : you know, have time  really  useful to have, like, a - a transcriber who could use Waves,
+A : of the foreground speaker's real  words  - like, the beginning of the first word, the end of the last word - and then we could,
+A : you know, do some adjustments.
+C : is i- does it have  Waves?  you  that would help.
+C : other  did  hand-
+C : So. One of these transcripts was gone over by a transcriber and then I hand-marked it myself so that we do  utterances.
+F : Mm-hmm.
+C : Um, I didn't do it word  A  also  first  transcribed and - and did it
+C : w- uh, w- uh, utterance by utterance for that  do  have -
+C : if that's a sufficient unit, I think that you do  that.  But it'd be wonderful to be able to
+C : benefit from your Waves stuff.
+A : Mm-hmm.
+A : just in terms of the tool,  Sue  reactions. You know, interface-wise if you're looking at speech, you wanna be able to know really where the words are. And so,
+A : maybe incorporate it into the Transcriber tool some way, or -
+C : Well, I th- I'm thinking just ch- e- e- incorporating it into the representation.  I mean, if it's - if it's -
+A : You mean like - Yeah,  word start insights.
+C : if you have start points, if you have, like, time  assume.  Isn't that what - what you - ? Well, see, Adam would be -
+E : I think  so.
+A : Yeah. So, I mean -
+C : It seems  time  time  some  using  benefitting  from that.
+A : Yeah, it wou- the advantage would just be that when you brought up a bin you would  enough
+B : So - so if we e- e- even just had a - a - It sounds like w- we -
+B : we almost do.
+B : Just ha- uh,
+B : trying out the alignment
+B : procedure that you have on that  you could actually get something, um - uh, uh, get an objective measure.
+F : Mm-hmm.
+A : looked  one  meeting that we chose, I think M_R four, just randomly, um -
+F : Actually, not  randomly. We knew - we knew that it had these insertion errors from - Yeah.
+A : It had sort of average recognition performance in a bunch of speakers and
+A : Um. But, yeah, we should try to use  did  re-run recognition on your new version of
+A : M_R one.  and Eric.
+G : new  version.
+A : That - Yeah, actually it wasn't the new new, it was the medium new. But - but we would - we should do the - the latest  version. It was the one from last week.
+C : Yes, I did. And furthermore,  I found that there were a certain number where -
+C : lot,  moved  Dan's  Dan's  Adam's.
+C : reason  I transcribed that at a point before -
+C : uh, before we had the multiple audio  available f-
+C : so I couldn't switch  audio.   entirely,  which meant in overlaps, I was at a - at a terrific disadvantage.
+C : addition  channelized,  finally
+C : So it @@ , like, I mean -
+C : it would've been good to ha-
+C : have got- I should've gotten a headphone.
+C : But in any  case, um, thi- this is - this was transcribed in a - in a,
+C : this  meant that there were some speaker identif- identifications which were
+C : Oh, well -
+D : Yeah.
+G : It's a  -
+G : Yeah, I can s-
+A : "And then she  he
+G : Yeah, I know it by heart. So, um, there's one point when you're running down the stairs. Right? And, like, there's an interruption.
+C : Uh-oh.
+C : Uh-huh.
+C : Yeah.  So, with - under - um, uh, listening to the mixed channel, there were times when, as surprising as that is,
+C : I got Adam's voice confused with Dan's and vice versa - not for long  utterances, but jus- just a couple of places,
+C : other  thing that was w- interesting to me was
+C : that I picked up a lot of, um, backchannels  which were hidden in the mixed signal, which, you know, I mean, you c- not - not too surprising.
+C : other  thing that -
+C : I - I hadn't  thought about this, but I thou- I wanted to raise this when you were -
+C : uh, with respect to also a strategy  potentially,  but that's -
+C : very  often in - w- well, I won't say "usually" - but anyway, very often, I picked them up in a channel
+C : w- which was the person who had asked a question. S- so, like, someone says "an- and have you done the so-and-so?"
+C : And then there would be backchannels,  question.  doing  much backchanneling.
+C : And, you know, sometimes you have the - Yeah, uh-huh.
+C : perfect,  does  seem more natural to give a backchannel when -
+C : when you're somehow involved in the topic,  initiated
+A : That's interesting.
+F : I think - No. I think it's - actually I think what's going on is backchanneling  is something that happens in two-party conversations. And if you ask someone a question, you essentially initiating a little two-party conversation.
+C : Yeah.
+A : Well, actu- Yeah, when we looked  at this -
+F : So then you're - so and then you're expected to backchannel because the person is addressing you  directly and not everybody.
+C : Exactly.
+C : Exactly.
+C : Exactly my point. An- and so this is the expectation thing that - uh, uh, just the dyadic - But in addition,
+B : H-
+C : you know, if someone has done  himself  isn't  dyad,
+C : but they might also give backchannels to verify what - what the answer is that this - that the - the answerer's  given -
+B : I tell you, I say - I say "uh-huh" a lot,
+A : Well, but it's interesting cuz, uh -
+C : There  you go. Yeah. Yeah.
+A : But there are fewer  allow  reject  between  alignment.
+C : Oh, yeah.
+A : short utterances. And " yeah " is way up there, but not "uh-huh". And so I was thinking
+A : thi- it's not like
+C : Well, that's right. And that would -
+C : Well, an-
+C : And what you say is the - is the re- uh, o- other  side of this, which is that, you know, so
+C : th- there are lots of channels where you don't  have these backchannels, w- when a question has been asked and - and these -
+A : in general,  every  other person altogether one person
+A : try - compare this type of overlap  Switchboard,
+A : where - and CallHome,  have  both sides, so that we can try to answer this question of, you know,
+A : is there really more  overlap  meetings  Switchboard  and we don't know what people are doing.
+B : already told me, but were - were you intending to do a Eurospeech submission, or - ?
+A : tomorrow?
+B : Yeah.
+C : Mm-hmm.
+G : That's r-
+A : we will try.  It'll probably be a little late, but I'm gonna try it.
+E : Well -
+E : It is  abstract  due by now, not the full paper.
+A : we'll try,  because that'll at least get us to the point where we have - We have this really nice database format that Andreas and I were working out that -
+A : It - it's not very fancy.  It's just a
+A : ASCII line by line format, but it does  give you information -
+A : It - Yeah, we're calling these "spurts" after Chafe. I was trying to find what's a word for pauses around it?
+B : And that's - I mean, I - I was using that for a while when I was doing the rate of speech stuff, because I - because I looked up in some books and I found - O_K, I wanna find a spurt
+A : It's just, like, defined by the acoustics.
+B : in which - and - an- because - cuz it's another  between  them. But how fast do they
+B : do the words within the spurt? Yeah.
+G : you know  Burst " also? Isn't "burst" is used also?
+E : Spurt has the horrible name overloading with other - with hardware at ICSI.
+H : @@
+B : Here.  Just very locally, yeah. But - but that just -
+A : Well, well, Chafe  had this wor- I think it was Chafe, or somebody had a - the word "spurt" originally, and so I -
+C : Well, see, I know S- Sue wrote about spurts of development. But,  in any case, I think it's a good term, and, uh -
+E : Hmm!
+A : So we have spurts and we have spurt-ify dot shell and spurt-ify
+G : That's cool.
+A : And then it's got all - it's a verb now.
+F : W- uh, w-
+C : Chafe speaks about intonation  units.
+C : But maybe he speaks  about spurts as well and I just don't know. Yeah, go ahead.
+F : Right. But it has - one - the first column has the meeting name,  so it could actually contain several meetings. Um.
+F : Third column is the, um, start  duration  of the words.
+F : the, uh, tags  for, like, where - where sentence - ends of sentence, question marks, um,
+F : Right.
+F : Mm-hmm.
+A : spurt overlaps - sp- overlaps, or -
+F : And then you merge  time  marks.
+F : And then
+F : you extract
+F : the individual channels again, but this time you know  where the other people start and end talking -
+F : And so you extract the individual channels,
+F : Um, and inside the words or between the words you now have begin and end tags for overlaps. So,
+A : Uh, I mean, I think that's actually really u- useful also  because
+A : even if you weren't studying overlaps, if you wanna get a transcription for the far-field mikes, how are you gonna know
+A : which words from which speakers occurred at which times relative  have  get a transcript like - like this anyway, just for doing far-field recognition. So,
+A : I thi- it's just an issue we haven't dealt  time-align  things that are overlapping anyway.
+E : that  in  there.
+A : Right. But you can't  transcription.  formatting  clean,  fancy.
+F : Well, there's lots of little things. It's like there're twelve different scripts which you run and then at the end you have what you want. But, um,
+F : at the very last stage we throw away the actual time  information. All we care about is whether -
+F : that there's a certain word was overlapped by someone else's  word.
+F : Because we figure that's about the level of analysis that we want to do for this paper.
+F : But if you wanted to do a more fine-grained  far  into the word is the overlap, you could do that. It's just - it'll just require more -
+A : Yeah. Just
+C : Sue  about this, um, she, um,
+A : Yeah. It's - it's nice to know, and also I think as a human, like, I don't always hear  these in the actual order that they occur. So I can have two foreground speakers, you know, Morgan an- and
+A : um, Adam and Jane could all be talking, and I could align each of them to be starting their utterance at the correct time, and then look where they are relative  heard.
+C : another  thing she said. This is - This is Bever's - Bever's effect, when - where -
+A : Cuz it's just hard  do.
+A : Yeah, you sort of move things around until you get to a low information point and yo- then you can bring in the other person. So it's
+A : possible,  person  to listen to a mixed signal, even equalize, and make sure that they have all the words in the right order.
+A : So, I guess, we'll try  write  late or not, I don't know.
+A : Um, and the good  thing is that we have - It's sort of a beginning of what Don can use to link the prosodic
+F : Yeah.
+A : i- You know, might as well. We- I ju- Otherwise we won't get the work done
+F : I mean, u- u- Jane  format  and see if you find anything interesting.
+B : Yeah. and things like that, because you - you really get g- Yeah.
+C : thinking
+A : Right.
+F : Mm-hmm.
+A : Forces you to do the work. Exactly.
+F : um, you know, strictly enforced, because the -
+B : @@  Oh,  now  public,  this - this - this secret information. Yeah.
+F : because -
+F : Nah
+F : i- Because these - the conference  monetary  interest. So -
+A : Right.
+F : Um.
+C : And good  good
+F : And good  submission- Right. Well -
+F : That's another issue, but -
+B : By th- by the way, this is totally  morning  meeting folks actually have an - an extra month or so.
+F : Mm-hmm.
+D : Yep.
+B : There's a special Aurora session and the Aurora pe- people involved in Aurora have till Ma- uh, early May or something to turn in their paper.
+F : Mmm.
+A : Oh, well maybe we'll submit to s- Actually -
+H : Yeah.
+D : Yeah.
+B : Well -
+F : Yeah.
+B : @@
+B : No, it wouldn't work. It's - it's not the Aurora - I mean, it - it's - it's actually the Aurora task.
+A : Well, maybe it won't be after this
+F : a - a paper that is not  more  interesting at that point because everybody's so sick and tired of the Aurora task.
+D : Yeah.
+E : digits  Aurora
+B : This  not  the Aurora task.
+B : So they just do a little grep for -
+A : Do not - do not - we are not setting a good example. This is not a -
+H : @@
+E : Pretty hokey.
+B : I think it's a littl- little far-fetched. Nah, I mean, the thing is Aurora's pretty closed community. I mean, you know, the people who were involved in the -
+F : Mm-hmm.
+B : w-  in ninety-nine and it's - it's sort of a - it's -
+B : not like a -
+F : know that they have a crummy system. I mean, a crummy back-end.
+F : No, I mean - I mean, seriously,
+A : Uh,
+E : I mean, th-
+F : anybody - any particular  K  back-end. If they -
+B : Oh, you don't like H_T_K?
+H : Yeah.
+B : that is trained on a very limited amount of data. Yeah.
+F : But maybe you should, you know, consider more  more  data, or - I mean -
+B : Oh, yeah. I - I really think that that's true.
+B : And they i- i-
+E : Right? And so - so you can - you can argue about maybe that wasn't the right thing to do,  but, you know, they - they -
+B : But, uh, one of the reasons I have  don't  know the answer to. People always say very glibly
+B : that i- if you s- show improvement on a bad system, that doesn't mean  anything, cuz it may not be -
+B : tell  good  system.
+B : I've  depends.
+B : You know, that if some peopl- If you're actually are getting at something that has some substance  will  port.
+B : And in fact, most  were  some  level.
+B : But of course, sometimes it doesn't,
+B : uh, port. So I think that's - that's an interesting question. If we're getting three percent error on, uh,
+B : um, using the Aurora system, and we do some improvements  two,
+F : Hmm.
+B : point eight? Well. test.
+B : So.
+F : O_K.
+F : Whew!
+B : O_K.
+B : that's going in. You know, that's - that's pretty solid, on the segmentation stuff.
+F : Actually this - this, um - So, there's another paper. It's a Eurospeech paper but not related to meetings.
+F : But it's on digits.  So,
+F : And he tested it mostly on digits because it's sort of a - you know, it doesn't take weeks to train it.
+B : Right.
+F : Um.
+F : error rates noisy  environment, like from,
+F : uh -
+F : you know, from one percent to point eight percent? I mean, it's a -
+B : H- i- it got - it got better. Yeah, yeah.
+F : It got better.  That's the important thing. Yeah. But it's -
+B : Yeah.
+B : Yeah.
+B : Um, let's see. I think the only thing we had left was - unless somebody else - Well,
+B : there's a couple  anything that, um,
+B : anybody has to say about Saturday? Anything we should do in prep for Saturday?
+B : I mean, u- um, Mari was asking - was trying to come up with something like an agenda and we're sort of fitting around people's times a bit.
+B : clearly when we actually get here we'll move things around this, as we need to, but -
+B : absolutely
+A : Are we meeting in here  probably  or - ? O_K.
+B : Yeah.
+B : @@
+B : u- No. I - I hadn't  in- intended to. We won- we wanna - I mean, they're -
+F : O_K.
+B : there's gonna be, uh, Jeff, Katrin, Mari and two students. So there's five from there.
+F : But you know th-
+B : And Brian's coming, so that's six.
+F : Mm-hmm.
+A : Depends how fast you can throw it. It's just -
+E : It seems like too many - too much coming and going.
+A : We don't even have enough channel  -
+B : Well -
+H : Yeah.
+B : I hadn't really thought of it, but -
+F : Maybe just - maybe not the whole day but just, you know, maybe some - I mean, part of it?
+B : Maybe part  of it.
+B : Maybe part  of it.
+A : At the same time.
+F : Please.
+B : Yeah.
+H : @@
+A : Yeah, our - Yeah, our -
+A : Is it changed  now, or - ?
+B : um, maybe when I get back there'll be some - some mail from her.
+C : I'm looking forward to seeing your representation. That'd be, uh -
+B : So, I'll make a -
+A : And w- we should get the two meetings from y- I mean, I know about the first meeting, um,
+A : but the other one that you did, the N_S_A one, which we hadn't done cuz we weren't running recognition on it, because the non-native speaker -
+A : there were five  non-native speakers.
+A : to see  with that one. So.
+G : Oh, we did - That was the last  one I gave you.
+A : Yeah, three.  Right. So -
+A : N_S_ A  three, I think.
+C : Yeah, that's right. That's right. That's much simpler.
+B : Th- that part's definitely
+G : I remember the date.  So.
+F : Um. Yeah.
+C : Yeah. Not that  N_S_A.
+B : It's network services and applications.
+A : They are
+F : Wait.  The -
+B : Yeah.
+F : th- the other  machine's  So, you can actually find, um,
+A : It's the person's fault.
+F : problem - uh, proble- You can find -
+B : It's always Morgan's fault.
+A : Not  lot,  but where the - the wrong person - the - the speech is addre- attached to the wrong speaker and you can tell that when you run it.
+A : Or at least you can get clues to it. So these are from the early transcriptions that people did on the mixed signals, like what you have.
+C : does  w-
+C : Mm-hmm.
+C : It also  that
+C : but maybe using that representation for data entry  displaying  it on the channelized, uh, representation, cuz it - I think that the -
+C : I mean, my - my preference  looking  in this kind of musical score format.
+C : And also,  Sue's  well.
+C : And - and - but,  I mean, this - if this is a better interface for making these kinds of,
+C : uh, you know, lo- clos- local changes, then that'd be fine, too. I don't - I have no idea. I think this is something that would need to be checked.
+B : O_K.   other  I  realize  today,  day.
+H : Is my last - my last day. My - meeting  about meetings.
+C : Oh.
+E : Oh, that's right. Tomorrow -
+F : Mm-hmm.
+H : And I - I would like to - to - to say thank you very much, eh, to all people @@
+F : Mmm.
+H : And I'm sorry  I haven't good results, eh, yet but, eh,
+H : I - to - to continuing out to Spain, eh,
+H : but, eh, I haven't enough time to - to - with six months it's not enough to -
+B : They'd make use of - of what you've done.
+H : But, eh, I - I will try to recommend, eh, at, eh,
+H : the following @@  scholarship, eh, eh,
+H : eh, will be here more  time,  because eh, i- in my opinion is - is better,
+H : eh, for us  to - to spend more time here
+H : and to work more time i- i- in a topic. No ?
+B : Yeah, it's a very short time. Yeah. Yeah.
+E : Yeah, six months is hard.  I think a year
+H : Yeah. It is .
+H : you are lucky,  in - in - in some few tim- uh, months, eh?
+H : to tear, uh, with - with you, uh.
+B : Yeah. Yeah.
+C : Yeah.
+B : unless somebody has something else, we'll read - read our digits and we'll get our -
+D : Uh. Oops.
+E : Are we gonna do them
+B : get our last bit of, uh, Jose's - Jose   - Jose's digit - Uh, I'm sorry?
+H : Or you prefer now,  before after - ?
+C : time  constraint. Yeah.
+F : Yeah, yeah. Yeah.
+D : No, no.
+B : Well? Yeah.
+A : You - This is our reward if we do our digi-
+H : I - I think, eh, it's enough, eh, for more peopl- for more people after. But, eh -
+A : Oh.
+F : Mmm!
+G : So, I have a vested interest.
+B : Um. Well -
+H : To Andreas, the idea is - is good.
+B : Tha- that's - that looks great.  Alright, so in the interest of getting to the -
+F : Oh, yeah. Th- it doesn't - it won't leave this room.
+D : Yeah. Yeah.
+H : Yeah.
+H : Is, eh, a - another acoustic event.
+D : Background crunch. Yeah.
+F : Mmm.
+D : Yeah.
+B : She's - she's serious. She is serious.
+E : It's just the rest  clean,
+A : I am serious.
+F : Mmm.
+H : Are you - ? Oh,
+D : Yeah !
+A : You have to write down, like, while y- what you're - what ch- chocolate you're eating cuz they might make different sounds, like n- nuts - chocolate with nuts, chocolate without nuts.
+F : Chocolate adaptation.
+B : Actually - actually kind of careful cuz I have a strong allergy to nuts, so I have to sort of figure out one without th-
+A : That w- Oh, yeah,  they - they might.
+A : Maybe those?  They're so -
+B : I don't know. Um -
+A : I don't know.
+A : This is - You know, this is a different kind of speech, looking at chocolates, deciding - you know, it's another style.
+F : Mmm.
+F : Mmm.
+F : Mmm.
+B : Thanks. Well - well, why don't we - ? He - he's worried about a ticket.  Why don't we do a simultaneous one?
+E : O_K.
+C : O_K.
+F : Mmm.
+F : Right.
+H : O_K.
+D : Oops.
+H : Yeah.
+B : I have to what?
+A : You laughed at me, too, the first time I sa- said -
+E : O_K, everyone ready?
+E : Transcript L_ four four.
+B : we want it synchronized.
+C : Hey, you've
+C : You've read digits together with us, haven't you - I mean, at the same time?
+A : I'm not - we - we - Oh, and you haven't done this either. I- the first time is traumatic, but -
+B : We-
+B : Y- Yeah, bu-
+C : groupings  are important, so yo- you're supposed to pause between the groupings.
+H : The grouping.
+H : Yeah.
+F : You mean that the - the grouping  synchronized?
+E : Yeah, sure.
+C : No.
+B : No, no. Synchronized digits.
+G : Oh, wow.
+F : No?
+A : That'd be good. We- we'll give everybody the same sheet but they say different -
+F : It's like a - like a Greek - like a Greek choir? You know? Like - Yeah.
+E : them   them   at once.
+E : Or - or just same digits. See if anyone notices.
+C : Yeah. That'd be good. And then - then we can sing
+B : There's so  Uh. O_K, why don't we go?
+C : O_K.
+E : L_ forty four,
+C : Transcript L_ twenty-nine.
+I : Transcript L_ dash four one.
+B : Transcript L_ forty-six.
+A : Four, eight eight seven, two six, one one two, one.
+D : Transcript L_ forty three.
+F : Transcript L_ forty five.
+E : Six eight six, nine three two, nine two three.
+I : Two, eight six eight, two three, two five three,
+H : s- seven nine six seven, eight, four eight five,
+D : Four, zero three six, three five, one four three, one.
+B : Nine six one, eight five, nine seven seven five.
+C : Zero five five three, two, one nine zero.
+F : Forty nine, seventy seven, one six, zero three, five zero.
+A : Nine three two six, six five, nine three, three four one one.
+E : Seven one O_ eight, one nine eight four, five eight seven seven.
+H : seven four one nine, two six eight nine, four nine seven one.
+I : Zero four eight, nine four three, two three one.
+B : Two nine nine, nine four five, three four nine three.
+C : Eight two seven, two one six, four three six.
+D : Three nine five
+F : I'm starting over.
+A : Seven, five six two, six nine, three three four, four.
+F : Four nine, seven seven, one six, zero three, five zero,
+E : Two eight four three, three six two  four.
+I : Zero six six, five four, two four three zero.
+C : Five nine one zero, zero nine six six, eight zero eight eight.
+B : Nine three nine, six zero five, four seven seven.
+H : three, two five four, six four, one, five six eight,
+A : Four one two six, four one five four, three four seven three.
+D : Six eight seven, eight five eight, eight one four.
+E : Three one three, O_ nine six, nine four nine.
+B : Five three, seven three, six seven, seven five zero seven.
+C : Five six one, four nine six, three six four six.
+I : Seven, seven nine two, six nine, four five zero, four.
+H : two zero nine seven, seven nine nine seven, seven eight seven eight.
+D : Five, two seven one, six one, zero five eight,
+A : Three six one, three six nine, Oops. seven
+F : five O_ three, three two five, five two zero nine,
+E : Six four seven seven, two zero, eight two, four seven.
+C : Zero six eight two, eight, six one nine.
+B : Two two eight eight, one eight four seven, one one two seven.
+I : Nine zero nine, three  two
+C : Seven eight three zero, eight five eight one, nine seven two eight.
+E : One five five, two seven, three eight nine two.
+A : Eight one, nine six, nine O_, three six, three six.
+H : Three zero three three, zero four four five, one six zero fi- six.
+D : Seven four one, zero five five, nine eight two.
+B : Seven one one eight, four one seven five, five five zero one.
+F : two seven, two four, two nine, six three, five six,
+E : Nine O_ five seven, six eight four five, one five three eight,
+C : Eight four eight nine, one, one five six.
+A : One four two two, seven four three one, nine nine three three.
+I : Seven, three five one, three four, two three one, zero.
+D : Six nine, one four, zero five, seven nine, five six, nine two.
+B : One seven three, four eight, zero seven nine three.
+C : Twenty-s-
+C : Oh, sorry.
+H : Two one eight, seven one six, five one eight,
+E : two nine, eight four, eight two, O_ three, five two.
+C : Two
+A : Eight four seven two, O_ seven two three, O_ one seven O_.
+I : Nine  three
+B : Four eight four three, four seven five one, eight five nine eight.
+F : eight two nine zero, six four three one, six eight five five,
+D : One nine, one six, five four, eight four, three one.
+H : four eh five eh seven, six eight, eh nine zero one two
+I : Two nine eight, one two five, two two nine nine.
+D : Seven seven five, zero eight three, nine five four seven.
+H : t- two two five eight, five two eight nine, five seven seven eight.
+F : four six nine, one five six, four seven eight one,
+C : Mmm!
+F : five four eight seven, three, five five five,
+F : one six three one, two, eight three eight,
+F : eight zero nine, zero seven four, one six four seven.
+B : And Andreas has the last word.
+A : He's try- No, he's trying to get good recognition performance.
+C : He had the h-
+H : Yeah. Yeah.
+C : He had the - the long form.

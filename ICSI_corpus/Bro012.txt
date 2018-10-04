@@ -1,0 +1,657 @@
+B : O_K. We're on.
+A : O_K, so uh
+A : redirected it to everybody also  big
+A : and uh second  wave form in that pair of wave forms is actually the air conditioner.
+A : So. I have to be more careful about using that as a - as a -
+A : uh, in fact it's not,
+A : of uh -
+A : of the effects of room reverberation. It is- isn't a bad illustration of the effects of uh room noise.
+A : on uh some mikes
+A : range,  sixteen  bits and
+A : you know, are we getting hurt there? But uh Dan is pretty confident that we're not,  still  not a significant
+A : factor there.
+A : So.
+A : So there was a question of whether we should change  change a capacitor on the input box for that or whether we should
+A : Right. But then I had some other uh thing- discussions with him and the feeling was once we start monk- monkeying with that, uh, many other problems could ha- happen.
+A : And additionally we - we already have a lot of data that's been collected with that,  so.
+A : A simple  thing to do is he - he - he has a - I forget if it - this was in that mail or in the following mail, but he has a - a simple filter, a digital filter that he suggested.
+A : um The other  I  don't know the answer to, but when people are using Feacalc here,
+A : I don't know if anybody knows.  But.
+E : I  check.
+A : is  -
+A : uh there is an option there which then comes up through to Feacalc which
+A : um allows you to do high-pass filtering and in general  do  because  of things like this and
+A : filter.  all,  but it's
+B : What's the
+A : Oh. I don't know I wrote this a while ago
+A : Something  like that. Yeah. I mean I think there's some effect above twenty but it's - it's - it's - it's mild.
+F : Yeah.
+A : So. We - we - we want to go and check that in i- for anything that we're going to use the P_D_ A  mike for.
+A : we don't need - need to worry about them one way or the other but if we do  make use of the cheap mikes,
+B : Did somebody notice it during  your talk?
+A : uh Well.  If they made output they were - they were, you know - they were nice.
+B : Didn't say anything?
+A : But.
+A : I mean the thing
+A : since I was talking  showing  noise,  match,  certainly  was still uh an indication of the fact that you get
+A : noise  mikes.
+A : So, I mean, it doesn't take deep -
+A : a new - bold new methods to get rid of uh five hertz noise, so.
+B : Yeah.
+A : uh But. So it was - it was a bad example in that  still  real  thing  did  microphone  at distance, so it wasn't
+A : it w- it w- wasn't wrong it was inappropriate. So.
+A : um
+A : So I think we'll change our - our picture  @@ .
+A : that spectrogram
+A : is O_ K,  but the thing is
+A : the eyes uh and the the brain behind them are so good at picking out patterns
+A : from - from noise
+A : uh because there's many  preserved.
+A : So one thing to do might be to just take a piece  of the spec- uh of the spectrogram where you can see
+A : that something  different,  that  well.  You know.
+A : i- i- Some  things are going to be hurt.
+A : Another,  I was thinking of was um
+A : taking some spectral  slices,
+A : the reverberation uh does  does  change  that. And so maybe - maybe that would be more obvious.
+B : Hmm.
+A : So it's, yeah, at one  point in time or uh twenty - over twenty milliseconds or something,
+A : you have a spectrum or a cepstrum. That's  what I meant by a slice. Yeah. And
+B : could  could  just throw up, you know, uh
+B : the uh - some M_F_C_C feature  vectors.
+B : You know, one from one, one from the other,  and then, you know, you can look and see how different the numbers are.
+A : Right.  but I think the thing is you wanna -
+B : I'm just kidding.
+B : I don't mean a graph. I mean the actual numbers.
+A : Oh.  I
+A : Oh.  That
+B : sequences of numbers are?"
+A : Yeah.
+A : Or  total.
+B : Yeah.
+B : It's not the square.
+A : O_K.
+A : Uh. What else - wh- what's - what else  is going on?
+F : Uh, yeah.
+F : first
+F : beginning of the table and
+A : Uh. I guess cuz we haven't wanted to move  it.
+A : We - we could - us,
+E : That's right.
+F : O_K.
+F : Well, anyway. Um.
+F : Yeah, so.
+F : Uh. Since the last meeting we've - we've tried to put together um
+F : Uh the new filter that's replacing the L_D_A filters,
+F : and also the um delay issue so that -
+F : So we've put together all this
+F : very impressive. Well, there is no improvement.
+F : Well. Actually it's better. It seems better when we look at the mismatched case but
+F : uh in some cases when you modify slight - slightly modify the initial condition you end up
+F : completely somewhere air- somewhere else in the - in the space,
+F : Well. The other system are for instance. For Italian is at seventy-eight
+F : I don't - I don't think it means that the new system is more robust or -
+F : the fact that -
+A : if it was -
+F : Yeah. Yeah. It's similar for other test
+F : from this se- seventy-eight um percent recognition rate system,
+F : I could change the transition probabilities for the - the first H_M_M and it will end up to eighty-nine also.
+F : By using point five instead of point six, point four as in the - the H_T_K script.
+B : Yeah. Yeah I looked at um - did  error  rate.
+F : This really happens. Yeah.
+A : Yeah.
+A : A tenth  cent.
+B : I - I'm sorry f- for point - from - You change at point one alright  five  and you get ten percent better.
+A : Oh!
+F : Mm-hmm.
+B : And it's -
+A : five  six?
+B : for  the self-loop.
+A : Point - It's supposed  to be point six.
+B : But changing it to point five  not allowed.
+A : But not allowed? O_K .
+F : Yeah, but even  five,  sure  it will
+F : always give you the better  results  on other test set or it
+B : Right. We only tested it on the - the medium mismatch, right? You said on the other  cases you didn't notice -
+F : on the other training
+F : Yeah.
+F : it was in my mail I think also,
+F : Well, in - for the mismatched case everything is um using the far microphone training and testing,
+F : whereas for the highly mismatched, training is done on the close microphone so
+F : so you don't have this problem of local minima probably
+F : close microphone and distant microphone and - Well.
+B : did
+F : So th- I think the mismatch is the more difficult for the training  part.
+B : Somebody, I think it was Morgan, suggested at the last meeting that I actually count to see
+B : And there are uh almost one point eight million frames
+B : So it's very, very few
+B : Yeah. Yeah. I did one quick experiment just to make sure I had everything worked out and I just -
+B : For - for all of the digit
+B : And so I just did a quick
+B : and um
+B : it - it didn't have a r- any significant effect at the uh medium mismatch and high mismatch cases and it had - better.
+B : Uh so I'm r- gonna run that again but
+A : Yeah.
+A : Yeah, easily  parameters.
+B : And I think also
+B : in terms of the expected duration of the silence model? when we did this tweaking of the self-loop?
+B : The silence  really  score,  longer.  think  you know if we
+B : make a better silence model I think that will help a lot too
+B : but one one thing I - I wanted to check out before I increased the um
+B : in their
+B : and then they built the silence model and then they do seven iterations then the add mixtures and they do another seven then they add mixtures
+B : then they do a final set of seven and they quit.
+B : Seven seems like a lot to me and it also makes the experiments go take a really long time
+B : And so run  Linux
+B : machines cuz we have this one from I_B_M that's got like five processors in it?
+B : and so now I'm - you can run stuff on that
+B : you know, extra machines that we can use for compute.
+B : And so if we can get away  three,  many  experiments  quickly.
+B : And if it's not a - a huge  seven
+B : um, you know, we should be able to get a lot more experiments done.
+B : And so. I'll let you know what - what happens with that. But if we can back-ends  on Linux boxes we should be able to get a lot more experimenting done.
+B : So I wanted to experiment with cutting down the number of iterations before I
+A : Right. Sorry.
+F : Um.
+A : So um, how's it going on the -
+A : So. You - you did some things. They didn't improve things in a way that convinced you you'd substantially improved anything.
+F : Yeah.
+A : But they're not  making things worse and we have reduced latency, right?
+F : and we just noticed that - Yeah, actually the way the final score is computed is quite funny. It's not a mean of word error rate. It's not a weighted mean of word error rate, it's a weighted mean of improvements.
+F : So. Which means that actually the weight on the well-matched is -
+F : a small if on the well-matched case
+F : No, but it's the weighting of the - of the improvement  error  rate.
+B : Yeah, and it's hard  improve  case,  good,  right?
+F : Yeah but what I mean is that you can have a huge improvement on the H_ -
+F : Uh this will almost not affect the final score because
+F : this improvement - because the improvement
+F : uh relative to the - the baseline is small -
+A : So they do improvement in terms of uh accuracy? rather than word error rate?
+A : So -
+A : O_K. So if you have
+A : uh ten  five  improvement then that's fifty percent.
+A : O_K. So what you're saying then is that if it's something that has a small word error rate,
+A : then uh a - even a relatively small improvement  absolute
+A : will show up as quite - quite large in this. Is that what you're saying? Yes.
+A : O_K. But yeah that's - that's - it's the notion of relative improvement.
+A : Word error  rate.
+F : Sure, but when we think about the weighting,
+F : on - on relative  figures,
+A : No. That's why I've been saying
+A : I mean uh we probably should have standardized on that all the way through. It's just -
+B : Well.
+B : it's not that different,  right? I mean, just subtract the accuracy. I mean -
+A : Yeah but you're - but when you look at the numbers, your sense of the relative  ten  is - is big.
+B : I  see. Yeah.
+A : So just when we were looking at a lot of numbers and getting sense of what was important.
+A : Um. Um.
+F : and yeah.
+F : Like, it's difficult to say because again I'm not sure I have the um -
+B : Hey Morgan? Do you remember that Signif program that we used to use for testing signi- ? Is that still valid?
+B : I - I've been using  that.
+A : Yeah. Yeah, it was actually updated. Uh.
+B : Oh, it was.  Oh, I shoul-
+B : O_K. I should find  new  old
+A : Yeah, I'm sure it's not that  he uh - he was a little more rigorous, as I recall.
+F : No,  six
+F : uh percent absolute on Italian  -
+A : Worse.
+A : Out of what? I mean. s-
+A : Uh-huh. So that's six - six point th-
+B : Ninety- three  baseline.
+F : Oh, no, I've ninety-four.
+F : baseline,  you mean.
+B : Oh. Oh. I'm
+A : Yeah.
+F : we were at ninety-five point O_ five and we go to ninety-three-s- point sixty one.
+A : O_K, so we are  changes  Uh, do you know what pie-
+F : So.
+F : which - And, yeah.
+F : And the other things, like um
+F : the new on-line normalization, neither. So.
+B : I'm really  confused
+B : If we saw that making a small change like, you know, a tenth, to the self-loop  can we really make any conclusions about
+B : differences in this stuff? I mean, especially  this  small.
+F : I think we can be completely fooled
+F : I
+A : Well, yeah.
+F : So. There is first this  like, the confidence level on the different
+F : test sets.
+F : And for the well-matched they are around um
+F : uh percent.
+F : For the mismatched they are around like let's say one point five percent.
+F : And for the well-m- uh H_M they are also around one point five.
+A : Doesn't hurt, but doesn't get a little better, or something. No.
+A : O_K, so one  bunch
+A : um -
+A : I mean, so eh h- here's all the - if - if in all these different cases never
+A : So um
+A : So I guess the question is if you can do better  the old numbers while still keeping the latency down.
+A : I  gang now, about this and -
+F : exchanging mail as soon as we -
+F : we have significant results.
+F : Yeah. For the moment, they are working on integrating
+F : spectral subtraction
+F : apparently from Ericsson.
+F : Yeah. And so. Yeah. We are working on our side on other things like uh also trying a sup- spectral subtraction but
+F : of - of our own,  another
+F : spectral subtraction.
+F : Um.
+F : Yeah. So I think it's - it's O_K. It's going -
+A : Is there any further discussion about this - this idea of - of having some sort of source code control?
+F : Yeah. Well. For the moment they're -
+F : uh everybody's quite um -
+F : Um. And.
+F : But yeah. As soon as we have something that's significant and that's better than - than what was submitted,
+F : we will fix - fix the system and -
+F : But we've not discussed it - it - it - this  yet, yeah.
+A : Yeah. he's  this next one.
+F : Yeah.
+A : Yeah.
+A : Yeah.
+F : Yeah we are -
+F : and - But yeah.
+F : Yeah.
+F : And the good thing is that there is this first deadline,
+F : um
+F : special session about th- Aurora which is -
+F : The deadline is in May.
+A : For uh - Oh, for Eurospeech?
+F : Yeah. So f- only for the experiments on Aurora.
+A : Oh!
+A : Oh, a special dispensation. That's great.
+B : Mm-hmm. Where is  Eurospeech this year?
+A : Aalborg - Aalborg uh
+B : Oh.
+A : So the deadline - When's the deadline?
+A : When's  the deadline?
+A : It's great. So we should definitely  that.
+A : meeting  digits, maybe there's - Maybe. Maybe.
+F : Yeah. So it would be for the first deadline.
+A : Yeah. So, I mean, I - I think that you could certainly start looking at - at the issue uh but - but uh
+B : Well I could at least -
+B : Well, I'm going to be out next week but I could
+B : try to look into like this uh C_V_S over the web. That seems to be a very popular
+B : way of
+B : over, you know, multiple sites and things so maybe
+B : if I can figure out how do that easily and then pass the information on to everybody so that it's
+B : you know, as easy to do as possible and - and people don't - it won't interfere with
+B : And I think we could use it for other
+C : That's  cool. And if you're interested in using C_V_S, I've set it up here, so.
+B : Oh great.
+A : Yeah. Dave, the other  cuz  um I mean, actually the - the uh
+A : It made  audio  play  obvious  difference
+A : Yeah.
+A : that
+C : Uh-huh.
+B : But not of reverberation.
+C : A boom.
+A : Well that - that - that's  visual,  spectrogram  abilities  being  good  good  cru-  up  features  @@  - yeah.
+B : noticed  pictures.  I thought "hey, you know th-" I -
+B : My initial thought was "this is not too bad!"
+A : Right. But you have to - you know, if you look at it closely, you see "well, here's a place where this one has a big formant - uh uh formant - maj- major formants here are -
+A : So I mean you could - that's why I was thinking, in a section like that,  Oh  distorted  it quite a bit."
+B : Yeah. The main  me  really
+B : I mean that  I
+A : Right.
+A : Yeah. So there are - clearly are spectral effects. Since you're getting all this indirect energy, then a lot of it does have - have uh
+A : the other thing is the temporal courses of things really are changed, and -
+A : and uh we want to show  way.  put  in
+A : uh they - they do  different.
+A : And so I thought "Oh, this
+A : After - after uh they were put in  look  at them anymore, cuz I just -
+A : they were different.
+C : Oh. So maybe we can just substitute one of these wave forms and um then do some kind of
+A : Something
+A : The other  listen  voice,
+A : and the - the - the - the - the uh have
+A : it - it's um - @@  see
+A : the voice coming in, too,  listen  to it.
+A : So.
+A : Um.
+A : @@
+F : um
+F : the preliminary results were very bad.
+F : So the thing that we did is just to add spectral subtraction before
+F : this, the Wall
+F : this,  which is,
+F : Yeah.
+D : @@
+F : And I plotted this for two channels.
+F : Channel zero is the close mic- microphone, and channel one is the distant microphone.
+F : And the sentence contain only one word, which is "Due"
+F : And it can't clearly be seen. Where - where is it? Where is the word?
+B : This is - this is, oh, a plot of C_zero, the energy.
+F : So.
+F : uh when we don't use spectral subtraction, and when there is no on-line normalization.
+A : Mm-hmm.
+F : There is just some filtering with the L_D_A and
+B : C_zero is the close talking? - uh the close channel? and s- channel one is the -
+F : Yeah. So C_zero is very clean, actually.
+F : Which is good. Well, the noise part is around zero and -
+F : What we can clearly see is that on the speech portion
+F : the two channel come - becomes very close,
+F : Yeah. This is still C_zero.
+B : O_K. Can I ask um what does variance normalization do? w- What is the effect of that?
+F : It normalized th- the standard deviation. So it -
+B : No. No, I understand what it is,  but I mean, what does it - what's - what is uh -
+B : We- Yeah. Yeah.
+A : Well, I mean, because
+A : everything uh - If you have a system based on Gaussians, everything is based on means and variances. overall
+A : You know, it's like uh if you were doing uh image processing
+A : and in some of the pictures you were looking at, uh there was a lot of light
+A : uh and - and in some, there was low  adjust  compare
+A : And the variance is just sort of like the next
+A : what if um one  ten
+B : Oh, O_K.
+A : how much vari- Or no. I guess a better example would be
+A : how much of the light was coming in from outside  artificial  lot
+A : if more  So
+A : every mean - every - all - all of the - the parameters that you have,  variances,  overall
+B : Oh, O_K.
+B : Uh-huh. I  see. O_K.
+A : And so, in principle,  that  source, then, you know, you can -
+B : means,  but it may help -
+A : thing,
+B : First-order  may  variance.
+A : because, again, if you - if you're trying to distinguish between E_ and B_
+A : if it just so happens  variation
+A : uh than with the B_'s, then this will be - give you some - some bias. So the -
+A : it's removing these sources of variability in the data
+F : Mmm.
+B : Gotcha. O_K
+A : ask  you something. i- is - if -
+F : Yep.
+F : And it - and this -
+A : If you have a good voice activity  detector, isn't - isn't it gonna pull that out?
+F : perhaps a good voice activity detector is - is good before on-line normalization
+F : and that's what uh
+F : we've already observed.
+F : But uh, yeah, voice activity detection is not
+B : But after you do this, after you do the variance
+B : I don't know, it seems  this  this
+F : well, because you clearly see where speech is.
+A : Yeah.
+F : where channel zero and channel one become closer.
+B : But for the purposes of finding the speech  -
+F : Yeah, but here  - Yeah.
+B : You're more interested in the difference between the speech  nonspeech,  right?
+F : For I th- I think that it - perhaps it shows that
+F : uh have  to use should be different than the parameter that have to be used for speech recognition.
+A : Yeah. So basically you want to reduce this effect. So you can do that by doing the voi- voice activity detection. You also could do it by spect- uh spectral subtraction before  variance normalization, right?
+A : So uh -
+F : We-
+F : with these two kinds of parameters. And,
+A : but does this have the voice activity detection in it?
+F : Um.
+B : Is it applied here  or a- after the variance normalization? or -
+A : Spectral subtraction, I guess.
+F : It's applied before variance normalization. So it's a good  thing, because
+B : Oh. Yeah.
+B : here?
+B : Maybe that's  one.
+F : Perhaps, yeah.
+A : Can I -
+A : Mm-hmm.
+A : um "if - if most of what the O_G_I
+A : folk are working with is trying to why are we worrying about it?"
+F : It's just uh - Well it's another -
+F : the Ericsson and we're trying to use something - something else.
+F : And. Yeah, and also to understand what happens
+F : uh fff Well.
+F : When we do spectral subtraction, actually, I think
+F : that this is the - the two last figures.
+F : It seems that after spectral subtraction, speech is more emerging now uh
+F : than - than before.  Well,
+F : the difference between the energy of the speech and the energy of the n- spectral subtrac- subtracted noise portion  larger.
+F : Well, if you compare the first figure to this
+F : Actually the scale is not the same,  larger.
+F : Uh but what happens is that after spectral subtraction,
+F : everything.  Well.
+F : So yeah. And what they did at O_G_I is just
+F : I think as soon as they will try on-line normalization
+F : there will be a problem.
+F : So yeah, we're working on the same thing but
+F : I think
+F : uh
+F : with different - different system and -
+A : Intellectually it's interesting to work on things th- uh one way or the other but I'm - I'm just wondering if um - we've got two groups doing the same thing. Um.
+A : Just - just asking. Uh. I mean, it's -
+B : also  maybe  too
+B : you know, if - if - if you work on something else
+B : I mean it's hard to know whether other  over
+B : So it's - it's almost like everything's held up waiting  true
+B : Maybe that's what you were thinking.
+A : I don't know.
+A : I mean, we still  evidently have a latency reduction plan which - which isn't quite what you'd like it to be.
+A : That - that seems like one prominent thing.
+A : And then uh weren't issues of - of having a - a second stream or something?
+A : That was -
+F : Yeah.  But I think they'r-
+F : this.  this,
+F : Uh. yeah.
+F : We - we will try M_S_G,
+F : I think they want to work on the second stream also, but more with some kind of multi-band or, well,
+F : what they call TRAP or generalized TRAP.
+A : O_K. June.
+F : It's uh in June.
+A : That that uh
+A : So um. This - there was this experiment of uh "what if we just take the baseline?" set uh
+A : and you inc- incorporate the different V_A_Ds.
+A : And it looks  like the - the French V_A_D is actually uh better - significantly better.
+F : I think it's easy to do better  all.
+F : I - I don't know which - which one. It's Pratibha  that - that did this experiment.
+D : I don't @@ .
+F : Yeah but I - it's uh - I think you were talking about the other  mail that used V_A_D on the reference features.
+D : I  don't remember.
+A : And on that  one, uh the French one is - was better.
+A : enough  better that - that it would
+A : amount  difference
+A : between our performance, actually.
+A : So. better  use  everything.  Uh.
+A : Uh.
+F : Yeah, so we should find out if it's really better.  I mean if it -
+F : the - compared to the small or the big network.
+F : And perhaps we can easily improve if - if we put like mean normalization before the - before the V_A_D. Because -
+F : as - as you've mentioned. Mmm.
+A : H- Hynek will be back in town uh the week after next, back - back in the country. So. And  uh
+D : Also is Stephane was thinking that
+D : in the uh signal.
+F : Yeah, my feeling  is that
+F : um actually
+F : Yeah, well, not pitch,  but to look at the um fine -
+A : Well,  it -
+F : We don't necessarily want to find the - the pitch of the - of the sound
+F : Cuz I have a feeling that
+F : when we look - when we look at the - just at the envelope
+F : there is the first formant,
+F : cuz it's frication and -
+F : yeah.
+F : When you have noise there is no um -
+A : Yeah, you can make these mistakes, but - but -
+B : uh d-
+B : Uh, I was just gonna say isn't there -
+B : aren't - aren't there lots of ideas for doing voice activity, or speech-nonspeech rather, harmonics  time  -
+A : think  he was talking about the voiced-unvoiced, though, right? So, not the speech-nonspeech.
+B : Well even with e- uh w- ah
+B : you know, uh even with the voiced-non-
+B : voiced-unvoiced
+B : I thought that you or
+A : Well. Uh yeah. B- We should let him finish  say,  and -
+F : well, there would be one stream that is the envelope and the second, it could be interesting to have that's - something that's more related to the fine structure of the spectrum.
+F : And.
+F : that's working on - on the F_F_T and
+F : uh Larry Saul could be an idea. We were are thinking about just
+A : U-
+F : of - of the high resolution spectrum and
+A : So u- s- u-
+A : O_K. So - So many
+A : um
+A : voicing information uh to
+A : So what he was doing is basically y- you - do
+A : And um you - from that you - you estimate - or you estimate fine harmonic structure, whichev- ei- either way, it's more or less the same.
+A : uh the thing is that um you then
+A : can get rid of things that are not - i- if there is strong harmonic structure,
+A : you can throw away stuff that's - that's non- harmonic.
+A : And that - that is another way of getting rid of part of the noise
+A : So um that's something finer,
+A : Um. And he had some - I mean, he did that sort of in combination with RASTA. It was kind of like RASTA was taking care of convolutional stuff and he was -
+A : and - and got some - some decent results doing that. So that - that's another - another way.
+A : But yeah, there's - there's - Right. There's all these cues. We've
+A : actually back when Chuck
+A : works O_K. Obviously it's not perfect but um -
+A : given the constraints of this task, we can't, nice
+A : But we - what we uh -
+A : I guess  could
+B : Didn't the head dude send around that message? Yeah, I think you
+B : I- I'm not sure, exactly,  gist  of what he was saying, but
+B : something having to do with the voice
+B : that people shouldn't put their own  in
+A : voice  voicing  different.
+F : They didn't.
+B : Oh, I'm sorry. I - I missed that.
+A : Right? maybe
+A : yeah, before you - before you do K_L_T's and so forth, do  view it as probabilities,
+A : So, if it's - if it's uh not
+A : um if you get a probability from that
+A : then that  as the uh -
+A : take the log of that
+A : uh and do the K_L_T on the - on - on that,  then that would - that would I guess
+A : And then that would be -
+F : Yeah, well, I was not thinking this - yeah, this could be an- yeah
+A : Right. So you have a second
+A : Yeah. If you have a tandem system and then you have some kind of - it can be pretty small - net - primarily  that's different
+A : as you  well  only  use for this one distinction.
+A : And - and so now you've got a probability of the cases, finer  um
+A : if they really are from independent independent  it's a good choice for -
+A : Uh.
+F : is good and we could u- we could use the fine structure to - to have a better estimate of the noise
+F : of - of um
+A : Right.
+F : annoying if you d- you do some kind of on-line normalization after.
+F : Well.  Spectral subtraction and on-line normalization don't seem to -
+A : I mean, maybe - maybe you can do it layers or something so it doesn't - doesn't hurt too much or something.
+A : But it - but uh, anyway
+A : suggesting that we should be careful about not spending too much time on exactly what they're doing
+A : In fact if you get - if you go into uh - a uh harmonics-related thing
+A : it's definitely going to be different than what they're doing and uh
+A : Um. know
+A : um sort of the obvious thing of taking
+A : uh your feature vector and adding
+A : in some variables which are
+A : pitch related or uh that - it hasn't - my impression it hasn't particularly helped.
+A : Has not.
+A : Yeah.
+F : Oh.
+A : it was on some DARPA data and some years ago and so it probably wasn't,
+A : actually
+F : Yeah.
+F : But we were thinking, we discussed with Barry about this, and
+F : in terms of uh frame classification. Mmm.
+A : why don't you just do it with Aurora?
+E : We're -
+D : Not  foreigners .
+D : Right.
+A : align  perfect,  said  and -
+B : But the problem is that their models are all word level models. So there's no phone models
+B : You - So you could find out where the word boundaries are but that's about it.
+E : S- But we could use uh the - the noisy version that TIMIT, which
+E : you know, is similar to the - the noises found in the T_I-digits
+F : we can say that it will help,  but
+F : to work more about this
+A : Uh.
+A : I mean in experiments that we did a long time
+A : um, I think you were getting
+E : Another person's voice.
+A : sort of, left to its own devices, like without the - a strong language model and so forth, that you would - one oh
+B : It also - Yeah, the - though I think uh there was one  true to the acoustics.
+A : years
+A : ninety-seven or ninety- eight
+A : speaker- dependent  actually.
+A : We were doing training
+A : on a particular announcer and - and getting a
+A : very good handle on the features. And we did this complex feature selection thing where we looked at all the different possible features one could have for voicing and -
+A : and - and uh - and exhaustively
+A : and - and uh - for - for that  really  did well on them.
+A : But that, again, was speaker- dependent
+A : that uh it was quite likely that
+A : looking at envelope only, that we'd be
+A : significantly worse than that.
+A : Uh.
+F : Oh, they don't even have  to detect voiced spe- speech?
+A : The modern ones don't do a - code  book and find the one that matches best.
+F : Yeah. So it would not help.
+A : Yeah.
+A : O_ K.
+B : Can I just mention one other interesting thing?
+B : One  improve the system -
+B : Actually I - I s- we didn't - I guess I wrote this in after the meeting b- but thought  I had was
+B : looking at the language
+B : loop, right? So you - it goes "digit" and then that can be - either go to silence or go to another digit, which -
+B : infinitely long sequences of digits, right?
+A : Right.
+B : what actual digit strings do occur in the training data."
+B : And the interesting thing was it turns out that there are no sequences of two-long or three-long digit strings uh up to eleven, and then it skips and then there's some at sixteen.
+A : testing  data?
+B : Um. I don't know. I didn't look at the test data yet. So.
+A : Yeah. I mean if there's some testing
+B : Yeah. But I just thought that was a little odd,
+B : Sorry. So I - I - just for the heck of it, I made a little grammar which um,
+B : you know, had it's separate path
+B : four-long and a five-long tried
+B : you know, I - I didn't have any weights of these paths or - I didn't have anything like that. And I played with tweaking the word transition penalties a bunch, but I couldn't go anywhere.
+B : I thought "well if I only allow -"
+B : Yeah, I guess I should have looked at - to see how often there was a mistake where a two-long  three-long  Um. But.
+B : So to do that right you'd probably want to have -
+B : You want to go ahead, Morgan?
+A : five five five four zero one eight eight seven two
+A : two four six three eight five three nine five
+A : five six one six one four zero two nine four
+A : three five nine six zero seven nine eight eight nine
+A : five six six six three four seven three three nine
+A : three one two six one one four eight five zero
+A : six eight five three seven four one one three nine two three
+A : nine one seven eight three nine seven five four six
+F : Transcript L_ one nine.
+F : eight seven four three zero nine two eight
+F : eight five nine four three four seven one
+F : O_ two O_ nine seven five O_ O_ nine
+F : six seven seven six O_ one five two five four
+F : four two three five seven five four two six
+F : nine O_ three four six two three one
+F : three eight zero zero eight zero zero seven eight three five one
+F : four seven one nine two nine one eight zero
+B : five six O_ eight four two five five six six
+B : seven three five four seven five four seven seven
+B : O_ three seven seven one five five O_ five
+B : three two five five eight one six nine three four
+B : three nine three O_ five seven O_ one nine
+B : five eight eight six two five seven six nine eight
+B : eight five O_ three three th- four three four
+B : two three O_ four six five five O_
+C : Transcript L_ seventeen
+C : nine four three six four seven zero one three nine
+C : six seven one two six eight two zero nine
+C : seven five zero zero four six two two eight zero
+C : five two seven one seven one three three five two zero two
+C : one six one one two zero eight nine five nine
+C : zero three one five two two seven one
+C : three eight eight four two zero eight four five seven
+C : six eight eight zero four eight three five zero zero
+D : Transcript L_ eighteen.
+D : five eight five seven seven one four four three
+D : nine two four one nine one three O_ one one
+D : seven eight four five two eight three six nine eight
+D : seven three nine nine seven two four five two three nine six
+D : five seven two nine two one O_ eight six ninety-eight two
+D : two eight eight five four one seven nine four nine
+D : seven nine two four two O_ five six three
+D : five six seven nine seven eight five five eight one
+E : Transcript L_ twenty-one.
+E : zero one zero four five three three six six
+E : one two five five four five four three four
+E : four one zero one six nine six zero seven two three zero
+E : seven nine three one four one five zero
+E : four one seven zero eight three five three two four
+E : one six five six eight seven five nine four
+E : three seven seven five O_ five zero three
+E : seven four seven nine nine nine one one nine

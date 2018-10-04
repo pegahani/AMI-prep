@@ -1,0 +1,419 @@
+B : Somebody else should run this.
+B : I'm sick of being the one to sort of go through and say, "Well, what do you think about this?"
+D : Yeah.
+B : Yeah. Why don't you run it today? O_K.
+F : O_K.
+F : Let's see, maybe we should just get a list of items -
+F : I guess there's the usual updates, everybody going around and saying,
+E : Oh.
+C : Alright. Um. Well, the first thing maybe is that the p- Eurospeech paper is, uh, accepted.
+C : Um. Yeah.
+C : system that were proposed for the Aurora.
+D : Yeah.
+C : Um - Yeah. So and the, fff
+C : September.
+C : Mmm -
+C : Yeah. Then, uh, whhh well, I've been working on - on t- mainly on on-line normalization this week.
+C : Um, the first thing is trying to play a little bit again with the, um, time constant.
+C : Um,
+C : and so I have two recursions which are controlled by the, um, probability of the voice activity detector.
+C : Mmm.
+C : But - well, both on-line normalization approach seems equivalent.
+F : Are the means pretty different for the two?
+B : So do you maybe make errors in different places? Different kinds of errors?
+C : I didn't look, uh, more closely. Um. It might be, yeah. Mm-hmm.
+D : @@
+C : Well, eh, there is one thing that we can observe, is that the mean are more different for -
+C : And -
+C : So when you look at the trajectory of C_one, it's - has a strange shape and
+C : frame dropping, but we don't frame ev- uh, drop everything,  but -
+C : Mmm.  But I still have to investigate further, I think.
+C : that instead of
+B : Mm-hmm.
+C : if the utterance is, uh, long enough to - to continue to adapt after, like, one second or -
+B : Mm-hmm.
+C : Uh, well, this doesn't help neither, but this doesn't hurt. So, well.
+F : um, uh - I don't know whether it was each
+F : uh,
+C : I don't know. No. u- Maybe it's this - this idea of having different on-line normalization,
+B : Mm-hmm.
+C : Mmm.
+C : S- um, it's very important to normalize C_zero and much less to normalize the other coefficients. And, um,
+C : But maybe it's not so - so easy to -
+B : Um,
+C : Yeah.
+B : um,
+B : you know, helping with noisy case but hurting in quiet case. And if you saw  that then maybe you - it would -
+B : something would occur to you of how to deal with that.
+C : Mm-hmm.
+D : Hmm.
+C : Alright.
+C : Yeah. W- um,
+C : Um -
+C : mmm,
+C : uh, that's fifteen D_B below the maximum energy of the utterance.
+C : Yeah. When we look at - at the, um, M_F_C_C that result from this, they are a lot more smoother.
+C : Um.
+C : And - Yeah. And the result that we have in term of speech recognition, actually it's not - it's not worse,
+C : it's not better neither,
+F : Hmm.
+A : Sorry.
+C : basically you add noise that's fifteen D_B - just fifteen D_B below the maximum energy. And
+F : So why does that m- smooth things out? I don't - I don't understand that.
+C : don't get much affected anyway by the other noise. And as the noise you add is the same is - the shape, it's also the same.
+B : So, I mean, again, if you trained in one kind of noise and tested in the same kind of noise, you'd -
+B : you know, given enough training data you don't do b- do badly.
+B : The reason that we d- that we have the problems  it's different in training and test. Even if
+B : the general kind
+B : so when you whiten  it, then it's like you - the - the only noise -
+B : to - to first order, the only th- noise that you have  is white noise and you've added the same thing to training and test. So it's,
+B : uh -
+F : So would that be similar to, like, doing the smoothing, then, over time or - ?
+C : Mm-hmm.
+B : Well, it's a kind  of smoothing, but -
+C : th- the two shut  channels of SpeechDat-Car during speech portion, it's n-
+B : Yeah, but you're still getting more recognition errors, which means that the differences, even though they look like they're not so big,
+C : Yeah. So it distort the speech. Right. Um.
+C : maybe we could gain something by combining them or -
+B : Well, the other thing is that you just picked one particular way of doing it. Uh, I mean, first place it's fifteen D_B, uh,
+B : down across the utterance. And
+C : I systematically   add the noise, but
+C : the, um, noise level is just some kind of threshold below the peak.
+F : Oh, oh. I see. I see.
+B : Yeah.
+C : Yeah. Which is not really noise,  actually. It's just adding a constant to each of the mel, uh, energy.
+C : To each of the mel filter bank. Yeah.
+C : So, yeah, it's really, uh, white noise. I th-
+C : Yeah. So may- Well, the - this threshold is still a factor that we have to look at. And
+C : I don't know, maybe a constant noise addition would - would be fine also, or -
+C : Um -
+B : in fact
+B : is another way to go.
+D : @@
+C : Um -
+B : Were you using the - the normalization in addition to this? I mean, what was the rest of the
+C : Um -
+C : Mmm.
+C : Oh, yeah.
+C : A third thing is that, um,
+C : I play a little bit with the, um - finding what was different between,
+C : um,
+C : @@
+C : blind  equalization in the system.
+C : Um, so when we put s- some noise compensation
+C : And it makes a big difference, um, on T_I-digits
+C : trained on clean.
+C : um,
+B : that we're not  changing. Right? So if there's
+D : The - whatever  you, uh, tested with recently. Right?
+C : Yeah.
+B : Yeah, you're trying to add in France Telecom. Tell them   about the rest of it. Like you said the number of filters might be
+D : mmm - @@
+B : uh, features that we're allowed. So.
+C : Yeah.
+D : noise compensation to see whether thirteen and fifteen really matters or not.
+D : Never tested it with the compensation, but without,
+D : uh, compensation it was like fifteen was s- slightly better than thirteen, so that's why we stuck to thirteen.
+D : You know, always for the matched  slightly  better performance for log energy than C_zero.
+D : I mean  better  performance with log energy.
+C : Mm-hmm.
+C : Yeah.
+F : So do you have more, Stephane, or - ?
+F : Do you have anything, Morgan, or - ?
+B : Uh, no. I'm just, you know, being a manager this week. So.
+F : How about you, Barry?
+A : still working on my - my quals preparation stuff.
+A : so I'm - I'm thinking about, um, starting some,
+A : uh, cheating
+A : So, for example, um,
+A : So, um, in particular I was thinking,
+A : and, um,
+A : setting to zero those probabilities that, um -
+A : that these phones are not  voicing.
+A : So say, like, I know this particular segment is voicing,
+A : um, I would say,
+A : Right.
+F : So then you're gonna feed the - those into some standard recognizer. Uh, wh- are you gonna do digits or - ?
+A : Oh. Um, the outputs of the net go into the standard, h- um, ICSI hybrid, um, recognizer.
+F : Mm-hmm.
+A : but, um, inter-phoneme events.
+F : O_K. Um -
+C : Oh.
+F : So, um, I guess I'll just pass it on to Dave.
+G : So I tried it again, um,
+G : I'm gonna be working on, um, implementing this mean subtraction approach in the far-mike system - for the SmartKom system, I mean. And, um,
+G : data that resembles read  these digit readings, because he feels that
+G : the SmartKom system interaction is not gonna be exactly  conversational.
+B : The big one takes a while. Yeah. That takes two, three weeks.
+B : run
+G : Oh.
+B : The full? Uh, i- so if you trained on half as much the amount of time and it'd be nearly as good.
+B : So.
+B : Yeah.
+B : uh, uh  m-
+B : it looks like there's ways that one could potentially just work with the complex numbers and - and - and in principle get rid of the
+G : that, uh, what I should do is unwrap  undo
+F : Hmm.
+B : Yeah. So I'm - I'm still hopeful that - that - I mean, we - we don't even know if the phase
+B : is something - the average phase is something that we do  want to remove. I mean, maybe there's some
+B : taking - the complex numbers that you're taking the log of because
+B : It should be right around one,  if it's -
+B : or is it one plus - ? Well, there's an epsilon squared over two and an epsilon cubed over three, and so forth. So if epsilon is bigger than one, then it diverges.
+G : Oh.
+B : So you have to do some scaling. But that's not a big deal cuz it's the log of -
+B : of K_ times a complex number, then you can just - that's the same as log of K_ plus log of the complex number.
+G : Oh.
+B : converges. But.
+F : O_K. How about you, Sunil?
+D : So, um, I've been, uh, implementing this, uh, Wiener filtering for this Aurora task.
+D : I - I actually thought  it was - it was doing
+D : fine when I tested it once.
+D : like, worse results than not  using it.
+D : the way - there is some - some very silly bug somewhere. And, ugh!
+D : I - I mean, i- uh, it actually - i- it actually made the whole thing worse.  I was looking at the spectrograms that I got
+D : w-  horrible.  Like, when I -
+D : So.
+B : O_K.
+D : I mean, I thought it was all fine and then I ran it, and I got something worse than not  using it.
+B : Uh-huh.
+B : O_K.
+D : Well, Hynek showed up one - suddenly on one day and then I was t- talking wi-
+D : Uh, yeah. So I was actually - that day I was thinking about d- doing something about the Wiener filtering, and then Carlos matter of
+D : uh, thesis and then that was something which came up. And then, um -
+D : So, uh, I'm actually,
+D : uh, thinking of using that  also  in this, uh,
+D : W- Wiener filtering because that is a m- modified Wiener filtering approach, where instead of using the current  frame, it uses
+D : adjacent frames also in designing the Wiener filter.
+D : than using just  the current f- current frame, which is in a way, uh, something like the smoothing - the Wiener filter -
+D : but @@
+D : that - so that is the next thing. Once this - I - once I sort this pro- uh, problem out maybe I'll just go into that also.
+D : I just @@  some small block of things which I needed to put together for
+D : And, um,
+D : uh -
+D : So.
+E : Eh, Vectorial Taylor Series.
+F : I think I ask you that every single meeting, don't I?
+F : Yeah.
+E : V_T_S. I'm sor-
+E : Remove some noise but not too much.
+E : And when we put the -
+E : m- m-
+B : I see. So that @@
+B : given that you're using the V_A_D also,  so far -
+B : the particular implementation and how much you're adjusting it? Or how much do you think is intrinsic to - ?
+E : Hhh,
+E : Uh, I do the experiment using only the
+C : Hmm.
+E : And also I did some experiment,
+E : uh, doing,
+E : And, well, it's a little bit better but not -
+E : Mmm.
+B : what if initially  known
+B : sections of nonspeech for the estimation?
+B : S- so, e- um,
+C : Yeah. Mm-hmm.
+B : first place, I mean even if ultimately we wouldn't  be given the boundaries,
+B : some inherent limitation to the method  for these tasks and how much of it is just due to the fact that you're not accurately
+B : n- noise?
+B : So maybe if you tested it using that,
+B : you'd have more reliable stretches of nonspeech to do the estimation from and see if that helps.
+E : and -
+E : If you want, you c- I can say something about the method.
+E : Because it's
+E : a little bit different of the other method.
+B : Mm- hmm.
+E : a statistic of the clean speech and an statistic of the noisy speech.
+E : And the clean speech - the statistic of the clean speech is
+E : The methods propose to develop this in a vectorial Taylor series approximation.
+B : I- I'm actually just confused about
+B : the top  equation is - is - is -
+E : Is the T_ - is  egual   is equal to,
+B : And - but Y_ is what? Y_ of - the spectrum  or - ?
+E : this  this.
+B : Is that power  power  spectrum? Is it - ?
+E : Yeah. It's the power spectrum.
+B : So that's uh  -
+B : O_K.
+B : Yeah, O_K. So this - it's the magnitude squared or something. O_K, so you have power spectrum added there
+B : and down here  you have -
+B : depends on T_
+E : w- o-
+B : you just mean the log  of the - of the one up above.
+E : Yeah.
+E : Yeah, maybe -
+B : o-
+E : Well, y- we can expre- we can put this expression -
+E : Well, if we apply the log, we have E_ is n-
+D : Uh, and -
+E : X_ plus N_.
+E : And, well,
+E : um, exponential of X_ plus exponential of N_.
+B : Uh -
+B : No.
+D : Well, if E_ restricts  -
+E : Well, this is - this is in the ti- the time domain. Well, we have that, um -
+D : It is y-
+E : This is the frequency domain and we can put u- that n- the log domain -
+E : log of X_ omega, but, well, in the time domain we have an exponential.
+E : Oh, maybe it's I am - I'm problem.
+B : Yeah. I mean, just never mind what they are.  Uh, it's just if X_ and N_ are variables -
+D : What is, uh - ?
+E : Well, uh, maybe -
+B : Maybe we can take it off-line, but I - I don't know.
+E : I - I can do this incorrectly.
+E : is, uh -
+C : Yeah, but the - the second expression that you put is the first-order expansion of
+E : No, no, no. It's not the first space  pfft, uh, em -
+E : X_ is equal - I_ is equal to log of, uh,
+D : No.
+B : That - I mean, that - the f- top one does not imply the second one.
+E : The top?
+B : Because - cuz the log of a sum  th- I mean, as - Yeah.
+E : Yeah, yeah, yeah, yeah, yeah. But we can -
+E : uh, we - we know that, for example, the log of
+C : What is that?
+E : you know -
+B : The - I mean, just more generally here,
+E : No. It's not. But this is the same - oh.
+E : No. I say if I apply log, I have, uh, log of E_
+E : E_ -
+C : It's log o- of capital Y_. Yeah, right. Capital Y_.
+E : S- uh, i- th- we can put here the set  transformation.
+B : Oh.
+B : O_K, I understand now.
+E : Yeah. In this case, well, we can put here a Y_.
+B : O_K. So, yeah. It's just by definition that the individual -
+B : Alright. I think these things are a lot clearer when you can use fonts -
+B : different fonts  so you know which is which. But I - I under- I understand what you mean now. O_K.
+E : Yeah, yeah. That's true. That's true.
+E : But this - this is correct? And now I can do it, uh - pfff!
+B : Oh.
+E : of E_X
+E : plus log -
+C : Yeah. Right.
+B : O_K. Thanks.
+B : O_K. So now  that  series expansion of this.
+E : vector s  Taylor series.
+C : Yeah, sure.
+B : Right.
+E : Mm-hmm. And for that, well, the goal is to obtain, um -
+E : est- estimate a P_D_F for the noisy speech
+E : when we have a - a statistic for clean speech and for the noisy speech.
+E : And when w-
+E : we apply a technique of minimum mean-square estimation
+E : statistic for the noisy speech -
+E : This only  that.
+E : with different density
+E : We can expre- we can put that the
+E : P_D_F for the clean test, probability of the clean speech is equal to -
+B : Yeah.
+E : @@
+B : how - h-
+B : how much - in - in the work they  reported, how much noisy speech did you need to get, uh, good enough statistics
+B : Yeah.
+B : what's   certainly  characteristic of a lot of
+B : the data in this test is that, um, you don't have -
+E : Gaus- Gaussian.
+B : And what are you using for the noisy - ? Y- y- doing that strictly -
+C : Hmm.
+E : Uh, yes. The first experiment that I do it is solely to calculate the, mmm - well, this value -
+E : probability e- expression of - of E_. That   mean that the V_T_S - mmm, with the V_T_S we obtain, uh -
+E : well, we - we obtain the means for each Gaussian
+E : and the variance.
+E : This one thing. And the other thing that this - with these methods is to, uh, obtain - to calculate this value.
+E : uh, we can write that
+E : the clean speech conditional to, uh, the noise signal -
+E : This is the methods that say that we're going obtain this.
+E : that conditional to E_ to the T_ - to the noise signal. Well, this is - this function is the
+D : X_ K_ C_
+B : Mmm.
+E : And I can noise signal minus -
+E : Well, I put before uh -
+E : And I can calculate this.
+B : What is the first variable in that probability?
+B : No, no. I'm sorry. In - in the one you pointed at. What's that  variable?
+D : Weak. So probably it - it would do that.
+E : like this,  but conditional. No, it's condition- it's not exactly this. It's
+E : modify.
+E : No . And now, this weight is different now because it's conditional. And
+E : this I need to - to calcu- I know this  this  because this is from the dictionary that you have.
+E : I need to calculate this. And for calculate this,
+E : I have an - I - I can develop an expression that is
+D : It's overlapping.
+E : And - well, normalizing.
+E : nnn -
+E : when I develop this in s- Taylor - Taylor series, I can't, um,
+E : Now.
+B : I -
+B : @@
+B : Are you saying that all of these estimates are done using, um,
+B : estimates of the probability density for the noise  only  from the first ten frames?
+E : Per utterance. Yes. Per utterance. Yes. And th-
+B : new  for each new utterance. So this changes the whole mapping for every utterance.
+E : each time that I detect noise.
+E : develop.
+E : Estimate the new mean and the variance of the noisy speech. And with th- with this new s- new mean and variance I estimate again  this.
+B : So you estimated, uh, f- completely forgetting what you had before?
+E : Um, no, no, no. It's not completely - No, it's - I am doing something like an adaptation of the noise.
+B : Now do we know, either from their experience or from yours, that, uh, just having, uh, two parameters, the - the mean and variance, is enough?
+B : Yeah. I mean, I know you don't have a lot  with,  but - but, uh,
+E : Uh, it's in - after the mel filter bank.
+D : @@
+B : So it's - Yeah. So it's actually forty numbers that you're getting.
+B : Well, yeah. But, I mean, no - no paper is - is a Bible, you know. This is - this is, uh -
+B : The question is, um,
+B : whether it would be helpful, i- particularly if you used - if you had more -
+B : or I - I guess we're gonna be given even better  boundaries than that.
+B : And you look - you take all o- all of the nonspeech components in an utterance, so you have a fair  amount.
+B : benefit  from having a better model for the noise? That would be another question.
+B : So first question would be
+B : to what extent i- are the errors that you're still seeing
+B : second  have  good boundaries,
+B : could you do better  if you used more parameters to characterize the noise?
+B : Um, they are doing - they're using first term only of the vector Taylor series?
+E : Yeah.
+B : Um, if you do a second  term does it get too complicated cuz of the nonlinearity?
+B : Yeah, O_K.
+B : No, I won't ask the next question then.
+F : O_K. Well, I guess we're about done. Um, so some of the digit forms don't have digits.
+F : Uh, we ran out there were some blanks in there, so not everybody will be reading digits. But, um,
+F : I guess you've got some. Right, Morgan?
+F : So, why don't you go ahead and start. And I think it's just us down here at this end that have them. So.
+E : um
+B : Transcript L_ dash one six nine.
+B : Three nine three, zero nine five, seven nine eight.
+B : Two seven, six zero, five six, five eight, six seven.
+B : Six one one, one eight, two four s- two
+B : One nine zero zero, two, seven eight three.
+B : Eight eight one, two two six, seven four one nine.
+B : Seven nine four nine s-
+B : Eight five seven eight,
+B : Two, three seven five, four one, seven six one, two.
+B : Three seven six two, six three six seven, two nine four two.
+A : Transcript L_ dash one sixty-seven.
+A : Seven five six zero, five, three seven three.
+A : One four seven, four four, nine two seven eight.
+A : One one, six seven, three eight, eight five, five seven.
+A : Eight, one six four, six four, eight two O_, three.
+A : Three seven seven, five, two six three.
+A : Two, eight five seven, nine five, six seven two, two.
+A : Nine O_, one eight, three two, two six, two three.
+A : Three two, five two, seven seven, nine four, nine six.
+F : Transcript L_ dash one six eight.
+F : Seven nine, nine nine, nine two, four eight, eight zero.
+F : Six nine eight, seven zero, one eight four eight.
+F : Zero three one, seven eight four, one seven eight two.
+F : Five, two three two, six five, nine eight three, six.
+F : Six five four zero, four one five zero, five eight eight two.
+F : Zero, three five seven, two six, zero six five, nine.
+F : Seven six two, eight one, nine five nine eight.
+F : One one, four two, zero eight, six seven, nine eight.
+G : Transcript L_ dash one seven four.
+G : Four nine one one, eight, four seven nine.
+G : Two four one two, seven, eight nine two.
+G : Five one six six, three six seven seven, three two eight nine.
+G : Seven six two, seven nine, three six one zero.
+G : Five nine three five, seven, five six zero.
+G : Four eight eight, eight eight two, nine eight eight.
+G : Five nine, six seven, two five, zero six, nine four.
+G : Eight two, two zero, one nine, two six, nine one.

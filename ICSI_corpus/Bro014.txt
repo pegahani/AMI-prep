@@ -1,0 +1,662 @@
+D : Channel three. Channel three.
+B : Uh, channel one. Yes. O_K.
+A : Ta-
+D : Channel three. Alright.
+E : Almost.
+B : Alright!
+C : Yes, again.
+A : Great.
+E : Doo-doop, doo-doo.
+B : fifth.
+C : Is he gonna come here?
+B : Uh. I know where he is.
+C : So when you said "in town", you mean Oregon.
+B : U- u- u- u- uh, I meant, you know, this end of the world, yeah, is really what I meant, uh, cuz he's been in Europe.
+C : Oh.
+E : Doo, doo-doo.
+E : Doo-doo.
+C : Um, I did some
+C : Was it last week or whenever?
+C : Um, And, um,
+C : I was curious because the way that they train up the models, they go through
+C : about four sort of rounds of - of training. And in the first round they do -
+C : uh, I think it's three iterations, and for the last three rounds e- e-
+B : four  seven  and - I - I'm sorry.
+C : there's four rounds of training. Um,
+C : And what these numbers refer to is the number of times that the, uh, H_M_M re-estimation is run. It's this program called H_E_rest.
+B : But in H_T_K, what's the difference between, uh, a - an inner loop and an outer loop in these iterations?
+C : O_K. So what happens is, um, at each one of these points,
+B : That's right. I remember now.
+C : Yeah. The mix up. Right.
+C : And so, in the final  here,  digit  mixtures per state,
+C : eh, in the final
+C : So I had done some experiments where I was - I - I want to play  But, um,
+E : Uh, one, two,
+C : uh, I wanted to first  this  And so,
+C : um, I - I ran a couple of experiments where I uh, five, I think, and I got almost the exact same results.
+C : much  much faster.
+B : As opposed to - ?
+C : I mean, it takes - you have to do an overnight basically, the way it is set up now.
+A : Mm-hmm.
+C : uh, else,  doing something like this could allow us to turn experiments around a lot faster.
+B : And then when you have your final thing, do a full one, so it's -
+C : So, um, real
+C : and you don't do anything else. And then you just run.
+F : Oh, this is  a -
+C : So it's a very simple change to make and it doesn't seem to hurt all that much. So I -
+A : So you - you run with three, two, two, five? That's a-
+C : Uh, I - I have to look to see what the exact numbers were. I - I thought was, like,
+C : three, two, two, five, but I- I'll - I'll double check. It was over a week ago that I did it, so I can't remember exactly. But, uh -
+A : Mm-hmm.
+A : O_K. Mm-hmm.
+C : um, but it's so  much faster.
+C : I- it makes a big difference. So we could do a lot  more experiments and throw a lot more stuff in there.
+C : Um. Oh, the other thing that I did was, um,
+C : So we have this
+C : big thing that we got from I_B_M, which is a five-processor machine.
+C : Really  five
+C : uh, as fast as, you know, uh, five different machines.
+F : Mm-hmm.
+C : I can send email around about it.
+C : And so we've got it - now H_T_K's compiled for both the Linux and for, um, the Sparcs.
+C : Um, you have to make -
+C : you have to make sure that in your dot C_S_H_R_C, um,
+C : Uh, had  um,
+C : uh, I can - I can tell you exactly
+A : Mm-hmm.
+C : But it'll - it really increases what we can run on. So,
+C : together with the fact that we've got these these, um, we should be able to crank through a lot more experiments.
+C : So.
+A : Mm-hmm.
+C : So after I did that,  increasing  the number of mixtures, just to see, um -
+C : So.
+B : exactly  the same procedure and then add a fifth thing onto it
+E : that's - you're adding one  more mixture per state, or - ?
+C : It goes from
+C : two mixtures per state.
+C : So this just adds one.
+C : Except that, uh, actually for the silence model, it's six
+E : O_K.
+C : Uh, so it goes to two. Um.
+C : And I think what happens here  is -
+B : Might be between, uh, shared, uh -
+C : Uh, yeah. It's, uh -
+C : Um,
+C : there - because they start off with, uh,
+C : an initial model which is just this global
+C : it may be that that's
+B : O_K.
+C : So. That's it.
+B : So what else?
+A : Yeah. There was a conference call this Tuesday.
+A : Um.
+A : I don't know yet the - Tuesday, but
+A : the weights,
+B : I  see.
+E : For -
+A : Yeah. Yeah.
+B : was - was Hynek involved or was it Sunil or - ?
+A : I have no idea. Mmm, I just - Yeah.
+A : Um, yeah.
+A : Um, improvement.
+A : Uh, and the fact is that for - right now for the English, they have weights - they - they combine error rates, but for the other languages they combine improvement.
+A : Yeah.
+A : And so - Well,
+A : And right now actually there is a thing also,
+A : uh, that happens with the current weight is that a very non-significant improvement in the final number.
+A : Yeah.
+A : Mm-hmm.
+B : Well, I mean, the fact that it's inconsistent  is an obvious mistake. But the - but, um, the other thing - I don't know I haven't thought it through, but one - one would think that
+A : In-
+A : Mm-hmm.
+A : Yeah.
+C : percentage  absolute improvement.
+B : Well, they are  doing that.
+B : No, that is  relative.
+B : But the question is, do you average the relative improvements or do you average the error rates and take the relative improvement maybe of that?
+A : Yeah.
+A : Yeah.
+B : And the thing is it's not just a pure average because there are these weightings.
+B : Um.
+A : to give a lot of - of, um,
+A : importance to the well-matched case because the baseline is already very good and,
+A : um, i- it's -
+A : Mm-hmm.
+C : with a weight or whatever, and then give you a score - here's your score. And then they can do the same thing for the baseline  then  you can look at -
+B : Well, that's what he's seeing as one of the things they could do. It's just when you - when you get all done,
+B : I think that they pro- I m- I - I wasn't there but I think they started off this process with the notion that
+B : you should be significantly better than the previous standard.
+B : half  the errors," or something, "that you had before".
+A : Mm-hmm.
+A : Yeah.
+B : So it's, uh,
+B : But it does  seem like
+B : i- i- it does
+B : Yeah. Yeah.
+A : But there is this - this - is this still this problem of weights. When - when you combine error rate it tends to give more importance to the difficult cases,
+A : well, they have different, opinions  about this.
+A : Some people think that it's more important to look at -
+A : to have ten percent imp- relative improvement on well-matched case than to have fifty percent on the m- mismatched,
+C : It sounds like they don't really have a good idea about what the final application is gonna be.
+A : So, bu- l- de- fff!
+B : Well, you know, the - the thing is
+A : Mmm. Yeah.
+B : um, if you really believe that was gonna be the predominant  use,
+B : none of this would be good enough. Nothing anybody's - whereas you sort of
+B : So, um, I think the hope would be that it would -
+B : uh, it would work well for the good cases and, uh, it would have reasonable -
+B : reas- soft degradation as you got to worse and worse conditions. Um.
+C : I  were building the final product and I was gonna test to see which front-end I'd -
+C : I wanted to use, I would
+C : try to exact
+B : But - but - No. Well, no - well, no. I mean,
+B : it isn't the operating theater. I mean, they don- they - they don't - they don't really know,  I think.
+C : know,  doesn't that suggest the way for them to go?
+C : @@
+C : you assume everything's equal. I mean, y- y- I mean, you -
+B : here's how much you, uh - you improve
+B : the, uh - the - the relatively clean case and here's - or - or well-matched case, and here's how - here's how much you,
+C : Mm-hmm.
+C : So not -
+B : So.
+B : Yeah. clean.  What it is is just that,
+B : u- uh, the training and testing are similar.
+C : The training and testing.
+A : Mmm.
+B : So,
+B : uh, examples of similar sort of stuff as you could,
+B : do  that,
+B : but you wanna see how badly it deviates from that when - when - when the, uh - it's a little different.
+C : you know, really  small.
+C : I mean, that's more of an information  kind of thing.
+B : that's an ar- Well, that's an argument for it, but let me give you the opposite  never
+B : I mean, are you gonna have w- uh, uh, examples with the windows open,  half  full
+B : Going seventy, sixty, fifty, forty miles an hour? On what kind of roads? With what passing you? With - uh, I mean,
+B : opposite  well-matched  fantasy.
+B : You know, so, I think the thing is is that if you look at the well-matched case versus the po- you know, the - the medium and the - and the fo- and then the mismatched case,
+B : um, we're seeing really,  really  big differences in performance. Right?
+B : You wouldn't like that as soon
+B : You know, a lot  of the - the cases it's - is -
+C : Well, that'll teach them   to roll their window up.
+B : I mean, in these cases, if you go from the - the, uh - I mean, I don't remember the numbers right off, but if you - if you go from the well-matched case to the medium,
+B : it's not an enormous  difference in the - in the - the training-testing situation, and - and - and it's a really big
+B : Yeah, I mean the reference one, for instance - this is back old on, uh - on Italian -
+B : uh, was like six  eighteen  sixty  for highly-mismatched.
+B : Uh, and, you know, with these other systems we - we
+B : helped it out quite a bit,
+B : so I think that
+B : if the goal of this is to come up with robust features, it does mean -
+B : So you could argue, in fact, that the well-matched  all,
+B : that - that the goal  that will still give you reasonable performance,
+B : compl- pathological  but - I mean, what was the - the medium-mismatch condition again?
+A : Um, microphone, but trained on, like,
+A : low noisy condition, like low speed and - or high-speed conditions, I think, like on a highway and -
+A : So -
+A : Same microphone but - Yeah.
+B : but, uh, it's - there's a mismatch between the car
+B : situation and, uh, I'd almost  that
+B : They - they compute the relative improvement first and then average that with a weighting?
+B : And so then the - that - that makes the highly-matched  big  thing.
+B : so, u- i- since they have these three categories, it seems like the reasonable thing to do
+B : is to go across the languages and to come up with an improvement for each of those.
+A : Mm-hmm.
+B : Just say "O_K, in the - in the highly-matched  this
+B : m- the, uh - this other m- medium if this  that  happens".
+A : Mm-hmm.
+B : And, uh, you should see,
+B : uh, a gentle degradation through that.
+A : Mmm.
+B : I don't know.
+A : Yeah.
+B : I - I -
+B : I gather  that in these meetings it's - it's really tricky to make anything
+B : ac-
+B : everybody has - has, uh, their own opinion and -
+B : Yeah.
+A : Yeah.
+A : Yeah, but there is probably a - a big change that will baseline,  perhaps,
+A : which is, um, M_F_C_C but with a voice activity detector.
+A : uh, some people are pushing to
+A : number. So they want to have at least fifty percent improvement on the baseline,
+A : but w- which would be a much better baseline.
+A : just putting the V_A_D in the baseline improved, like, more than twenty percent,
+B : Mm-hmm.
+B : So nobody  be  there, probably. Right?
+A : Uh-huh.
+B : So whose V_A_D is - Is - is this a - ?
+A : Uh, they didn't decide yet. I guess i- this was one point of the conference call also, but -
+A : mmm,
+A : but -
+E : Oh.
+B : good. I mean, it's not that the design of the V_A_D isn't important,
+B : a lot of that  design, so
+B : if we can cut down on that maybe we can make some progress.
+A : Yeah.
+E : Hmm.
+A : But I guess perhaps -
+A : I don't know w- Yeah.
+A : the, um - to make a good V_A_D you don't have enough to - with the - the features that are - the baseline features. So -
+A : mmm,
+A : So you really need to put more - more  in the - in - in the front-end.
+B : Um,
+B : sure. But i- bu-
+C : Wait a minute. I - I'm confused. Wha- what do you mean?
+A : Yeah, if i-
+B : So y- so you m- s- Yeah, but -
+B : what you really wanna do is put a good pitch detector on there and if it gets an unambiguous -
+C : Oh, oh. I see.
+B : if it gets an unambiguous result then you're definitely  in a - in a - in a voice- in a, uh, s- region with speech.
+B : Uh.
+C : So there's this assumption that the v- the voice activity detector can only  use the M_F_C_C?
+A : That's not clear, but this - e-
+B : Well, for the baseline.
+B : So - so if you use other features then y- But it's just a question of what is your baseline.
+C : I g- Yeah.
+B : Right? What is it that you're supposed to do better
+B : having the baseline be the M_F_C_C's choose
+C : But they seem like two separate issues. Right? I mean -
+B : They're sort  of separate. Unfortunately there's coupling between them,
+B : which is part of what I think Stephane is getting to, is that you can choose your features in such a way as to improve the V_A_D.
+B : And you also can choose your features in such a way as to prove - improve recognition. They may not be the same thing.
+C : But it seems like you should do both.  Right?
+B : You should  do both and - and I - I think that this still makes - I still think this makes sense as a baseline.
+B : It's just saying, as  know
+A : Mmm.
+B : some  that  that  the baseline.
+B : And then better.  Um,
+B : and if one of the ways you make it better is by having your features it.  But,
+B : uh, uh, uh, at least you have a starting point that's -
+B : cuz i- i- some of - the some of the people didn't have a V_A_D at all,
+A : Mm-hmm.
+A : Mm-hmm.
+C : try to make your baseline as good as possible.
+C : And if it turns out that you can't improve on that, well,
+C : I mean, then, you know, nobody wins and you just use M_F_C_C. Right?
+B : Yeah. I mean, it seems like,
+B : uh, it should include sort of the current state of the art
+B : that you want - are trying to improve, and M_F_C_C's, you know, or P_L_P or something - it seems like
+B : reasonable baseline for the features, and anybody doing this task,
+B : uh, is gonna have some  some  but - rather than
+B : a separate thing, but - some  level.
+B : So, um.
+C : It seems like whatever they choose they shouldn't,
+C : you know, purposefully brain-damage a part of the system to make a worse baseline, or - You know?
+B : Well, I think people just had- it wasn't that they purposely brain-damaged it. I think people hadn't really thought through
+B : And - and then when the - the - the proposals actually came in and half of them   them   didn't,  half that didn't did poorly. So it's -
+A : Mm-hmm.
+A : Yeah. So we'll see what happen with this.
+A : Yeah. So what happened since, um, last week is -
+A : well, from O_G_I, these experiments on putting V_A_D on the baseline.
+A : the pro- proposal-one, but with and it seems that on-line normalization doesn't help further
+A : Um.
+C : musical tones and - ?
+A : I have no idea, because the issue I brought up was with a very simple spectral subtraction approach,
+A : and the one that the proposed - the - the -
+A : which might be much better.
+A : So, yeah. I asked Sunil for more information about that,
+A : but, uh,
+A : And what's happened here is that we - so we have this kind of new,
+A : um, reference system which use a nice - a - a clean downsampling-upsampling,
+A : which use a new filter that's much shorter and which also cuts
+B : When you say "we have that", does   Sunil have it now, too, or - ?
+A : No. No.
+A : uh, just the features
+A : um, but it's a little bit worse on the mismatch and highly-mismatched -
+A : it's sh- it will be better because the well-matched case is better.
+B : is   it on the other conditions, when you say it's a little worse?
+A : It's like, uh, fff, fff ten percent relative.
+B : O_K.
+B : Um.
+A : Mm-hmm.
+B : the latencies are much shorter. That's  -
+A : uh, y- putting neural network compared to n- not having any neural network.
+A : I mean, this new system is - is - is better,  because it has
+A : uh, clean downsampling, and, um - what else?
+B : But the latencies - but you've got the latency shorter now. Yeah.
+F : Isn't it  @@
+B : So it's better  than the system that we had before.
+A : Yeah. Mainly because the sixty-four hertz and the good V_A_D.
+A : And then I took this system and, mmm, w- uh, I p- we put the old filters also.
+A : with the short filter and with the long filter, and,
+A : um,
+B : O_K. So that's - that's all fine. to proposal-one,
+B : So does, uh - when you say, uh - So -
+B : The th- now that these other things are in there, is it the case maybe that the additions of proposal-two over proposal-one   less im- important?
+B : I get it.
+A : Uh. shorter delay.
+B : Right.
+A : just the standard features,
+A : Mmm, and it doesn't seem to help.
+A : Um, however, we just have one  result, which is the Italian mismatch, so.
+A : Uh.
+B : O_K.
+B : Is that - ?
+A : Yeah.
+A : Um,
+A : uh, find
+A : uh, but it's still, uh - on the, um -
+A : we - w- basically we are still playing with Matlab to - to look at - at what happened, and -
+F : We have some -
+A : So we would be looking at, um, the variance of the spectrum
+A : Uh, we -
+C : Wait a minute. I - what does that mean? The variance
+A : So basically the spectrum of the excitation for a purely periodic sig- signal shou- sh-
+B : O_K. Yeah, w-
+B : the mel - mel - mel filter, uh, spectrum from the F_F_T spectrum. Right.
+A : That's right. Yeah. So -
+F : Mm-hmm.
+A : Yeah. So we have the mel f- filter bank, we have the F_F_T, so we just -
+A : Yeah, that's right. Um -
+B : Yeah, yeah.
+F : We have here some histogram, but they have a lot of overlap.
+A : E- yeah, but it's - it's still -
+A : that has a mean around O_ point three, and for voiced portion the mean is O_ point fifty-nine.
+A : But the variance seem quite high. So - Mmm.
+C : How do you know - ?
+C : voiced and unvoiced truth data?
+A : TIMIT  and we used canonical mappings between the phones and
+F : Yeah. We, uh, use TIMIT on this,
+F : for -
+F : I think .
+A : Uh, so it's noisy TIMIT. That's right. Yeah.
+E : It's noisy
+A : Yeah. So there are - there is this.  There could be also the, um -
+A : something like the maximum of the auto-correlation function or -
+A : which -
+C : trained  thresholds?
+A : Right now we just are trying to find some features.
+A : And, uh - Yeah. Hopefully, I think
+A : and hopefully these features w- would help -
+C : Because it seems like what you said about the mean of the - the voiced and the unvoiced -
+B : Well, yeah, except the variance was big. Right?
+C : Well, y-
+C : I mean,
+C : i- it - it may be that - that you're finding something good  and that the variance is sort of artificial because of how you're getting your truth.
+B : another  are  coming up with feature sets after all.
+B : um, the mel cepstru- mel spectrum, mel cepstrum,
+B : any of these variants, um, give you the smooth spectrum. It's the spectral envelope.
+B : you're getting something  more like the raw data.
+B : of the difference  smooth  is something that you're missing that could help?
+B : coming up with some things and just trying them   out
+B : where you're really just i- i- the way I'm looking at it is not so much you're trying to f- find the best - the world's best voiced-unvoiced, uh, uh, classifier, but it's more that,
+A : Mmm.
+B : m- maybe there's something there that the system can use.
+A : um, you just - it gives you just information about if it's voiced or not voiced, ma- mainly, I mean. But - So,
+A : this is why we - we started to look by having
+B : Well, that's the rea- w- w- what I'm arguing is that's-
+B : Yeah. I mean, uh, what I'm arguing is that that - that's givi- you - gives you your intuition.
+E : Oh, sorry.
+B : because what you're really getting is not  actually voiced versus unvoiced, both for the fac- the reason of the overlap and - and then,
+B : uh, th- you know, structural
+B : uh, uh, like the one that Chuck said, that - that in fact, well, the data itself is - that you're working with is not perfect.
+A : Yeah.
+B : So, what  killer  some
+B : but it's just some  of something back in the - in the - in the almost raw data, rather than the smooth version.
+B : uh, statistical characterizations of, um,
+B : what's missing from the spectral envelope.
+B : Um, obviously you have something  about the excitation,
+B : and what is it about the excitation,
+B : and, you know - and you're not getting the excitation anyway, you know.
+B : so I - I would almost
+B : uh, especially if - if these trainings and so forth are faster, I would almost just take a
+B : ways of look- of characterizing that difference and, uh, you could have one of them but - and - and see, you know, which of them helps.
+C : whatever features you develop and - and just add them onto the future vector?
+A : O_K.
+A : Th-
+A : Uh, no. No, the idea was, I guess, to - to use them as - as features.
+A : Yeah, it could be, uh - it could be a neural network that does voiced and unvoiced detection,
+B : But each one of the mixture components - I mean, you have, uh, uh, variance only,
+B : these, um, probabilities from the individual features within each mixture. So it's - so,
+B : uh, it seems l- you know -
+B : Um.
+B : Yeah. I mean, I know that, um,
+B : Uh, so it would s- and - and you know
+B : a spectral, uh - a s- a smooth spectral envelope, so there must be something else that you get in return for that -
+B : that, uh -
+B : uh -
+C : how exactly do you make the difference between the F_F_T and the smoothed spectral envelope?
+A : Um, we just - How did we do it up again?
+F : filter, and we extend these coefficient between the - all the frequency range.
+F : And i- the interpolation i- between the point is - give for the triang- triangular filter,
+B : m-  value.
+F : mmm  Yeah, it's linear.
+A : one energy for each filter bank, which is that's centered on - on - on the triangle -
+F : Yeah.
+F : At the n- @@
+C : So you - you end up with a vector that's the same length as the F_F_T vector? And then you just, uh, compute differences and,
+F : I have here one example if you - if you want see something like that.
+A : Then we compute the difference. Yeah. Uh-huh.
+C : uh, sum the differences?
+A : So.
+A : one - to fifteen hundred.
+F : Two thou- two - fifteen hundred? No.
+F : Yeah.
+A : Above, um - it seems that -
+A : Well, some voiced sound can have also,
+A : like, a noisy part on high frequencies, and -
+B : Yeah. No, it's - makes sense to look at low frequencies.
+C : So this is - uh, basically this is comparing
+B : Right. So i- so i- i- this is -
+B : I mean, i- you could argue about whether it should be linear interpolation or - or - or - or zeroeth order, but - but
+B : at any rate something like  is what you're feeding your recognizer, typically.
+C : Like which of the  - ?
+B : this, uh, spectrum or log spectrum, whatever it - You- you're subtracting in - in - in power domain or log domain?
+A : In log domain. Yeah.
+F : Log domain.
+B : O_K. So it's sort of like division,  when you do the - yeah, the spectra.
+B : Yeah. But, anyway, um -
+A : Yeah. What happen if - what we have - have - what we would like to have is some spectrum of the excitation signal,
+A : and for unvoiced it's something that's more flat.
+A : is that - well, we have the - we have the F_F_T because it's computed in - in the - in the system, and we have
+A : filter banks,
+A : we have something that's excitation signal.
+E : Oh.
+C : O_K.
+A : It's something that's like
+C : Oh! O_K.
+A : a - a-
+C : So do you have a picture that sh- ? Is this for a voiced segment, this picture?
+C : What does it look like for unvoiced?
+A : You have several  - some unvoiced?
+F : The dif- No. Unvoiced, I don't have for unvoiced.
+A : Oh.
+B : So, you know, all - Yeah.
+A : Yeah.
+F : Yeah. This is the - between -
+A : This is another voiced example. Yeah.
+A : Oh, yeah. This is -
+A : So, of course, it's around zero, but - Well, no. It is -
+F : Yeah. Because we begin, uh, in fifteen
+C : So,
+A : Yeah. It's the pitch. Yeah. Mm-hmm.
+A : Mm-hmm.
+B : what you'd - what you're doing -
+B : I mean, ignore all the details and all the ways which is - that these are complete lies.
+C : Mm-hmm.
+B : Uh, the - the - you know, what you're doing in feature extraction for speech recognition is you have,
+F : Yeah.
+B : a periodic or aperiodic source that's driving some filters.
+A : Do you have the mean - do you have the mean for the
+A : auto-correlation - ?
+F : Yeah. I have the mean.
+B : a- an overall resonant - you know, f- some resonances and so forth that th- that's processing
+A : Yeah. So they are - this is - there is less difference.
+B : So if you look at the spectral envelope, just the very smooth properties of it, you get something closer to that.
+A : This is  less - it's less robust.
+A : Oh, yeah.
+B : And the notion is if you have the full
+B : that that  both,
+B : do
+B : lies  really  smooth.
+B : It's not really  really  getting the vocal excitation.
+B : why I was referring to it in a more -
+B : a more, uh,
+B : conservative  way, when I was saying "well, it's - yeah,
+B : it's the excitation". But it's not really  the excitation. It's whatever it is that's different between -
+C : Oh. This moved in the - Yeah.
+B : You go to a smooth representation.
+B : Um, but  something,  use?
+B : Um, probably  you wouldn't want to go to the extreme of just ta- saying "O_K, our feature set will be the F_F_T",
+B : cuz we really think we do gain something in robustness from going to something smoother,
+B : but maybe there's something
+B : So what is it? And then you go back to the intuition that, well, you don't really  get the excitation, but you get something related to it.
+B : And it - and as you can see from those  do  that shows some periodicity, uh, in frequency,
+B : you know, and - and - and also in time. So - so,
+C : So you don't have one for unvoiced picture?
+F : But not here.
+A : Mm-hmm.
+A : Yeah.   Well.
+F : Not here.
+C : I would li- I would like to see those Yeah.
+F : I can't see you
+F : I don't have.
+A : Mm-hmm.
+C : And so you said this is pretty - doing this kind of thing is pretty robust to noise?
+A : It seems, yeah. Um,
+F : Oops. the classifica- Oh!
+A : this  frame,
+A : Y- y- y- yeah. We end up with -
+F : I have here the same frame for the clean speech -
+C : O_K-
+F : the same cle-
+F : two hundred fifty-six point and this is with five hundred twelve.
+A : Yeah. This is kind of inter- interesting also because if we use the standard, uh, frame length of - of, like, twenty-five milliseconds,
+A : um,
+A : what happens is that for low-pitched voiced, because of the frame length, y- you don't really have -
+A : because of the first lobe of - of each - each of the harmonics.
+A : So, this is like - yeah, fifty milliseconds or something like that.
+F : Fifty millis- Yeah.
+A : Yeah, but it's the same frame and -
+C : Oh, it's that time-frequency trade-off thing. Right?
+C : Yeah.
+A : So, yeah.
+F : This is the signal.
+A : Yeah. So probably we'll have to use, like, long f- long frames. Mm-hmm.
+C : Oh. That's interesting.
+B : Well, I mean it looks better, but, I mean, the thing is if - if, uh - if you're actually asking -
+C : Would you - would you wanna do this kind of, uh, difference thing after  you do spectral subtraction?
+A : Mmm.
+B : Hmm.
+A : Um,
+A : I guess it depends.
+B : I mean, how are they  doing it?
+A : Um,
+A : It's on the filter bank, so. So, yeah, probably -
+B : So in that case, it might not make much difference at all.
+B : Maybe. I mean, certainly it'd be better.
+A : Mm-hmm.
+A : Uh.
+B : @@
+A : So we'll perhaps
+A : the new filters and - Yeah.
+B : Uh, has - has anything happened yet on this business of having some sort of standard, uh,
+A : Uh,
+A : not yet but I wi- I will call them and -
+B : O_K.
+A : now they are - I think they have more time because they have this -
+A : well, Eurospeech deadline is over and -
+C : deadline?
+A : Yeah.
+B : O_K.
+B : Um,
+B : and he's - he's, uh -
+F : Yeah.
+B : This is - this by the way a bad thing. We're trying to get, um, m- more female voices in this record as well. So.
+B : Make sur- make sure Carmen
+B : Uh, but has he pretty much been talking about what you're doing also, and - ?
+F : Yeah, yeah. I'm sorry, but
+B : Yeah, well. You know, uh, we'll get - we'll get to, uh, Spanish voices sometime,  uh, you too.
+F : Because -
+B : Bourlard-Hermansky-Morgan, uh, frame of mind. Yeah, we like high error rates. It's - That way there's lots of work to do. So it's -
+B : Uh,
+D : N- um, not- not- not much is new. So when I talked about what I'm planning to do last
+D : using a transformation, um, to map from
+D : He has a trick for doing that Um,
+D : but, uh, um, I decided not to do that after all because
+D : short analysis frames get plugged directly into the feature computation somehow and right now I think our feature computation is set to up to, um,
+D : in general.
+B : This is in order to use the S_R_I system or something. Right?
+D : Um,
+D : our
+B : Yeah. I mean, it's -
+B : Yeah. I mean, longer-term if it's - if it turns out to be useful, one - one might want to
+B : do something else, but -
+B : other kinds of errors in from the re-synthesis process.
+D : From the re-synthesis? Um,
+B : Yeah.
+B : Uh, it depends what you - what you do.
+B : um -
+B : Don't know. But anyway it sounds like a reasonable way to go for a - for an initial thing, and we can look at -
+B : at exactly  what you end up doing and - and then figure out if there's some -
+D : O_K.
+B : O_K.
+B : So that's -
+B : Um, anything to add?
+E : uh, modulation s- spectrum stuff,
+E : um, and - and learning a bit about what - what, um - what it is,
+E : and, uh, the importance of it in speech recognition. And I found some - some, uh,
+E : neat papers, um,
+E : Kanedera, Hermansky, and Arai.
+E : and, um, e- they modify the, uh - they - they - they measure the relative importance of having different,
+E : um, portions of the modulation spectrum intact.
+E : And they find that the - the spectrum between one and sixteen hertz in the modulation
+B : Sure. I mean, this sort of goes back to earlier stuff by Drullman.
+B : targets
+E : Um, I was thinking more like using them as - as the inputs to - to the detectors.
+B : or a feature or something.
+B : But - but, uh -
+B : Yeah. Yeah.
+C : Should we do digits?
+B : Let you - you start.
+D : Reading
+D : One seven six eight, six six nine one, seven nine two one.
+D : Two O_ three, five O_, O_ one two five.
+D : Four zero five six, four, three three four.
+D : Nine two nine zero, three one one four, eight six two nine.
+D : Four one three, six two five, six six nine zero.
+D : Four three, six seven, six one, five two, nine eight.
+D : Seven six, three three, three seven, seven eight, two three.
+D : Eight four two, six one, four six two seven.
+B : five
+B : Six eight seven, seven one five, zero seven five.
+B : Eight nine six zero, three, eight six five.
+B : Five six six, two zero, zero two nine six.
+B : Eight four two eight, nine, one six four.
+B : One six eight, six two, four zero one three.
+B : Three one, two six, six one, nine nine, six zero.
+B : Eight three seven zero, eight, zero eight zero.
+B : Six two three six, four zero zero six, nine seven four three.
+C : Transcript L_ dash four nine.
+C : Eight eight four, two five nine, seven four five zero.
+C : Seven eight seven, zero one zero, six one five eight.
+C : Seven four, two two, five zero, three nine, seven zero.
+C : Eight five eight, zero three, four seven one four.
+C : Zero six zero, four four, two, zero zero one.
+C : Two two nine three, three, one two eight.
+C : Eight, five five eight, five five, eight six nine, one.
+C : Three five eight, two nine, four O_ one seven.
+E : nine O_ six seven, three, nine three three.
+E : O_, eight three O_, O_ eight, three four eight, one.
+E : Two one three, six five, three one five nine.
+E : Four O_, eight four, three O_, five two, one one.
+E : Nine two four, five eight four, five five zero four.
+E : Two two, two six, one six, eight one, five five.
+E : Seven O_ seven, O_ eight seven, eight four O_ two
+E : eight O_ three, one six O_, five O_, seven four.
+A : Five nine, five four, eight eight, three nine, one four.
+A : Eight six zero, three one zero, nine seven five three.
+A : Five five, five two, nine nine, three three, six five.
+A : Three three seven, zero seven, four seven one zero.
+A : Six four one eight, three, one six six.
+A : Five seven six, eight nine five, nine one six.
+A : Two two, eight three, three zero, five five, nine five.
+F : Transcript L_ dash f- fifty-four.
+F : One four three one seven seven one O_ three two.
+F : Nine eight two four eight eight eight one two.
+F : One three one, zero five seven, six eight one two.
+F : Six two eight eight, seven five, nine one, two zero.
+F : Five two seven two, eight, six one seven.
+F : Four nine eight, O_ O_ O_, seven zero nine.
+F : Eight six two, four five, eight eight, nine two.
+F : Two two one, one nine, six seven eight three.
+D : @@

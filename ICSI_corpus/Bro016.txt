@@ -1,0 +1,279 @@
+E : I won't  be here Thursday and Friday. But my suggestion is that, uh,
+E : at least for this  meeting, people should go ahead, uh, cuz Hynek will be here, and,
+E : you know, we don't have any Czech accent yet, uh, as far as I know, so -
+E : There we go.
+E : So other than reading digits, what's our agenda?
+F : Been working on Meeting Recorder stuff. So.
+E : O_K.
+E : Um.
+E : Cuz the one thing - the one thing that seems to me we really should try,
+E : if you hadn't  tried it before, because it hadn't occurred to me - it was sort of an obvious thing -
+F : Um. What happens is, uh, when you get to the noisy stuff, you start getting lots of insertions.
+F : Um. I could do more playing with that, though.
+F : Oh, you're talking about for th-
+E : @@
+E : and @@  with, uh, you know, how many states and so forth,
+E : that it - it doesn't particularly  improve the performance. In other words,
+E : that even though it sounds  pretty dumb,
+E : but  anybody using the system would.
+E : if  you were just adjusting the back-end,
+E : they're probably not at all  set right
+E : I think that's, uh, @@  that's kind of a first-order thing that - that we should try.
+F : So for th-
+F : run our  front-end like normal, with the default, uh,
+E : you know, our current best  version of something.
+E : I mean, y-  don't wanna do this over a hundred different things that they've tried but, you know, for
+E : some version that you say is a good one. You know? Um.
+E : uh, does it improve if you actually adjust that?
+F : Yeah. I didn't even write them   down.
+F : I just need to get, um,
+F : front-end, uh, stuff from you or you point me to some files that you've already calculated.
+B : Mm-hmm.
+F : I wonder if there's anything that we could do front-end
+E : But -
+E : of the numbers - of the differences  between different candidates from the acoustic model
+F : changing the value  of your insertion penalty.
+F : about what range our  match with that.
+E : be kinda neat to find out if we're way off.
+E : @@  part  of that, but -
+F : I've seen that with the mel cepstrum. I don't - I don't know about the Aurora front-end, but -
+E : I'm sure it's more
+B : Mm-hmm.
+F : the guy from O_G_I came down that one time and -
+F : that, because all that stuff that we're getting thr- the silence that's getting through is causing insertions. So.
+B : Mmm.
+F : I'll bet you there's still a lot
+B : Mm-hmm.
+E : So, I mean, the insertions  symptom.
+E : uh, the most obvious  @@ . But -
+E : Um.
+E : Um, I mean we ca-
+E : Even though it's - it's - it's true that in a real situation you can in fact adjust the - these - these scaling factors in the back-end,
+E : do gamesmanship and how much we wanna do - I mean, i- if he-
+E : so that you got the best number for this point four five times the - you know, and so on.
+E : Um. So -
+F : Mm-hmm.
+E : it's kind of reasonable. But then -
+E : are accepting, uh, more or less, that these are the rules.
+E : But, people outside  of it who look in at the broader picture are certainly gonna say
+E : that that's not true,
+E : or determine that it is  true, in which case we want to adjust that and then
+E : finding ways to then compensate for that in the front-end
+F : Mm-hmm.
+E : So.
+B : Uh. So there's nothing
+B : new.
+E : Uh, what's old
+B : I'm sorry?
+E : O_K. What's old with you that has developed over the last week or two?
+B : On the report of the work that was already
+B : Mm-hmm. That's all.
+F : How about   that - ?
+C : I don't have results yet.
+F : No results? Yeah.
+F : The - the, uh,
+A : Voicing thing.
+E : I mean, what- what's - what's going on now? What are you doing?
+C : we try to use
+E : So, what - wha-
+C : something like that.
+B : Mm-hmm.
+E : you not necessarily finish  that.
+B : Mm-hmm.
+E : actually finishing  it
+E : Because, you know, you're gonna have another bunch of results to fit in there anyway.
+C : It's not.
+E : to - to really work on - on fine-tuning the report n-  at this point is - is probably bad timing,
+E : I - I think.
+E : But you ma- you may really wanna add other things later anyway because you -
+B : Yeah.
+B : But anyway.
+B : Yeah, yeah. We have, yeah, extracted actually the noises from the SpeechDat-Car.
+E : That's -
+B : @@
+B : Uh. Well,
+B : Um.
+E : Yeah. I guess the thing is - Yeah. I guess that's a matter of interpretation. The rules as I understand it, is that in principle
+E : And the - and the German and Danish were the evaluation data.
+E : So -
+E : was - I mean, even though the improvement  wasn't so good, the pre- the raw performance was really pretty good.
+E : Um, it's somewhat  tuned. It's tuned more than, you know, a - a - a - a -
+E : Um, I guess  it's O_K.
+F : I think it's -
+F : systems that are like ours, where you actually use the data to build models. I mean, they just
+E : it probably  would be the case that if, say, we trained on Italian,
+E : uh, that - that it would look bad. And I think someone  would notice and would say "Well, look. This is not generalizing." I would hope tha- I would hope they would.
+F : Mm-hmm.
+E : Um.
+F : Do we know anything about the speakers for each of the, uh, training utterances?
+E : Social security number
+B : Like, we have male, female,
+F : Bank PIN.
+B : Mm-hmm.
+E : Hmm.
+F : Well, you could put them   both  in as separate
+F : streams or something.
+F : Uh.
+B : Mm-hmm.
+E : Yeah, it's an  interesting thought. Maybe having something
+F : Uh  no. I hadn't - I hadn't thought - it was - thought too much about it, really. It just - something that popped into my head just now. And so I - I -
+F : a similar idea to what they do in vocal tract length normalization. You know, you have some sort of a,
+E : uh  really doesn't sound like a real-time thing with less than two hundred milliseconds, uh,
+F : Yeah. That's true.
+E : I mean - Yeah. No. Well not just expensive.
+E : I - I - I don't see how you could possibly do  anything.  only  - Right?
+F : Right. So whatever it was, it would have to be uh  sort of on a per frame basis.
+B : Mm-hmm.
+E : Yeah. I mean, you can do, um -
+E : Fairly quickly you can do male female   male
+E : trying to identify third formant - average  third formant -
+E : using that as an indicator of -
+F : I don't know.
+E : you know, might be out to thirty-seven fifty, you know so it's at
+E : So, I think, eh, if I recall correctly, they did something   like that. And - and - But -
+E : having one frame  or something. You know? That's more like looking at third formant over - over a turn or something like that, and -
+B : Mm-hmm.
+B : Mm-hmm.
+E : Y- you could  imagine that - I mean, just like we're saying voiced-unvoiced is good to know -
+E : males and females and it's mm-hmm
+E : putting into one net. So is it - ?
+E : O_K.
+B : when they are used on -
+B : on the SpeechDat-Car data, it's not the case - oh, well .
+B : The M_S_G features are much worse,
+E : Shouldn't be. They should be less so. R- right?
+E : Wh- ? But let me ask you this. What - what's the, um - ?
+E : so, uh - @@
+E : I sort of had forgotten to discuss it.
+B : Yeah.
+E : Or what - you know, what you're uh  - the thing you're actually looking at.
+E : So they're kinda like log probabilities is what I was saying.
+F : O_K. And tho- that's what goes H_T_K?
+E : Uh, almost. But then you actually do a K_L_T on them.
+B : Mm-hmm.
+F : the standard insertion penalty is gonna have very little effect
+F : a  smaller set of log probs.
+E : No. Again you don't really look at that. It's something - that, and then it's going through this transformation that's
+E : But still it's - it's not gonna probably radically change the scale of things.
+E : So the first thing I'd look at without adjusting anything would just be to go back to the experiment and look at the, uh, substitutions, insertions, and deletions.
+E : for the   two cases then that would be, uh, an indicator that it might - might be in that direction.
+E : Anything else?
+E : Well.
+E : But, you know, some problems are harder than others, and -
+B : Yeah.
+B : Mm-hmm.
+E : maybe we could be doing much better,  even in T_I-digits. Right?
+B : Uh.
+E : O-
+B : But, I think that would involve to -
+B : to mmm
+B : um,
+B : um,
+E : O_K. Well, this'll be, I think, something for discussion with Hynek next week.
+B : Mmm.
+E : Right.
+E : I'll, uh -
+E : talking with everybody in this room So.
+E : I'll try to
+E : Um.
+D : Mmm. Yeah.
+E : Yeah. Oh, good. Yeah.
+E : Yeah. That's just - that's - that's one of the big advantages of not making much money is
+E : the taxes are easier. Yeah.
+E : I think you are.  Aren't you?
+D : Hmm. Yeah.
+E : Two thousand.
+D : Ye-
+E : Alright.
+E : Barry, do you wanna say something about your stuff here?
+A : Oh, um.
+A : Right. I just, um,
+A : Oh, you - oh, you want - you want details. Hmm.
+A : I was hoping I could wave my hands. Um.
+A : um, to be able to distinguish between, uh, phones and words and stuff. And
+A : do some cheating  experiments,
+A : um, where we feed, um, these events into an S_R_I system, um, eh, and evaluate its performance on a Switchboard task.
+A : Yeah. Sure. Um, I - I can give you an  twenty-odd events.
+A : Um -
+A : So, he- In this paper, um, it's  talking about phoneme recognition using acoustic events.
+A : paper by Hubener and Cardson
+E : Bielefeld.
+A : Um.
+E : Yeah. Yeah, O_K.
+F : Versus an acoustic event, which is just that is fairly easy to measure.
+F : Um. So it's, um - it's a little different, in - at least in my mind.
+E : I mean, when we did the SPAM work - I mean, there we had - we had this notion of an, uh, auditory -
+E : @@  auditory event.
+A : Good. That's great.
+E : called them " avents
+E : So.
+E : there.  But there's certainly other things
+E : rapid changes, but -
+E : Yeah.
+F : sometimes, and sometimes it may not. It just depen- maybe depends on the context, things like that. And so it's sort of a different way of looking.
+A : Um -
+A : um -
+A : eh, try to extend it to, um - to account for other - other phenomena like, um, C_M_R co-modulation release.
+A : And, um -
+A : Um,
+A : Um, and -
+A : we could put them   together and - and feed the outputs of the event detectors into - into the S_R_I, um,
+A : um - and test it on - on Switchboard or, um, maybe even Aurora stuff.
+E : area and, um, Michael Kleinschmidt, who's worked with him, who also looks at
+E : So, he looks at interesting - interesting things in - in the -
+E : It's, uh, one thirty-five.
+E : Uh, O_K, I'm doing transcript L_ seventy-six.
+E : zero three two three six five five five zero
+E : seven zero five eight five nine nine two four six five seven
+E : eight zero three four six zero one five
+E : five four four eight four four five zero eight eight
+E : three six six six six zero one seven two six
+E : nine seven one two three five one five eight eight
+E : four eight two one eight zero four two three seven seven zero
+E : five two eight five seven eight eight six seven four
+B : Transcript L_ dash seventy-seven.
+B : five eight four five four seven four one six three
+B : one three zero two eight seven four five two
+B : one two one one six one four two two
+B : three eight nine one four eight three eight one seven four zero
+B : six five one eight six seven six two nine three
+B : three one three two six one three four two four
+B : zero two four three two one four one three one three seven
+B : zero zero one nine five zero seven nine five six
+F : Transcript L_ dash seventy-eight.
+F : one five four three five eight nine two seven six
+F : four four nine seven four six six four six
+F : seven eight seven three three seven six one eight two
+F : six eight nine O_ three three three one three three
+F : seven seven five one seven five five three six
+F : one one four one three zero zero seven
+F : five one O_ seven eight two four six one
+F : six four three eight two two five O_ three
+A : Transcript L_ dash seventy-nine.
+A : eight eight five two five two six one seven
+A : four four five one nine one two eight eight four
+A : one three one six eight four three zero zero four
+A : six six eight three nine eight six four eight six
+A : six seven five zero three one four one seven zero
+A : eight five nine five O_ three seven six O_ two
+A : six O_ eight two three O_ seven one nine eight seven five
+A : seven four two eight eight three seven one six eight
+D : Transcript L_ dash eight zero.
+D : nine five six six four three nine seven eight three
+D : O_ two six four three six one two eight nine
+D : three four four O_ five seven nine eight one
+D : three nine O_ eight eight O_ one O_ two zero nine nine
+D : five eight nine eight one eight nine five four eight
+D : seven nine six one eight seven eight eight three
+D : zero nine six seven six two nine zero five
+D : seven five six zero seven two nine seven
+C : Transcript L_ dash eighty-one.
+C : seven nine one five nine zero eight two
+C : one six one six eight six four zero one three
+C : four four zero five five six four two one
+C : nine four two one zero five one two seven two
+C : one two nine five eight eight six three nine two
+C : five eight eight four three six zero five three zero
+C : two three three two six two four three six five
+C : two six two four two eight five one four five
+E : O_K-

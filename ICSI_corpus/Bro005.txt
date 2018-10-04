@@ -1,0 +1,550 @@
+D : O_K.
+A : Mike. Mike-one?
+G : Have a good meeting.
+D : I mean, we're testing noise robustness but let's not get silly.
+A : Yeah, I'm sorry for the table, but as it grows in size, uh, it.
+A : Uh , yeah.
+D : This  nice,  nice  font.
+B : Uh, do you want @@ .
+A : @@
+C : Chop!
+D : When you get older you have these different perspectives. I mean, lowering the word hour rate is fine, but having big  font!
+A : Next time we will put colors or something
+A : we've started to run  - work on this.
+A : Um. So since last week we've started to fill the column with um
+A : uh features
+A : with on-line normalization but with delta also, because the column was not completely - well, it's still not completely filled, but
+A : we have more results to compare with network using without P_L_P and
+A : finally, hhh,  P_L- uh delta seems very important.
+A : I don't know. If you take um,
+A : anyway
+A : so, the next - t- the second, uh, part of the table,
+A : uh when we use the large training set using French, Spanish, and English,
+A : So now we see that the gap between the different training set is much uh
+A : much smaller
+C : It's out of the way.
+C : Right.
+A : Mmm, Yeah.
+A : set of experiment for Italian, so, the mismatched condition,
+A : um
+A : when we use the training on TIMIT
+A : so, it's multi-English, we have a ninety-one number,
+D : Oh, I  see. Down near the bottom of this sheet.
+D : Uh, yes.
+A : Uh.
+A : Even if the contexts used is quite the same, because without delta we use seventeenths - seventeen  frames.
+A : Uh.
+A : And, fff um,
+A : uh from
+A : Uh, @@
+A : So, uh, yeah. We have also started feature  combination experiments.
+A : @@ .
+A : Um,
+A : Mmm.
+A : You know you can - you can comment these results, or -
+A : So it's not the - Again we switch to another -
+B : because never help to increase the accuracy.
+D : I-
+D : Um, the uh, baseline  baseline  system was uh, uh eighty-two percent, that was trained on what and tested on what?
+A : Yeah.
+D : The - 3x
+D : we end up with a fair amount worse  putting in the uh P_L_P.
+B : Uh yes?
+A : Uh yeah, so this is - basically this is in the table.
+A : Uh so the number is fifty-two,
+A : of uh eighteen - of eighteen.
+D : Oh this is accuracy!
+D : Ninety.
+A : Um
+A : uh
+D : Same result pretty much?
+A : Do you have this result with P_L_P alone,
+A : Um -
+D : But she had said eighty- two.
+B : @@
+D : the eighty- two.
+D : Oh, I'm  accuracy.
+A : @@  Yeah, sorry. Yeah.
+D : O_K.
+B : Yeah.
+D : Alright. Alright. So this is - I was thinking all this was worse.  better  nine  bigger  than eighty-two. O_K.
+A : Yeah.
+B : Yes, better.
+D : I'm - I'm all better now. O_K, go ahead.
+A : we jump to almost ninety percent.
+A : Uh, when we apply a neural network, is the same. We j- jump to ninety percent.
+B : Nnn, we don't know  exactly.
+A : No, I - I mean ninety- It's around eighty-nine, ninety, eighty-eight .
+A : Well, there are minor   - minor differences.
+A : For   Italian, yeah.
+D : For this  case, right?
+D : So, um - So actually, the answer for experiments with one is that adding M_S_G, if you - uh does not  help in that case.
+D : So if we think of this in error  rates,
+D : Um we uh
+A : Yeah
+D : Uh is  it. Uh, two point six
+D : um
+D : Not matching  condition, but uh, the uh, Italian training.
+B : We select these - these - these tasks
+D : So then you're assuming multi-English is closer  use  since you're not gonna have matching,
+D : that's the multi-English, but it is not all  piece  part  of it.
+D : And the multi-English is how much?
+D : Oh, so you used almost  two  thirds  of it,
+D : Yeah.
+D : It's  still -
+D : Alright, go ahead. And then - then -
+B : first the feature are without  delta and delta-delta,
+B : the same  help nothing.
+B : but they all put off the M_L_P is it  without delta and delta-delta.
+B : the new trained   with P_L_P delta and delta-delta, maybe the final result must be better. I don't know.
+A : has to be compared with the um -
+A : Which  number?
+D : Yes, yeah, I mean it can't be compared with the other  over  box,  which is that, uh the eighty-four point six.
+A : And straight  features with delta-delta
+D : No. No. No. Not trained with multi- English.
+B : No, but they - they feature  @@  without -
+A : So yeah, this is not - perhaps not clear here  but in this table,
+D : Eh. I  see.
+D : Ah. So you're saying w- so asking the question, "What - what has adding the M_L_P done to improve over the, uh - Yes.
+D : Uh- huh.
+A : Multi-English P_L_P. Oh no, it gives eighty- three  point six.
+A : So we have our  now  eighty-eighty point six, that gives eighty-seven point one.
+D : Eighty-s- I thought it was eighty- Oh, O_K, eighty-three point six and eighty - eighty- eight  point six.
+A : Is th- is that right?
+B : I don't know - but maybe if we have the neural network trained   delta and delta-delta,
+D : Well, that's - that's one  other  case,  means.
+D : What - what we're saying is that one o- one of the things that - I mean my  motivation.
+D : When we train on data  one  another,
+D : similar  testing  data,
+D : then we get a win  discriminant   training.
+D : When we train on something that's quite different,
+D : we have a potential to have some problems.
+D : And, um, if  helps  similar,
+D : and doesn't hurt  much  when it - when it's quite different,
+D : that's maybe not so bad.
+D : So the question is, if you took the same  combination,
+D : and you tried it out on, uh - on say digits,
+D : eh - you know maybe with similar noise
+D : does it - does it then look much better?
+D : So, an- anyway.
+B : with name broad klatt  s- twenty-seven, uh, d- I have found more or less the same result.
+B : Little bit better?
+A : slightly  better, yeah.
+D : Slightly better.
+D : And - and you know again maybe if you use the, uh, delta
+D : there, uh, you would bring it up to where it was, uh you know at least  same  case.
+B : Oh, yeah.
+A : It's again better. So it's eighty-nine point - point one.
+D : Mm-hmm.
+B : and we have only forty - forty feature
+A : So.
+B : And then w- with the first  configuration, I f-
+B : work,  but is better, the second configuration.
+B : here I have eighty-five point three accuracy,   and
+D : um, and you, uh, change the, uh variances  -
+D : um, you can effectively scale  the streams.
+D : you know, without changing  scripts  for H_T_K, which is the rule here,
+D : uh, you can still change  variances  streams  that come in.
+A : Uh, yeah.
+D : um, if you do  that,
+D : And, um, so this is just setting them to be,
+D : excuse me, of equal - equal weight.
+D : Maybe it shouldn't  be equal weight.
+D : Right?  more  look  at that, but -
+D : but, uh, um, you know on the other hand it's just experiments at the level of the H_T_K recognition.  It's not even the H_T_K, uh,
+D : uh - Well, I guess you have to do the H_T_K training also. Uh, do  you?
+B : so this is what we  decided to do.
+D : Maybe you don't.
+C : And then you can vary it. Yeah.
+D : you  scale  them all.
+A : Scale the - ?
+D : Variances.
+A : Is it - i- th- I mean the H_T_K models are diagonal covariances,  so I d-
+D : That's uh, exactly the point,  I think, that if you change -
+D : change what they are  -
+D : It's diagonal covariance  matrices, but you
+D : say what those variances  are.
+D : that - you know, it's diagonal,  diagonal  means th- that then you're gonna - it's gonna - it's gonna internally multiply it - and - and uh,
+D : uh, i- it im- uh implicitly  exponentiated  probabilities,  and so it's - it's gonna -
+D : it's - it's going to affect the range  variances  of some of the features.
+B : do?
+D : So, i- it's precisely  simply  strength  features.
+D : So. So it could just be that h- treating them equally, tea- treating two streams equally is just - just not the right thing to do.
+D : test set, or something, but -
+A : Mm-hmm.
+A : Yeah
+A : Yeah, and test across everything.
+A : uh, where  to plug in the - the network, uh,
+A : um
+A : mmh
+A : Actually, I w- I w- hhh prefer to do exactly what I did
+A : so, with SPINE and everything.
+A : the network trained on everything.
+A : trained on
+A : one, two, three, four, uh, three, four, five, six, seven
+A : the number of frames is bad  also, so we have one million and a half
+A : Uh, yeah!
+A : that use bad on-line normalization,
+A : and other good on-line normalization.
+A : We only have two hundred eighty six different
+D : O_K.
+B : Ah, yes.
+B : @@  thought it was the -
+D : Yeah. So it sounds like yeah, the net corrects some of the problems with some poor normalization.
+D : bef- before you go on to the  possible issues. So,
+D : in the short solution
+D : And uh it might be - if someone's interested  in it, uh, certainly encourage anybody to look into it in the longer term,
+D : once we get out of this particular rush short  term, unless you have some - some s- strong idea of what's wrong,
+A : Yeah. My - But I don't know.
+D : In fac- in fact the on-line normalization that we're using came  from the M_S_G design, so it's -
+A : But this was the bad  on-line normalization.
+A : Yeah.
+D : Yeah.
+D : Uh.
+D : If it's on  the target task then it - it - it helps
+D : If it uh - if it's not  on the target task,
+D : then, depending on how different  it is,
+D : Um, because it - it certainly does - is nice to have in there, when it - is  like  the
+A : Yeah. So, the - the reason - Yeah, the reason is that the - perhaps the target - the - the task dependency - the language dependency,
+D : Hey!
+F : Am I still accommodated, or - ?
+D : it's uh  -
+A : We still have uh
+D : Yeah, I guess we can do a little better than that but -
+D : actually, that sort of has it in words and then th- that has it the O_K.
+B : Um.
+D : from what we see,  yes there's what you would expect in terms of a language dependency and a noise dependency. That is,
+A : mmm,   uh,
+A : you have two - two effects, the effect of changing language and the effect of training on something that's Viterbi-aligned instead of hand - hand-labeled.
+D : Might  look  @@  Because, I mean,
+D : that is just looking  but
+D : that - the - the engine  is that's doing the alignment.
+D : Aha!
+A : Mmm. I mean for -
+B : Yeah. @@
+D : I  see.
+A : @@
+A : all our nets are trained on the same noises and -
+D : SPINE  that  has other noise.
+A : Results are only coming for - for this net.
+D : O_K, yeah, just don't - just need more - more results there with that @@ .
+A : comparing network with five hundred and one thousand units.
+A : nnn, still no answer actually.
+A : but
+D : Uh.
+D : That's - Yeah. So. And - and when you add other things in to - to broaden it, it gets worse
+D : I like  with  and  without  yes  - it's mul- it's multi-uh-purpose. O_K.
+A : Yeah.
+A : Yeah.
+A : training s- Right . So -
+A : Uh. For moment you use - we use phonetic targets but we could also use articulatory targets, soft targets,
+A : transform the fea- noisy features
+A : But continuous features.  Not uh
+D : Yeah, that seems like a good thing to do, probably, uh,
+A : could help - could help perhaps to reduce language dependency
+A : So this is one approach
+D : and you have um
+D : but then - which is um
+D : copied over many times with a range of different noises,
+D : If - Cuz what you're trying to do  is come up with a -
+D : uh, by the - the uh H_M_M system. So.
+A : yeah. The future work is, well, try to connect to the - to make - to plug in the system to the O_G_I
+A : questions there, where to put the M_L_P
+D : I mean, e- u- there's lots  "open questions" for that is um,
+D : you know, the best  the  few  or something -
+D : You want the most promising  experiments.
+A : Mmm, Yeah, yeah.
+D : Um. And y- Right? And then um -
+D : then see, again, how -
+D : We know  that there's a mis- there's a uh -
+D : we're gonna test  on, but
+D : well, if you look over a range  of these different tests
+D : Assume  that's the p- the feature.
+D : look at these different  combining  it.
+D : And just look - take that  case and then look over all the different things. How does that -
+D : Um. How well do they stand up,
+A : And perhaps doing this for - cha- changing the variance of the streams and so on
+A : O_K.
+D : @@
+D : Yeah. It's a little strange but on the other hand they
+D : did it before.
+A : Mmm. And - and - and yeah. And because also perhaps we know that
+D : Um the-
+D : Um, the other  thing, though, is that um -
+D : running  here, right? If so, we can add this other stuff.
+A : Um.
+D : Cuz they're doing L_D_A RASTA.
+D : I
+D : I see. So we - So. First  get  those labels of final features is that we get the same results as them.
+A : @@
+D : Without  putting in a second path.
+D : Just to make sure that we have - we understand properly what things are, our very first thing to do is to - is to double check that we get the exact same results as them on H_T_K.
+A : Oh yeah. @@
+D : Um
+D : Do we need to retrain
+D : uh just
+D : for  the testing,
+D : jus- just make sure that we get the same results
+A : We can try
+D : Oh! You know, the other  thing is when you say comb-
+D : I'm - I'm sorry, I'm interrupting. that u- Um,
+D : uh, when you're talking about combining multiple features,
+D : Suppose we said, "O_K, we've got these different features and so forth, but P_L_P seems pretty good."
+D : If we take the approach that Mike  did
+D : I mean, one  languages,  noises,
+D : Um If we
+D : have some drastically different conditions and we just train up different M_L_ Ps  with them.
+D : put them  together.
+D : What Mike  found, for the reverberation case at least, I mean -
+D : I mean, who knows if it'll work for these other  ones.
+D : That you did  have nice interpolative effects.
+D : yes,  knew  what  be
+D : and you trained  for that, then you got
+D : the best results.  heavily-reverberation  heavy-reverberation  no-reverberation  case,
+D : uh, and then you fed  the thing, uh
+D : something that was a modest  between  the two. So it was sort of -
+D : behaved
+F : you'll get some nice interval of power for unseen  cases but
+F : Well, it's easier.
+F : Um, that way you can turn things off @@  things  on.
+F : Um. But you then  -
+F : It's a nonlinear kind of merging of the features.
+D : works   what?
+A : Yea-
+F : Uh, well, in general nonlinear mergings  coefficients , but um
+D : Well, see, i- oc-
+D : So maybe the analogy
+D : Here  don't  have
+D : a hug- a really  huge net
+D : with a really huge  amount of training data.
+D : But we have s- f- modest  much.
+D : We have a modest  amount of - of uh training data
+D : from a couple  conditions,
+D : and the real  enormous  variability
+D : in terms of language,  noise
+D : we don't really have um,
+D : explanation  but
+D : we are seeing  that we're adding in uh, a fe- few different databases
+D : and uh the performance is getting worse
+D : when we just take one  good  better.
+D : And uh that says to me, yes, that, you know, there might be some problems with the pronunciation models that some of the databases we're adding in or something like that. But one way or another we don't have
+D : uh, seemingly, the ability represent,  in the neural net of the size that we have,
+D : um, all of the variability  covering.
+D : So that I'm - I'm - I'm hoping  that um,
+D : this is another take on the efficiency  is  I'm hoping that with moderate size neural nets,
+D : more constrained conditions they - they'll have enough parameters to really represent  them.
+F : I think the way that Hynek or - or Malik had - had told me was that if you try to train a classifier
+F : on too much - too many conditions then it'll do good on none  of them,
+F : but it'll start doing something else.
+D : Mm-hmm.
+F : else  @@  @@
+F : um LogRASTA-P_L_P - uh P_L_P with on-line normalization might be
+F : It has to do with certain  distribution characteristics.
+F : But if you take away the on-line normalization, LogRASTA seems to do better than P_L_P but not in all  cases.
+A : So doing both is - is not - is not right, you mean, or - ?
+D : I - I just sort of have a feeling
+D : I mean -
+D : that using L_D_A RASTA, which is
+D : a kind  of LogRASTA, it's just that they have the -
+D : I mean it's done in the log domain,  as I recall, and it's - it uh - it's just that they d- it's trained up, right?
+D : That that
+D : benefitted  from on-line normalization.
+D : So they did - At least in their  case,
+D : be somewhat complimentary.
+D : So will it be in our  neural  net? I mean they - they were not - not using the neural net.
+D : O_K, so the other  things you have here are uh, trying to improve
+D : O_K.
+A : Yeah, so I don't know.
+A : But we have to address the problem of C_P_U and memory we -
+D : My impression  me.
+D : using less memory was better, and
+A : Perhaps be- because if it's - if it's too large   @@  -
+D : Um, well I don't think we're
+D : um
+D : I mean we may  P.
+D : You know, if the M_L_P ultimately,  in.
+D : If the M_L_P does,  help  conditions,
+D : uh, we might even have more than one  M_L_P.
+D : We could simply say that is uh, done on the uh, server.
+D : We do the other manipulations that we're doing before  that.
+D : So, I - I - I think - I think  that's O_K.
+D : So I think the key  thing was um,
+A : This - that was Pratibha. Sunil, what was he doing, do you remember?
+A : He was doing something new or - ?
+B : Maybe he's working with
+A : Trying to tune networks?
+B : neural network.
+D : we say, "O_K we - we have  newest
+D : And then maybe they'll have something that's better  and then we - we'd combine it.
+D : This is always hard. I mean I - I - I used to work with uh
+D : and uh, it was
+D : Oh, and this - Actually, this is true not just for neural nets but just for - in general if people were working with uh, rescoring
+D : But they're  working really hard, too.
+D : So by the time you have uh, improved their score,
+D : they have also  now  difference,
+B : Yeah.
+D : So, um, I guess at some point we'll have to uh -
+D : they say that they have a better thing we can - we - e- e-
+D : Well, O_K. No, this is - I think this is good. I think that the most  wide open thing is the issues about the
+D : different trainings.  You know, da- training targets and
+A : focus more on the targets and on the training data and - ?
+D : Yeah, I think for right now um, I th- I - I really liked
+D : uh, potential  for, you know, bringing in things with different temporal properties.
+D : we only have limited time  other  things we have to look at. And it seems like much more core questions are issues about the training set
+D : what we're  they're  time.
+D : Yeah. I think we have to start cutting down. So uh -
+D : I think  so, yeah.
+D : having gone through this process and trying many different things, I would imagine that
+D : certain things uh, come up that you are curious  about uh, that you'd not getting to and so when the
+D : @@
+D : So,
+D : @@
+C : Just listening.
+D : figured  that,
+C : Um, uh, preparing - Well, they've been kind of running all the experiments and stuff and
+D : Ah! I see. that?
+C : Um,
+C : multi-band um, belief-net structure.
+C : uh basically it was two H_M_Ms with - with a - with a dependency arrow between the two H_M_Ms
+C : And so I wanna try - try coupling them instead of t- having an arrow that - that flows from one sub-band to another sub-band. I wanna  ways.
+C : And um, um, uh
+C : asynchrony in any way or um - Yeah.
+D : Alright.
+D : Anything to -
+D : you wanted to - No. O_K.
+D : Silent partner in the - in the meeting. Oh, we got a laugh out of him, that's good.
+D : O_K, everyone h- must contribute to the - our - our sound -
+D : that we need  -
+A : I think so, yeah.
+D : You're happy. O_K everyone should be happy.
+D : You don't have to be happy. You're almost done.
+F : @@ .
+D : Yeah, yeah. O_K.
+E : Al- actually I should mention - So if - And um
+E : Dan Ellis I believe knows something about using that machine so
+D : Yeah, I think we want a different  least
+A : Yeah, sure.
+D : Yeah.
+A : We just select what works fine and
+B : to work
+B : Some problems with the - You know.
+A : Yeah, restarting the script basically and -
+D : Yeah, I'm familiar with that one, O_K.
+D : Alright, so uh,
+D : since uh, we didn't ha- get a channel on for you,
+F : Light's on here. @@  Yeah.
+D : I think I won't touch anything cuz I'm afraid of making the driver crash which it seems to do, pretty easily.
+D : um connect the -
+D : Well, let's hope it works. Maybe you should go first and see so that you're -
+A : I'm reading transcript two five seven one, two five nine O_.
+B : @@  batteries?
+A : one nine four three
+C : Yeah, your battery's going down too.
+A : two six
+A : three
+A : four
+A : five
+A : seven one
+A : eight three zero six seven four four
+A : nine three O_ four nine O_ O_
+A : O_ nine nine eight four
+A : zero
+A : one
+A : two O_ two eight six nine one
+A : four one
+A : five six nine zero seven five four
+A : six six
+A : seven
+A : eight
+A : nine
+A : O_ O_ O_
+A : one two seven three O_ seven three
+B : Uh, transcript number two five one one dash two five three zero channel one.
+B : nine zero five
+B : O_ O_ four seven
+B : one three zero zero six three seven
+B : two five five four four five four
+B : three three one
+B : four seven O_
+B : five
+B : six
+B : seven zero seven
+B : nine one
+B : O_ four
+B : zero four seven
+B : one seven five two O_ four O_
+B : two nine
+B : three
+B : four zero five five two six eight
+B : six three eight nine zero nine zero
+B : seven six four seven
+B : eight six one
+B : nine
+D : Um, transcript two five three one dash two five five zero
+D : O_
+D : zero zero
+D : one O_ three five two one seven
+D : three one one zero six five six
+D : four three three six four six three
+D : five eight one one two four four
+D : six nine nine
+D : seven eight O_ one
+D : eight O_ O_
+D : nine
+D : zero one six zero
+D : one two three eight one
+D : two six zero four
+D : three nine
+D : four nine five
+D : five
+D : six zero four eight three
+D : eight two four two
+D : nine three three three
+D : O_ five
+E : I'm reading transcript two five five one dash two five seven O_
+E : zero six six nine five four seven
+E : one
+E : two
+E : three O_ O_
+E : five one
+E : six two five seven
+E : seven five
+E : eight
+E : nine
+E : O_
+E : zero zero five zero eight nine six
+E : two one three O_ five
+E : three five seven two three six zero
+E : four three
+E : five six nine nine
+E : six seven
+E : seven O_ six
+E : eight zero six five zero
+E : O_ three eight five four
+E : zero two
+C : I'm reading transcript two four nine one dash two five one zero on channel two.
+C : eight
+C : nine
+C : zero seven nine zero two
+C : one four O_ six
+C : two six three one
+C : three eight two O_ five eight four
+C : four
+C : five
+C : six O_ eight
+C : eight one two zero six
+C : nine six two zero four four three
+C : O_ seven three
+C : zero seven
+C : one
+C : two O_ five
+C : four one five one
+C : five six
+C : six nine
+C : seven five nine one three
+C : eight seven two nine seven two six
+D : Just finished digits.
+G : O_K. I'll be right up.
+D : O_K.
+D : I think  - I guess we can turn off our microphones now.
+C : Just pull the batteries out.

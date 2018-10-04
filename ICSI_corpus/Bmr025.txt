@@ -1,0 +1,398 @@
+B : the next - next occupants were pushing for it, so.
+B : and CrossPads.
+H : Does anyone have anything to add to the agenda?
+A : I can do that quickly. Um I hired several more transcribers, They're making great progress. Seve- several,  several.
+B : Oh.
+H : as a somewhat  segue into the next topic, um
+H : Oh,  is.  O_K. Just - So, "transcripts"
+F : That's the one that we're waiting to hear from them on.
+A : These are separate  from the ones that - I mean, these are -
+H : It's this
+H : Is my mike on? Yeah.
+F : with what we gave
+A : Hm-mmm.
+H : So at least on the one  transcript  for
+H : uh conveniently  you can now do information retrieval on it, do - type in a - a string and get back a list of start-end times for the meeting,
+F : I  see.
+H : Um, right now, I have a tool that will do  that on a command line using our standard tools,
+H : but my intention is to do a prettier user interface based either  -
+H : So - so that's the other thing I wanted to discuss,  do  for the user interface? We have
+H : two  SoftSound  web-based  one,
+H : but it does  mean you need to be running a web server.
+H : Uh and it would be difficult to port to Windows because it means porting the web  server to Windows.
+H : And so I think that's  go.
+A : as it stands within the - the Channeltrans interface, it's possible  to do a find and a play.
+A : I don't know, uh are they fuzzy matches or are they
+A : Hm-mmm.
+H : And so the work to get the front-end  to work would be porting it -
+H : uh to get it to work on the UNIX  our  side is just
+H : to work for meetings.  So that it understands that they're different speakers and that it's one big audio file instead of a bunch of little ones and just
+H : On which  tool?
+H : Click  with a mouse.
+F : get back a uh uh
+H : something -
+H : You - you'd get to listen to "beep".
+B : That was a really good look.
+H : You couldn't get a video.
+A : At some  is,
+B : And then again, maybe not. So, uh -
+H : there'd be minimal effort to get it to work, minimally  wanna   add things like query by speaker and by meeting and all that sort of stuff.
+F : that there's that set of tools, uh, Cygnus  tools, that -
+H : It certainly helps. Um, I mean without  attempt  it.
+H : But the problem  is that - that the THISL tools didn't use anything like Autoconf
+H : um it took me a day to get it c- to compile under Solaris  means it's probably gonna take me
+H : s- significantly more  than that to get it to compile under Windows.
+B : How about having it run under free   B_S_D?
+E : "gee it would be nice if this worked under Autoconf " and it'll be done in a day.
+H : That's
+E : Right?
+H : Actually you know I should check  SPRACHcore
+H : so he might have done  already.
+H : Yeah, right.
+B : If he has then you learn, if he hasn't then he'll do
+A : Wow.
+F : I hope he never listens to these meetings.
+H : That's right.
+A : It's amazing.
+H : SoftSound  guy, uh -
+H : Do I mean Tony? I guess I do.
+F : What about issues of playing sound  @@  between the two platforms?
+H : Well, that's  a good point too.
+E : Here's a - here's a crazy idea actually.
+E : Why don't you try and merge and THISL I_R?
+H : Well that's Snack,  not - not Transcriber.
+E : Right.  But the point is that the Transcriber uses Snack and then you can - but you can use a - a lot of the same functionality and it's -
+H : Yeah, yeah, I mean, I - I think THISL - THISL GUI probably  uses Snack.
+H : And if it doesn't  -
+E : do  it.
+H : Yeah.
+H : It might be fairly
+H : the search tools and so on. We - we can look into it, but -
+H : Yeah, I mean we have to - I have to sit down and try  it before I make too many judgments, so uh
+H : My experience with the Gnu compatibility library is really
+H : So I - it might  be a little easier but it's not gonna be a lot easier.
+B : So there was that  demo, which was one of the main ones, then we talked about
+B : um some other  stuff which would basically be
+B : um showing off the - the Transcriber interface itself  maybe  merge  those in some sense, but - but um,
+B : uh - and part of that was showing off what the speech-non- uh nonspeech s-  looks like.
+A : So with the I_R stuff then you end up with a somewhat prioritized um - ?
+H : Mm-hmm, ranked.
+G : So another  idea I w- t- had
+G : just now actually for the demo  was
+G : whether it might be of interest to sh- to show some of the prosody uh
+G : work that Don's  been doing.
+G : Um actually show some of the features  and then show for instance a task like finding sentence boundaries or finding turn boundaries.
+G : you know, you can show that graphically,  great  something.
+B : at the very least we're gonna want something illustrative  talk  graphically
+B : pointing at something I don't know  much about, so.
+C : Um yeah I'm starting  to and
+C : Yeah we can probably  find some examples
+B : S- so when we here were having this demo meeting, what we're sort  of coming up with is that we wanna have all these pieces together, to first order, by the end of the month
+G : Oh, the end of this
+H : This  month.
+G : Oh, you mean like today?
+B : Ju-
+H : Oh sorry, next  Today isn't
+G : Next
+G : Sorry.
+B : that'll give us a week or so to uh - to port things over to my laptop and make sure that  works, yeah.
+C : Yeah, I mean I'll  be here.
+G : you know, the research,  visualizing what these features are doing and so either -
+G : I mean it's different.
+G : done  this on meeting data so it might be neat, you know.
+H : So yet again we should probably meet to talk about transcription  happy  with what we have now.
+H : I mean it works with Transcriber  pain
+F : Start and end of each - ?
+F : Utterance. Just marks - ?
+H : So it's implicit  in  there but you have to do a lot of processing to get it.
+F : Right. Right.
+H : Um but regardless,  I mean, w- that's something that you, me, and Jane can talk about later. Um,
+H : extracting any information from any  of these files, either uh information on
+H : users
+H : various inf- uh sorted information on individual meetings
+H : and then also the transcripts.  And so l- just let me know there - it's mostly Java and Perl
+G : Oh, quick question  the seat information?
+B : Oh! Not - not the quality  I see.
+D : n-
+H : Right.
+B : Yeah.
+G : Alright
+H : Oh, but that  me.
+H : Um.
+E : Hmm.
+G : I'm just trying to figure out, you know, when Morgan's voice appears on someone's microphone are they next  across  from him?
+H : Maybe we should bleep that out.
+F : Wait a minute, how - how w- eh where  is it in the Key file?
+G : I mean I  in by  -
+H : You haven't  been putting it in.
+G : Right.  I have not. And -
+A : Isn't it always on the digits?
+B : Some  missing.  Aren't  they?
+B : Some fall out of -
+G : Well it-
+H : Yeah so we can go back and fill them   in for the ones we have.
+G : I mean they're on th- right, these,  Key  Chuck  was either cuz -
+H : I had
+G : O_K.
+H : or Key-edit - I think it's Edit-key,
+H : command -
+H : I did  show it to you, but I think you both said "no, you'll just use
+F : You mentioned  it, yeah. Yeah.
+F : Text.
+H : Yeah, and so if you don't fill it in, you're not gonna get it in the meetings. So.
+G : Right. Well I - I just realized I hadn't been doing it and probably - So -
+H : Yeah and then the other thing also that Thilo noticed is, on the microphone,
+H : on channel zero it says hand-held mike or
+H : you actually have to say  one.
+F : Oh! O_K. I didn't do that either.
+H : Yeah that's cuz you kn- I - I know why.
+F : I'm not doing  anything.
+G : And I was - I was looking at Chuck's,  Chuck  that
+H : And then uh also in a couple of places instead of filling the participants under "participants" they were filled in under "description".
+H : So anyway.
+H : Oh uh also I'm working on another version of this tool,
+H : the - the one that shows up here,
+H : it's hard to tell  whether the mike's connected or not because
+H : the best quality ones, the Crown ones,
+H : Um these - these  ones, they
+F : But with the screensaver  kicking in, it -
+H : Well I'll turn off the screensaver too.
+C : Oops. Speaking of which.
+H : Um the other  on
+H : the thing.  There's a little level meter
+H : but of course no one ever pays attention  to it. So I think having it on the screen
+A : It would be nice if - if these had little light  indicators, little L_E_Ds for -
+H : Uh buzzer.
+A : Yeah, a buzzer.
+A : Yeah.
+A : Actually -
+H : In fact what he  said is
+H : doing the manual one,
+H : doing uh N_W archive to copy it
+H : is a good idea
+H : and we should do that and  have it backed up.
+H : we should have the archive  archive  backup.
+B : Well I guess it is  up  it's
+B : Yeah, so the monthly full will be a bear but -
+H : shouldn't  too  much about that,
+B : Really?
+H : probably  O_K.
+H : Things that are recreatable easily and also - Yeah, basically things that are recreatable.
+B : O_K .
+H : And I - I think I agree with him. I mean  his point was well taken that
+H : I don't think there was any other et cetera  there.
+B : Well I was allowing someone else to come up with something related that they had uh -
+E : I thought  you guys were gonna burn C_Ds?
+H : Um unfortunately  burn  pain.
+H : And second of all the - the write-once burners as opposed to a professional press don't last.
+H : So I think burning them for distribution  is fine
+H : but burning them for backup  is not a good idea.
+H : fail  after a couple years.
+A : I do  have uh uh - It's a different topic. Can I add one top- topic? We have time?
+H : Yes, since Tcl-T_K runs  on it, basically
+B : Good.
+B : So we've never  used them.
+H : My  opinion on it is, first, I never take notes anyway
+H : so I'm  not gonna use it,
+H : um and second,  another  level of infrastructure that we have to deal with.
+A : And I have - uh so my - my feeling on it is that I think in principle  time  better  raw  other  hand,
+A : I - the down  me  was that
+A : I think the pen  is really noisy.
+A : So you have ka- kaplunk, kaplunk, kaplunk.
+A : And I - and I don't know if it's audible on the -
+A : but I - I sort of thought that was a disadvantage. I do  plus  time  markings but -
+D : Uh, what is  a CrossPad?
+B : So it's - it's um - it's a regular pad, just a regular pad of paper but there's this pen
+C : Thank you.
+B : which indicates position.
+B : stuff stored  written.
+B : And one of the reasons that it was brought up  originally was because uh we were interested in - in higher-level things, not just the, you know, microphone stuff but also summarization and
+B : so forth and the question is if you were going to go to some gold standard  was  it that happened in the meeting
+B : you know, where would it come  think  that was one of the
+B : things, right? And so the - it seemed like a neat idea.  We'll have a - you know, have a scribe,
+B : probably chose the wrong scribe  it was  It's uh -
+G : I mean -
+H : Yeah that's right.
+A : Well I did  one  time but um -
+A : but I guess the - the other
+A : lose  afterwards  and
+F : I mean we're transcribing  anyways,  notes?
+A : Oh it's la- it's useful,  summary  high
+H : Because that's summary.
+F : Summarize it from the transcription.
+G : Well, what if you're sitting there and you just wanna make an X_ and you don't  wanna take notes and you're - you just wanna
+F : Doodle.
+G : get  time  location like -
+G : you know, and - and then while you're bored  joke
+G : in - in other words you can use that just to highlight  times
+G : suppose you have a group in here and you wanna let them note whenever they think there might  might
+G : sort of alerts them  transcript  back they c-
+G : could get some red flags in that transcript  look  at it. So.
+G : I  w-
+G : I can imagine  time  periods which you then
+G : get back in a transcript  so.
+B : so, you know, what - what makes  maybe  we should actually schedule some periods where people go over something later and - and -
+B : not  transcribe  important.
+B : then you don't - you don't  have
+B : the time  reference
+G : And you don't have a lot of other cues  might  be useful, so.
+F : How do you synchronize the time in the CrossPad  recording?
+H : I mean that was one of the issues we talked  originally  and that- that's w-
+H : part of the difficulty  infrastructure  for using the time - the CrossPads and so that means synchronizing the time -
+H : You know you want it pretty close  skew  battery
+H : so you have to synchronize at the beginning of each meeting all the pads that are being used,
+H : so that it's synchronized with the time on that  and then you have to
+H : download to an application,  and then you have to
+H : figure out what the data  over  do  anything with this information.
+H : And so there's a lot of infrastructure  which
+A : is  alternative.
+A : There is  still,  there's uh - you know, your point stands about there be - needing to be an infrastructure, but
+A : it doesn't  synchronized  clock's  timer on it. You c-
+A : I mean, I - when I - when I  by
+H : Well, but then there's the infrastructure at the other end  listen  point,
+H : and then mark  it.
+G : Well, could we keep one  of these things for another year? Would h- I mean is there a big cau-
+H : We can keep all - both  of them for the whole whole year. I mean, it's just -
+G : even maybe some of the transcribers who might be wanting to annotate
+G : it might  not be the case that we can actually
+G : synchronize them and then do all the infrastructure but we could at least try it out.
+H : Yep.
+B : and so forth so and - and Jane is  more into it but eh uh
+B : you know I don't know if you wanna really do - do  this all the time so I think the thing is to -
+B : to get someone to actually buy into  some  do  it.
+B : and if so,  one.
+G : that happen that you just wanna make a note of,  like what Jane was talking about
+G : So what kind of input would you be - ?
+E : But you could imagine, I mean, if - if all  wanted  was - you didn't want this
+E : secondary note-taking channel  markers  of some sort,
+E : a P_D_A with a l- a wireless card would be the - probably  the right way to go.
+E : I mean even buttons  sort  of, I mean, as you said.
+H : I mean for what - what you've  else,  right? You have the -
+G : That would be fine too. I mean, I don't have, you know, grandiose ideas  in mind but I'm just sort of thinking
+G : well we've - we're getting into the next year now and we have a lot of these things worked out at - in terms of the speech  somebody  interested  in this and -
+B : Yeah, I do  like the idea of having a couple buttons where like one - one button was "uh-oh"
+H : Well I'm sure  there would -
+B : and then another button was "that's great" and another button "that's f-"
+G : Or like this is my "I'm supposed to do this" kind of button, like "I better remember to -"
+A : Yeah.
+G : Yeah something like that or -
+H : I mean I think the CrossPad  idea is a good one.
+H : it's been a lot of extra work for me
+H : and -
+H : Well it's digital  but it's in a format that
+H : is not particularly standard.
+A : if you're writing - if you're writing notes in it does - it - it can't do  handwriting recognition, right?
+A : Oh, nicely put.
+G : Well it also - it's maybe  bringing
+G : things that you could do  have
+G : keep it for a year - I don't know.
+H : w- we don't - we certainly  he  are  keep  it.
+H : The point  all  are  going  to?
+B : Because we - we you know, we - we haven't  used it at all.
+G : We c-
+B : We have some aspirations  of using them and -
+G : Maybe we could do like a student  project, you know, maybe someone who wants to do this as their main like
+G : Well, I'm - yeah,  not  a bad -
+B : Yeah, yeah.
+G : sounds  funny but I think it should be cool, so.
+H : Sounds breathy
+H : Breath and lau- "ha-ha-ha-ha".
+G : "Ha-ha-ha."
+B : Well  dear.
+B : Hmm.
+H : Oh, equipment.
+G : You're - you're gonna tease  me? O_K.
+H : Ordered - Uh, well I'm always  that.
+H : wireless,  and so they should be coming in at some point.
+B : You know what he means but isn't that funny sounding? "We ordered more wireless.  wires  things  wiring   you  absence
+G : statement from Morgan. I just - it's sort of a anachronism, I mean it's like -
+H : wired less
+B : Anyway.
+A : O_K.
+B : recognition  runs, trying to figure things out about the features but it's -
+H : So just the transcript number and then the - then the -
+B : See all you have to do is go away to move way up in the -
+E : Oh.
+G : We could do simultaneous.
+G : Initiate  him.
+B : We - we could.
+H : Should we do
+G : Well, I'm just thinking, are you gonna try to save  in?
+H : I mean you hav- sorta have
+H : Well I  other  people.
+D : You don't have  to.
+H : Transcript L_ one six five.
+B : Transcript L_ dash one six four.
+D : Transcript L_ one six one.
+F : Transcript L_ dash one six two.
+C : Transcript L_ one sixty.
+G : Transcript L_ one six six.
+A : Transcript L_ one five nine.
+E : L_ one six three.
+H : zero, one six zero, two seven, six four seven, eight
+C : zero nine six five, five, one five one
+G : three O_, six nine, three nine, four six, nine seven
+D : zero five, four eight, seven eight, eight seven, four five
+F : five four six, eight one, three two seven two
+A : three seven eight two, two three two five, nine five nine seven
+B : two six four seven, five, two nine eight
+E : five seven nine, five six, five O_ four one
+C : two, two five five, eight nine, one eight two, six
+G : three six five, O_ six, two three six seven
+F : six zero six two, zero five four five, eight five four three
+H : six four six one, three, three two two
+B : six three one one, six eight five five, two two four three
+E : six nine five nine, one, one one six
+A : five two nine seven, nine seven seven one, five O_ two four
+D : six four three, nine nine eight, three one nine two
+H : O_ five, four O_, nine six, three seven, one O_
+G : nine three seven, seven six, three nine four eight
+C : four nine three, four zero two, five eight two
+E : seven nine five, four four seven, four three four six
+B : three zero one, four four, two one zero four
+F : seven three five, six two two, zero two six four
+A : five eight eight nine, nine, seven nine seven
+D : six six nine, four nine, four four, O_ nine
+G : four five, eight O_, four three, seven five, nine three
+H : three seven, four one, eight  O_  nine
+C : one zero one two, eight, zero six five
+B : Four, four eight six, five three, seven four five, two
+A : six nine seventy
+F : four four, seven zero, five five, three
+E : O_ eight, six eight, nine, five one nine
+H : three eight three eight, four, two four nine
+D : six one seven, three O_ six, three three four nine
+G : eight nine five, four three nine, O_ eight six
+C : four three four nine, nine six six three, zero four four five
+A : three two six two, eight eight three one, four two five one
+E : O_ five one, three two, two O_ seven three
+B : six five seven, six
+F : two five one, seven two three, four eight six
+H : five five, five seven, eight eight, eight three, six three
+G : six, two three seven, three two, nine seven five, one
+D : seven one six three, four, five four four
+A : eight one, one four, three zero, five four, seven five
+E : nine, nine O_ two, three seven, eight three zero, eight
+C : four seven five, two nine seven, seven four five one
+B : zero seven seven, eight four, five six nine one
+H : four nine three, O_ eight one, four five seven
+F : three one three seven, six eight zero seven, three two four two
+G : nine four, three two, one seven, seven six, six three
+D : five five O_ five, three, two three five
+B : seven two four, nine two, zero eight, seven three
+C : nine, three six four, six three, nine six nine, six
+A : five four seven O_, nine, nine seven four
+H : six five five four, four three three three, O_ four two five.
+E : zero six four four, O_ four O_ three, three
+G : six five nine, two seven, two eight, one two.
+F : eight two four, three two eight, two four zero nine
+D : eight one six zero, four, O_ seven three
+A : Sorry.
+B : nine four two six, six nine eight five, five three four four.
+C : three zero zero nine, seven, eight four two.
+A : five four seven O_, nine, seven nine four
+F : four four two, five one, nine eight two five.
+E : two one four five, eight, four two six.
+D : four four five, four nine, nine six six six.
+A : Nine six, two three, four eight, eight eight, seven nine.
+B : O_K, babble, take five.

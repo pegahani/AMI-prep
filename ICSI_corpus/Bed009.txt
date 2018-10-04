@@ -1,0 +1,325 @@
+E : Two, two.
+E : Two. Oh.
+F : Uh, wanna give them all with German accents today or - ?
+B : My transcript number is L_ ninety-five.
+B : three two three, O_ nine, seven seven three five
+B : two two one, four O_ eight, two one one five
+B : one six zero zero, eight, seven O_ nine
+B : six four four O_, four, five six two
+B : eight five O_, five nine three, five two six one
+B : three five eight, one O_ five, six two four
+B : four six eight four, eight five five one, four two two nine
+B : O_ five seven, five six, O_ seven three two.
+D : Uh, my transcript number is, um, L_ n- ninety-one
+D : one four one six, two, eight six one
+D : three w- one five seven, O_ three nine five, eight, w- uh, O_, six six
+D : two two, four two, O_ three, one six, one four
+D : three four one, six one seven, one three four O_
+D : six five
+D : four O_, u- eight four, nine two, u- one two, s- six five
+D : eight six, six six, one three, one one, one O_
+D : two
+A : O_K, my transcript number is L_ ninety-two.
+A : eight five O_, three four two, one three seven six.
+A : O_ six three two, four nine seven O_, six O_, six eight.
+A : six three six, five six four, nine three O_ six.
+A : six four one, eight seven, six O_ O_ six.
+A : eight O_ seven three, one seven seven zero, seven five five six.
+A : four four, five six, six O_, four five, one O_.
+A : eight four five, eight four one, one O_ three seven.
+A : one O_ seven two, six seven seven four, one seven O_ O_.
+A : O_K.
+A : Hi. Uh-huh .
+A : Nice to meet you.
+E : O_K.
+F : O_K that sounds great.
+F : So, you guys enjoy your weekend?
+D : Yeah, very much
+F : O_K, before - before you got put to work?
+D : Yeah
+F : Sort of one branch  is to get us caught up on what's going on.
+F : Also of course it would be really  plans  code.
+F : It probably will work better if we do it later in the week, after we actually understand
+A : Um we're here through Sunday, so
+F : so anyt- we'll find a time later in the week to uh get together and talk about your  understanding of what SmartKom plans are.
+F : um
+F : What - what does not  earlier  in the day on Thursday,
+F : or most  of the time on Friday, not all.
+B : Neither does Thursday morning, no?
+F : @@
+E : I was just thinking I w- I will leavened by
+A : O_K.
+A : O_K.
+A : Yeah obviously.
+B : @@
+A : Yeah.
+B : person more   likely to want to walk there?
+B : the underlying intention was.
+B : at least we  offer  the
+B : t- s- Ultimately if you have - if you can offer  that information, somebody's gonna s-
+B : do  something with it sooner or later. That's sort of part of our belief.
+E : What was he saying?
+F : No no. It's a good time to pause.  I s- I
+F : see questions on peoples' faces, so why don't - let's - let's -
+A : Oh-
+D : Mmm.
+F : That's what it should  do. Right, yeah.
+F : That w- O_K that was one  question. Is there other - other things that
+F : cuz we wanna
+F : Pa- pass over any you know, questions or concerns that you have.
+D : Mmm.
+A : as far as I'm concerned as
+F : Let me s- little  bit from the point of view of the generation.
+F : Robert didn't bring  it today but there's a -
+F : There's a first  cut  at a belief-net that - that doesn't - it - isn't fully uh instantiated, and in particular some of the - the combination rules and ways of getting the - the conditional probabilities aren't there.
+F : So one  of the decisions is what we call this A_V_E thing.
+F : which of those it is  and give it to the planner.
+F : But,
+F : decision
+F : and if the belief-net is equivocal
+F : Alright? Now there are two ways one can go - a- imagine doing  that.
+F : For the debugging  we'll probably just have a - a drop-down menu and the - while you're debugging you will just - O_K.
+F : But for a full system,  well  query,
+F : ar- are you know you - are you planning to enter?
+F : So that's - under that  then,
+F : There would be a - uh - um a loop  in which this thing would formulate a query, presumably give it to you.
+F : you know, you'd get an answer back.
+F : O_K so, that
+F : uh, We probably won't  do this early on,
+F : try to close  loop "
+A : uh will be what the action planner
+A : Well uh Marcus Lerkult  is actually implementing that
+F : So we ha- we have  to get in on that.
+F : partly  like  X_schemas.
+B : Hmm.
+D : uh, No, it's - it's also a quantrant  uh uh -
+D : I think.
+F : one  thing
+F : is there's an actual planner  that tells the person in the tourist domain now,
+F : per- tells the person how to go,  here,  there
+F : uh, you know, take a bus ", whatever it is.
+F : isn't  what you mean.
+F : Well, O_K, so that's what I thought.
+F : dialogue  act. Yeah.
+F : O_K? And I think that we do  O_K
+F : when - so, when you get to the tourist  domain
+F : it's not just an information  retrieval system.
+F : So, if it's only  V  thing,
+F : But what happens when you actually get them moving  and so forth and so on
+F : interacts with - with where the tourism g- stuff is going
+F : have thought  ahead
+F : O_K. Could you - could you put a message into the right place to see if we can at least ask  that question?
+A : completely settled there so this is really an ongoing discussion and that's
+D : Yeah, it's - it's not defined yet .
+D : Mmm.
+B : action planners that work with belief-nets that are action planners that work with you know state automata .
+F : Yeah, th- there - there - I think there are a lot  of reasons why it matters.
+F : uh, for example,  the i- it's the action planner
+F : is going to take  spec  and s-
+F : make some suggestions  about what the user should do.
+F : What the user says
+F : after  that
+F : the action planner told  it. If the -
+F : If the parser  and the
+F : language  end
+F : doesn't  know  told
+F : O_K th- it's you're making your life much  more difficult than it has to be.
+F : to uh go  taxi,
+F : let's say. Now the planner  wanna  fast,  taxi.
+F : the language end doesn't know  that.
+F : O_K, there's all  dialogues  that won't make any sense which would be
+F : just fine.
+F : @@
+F : Yeah, but this is not the st- this is not  state  discourse.
+F : This is actually the state  plan.
+F : uh, It's great  if people are already
+F : taking  account.
+A : So, there's work to do there.
+F : the input  fair  feedback
+F : from the planning  end.
+F : In - in one of these things which are - are much more continuous than the - just the dialogue over movies  and stuff.
+F : of getting the terminology   changed so that the dialogue planner was called a "dialogue planner"?
+F : Because there's this other  thing-
+F : The o- There's this other thing in - in the tourist  domain which is gonna be
+F : a route  really  gonna be an action planner.
+F : And
+F : I would think,  yeah.
+D : Mmm.
+F : Huh?
+F : I- if - if that c- in- persists then we're gonna need another  term.
+F : That ha- has all  the wrong connotations.
+F : Yeah .
+F : It's tricky because one could well  out  to be the case that
+F : will fill in some parameters about what the person wants. One could well  imagine
+F : that the next thing that's trying to fill out the detailed
+F : uh, route  also  like  to ask the user.
+F : You could well  choice  know  something.
+F : And so y- you would like it t- also  be able to
+F : uh. the dialogue  output  around.
+F : And a- I- a- a good  design would - would
+F : allow that to happen.
+F : If - if you know if - if you can't make  best.
+A : Yeah
+F : I totally agree. But - but what it nee- but th- what the point is the- in that case the dialogue  event  driven.
+F : So the dialogue  dialogue  state
+F : of one  sort, and this -
+F : one of these planning  right  now we need
+F : So that forces  the dialogue manager to change state.
+B : Hmm.
+F : How's it -
+D : uh you can access   this
+F : And as you say it's just a surface pattern  matcher.
+F : Uh, So what are - what are the plans  roughly?
+D : There um there's often
+F : Oh, you  You  have to do it, yeah.
+D : Yeah, ah and so
+F : I  see, so
+D : but uh, Miel  syntactic analysis with um finite state transducers.
+F : People at D_F_K_I have written  parsers.
+F : Other - you know, people  years.
+F : uh have written  various parsers at D_F_K_I. None of them
+F : So, um - So there was a chunk  parser
+D : @@
+F : in Verbmobil,
+F : that was one  of the
+F : branchers.  You know they - d- th- I c- There were these various
+F : uh, competing
+F : uh syntax  modules.
+F : And I know one  chunk  don't  remember
+F : who  did  that.
+F : There w- That's right. They w- They had - There were - This was done with a two
+F : the chunk parser itself was pretty stupid  and then there was a
+F : kind of trying  fit  together  that
+F : h- used more context.  Right?
+A : um Mark Light  originally w-
+F : But is that the kind  sounds  like
+F : the kind  of thing that you were thinking of.
+F : Hmm .
+B : So this is sort of - came as a surprise to me  that
+B : you know, embassy s-
+B : but it's what I hear.
+B : And they're  doing
+B : Then there is of course more  ways of parsing things.
+F : Of course.  But - But
+F : constraints,  small  fast  so  forth,
+F : probably  chunk  parsing.
+F : I'm not  a big believer in this um
+F : There is this - this one that they did at S_R_I some years ago - Fastus ?
+F : It is.  Yeah. I mean - it's - it was pretty ambitious.
+F : And of course it was English  oriented, um
+D : Purely   finite-state transducers are not so good for German since there's um
+F : point  morphology  and stuff.
+D : The word   order is - is uh not fixed
+F : And English is all th- all word  order.
+F : And it makes a lot more sense.  And -
+F : uh most  of this done with
+D : @@
+F : So y- you  just
+F : the stemming  information.
+D : system we can use and so.
+F : I didn't n- see  it being used in the current
+F : template  uh parser.
+F : Uh - of course we  English.
+F : Did we look at the German?
+F : i-
+D : @@
+D : What?
+B : We threw out all the forms because, you know, English, well -
+F : Cuz I r- I didn't reme- I didn't think  I saw it.
+F : Have we looked at the German?
+F : Oh, I haven- yeah that's - getting it from the lexicon is just fine.
+F : Yeah, yeah, yeah. that.
+D : Oh yes .
+F : Yeah and here's  really  be
+F : significantly  different.
+F : You really might wanna do it in a significantly  different way.
+F : I don't
+F : So you've - you guys have looked  at this?
+F : also?  in terms of
+F : Set.
+F : O_K.
+F : Interesting.
+F : Right.
+F : Now actually,
+D : Oder   uh
+F : Great.  going  to that.
+A : @@
+F : That's good, because that  will
+F : uh tell  you
+F : a fair  amount about
+F : form  construction  grammar that we're using. so -
+F : So I th- I think that probably as good  an introduction
+F : as you'll get.
+F : uh - conceptual  grammar that - that w- we
+F : have in mind  for this.
+F : It won't
+F : talk particularly
+F : about how that  relates to what
+F : uh Robert  beginning.  very  version  of this.
+F : So we talked  fact  that
+F : There're going  be
+F : a certain  decisions
+F : That you want  knowledge  make,
+F : that will be then fed to the function  module,
+F : uh, route  planning.
+F : one  half  little  bit is
+F : how if  had  information,  said  and about th- the something about
+F : was the agent
+F : a tourist  native  business  young  old,  whatever.
+F : Is it a castle,  bank?  town  statue?
+F : into decision  decisions.
+F : But the other  half  of the problem is
+F : How would you get  parsed  input?
+F : So what you might  templates,  somehow  would capture the fact that
+F : he wants to take a picture.
+F : O_K? And - and we could - you could do  this.
+F : And it's a small  enough domain that probably you, you know -
+F : O_K . You could do this. But
+F : uh from our  point of view this is also a research project
+F : and there are a couple of people not  here
+F : for various reasons who are doing doctoral  dissertations on this,
+F : the idea that we're really  after
+F : is a very  deep  cognitive  linguistics  relatively  small  number
+F : of primitive  schemas  characterize  activity.
+F : So a typical  formulation  container.
+F : So this is a static  thing.
+F : all sorts of physical  situations
+F : are characterized in terms of containers.  Going in and out
+F : But also, importantly for Lakoff and these guys is all sorts of metaphorical
+F : things are also  characterized   trouble  and so - s-
+F : So, what we're really  trying to do
+F : is to map from the discourse
+F : to the conceptual  semantics level.
+F : And from there
+F : to the appropriate decisions.
+F : So another  one of these primitive,
+F : what are called " image  schemas",
+F : is uh goal  seeking.
+F : And the idea is this is another conceptual primitive.
+F : And that all sorts  particularly  terms  analyzer  utterance
+F : th- this  utterance is talking about an attempt to reach a goal.
+F : very wide coverage. So if you can do  this,
+F : then the notion would be that across a very  large  domains,  conceptual  interface.
+F : The processing  both  input  end,
+F : recognizing  certain  words  talk  about  containers  goals,  cetera,
+F : and on the output  information,  you can then
+F : uh make  decisions  actions  take.
+F : Provides,  claim,
+F : a very powerful, general
+F : notion of deep  semantics.
+F : So that's  really  doing.
+F : And Nancy  talk
+F : is going to be not  learn
+F : Well that's - that's - that's where the belief-net comes in.  So th- the idea is,
+F : let's take this business about going to the Powder-Tower.
+F : So part  and  situational  information.
+F : Uh, O_K, part of it comes from the ontology.  this  user  model.
+F : And the idea of the belief-net  is it combines
+F : information  dialogue  general  way,
+F : along with specific  ontology  situation
+A : O_K, Yeah, yep yep yep yep
+F : about "Is it raining?" I don't know. Whatever it is. And so that's the belief-net that we've laid out.
+F : And so th- the coupling  to the situation comes in this model from, at th- at th- at the belief-net, combining evidence from the dialogue with the ontology with the situation.
+F : But Nancy isn't gonna talk about that,  just about the
+F : Right. The - the construction  grammar.
+G : Is it i- in, then, your   place, in five -

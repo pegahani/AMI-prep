@@ -1,0 +1,452 @@
+C : I think the date's written in there, yep. And actually if everyone could cross out the R_nine next to "Session", and write M_R eleven.
+E : Yeah. We didn't have  a front-end meeting today.
+C : And let's remember also to make sure that one's gets marked as unread, unused.
+F : That sounds like a spy code.
+C : There's  correctly.
+E : Any agenda items   today?
+C : how we're gonna to get people to edit bleeps,
+C : What I've done so far, and I wanna get some opinions on, how to - how to finish it up.
+F : on some of the well
+F : In listening to some of these meetings that have already been recorded there are sometimes big spikes on particular things,
+F : and in pact - in fact this one I'm talking on is one of - of the ones that showed up in one  of the meetings, so I - Mm-hmm. Yeah.
+B : "Spikes", you mean like uh, instantaneous click type spikes, or - ?
+A : Touching.
+C : Yeah. Right.
+B : go and when they go to transcribe it, it could, ask them to come and get you.
+B : No I'm just - @@
+E : what we would do -
+E : what you would do is - in testing  do  all this wiggling and
+E : Um. Let's see. I guess I would like to have a discussion about you know where we are on
+E : uh, recording, transcription you know, basically you know where we are on the corpus.
+E : um.
+E : the fact that he would kinda  like to know,
+E : if possible,  what we were gonna be talking about because
+E : sort of peripherally  involved to this point,
+E : part  is that  out,  in the -
+E : he figures he could help that out by not  showing - and - and I'm sure help
+E : by not showing up if it's a
+E : this is a wish  on his part. Uh. It's actually gonna be hard because it seems like a lot of times
+E : we could try  anyway, uh,
+C : Well maybe it would be a good idea for one of us to like on Wednesday, or Tuesday send out a reminder for people to send in agenda items.
+B : That'll be - I think that'll help -
+C : I'll put that on my spare brain or it will not get done.
+E : And uh, she ends up getting the agenda requests uh, uh ten minutes before the meeting. But - but - But.
+E : Uh.
+E : But we can try.
+C : Yeah. Maybe.
+C : Yeah, actually I - I was going to say we need to talk about that too.
+C : O_K. Um, the new microphones, the two  new ones are in.
+C : Um. And they are being assembled as we speak, I hope.
+C : Um, and then the other question  thinking  about is -
+C : well, a couple  things. First of all,
+C : Um, then the other  wireless.
+C : Another wireless setup. I mean it's expensive,  wired.
+C : possibility of six wireless receivers, and apparently you can  chain those together.
+C : And we have  five, we're getting one more.
+B : So we're not increasing  the number of channels.
+C : No, we're just replacing the wired - the two wired that are still working,
+C : along with a couple of the wired that aren't  working,
+C : one  of the wired that's not working,
+B : I checked them this morning, they should be.
+C : Well,
+C : Maybe this needs to be bleeped out? I have no clue.
+E : Um. But - but yeah I thin- I think that at least the message we can tell other people is that our experience is - is quite positive with the Sony, uh, radio-mikes .
+E : Now the one  have  said that actually concerns me a little is you're talking about changing the headsets meaning changing the connector,
+C : Uh, no, we're having the - them  do  it. So it's so- hand-soldering it, but I'm not doing it.
+C : So, they - they charge right.
+E : Nothing against you and your hand-soldering
+C : You've never seen  my hand-soldering.
+E : O_K, so that's being done professionally and - Yeah.
+E : Well, we'll see what it - it's like. That - tha- that can  be quite good.
+C : And, I mean we'll see, tomorrow,  you know, what it looks like.
+E : so he'll be interested in what's going on with that.  I guess - Was - the decision last time was that the -
+C : Right, so, the decision was that Jane did not  paperwork.  that  last week.
+C : So all the - all the forms  on the computer.
+C : let the uh transcribers use different tools. And I just want to talk to Jane about how we transition to using those.
+F : Mm-hmm.
+F : O_K.
+C : I've already done five or six sets.
+C : So if he wanted to, you know, just have a few to start with, he could.
+E : Yeah, he might - he might be asking -
+E : if he's invited to these meetings, uh
+E : if he knows.
+F : I don't tend to get an invitation myself  for them even.
+F : Yeah.
+F : Should we call  available  today?
+A : He was  in. Yeah.
+C : I mean, he's still  taking classes, so uh, he may well have conflicts.
+A : Yeah, he was in s-
+C : Yeah didn't he say his signal-processing class was like
+E : So, that's why we're not seeing him. O_K.
+F : Um -
+C : Well, we have about thirty-two hours uh
+C : I guess a week and a half ago, so we probably now have about thirty- five
+C : Of - of non-digits?
+F : O_K, and the transcribers h- I, uh, don't have the exact numbers, but I
+F : think it would come to about eleven hours that are finished uh, transcribing from them right now. clean  first,
+F : and then channelized.  clean  is that they're spell-checked, that the mark-up is consistent all the way throughout, and also that we now incorporate these additional conventions that
+F : uh, Liz  in terms of having a s- a
+F : I - I mean, a certain number of them did  put the words down,
+B : if you um, just take all the transcriptions and separate them into words and then alphabetize them,
+B : a lot of times just scanning down that list you'll find a lot of inconsistencies and mis-
+F : Y- you mean just uh on each - on each line there's a one word right?
+F : Well that's - that's a way - that's - You know, the spell-check
+F : basically does  I  wanna do in terms of locating these things which are
+B : Mm-hmm. Cuz a lot of times they'll appear next  to each other,
+F : Exactly.  And then you ca- then you can do a s-
+B : and uh, i- in alphabetized lists,  next  to each other
+F : And that was - that's my  lot  glossed.  I didn't get to that point but -
+F : I haven't been asking these people to do it systematically cuz I think it most - ha- most efficiently handled by uh - by a - a filter. That was what I was always  exactly  you're  saying,
+F : you get a whole list of things that say "curly bracket laugh  curly bracket",
+F : than if you have this transcriber ch- laboriously typing in sort of a  VOC space, so man-
+F : um I'm - I'm going to convert that via a filter, into these tagged uh, subcategorized comments,
+F : and same thing with you know, we see  you get a subset
+F : when you do what you're  saying, you end up with a s- with uh, you're collapsing across a frequency you just have the tokens and you can um, have a filter which more efficiently makes those changes. But the numbers and acronyms have to be handled by hand, because, you know I mean, jus-
+F : Yeah now TIMIT's clear um but uh there are things that are not so well known, in - or - or have variant - u- u- uses like the numbers you can say "nine two" or you can say "ninety-two", and uh
+F : clarifying  whatever.
+F : Maybe it's a nice thing to do because of it then indicating this is
+F : uh, a step away from i- indicating that it really is intentional that those spaces are there, and indicating why they're there to indicate that it's uh the
+F : you know, specific uh way of stating these - these letters.
+F : And at that  point then it's ready for use by Liz and Don.
+F : But that's been my top priority - beyond getting it tanel-  channelized, the next step is to work on tightening up the boundaries of the time bins.
+A : Yeah.
+F : And uh, Thilo  had a - e- e- a breakthrough with this - this last week in terms of getting the channel-based um
+F : Oh  yes.  Well you see that's part of the cleaning process. I spent
+F : um actually um I have a segment of ten minutes that was transcribed by two  of our transcribers,
+F : Uh - and so because it's not part of our st- of our ne- needed  conventions.
+F : and - so they'll be a difference in commas,  same,
+F : in - in huge  sometimes  it turns out that one of these transcribers has a better ear for technical jargon, and the other one has a better ear for colloquial speech. So
+F : um, the one i- i- the colloquial speech person picked up "gobbledy-gook". And the other one didn't. And on this  didn't.
+F : It was an interesting approximation, put in parentheses, cuz I have this convention that, i- if they're not sure what it was, they put it in parentheses.
+F : Yes. More of an attempt to - I mean apparently it was very clear  sound  sounds,  but -
+C : It was a technical term that she didn't recognize,
+F : Yeah. But she knew that she didn't know it. Maybe it was a technical ter- exactly. But she - even though her technical  perception is just really - uh you know I've - I'm tempted to ask her if she's taken any
+F : And some of these are rather uh unexpected.
+E : And - and again the main  track that you're working with is elev- eleven hours? Is that right?
+F : Yes it is. Mm-hmm.
+E : So let's say roughly ten hours or so of -
+F : But um the - the total set that I gave them is twelve hours of tape,
+B : Boy, they're  along.
+F : Yeah. They are.  Mm-hmm. They're very efficient.
+A : Oh, it's just uh, I ran the recognizer - uh,  speech-nonspeech detector on different channels and,
+A : and so I'm - I'm working on it. So, I hope -
+A : I mmm, use some - some different features but not - not - The basic thing is this H_M_M base.
+E : What are some of the other features? Besides the
+A : Oh I just uh - Mmm,
+A : To -
+A : I'm not sure about the term.
+A : Uh, I'll look it up.
+A : Uh, O_K, and - Yeah. That's - that's basically the - the - the thing.
+A : because they're,
+A : yeah to - to be able to distinguish between foreground and background  speech.
+A : And it works quite well. But, not always.
+E : Uh-huh.
+C : The idea  is that we need to have - We need to provide the transcripts to every participant of every meeting
+C : uh with  them   piece   check  on each one if they want it excluded.
+C : And then, it's a form,  H_T_M_L form, so they can submit it and it will end up sending me email with the times that they want excluded.
+C : And so, uh, some of the questions  on this is what do we do about the privacy issue.
+C : And so I thought about this a little  best  single  person  will have a single password, user name and password.
+C : And then each meeting,  we'll only allow the participants who were at that meeting to look at it.
+C : And that way each person  only has to remember one password.
+E : Uh, I mean, for me  I would actually want to have some pieces of paper that had the transcription and I would sort of flip through it.
+E : And then if I thought it was O_K, I'd say "it's O_K".
+C : other reasons.
+C : So m- what my intention to do is that as the transcripts become ready,
+C : um contact  them using the contact method they wanted,
+C : and just uh, tell  them, "here's the web page",
+C : and question number two  is how else do we wanna provide this information if they want it.
+E : That's -
+E : I think what I was sort of saying is that if you just say
+E : and if it is,  other  sheet of paper that you sign that says that it's O_K". And then they'd hand it back to you.
+C : But certainly I  big,
+C : Cuz you're gonna get, you know, if I - I'm - I'm in a bunch  stack  and visit it as I want.
+E : Going to a web site is easy, but flipping through a hundred pounds - a hundred pages of stuff is not  easy on the web.
+F : transcript?  Because I - I do think that there's a benefit to being able to hear the
+F : tone
+E : And then there'll be a subset  subset  of people,
+A : Yeah.
+E : the easiest way to flip through, if it's a really  large  document,
+E : I mean unless you're searching.  Searching,  search  mechanism you go to every place they said something or something like that, but see then we're getting more elaborate with this thing.
+E : you don't have search mechanisms you just sort of have this really, really long document, I mean whenever I've had a really,  really long document that it was sitting on the web, I've always ended up printing it out.
+E : that out of that  group, there would be a subset who would go "hmm you know I'm really not sure about this section here,"
+E : and then that  group would need it -
+E : the most  frequent  case.
+C : For the most frequent case they just say "it's O_K" and then they're done.
+C : And I think almost everyone would rather do that by email than any other method.
+C : I mean, cuz you don't have
+C : Oh that was another thing I - I had assumed  that we didn't need their signature, that it - that an email approval was sufficient.
+C : But I don't actually know.
+F : I also - mm-hmm.
+C : then I - I - I think they should  be allowed to do that.
+E : Uh
+B : I don't know if I like
+C : Well, the only other choice is that the person would say "no, don't distribute this meeting at all ", and I would rather they were able to edit out other people then just say "don't distribute it at all".
+E : was something that said you can use my  voice.
+C : if someone is having a conversation, and you only bleep out one side
+E : Yeah, but that's our  decision then. Right?
+C : Um, I don't think  so.
+C : I mean, because if I object  say
+E : I  think it is.
+C : and I consider that your side  enough  for other people to infer, I wanna be able to bleep out your side.
+F : The - I agree that the consent forms were - uh, I cons- agree with what Adam's saying, that um,
+F : And the other thing is from the standpoint of the l- of the l- I'm not a law- lawyer, but it strikes me that it was too hard to access".
+F : So I think it's kind of nice to have this facility to listen  hand,  would  bleep  part
+E : Um I mean it's also a mixture of people, I mean some people are r-
+E : do their work primarily by sitting at the computer, flipping around the web, and others do not.
+E : In the meetings so  far, yeah.
+E : No, I think we  they  want to print it out. I - I think -
+C : Well, I don't think I - well I don't think we can send the text  through email because of the privacy issues.
+A : Yeah.
+F : @@
+C : Yeah, I'm just thinking for people that that's not sufficient for, what - the only sufficient thing would be for me to walk up to them and hand  it to them.
+F : But I think it's easier to drop in the box.
+C : I mean that's why I did the web form, because for me  that would be my most convenient.
+E : I - I - I understand. I think that's  the bad idea.
+C : Oh.
+E : Really.  really  bias  towards letting it go.
+E : but overall  people are talking about technical topics. Nobody's gonna get hurt. Nobody's being l- libeled.
+E : If we really  really  easy, we're gonna end up encouraging a headache.
+E : That - I think that's -
+E : I'm sort of psyching myself  out here, I - I'm trying to - uh - but I - I think that's -
+E : Well, it's - but i-
+E : And - and it really  depends on what kind of research you're doing.
+E : I think some researchers who are gonna be working with this corpus years from now are really gonna be cursing the fact that there's a bunch of stuff in there that's missing from the dialogue.
+E : You know, it depends on the kind of research they're doing, but it might be, uh it might be really a - a pain.
+E : And, you know where it's really
+E : we definitely want to allow the option of it being bleeped out. But I really  rare  incidence.
+E : And - and uh, I am  do,  fun!
+E : and they can bleep out stuff they don't like  too, right from somebody else, as you say, you know, so "well I didn't like what he said."
+C : Well I don't see any  have  to provi- we have promised that we would provide them the transcript and that they can remove parts that they don't like.
+C : The only  question is -
+E : You- you've talked me into that,
+B : first Adam goes to the contact lists, contacts them via whatever their preferred method is, to see if they want  to review the meeting.
+B : And then if they don't,  do,  then he provides them access to the - the web site.
+C : Well, to some extent I have to do that anyway  passwords.
+B : Or  - a printed-out form.
+E : but you don't necessarily have  to distribute passwords is what I'm saying.
+C : what I'm saying  is that I can't just email them the password because that's not secure.
+B : Only  if they want it.
+C : So they have to call  me and ask.
+E : But - we don't even necessarily need to end up distributing passwords at all.
+F : Mm-hmm.
+E : uh fall off a log, to do  this.
+E : So th- so what I  would see, is that
+E : And then if they say that "I have a potential problem with these things," then,
+C : I would much prefer  want  to. Obviously they don't have to.
+E : I know you'd prefer  problem  with it.
+F : I'm also concerned about the spirit of the - of the informed consent thing. Cuz I think if they feel
+E : Well you can go too far in that direction, and you need to find somewhere between I think, because -
+C : If you have a problem  with it contact me and I'll give you a password",
+F : them,   I mean we could offer that - but - but there's uh, another aspect to that and that is that in the informed consent form,
+F : um, my impression is that they - that we offered them at the very least that they definitely would  have access to the transcript. And - and I ha- I don't know that there's a chance of really skipping that stage.
+E : right  to have it.
+F : Giving it to them.   O_K.
+E : fool  them,
+C : "If you agree to participate you'll have the opportunity to have anything ex- anything
+C : "Once a transcript is available we will ask your permission to include the data in the corpus for the r- larger research community. There again you will be allowed to indicate any sections that you'd prefer to have excised from the database, and they will m- be removed both from the transcript and the recording."
+E : I -
+C : The one  anything  as opposed to just what you said.
+E : Yeah, uh  no that - it - tha- that's right.
+F : but the next one says the transcript will be around. And it doesn't really say we'll send it to you, or wi- it'll be available for you on the web, or anything.
+F : At least  it more often. Yeah.
+F : To give  it to them. I mean like - like Morgan was saying they - they -
+F : It's available to them   if they ask for it.
+E : So I - I just want it to be worded in such a way where it gives the strong impre- it gives very, I mean nothing hidden,  v- very strongly the bias that we would really like to use all of these data.
+E : That - that we really would rather  it wasn't a patchwork of things tossed out, that it would be better for, um, our, uh, field
+E : if that is the case.  really
+E : See I'm @@
+E : can.
+C : It's just a check box next to the text, it's not any fun at all.
+E : Well I don't know. I kind of had fun when you played me something that was bleeped out. You know. I -
+C : get  that feedback.
+C : All - no because it doesn't automatically bleep it at the time.  It just sends me -
+C : Right.
+E : Oh good. O_K,
+C : So I - I wanna - I - just keep the times  until we actually wanna release the data and then we bleep it.
+E : circulate the - the wording on each of these things and get it right,  but -
+C : Well since you seem to feel heart- uh, strongest
+E : Uh, fair enough.
+F : Al-
+E : Turn about is fair play, Sorry.
+E : O_K.
+C : And so I don't  think they need another signature.
+C : So I guess I probably should at the minimum,
+C : I'm not really sure what's best with that. The problem is a lot of them   are really short,
+F : Well I s-
+F : I also have this - I - I think it's nice you have it uh, viewab- her- hearable on the - on the web for those who might wonder about
+F : I - I think it's nice that a person could check. Cuz sometimes you know you - the words on a - on the page, come out soun- sounding different in terms of the you know, shouldn't borrow trouble. What it comes down to but -
+C : Yeah I think actually - my opinion probably  is that the only time someone will need to listen to it is if the transcript is uh
+F : i- th-
+C : That was all mumbled? I think Microsoft is @@
+F : Yeah exactly @@
+C : Sorry transcribers.
+F : Or - or even  there was a - a line you know about how
+F : "hmm-mmm-mmm
+F : but - but it was all - the words were all visible, but they didn't end up i- some- there was a slip in the transcript.
+C : @@
+C : They're gonna hate
+A : Yeah.
+F : Yeah that's true.
+C : Actually Liz  like
+E : Liz  like
+C : Yep, yep, that's right.
+F : So I don't know. I mean, I - I guess we're assuming that the transcript is a close enough approximation and that - that my double checking will be so  close to absolutely perfect that it - that nothing will slip by.
+E : I mean, you might be very accurate in putting down what they actually  said,
+E : but, when they  themselves,  meant.
+F : Yeah, that's right. Yeah that's right.
+C : So um, in terms of password distribution, I think phone  is really the only way to do it, phone and in person. Or mail, physical mail.
+B : Any sub-word level thing. @@
+C : Any sub-wor- Yeah, O_K.
+F : I mean. So it's like i- in a way it's - it's nice to have the responsibility still on them  to
+E : Well yeah, but you can't dep-
+E : think,
+C : You probably won't listen to it.
+E : Yeah.
+F : I - I mean, when I  listen to these things, I don't find things that are questionable,
+C : Done?
+E : Kind  of done. Actually, I was gonna -
+D : Not really. No. Um,
+C : Hmm.
+E : You  don't have anything to say.
+C : j- I don't know. @@
+E : Nah.
+B : No.
+E : Transcribers, he was rattling the b- marbles in his brain back and forth just then this - this -
+D : It um
+C : That's what I thought. I f- I was going through them all and I found actually a lot  filed in with them,
+C : that were blanks, that no one had actually read. And so we still have more than I thought we did. So, we have a few more digits before we're done.
+C : So transcript three zero one one three zero three zero.
+C : nine eight five eight
+C : O_
+C : zero
+C : one
+C : two zero seven
+C : four two four one uh eight six six
+C : five four six two two
+C : six three
+C : seven eight one one six eight eight
+C : eight nine eight six
+C : nine
+C : O_ O_ nine O_
+C : one one nine four
+C : two five four
+C : three four six eight nine two seven
+C : four nine O_ one
+C : uh, correction
+C : four nine one O_
+C : five seven zero eight four
+C : six
+C : seven O_ seven five seven
+C : nine three
+B : Transcript three five three one dash three five five zero.
+B : nine zero
+B : zero one one nine
+B : one four seven O_ O_
+B : two two six
+B : three
+B : four five one eight three nine five
+B : five
+B : six
+B : seven
+B : nine two five three
+B : O_ five five six four
+B : zero five four nine zero
+B : one four
+B : two
+B : three
+B : four
+B : six two eight
+B : seven two five six
+B : eight seven zero
+B : nine eight seven three four five zero
+E : Transcript two eight five one dash two eight seven zero.
+E : two three nine O_ three nine
+E : three seven seven
+E : four eight
+E : five
+E : six
+E : eight two eight six four
+E : nine five zero
+E : O_ seven one two
+E : zero nine seven two
+E : one nine
+E : two
+E : three zero five
+E : five one
+E : six five
+E : seven seven six nine
+E : eight eight four zero
+E : nine
+E : O_ O_
+E : zero
+E : two four two two one
+F : Transcript two six three one two six five zero.
+F : three zero zero
+F : five one four O_ six
+F : six two two five six
+F : seven seven seven three
+F : eight nine one eight one
+F : nine
+F : O_
+F : zero
+F : two two seven zero zero
+F : three two
+F : four five O_ two four two six
+F : five nine nine
+F : six
+F : That was one.
+F : six seven
+F : seven
+F : eight O_ two five
+F : O_ one three five six five five
+F : zero four three one zero
+F : one seven five six
+F : two nine four nine five seven eight
+F : three nine nine O_ four six seven
+A : Transcript two four one one, dash two four three zero.
+A : five seven eight four four
+A : six nine six two one
+A : seven
+A : eight
+A : nine
+A : zero one
+A : one two eight six
+A : two three five two O_ two seven
+A : three nine five one
+A : four
+A : five
+A : six
+A : eight one three
+A : nine six two zero four
+A : O_ eight O_ one four O_ seven
+A : zero six two six six eight seven
+A : one
+A : two
+A : three
+A : five two six three
+D : six zero
+D : eight one one
+D : nine five
+D : O_ three O_ six five one three
+D : zero five zero two three
+D : one
+D : two
+D : three O_ O_ eight two two eight
+D : five two one five
+D : six two
+D : seven four three two four
+D : eight
+D : nine eight
+D : O_ O_ one
+D : zero zero zero
+D : two two five two O_
+D : three six
+D : four eight three three zero zero one
+D : five seven zero seven
+D : six
+C : Oops.
+B : You know having this headset reminds me of like working at Burger King or something. No I never did.
+C : I'd like a burger with that, do you want fries with that?
+E : Wow.
+B : could  now.
+C : And

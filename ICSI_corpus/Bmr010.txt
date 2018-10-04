@@ -1,0 +1,681 @@
+G : @@
+A : So, sorry about not -
+A : not pre-doing
+A : Chuck.
+B : Chuck was telling too many jokes, or something?
+A : Yep. Pretty much.
+A : No.
+F : Well, I'm - I sent a couple of items. They're - they're sort of practical.  I don't know if you're -
+G : I thought
+F : if - if that's too practical
+G : Yeah, we only want th- useless  practical  things? Sure.
+A : I mean, we don't want anything too practical. Yeah, that would be -
+F : Well, um, I can transcription effort.
+F : Uh, maybe um  procedures
+G : b-
+F : with reference to the cleanliness of the recordings.
+G : O_K, transcription,
+F : then  these  guys. The - we have great - great, uh, p- steps forward in terms of the nonspeech-speech pre-segmenting of the signal.
+A : Well, we have steps  forward.
+F : Well, it's a - it's a big improvement.
+C : Yeah.
+C : I would prefer this.
+D : We talk about the - the results of
+A : I have a little bit of I_RAM stuff but I'm not sure if that's of general interest or not.
+A : I_RAM .
+G : I_RAM .
+A : I_RAM, bigram, you know.
+D : Bi- Bigram.
+F : I beg your pardon?
+G : Well -
+A : What's the interesting stuff?
+C : is  - ?
+C : Yeah.
+B : work that's been done on segmentation would be most - Yeah.
+G : Um, and, um, other  I'll  just say very briefly that maybe relates to that a little bit, which is that, um,
+G : uh, one of the suggestions that came up in a brief meeting I had the other day when I was in Spain
+G : Javier, uh, Ferreiros, who was before,
+G : why not start  with
+G : what they had before  but add in
+G : change  points.
+G : silence
+G : as, uh, a change  point.
+G : Here  not.
+G : And, um, so one of the things that they  were pushing in d- in discussing with me is, um,
+G : uh, on the, uh, feature  issue,
+G : uh, when perhaps if you sort of deal  before
+G : and then just broadened  it a bit, instead of just ta- using silence as putative change point also - ?
+G : So then you've got - you already have the super-structure with Gaussians and H_- you know, simple H_M_Ms and so forth.
+G : a - a difference of opinion  interesting  to look at what features are useful.
+G : if we had something that worked for many cases before, maybe starting from there a little bit - Because ultimately  we're gonna end up
+G : with some s- su- kind of structure like  that, where you have some kind of simple H_M_M and you're testing the hypothesis that,
+G : uh, there is a change.  So -
+G : so anyway, I just - reporting  that. But, uh, uh -
+D : O_K.
+C : Um, so, uh, what we basically did so far was using the mixed file to - to detect s- speech or nonspeech portions in that.
+C : And
+C : And it was  a system which used only one Gaussian for silence and one Gaussian for speech. And now I added, uh, multi-mixture possibility for -
+F : And, um, y- you also did some- something in addition  quiet  speakers in the mix.
+A : And did you hand-label  who was loud and who was quiet, or did you just - ?
+B : W-
+F : And you also provided me with several  different versions, which I compared.
+F : And so you change that you change?
+C : You can  specify
+C : the minimum  length of speech or - and silence portions which you want. And so I did some - some modifications in those parameters, basically changing the minimum -
+C : minimum length for s- for silence
+C : to have, er- to have, um - yeah -
+A : uh, pauses  utterance  overlap  I imagine that doesn't work at all, that you'll have plenty of s- sections that are -
+C : That's  it. Yeah.
+F : Mm-hmm, mm-hmm. so  transcribers just enormous, enormous savings. Fantastic.
+G : Um -
+G : you have these twenty-four features. Uh, a lot of them   spectral  features. Is there a - a transformation, uh, like principal components transformation or something? Just -
+A : Yeah. It was I_S two.
+C : yeah, for our - for our recognizer in Munich -
+G : O_K. No, I was j- curious. Yeah, I don't think it's a big deal for this application, but - but - Yeah, it's a -
+F : another  thing that also Thilo's involved with, which is, um -
+F : O_K, and - and also Da- Dave Gelbart.  So there's this - this problem
+F : of - and w- and - so we had this meeting. Th- the
+F : Uh  present,
+F : um, because
+F : th- the interface  and, uh,
+F : detailed  might  desired  I
+G : Mm-hmm.
+F : So we don't have start and end points encoded in a simple bin.
+F : Well, O_K. So @@  over- of - of the interface are
+F : such that we were - at this meeting we were entertaining how we might either expand the - the
+F : interface or find other tools which already do  useful.  Because what would ultimately be,
+F : a thorough-going musical score notation would be the best way to go.
+F : Because channels,  time-line,  it's very clear, flexible, and all those nice things.
+F : uh, excellent ideas on how do
+F : um, existing interfaces which might already have  say  something about that?
+C : Yes. Um, I
+C : talked with, uh,
+C : they have, uh, a tool they developed
+C : But,  um,
+C : Susanne   was  formally at - in Munich and w- and is now at - with C_M_U,
+C : which she uses to do eight channels, uh, trans- transliterations, eight channels simultaneously,
+G : Excuse me.
+C : but  it's running under Windows.
+C : And I've got some - some kind of manual down in my office.
+A : Well, maybe we should get  enough
+F : Mm-hmm. We could - uh, potentially so. I also wanted to be sure -
+F : I mean, I've - I've seen  which I guess means spee- speech in Dutch or something.
+C : Yeah, but then I'm not sure that's the right thing for us.
+F : But -
+F : versus - But I'm just wondering, is - ?
+A : No, no. Praat  isn't - Praat's multi-platform.
+F : Oh! I see.  I  see. So Praat may not be -
+C : That's not Praat. It's called "trans- transedit" Susanne.
+F : I  see.
+G : but, um, I think our outside sponsor is  actually  gonna kick in and ultimately that path will be smoothed out. So I don't know
+G : and we'd like to be able to do some  later because just it's inter- it's interesting.
+A : What our decision  not  very fine time scale on the overlaps.
+A : And - and do what we can later to clean that up if we need to.
+F : And - and I was just thinking that, um,
+F : if it were possible  to bring that in, like,
+F : you know, this week,
+F : uh  making really quick progress.
+F : And, um, so my - my  my  charge was to get eleven hours by the end of the month. And it'll be - I'm - I'm - I'm clear that we'll be able to do that.
+A : And did you, uh,
+A : forward Morgan Brian's thing?
+F : -
+F : So Brian did  you  our -
+F : that they are check  first
+G : I mean, basically it's - it's all the difference in the world. I mean, basically he's - he's on  it now.
+F : Oh, that's - this is a new development. O_K.
+G : you know, who just doesn't happen to be here
+F : Isn't that great?
+B : decide that the checked anyway and possibly augmented?
+B : So, I think having a good tool  what.
+F : Mm-hmm.
+A : And we discussed on some methods to do it. My approach originally, and I've already hacked on it a little bit  -
+A : it was too slow because I was trying to display all the waveforms. But he pointed out that you don't really have  to. I think that's a good point.
+A : That if you just display the mix  waveform
+F : Yeah, exactly.  able  to display
+F : different waveforms to clarify overlaps and things, so that's already -
+F : Oh, yes, but  -
+F : Well, transcriber's  perspective, uh,
+F : those two functions are separate. And Dan Ellis's hack handles the,
+F : um, choice
+A : But only to listen  look  at.
+F : Um -
+F : That's true. Yeah, but
+F : the hack to
+F : preserve the overlaps  output  files for each channel,
+F : then  also  of having,
+G : Have, uh, folks from NIST been in contact with you?
+F : think  so.
+G : seem to want to get absolutely clear on standards for - transcription standards and so forth with - with us.
+F : Oh! This was from before December.  Yeah.
+A : Oh, we should definitely get with  them then, and
+A : agree upon a format.
+A : Though I don't remember email  on that. So was I not in the loop on that?
+G : Um. Yeah, I don't think I mailed  anybody. I just think I told them to contact Jane - that, uh, if they had a -
+F : I'm keeping the conventions
+G : get that straight.
+F : N- there was also this, speech-non- nonspeech segmentation thing.
+F : uh, we wanna, uh - and Dan Gel- and Dave Gelbart is interested in pursuing  as a -
+G : Oh, yeah. He was talking - he was talking - I mean, uh, we - he had -
+A : @@  Cross-correlation.
+C : Cross-
+G : basically look
+G : some function of all  of the mikes. So,
+G : Uh -
+G : And those - those systems work very well,  by the way, I mean, so people use them in
+G : and, uh, those - if -
+G : Boy, the guy I knew who built them,   them   like twenty -
+G : twenty years ago, so they're - it's - the - the techniques work pretty well.
+F : channel  identifier.
+F : That - that, you know, that would g- help in terms of encoding of overlaps.  The - the transcribers would have less,
+F : uh, disentangling to do if that were available.
+G : Uh, and we also have these - we have the advantage of having distant mikes too. So that, you cou- yo-
+G : uh, you certainly wanna use the close-talking, as a - at least.
+F : Um, to code d- so types
+F : Um, so wasn't  transcribed, we worked up a - a typology.
+F : Yes, exactly. That hasn't changed. So it i- the - it's basically a two-tiered structure
+F : where the first one is whether  continues  or not. And then
+F : below that there're you know, is it,
+F : uh, simply it, um, someone
+F : completing someone else's thought,
+D : Huh.
+A : And I hope
+A : at least some  of the time
+F : Mm-hmm. Well, would  -
+F : That'd be - that'd be nice.  I mean,
+A : Well, u- uh, I_B_M was going  to. Um -
+A : and I imagine  they still plan to but - but, you know, I haven't spoken with them about that recently.
+G : Well, uh, my suggestion now is - is on all of these things to, uh, contact Brian.
+F : wonderful  to have a direct contact like that.
+F : uh  this.
+F : one of my transcribers t- one
+G : Mm-hmm.
+F : um, by - well, she said tomorrow - the, you know - let's - let's just, uh, say
+F : I could send Brian the, um -
+F : the transcript.  are -
+F : er, uh, I could send him that to do a s- forced alignment on what we're -
+F : on the way we're encoding overlaps now.
+G : uh, they - and - and, you know, the - the organization always did  wanna help us. It was just a question of getting, you know, the right people connected in, who had the time. So,
+G : um, eh -
+F : Oh!
+F : Yeah. I - I - I don't know  for sure.
+E : Did something happen,  on  already  on it, or - ?
+G : No, I, eh, eh, p-
+F : like - that'd be like him. He's great.
+F : Yeah. That'd be great.
+A : so one  did  Sony's  replacement  mikes  -
+D : @@
+A : But I think I need someone who knows more about mikes than I  do, because I couldn't find a single other model that
+A : which seems really  unlikely  to me.
+G : Oh, I probably
+E : You couldn't - you couldn't find the right connector to go into these  things?
+A : When I looked,  one  it
+A : as having that type of connector. But my guess
+A : is that Sony maybe uses a different number  for their connector than everyone else does.
+F : And there's no adaptor  for it?
+G : Who - who are we buying these from? That'd be a -
+A : just in terms of how  you wear them -
+F : Oh.
+A : But I  felt that
+A : in a real  seldom  gonna get people to really do it and maybe it wasn't worth concentrating on.
+G : back-off position. That's what I was saying are  gonna get some
+G : recordings that are imperfect  life.  hurt,
+G : to try to have people wear the microphones properly, if possible, because,
+G : um, the natural  really  table.  I mean, I think,
+D : Yeah. @@
+G : You know, if - if An- Andreas plays around with language modeling, he's not
+A : form.
+G : But it does happen.
+B : I talked to some I_B_M guys, uh, last January, I think, I was there. And -
+B : uh, the breathing is really a - a terrible problem for them,
+A : enough to the side so that when you exhale through your nose,  it doesn't - the wind doesn't hit the mike.
+A : Everyone's adjusting their microphones, of course.
+A : And then just close  enough so that you get good volume. So you know, wearing it right about here
+F : Is
+G : I remember when I was - when I - I - I - I used, uh,
+G : a prominent laboratory's, uh, uh, speech recognizer about, uh -
+G : This was, boy,  while  ago, this was about twelve -
+G : twelve years ago or something.
+G : And, um,
+G : they were - they were perturbed  in  out.  models
+G : they had Markov models for br- breathing out  them   in.
+G : Uh -
+F : That's interesting.
+F : Well, what I
+F : to maybe use the display  beginning  judge  whatever,
+A : Yeah.
+F : and - and then see if when they're breathing it's showing.  I don't know if the - if it's -
+G : I -
+A : I mean, when - when it's on,  you can see it. You can definitely see it. Absolutely. Absolutely.
+F : Oh.
+G : I-
+A : And so, you know, I've - I've sat here and watched
+A : sometimes the breathing, and the bar going up and down, and I'm thinking,
+A : I could say  something, but
+G : I mean, I think -
+F : Yeah. Uh-huh.
+G : And  you can do some, uh, you know, first-order thing about it, which is to have people move it,
+F : Yeah, i-
+G : you can't fine tune the meeting that
+F : up, then it might be worth doing.
+A : So - so, like, yours is pretty far down  below your mouth. Yeah.
+F : always  close to crystal clear and - and just fan- fantastic to -
+G : Mm-hmm.
+A : I don't know why that
+F : uh, your volume  still,  I mean, they - they say -
+G : Uh.
+G : Anyway.
+F : I could say something about - about the - Well, I don't know what you wanna do. Yeah.
+G : Well, the other - why don't we do that?
+B : One more remark, uh, concerning the S_R_I recognizer. Um.
+B : So,
+B : if you can in your transcripts mark -
+A : mark them?
+F : are.  They're putting - Eh, so in curly brackets they put "inhale" or "breath".
+F : It - they - and then in curly brackets they say "laughter". Now they're -
+F : they're not being precise,  uh, m- So they're two types of laughter that are not being distinguished. One is
+B : Mm-hmm.
+F : when sometimes s- someone will start laughing when they're in the middle of a sentence.
+B : Mm-hmm.
+F : So, um, I - I did s- I did some double checking to look through - I mean, you'd need to have extra
+F : hhh
+F : of the laughing  utterance.  laughing"   a- after the unit.
+B : As - as long as there is  was
+B : I think that's sufficient,
+B : you know, is pretty good.  So as long as you can stick a -
+B : you know, a t- a tag  in there that -
+B : that indicates that there was
+F : Then -
+A : That would be a really  prosodic feature, when -
+F : in between the two words. But if they laugh across three or four  words you - you get it after those four words. Does that matter?
+B : Well, the thing that you - is hard to deal with is whe-
+B : think that we can do very well with that. So -
+A : Right.
+D : Yeah.
+G : Uh  is it?
+F : I think he's right. Yeah.
+A : phonetically,  word  models, or what?
+B : We tried both. Uh, currently,
+D : @@
+A : So train a phone in the neural net?
+B : So the - so the - the mouth noise, uh, word  has just a single phone,
+B : um, that is for that.
+G : @@
+G : we now  think that laughter should have three sub- sub-
+G : sub-units in the - the three states, uh - different states. And then you would have three -
+A : Do whatever you want.
+D : Yeah.
+B : s- uh, you know, a single phone  in the pronunciation, but it has a self-loop on it, so it can -
+A : To
+B : r- can go on forever.
+B : We also tried,
+G : If you want, I got it.
+H : Andreas.
+B : Yes.
+H : The  are ready .
+B : O_K.
+B : Anyway.  also  pause  model - I mean, the - the - the model that -
+B : that matches the stuff between words.
+B : And, um,
+F : Mm-hmm.
+A : I just wanna mark that you did not  read digits.
+F : which  is more frequent, whether
+A : we hand tran- hand-segmented, that - th- he has these little chuckles  as he talks.
+G : I'm sure it's very individual. And - and -
+G : one thing that c- that we're not  doing, of course, is we're not claiming to, uh, get - be getting a representation of mankind
+G : in these recordings. We have
+F : Yeah.
+G : Uh, yeah. And - So, uh, who knows.
+F : O_K.
+F : Um, um, the - I - I'm really very for- I'm extremely  transcribing  for us. They
+F : are, um, um, uh  really
+F : Yeah, I know. I am - I'm serious. They're just super.
+F : e- you know, I - I brought them   them   in pairs because I think people can
+F : raise questions - you know, i- i- the- they think about different things and they think of different - and um,
+F : f- on about a minute or two of the one that was already transcribed.  This also gives me a sense of -
+F : You know, I can - I can use that later,  with reference to inter-coder reliability kind of issues.
+F : But the main thing was to get them used  conventions  and,
+F : them   loose and they're -
+F : background  trained  in linguistics. They got -
+A : Good.
+A : Oh, no. Is that good or bad?
+F : Well, they- they're very perce- they'll - So one of them said "well, you know, he really said " n  and ",
+F : so what - what should I do with that?" And I said, "well for our purposes,
+F : I do  convention.  That  one, I think we - you know, with Eric's work, I sort of figure we - we can just treat that as a variant.
+F : But I told them if - if there's an obvious speech  error,
+F : uh, like I said in one thing, and I gave my - my example, like  in- instead of "microphone".
+F : correctly pronounced". fixing  speaking  everybody knows what - what you mean.
+A : You'll self-repair. Yeah.
+C : Yeah.
+F : Then you'd put a little tick at the beginning of the word, and that just signals that, um, this is not standard, and then in curly brackets "pron error".
+F : And, um, and other than that,  noticed,
+F : you know, the " nnn  nnn  and  do
+F : And - and s- several of them are trained in I_P_A. could  them   to.
+A : Hmm. Where were they when we needed them?
+G : Well, you know, it might be something we'd wanna do with some, uh, s- small subset of the whole thing.
+F : I think -
+F : And I'm also thinking these people are a terrific  pool. I mean, if, uh - so I - I told them that, um, we don't know if this will continue past the end of the month and I also -
+F : m- I
+F : think they know that the data p- source is limited  them   hope  to.
+G : The other thing we could do, actually, uh, is,
+G : a more detailed analysis of the overlaps.
+F : Oh, that'd be so super. They would be so - s- so terrific.
+A : I mean, this was something
+A : that we were talking about. We could  get a very detailed overlap if they were willing to transcribe each meeting four or five times.
+A : So they could by hand  -
+G : Well, that's one way to do it. But I've been saying the other thing is just
+F : Mm-hmm, that's right. And with the right in- interface -
+D : Yeah.
+G : we know from the - Steve's experience with the Switchboard transcription is, you know, very,  very time-consuming. And -
+G : and you know, it took them I don't know how many months to do - to get four hours.  And so
+G : that hasn't been really  our focus.
+G : Uh, we can consider  it. But, I mean, the other thing is since we've been spending so much time thinking about overlaps is - is maybe get a much more detailed
+F : Mm-hmm.
+G : this  year  we - we actually, uh, can do it.
+G : @@
+G : variations  very
+G : next year we may have - have much less. So I don't wanna hire  a -
+G : Yeah. So it's - uh, it's - we don't wanna hire  a bunch of people, a long-term staff, because
+G : the - the funding that we've gotten is sort of a big chunk for this year.  But
+G : having temporary people doing some specific thing that we need is actually a perfect match to that kind of, uh, funding. So.
+F : And then school will start in - in the sixt- on the sixteenth. Some of them will have to cut back their hours at that point.
+F : Some of them are.  Yeah.
+F : Oh, I shouldn't say it that way because that does sound like forty-hour weeks. No.
+F : I th- I - I would say they're probably time.
+A : how  someone could do forty hours a week on transcription.
+E : Hmm.
+F : But it's - you can't.
+G : Yeah. Yeah.
+F : No. You're right. It's - i- it would be too taxing. But, um, they're putting in a lot of -
+F : And - and I checked them   them   just spot-checking. They're fantastic.
+G : And he's saying "You - you know, I always thought Chuck spoke really well. "
+F : also  also,  types
+A : We'd have to mark them.
+G : Mm-hmm.
+F : whatever. So, um.
+D : Mm-hmm.
+G : Yeah.
+F : I think that's a - a good idea. You know, there's also, the e- In my  mind,
+F : I think A- An- Andreas was the idea that, um,
+F : we haven't yet seen  the - the type of transcript that we get from I_B_M, and it may just be,
+F : you know, pristine.  But on the other hand, given the lesser interface - Cuz this is, you know - we've got a good interface, we've got
+G : uh  - theirs will end up being a kind of fir- first pass or something.
+G : Maybe an elaborate  again  are  alignments,  which will also
+F : of the -
+F : of the verbal part to be able to - ?
+G : And, uh, so in principle  you could start up with something that was kind of rough -
+G : da- take a word  and, uh, have a canonical pronunciation
+G : and, uh, if there was five phones in a word, you'd break up the word,
+G : uh, into five equal-length  completely  gross.
+A : Wrong.
+G : Right? I mean, th- the timing is off all  any  word.
+G : But it's O_ K.
+G : You start off  aligns  really  bad.
+G : So - so I think using a - a good lot.  Um.
+G : But, uh, you know, they both  other.  better  aligner.
+G : If you have a good alignment, it helps the, uh, th- the human in - in taking less time to correct  things. So - so -
+F : another  too,  and I don't know - uh, this - this is -
+F : very possibly a different, uh, topic. But, with reference to this idea of, um,
+F : higher-order organization within meetings. So like in a -
+F : uses  find  where so-and-so talked about such-and-such,
+F : a rough on encoding, like, episode-like level
+F : things on the, uh, transcribed  meeting -
+F : already  transcribed meeting.
+F : where  do  with each meeting, sort of like a, um -
+F : manifest,  or - or if that's, um -
+F : level of detail would be most useful.  I  over  else  to do, or whatever.
+G : Mm-hmm.
+F : But this issue of the contents  of the meeting
+G : Yeah.
+G : Meaning  really isn't my thing.
+A : whoever is interested can do  that.
+A : We could skip  have  to read digits each time.
+G : I - I - I  think it - you know, another - another bunch of digits. More data is good.
+D : Yeah. Sure.
+G : like  to do that. But I think, do you, maybe, eh - ?
+G : Did you prepare  some whole thing you wanted us just to see? Or what was that?
+D : I have the results, eh, of the study of different energy without the law length .
+D : Eh, um, eh, @@  in the - in the measurement, uh, the average, uh, dividing by the - by the, um, variance.
+D : eh, I don't know if you remain  - we have problem to - with the -
+D : with - with the parameter - with the representations of parameter,
+D : Eh, the scale.
+G : O_K.
+D : Yeah.
+G : Uh, I mean, there- there's two  suggestions, really, which is, uh - what we said before is that,
+G : @@
+G : at least  obvious  way to normalize so that the energy is anything like a reliable, uh, indicator of the overlap.
+G : Um, I - I'm - I'm still  little  @@  should
+G : but you don't want to keep, uh - keep knocking at it if it's - if you're not getting any - any result  with that.
+G : a completely different  Spain,
+G : That is to say, use, you know, as - as you're doing with the speech, uh, nonspeech, use some very general  features.
+G : And, uh, then, uh, look at it more  modeling.
+G : and, uh, try to indi- try to determine, you know, w- when is th- when are you in  not  in an overlap.
+G : And let the, uh, uh, statistical system determine what's the right way to look at the data.
+G : I think  interesting  system  overall.
+G : But given the limitation in time
+G : and given the fact that Javier's system already exists  doing  this sort of thing,
+G : its main limitation is that, again, it's only looking at silences which would  -
+G : maybe that's  a better place to go.
+D : Thilo, eh, working, eh, with a new class,
+D : not only, eh, nonspeech and speech, but, eh, in - in - in the speech class,
+D : dividing, eh, speech, eh, of - from a speaker and overlapping,
+D : to try - to - to do, eh, eh, a fast - a fast, eh,
+D : experiment to - to prove that, nnn, this fea- eh, general feature,
+D : eh, can solve the - the - the problem,  and wh- what -
+D : And, I - I have prepared the - the pitch tracker now.
+G : Ha- h- have you ever looked at the, uh, uh - Javier's, uh,
+D : And, nnn, nnn -
+G : Oh. Maybe m- you could, you kn- uh  show  Thilo that.
+G : broadened classes then cover the overlap cases.
+D : Yeah.
+C : Yeah, but I'm not too sure if - if we can really represent
+G : Uh -
+C : overlap with - with the s- detector I - I - I used up to now, the - to speech-nonspeech as -
+F : Mm-hmm.
+D : Yeah.
+F : Mm-hmm.
+A : I think Javier's might  M  drawback.
+G : simple  one. Right? It's -
+A : Does  it?
+F : Mm-hmm.
+A : And then he ch- you choose optimal splitting.
+A : @@
+A : Maybe I'm misremembering, but I did not  think it had a Markov -
+G : I guess I  either.
+G : Uh. It's been a while.
+G : Uh.
+C : Yeah.  look  at it. So.
+G : Oh, O_K  I  I  see. And - and -
+A : And so I - I think it would work fine  for detecting overlap.
+A : What he does  first  pass he - he - p- he does,
+A : um, a guess  might  be and he overestimates.
+A : And that's just a data reduction  step,
+A : so that you're not trying  time  interval.
+A : And so those are the putative  places  tries.
+A : And right now he's doing that with silence  and that doesn't work
+A : with the Meeting Recorder.
+A : So if we used another  method  to get the first pass, I think it would probably work. It's a good method.
+G : you  had, though. Um.
+G : The other  thing one could do
+G : and you have Markov models for each.
+C : Yeah.
+F : He has this on his board actually.
+F : Don't you have, like those - those several different
+C : the transition between the different class, to model them in - in the system I  now.  could  be possible, I think,
+G : I see.
+G : Yeah, I mean, I - @@
+G : This is all pretty gross.  features  done  before,
+F : @@
+G : we should at least look at the space  and understand -
+G : It seems like if two people - two or more people talk at once, it should get louder,
+G : uh, and, uh, uh, there should be some discontinuity in pitch contours,
+G : and, uh, there should overall be a, um, smaller proportion of the total energy that is explained by any particular harmonic sequence in the spectrum.
+G : So those are all things that should  be there. So far,
+G : By the way, I was told  should  Pepe,
+G : by your friends,
+G : Anyway,  um,
+D : Yeah .
+G : been exploring, uh, e- largely  the energy issue and,
+G : as with a lot  sounds.  energy?  log  residual  energy? Is it - is it -
+G : is it, uh, delta  of those things? Uh, what is it no- Obviously, just a simple number -
+G : absolute number  isn't gonna work. So
+G : it should be with - compared to what?  Should there be a long window for the
+G : normalizing  looking  at? Or, you know, how b- short should they be? So,
+C : Yeah.
+G : any  indicator.  So
+G : I - I still  have a hunch that there's - it's in there some place, but it may be - given that you have a limited time here, it - it just may not be the best thing to -
+G : to - to focus  on for the remaining of it. So pitch-related and harmonic-related,
+D : To overrule , yeah.
+G : I'm - I'm
+G : seems  work,
+G : that, uh, their suggestion of - of -
+G : Th- they  models,
+G : uh, but in addition there's an expansion of what Javier  one  of those things, looking at the statistical component,
+C : Yeah.
+G : even if the features that you give it are maybe not ideal  for it, it's just sort of this general filter bank or -
+G : Eee somewhere  probably.
+D : But, eh, what did you think about the possibility of using  software?
+D : Eh, I mean, the, uh - the, uh - the BIC   criterion, the - the - t- to train the - the Gaussian,
+D : eh, I - I - I think that an interesting, eh, experiment, eh, could be,
+D : th- eh, to prove that, mmm, if s- we suppose that, eh, the - the first step -
+D : if - if we - if we, eh, nnn, develop an classifier -
+D : and the second step doesn't work N-
+A : Yeah. I had tried  hand  well,  lot.
+A : So what I d- I d- I took a hand-segmented  sample and I added
+A : ten times the amount of numbers at random,
+A : and it did pick out
+D : Yeah. But is - is - if -
+D : But it's possible with my segmentation by hand
+D : The -
+A : and it doesn't  work,  then we know something's wrong.
+D : The demonstration
+A : Whether it'll work or not. Yeah.
+D : emph- emphasizes  parameter and Gaussian -
+G : Let's read  digits.
+A : uuh
+A : Transcript two nine five one two nine seven O_.
+A : six O_ three O_ nine
+A : seven
+A : eight zero
+A : O_ one five O_ two
+A : zero five eight four
+A : uh, one six
+A : two eight five eight three two three
+A : three O_ three one five
+A : four
+A : five zero nine nine
+A : seven one one two
+A : eight four zero zero
+A : nine four
+A : O_ seven one
+A : zero
+A : one
+A : two
+A : four one
+A : five three one two
+A : six seven two O_ -
+A : Pa- Uh, correct
+A : six seven two one O_ eight six.
+G : three three eight
+G : four four six five two
+G : five eight zero
+G : six
+G : seven
+G : eight zero
+G : O_ one four
+G : zero one one eight one three one
+G : one six
+G : two five three four six eight one
+G : three
+G : four
+G : five zero six zero one
+G : seven one one two
+G : eight three three six O_ eight O_
+G : nine six five
+G : O_ seven three eight
+G : zero eight six nine
+G : one
+G : two O_ two.
+E : Transcript two eight three one dash two eight five zero.
+E : one eight six seven zero  five
+E : two
+E : three
+E : four zero
+E : six one seven
+E : seven six three
+E : eight five one
+E : nine seven seven five six
+E : O_
+E : zero zero
+E : one
+E : three two O_ eight
+E : four four
+E : five five O_
+E : six seven eight O_
+E : seven
+E : eight
+E : nine zero
+E : zero five
+E : one three three five O_ O_ five.
+C : O_K. Transcript two seven nine one dash two eight one zero.
+C : O_
+C : zero
+C : two three seven
+C : three three two
+C : four seven
+C : five three O_ two
+C : six
+C : seven
+C : eight zero eight
+C : O_ one O_ seven
+C : zero three
+C : one five O_ three six
+C : two eight O_ O_
+C : three
+C : four
+C : five zero two zero zero
+C : seven
+C : eight nine five one two two zero
+C : nine eight five three
+C : O_ seven O_ eight.
+D : Transcript two eight one one dash two eight three zero.
+D : zero six
+D : one
+D : two zero five zero zero eight four
+D : four one zero one
+D : five six
+D : six seven four
+D : seven
+D : eight
+D : nine
+D : O_
+D : one two nine four eight five nine
+D : two two zero three
+D : three six
+D : four nine
+D : five
+D : six
+D : seven
+D : nine seven nine eight three five zero
+D : O_ two seven nine five one five
+D : zero eight two five four.
+F : nine O_ nine eight nine
+F : zero one five zero
+F : one two two eight eight four five
+F : two five O_ O_
+F : three eight two
+F : four
+F : five
+F : six zero zero eight
+F : eight one
+F : nine five six six
+F : O_ five O_ two one eight seven
+F : zero seven zero two nine
+F : one
+F : two
+F : three zero zero
+F : five three
+F : six three five two four
+F : seven seven six four
+F : eight six two eight zero
+F : nine.
+F : That's hard to focus on that, you know, really, it's like - "alright, now where am I?"

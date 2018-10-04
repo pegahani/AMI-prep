@@ -1,0 +1,649 @@
+A : Eh, we should be going.
+B : So ne- next week we'll have, uh, both Birger and, uh,
+D : Uh-huh.
+B : Um,
+B : and you're -
+D : uh, not next week but maybe the week after.
+B : O_K.
+B : Good. So at least we'll have one meeting with yo- with you still around, and -
+B : That's good.
+D : Um,
+D : Yeah. Well,
+D : maybe we can start with this.
+B : All today,  huh?
+D : Um.
+D : uh, to get a decision about this latency problem.
+B : No, this - I'm sorry, this is a conference call between different Aurora  people or just - ?
+D : Uh, yeah. It's the conference call between the Aurora, uh, group.
+D : Uh, yeah. There were like two hours of discussions,
+D : a number,
+D : um,
+D : included e- including everything.
+D : Uh, it means that it's like eighty milliseconds less than before.
+B : Yeah .
+D : Yeah.
+D : So that's the system that's described on the second point of
+B : we have to reduce it by ten milliseconds somehow.
+D : Yeah.
+D : Uh-huh.
+D : Well, it was mainly a discussion between Hari and
+D : if you want to stick to the -
+D : Yeah.
+D : Uh, no, I don't think so.
+D : Um,
+D : and I don't know how much this can be discussed or not,
+D : Uh. Yeah, I c- I - I have to check that.
+B : Yeah. I'd like to see that, cuz maybe I could
+D : Mm-hmm.
+D : Yeah.
+B : O_K.
+D : Mmm.
+B : And this is still - ?
+B : I c- I should just let you go on.
+D : and one of the trick was to,
+D : some kind of hierarchical structure where the final tandem network but by the V_A_D network.
+D : so apparently it looks better when,
+D : uh, we use the silence probability from the V_A_D network
+D : Um.
+D : uh, that Sunil also tried, um,
+D : on SPINE and apparently it helps a little bit also.
+D : Mmm.
+D : And.
+D : Mm-hmm.
+B : Oh.
+D : um,
+B : The V_A_D network is - ?
+D : Which is smaller,
+D : So it's smaller but th- the silence probability from this network seems, uh, better.
+D : Mmm.
+D : Uh.
+B : Yeah. But - O_K.
+D : but it
+D : Maybe it's - has something to do to we don't have infinite training data and -
+B : We don't?
+B : Yeah.
+D : Yeah. Uh, there was a p-
+B : Mm-hmm.
+D : And,
+D : um -
+D : So it looked strange and then just using the - the other silence probability helps. Mmm.
+D : Yeah. The next thing we will do is train this tandem on more data.
+B : way  might  little  bit like
+B : combining knowledge  sources. Right? Because
+D : Mm-hmm.
+B : that are different sizes things.
+D : Mm-hmm.
+B : is w- one  source of knowledge. And this is -
+B : and rather than just taking one minus that to get the other,
+B : which is essentially what's happening, other
+B : source of knowledge that you're putting in  both  of them
+B : in - in what you're ending up with.
+B : you can probably justify anything if what's use- Yeah.
+D : the V_A_D doesn't use the same features there are .
+E : Hmm.
+D : Um -
+B : That  might be the key,
+B : That's  a good point.
+D : Uh. Well, there are other things that we should do but,
+D : it requires time and -
+B : Mm-hmm.
+D : Working on the second stream. Of course we have ideas on this also, but -
+D : Uh, but their noise estimation, um -
+B : that's certainly a high hope.
+D : Yeah. Mmm.
+D : we - we did a first try with this,  it  - it
+D : Yeah. Mm-hmm.
+D : Yeah, and the other thing, that  noise estimation and th- um,
+D : uh, the training data for the t-
+D : I think that people might,
+D : try to argue   about that because
+D : then in some cases we have the same noises in - for training the network than the noises that are used for testing, and -
+B : Yeah. Maybe you just put in some other  noise, something that's different.
+D : Mm-hmm. Yeah.
+B : Yeah.  That's a good idea.
+D : Um.
+D : I think  we are getting close to human performance.
+D : um,
+B : So this is a  Stephane.  Yeah.
+D : Yeah. So that's - that's -
+E : St- Stephane.
+D : that's the - the flaw of the experiment. This is just - i- j-
+B : Yeah.
+E : Getting close.
+D : but still,
+D : while our system is currently at seven percent.
+D : I listen to the, um -
+D : and I re-synthesized this using a white noise that's filtered by a L_P_C,
+D : well, you can argue,   that, uh - that this is not speech, so the ear is not
+D : trained to recognize this. But s- actually it sound like whispering, so we are -
+B : There's two  problems there. I mean - I mean, so - so the first is
+B : and the second  thing is - which is
+B : m- maybe more interesting  -
+B : is that, um,
+B : if you do it with whispered  speech,
+B : What if you had pitch  well?
+B : Alright? So now you put the pitch in.
+B : What would the percentage be then?
+D : Um -
+B : See, that's  the question.
+B : if it's, uh - Let's say it's back down to one percent again.
+B : That would say at least for people,
+B : having the pitch  important,
+B : which would be interesting in itself.
+D : Uh, yeah. But -
+B : Um,
+B : if i- on the other hand, if it stayed  near five percent,
+B : then I'd say "boy, L_P_C n- twelve  crummy
+D : Yeah. Well, the point is that eh- l- ey-
+D : what I - what I listened to when I re-synthesized the L_P- the L_P_C-twelve spectrum
+D : is in a way what the system, uh, is hearing,
+D : cuz @@  - all the - all the, um, excitation - all the -
+D : L_P_C - ?
+B : Uh, so, let's see, how would you do - ? So, fo- @@
+B : No. Actually, we d- we - we don't,  because we do - we do, uh,
+D : is it that different,  I mean?
+B : I don't know what mel, synthesis  spectra  quite  different.
+D : Mm-hmm.
+A : test the human performance on just the original audio?
+B : @@
+A : and then when you re-synthesize with L_P_C-twelve it went to five.
+D : Yeah.
+B : We were - we were j- It - it - it's a little  bit still apples and oranges because we
+B : if you listen to them they still  closer
+B : might actually make it even harder,
+B : puts in - synthesis  puts in some degradation
+B : that's not  hearing,
+B : hear some  others.
+B : uh, the kind  of information that we're feeding it is probably,
+B : minimal.  There's definitely some things that we've thrown away.
+B : an interesting test of this would be if you - if you actually put the pitch  back in.
+B : and see does that - is that - does that  make the difference?
+B : then you'd say "O_K, it's - it's in fact  having,
+B : not just  the spectral envelope but also the -
+B : that, uh,
+B : @@
+B : has the information that people
+D : Mmm.
+A : But from this  it's pretty safe to say that
+A : away from human.  Right?
+A : Two - two to six  percent.
+D : To f- seven times, yeah.
+B : for Stephane.
+D : Um.
+B : @@
+D : But - but -
+B : that's what - that's the first thing that I  would be curious about, is, you know, i- i-
+D : um, of a - a periodic sound and, @@
+D : uh, unvoiced sound, and the noise
+D : uh, noise.  periodic.
+D : So, what - what do you mean exactly by putting back the pitch in? Because -
+D : @@
+B : Yeah.  L_ P_C re-synthesis. So,
+B : Right? So if you actually did real re-synthesis like you do in an L_P_C synthesizer,  noise,  where it's voiced you use,
+D : Yeah, but it's neither purely voiced or purely unvoiced.
+D : Oh.
+B : Yeah. I mean, it's probably not worth your time.  thought  experiment,
+B : that's what I would wanna test.
+B : And then that would tell  Cuz we've talked about, like, this harmonic tunneling or
+B : maybe that's really  a key element.
+B : it's - it's not  possible to do a whole lot better than we're doing. That - that could be.
+D : Mmm. Evi-
+B : it's hard to imagine that there's a whole  lot more
+D : Mm-hmm. Yeah, right.
+B : uh  -
+D : Uh, yeah.
+D : Um.
+D : Yeah, that's it.
+B : Yeah. That look-
+D : @@
+B : incredibly  far off. On the other hand,
+B : with any  of these numbers except maybe the one percent, it's st- it's not actually
+D : Yeah. At these noise levels. Yeah. Mm-hmm.
+D : Well, yeah. These numbers, I mean.
+D : Mmm.
+B : Um, while we're still on Aurora stuff maybe you can
+B : Wall Street Journal things for it.
+A : So I'm waiting to hear from him.
+A : But, um, I did print something  out just to give you an idea about
+A : on their web site they, uh, did this little table  of where their system performs relative to
+A : uh -
+B : @@
+A : them.
+A : So I - I don't know what those mean .
+A : this  table,
+A : the- they're showing word error rate. But on this  one,
+A : condition one here it's ten  percent.
+A : Then under three it goes to sixty- four  six  percent.
+B : Yeah, that's probably Aurora. I mean -
+A : So m- I guess maybe they're error  rates but they're, uh -
+B : I - I - I  don't find that surpri- I mean, we -
+B : uh, some of the higher  error rates on, uh,
+B : highly mismatched difficult conditions? What's a - ?
+D : Uh, error rate.
+D : On digits.  Right?
+B : @@
+B : sixty-thousand - Yeah, and if you're saying sixty-thousand word recognition, getting sixty percent error on some of these noise condition- not  at all surprising.
+D : on the m- more mismatched conditions.
+A : Yeah. So they have a lot of different conditions that they're gonna be filling out .
+B : It's a bad
+A : Yeah.
+A : Um,
+A : they're - I- I'm still waiting for them to release the, um,
+A : which will take a really  long time
+A : Uh -
+A : I beli- Yes,  also.
+B : O_K.
+A : um, released like a smaller  data set that you can use that only takes like sixteen hours to train and stuff.
+B : So.
+B : Is that about right you think?
+D : Um.
+A : Hmm.
+A : on the conference call about, um,
+A : how the run?
+D : No. Mmm.
+A : I thought I remembered hearing that some  sites
+A : were saying that they didn't have the compute  to be able to run the Wall Street Journal stuff
+A : at their  place,
+A : so there was some talk about having Mississippi State run  for  them.
+B : Some-
+D : uh, frankly, I don't know because I d-
+D : didn't read   most recent mails about
+A : Hmm-mm.
+A : about their system. I - I don't get any
+B : I have to say, there's uh  cup-
+B : It just - sounds  funny.
+B : But,
+A : Yeah. It does.
+A : And whether or not those are
+A : going to be tuned or not, and -
+A : the scale  can  be completely different, so.
+A : It seems reasonable that that  at least should be
+D : You didn't get any answer from Joe?
+A : I did,  said,
+D : Uh-huh.
+A : you know, "what you're saying makes sense I don't know".
+A : So he  doesn't know what
+A : on that parameter,
+A : But then he wasn't asked  to run it for anybody. So i- it's -
+D : Mm-hmm.
+A : what's happening.
+B : So it could  be - I mean, Chuck and I had actually talked about this a couple times, and - and - over some lunches, I think,
+B : Suppose y- you can't  adjust
+B : uh, features.
+B : But the problem with that is that isn't quite  the same, it occurred to me later,
+B : uh, @@
+D : Yeah.
+B : what might  get at something similar, it just occurred to me, is kind of an intermediate thing - is because we do this strange thing that we do with the tandem system,
+B : at least in that  system what you could do
+B : values that come out of the net,  like  log probabilities,
+B : and scale those.
+B : And then, uh, um - then at least
+B : those  things would have
+B : the right values or the right - the right range.
+D : Mm-hmm.
+B : I know they're not.
+B : So because what we're doing is pretty strange and complicated, we don't really know what the effect is
+B : um, not  used as probabilities,
+B : probabilities, and so we can model them better. So, in a way we're
+B : they're this quantity  that
+B : looks kind of Gaussian when you take it's log. So, uh, maybe -
+B : maybe  it would have a - a reasonable effect to do that. I d- I don't know.
+B : But, I mean, I guess we still haven't had a -
+B : a ruling back  may  you know  can't  change the
+B : word insertion penalty. But the other  thing we could do
+B : is - also we   could - I mean, this - this may not help us,
+B : uh, in the evaluation  understanding  run  insertion  penalties,
+B : and show that, uh, "well, O_K, not
+B : playing the rules the way you wanted, we did this.  that,  a big difference."
+A : of these features,
+A : our l-  version  of the back-end,
+B : Well, we can probably use the real  thing, can't we? And then jus- just, uh,
+A : And then we just use that to determine some scaling  factor that we use.
+A : Mm-hmm.
+B : the observations. But -
+D : Mm-hmm.
+E : Out of curiosity, what - what kind of recognizer is the one from Mississippi State?
+E : Is it - ?
+E : Um, is it like a Gaussian mixture model?
+A : Gaussian mixture model.
+A : It's the same system that they use when they participate in the Hub-five evals. It's a,
+A : sort of came out of, uh -
+A : uh, looking a lot like H_T_K. I mean, they started off with - um, when they were building their system they were always comparing to H_T_K to make sure they were getting similar results. And so,
+A : it's a Gaussian mixture system,
+B : start off with a small number of some things and - ? Yeah.
+A : Yeah. And then divide the mixtures in half. I don't know if they do that. I'm not really sure.
+E : Hmm.
+B : D- Do you know what kind of tying  they use? Are they - they sort of - some sort of -
+A : Yeah, th- I have - I - I - I don't have it up here but I have a - the whole system description,
+A : exactly what their system is and I - I'm not sure.
+B : O_K.
+A : But, um -
+B : O_K.
+A : uh, clustering  and,
+A : uh -
+A : They're - they're trying to put in sort of all of the standard  features
+E : Mm-hmm.
+B : So the other, uh, Aurora thing maybe is - I- I dunno if any of this is gonna
+B : come in in time to be relevant, but, uh, we had talked about, uh, Guenter
+D : Mm-hmm.
+B : uh, over in Germany and - and, @@
+B : uh, possibly coming up with something
+B : that would, uh, uh, fit in later. Uh, I saw that other mail where he said that he -
+B : uh, it  wasn't going to work for him to do C_V_S.
+D : Yeah. Um - Mm-hmm.
+B : So if he'll -
+B : he might work on improving the noise estimate or on
+D : Yeah. Mm-hmm.
+B : Someone, I forget the name, and - and Ney, uh, about histogram
+B : Did you see that one?
+D : Um, it was a poster.
+D : Um -
+D : It was something
+B : the amplitudes,  I guess. Right? And then -
+D : Mm-hmm.
+B : Um, people do this in image processing some. You have this kind of -
+B : when you get a new   better in some way,
+B : you adjust it so that the histogram of the new  old  linear   or,
+B : uh, some  kind of piece-wise approximation. They did a -
+B : uh  them   -
+B : points. And, uh,
+B : they said they s- they sort of see it in a way as s- for the speech case - as being kind of a generalization of spectral subtraction in a way, because, you know, in spectral subtraction you're trying to
+B : get rid of this excess energy. Uh, you know, it's not supposed to be there.
+B : Uh - lot  of different levels. And then they have s- they have some kind of,
+B : uh, a floor or something, so if it gets too low you don't -
+E : Hmm.
+A : Hmm.
+D : Mm-hmm.
+A : So is this  a histogram across different frequency bins?
+A : Or - ?
+B : Um, I think  this i-
+D : I think  I- uh -
+D : Something like one per But I did -
+B : One -
+D : But I should read the paper. I just went through the poster quickly, and I didn't -
+B : Yeah. And I don't remember whether it was filter bank things or whether it was F_F_T bins or -
+A : that, um, frequency?
+E : Hmm.
+B : Yeah. And they do - they said that they could do it for the test -
+A : through some histogram generation thing and then you compare
+A : make it more like - ?
+B : In principle. I didn't read carefully how they actually implemented it, whether it was some,
+B : but they -
+B : We're sort of curious about, uh, what are some things that are,
+B : u- u- um,
+B : @@
+B : conceptually  quite different from what we've done.
+B : uh, was, you know, they could actually make a unified piece of software that handled a range
+B : And it would turn, you know, one thing into another. It'd turn Wiener filtering into spectral subtraction, or whatever.
+B : But there's other things that we're not  not  making any use of pitch,
+B : uh, uh, which again, might - might be important,
+B : Uh -
+B : And, um,
+B : play around with some of these things now over this next
+B : Well, he's got  can.
+B : So potentially if he came up with something that was useful, like a diff- a better noise estimation module or something, he could ship it to you guys u-  up there and
+B : we could put it in.
+D : Mm-hmm. Mm-hmm.
+B : Yeah. So,
+B : that's good.
+B : So, why don't we just, uh, um - I think starting -
+B : starting a w- couple weeks from now, especially if you're not gonna be around for a while, we'll - we'll be shifting more over to some other -
+B : uh,
+B : uh, n- not - not so  much in this meeting about Aurora, but -
+B : but, uh,
+B : and then Barry can say something about - what we're talking about.
+C : showed up this  week. He'll be here for about six months. And he's done some work using
+C : auditory
+C : human hearing,
+C : and using that f- uh, to generate speech recognition features.
+C : And work back in Germany
+C : toy  recognition system
+C : digit recognition single-layer  neural  network
+C : that classified words - classified digits,
+C : Um, and think  seemed respectable. And
+C : he w- he's coming here to u- u- use it on a-
+C : although I don't understand them that  well.
+C : correspond to what's called the peripheral auditory system.
+C : And
+C : I guess that
+C : what  we have
+C : @@  in  there that isn't already modeled in something like,
+C : um, P_L_P. I should learn more about that.
+C : And then
+C : the second  is, um,
+C : the most
+C : @@
+C : So th- he uses analysis functions called Gabor functions,
+C : um, which have a certain
+C : in time and in frequency.
+C : represented as a time-frequency representation.
+C : So you're sampling some piece of this time-frequency plane.
+C : @@
+C : instead of having everything - like we use a twenty-five millisecond or so analysis window,
+C : using this, um, basis function idea, you could have some  basis functions
+C : which have a lot longer  time scale
+C : and, um, some which have a lot shorter,  and
+C : so it would be like multi-scale  features.
+C : Th- this is - because
+C : um -
+C : there are a lot  of different possible basis functions. And so he -
+C : an optimization procedure to choose an -
+A : Hmm. H-
+C : he starts with - he has a set of M_ of them.
+C : Um,
+C : he - and then he uses that to classify -
+C : using
+C : length-M_ vector.
+D : Hmm.
+C : possible sub-vectors.
+C : the best,  I guess, he says -
+B : Y- yeah.
+C : the - the fe- feature that  didn't use
+C : was the most useless feature,
+C : another feature
+B : Yeah. So i- so it's actuall-
+A : it's a little  bit like a genetic algorithm or something in a way.
+B : So, first thing, well, you're absolutely right. I mean,
+B : in truth,
+B : both  pieces of this are - have their analogies in stuff we already do.
+B : take
+B : at how to approach it and potentially  one that's
+B : m- maybe a bit more systematic
+B : uh, and a b- a bit  more inspiration from - from auditory things. So it's - so I think it's a neat thing to try.
+B : The primary  features,
+B : um, are  in fact -
+B : uh, compression.  We always have some compression. We always have some - you know, the - the -
+B : Um, RASTA  in it - i- RASTA - the filtering being done in the log domain
+B : uh, um,
+B : uh, auditory front-ends. So it's very, very similar,
+B : Um,
+B : I would agree that the second one is - is somewhat  more different but,
+B : um, it's mainly  doing   like that
+B : you know, basically  what they do is they - they look at the different eigenvectors out of the L_D_A and they form filters out of it. Right?
+B : And those filters
+B : And so in fact they're multi- scale.
+B : But, they're not sort of systematically multi-scale, like "let's start here and go to there, and go to there, and go to there", and so forth. It's more like,
+B : you run it on this, you do discriminant analysis, and you find out what's helpful.
+B : @@
+B : Uh, I mean, you don't have  to but - but - but, uh, Hynek has.
+B : but it's also,  uh -
+B : @@
+B : Hyn-  frequency  time
+B : I think  may  simultaneously   - some two-D_ - and that would be the closest to these Gabor function kind of things.
+B : Uh, but I don't think they've done that much of that.
+B : And, uh, the other  thing that's interesting - the - the, uh -
+B : the feature  simple  method,
+B : like  it. Um,
+B : there's a -
+B : eh, uh, I remember people referring to it as old when I was playing with it twenty years ago, so I know it's pretty old,
+B : And then
+B : you take - y- you find the next feature that's the best in combination  with it.
+B : And then so on and so on.
+B : And what - what Michael's  much,  better,
+B : because the problem  picked the right
+B : set of features. Just because something's a good feature doesn't mean that you should be adding  it. So,
+B : um,
+B : uh, here  all  useless
+B : Uh, you're always  looking at things in combination with other features.
+B : Um,
+B : how you a- how you assess it and if - if your order had been different in throwing them out.
+B : I mean, it still isn't necessarily really optimal,  but it seems like a pretty good heuristic.
+B : the thing that I  wanted to - to add to it also was to have us use this in a multi-stream way.
+E : Hmm.
+B : you don't necessarily just put them
+B : but perhaps
+B : have some of them   them   in another stream, and so forth.
+B : um,
+B : um -
+B : uh, Shihab Shamma's stuff, in which
+B : you - the way you look at it is that there's these different mappings and some of them emphasize, uh, upward
+B : uh, energy and fre- and frequency. And some are emphasizing downward  and
+B : fast  slow  things and -
+B : and so forth. So.
+B : he, uh, came here with and branch out -
+B : here, too, So,
+B : he'll be another
+E : As - as we were talking about this I was thinking,
+B : Yeah.
+E : um, whether there's a relationship between -
+E : um,
+E : between Michael's approach to, uh, some - some sort of optimal brain damage or optimal brain surgeon on the neural nets.
+C : Hmm
+E : um -
+E : we have our - we have our RASTA features and -
+E : and presumably  the neural nets are - are learning some sort of a nonlinear mapping,
+E : uh, from the - the - the features
+E : to - to this - this probability  posterior space.
+E : Right? And,
+E : um -
+E : some sort of pattern.
+E : like these, um - these auditory patterns that Michael
+E : And then when you're looking at the -
+E : the, uh, best  features,
+E : you know, you can take out - you can  hidden  units that don't really help at all. And this is k- sorta like -
+B : features.
+B : point  here is that, um,
+E : Yeah.
+B : if we a- again try to look at how is this different from what we're already doing,
+B : a nasty argument that could be made th- that it's - it's not different at - at all,
+B : because, uh - if you ignore the - the selection part -
+B : uh, nonlinearity
+B : that, uh, in fact is combining  over time and frequency,
+B : better  neural  best.
+E : Mm-hmm.
+C : @@
+B : Um, so you could argue that in fact it - believe
+B : even though
+B : in principle
+B : added  subtracted  waveform  -
+B : You know, uh, if you've - you've processed it in some way you've typically lost something  information.
+B : you've lost  better
+B : with -
+B : uh, I - I know that i- sometimes it's useful to -
+B : to constrain
+B : why it really seems like the constraint  all  are
+B : Because if it wasn't completely  ago,  ago  we already knew how to put waveforms into powerful statistical mechanisms.
+B : So.
+D : Yeah. Well, if we had infinite processing power and
+B : Yeah-
+D : I guess, using the waveform could -
+B : then it would work. Yeah, I agree.
+B : Yeah. There's the problem.
+B : those  have  done experiments where we literally have put waveforms in and -
+B : and - and, uh, we kept the number of parameters the same and so forth, and it used a lot
+D : Mm-hmm.
+B : So, anyway  suppress
+B : it's not just having the maximum information, you want to suppress,
+B : for the discrimination you're trying to make.
+B : So maybe just briefly, uh -
+E : Well, that sort of segues  I'm  doing.
+E : um, come up with a set of,
+E : uh, intermediate categories, then build intermediate category classifiers, then do recognition,
+E : I'm looking at - at, um, deciding on a initial set of intermediate categories. And
+E : I'm looking
+E : um, a set of intermediate categories later down the line.
+E : And one  neural  net -
+E : um, at the end of the day you have this neural net and it has hidden -
+E : um, is learning some sort of pattern.
+E : And so, um, what - what are  know.
+E : to - to see,
+E : uh, presumably  important
+E : maybe some, uh, intermediate categories can come from
+E : just looking at the patterns of -
+B : Be- before you get on the next part l- let me just point out that s- there's - there's a - a pretty nice
+B : relationship  you're  you're  talking about doing there. Right? So,
+B : it seems to me that, you know, if you take away the - the -
+B : primary features,
+B : and, say, you use - as we had talked about maybe doing
+B : um, then this feature discovery,
+B : uh, uh, thing
+B : is just what he's  too,
+B : except that he's talking about doing them in order to discover categories  that correspond
+B : the other  difference is that,
+B : he's doing this in a - in a multi-band  setting,
+B : which means that he's constraining  himself
+B : to look across time  in some f- relatively limited, uh, uh, spectral extent. Right?
+B : So they're - they're really  related  some  point where we'll
+E : Mm-hmm.
+E : Um.
+E : Yeah, so - so that's the - that's the first part - uh, one - one of the ideas to get at some -
+E : some patterns  of intermediate categories.
+E : Um, was,
+E : uh, come up with a - a - a model - um, a graphical model,
+E : that treats the intermediate categories
+E : as hidden  about,
+E : but that through,
+E : um, s- statistical training and the E_M algorithm, day,  we have, um -
+E : we have learned  happen  intermediate categories.
+E : Yeah, and so those are the - the two directions that I'm - I'm looking into right now. And, uh,
+E : Yeah. I guess that's - that's it.
+B : O_K.
+E : Oh, tea time?
+B : Yeah. It's kind of like, you know, the little rats with the little thing dropping down to them.   We do the digits and then we get our treats.
+A : That's ri-
+B : O_K. Transcript L_ dash three seven one.
+B : Two zero, five four, five five, three three, five nine.
+B : Four four five, one zero, four two three zero.
+E : Oops.
+B : Three three, one seven, five five, six seven, one zero.
+B : Eight, eight three one, one seven, two six three, zero.
+B : Five six zero, six zero four, nine seven two seven.
+B : Eight, one eight three, two nine, eight zero five, seven.
+B : Nine eight, five seven, two zero, eight eight, nine three.
+B : Six five three, four five eight, five four seven five.
+E : Transcript L_ dash three seven zero.
+E : Nine eight six, eight seven six, three seven two three.
+E : Four nine two, one six eight, one one zero.
+E : Six, seven one four, three eight, four eight eight, three.
+E : Four one eight four, seven three one seven, one nine one one.
+E : Three one six five, four three seven eight, nine six six nine.
+E : Two three one seven, O_, five six four.
+E : Four six O_, four one one, six
+E : Seven four one eight, nine O_ seven five, O_ four four nine.
+A : Transcript L_ dash three six nine.
+A : Zero two six zero, nine nine eight five, four four nine four.
+A : Three, nine eight five, seven five, six four zero, three.
+A : Four nine six, two six, seven zero zero one.
+A : Nine four two, one two zero, seven six seven.
+A : One seven seven, four six eight, two eight nine.
+A : Two five, one nine, three seven, two eight, five two.
+A : One seven three, five seven seven, two eight six four.
+A : Seven eight eight, three one three, five seven six.
+D : Transcript L_ dash three six eight.
+D : Five nine six nine, three, eight nine zero.
+D : Six one five, six zero nine, three zero three.
+D : Zero seven zero three, eight eight three zero, two zero zero six.
+D : Four one three, six eight three, seven four three seven.
+D : Nine six, nine three, three three, six six, six seven.
+D : Eight four five, three zero, eight five seven six.
+D : Three three two, zero two one, eight two eight.
+D : Nine six zero, four seven, four five two three.
+C : Transcript L_ dash three six seven.
+C : Nine eight seven, two three one, nine two one one.
+C : Six, two zero seven, two two, two three eight, nine.
+C : Four seven five, seven three, eight nine seven zero.
+C : Three nine three, five eight seven, five four zero five.
+C : Seven six five eight, five four two zero, one eight four six.
+C : Five, one five nine, six eight, zero nine three, one.
+C : Two eight five, three one three, six three nine seven.
+C : Four eight zero one, six zero four nine, four six zero zero.

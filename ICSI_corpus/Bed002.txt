@@ -1,0 +1,611 @@
+E : I guess.
+B : So, which is my
+B : Number one.
+E : Sibilance. Sibilance.
+A : No. Each individually. We're talking  cognitively  really
+E : Everyone would need extreme  focus.
+C : Other way.
+B : For our  stuff. Yeah.
+C : Yeah.
+A : Um.
+A : Again, I'm not sure how much I should talk about
+C : Mmm. Well, we have one  more coming.
+A : O_K.
+A : So this is transcript three six five one three six seven O_.
+A : Three
+A : five one nine O_ three
+A : six four O_ two three O_ eight
+A : seven three nine
+A : eight seven five nine
+A : Uh, strike that. Eight seven nine five.
+A : nine
+A : O_ O_ six one
+A : zero zero one
+A : two two
+A : three five
+A : four five one O_ five two one
+A : Uh, five six four seven
+A : six
+A : seven
+A : eight O_ two one four
+A : O_ four six
+A : zero five five eight zero two eight.
+A : one six eight two eight
+A : two nine
+A : three.
+B : O_K. This is Transcript three six three one three six five O_.
+B : three one five
+B : four two nine seven six three nine
+B : five seven one
+B : six seven four four six
+B : seven
+B : eight
+B : nine zero four three
+B : zero two four nine two six nine
+B : one seven four one
+B : two three four zero four seven nine
+B : three seven
+B : four
+B : five
+B : six
+B : eight three O_ nine
+B : nine three four seven
+B : O_ seven
+B : zero nine O_- one seven
+B : one
+B : two.
+C : This is transcript three five seven one three five nine O_.
+C : Zero nine six zero.
+C : One.
+C : Two.
+C : Three zero zero zero.
+C : Five one two.
+C : Six four O_ one nine.
+C : Seven three.
+C : Eight eight eight.
+C : Nine.
+C : O_.
+C : Zero zero three one two nine eight.
+C : Two three five
+C : three three O_.
+C : Four nine
+C : Four nine one zero five zero seven.
+C : Six.
+C : Seven O_ five three one.
+C : Eight zero six two zero.
+C : O_ one five.
+C : Zero three eight three two.
+E : This is transcript three five nine one three six one zero.
+E : one four
+E : two six six
+E : three six five zero
+E : four
+E : five O_ five six
+E : seven two
+E : eight four
+E : nine nine nine O_ O_
+E : O_
+E : zero eight eight three
+E : one
+E : two
+E : four one five seven five O_ one
+E : five three two O_ six six eight
+E : six seven two six four nine one
+E : seven six zero zero eight eight nine
+E : eight seven eight five
+E : nine
+E : O_ O_
+E : one two eight O_.
+F : This is transcript three five five one, three five seven O_.
+F : O_ nine O_ eight O_ two O_
+F : zero
+F : one O_ O_ seven four
+F : three four zero one
+F : four two one eight
+F : five four seven eight eight
+F : six eight two
+F : seven
+F : eight O_ six six four five O_
+F : nine zero
+F : zero one
+F : one five
+F : two six O_
+F : three
+F : four seven six three one zero zero
+F : five
+F : six
+F : eight two seven
+F : nine two nine five nine
+F : O_ four two three.
+A : Thanks.
+A : only once,
+A : I mean, you should read  the consent form, but
+A : uh, the thing to notice is that we will  give you an opportunity
+A : we're not exactly sure either. So, don't worry too much about it. The - It's just self rating.
+A : I mean , should I -
+A : Do you want me to talk at all about why
+C : Whether she knows   is another question.
+C : Oh, I  see, but the a- but the - but the -
+A : Um, so we will  go through and, in the speaker I_D tags there'll be, you know, M_one O_ seven, M_one O_ eight.
+A : um, it w- uh, I don't know a good way of doing it on the audio,  discourse  research be able to use the data.
+A : Yeah, I mean, whatever you wanna do is fine, but we find that - We want  the meeting to be as natural as possible.
+F : O_K.
+C : O_K.
+A : So, we're trying to do real  meetings.
+A : So I think that it's better  just as a pro- post-process to edit out every time you bash Microsoft. You know?
+C : Um, O_K. So why don't  you tell us briefly
+A : So my  particular interest is in the P_D_A of the future.
+A : Um.
+A : Um. So the first step on that, in any  of these, is to collect some data.
+A : um, especially for people who aren't interested in the acoustic  parts of this corpus. So, for people who are more interested in language,
+A : we didn't want to penalize  them by having only the far field mikes available.
+A : And then also,  um, it's a very, very hard task in terms of speech recognition.
+A : So we wanted the near field mikes to at least isolate  the difference between the two.
+A : And then, all  synchronously   so that you can also do things like, um, beam-forming on all the microphones and do research like that.
+A : There's other work going on in meeting recording. So, we're - we're working with S_R_I,
+A : Um. Oh,  digit  task.  Um.
+A : O_K, so when the l- last person comes in, just have them   wear a wireless. It should be on already.
+A : Either one of those. And uh, read the digit strings and - and fill out the forms. So, the most important form is the consent form, so just be s- be sure everyone signs that, if  they consent.
+B : I'm sure it's pretty usual for meetings that people come late, so you will have to leave  set .
+A : It'll just be sitting here.
+A : Thank you.
+B : Input?
+C : screen as well. So, you know.
+C : Wow!
+C : So you guys who got email about this oh f- uh, Friday or something about what we're up to.
+B : I  got it.
+C : Oh, this was about
+C : um, inferring intentions from features in  context,
+C : and the words,   like "s- go to see", or "visit", or some-
+B : Wel- we- I - uh - I - I - @@
+E : I don't think  I did.
+B : if we thought it's - it's worth it but, uh, I think we - we will agree  on that,
+B : um, and
+B : Oh, I can actually walk with this. This is nice.
+B : down here.
+B : we found in our, uh,
+B : this  way,
+B : If you want to actually go up  into  this  way, and then through some buildings and up some stairs and so forth.
+B : If you actually want to see
+B : and that's what actually most
+B : you have to go this  way, and go up here.
+B : these lines are, um, paths,  or so-
+B : the street  network of our geographic information system.
+B : So,
+B : Maybe you want to enter  a building.
+B : Maybe you want to see  picture  of it.
+B : Um, r- red limestone.
+E : So maybe you would  wanna touch it.
+B : These intentions, we - w- w- we could,
+B : where we just want to - eh - s- get the overview or look at it,
+B : So - But sometimes the - the Tango mode is really relevant in the - in the sense that, um,
+B : If you don't have the intention of entering  your building,
+B : but you know that something is really close  to it,
+B : and you just want to approach  to  that building.
+B : Consider, for example, the Post Office in Chicago, a building so large that it has its own zip  code.
+B : So the entrance  miles  away
+B : m- m- makes sense maybe to d- to distinguish there.
+B : Uh, I didn't look through all
+B : And sometimes  more  obvious -
+B : Um.
+C : No, O_K come in, sit down. If you  grab yourself a microphone.
+D : O_K.
+D : O_K. Afterwards is fine.
+D : O_K, go ahead.
+B : They are  uncomfortable.
+D : @@  Small?
+B : Yep.
+B : O_K, but  that was our idea. Is -
+C : And it -  on,  Nance.
+E : No, that  on,  I thought he said. Yeah.
+B : O_K. That was the idea. Um, people, when they w- when they want to go to a building, sometimes they just want to look at it.
+B : Sometimes they want to enter  close  to it.
+B : And the lead  them for these intentions
+B : are sometimes ex- in- incredibly different. I - I gave an example where the point where you end up if you want to look at it is completely different from where - if you want to enter it.
+B : So, this is sort of how people may, uh - may phrase  those requests to a - a - a mock-up system at least that's the way they did it.
+B : what we can sort of do,  closer   a- closer at the - the data -
+B : That was the wrong one.
+B : This is of course a crucial  factor, "what type of object is it?"
+B : So, some  buildings you just don't want to take pictures of.
+B : Some objects are more  picturesque,
+B : in a superficial  modifiers  that -
+B : that m- may also give us a  hint, um,
+B : "I'm trying  to get to"
+B : Nuh? "I need  to get to".
+B : which also   should  be considered. That whatever it is you're doing at the moment may also inter-
+B : Let me, uh, say one more thing. What we do  any  of these.
+B : So, basically all  of these things will result in the same
+B : Where we can start it and n- sort of look - "O_K, we need,  we gonna get those M_-three-L_ structures. The crude, undifferentiated parse.
+B : now,
+F : Now @@  this email that you sent, actually.
+F : Now
+C : So, what is  important is that we
+C : we think  it's well-formed.
+C : So we think  it's a well-formed,
+C : Well, it's the - it's - it's always  all  of it.
+C : So, in general  always  going to be, the answer is,
+C : everywhere.
+C : Uh, so the notion  real  deep.
+C : doesn't give you any way to - Not only doesn't it do  it,
+C : but it also doesn't give  gives  you,
+C : and used some clever inference  algorithm on it, you would be able to figure out which of these is going on.
+C : And, my idea on how to combine  them is with a belief-net, although it may turn out that t- some totally different thing is gonna work better.
+B : So, discourse  - I - I - I thought about that. Of course that needs to sort of go in there.
+C : Oh. I'm  sorry. O_K. So. This is minutes - taking minutes as we go,
+C : in his - in his own way.
+C : Um, but the p- the - Anyway.  So the thing is,
+C : i- uh, d-
+C : naively  speaking,
+C : for this little task, a belief-net,
+C : which is going to have as output,
+C : So that - the - the output  of the belief-net is
+C : And, then the inputs
+C : are going to be these  kinds of things.
+C : there are two  one,
+C : information from, and two,  what's the structure of the belief-net?
+C : So what are  the conditional probabilities
+C : Oh, another  thing you want
+C : abou- I think,
+C : But the time of day matters a lot.
+C : And, if things are obviously  closed,
+C : And, if it's not  may  want to actually
+C : uh, point out  option  of entering it.
+C : So another  up,
+C : and will  serious  about this is,
+C : have a - more of a dialogue.
+C : So if someone says something you could ask  them.
+C : O_K. And - Now, one thing you could do is always  ask them, but that's boring.
+C : So one thing you could do is build a little system that, said, " whenever  you got a question like that I've got
+C : one of three answers. Ask  them which one you want."
+C : O_K. But that's, um, not  what we're gonna do.
+C : Oh yeah. You want the - you want the ability to a- You want the ability  don't  wanna do is
+C : onl- build a system that always  every  time, and i-
+C : it's gonna be much  complex  than that.
+C : a- This is purposely  really   simple case.
+B : Yeah.
+C : So, uh - Yeah.
+B : I have one more point to - to Bhaskara's question. Um, I think also the - the - the deep  understanding part of it is - is going to be in there to the extent that we
+B : um, want  it in terms of
+B : our modeling.  We can start, you know, basic from
+B : going, walking, seeing, we can mem- model all of that  compose  make  primitives.
+B : That will be extremely  my  understanding.
+C : S- so - so the way that might  come up,
+C : "Um, as an intermediate  step in your belief-net, is there a Source-Path-Goal
+C : In some piece of the belief-net, that could be the - the appropriate thing to enter.
+C : No.
+C : No.  saying  is,
+C : the M_-three-L_ does not have any  really  crude stuff saying,
+C : M_-three- well, M_-three-L_ itself  refers to Multimedia Mark-up Language.
+B : The parser output?
+B : " Analyzed   oder   -
+C : Is- i- but they c- they call it intention lattice, but tha- Anyway.
+B : In- in- a- intention lattice k- Hypothesis.  They call it intention hypotheses.
+C : And they don't  give you the kind of object, they don't give you
+B : Nuh?
+B : But it's not in  there.
+C : Well, they - they kee- they keep it by their  lights. It may - it may or may not
+C : be what - what we
+E : But  we'd have to infer a Source-Path-Goal to some degree for
+B : Um,
+B : sometimes  people just say
+B : things - This  you find very often. "Where is the city hall?"
+B : they don't wanna  wanna  go  there.
+B : That's what they say,  is, "Where is it?".
+B : Where is  that damn thing?
+E : And the parser would output -
+B : a - a question  mark. sh-
+B : That's way  beyond their scope, is - of interpreting that. You know?
+B : with the town hall and maybe saying it's a W_H focus on the town hall. But to interpret  it,
+B : you know? somebody else  that  later.
+E : depending on these things.
+B : Because i- we can not differentiate, at the moment,  go  is.
+D : People  either,  right? Like the fact -
+D : I might say, g- ar- "Are you trying to get  there?"
+B : @@
+B : It's a granularity factor, because where people ask you, "Where is New York?  Coast.
+C : Yeah .
+B : Y- y- eh - you won't tell them how to get  there, ft- you know, take that bus to the airport and blah-blah-blah.
+B : But if it's the post  get  there.
+C : But  -
+C : Yeah, that
+B : You know
+D : So that context was like, um, their presumed purpose  context, i- like business or travel,
+D : as well  as the utterance context, like, "I'm now standing at this place at this time".
+C : distinguishing between situational  context, which is what you have as context,
+C : and discourse  context, which you have as D_H, I don't know what the H_ means.
+C : I mean, you need  distinct.
+C : And, so what we were talking  first  shot,
+C : is not  doing  linguistics.
+C : Except to find out what seems to be useful.
+C : So, the - the - the reason the belief-net  blue,
+C : Uh, this may be a bad dis- bad idea,  but the idea is
+C : to take as a first goal,
+C : see if we could actually build  a belief-net
+C : that would  make this three way distinction
+C : uh, in a plausible way,  given
+C : by hand,  get  belief-net,  it would tell you
+C : which of these three uh, intentions  likely. "
+C : And if - to actually do  data  where you hand-transcribe
+C : If that goes well,
+C : extract  them.
+C : So - where would you get  this information?
+C : And,  like  this.
+C : But if we can't  do that,
+C : then we're in trouble.
+C : I mean th- th- i- i- if you can't  this  task,
+B : We need a different, uh, engine.  Machine,
+C : Uh, uh  something.  belief-nets,  logic  or some terrible thing, but
+C : a belief-net is a perfectly good  way of
+C : inferential combination  of it.
+C : The real  are  determining  this?
+C : And I don't know.
+B : Hmm.
+B : But, only w-
+C : Hold on a s- Hold on a second.
+B : Muh .
+C : So, I . Uh, uh, is it clear what's going on here?
+D : I guess - could you back to the slide, the previous  one? So, is it that it's, um -
+D : These are the ones that you said that we are going to ignore  now? or that we want to
+C : Take  account.
+D : Take the - the linguistic factors too.
+C : But - but you don't  worry about - h-
+D : Oh, how to extract  these features. O_K.
+C : how to extract  them.
+C : So, f- let's find out which ones we need  first,
+B : Not from that  data.
+B : But, um, since we are designing
+D : Mm-hmm.
+B : a - a - a - an, compared to this, even bigger
+B : um, we will definitely  in  there,
+B : in  some
+C : Yeah.
+B : we can,  then, get
+B : Um, from this,  sometimes,  that's
+B : s- sometimes when people want to just see  more  like this?
+B : But it doesn't exclude anybody from phrasing it totally differently,  still  you know?
+B : But then other  factors may come into play that change the outcome of their belief-net.
+B : So, um, this is exactly what  never  be sure. And I'm sure even i- the most, sort of, deliberate data collection experiment will never give you data that say, "Well, if it's phrased like that,
+D : Right? Where you have - where  your, uh, current
+B : Yeah! That's  doing.  still  get the phrasing all over the place. I'm sure that, you know -
+D : @@
+D : So that's what you want? O_K.
+D : The - No, that's fine. I guess, it's just knowing  the intention from
+D : the experimental subject. @@
+C : uh, I think you all know this, but we are  use  this little room
+C : and start recording  subjects
+C : any - lo- any of you  guys' worry, except that
+C : we may want to push that  effort to get information we need.
+C : So our
+C : is to figure out how to solve  these problems.
+C : If it turns out that we need data of a certain sort,  then
+C : can be, uh, asked to do  that.
+C : And one  their  help
+C : when we d- we start doing uh, recording of subjects.
+C : So, yeah - y- you're absolutely right,  not  have,
+D : And I think the other  concern that has come up before, too, is if it's -
+E : Mm-hmm.
+D : what situation this data was collected in. Was it - is it the one that you showed in your talk? Like people -
+D : But  O_K. So was this, like, someone actually mobile, like -
+B : N- no, no- not - i- it was  real  wizard system. So there were never answers.
+D : O_K. O_K. But, is it -
+D : as like one  situation. And then you have all sorts of other
+D : I - I would imagine  that the data would be really different.
+B : Yeah.
+B : It was never th- th- the goal of that  data collection to - to serve for sat- for such a purpose. So that's why for example the tasks were not
+B : differentiated by intentionality, there was n- there was no label,  you know, intention A_, intention B_, intention C_. Or task A_, B_, C_.
+B : Um
+B : I'm sure we can produce some  if we need it, um, that -
+B : you know, you gotta leave something for other  people to model.
+D : Mm-hmm.
+B : u- u- Sort of I'm,  at the moment, curious and I'm - I'm - s- w- want to approach it from the end where we can s- sort of start with this toy system that we can play around with,
+B : for that,
+B : what suffices and what doesn't.
+B : And then  we can start worrying about where to get this input, what -
+B : Ultimately  are  all  parser,  do  and then we get more whatever, part of speech and more construction-type-like
+E : and then you give them   a scenario of some sort?
+B : um, first thing is you have to read a text about Heidelberg.
+B : So, just off a textbook, uh, tourist guide, to familiarize, uh, yourself with that sort of odd-sounding German street names, like  Fischergasse   and so forth.
+B : that this huge   that  everything  you want to know,
+B : First you have to know - find out how  to get to that place,
+B : Maybe - So, the next  task is to get to a certain place and take a picture for your grandchild.
+B : The third  one is to
+B : The fourth  one -
+D : a- At the third?  Right then?
+B : After  the third task.
+B : Or after the fourth. Some find - @@  Forget that for now.
+B : and - and exp- apologizes that the system has crashed, but, you know, urges you to continue, you know?
+B : When the human  operator comes on, um,
+B : that person does not  well.
+B : s- tell the person sort of where  see  there.
+D : @@  there.
+B : We can  to  arriving  there.
+B : Maybe we wanna do  Yeah.
+B : You want to go to that place. You know, and it's sort of there.  And you see the label of the name -
+D : Mm-hmm.
+D : So, do you have to respond?  or does your -
+D : Uh,  what are you ste- what are you supposed to be telling the system? Like, w-
+D : what you're doing
+B : I mean, in both  cases it's gonna be a human, in the
+B : And we will re- there will  be some dialogue, you know?
+B : see wh- what they say. We can ins- instruct the, uh, wizard in how expressive and talkative he should be.
+C : Oh yeah, but - to some  extent this is a different discussion.
+D : She   started taking the class last year and then didn't - um, you know, didn't continue. I g- She's a g-
+D : Is she an undergradua- She is  a graduate, O_K.
+D : aspect and stuff like that .
+C : So, anyway, she's looking for some more part time work w- while she's waiting  actually for graduate school.
+C : And she'll be in touch. So we may  have
+C : uh, to do  some  background in - in
+C : all this stuff. And is a linguist st- and, so So.
+C : That's - So, Nancy, we'll have an- At some point we'll have another discussion on
+C : So, when we get  to that we'll have some people doing it that know what they're doing.
+D : I guess the reason I was asking about  the sort of the de- the details of this kind of thing is that, um,
+D : correct answers, but with intention
+D : I'm  not really sure, um,
+D : It is,  if they have these tasks that they're supposed to -
+B : Mm-hmm. n- No  one is, at the moment.
+C : you were  able to, uh, figure out both the intention, and set the context, and
+C : find a way to, basically, featurize  it so that we get some discrete number of features so that,
+C : most likely.
+D : Yeah, it's @@ .
+C : Go back.
+C : to View  it.
+C : O_K? To Enter  it.
+C : you - you might well  really  rather different place than
+C : And, for an object that's at all big,
+C : uh, sort of getting to the nearest part  of it
+C : uh, could be quite different than either of those.
+B : S-
+D : Yeah, like, how
+E : Yeah, cuz a tango - Yeah.
+F : All these
+F : So, like, the question is how  what features can -
+C : So if it turns out that, whatever it is, you want to know whether the person's uh, a tourist  or not,
+C : O_K? that becomes a feature.
+C : Now, how you determine  that
+C : is another issue.  current  problem,
+C : it would just be, "O_K, if you can be sure that it's a tourist, versus a businessman, versus a native, "
+C : a lot  discriminatory
+C : Though sin- f- in the short  set  them,
+C : you would figure out how you could derive  them.
+C : From previous discourse or w- any- anything else you knew.
+C : O_K. Well, anyway. f- Get  one.
+C : uh, presumably one that's got good interactive abilities, cuz a lot  of what we're gonna be d-
+C : But we do  want one
+B : Mm-hmm.
+C : Because i- that's - A lot  of what it's gonna be, is,
+C : playing with this. And probably  one in which it's easy to have,
+C : um, what amounts to transcript files. So that if - if we have all these cases  -
+C : There're even  learning
+A : Mm-hmm.
+C : O_K, and you wanna it s- You know, the standard  @@
+C : And, as soon as we have  one, we can start
+B : An-  Nuh.
+C : But it - what I like about it is it's very concrete.
+C : O_K? We - we have a - we know  what the outcomes are gonna be, and we have some - some data that's loose, we can use our own intuition,
+C : and see how hard  it is,
+C : and, importantly,  need.
+C : You know, this  is the kind of thing that is, you know, an intermediate little piece in your belief-net.
+B : I mean, w- we have the For- FrameNet group here, and  we can see what they have found out about those concepts already,
+B : And - and that altogether could also be - uh, become a nice paper that's going to be published somewhere, if we sit down and write  it.
+B : When you said JavaBayes belief-net you were talking about ones that run on coffee? or that are in the program language   Java?
+C : @@
+C : The obvious advantage  of that is that you can then,
+C : relatively easily, get all the other  GUIs   or whatever else you might want to do. So that i- that's I think why
+C : a lot of people doing research use  that.
+C : But it   not  no  idea whether that's the best choice an- and
+C : there're plenty of people around, students in the department who, you know, live and breathe  Bayes-nets. So, uh,
+C : Nancy  knows him well. I don't know I don't know whether you guys have met Kevin yet or not, but, uh -
+C : So, yeah, we're sort of committed to X_M_L as the kind of,
+C : So, in terms of - of - interchanging in and out  we  build,
+C : It 'll be X_M_L.
+C : And if you're going off to queries to the ontology, for example, you'll have to deal with its  interface.
+C : much  bigger projects than this in mind. So they - they
+C : that  even  worrying  about just yet.
+C : I mean if we can get the core  work,
+C : in a way that we're comfortable  with,
+C : I  believe. I don't - I don't see -
+B : That's, of course, easy  also to do with, you know, X_M_L.
+C : is  probably as good a way as any.
+B : What I - What sort of came to my  mind i- is - was the notion of an idea that
+B : if we,
+B : um, get really  other  MATE,
+B : then we get X_M_ L  documents with discourse annotations, t- you know, t- from the discourse act down to the phonetic level.
+B : Um, Michael   has a project where - you know, recognizing discourse acts and he does it all in MATE, and so
+B : they're actually annotating data and data and data.
+B : if we think  worth  it one of these days,
+B : not - not with this first prototype but maybe with a second,  elsewhere  learn  from that,
+B : that'd be nice.
+C : It'd be nice, but - but I - I - I do- I don't  wanna count on it.
+C : Could  happen. Yeah. So in terms of - of the, um -
+C : the - what the SmartKom gives us for M_-three-L_ packages, it could be that they're fine, or it could be eeh. You don't -
+C : You know, you don't really like  it.
+C : So we're not - we're not abs- we're not required  to use
+C : their packages. We are  format,  but hey.
+C : It doesn't control what you do in- you know, internally.
+B : @@
+E : What's the time frame for this?
+C : Yeah bu- w- I'd like that this - y- yeah, this week,
+C : the - y- you know, belief-net package and tell us what it is, and give us a pointer so we can play with it or something.
+B : No.
+C : And, then as soon as we have  it,
+C : populate  problem.
+C : easiest  way to do that
+B : Yeah. I was actually more joking.
+B : Um, it will take as long as y- y- yo- you guys need  for that. But um,
+C : Right.
+B : maybe it might be interesting if - if the two of you can agree on who's gonna be the speaker next  tell  picked,  and what it does, and how it does that.
+C : Well, y- Well, or both  We  don't care.
+B : to - for
+C : belief-net looks  like.
+C : Even  really  crude.
+E : So we're supposed to @@
+C : And, as I said, what I'd like  to do is,
+C : I mean, what would be really  you  bring it in - If - if - if we could,
+C : the various scenarios  we've experienced."
+C : think you've got a better belief-net,
+C : this data  file.
+E : And  to  this with -
+E : Changing  the table so that the system works in English?
+B : Whi- while you  this,
+B : there.
+B : Uh, the N_T one worked fine. contains   a future date.
+B : So this is the time difference between Germany. I had to wait until one o'clock this afternoon before I was able to unpack it.
+B : Then it will be my  this  machine.
+B : Maybe that's what I  will do next Monday is show the state and show the system and show
+B : that.
+C : at the moment,
+C : separate.
+C : Uh, what one hopes  is that
+C : when  works,  we can both
+C : worry about converting it to English  belief-net.
+E : I guess my question was more about time frame. So we're gonna do belief-nets this week, and then -
+C : Oh, yeah. I don't know. n- None  of this is i- n-
+C : Neither  of these projects
+C : has got a real tight time-line,  in the sense that over the next month there's a - there's a deliverable.
+C : If - if - you know, if we don't get any information for these guys f- for several weeks  then we aren't gonna sit around,
+C : trying to do the problem or guess what they
+C : You know, just pppt! go on and do other things.
+B : we can not  only do the bare necessities, I_E, changing the table so it does exactly in English what it does in German,
+B : but also that we can sort of have the system where we can say, "O_K, this is what it usually  does,
+B : and now we add this  little thing to it",
+B : you know? whatever, Johno's and Bhaskara's great belief-net,
+B : and we plug it in,
+B : and  core  domain of the new system,
+B : it all - all of a sudden it does much better.
+B : Nuh?   Because it can
+B : which would be great.
+B : So not only can you show that you know something sensible but ultimately, if you produce  a system like this, it
+B : takes the person where it wants to go.
+B : always to the geometric center  of a building, which is what they do now.
+B : And we even had to take out  a bit.
+B : Nancy, you missed  that part.
+B : We had to take out a bit of the road
+B : work. So that it doesn't  take you to the wall
+B : So. Um -
+D : Oh, really?
+B : because car  care.
+B : You know, they get you to the beginning  some  now do the house number.
+B : But even that  is problematic. If you go d-
+B : the address,  whatever, street number blah-blah-blah,
+B : you are miles  away from the entrance.
+B : Because the s- postal  maybe  a mailbox somewhere.
+B : Nuh?   but the entrance where you actually wanna go is somewhere completely different.
+D : Right, yeah.
+F : O_K. Sounds good.
+D : I was wondering. O_K.
+D : Sure!
+D : So, you  two, who'll be working on this, li- are - are you gl- will you be doing - Well, I mean are you supposed to just do it by
+D : thinking  about the situation? Can you use the sample data?
+C : Of course  they use the sample data.
+B : There - there's more than I showed, but um, um, I think this is sort of um, in part my  job to look at that and - and to see whether
+B : there are  features in there that can be extracted, and to come up with some
+B : you know, empirically based on - on a real experiment or on - on - on reality  but sort of on your intuition of you know, "Aha!
+F : Mm-hmm
+B : This is maybe a sign for that, and this is maybe a sign for this."
+B : Talk features.
+F : start thinking about that,  hopefully.
+C : O_K. We can end
+C : We can do that as well.
+B : And that's why, when it was hit  by uh, a cannon ball, it exploded.
+E : That's  why they call it the Powder-Tower.
+E : I first  asked.

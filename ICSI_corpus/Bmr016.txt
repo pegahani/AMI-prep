@@ -1,0 +1,545 @@
+F : @@
+F : Will you get the door, and - ?
+F : @@
+D : I did  I'm  gonna go first.
+D : It shouldn't take too long.
+E : Yeah.
+F : No there's only ten.
+D : Yeah, that's right.
+D : for speakers who have  speaker forms
+D : Some of the early  hand,  and so they're not automatically parsable and I have to go back and fix those.
+D : Liz
+F : And you think we- th-  uh,
+D : Right? So the- there are no
+D : So I can't imagine why anyone   would care.
+D : correct me if I'm wrong,  her,  connected numbers is fine, as opposed to connected digits.
+D : Um, I think two hours is probably fine for a test  set,
+F : I was asking if that was something you really cared  wasn't,
+F : telephone  groupings
+F : that maybe people wouldn't, uh, go and do  numbers so much.
+F : Maybe some,  much.
+G : I - well O_K - I - it might  help, I would like to g- get away from having only one specific
+G : grouping. Um, so if that's your question, but I mean it seems to me that, at least for us,  we can learn to read them as digits if that's what people want. I - I'm
+G : and it seems  that  you  digit  data, and that's always a good thing.
+E : Mm-hmm .
+F : it's- I'm not worrying about it I mean, because we do  have digits training data that we have from
+F : uh from O_G_I. I'm sorry, digits - numbers  training that we have from O_G_I, we've
+F : and it  just means that we have to expand our - our vocabulary out to stuff that we already have. Yeah.
+G : Well that's  me  would  digits  other  way
+F : We can go back to the other thing later.  I mean we s- we - we've -
+G : you know, "six - sixty-one would be read as six one". And I  think  people will get it.
+E : Mm-hmm. And i- actually it's no more artificial than what we've been doing with words.  sure  people can adapt to this,
+D : Oh yeah, absolutely, cognitively  much  easier.
+G : O_K-
+G : I also  O_K, so let's give that a try and -
+G : I mean what do other people think cuz you guys are reading them.
+E : I think that i- it's fine. I- it - it - to me it looks like you've got the func- the idea of grouping and you have the grou- the idea of separation and, you know, it's just a matter of u- i- the instructions,  that's all.
+G : Righ- right, and you just - they're randomly generated and randomly assigned to digits.
+E : Yeah, I also  would like to argue for that cuz it - it seems to me that, um,
+E : um, the other thing too  stratified  dialect  might  be - there might be an argument to be made for having
+E : uh f- for replicating all  core  that totally replicates the original data set,
+D : spending too  much effort trying to duplicate the existing T_I-digits
+D : probably isn't too worthwhile because the recording situation is so  different. It's gonna be very hard to be comparable.
+E : Except  comparable,
+F : Well i- i- individual human glottis is going to be different for each one, you know, it's just - There's so many things.
+D : the corpus itself.  I mean, we're collecting it in a read digit in a particular list, and I'm sure that they're doing
+F : Yeah, I think the reading zipcode stuff you're thinking of would be  O_G_I.
+D : I haven't ever listened  to T_I-digits. So I don't really know how it compares.
+D : But - but regardless  it's gonna - it's hard to compare cross-corpus.
+F : It- it's different people core  thing. And they're different circumstances with different recording environment and so forth, so it's - it's - it's really pretty different. But I think
+E : O_K, fine.
+F : the idea of using a set thing was just to give you some  exact  valid  it'd  give you
+F : some  kind of
+G : number of groups in a line, and number of digits in a group, and the pattern of groupings.
+B : Are the patterns - like are they based on anything or
+B : Oh.
+G : I mean, actually, things are getting longer and longer. In the old days you probably only had three sequences, and telephone numbers were less, and so forth.
+G : I purposely didn't want them to look like they were in any kind of pattern. So
+D : And which  numbers  are are picked randomly.
+G : Right.
+G : Especially  talk  um, for adaptation. No, I'm serious, so
+D : Oh, you're not.
+G : that's not fair to use ". But, it might be fair to use the data for adaptation, so.
+G : So those speakers who are very quiet, shy - r- Right -
+D : That would be interesting to see  helps.
+G : Right, and so I still like the idea of having some kind of
+G : digit data
+F : acoustic  research, for the signal-processing,
+F : I see it as - as - as the place that we start.
+F : But, th- I mean, it'd be nice  to have twenty hours of digits data, but - but uh the truth is I'm hoping that
+F : and at some  have  to move on
+G : The only thing that we don't  have, I know this
+G : sounds weird, and maybe it's completely stupid, but we don't have any overlapping  digits.
+A : Overlapping digits!
+G : Alright everybody's laughing. O_K.
+C : Dueling digits.
+D : No it's - it's not stupid, it's just - I mean, try  do  it.
+G : I'm just talkin- for the stuff that like Dan Ellis
+A : Oh!
+G : Wait - oh it - these are all the same forms. O_K So but -
+G : So you plu- you plug your ears.
+G : Digits are nice and well behaved, I mean
+G : Anyway, it's just a thought. It - it would go faster.
+G : It would take one around
+G : I - I mea- I'm - I was sort of serious, but I really, I mean, I'm - I don't feel strongly enough that it's a good idea, so.
+D : You do the last  first  line.
+D : Six one, six two, one eight, eight six, one O_.
+F : Zero zero nine, six six three, nine one nine.
+G : A- and that prosody was great,
+B : I couldn't understand a single thing you guys were saying.
+E : I think  not  sure.
+G : It - it sort of sounded like a duet, or something.
+F : Alright  three  at once you - you pick one in the middle.
+A : The Aurora theater.
+D : Six one, six two, one eight, eight six, one O_.
+F : Zero zero nine, six six three, nine one nine.
+G : Five, six O_ six, five five
+G : I'm sorry. I'm mean I think it's doable, I'm just -
+D : The poor
+G : So, we - we could  round  like where you do two at a time, and then the next person picks up when the first guy's done, or something. Like a,
+F : Row, row, row your boat. Yeah.
+D : Mm-hmm.
+G : Then it would go like h- twice  third  as fast.
+D : Mmm.
+G : O_K.
+E : c- c- Can I- can I have an- another - another question w- about  contain
+D : I thought  this was gonna be fast. Oh well.
+E : general phon- phoneme sequences. Like "wonderful" has "one" in it and - and Victor Borge had a - had a piece  on this where he inflated the digits. Well,
+E : I wonder if there's, um, an- if there would be a value in having  digits that are in essence embedded in real words to
+E : There  you go.
+D : Not after I "eight" though.
+F : Uh, they don't all work as well,  do
+F : Hmm.
+F : What  nine  work in? Uh,
+D : Uh.
+C : Nein!
+C : You scream it.
+D : Nein!   You have to be German, yeah.
+F : Oh.  German,
+G : Oh, oh!
+B : It's great for the Germans.
+E : Nein.
+D : Oh!
+C : It only sounds w- good when you scream  it, though.
+F : I think everybody's a little punchy  today. Yes.
+E : and - a- But, you know, if it were to be deflated, just the normal word, it would be like a little story  that we could read.
+E : I don't know if it would be useful for comparison, but it's embedded  numbers.
+F : form here.
+F : So if somebody wanted  to do that, if they wanted to look at the - the - the difference of
+F : I mean if you  were interested in it then we could do it, for instance.
+E : O_K, thank  Huh.
+G : Well I was actually gonna skip the A_S_R results part, in favor of getting the transcription  stuff
+D : Horrible?
+A : So, your - your A_S_R results were run on the channels synchronized,  O_K.
+G : Yes, cuz that's all that w- had been transcribed at the time, um
+G : channel asynchronous  that  would be very interesting for us because we -
+F : used the part from use- which we had uh about uh about the alt- over all the channels or mixed channel rather mixed  signal.
+B : So if there was a segment   of speech this long
+G : That's right.  In fact I - I pulled out a couple classic examples in case you wanna u- use them in your talk of
+D : I noticed  that Chuck was wearing the lapel a lot.
+G : Um, yeah, and I  once,  me  lapel  O_K . I mean I still -
+G : for you  it was - Or who was next to me or something like that.
+G : saying a few  things inside, and it's picking up all of Morgan's words pretty well
+G : Insertions aren't bounded, so with a one-word utterance and ten insertions you know you got huge  error rate.
+D : And he said, "Lots lots lots lots."
+G : what would need to be done.  And
+G : because right now we're not able  to actually report on recognition in a real paper, like a Eurospeech paper, because it would look sort of premature.
+B : where  based on
+B : the other
+B : I thought we were just gonna move the boundaries  in.
+D : I mean that- that's the sort of thing that you would do.  So.
+G : Yeah. Yeah. Exactly,  so it's - it's a -
+B : O_K. So do sort of what he's already - what he's trying  to do.
+A : Yeah I'm working on it.
+G : some of yours, and @@  we'll move on.
+G : O_K.
+E : Mm-hmm. Mm-hmm.
+D : I also wanted to say I have  done all this chopping up of digits, so I have some naming conventions that we should try to agree on.
+G : Speakers and - O_K.
+G : rewrite out these waveforms that we  did because as you notice in the paper your "M_O_-four" in one meeting and "M_O_-two" in another meeting and it's - we just need to standardize the
+C : That was my fault.
+F : No, I didn't  @@
+G : um, that's why those comments are s- are in there. So -
+C : Yeah. Then disregard it then.
+C : O_K .
+D : Don, you had disk space and storage formats. or should you just talk with Chuck
+C : the person to talk to. So, is it a lossless compression when you compress, so -
+D : And I assume half of it is scratch and half of it is - ?
+F : That's typical,
+C : it's local  though, so -
+D : That  doesn't matter.
+F : In fact, this is an eighteen gig drive, or is it a thirty six gig drive with eighteen -
+C : Alright. How do you do  that?
+C : Oh I see. O_K. Alright, I did  know that.
+D : Um, so the - the only question is how much of it - The distinction between scratch and non-scratch  is whether it's backed up or not.
+D : So what you wanna do is use the scratch  for stuff that you can regenerate.
+D : the stuff that isn't backed up is not a big  frequently,  long  as you can regenerate it.
+C : Right. I mean all  of this stuff can be regenerated, it's just a question -
+E : Mm-hmm, very good point.
+G : Well I'd leave all the - All the transcript stuff shouldn't - should
+G : Sound  files should not be backed up, the ones that you write out.
+C : should we shorten  them, downsample them, or keep them in their original form?
+D : I mean, because it's not backed up and it's just on scratch, if your sc- tools can't take  shortened format, I would leave them expanded,
+D : so you don't have to unshorten them every single time you wanna do anything.
+G : We can  downsample them,
+G : Yeah, we get the same performance. I mean the r- the front-end on the S_R_I recognizer just downsamples them on the fly,  so -
+G : So that's -
+F : I - I - I'm sorry - Yeah, l- I mean over all  our data, we - we want to not downsample.
+G : I mean, this is just a question.
+G : segments, that wherever there's a time boundary from Thilo, or - or Jane's transcribers, you know, we - we chop it there.
+G : And those  storing.
+D : Yeah, as I said, since that's - it's regeneratable,  what I would do is take -
+F : ye-
+F : that is not downsampled,  then,
+F : uuu
+B : a list of segments to chop out
+B : from that large audio file?
+G : yeah, y- we could probably write  convenient  to have them chopped out cuz you can run them,
+G : Uh, you can get rid of-
+G : Yeah, it- it's a lot  faster.
+D : run all the English
+D : all the native speakers, and all the non-native  men,  women.  Yeah.
+G : You can grab everything with the word "the" in it, and it's -
+G : So in principle, yeah, you could  do  that, but it's -
+B : I don't - I don't think that's really right.
+D : "That's just not right, man."
+D : Right, so if - if you did it that  particular  that  way.
+D : The way they're  extracted  embedded  in the file name.
+G : Right.
+G : So we're also looking at these in Waves like for the alignments  and so forth.
+G : You can't load  X_Waves .
+G : You need to s- have these small files, and in fact, even for the Transcriber  program
+D : Yes  you can.
+B : Yeah, you - you  can give Waves a start and an end time.
+G : Yeah, if you try to load s- really long waveform into X_Waves, you'll be waiting  there for -
+B : No, I - I'm not suggesting you load a long wave file, I'm just saying you give it a start and an end  time. And it'll just
+D : w- The transcribers
+A : No, with the Transcriber  problem.
+E : In the - in-
+A : Yeah just to load a transcription
+A : @@
+A : takes a long time, but not for the wavefile. The wavefile  immediately.
+D : Are you talking about Transcriber  X_Waves ?
+E : It was also true of the digits task which was X_Waves.
+D : because i- we used X_Waves to do the digits.
+D : And they were loading the full mixed files then, and it didn't seem  to be any problem.
+E : Very quickly.
+G : It- it's a lot slower to load in a long file, and also to check the file, so if you have a
+D : Well regardless,  it's -
+G : overall  could  get everything to work by
+G : Yeah, it's -
+G : Yeah.
+D : If we don't  have a spare disk sitting around we go out and we buy ourselves an eighty gigabyte drive and make it all scratch space.
+D : You know, it's not  a big deal.
+E : You're right about the backup being a bottleneck. It's good to
+F : Yep.
+F : So, @@ .
+E : O_K. So I got a little print-out
+E : an interest in the transcribe- transcription, uh, checking procedures and -
+E : and I can tell you first, uh, to go through the steps although you've probably seen them.
+E : Um, as you might imagine,  when you're dealing with,
+E : @@
+E : natural  speech which means s- self-repairs and all these other factors, that there're
+E : And then, in addition to that, I did an exhaustive listing of the forms
+B : So you're doing these - So the whole process is that the transcribers get the conversation and they do their pass over it.
+B : And then when they're finished with it, it comes to you, and you  begin these sanit- these quality checks. O_K. O_K.
+E : Yeah. Thank  you.
+E : And so, uh, I do a - an exhaustive listing of the forms -
+E : Actually, I will  go through this in - in order, so if - if we could maybe wait and stick
+D : So on the fifth
+E : Yeah, yeah, yeah, yeah. Exactly! Exactly!
+E : And if not,  that  gets checked.
+E : w- And that- that's done with the assumption that pronunciation variants can be handled. So for things like "and",
+E : those are r- reasons - f- for those  reasons I - I kept that separate, and used the convention of using "C_U_Z" for that form,
+E : however,  glossing  it so that it's possible with the script to plug in the full
+E : And Chuck,  you in- you indicated that "cuz" is -
+E : O_K. So - so- it might not have been - It might not have been you, but someone told me that in fact "cuz" is treated differently
+E : O_K, so after that, let's see, um.
+B : So that was part of the spell-check, after  the spell-check?
+E : Well so when I get the exhau- So the spell-check  picks up those words because they're not in the dictionary. So it gets "cuz" and "wanna" and that -
+E : you know. And with all these things being in curly brackets  distinctive.  O_K, I also wrote a script which will,
+E : um, retrieve  anything in curly brackets,
+E : a pronounced  acronym.
+E : And the way I tag ac- pronounced  acronyms is that
+D : Whew!
+E : O_K, so now.
+D : We are acronym- loaded.
+E : Yes, but not the reverse. So sometimes people will  said  "because",
+G : Beca- because -
+F : But - but in our  meetings people don't say "hey cuz how you doing?"
+G : Right.
+G : The - the only  problem is that with - for the recognition we - we map it to "because", and so if we know that "C_U_Z" -
+E : Uh-huh. And Don  knows this, and he's bee- he has a glo- he has a script that -
+G : But then there are other  don't
+E : on the different - on the different types of comments, which we'll - which we'll see in just  a second.
+E : The four types. w- And maybe we'll expand that but the - but the comments are, um, of four types mainly  right now. One of them is, um,
+E : I'm still doing the overview. I haven't actually gotten here yet. O_K so, gloss is things like replacing the full form
+E : properly words,  and wo- some of them are laughs and breathes, so we have - uh that's prepended with a v- a tag of "V_O_C".
+A : Whew!
+A : @@
+E : no- non-vocalization.
+E : uh, is comments  about what's happening. So it could be something like,
+E : uh, you know, "looking at so-and-so".
+B : on the middle t- So, in the first  middle  two -
+E : Huh-uh.
+E : Well, and actually, um, it is  true  another  one
+E : uh, coding  scope  laughing,  you know,
+E : now we're about to get to the - to this now, frequencies.  So you'll see how often these different things occur. But, um,
+E : this  three  two
+E : that it might - uh, that it might increase the error rate which is - which would really  shame  because
+E : So, right now I've standardized across all  the existing data with these spoken forms. I - I should say
+D : Oh good. So it's a small list.
+E : all existing data except thirty minutes which got found today. So, I'm gonna - I'm gonna check -
+E : w- we, uh, sh- yea- reconstructed how that happened.
+F : I wanna work with lost  data.
+D : Yeah. It's much easier.
+E : And this is - this'll be great.  So I'll - I'll be able to get through that tonight, and then everyth- i- well, actually later today probably.
+C : Jane, can I ask you a question? What's that very last  one correspond to? I don't even know how to pronounce that.
+C : Uh, is that like someone's like burning  such  hair's  on fire?
+C : it looks like that .
+G : Actually we - we gave this to our pronunciation person, she's like, "I don't know what that is either
+G : we're waiting on that just to do the alignments.
+G : @@
+E : Well, sss, you know -
+C : But that's  not really like -
+E : Hhh.
+E : @@
+G : Right, no one say-
+F : Well, you  just did.
+E : Yeah. That's right.
+D : @@  -
+C : there's another - there's another word error.
+B : Except for now!
+C : Cha- ching.
+B : We're gonna never  recognize this meeting.
+D : In  C_  programmer.
+E : Uh,
+G : @@
+A : H_
+E : That's right.
+G : and the one that's just like " uh  cuz in - like in Switchboard, you would see
+D : You mean just the single letter "a" as in the particle?
+G : uh, like "eeh".
+C : All the "E_H"'s I've seen have been like that. They've been like "eh" like that have bee- has been transcribed to "E_H".
+C : And sometimes it's stronger, like "eeh" which is like closer to "E_H". But.
+G : Right.
+D : I'm just - these poor transcribers, they're gonna hate
+C : I know. We  should go off-line.
+E : Well, length.
+F : Quick Thilo, do a - do a filled pause for us.
+E : Yeah, that's right.
+A : Ooo no.
+G : But you're a native German  speaker so it's not a -
+A : Yeah.
+D : @@
+G : Onl- yeah. No, only if you don't have
+F : Uh- huh.
+E : functionally pretty, you know, also - hmm's ".
+E : And you get "mm-hmm" and diff- everybody's doing it.
+D : And just listen to them?   Yeah.
+E : Just - I wanted to say - I w- think it would be fun to make a montage of it because there's a
+B : Morgan  song
+E : Uh, then the acronyms y- and the ones in parentheses are ones which the transcriber wasn't sure of, and I haven't been able to listen to to - to clarify, but you can see that
+E : the parenthesis convention makes it very easy to find them   cuz it's the only place where - where they're used.
+E : Question mark is punctuation. So it - they said that @@  -
+D : Oh.
+A : Ah.
+E : Exactly. Exactly.
+E : do  stress  marker here. Sometimes the contrastive stress is showing up, and, um -
+E : The parenthesized is something that the transcriber thought  was A_N_N, but wasn't entirely sure.
+E : So I'd need to go back or someone  needs to go back, and say, you know, yes or no, and then get rid of the parentheses. But the parentheses are used only in that context in the transcripts, of
+F : I - I  lot
+G : you know how are - how are they gonna know?
+D : I know! I - I was saying  that  lot  of them are the Networks meeting.
+C : Yeah.
+E : true.  Yeah, absolutely. N_S_A, a lot of these are - are coming from them. I listened to some of that.
+F : Maybe.
+D : Although I see - I see plenty of uh
+C : That's not bad.
+E : That's interesting.
+G : Is the P_- P_T_A working?
+C : There's a lot of "O_K's".
+D : Yeah, I wonder what it is.
+E : I'd have to listen. I - I- I agree. I w- I'd like to standardize these down farther but, um,
+E : But, I - I'm a little hesitant to - to collapse across categories unless I actually listen to them.
+D : Oh I'm sure we've said X_M_L more than five times.
+E : Well, then, at
+A : Now it's at least six times, yeah.
+F : S- s- six now, yeah.
+G : Well this is exactly  do  differ because we're recording, right?
+G : Y- no- normally you don't go around saying, "Now you've said it six times. Now you've said-"
+D : Yeah that's right.
+A : Seven hundred eighty-five instances.
+E : punc- punctuation. Extra forty one if it's questioned.
+C : Is this after  - like did you do some uh replacements for all the different form of "O_K" to this? O_K.
+F : So now we're up to seven hundred and eighty eight.
+E : Yeah that's -
+C : Although, what's - there's one with a slash  after it.
+E : looked  for that one. I actually explicitly looked for that one, and I think that, um,
+C : That's  kind of disturbing.
+E : it's the only pattern that has  a slash after it, and I think it's - it's an epiphenomenon.
+G : Well there's not  @@
+D : So I'll just - I was just looking at the bottom of page three there, is that "to be" or "not to be".
+E : Yeah.
+D : O_K anyways, sorry.
+D : "Try to stay on topic, Adam."
+E : "T_C_L". Where  do you see that?
+D : Uh
+F : What's a QUAL?
+D : Oh I see, I see. So it's not  gloss. O_K, I see.
+D : It wasn't said  course.
+E : On the - in the actual script - in the actual transcript,  I s- I -
+E : So this - this happens in the very first one.
+E : I actually wrote it as "tickle".
+G : Right.
+E : And then, following  that is "QUAL T_C_L".
+F : I f- I forget, what's  QUAL?
+C : Yeah. It's not something you wanna replace
+B : Elmo, they meant "tickle" as in -
+D : Yeah.
+G : But at some  point - I mean, we probably shoul-
+G : But we should add it to the dictionar-
+G : No, to the pronunciation  model.
+D : What  say?
+A : To the language model - model.
+D : Well both.  language  model.
+G : Oh lan- Oh O_K- we- O_K - it's in the language model,
+B : Add what,  Liz?
+G : w- yeah,  pronunciation  model that has to have a pronunciation of
+G : " tickle".
+D : Right?
+D : It's pronounced the same - it's pronounced the same as the verb.  language  different.
+G : I'm sorry!
+G : Oh, sorry.  meant  is that there should be a pronunciation
+G : "tickle" for T_C_L as a word. And that word  stays  in the language model wherever it was.
+F : Mm- hmm.
+G : Yeah you never would put "tickle" in the language model in that  form, yeah.
+E : @@
+D : And - and you'll ha- you'll have  sychronously.
+C : It's just disturbing.
+D : models, will have to also go through the transcripts and change  synchronously.
+D : You can correct it. Yeah.
+G : the misspel- If it doesn't  get corrected we have to have a pronunciation as a mispelled word in the dictionary. Things like that.
+E : Well, of course now the - the Tannen corre- the spelling c- change. that's  those  frequency  check.
+E : Mm-hmm.
+D : You add it to the dictionary.
+G : which normally  would be an acronym,
+G : you know, "T_C_L"
+E : " ICSI " is - is one of those that sometimes people pronounce and sometimes they say "I_C_S_I." So,
+E : those that are l- are listed in the acronyms, I actually know  said  others,  um,
+E : e- those really do  go
+E : and until  listened  to they stay as "I_C_S_I".
+F : Don and I were just noticing, love
+D : It's this,
+C : That's great.
+D : It was me.
+E : It was!  was!
+D : A lot  of these are me the - the "beep is said with a high pit- high pitch and lengthening."
+A : To head
+F : Beep.
+G : Oh there is
+C : Yeah.
+G : Thank
+G : Because he was saying, "How many E_'s do I have to allow
+D : What I meant was "beep".
+C : You need a lot of qualification Adam.
+E : And those of course get - get picked up in the frequency check because you see "beep" and you know - I mean it gets kicked out in the spelling, and it also gets kicked out in the, uh, freq- frequency listing.
+E : I have the - there're various things like "breathe" versus "breath" versus "inhale" and, hhh,
+E : you know, I  implications  else  leave  them for now an- and -
+E : It's easy enough to find  them   them.
+F : "Sings finale-type song" that's - that's good.
+G : Yeah.
+E : Yeah, but I don't actually remember what it was.  Eric  did that. Yeah.
+F : Yeah.
+F : Tah-dah! that
+E : Well, that'd qualify.
+D : "Ooo-ooo."
+E : that I had, uh, in places where they hadn't  place  of any kind of numbers, but there are places where they,
+E : um, it - th- this convention came later  some  transcripts they actually transcribed numbers.
+E : Chuck pointed out that this is read  speech, and it's nice to have the option of
+E : well n- n- "NUMS" by itself which means this is part of the numbers task. I may change it to "digits". I mean, i- with the sed command you can really just change it however you want
+D : "NUMS", yeah.
+E : because it's systematically encoded, you know? Have to think about what's the best for - for the overall purposes,  but in any case,
+E : um, "numbers" and "NUMS" are a part of this digits  task thing.
+E : Um, now th- Then I have these numbers that have quotation marks around them.
+E : Um, I didn't want to put them   gloss  substitution.  actually,
+E : th- um, the reason I b- did it this way was because I initially started out with the other
+E : version, you have the numbers and you have the full form and the parentheses, however  sometimes people stumble over
+E : these numbers  they're saying. So you say, "Seve- seventy eight point two", or whatever.
+E : And there's no way of capturing  numbers  off to the side. You can't have the seven and -
+E : The left is i- so example the very first one, it would be, spelled out in words,
+D : O_K now, the other example is, in the glosses  right there,
+E : Thank
+E : There is.  Yeah. I've added that all now too.
+G : Oh, so you could do "grep minus V_ nums". So that's the - yeah. So there wouldn't  be something like
+G : O_K great. Cuz I was doing  the "grep minus V_" quick and dirty and
+G : looked  like that was working O_K, but -
+E : Yeah.  Oh these are all these, the "NUMS point", this all where they're saying "point" something or other.
+E : e- into a f- a for- ta- take it to a format that's usable for the recognizer  an- uh, other scripts will take it to a form that's usable for the -
+E : for linguistics an- and discourse  analysis. And, um, the
+E : implication that - that I  have is that th- the master copy will stay unchanged. These will just be things that are generated, and
+E : When things change  then the - the script will cham- change but the - but there won't be stored copies of - in different versions of things.
+G : So, I guess I'd have one  request here which is just, um, maybe to make it more robust, th-
+G : that the tag, whatever you would choose for this type of "NUMS" where it's inside the spontaneous speech, is different than the tag that you use for the read speech.
+B : Right. That would argue for changing the other ones to be " digits " or something.
+E : Well -
+G : processing more robust. Cuz we really will  get rid of everything that
+B : I suppose what you could  do is just make sure that you get rid of everything that has "curly brace NUMS curly brace".
+E : And i- these can be changed,  said.  said  considering  digits ".
+E : And, it just - i- you know, it's just a matter of deciding on whatever  know.
+G : um, then we know for sure. And we can also do counts on them without having to do the processing. But you're right, we could  do it this way, it -
+G : it should  work. Um,
+E : The other  really  so  minute  increase  size  decrease  such  an extent by
+E : simply something like " percent  percent ", but somehow
+E : percent  is not so hard, you know? i- It's just
+D : Hmm.
+E : when you have these points  Point  however is - is
+E : uh a word that has a couple different meanings.  both  one  of these meetings,
+E : where he's saying "well the first point I wanna make is so-and-so" and he goes through four points,  also  has all these decimals.
+B : So Liz,  recognizer  do,
+F : Hmm.
+B : what does the S_R_I recognizer output  for things like that? "seven point five". Does it output the word -
+B : Right, the word  number  "seven"?
+D : Well, the numbers?
+G : The word.
+F : So I'd - so "I'd like - I'd like to talk about point five".
+G : it's the same  point,  actually, the - the p- you know, the word "to" and the word
+G : y- th- "going to" and "to go to" those are two different " to's  distinction  there.
+G : It's just - just the word " point "
+G : yeah e- one version  even if -
+G : A- actually even like the word "read" spelled  the same way, right? And they're still gonna be transcribed as R_E_A_D.
+G : So, yeah, I - I like  the idea of having this in there, I just - I was a little bit worried that, um,
+G : the tag for removing the read  speech - because i- What if we have like
+D : We might wanna - just a separate tag that says it's read.
+E : Well I wanted to say also regarding the channelized data, that, um, Thilo requested, um, that
+D : Oh, I guess we're not  done.
+D : We did that for one  that  data don't you?
+E : And at this point, all four of the ones that he specified have been done. In addition  the
+E : I've - I have the transcribers expanding  the amount that they're doing actually. So right now, um,
+E : I know that as of today  minutes  of that type, and I'm having them expand the realm on either side of these places where they've already started.
+E : the more fine grained tuning of this, uh, using an algorithm,  so  much more efficient. And, um.
+E : So this is gonna be
+A : So I - I thought we - we sh- we sh- perhaps we should try to - to start  channelized  try  it. Give it -
+A : Give one tr- transcriber the - the channelized  version of - of my speech-nonspeech detection and
+B : Two or more.  Two or more different functions.
+B : Yeah, so that has implications for your  script.
+C : And I know - I've seen @@  - I've seen they've been channelized, but
+E : Let's see, four times -
+E : total of about an - thirty minutes.
+D : Well it's just we're missing tea. So.
+C : until all  of those are processed, and channelized, like the time markings are adjusted before I do all the processing, and we start like branching off
+E : Well, you know the problem - the problem is that some - some of the adjustments that they're making are  combine
+E : bins that were - time bins which were previously separate.  reason  they do that is sometimes there's a word that's cut off.
+C : I mean I'm sure about that, but do you have like a time frame when you can expect like all  of it to be done, or when you expect them to finish it, or -
+E : effective it will be to apply an algorithm  because
+E : i- this takes time,  you know, it takes a couple hours t- to do, uh, ten minutes.
+B : So right now  you're  doing is you're taking the - uh, the o- original version and you're sort of channelizing yourself, right?
+C : have any more information.
+B : @@  you've  done, um, we'll need to work on a channelized version of those originals.
+B : And so it should  have  t- except for the one that they've already tightened the boundaries on.
+B : uh, and then probably what will happen  more,  you know, that
+B : original  updated  and then we'll rerun the script and produce better
+B : uh versions. But the - I guess the ef- the effect for you  guys, because you're pulling out
+C : I know .
+G : So if you b- merge  know  split
+G : inside  words  moved.

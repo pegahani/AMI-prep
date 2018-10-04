@@ -1,0 +1,158 @@
+A : eight five, five one, one four, eight one, nine eight.
+A : eight zero seven nine, six, six eight five.
+A : seven six nine one, nine four nine three, four seven seven one.
+A : two four six, zero zero, seven five three three.
+A : three two two, six three, eight eight one zero.
+A : seven, four nine one, nine five, four eight nine, six.
+A : zero nine seven, three four, seven one six three.
+A : five six one, six one, nine seven three one.
+B : O_K.
+E : O_K. Transcript L_ eighty-seven.
+E : eight six four, six six four, one seven one
+E : eight O_ three, two two five, two O_ two
+E : three one one, six one one, seven four two four
+E : O_ five eight, eight four two, one eight three seven
+E : six nine one seven, five, two one four
+E : three five, nine zero, nine seven, six one, six nine
+E : six six zero, two eight, one two O_ nine
+E : eight one three, O_ four, five O_ seven eight.
+B : Transcript L_ eighty-five.
+B : five seven three, six seven one, three four eight four
+B : five four five eight, five, nine nine six
+B : five four seven, three two O_, one eight three seven
+B : eight two, two one, nine O_, nine two, O_ six.
+B : six seven seven, two six, four six one six.
+B : four four four, three nine seven, five four one one.
+B : O_ five three, three two six, four three eight
+B : four eight five, one six, seven five five seven.
+D : Transcript number L_ eighty-four.
+D : four O_ one, four five, two three two four.
+D : one six, one eight, one eight, nine seven, three five
+D : three three four, zero four four, four six two
+D : two zero, nine zero, four six, seven zero, four five
+D : nine eight four, one six, eight zero one one
+D : one four one, three one four, four seven three
+D : six four six seven, one two nine seven, eight three three three
+D : four zero, nine three, zero three, nine nine, nine seven
+C : Transcript L_ eighty-three.
+C : nine two four seven, six nine four five, five seven eight
+C : zero nine nine, eight eight two, nine four five three
+C : zero, nine seven one, five four, one four two, seven
+C : six six eight, six one eight, seven
+C : zero seven two, seven four two, four nine nine four
+C : six, nine six seven, zero
+C : two one four two, two, five five zero
+C : zero six, four six, eighty-two -
+C : Oh, excuse me.
+C : eight two, four five, four six.
+C : Nancy's still stick?
+B : uh specific s- suggestion   to start first with the path ones.
+D : Oops.
+D : That's funny.
+B : So - so @@
+B : uh current @@  and so forth and so on or not at all, right?
+B : Yeah and so forth .
+A : Think so.
+A : Uh, no, but I think I'm following it.
+A : Yeah.
+E : Welcome.
+A : User thrift.
+A : Wow, that is simple.
+D : option like proper  inferences which suggests that uh
+E : Oops.
+E : in our list we had "Is he staying in our hotel?", "Is he staying with friends?", and so forth uh
+E : Oops.
+B : No, that's - that's a @@
+B : Well, that's @@
+D : Also true or false.
+C : Uh
+E : Uh we can load it up it you know  very simple.
+E : Is now
+A : Can I ask about "slurred" and "angry" as inputs to this?
+A : O_K.
+A : Hmm.
+B : Yeah. But that's- that seems to, yeah. So - so my advice  to do is - is
+E : Seems to me that we've sort of e- em- embedded   a lot, em-
+B : Well couldn't I  do - let's do commercial
+E : I_E a - a castle or can be a landmark a- or not accessible, some statue you know  can
+E : Yeah.
+E : Should I rename this too? No.
+E : It's underscore-E_.
+E : O_K, shouldn't I be able to move them all? No. Can I?
+E : Mmm-mm.
+B : Well.
+B : Never mind.
+A : Well -
+B : is have an - and this will  @@
+A : User schedule.
+A : "Do I have time to go in and climb all the way to the top of the Koelner Dome or do I just have to -"
+C : Yeah.
+D : No but, it's more than that, like the - the more sort of you break it up @@  like because if you have everything pointing to one node it's like exponential
+E : @@
+C : Sure, but other  - I thought though the node we're creating right now is user compatibility to the current action, right?
+D : Yeah.
+E : Oh yeah, true.
+E : So this is sort of some external thing that takes all the discourse stuff and then says here it's either
+D : That definitely interes- @@
+A : Well, what -
+D : I guess the final
+D : Maybe we could um have intermediate   node that just the Endpoint and the Go-there S_ node
+B : Now it's gonna be important not to have loops by the way.
+E : I was just gonna
+D : we could have loopy belief propagation which
+E : Oops.
+E : O_K, whoops.
+C : Wh- ah.
+A : Yeah.
+B : To me.
+E : That's uh two things then .
+B : No.
+B : ways of - of thinking about whether this user wants to go to some place.
+B : And I does   anybody remember
+C : Uh d- I would almost say  the other way to do that would be to open u- or make
+E : It's probably pretty easy do it - to do it in H_T_M_L, just -
+C : Yeah, but
+E : Uh
+B : um
+D : Ah, sorry. I guess that's
+C : You can technically wear that as you're talking.
+D : for example if these S  have three possibilities each and this has three possibilities then you know you have
+D : hat or something, uh  the co- like all of them?
+D : what we don't wanna do is to
+C : uh
+C : W_ one times - or A_ or - let's see, one full  quarter times point one
+B : @@  three.
+B : you just add up the - Yeah. So it would - it would - in this case, it would be - probability of A_ would be point three.
+B : @@  one  other  @@  -
+B : No it isn't. Because the other  thing you can do is you - So this - in this case, a mixture of experts just picks one.
+B : A weighted  do,  need  here  fourth  fifth  parameter.
+B : So let's suppose the H_ says in situ- @@  alpha.
+B : O_K, in situation-alpha, that's the weighting factor, but in situation- beta,  other  weighting factor.
+B : That this guy uh detects for you that this is a situation in which you should weight this more  less.
+B : It's - it's - it's conditioning how the other four are @@  do,  learn  do  this.
+B : Well now, y- it - it - Well it could,  or you co- could just pass other -
+C : A vector of the weights as the se- oh .
+B : No, no. No. Not normally. It would just pass a - a selection. So - so it could  pass either -
+A : Well a vector with three zeros and one one, right?
+B : Well, it could.  Yeah. If - if -
+B : @@  could  that.
+B : We- yeah. Or w- in this  case, wh- which one of these guys to pay attention to.
+B : Well, that - yo- You could  harder  than to just say they're a discrete number of situations and this says, you know, hey, you're in situation-alpha.
+B : Yeah. Or in @@  absolutely  could have other inputs from something that has n- doesn't have anything directly to do with these experts.
+B : Or if X_two is greater than X_- I could imagine i- all sorts  of garbage.
+B : And  so these - so this is - this is one collection of technology that we could bring to bear. Yeah.
+B : So @@  you -
+B : It depends on - on - on, you know, what situations you're in.
+B : And @@  Jordan  did a lot of nice work, uh, earlier on sit- situations which you could actually train these up and stuff.
+B : But, I still think it's a nice idea if the architecture supports  it.
+B : So that, you know, you say, "here's the design  do  that."
+E : I still have trouble understanding the very  first step, maybe just because I'm approaching it from the very wrong end. I don't know.
+E : Now, X_one could potentially also vote E_ .
+B : That wo- that would be another sort of i- Absolutely.
+A : Right, right.
+A : Like how thrifty the user is, or do we have access to that?
+D : or endpoint sub uh
+D : Hmm, I guess not.
+A : Yeah.
+A : uh w- and um you know, I mean one might be f-
+A : Well, it will inspire me.

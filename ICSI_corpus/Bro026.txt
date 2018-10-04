@@ -1,0 +1,320 @@
+B : O_K, so
+B : summarized where they were and -
+E : Mm-hmm.
+A : So there is th- then - the - all the new features that go in .
+E : the C_V_S mechanism working well?
+D : Uh, I don't think - I don't think -
+A : I don't know if they use it, but.
+D : Yeah, I- I don't think anybody up there is like
+B : and - and I guess actually, uh, after Eurospeech for a little bit, uh, he'll  go up there too. So, actually
+B : everybody
+B : will be up there for at least a little while.
+B : So they'll remotely access it from there . Yeah.
+D : @@
+D : I can actually do it today. I mean, I can just log into -
+E : Have you tried it yet?
+A : when I installed the
+A : logged in there and I tried
+A : I don't s- I didn't set up -
+A : You can also set up a C_V_S server
+A : well uh, a main server, or d- You can do a C_V_S server.
+A : But I didn't do that because I was not sure about
+E : when you came in from Belgian -
+E : was it asking you for your own
+A : you   - you can set up priorities. You can access them and mostly if you - if y- the set- the server is set up like this.
+E : I mean, for our transcripts  we may want to do that.
+B : Yeah, for this
+E : Oh, I wasn't suggesting for this. I'm
+E : thinking of the Meeting Recorder stuff but.
+B : Yeah.
+B : Well, I mean, I think
+A : Mmm, since the meeting,
+A : training a new V_A_D and a new
+A : Mm-hmm.
+B : like now,  and I'm going out town in a couple weeks,
+B : I mean, this
+B : a bunch of different versions going off in - in ways that
+B : differ trivially.
+B : Uh, um, and, um,
+B : and then within  options  for now,
+B : to run  it, uh, a particular way,
+B : are gonna be experimented  with, as opposed to just experimenting with everything.
+A : different configuration within this idea.
+A : Well, finally we end up with the whole system. So -
+B : in principle,
+B : i- I mean, you would know whether it's fact,
+B : Uh, well you don't - I guess you don't  re-synthesize speech, but you could -
+B : Uh, but you could.
+A : Well - well, we do,  but we don't - don't re-synthesize. In - in the program we don't re-synthesize and then re-analyze once again. We just
+B : But you have a re-synthesized thing that you - that's an - an option here .
+B : i- in some of the work he's  doing in reverberation, one of the things that we're finding
+B : for an artificial  situation,
+B : we can just deal with the reverberation and his techniques work really well.
+B : But for the real  situation
+B : uh - and then  do the reverberation part.
+E : So Dave hasn't tried that yet?
+E : I guess he's busy with -
+B : Yeah, prelims, right. Yeah.
+B : So.
+B : we are not - with the real  case that we're looking at,
+B : we can't just  look at reverberation in isolation because the interaction between that and noise is - is considerable.
+B : and this is hard enough,
+B : And that's hard enough. I mean, I don't think we really - I mean, we're trying  to deal with that.
+B : because not only do you have these effects, but you also  have some long time effects.
+B : Dave  has something which,
+A : Yeah, well, the, um,
+B : Mm-hmm.
+B : The - the - the filtering is done
+B : in the frequency  domain?
+A : followed by upsampling.
+A : somewhere between log mel bands or
+B : So that's sort of - most of this stuff is - yeah, is operating parallel  with this other stuff.
+B : Yeah.
+B : There's - there's some, uh, neat ideas for V_A_Ds -
+B : There's a bunch of tuning things to improve stuff. There's questions about
+B : various places where there's an exponent, if it's the right exponent, or
+B : ways that we're estimating noise, that we can improve estimating noise. And there's gonna be a host of those. But structurally  it seemed like the things -
+B : uh, uh, a - a significantly better V_A_D,
+B : opening up the second front.
+B : Uh.
+B : And, uh, so the initial  thing which came from, uh, the meeting that we had down south
+B : It's, you know,
+B : There's a question about exactly  how we do it. We probably will go to something better later,
+B : the initial  differently,  so.
+B : Um,
+B : Although you - you know, you haven't tested  it actually on the German and Danish, have you?
+A : No, we didn't. No, um.
+E : So on the ones that you did  second?
+B : didn't before,  but I'm just asking
+A : Yeah.
+B : I mean, we  they
+B : we were third,  but I mean,
+B : so institutionally  we were second,
+E : We're - so this second  that you're saying now is
+E : system-wide  second?
+B : Uh, no I think it's also institutional, isn't it? Right? I mean, I think both  of their systems probably -
+A : Uh, we are between their two systems. So
+A : It is a triumph .
+A : But everything is within the range of one -
+E : That's very  close.
+A : So.
+B : and, um, you know, in some sense we're all doing fairly similar things.
+E : Or how are they using more
+B : Yeah, so I - I  think -
+B : that in - in both  cases,
+B : Uh, they have some cepstral modification, right?
+B : In our  couple  things. We have the on-line normalization and then we have the L_D_A RASTA.
+B : And
+B : But in any  event, they're both doing the same sort of thing. But there's one difference.
+B : uh, throws away high  modulation frequencies.
+B : And they're not doing  that.
+B : So that if you throw away high modulation frequencies, then you can downsample.
+C : Get down.
+E : So do you explicitly  downsample then?
+E : And what if we didn't do  that?
+A : Um
+B : we're not evidently throwing away useful information, let's try to put in some useful
+E : mel spectrum in before  after?
+E : Cuz that  mel  conversion, right?
+B : So, I mean, to do it after  the mel conversion -
+B : Yeah, probably.
+B : Some  good.
+B : You know? I would think.
+B : If you do  don't  normalize?
+D : If yo- if you don't  don't  normalize.
+B : Yes, so I mean, one would think
+B : try  it.
+B : if - if normalization helps,  then y- you have something to compare against, and say, "O_K, this much effect" -
+B : I mean, you don't want to change six things and then see what happens.  time.  stream  in,
+D : Mm-hmm.
+B : And then saying, oh - uh -
+B : particularly  because we've found in the past there's all these - these - these different results you get with slight
+B : modifications of how you do normalization. Normalization's a very tricky, sensitive thing and you learn a lot.
+B : I would think you would wanna
+B : have some baseline that says, "O_K, we don't  this  that  normalization.
+B : but the other  question is -
+B : So I think ultimately  we'll wind up doing some normalization. I agree.
+C : Para-
+B : We're not talking about computation  time here. We're ta- I think we're pretty far out. So it's just
+B : in terms of what data it's depending on. It's depending on the same data as the other.  So it's in parallel.
+C : So with this, uh, new stream would you train up a V_A_D on both  both  features, somehow?
+D : I mean, which could be this - one of these streams, or it can be something derived from these streams.
+A : Well, Pratibha apparently showed,
+B : I think th- the biggest  we've run into for storage is the neural net.
+B : I guess the issue there  TRAPS,
+B : Mini-TRAPS.
+C : with- without  the neural net, just
+B : simple  neural net, right? I mean, the thing is, if you're doing correlation, you're just doing a simple -
+B : dot product, you know, with some weights which you happened to learn from this - learn from the data.  And so,
+B : you know, not that big a deal.
+B : an added layer  or something?
+B : Maybe s- s-  remind us.
+E : Were you talking about what t- new  stuff, or - ?
+B : What to freeze and then what to do after we froze.
+A : Well p- two network, one V_A_D and one feature  net. Mm-hmm.
+A : But, yeah, I think there are plenty of issues to work on for the feature net @@ .
+C : Feature net.
+B : Right.
+B : Very  good question.
+A : Sorry.
+E : it was sort of up in the air whether they  were going to be taking, uh,
+E : people's features and then running them or they were gonna give the system out or -
+B : point it at Chuck, because, I mean -
+B : and you got the front-end from them, maybe you  could do the runs for the -
+B : S-
+D : Uh,
+E : Oh, but everybody's  gonna have to use the same values.
+D : After  that.
+E : Interesting.  O_K.
+D : this, uh, period during which people are gonna make suggestions is to know whether it is actually biased  towards any set of features or -
+B : know  about is whether
+E : Using our  features. Yeah.
+B : you know, push the case
+B : about  this.
+B : Yes. In this  right.
+E : work  with -
+B : Uh.
+B : it's months  away,
+B : uh, when "deciding" is not just somebody deciding.  I mean, in fact there should be some
+B : understanding
+B : deciding, which means some experiments and - and so forth. It - it - it seems  tight  to me.
+B : So, yeah, so after - But, you know, they may even decide  off.
+B : due to other  long  while. That would be, uh - put us in an awkward position. But -
+E : Is - is this part of the evaluation just a small  part, or ho- how important is this to the overall - ?
+B : I - I think it's - it's, um - it depends how badly you do.
+B : Conceptually,  it -
+B : my  impression,
+B : again, you guys correct me if I'm wrong,
+B : they want  it as a double check.
+B : it's not the main  emphasis. I mean, the truth is, most of the applications they're looking at are pretty small vocabulary.
+E : Y- you passed  didn't  pass the threshold, and they shouldn't even
+B : Yeah.
+B : in - in the current  thing, for instance, where you have this well-matched, moderately-matched, and - and mis- highly-mismatched,
+B : uh, the emphasis is somewhat on the - on the well-matched,
+B : but it's only a - a marginal,  right? It's like forty,
+B : if you were way,  way off on the highly-mismatched, it would have a big effect.
+B : wouldn't surprise me if they did something like that with this.  So again, if you're -
+B : then, uh, you know, it may not hurt you that  much. But if it - if you don't -
+B : if it doesn't help you much at all,
+B : um, or to put it another way, if it helps some  lot  other  people,
+B : So
+B : we have the data,  just not the recognizer.
+B : So, training  the recognizer, but, um
+D : Mm-hmm.
+A : what I got on -
+A : And there are noises that are different from the noises used
+B : that  huge.
+B : Oh, well that's  pretty soon.
+B : They have a lot of options
+E : you - you push a button and it does training,  test,  and everything?
+E : Is that the idea?
+D : It's like -
+B : Yeah, um.
+D : It may be better, I mean, in that case if he's going to -
+D : one  send a mail to Joe.
+E : I - I know him really well. I - I was just talking with him on email the other day actually.
+E : About other things, but.
+B : That way you can get started asking Joe quickly while he's - while he's maybe still,
+B : you know, putting in nails and screws and doing that stuff
+D : So just you can see all this
+B : Have you thought about would be
+A : But, uh
+C : I guess, let me put it in context.
+C : And, um, she does this agglomerative hierarchical clustering
+C : And then you have this distance mej- metric which, uh, measures how - how closely related they are. And you start, um
+E : Mm-hmm.
+E : Mm-hmm.
+B : Mm-hmm.
+C : Um, and I'm hoping to find other things of - of similarity and maybe use these  things as the intermediate, um - intermediate categories that, uh, um, I'll later classify.
+B : Cuz that's what you're gonna be using,  right?
+C : the - the representation of the data that I was thinking of, was using, um, critical band, um, energies, um, over different lengths of time. So -
+B : is,
+B : what you're going to be looking for  should be some category that you can find with the narrow bands.
+B : that I wonder  about with it,
+B : but, I mean.
+B : Um, just wondering  really.
+B : answer about this sort of thing is that if you're trying to find
+B : the right system in some sense, whether you're trying by categories or - or parameters
+B : then having choices based on discrimination as opposed to, um, unsupervised nearness  of things,
+C : Hmm.
+B : Um, and I don't know if that - I mean, since you're dealing with issues of robustness,
+B : uh, i- i- if you remember from - from, uh - from your - your quals,  differed, uh, not really cuz of voicing but because of aspiration.
+B : if you were doing some coarse clustering, you probably would put those two sounds  together.
+B : And yet, I would gue- I would guess that many of your recognition errors were coming from, uh, um, pfft,
+C : Mm-hmm.
+B : So, in fact, it's a little hard because recognizers, to first order, sort  of work.
+B : And the reasons we're doing the things we're doing is because they don't work as well  as we'd like.
+B : And since they sort  work,
+B : any recognizer that's already out there and you say, "how well is it distinguishing between schwas and stops?"
+B : So, what are we bringing to the party? I mean, in fact  what we wanna do is have something that, particularly in the presence of noise,
+B : uh, is better at distinguishing between, uh, categories that are actually close  to one another,
+B : and hence, would probably be clustered  together.
+B : So that's  that's  hard  thing. I mean, I understand that there's this other
+B : I think it's also essential that you wanna look at what are the confusions
+B : that you're making and how can you come up with, uh, categories  clarify  confusions.
+C : Hmm.
+B : So, I mean, the standard  sort of way of doing that is take a look at the algorithms you're looking at, but then throw in some discriminative aspect to it.
+B : this is a little harder  parameters.  themselves.
+B : Uh, so a little more like brain surgery, I think Um, anyway.
+C : Yeah.
+B : That's my thought.
+B : You've been thinking about this problem for a long  time actually. I mean, well -
+B : W- actually, you stopped thinking about it for a long time, but you used  Mm-hmm.
+E : I don't - I don't - um, it's not clear to me how to reconcile, you know, what you're saying, which I think is right, with
+E : and the only categories that we know of to use are sort of these human - human sig- significant - categories that are significant to humans, like phonemes, things like that. But that's sort of what you want to avoid.  And so
+B : Here's a generic and possibly useless thought, which is,
+B : um, what do you really  - I mean, in a sense the only s- s- systems that make sense,
+B : Right? Because if e- even the smallest organism that's trying to learn to do anything, if it doesn't have any kind of reward
+B : for doing - or penal- penalty  for doing anything, then it's just going to behave randomly.
+B : So whether you're talking about something being learned through evolution or being learned through experience, it's gotta  least  some reinforcement learning, right?
+E : So the question is, how far  down?
+B : And
+B : You know, and - and - and i- it's almost like you want categories  if - if our - if our, uh, um,
+B : badness  is word error rate
+B : i- i- i- if you go all the way to words,  really  - I mean, d- w-
+B : In many applications you wanna go further.  concepts
+E : Yeah, so the common - right, the common wisdom is you can't do words  because there's too many of them, right? So you have to have some smaller set that you can
+E : and - and so everybody goes to phonemes.  phonemes  and these models are -
+E : are really  word  models.
+B : models  of words here. See, so her- here's maybe where - If the issue is that we're trying to come up with, um, some sort of intermediate categories which will then be useful
+B : then matter
+B : in this very gross  way of - of running o- a thousand experiments because we have fast computers and picking the thing that has the best word error rate.
+B : In some way - I mean, we derive that all the time. In some ways it's really not a bad - bad thing to do because it tells you in fact how your adjustments at the very low level affect the -
+B : uh - yeah, you may not have word models, you have phone models, whatever, but you sort of don't worry about that,
+B : and just somehow feed it back through. You know, so that's, uh, wh- what I called a useless comments because I'm not really telling you how to do it. But I mean, it's a - it's - it's, you know - it
+E : uh, you know, categories.
+E : and not the phones.
+E : Maybe.  And so -
+B : If you read  speech that's been manually annotated, like TIMIT,
+B : then, you know, i- i- you- the phones are gonna be right, actually, them   to -
+E : these word models, whatever those models are, to be munged, you know, and - and it doesn't really hurt, and
+E : I'm not sure how - how to build that in.
+B : Yeah, I mean, I guess the other thing i- is - is to think of a little bit - I mean, we- when y- when you start looking at these kind of results I think it usually is - is pretty  intuitive,  but start looking at
+B : um, what are the kinds of confusions that you do  make, uh, you know, between words if you want or - or - or, uh, even phones in - in - in - in read speech, say,
+B : sometimes don't get heard.
+B : I don't know, I w- I would - I would guess  that you'd -
+E : coming from a much higher level. You know, we understand the context of the situation when we're having a conversation. And so if there's noise in there, you know, our brain fills in and imagines  should  be there.
+C : Yeah. We're - we're doing some sort of prediction  of what -
+B : If we're not working on that then we should work on something else and improve it, but - especially if it looks like the potential is there. So -
+B : Should we do some digits?
+B : Since we're here?
+B : O_K, transcript L_ dash three three eight.
+B : Eight five six five five six four eight one five one three four two seven two seven one nine nine eight two five two four eight eight five eight zero three zero two seven five eight zero zero one zero five nine nine two nine four five eight five one nine six nine two four nine seven two four nine three three nine zero seven three four three three zero.
+B : Two zero four one seven five one seven.
+A : Transcript L_ dash three three nine. Eight eight nine two six four zero seven zero zero.
+A : One seven five nine eight four eight nine.
+A : Two eight four eight five one five five one.
+A : Six seven one zero nine five zero six five.
+A : Two eight eight eight nine five.
+A : Two one eight two.
+A : Seven nine three zero seven eight seven O_ seven nine.
+A : Three six two six one four nine eight one three.
+A : Eight nine nine seven four four six seven zero four zero five.
+E : Transcript L_ dash three three three six three seven zero three six nine zero six zero zero two eight three two seven.
+E : Seven seven six zero seven one seven four seven three eight one one four one zero six six.
+E : Nine five seven four three one nine nine zero four four zero six eight zero zero five eight.
+E : Zero eight one five four three seven two four five two seven four eight one three four eight.
+C : Six three eight four zero six zero seven two zero one nine.
+D : Transcript L_ dash three three four. One three seven four zero nine one eight zero four four seven nine four six six five six four seven one two four eight zero four seven five one four.
+D : Eight two two one seven three five seven zero five nine one zero six three six three five nine four three nine six zero three nine two eight three eight.
+D : Zero six nine two zero nine one six nine zero two three eight four five eight eight three three zero.

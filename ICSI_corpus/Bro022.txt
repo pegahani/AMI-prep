@@ -1,0 +1,387 @@
+B : @@
+A : Oh.
+B : Yeah. We were two - we were -
+B : Uh, uh, we went through it - Jim and I went through old emails at one point and - and for two years there was this thing saying, yeah, we're - we're two months away from being done.
+B : It was very - very believable schedules, too. I mean, we went through and - with the schedules - and we - Yeah. Oh, yeah. It was very
+A : So, should we just do the same kind of deal where we go around and do, uh,
+A : status report kind of things?
+A : O_K. And I guess   when Sunil gets here he can do his last or something.
+C : Mm-hmm.
+B : Yeah. So we probably should wait for him to come before we do his.
+A : Do y- O_K, M-
+B : No, I mean, I - I'm involved in discussions with - with people about what they're doing, but I think they're -
+A : Yeah.
+F : Uh-huh.
+F : Right, right. So, y- you write up a proposal, and give it to people ahead of time, and you have a short presentation.
+F : for a while I was thinking that I had  complete  set of intermediate features - in- intermediate categories to - to classify right away.
+F : But what I'm thinking now is, I would start with - with a reasonable  set. Something - something like, um, um -
+F : Look at - then I would look at the errors  produced in the phoneme recognition and say, O_K, well, I could probably reduce the errors if I included this extra feature or this extra intermediate category.
+F : That would - that would reduce certain  confusions over other confusions.
+F : reiterate.
+F : Um, build the intermediate classifiers. Uh, do phoneme recognition. Look at the errors. And then postulate  remove,  um, intermediate categories. And then do it again.
+F : And, um, then -
+F : Uh, I wanted to take a look at, um, things that I could model within  word.
+F : uh, where I'd - I would be able to, um - to model, um, intermediate categories that span across  phonemes, not just within the phonemes, themselves,
+F : um, and then do the same process there,  um, on - on a large vocabulary task like Switchboard.
+F : Uh, and for that -
+F : Um,
+E : on the far-mike data using P_Z_M F_, but, um, the near-mike performance worsened, um, from one point two percent to two point four percent.
+E : wh- why would that be, um,
+E : uh, with some input from, uh, Andreas, I have a theory in two parts. Um,
+E : first of all H_T_K - sorry, S_R- the S_R_I system is doing channel adaptation, and so H_T_K wasn't.  Um, so this, um -
+E : This mean subtraction approach will do a kind of channel normalization and so that might have given the H_T_K use of it a boost that wouldn't have been applied in the S_R_I case.
+E : And also, um, the - Andreas pointed out the S_R_I system is using more parameters. It's got finer-grained acoustic models.
+E : So those finer-grained acoustic models could be more sensitive to the artifacts in the re-synthesized audio.
+E : Um.
+E : And me and Barry were listening to the re-synthesized audio and sometimes it seems like you get of a bit of an echo  of speech
+E : in the background. And so that seems like it could be difficult for training, cuz you could have lined up with a different foreground phone,
+E : depending on the timing of the echo. So, um,
+E : larger  data set, and then, eh, the system will have seen more examples o- of these artifacts and hopefully will be more robust to them.
+E : So I'm planning to use the Macrophone
+B : I had another thought just now, which is, uh, remember we were talking before about -
+B : um, getting rid of low-energy sections?
+B : if you did a high-pass filtering, as Hirsch did in late eighties to reduce some of the effects of reverberation,
+B : uh, perhaps one of the reasons for that working was ma- may not have even been the filtering  so much but the fact that when you filter a -
+B : and you gotta figure out what to do with them if you're   gonna continue treating this as a power spectrum.
+B : So in this case you have some artificially imposed reverberation-like thing. I mean, you're getting rid of
+B : some of the other  effects of reverberation,
+B : could, uh, just try to make it nicer.
+B : And one of the things you could do is, you could do some sort of V_A_D-like thing and you actually could
+B : take very low-energy sections and set them to some - some, uh, very low or - or near zero value.
+B : I mean, uh, I'm just saying if  in fact it turns out that - that these echoes that you're hearing
+E : O_K.
+B : I mean, you do it in a pretty conservative way so that if you made a mistake you were more likely to keep in an echo than to throw out speech.
+G : Um, what is the reverberation time there ?
+B : So, it's this room.
+F : Hmm!
+B : So.
+B : he's taking out  in  averages over multiple windows stretching out to twelve seconds,
+B : So you can end up with some components  in it that are affected by things that are seconds away.
+B : Uh, and if it's a low portion,  funny things.
+E : O- o- one thing, um, I noticed is that, um, the mean subtraction seems to make the P_Z_M signals louder  after they've been re-synthesized.
+E : So I was wondering, is it possible that one reason it helped with the Aurora baseline system is just as a kind of gain control?
+B : what you mean is that you have better signal-to-noise ratio.
+B : So if  what you're doing is improving the signal-to-noise ratio, then it would be better.
+C : Mm-hmm.
+B : But just it being bigger  same  signal-to-noise ratio -
+C : use the absolute energy, so it's a little bit dependent on -
+C : on the signal level.
+B : Well, yeah. But it's trained and tested on the same thing. So if the - if the - if you change
+A : Did you add this data to the training set, for the Aurora?
+E : Uh -
+A : I was tested  train it also.
+E : I   -
+E : I b-
+E : making things quieter.  And then if you take it out -
+B : Uh, no. I mean, uh, there's - there's nothing inherent about
+E : Nuh-huh.
+B : uh, r- uh, then I don't see how that would make it louder. So it might be just some -
+A : I wonder if there could be something like, uh -
+C : Eh-
+A : uh, it - it could cause you to have better signal-to-noise ratio.
+B : Well, you know, there is  this.
+B : i-
+B : or something to make it -
+E : Hmm.
+C : I had a question about the system - the S_R_I system. So, you trained it on T_I-digits?
+C : But except this, it's exactly the same system as the one that was tested before and that was trained on Macrophone. Right?
+C : Uh, but is it exactly the same system?
+E : I think  so. If you're talking about the Macrophone results that Andreas had about, um, a week and a half ago, I think it's the same system.
+B : testing  on Macrophone or - or training?
+C : It was training on Macrophone and testing - yeah, on - on meeting digits.
+B : Oh. So that was  done already. So we were -
+B : O_K.
+C : Yeah. I - I've just been text- system  actually - so front-end and H_T_K,
+C : And before with the system that was proposed, it's what? It was three point nine. So.
+B : lot  better.
+B : So, what - w- ?
+G : With the - with the H_T_K back-end? What we have for Aurora?
+G : Oh.
+C : Uh. Yeah, yeah. So, yeah, we have the new L_D_A filters, and -
+G : No. The D_C component could be negligible. I mean, if you are recording it through a
+G : mike. I mean, any - all of the mikes have the D_C removal - some capacitor sitting right in that .
+B : in the A_to_D. And these period- these typically do  have a D_C offset.
+B : And - and they can be surprisingly  large. It depends on the electronics.
+B : typi- you know, unless - Actually, there are do  pass - go down to D_C. But - but,
+B : I think it was in the Wall Street Journal data
+B : that - that - I can't remember, one
+B : we were talking to somebody and they said, "Oh, yeah. Didn't you know? Everybody knows that. There's all this D_C offset in th-"
+B : So, yes. You can have D_C offset in the data. Yeah.
+E : Oh. And I also, um, did some experiments about normalizing the phase.
+E : Um. So I c- I came up with a web page that people can take a look at. And, um,
+E : um, since my original attempts to, um, take the mean of the phase  spectra over time
+E : and normalize using that,  by subtracting that off, didn't work. Um,
+E : the arithmetic
+E : that approach of taking the mean of the phase spectrum wasn't really
+E : what I did instead is I
+E : took the mean of the F_F_T spectrum without taking the log or anything, and then I took the phase of that,
+E : and I subtracted that  off
+B : magnificently,  but just not for the task we intended.
+B : speech.
+F : Uh, gets rid of the speech.
+B : Uh, it leaves - you know, it leaves the junk.  I mean, I - I think it's - it's tremendous.
+B : You see, all he has to do is go back and reverse what he did before, got
+A : Well, could you take what was left over and then subtract that?
+B : Ex- exactly. Yeah, you got it.
+G : Yeah.
+F : Yeah.
+G : Oh, it's -
+B : Including what I just said.
+A : All set?
+C : Um. Yeah. Maybe, concerning these d-
+C : Um. Yeah. So, I think I will maybe train, like, gender-dependent models, because the two systems.
+C : Um,
+C : the fact that maybe the acoustic models of the S_R_I are more - S_R_I system are more complex.
+B : Well, it sounds like they also have - he - he's saying they have all these, uh,
+F : Yeah.
+A : I'm not sure how they would do it when they're working with the digits, but, like, in the Switchboard  data, there's, um -
+A : conversation-side normalization for the utterance normalization for the C_zero components.
+C : the
+G : Oh. It's like the tied  state.
+B : I - I - I don't real- I'm talk- I'm just guessing here. But I think - I think they - they don't just  have triphones. I think they have a range of - of, uh, dependencies.
+C : Mm-hmm.
+C : Mm-hmm.
+F : Hmm.
+C : Well, the first thing I - that I want to do is just maybe these gender things.
+C : Uh.
+C : And maybe see with how much it helps, what's the model.
+C : That's right. So it's the clean T_I-digits training set.
+E : You know, the - the Aurora baseline is set up with these, um - this version of the clean training set that's been filtered
+E : with this G_-seven-one-two filter, and,
+B : something like two point four percent on
+B : when, uh, training the S_R_I system with clean T_R digits - T_I-digits. Right?
+B : O_K. So it's about  the same, maybe a little worse.
+E : W- w- it was one - one point two
+B : I'm sorry.
+B : You - you were H_T_K. Right? O_K. That's right. So - O_K, so
+B : for what you were talking about then, since it was H_T_K, would be the
+B : Oh, right, right, right, right.
+C : So - Yeah. The only difference is the features, right now, between this and -
+B : He's doing some different things.
+B : Yes. O_K, good. So they are
+C : They are helping.
+C : Yeah. And another thing I - I maybe would like to do is to just test
+B : Yeah.
+C : uh, the noisy T_I-digits,
+C : cuz I'm still wondering improvement
+C : But I wonder if it's just because maybe Macrophone is acoustically closer to the meeting digits than - than T_I-digit is, which is -
+C : T_I-digits are very clean recorded digits and -
+C : That's - Yeah. That's what I wanted, just, uh - Yeah.
+C : it on - and test it on Aurora T_I-digits. Right.
+B : You'd have to train the S_R_I system with - with all the different languages.
+B : It'd be a
+B : when we've had these meetings week after week, oftentimes people have not done the full arrange of things because - on - on whatever  it is they're trying, because it's a lot of work, even just with the H_T_K.
+B : So, it's - it's a good idea, but it seems like it makes sense to do some pruning
+B : first with a - a test or two that makes sense for you, and then take the likely candidates and go further.
+C : Mm-hmm.
+C : information about what's going on.
+C : And - mm-hmm.
+C : um,
+C : uh, the current for
+B : I- i- Just to clarify something for me. I-
+C : So removing more than that might still make in the results. And -
+B : Do we - ? I mean, is there some reason that we think that's the case?
+C : looked still,
+B : But maybe we'll get some insight on that when - when, uh, the gang gets back from Crete.
+B : Because lots  fairly tight,
+B : Um I don't know .
+G : Because w- we were wondering whether that realistic  manual
+G : segmentation. And then, like, if - if that V_A_D is going  to be a realistic one, then we can actually use their markers to shift the
+G : to find a - I mean, rather than keeping the twenty frames, we can actually move the marker to a point which we find more suitable for us.
+B : Mm-hmm.
+G : But if that is going to be something like a manual, uh, segmenter, then we can't use that information anymore, because that's not going to be the one that is used in the final evaluation.
+G : So. We don't know what is the type of V_A_D which they're going to provide.
+C : Yeah.
+C : And actually there's -
+C : uh, it might still be interesting to the boundaries apparently that they would provide is just,
+C : um,
+C : starting of speech and end of speech uh, at the utterance level. And -
+C : So -
+B : So if you could get at some of that, uh - although that'd be hard.  But - but - Yeah.
+C : for, like, noise estimation, and a lot of other things that we want to work on. But - Mmm.
+C : Yeah. So I did - I just putting together two V_A_D which was - was not much work actually.
+C : um, energy-based V_A_D
+C : that, uh, the other Aurora guys use.
+C : Um.
+C : So, which is just putting a threshold on the noise energy,
+B : Mm-hmm.
+C : and, detect- detecting the first that have a energy that's above this threshold,
+C : and, uh, from this point, uh, tagging the frames there as speech.
+C : the first silent portion - portion of each utterance.
+C : And it really removes it,
+C : still o- on the noises where work a lot.
+B : some  information,
+B : some better performance. Right? Cuz you might have low-energy
+B : fricatives or - or, uh stop consonants, or something like that.
+C : So, your point is - will be to u- use whatever  -
+B : purely  nonspeech.
+B : And, um, just as a gross generalization, most nonsp- many  nonspeech noises have a low-pass kind of characteristic,
+C : Yeah.
+B : it plus energy plus timing  information is sort of -
+B : I mean, if you look up in Rabiner and Schafer from like twenty-five years ago or something, that's sort of what they were using then. So it's - it's not a -
+C : Mm-hmm.
+F : Hmm.
+C : so, removes like low,
+C : um,
+C : low-energy, uh, speech frames. Because the way I do it is I just - I just combine
+C : the two decisions - so, the one from the M_L_P and the one from the energy-based - with the - with the and operator. So,
+C : I only that it's speech.
+C : good.
+B : Well, I guess - I mean, one could imagine
+C : Yeah. But the way it's combined wi- is maybe done - Well, yeah .
+B : Well, you can imagine -
+B : Right. And that might not be optimal, but - but - I mean, I guess in principle what you'd want to do is have a -
+A : And you so many frames.
+C : Uh-huh.
+A : I guess it depends on how you do it. But I mean, that's - that's been a useful thing.
+F : Mm-hmm.
+G : then only make a decision because decision further.
+C : Well, actually if I don't - maybe don't want to work too much of - on it right now. I just wanted to - to see if it's -
+C : Um.
+C : which I've just started yesterday to launch a bunch of, uh,
+C : it's the Makhoul-type spectral subtraction which use an over-estimation factor. So, we substr- I subtract more,
+C : the noise spectra that on the noise portion of the s- uh, the utterances.
+C : uh, over-estimation factors.
+C : And after subtraction, I also add a constant noise, and I also try different,
+C : and we'll see what happen.
+B : O_K.
+C : Mm-hmm.
+C : Mm-hmm.
+C : But st- still when we look at the, um -
+C : On the other hand, when you maybe you distort a lot of speech. So.
+C : Well.
+C : Well, it - until now, it doesn't seem to help. But
+C : So the next thing, maybe I - what I will to try to smooth
+C : mmm,
+C : Yeah. So, to get something that's - would be closer to what you tried to do with Wiener filtering. And -
+G : Actually, it's, uh -
+C : That's it for me.
+G : So, uh -
+G : there are - there were some bugs  in the program, so I was p- initially trying to clear them up.
+G : and then it never  estimated, because I assumed that it was always
+G : Yeah. SpeechDat-Car Italian.
+G : So that was one of the
+G : And, uh, so once it was cleared, uh, I ran a few experiments with different ways of smoothing the estimated clean speech and
+G : uh,
+G : smoothing the current estimate of the clean speech for deriving the
+G : S_N_R, which is like deriving the Wiener filter, seems to be helping. Then updating it quite fast using a very small time constant.
+G : the - More smoothing is helping. But still it's like - it's still comparable to the baseline. I haven't got anything beyond  the baseline. But that's, like, not using any Wiener filter.
+G : different time constants for smoothing the noise spectrum, and smoothing the clean speech, and smoothing S_N_R. So there are three time constants that I have. So, I'm just playing around.
+G : So, one is fixed in the line, like Smoothing the clean speech is - is helping, so I'm not going to change it that much. But, the way I'm estimating the noise
+G : So, I'm thinking of, like, putting a floor also for the S_N_R so that it doesn't vary a lot in the low-energy regions.
+G : And, uh. So. The results are, like -
+G : So far I've been testing only with the baseline, which is - which doesn't have any L_D_A filtering and on-line normalization. I just want to separate the -
+G : Carlos filters,
+G : it's   - it seems to be like it's not
+G : four hertz -
+G : it's - it's - is it worth trying or not. So, it doesn't seems to be degrading a lot  on that. So there must be something that I can -
+G : I guess I would ask Carlos about that. I mean, how - how he derived those filters and -
+G : and where d- if he has  any filters which are derived on O_G_I stories, added with some type of noise which - what we are using currently, or
+B : This is cubic root of power spectra?
+B : O_K.
+G : So it's - there seems to be, like, deep valleys  in the begin and the end of, like, high-energy regions, because the filter has, like, a sort of Mexican-hat type structure.
+G : That's something I observe using that filter.
+G : so that it's not really creating a lot  of negative values in the cubic root.
+G : and - but while making this Wiener filter better.
+G : So.
+B : Uh, last week you were also talking about building up the subspace stuff?
+G : finding those bugs and
+B : O_K.
+A : How about   you, Carmen?
+D : And, maybe, talking with Stephane and with Sunil, we decide that maybe it was interesting to - to apply on-line normalization before applying V_T_S.
+D : But then we decided that that's - it doesn't work absolutely, because we modified also the noise.
+D : we then - we decide that maybe is a good idea. do the experiment yet - to apply V_T_S
+D : in cepstral domain.
+B : is - So - so, in - i- i- and -
+B : two kinds of normalization with - with, uh, different time constants. So,
+B : uh, you could do some normalization s- uh, before the V_T_S, and then do some other normalization after.
+D : Uh.
+D : Well, we   s- decide to m- to - to obtain the new expression if we work in the cepstral domain.
+D : And - Well. I am working in that now, but I'm not sure if that will be usefu- useful. I don't know. It's k- it's k-
+D : It's quite a lot - It's a lot of work. Well, it's not too much, but this - it's work. And I want to know if -
+D : if we have some the result -
+D : I - I would like to know if -
+B : has,  ask them their opinion. Uh, I don't - I don't have a good feeling for it.
+G : Pratibha.
+C : Actually, the V_T_S that you tested before was in the log domain and so the codebook is
+C : e- e- kind of dependent on the level of the speech signal. And -
+B : And then you have one  is  is
+C : Yeah.
+C : But here also we would have to be careful about removing the mean of speech and
+C : not of noise. Because it's like first doing general normalization and then
+D : Yea-
+D : to estimate the noise with the first frames and then apply the V_A_D,
+B : Mm-hmm.
+D : Well, I am thinking
+D : about that and working about that, but I don't have result this week.
+B : as we look at the pros and cons of these different methods, how do they fit in with one another? Because we've talked about
+B : characteristics are, so we can see what
+D : Mm-hmm.
+C : Mm-hmm.
+A : Is that it?
+B : O_K. Why don't we read some digits?
+A : O_K? Yep. Want to go ahead, Morgan?
+B : Transcript L_ dash two one two.
+B : Two, four eight eight, two nine, one zero zero, nine.
+B : Seven zero, six one, seven eight, two five, nine six.
+B : Eight five eight, seven seven nine, six one nine.
+B : Four eight four four, one, seven five two.
+B : Two four, six two, seven two, one eight, two one.
+B : Eight, five five two, three five, one two five, one.
+B : Five zero three eight, one, one seven seven.
+B : Six, nine seven four, nine six, three one one, five.
+C : Transcript L_ dash two one three.
+C : Two four, five four, four three, seven six, five seven.
+C : Three one eight, O_ two O_, nine nine seven.
+C : One, three one seven, three eight, eight three one, three.
+C : Zero seven one seven, two four one five, three nine eight five.
+C : Zero, nine eight nine, zero six, two one seven, three.
+C : Two nine, nine five, six nine, six six, nine nine.
+C : Eight five nine, nine four six, four six five one.
+C : Two four five, three seven five, nine nine three five.
+F : Transcript L_ dash two one four.
+F : Seven five three, nine five nine, one three five two.
+F : Five three five, one O_ one, O_ six seven.
+F : One seven zero, four three seven, one five five.
+F : Nine, two four six, eight one, O_ seven one, zero.
+F : One
+F : Two one nine two, two zero nine five, six zero nine seven.
+F : Zero, two five zero, eight five, eight four zero, five.
+F : Three four t- two
+A : Transcript L_ dash two one five.
+A : Three five seven one, six five four five, nine nine one nine.
+A : Five five two, zero eight five, two two five.
+A : One three seven, nine eight eight, nine five eight.
+A : Zero five six, six five four, zero five eight nine.
+A : Three four five six, five, two six eight.
+A : Three zero one eight, two, eight six eight.
+A : Eight three,
+A : Five zero seven, nine three two, zero three zero.
+G : Transcript L_ dash two one six.
+G : Zero two zero, one three, two nine five zero.
+G : Zero one three, eight zero, nine six two six.
+G : Zero two, seven four, four zero, seven five, nine one.
+G : Two four, seven two, two nine, three two, three three.
+G : Seven four five, one one, four eight one seven.
+G : Six, nine one eight, nine five, three nine six, four.
+G : Six six seven six, three, seven nine nine.
+G : Five one, seven zero, nine zero, seven eight, one one.
+E : Transcript L_ dash two one seven.
+E : Seven two three, nine five, four two one one.
+E : Nine, two three eight, five two, three six three, nine.
+E : Zero four seven, two one seven, one one nine.
+E : Three one five five, nine two six six, zero five eight four.
+E : Five nine eight eight, four eight three eight, six nine three four.
+E : Eight five one, one four nine, zero one seven.
+E : Zero three zero zero, six, five eight seven.
+E : Five three two, four two, five seven eight eight.
+D : Transcript L_ dash two one eight.
+D : Eight, eight nine six, O_ two, three six six, seven.
+D : Seven eight, O_ seven, one seven, two O_, three nine.
+D : O_ six four, three two two, eight five one.
+D : Five one five, five nine, nine nine six one.
+D : Four three seven, eight seven six, six eight five seven.
+D : O_ three six, nine two six, O_ two nine.
+D : Three eight one, five five, eight four three four.
+D : Four one five, five O_ one, five two eight.
+B : O_ K.

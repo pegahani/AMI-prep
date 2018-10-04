@@ -1,0 +1,271 @@
+D : So, uh
+D : You can fill those out, uh
+D : So, I got, uh these results from, uh, Stephane.
+D : Also, um, I think that, uh we might hear later today, about other results.
+D : But, r- our results from other - other places, yeah.
+D : Um, I got this from you and then I sent a note to Sunil about the - cuz he has been running some other systems other than the - the ICSI O_G_I one.
+D : So um, I wan- wanna - wanna see what that is.
+D : But
+D : You know most of the time, even - I mean even though it's true that the overall number for Danish - we didn't improve it
+D : If you look at it individually, what it really says
+D : Looks like out of the six cases, between the different kinds of, uh, matching conditions out of the six cases, there's basically, um, a couple where it stays about the same, uh, three where it gets better, and one where it gets worse.
+A : Y- Actually, uh, um, for the Danish, there's still some kind of mystery because, um, um, when we use the straight features, we are not able to get these nice number with the ICSI O_G_I one, I mean.
+A : We don't have this ninety-three seventy-eight, we have eight- yeah.
+D : Oh, and - and we have a little time on that - and - actually so
+D : We have a day or so, so
+D : So
+D : So, uh
+D : Yeah, until
+D : W- we - we have time, yeah.
+D : Uh, and, you know, i- u- when- whenever anybody figures it out they should also, for sure, email Hynek because Hynek will be over there what we did, so he should know.
+D : So, um
+D : But - but, uh, um
+D : And here we have somewhat better than that than the Danish, and somewhat worse than that on the German, but I mean, it sounds like, uh, one way or another, the methods that we're doing can reduce the error rate from - from mel cepstrum a fourth of them to, uh, a half of them.
+D : Somewhere in there, depending on the exact case.
+D : So
+D : Cuz there's things that they are doing there that we certainly are not doing.
+D : And there's things that we're doing that they're not doing.
+D : So
+D : So
+D : And here the - the worst system still reduced the error rate by thirty-three percent, or something, in development set.
+D : So - so, you know, sort of everybody is doing things between, well, roughly a third of the errors, and half the errors being eliminated, uh, and varying on different test sets and so forth.
+D : So I think
+D : Um
+D : And, um they - they differed in some respects, but they e- em- one was called the French Telecom Alcatel System the other was called the Alcatel French Telecom System, uh, which is the biggest difference, I think.
+D : So, um, my impression is they also did very well on - on the - the, uh, evaluation set, but, um, I - I- we haven't seen - you've- you haven't seen any final results for that yeah.
+C : And they used - the main thing that - that they used was spectral subtraction? Or
+A : I'm - I'm, uh
+D : But some people have done
+D : exactly  that sort of thing, of - of - and the - I mean it's not -
+D : To - to look in speech only, to try to m- to measure these things during speech, that's p- that's not that uncommon.
+D : We did unreasonable things, which - because we like to try strange things, and - and, uh, and our things worked too.
+D : But the only caveat  using  because these,
+C : Did anybody, uh, do anything with the models as a - an experiment? Or
+D : So it was - they were s- they - they had twenty-four hundred bits per second, but they were literally creating forty-eight hundred bits per second, um, even though y- it was just repeated.
+D : So, uh, in practice
+D : Uh, probably the day after they leave, but we'll have to - we leave.
+A : So
+D : And, uh, they, uh
+D : So
+A : Yeah, probably, well
+A : Yeah, well
+D : So uh, we'll have to get done a little quicker.
+D : Uh, we didn't - we didn't have enough electrons here and
+D : Uh, but, um
+D : So yeah.
+A : Yeah, it's very short interval.
+D : So, I think the who- the whole reason for having as long as we have, which was like a week and a half, is - is because of bugs like that.
+D : So
+D : Huh
+D : So, we're gonna end up with these same kind of sheets that have the the percentages and so on just for the -
+A : So, Hynek will try to push for trying to combine, uh, different things? Or
+D : Uh, well that's
+D : But the thing is that if different systems are getting at good things, um, a- again within the constraint of the resources, if there's something simple that you can do
+D : And then on the terminal's side, I don't know how much, um, memory and - and C_P_U it takes, but it seems like the filtering
+D : So, if you can - if you can add those in then, uh, you can cut the data rate in half.
+D : Um
+A : They are working on this already? Because - yeah, Su- Sunil told me that he was trying already to put some kind of, uh, filtering in the France Telecom.
+D : Uh
+D : Yeah, so that's - that's - that's what
+D : That   uh, would work even better than what - what any of the systems had.
+D : And, um, then it would - it would, uh be something to - to discuss in the meeting.
+D : I mean, you can always have another standard after that, but this process has gone on for a while on - already and - and people might just wanna pick something and say, "O_K, this is it."
+D : It's just that, uh, if you disobey them, then you risk not being able to sell your product, or
+D : Uh
+D : So you - you - you will be - you will become experts on this and know more - far more than me about the tha- this particular standards process once you - you go to this meeting.
+D : So, uh, I'd be, uh, interested in hearing, uh, your thoughts now
+D : So, uh, I'm interested in hearing - hearing your thoughts about where you think we should go from this.
+A : Uh, well
+A : Hmm
+A : Well, first, uh, to really have a look at - at the speech
+A : Eh
+A : Actually, there is one thing that - well
+A : Um, generally we - we think that so I think it could be interesting to - to see if it -
+A : I don't think it's still true when we add noise, and so we have - I - I guess the confusion ma- the confusion matrices are very different when - when we have noise, and when it's clean speech.
+A : And probably, there is much more between classes errors for noisy speech.
+A : And
+A : And which is a s- a s- a simpler problem, perhaps, but -
+D : But just take the best case, the well-matched per digit.
+D : I mean, if you have ten digits for a phone number I mean, every now and then you'll get it right.
+D : I mean, it's - it's, uh,
+D : And - and - a- and - and also, um a realistic - almost realistic database.
+D : And, um,
+A : No, actually - actually the well-matched condition still quite di- still quite difficult.
+A : I mean, it's - they have all these data from the close mike and from the distant mike, and they take seventy percent, I think, for training and thirty percent for testing.
+A : So, training is done on different microphone and conditions.
+A : So, probably if we only take the close microphones, I guess the results should be much much better than this.
+A : Uh
+A : Yeah, so - there is this, the mismatched is, um the driving conditions, I mean the speed and the kind of road, is different for training and testing, is that right?
+D : Uh, O_K, so
+A : So - s- so -
+D : So, yeah, so the high - so the - right - so the highly mismatched is in some sense a good model for what we've been, you know, typically talking about when we talk about additive noise in -
+D : And so - and i- i- k- it does correspond to a realistic situation in the sense that, and they're trying to connect to something.
+D : Um
+A : Actually, yeah, it's very close to clean speech training because, well, because the close microphone and noisy speech testing, yeah.
+D : And the well-matched condition is what you might imagine that you might be able to approach, if you know that this is the application.
+D : Uh, uh, but
+A : But the - I mean, the th- th- it doesn't work.
+D : Even the optimistic one is
+D : So, in a way, that's, you know, that's sort of the dominant thing is that even, say on the development set stuff that we saw, the, uh, the numbers that, uh, that Alcatel was getting when choosing out the best single numbers, a - a - for a real system.
+D : You - you - you,
+D : Uh, and, uh
+D : Does a- any- you have any thoughts about what else y- you're thinking that you didn't get to that you would like to do if you had more time?
+D : Uh
+E : Because we trying a lot of s-  we remove these.
+E : Maybe we trying again with the articulatory feature.
+E : Um, forgot it, something
+E : I don't know exactly because, tsk
+E : maybe do better some step the general, eh, diagram.
+D : Um
+D : Well, but it was an M_S_G-like thing, but it wasn't M_S_G, right?
+D : And, uh
+D : We were just talking about, um, some, uh, some work that we're interested in.
+D : Kind of inspired by the stuff by Larry Saul with the, uh uh, learning articulatory feature in - I think, in the case of his paper - with sonorance based on, uh, multi-band information where you have a - a combination of gradient learning an- and, uh, E_M.
+D : Um, and
+D : Um what I like about it, in a way, is that, uh, the results are still so terrible.
+D : Uh
+D : Uh
+D : So, um
+D : Uh, at one point, uh, Brian and I went downstairs into the - the basement where it was - it was in a hallway where it was very reverberant and we - we made some recordings there. And then we
+D : Um
+D : So,
+D : This is what's nice about the Aurora data and the data here, is that - is that it's sort of a realistic room situation uh, acoustics - acoustic situation, both terms in noise and reflections, and so on and n- n-
+D : And, uh, uh, with something that's still relatively realistic, it's still very very hard to do very well.
+D : So
+A : Yeah, so d- well
+A : Um
+A : So this would be the first thing, and then, of course, try to - well, particularly, and on the multi-band.
+A : Uh
+D : So
+D : Um
+D : So let's - I guess
+C : About
+D : Anything
+C : Uh, now, I'm interested in, um, uh uh, data from multiple languages to train the neural net.
+C : And I don't know how far, or if you guys even had a chance to try that, but that would be some- it'd be interesting to me.
+A : Yeah, but
+A : Again, it's the kind of - of thing that, uh, we were thin- thinking   - thinking that it would work, but it didn't work.
+A : And, eh, so there is kind of - of not a bug, but something wrong in what we are doing, perhaps.
+A : Uh, something wrong, perhaps in the - just in the - the fact that the labels are - well
+A : Um
+A : But that would be something interesting t- to - to see.
+D : Also, uh, I mean, there was just the whole notion of having multiple nets that were trained on different data.
+D : So one form of different data was - is from different languages, but the other
+D : Well, i- in fact, uh, m- in those experiments it wasn't so much combining multiple nets, it was a single net that had different
+D : So, um
+D : But, um, I don't think we know for sure.
+D : So, um
+E : Um, I'm
+A : You on Friday or S- on Saturday or ?
+D : Um
+D : Um
+D : Uh, so
+C : Transcript three seven nine one three eight one zero
+C : nine zero four
+C : zero two zero zero seven
+C : one one seven O_ four
+C : two four O_ nine two two one
+C : three six one three five O_ nine
+C : four
+C : five
+C : six zero six zero seven
+C : eight five six eight zero
+C : nine seven
+C : O_ five O_ five
+C : zero seven zero one zero zero nine
+C : one
+C : two
+C : three O_ seven nine eight eight O_
+C : five seven
+C : six three nine
+C : seven seven one eight
+C : eight
+C : nine
+D : Transcript three seven five one dash three seven seven zero.
+D : eight five five seven three zero six
+D : nine six six O_
+D : O_
+D : zero
+D : one
+D : two O_
+D : four two
+D : five five six
+D : six six
+D : seven eight two
+D : eight
+D : nine
+D : O_ O_
+D : one one
+D : two three four
+D : three eight six
+D : four four eight three
+D : five
+D : six
+D : seven zero four three zero zero seven
+B : Transcript three six seven one dash three six nine zero.
+B : four
+B : five zero zero four two
+B : seven two O_ three
+B : eight five three O_ five one O_
+B : nine seven one eight four seven six
+B : O_
+B : zero nine four five
+B : one O_ three
+B : two
+B : four one one five
+B : five four nine nine two
+B : six six three
+B : seven seven nine
+B : eight eight zero zero two eight five
+B : nine O_ seven O_
+B : O_ O_ eight
+B : one two
+B : two eight six eight
+B : three five three seven one zero nine
+B : four five
+A : Transcript six nine-
+A : Uh, yeah, I'm sorry.
+A : Transcript three six nine one three seven one O_.
+A : five
+A : six
+A : seven O_ six
+A : nine four five
+A : O_ one five
+A : zero three two
+A : one seven two zero
+A : two six two four
+A : three O_ four four O_ five five
+A : four
+A : six one seven O_ O_
+A : seven five eight six two eight three
+A : eight eight four
+A : nine eight O_
+A : O_
+A : zero zero one nine eight
+A : one zero zero
+A : three two eight zero nine
+A : four two
+A : five four five
+E : Transcript number three seven seven one dash three seven nine O_.
+E : nine one O_ eight
+E : O_ four six nine O_
+E : zero seven
+E : one six O_ one
+E : two
+E : three
+E : four zero zero zero six four seven
+E : six five nine nine zero eight five
+E : seven six seven two eight five six
+E : eight three six seven four one three
+E : nine eight nine
+E : O_
+E : zero
+E : O_
+E : @@
+E : one O_
+E : three one four O_
+E : four seven
+E : five seven three six nine
+E : six five
+E : seven
+E : eight

@@ -1,0 +1,735 @@
+E : It's recording.
+F : Oh. Wait  a minute. Wait a minute.
+F : Yeah. Oh boy, I got  harness.  @@
+B : Uh-oh.
+F : Um.
+D : Hmm.
+B : One.
+G : Yeah.
+C : What
+F : Channel five?
+E : Channel whatever.
+F : Little low?
+E : This number   four? O_K.
+F : Maybe it should be a little  higher.
+F : Can't get it on
+F : Ahh. Mmm.
+F : Is Jane around or - ?
+D : I saw  earlier.
+G : She can just walk in, I guess, or  -
+F : gonna  ask Adam to,
+F : say if he thought anymore about the demo
+F : the DARPA meeting is in mid July.
+F : I don't remember w- what we -
+F : know  that we were gonna do something with
+F : the transcriber interface is one  second  thing.
+G : we were gonna do a mock-up, like, question  answering or something, I thought,
+G : that was totally separate from the interface. Do you remember?
+F : Mm-hmm.
+G : That was the thing we talked about, I think, before  the transcriber - Come on in.
+F : got a - got a month left basically. So.
+G : You like  these. Right?
+G : O_K, good.
+F : else  we got?
+F : You got - you just wrote  a bunch of stuff.
+G : I was  xerox  them,
+F : Oh,
+G : We all, by the way,  have the same digit form, for the record.
+F : That's  cool.
+G : Yeah.
+F : them   time  or the comparison of people saying the same digits at different times that - ?
+F : I know  that.
+F : But, you know, which opportunity should we
+G : Yeah.
+C : Unison.
+F : Unison.
+G : have them separately and have the same exact strings. I mean,
+G : we could use them   but
+G : it of course goes more quickly doing them   I don't know.
+G : See how long we go.
+F : how long we go and how good the snack is out there. Yeah. Hmm. Get some advance intelligence.
+F : Yeah. We'd have to train.
+G : We'd be like a chorus.
+G : Yes.
+F : Yeah.
+F : Really boring
+F : Um. Do we have an agenda?
+F : Um.
+C : Are you implying that it's currently disorganized?
+D : In my
+F : Is there stuff that's happened about, um,
+F : the S_R_I recognizer
+F : Y- y- you guys were doing a bunch of experiments with different front-ends and then with -
+F : We're improving.
+C : Yeah. Actually it looks like it's getting better.
+F : Oh.
+C : With age. Yeah.
+F : Yeah. Yeah.
+C : that's not d- directly related to me. Doesn't mean we can't talk  about it.
+C : vocal tract length normalization is working beautifully,
+C : w- using the warp factors that we computed for the S_R_I system and just applying them to the ICSI front-end.
+F : That's pretty funny. O_K.
+G : So you just need to
+C : Just had to take the reciprocal  of the number because
+A : O_K.
+G : @@
+F : Ah!
+C : Yeah.
+C : But one  Don
+C : was, um, as far as meeting  recognition is concerned,
+C : segmenter  well,  consider
+E : Mmm. So.
+B : Come on.
+E : Yeah. We - But -
+F : Yeah.
+E : That- that's what I  anyway,  so we should just
+G : since you, um, have high recall, good  because we could train
+G : noise  models in the recognizer for these kinds of,
+G : uh, transients  microphones,  but
+G : we do very  poorly because we're -
+G : we're getting insertions in places what - that you may well be cutting out. So we do  some  kind of pre-segmentation.
+C : Well -
+C : We should - we should consider doing some extra  things, like, um,
+G : you know, posteriors or some  kind of - or -
+G : discrete,
+G : yes  no  for a speaker,
+G : consider those particular  speaker background models. So.
+F : You had some thing about that?
+D : generated before.
+D : Yeah.
+D : keep them from getting lost.
+D : And, um,
+C : Where'd you get the digits  from?
+D : I  here  and just recorded the numbers one through ten.
+A : They sound really  good.
+C : And do you splice them into the
+D : Yeah. He - then he d- I recorded - Actually, I recorded one through ten three  times at three different speeds and then he picked.
+C : Mm-hmm.
+D : He liked the fastest
+D : and spliced them   in between, uh, two beeps.
+E : It will be funny when you're really  reading  digits,  digits in?
+D : Yeah. With my -
+A : Oh that's right.
+E : Yeah.
+D : That'll throw them,   huh?
+F : Uh, maybe
+D : Huh! Maybe. And she said it wasn't gonna - the transcriber  template,
+D : uh, that has beep, number, beep. So for them  it'll be very quick
+D : So, um, we - We're gonna send them   one more sample meeting, uh, and Thilo has run his segmentation. Adam's gonna generate the
+D : chunked file.
+D : Our s- our - On our  including  I_B_M's?
+D : Well, I  last  one seemed like it took a couple of weeks.
+D : Um, maybe even three.
+D : Uh, that's just the I_B_ M  side.
+D : Our  side is quick. I mean, I - I don't know. How long does your - ?
+E : It should  @@  be finished today or something. Yeah.
+F : Well, I meant the overall thing. e- e- u- u- reason  Jane  and I have just been talking, and she's just been
+F : doing.  transcribers.  really  know
+F : she has no choice but to operate in the mode that we already have working.  And, uh,
+D : Yeah. I - Yeah, I - I hope
+D : @@  them.
+F : Yeah. Um -
+F : I mean in particular  I would - I would really hope that when we do this DARPA meeting in July that we sort of have -
+F : have  a stream going and we know how - how well it does and how -
+F : O_K.
+F : where we are in transcriptions.
+A : Uh, the transcribers have continued to work past what I'm calling "set one", which was the s- the set that I've been, uh -
+A : uh, they've gotten five meetings done in that  set.
+A : Right now they're in the process of being edited.
+A : Let's see, I hired two transcribers today. I'm thinking of hiring another  attrition.
+F : They die off after they do this for a while.
+A : Yeah.
+A : Well, you know, it's - it's various  things. So, one of them had a baby. Um,
+A : you know, one of them really w- wasn't
+C : Oh, that
+A : Eh, one of them,   planned  January  and - and -
+A : Um, so it makes sense.  Uh, through attrition we - we've - we're down to -
+A : to two,  solid.  We're really lucky the two that we kept.
+A : And, um - Well, I don't mean - I don't mean anything against the others. What I mean is we've got a good
+A : cause - a good core.
+G : Well, they won't hear
+F : No backs.
+A : leaner  ten  right now,
+A : because if the I_B_M thing comes through really quickly,
+A : uh, you know, lay people off  and stuff. So.
+A : And this way it'll - I mean, I got really  lot  response  for - for my notice and I think I could
+A : hire  wish to.
+F : plan  actually
+F : uh, than the generation,
+F : in - in the day - e- event that that day actually  dawns,
+F : eh, a- as we were talking, if we - if we hire twelve,  then
+F : we could,  you know, run into a problem later. I mean, we also just couldn't sustain that forever. But - but, um -
+F : you know, f- we have five  on staff - five or six on staff at any given time, then
+A : Good.
+F : Good.
+G : we can - we might  need some help again getting the tighter boundaries or some hand -
+G : Oh, the new  tighter  boundaries. Yeah.
+A : The - the - the pre-segmentations are so much - are s- so extremely helpful.
+A : it happened to be during the time that he was on vacation   very  few days you were away.
+A : But it happened to be during that time I needed one, so I - so I started them on the
+A : Um. So they really appreciate it. But I was gonna say that they do  adjust it once in a while. You know, once in a while there's something like,
+A : um, and e- Actually you talked
+A : you know, I mean, you're - You're aware  of this.
+A : But - but actually  so  so  much of the time, that it's an enormous time saver and it just gets tweaked a little around the boundaries.
+A : Um. Yeah. I think it'd be interesting to combine  these.
+G : where they change? I mean, you can compare, do a diff on the - just so that we knew -
+A : um, hhh, i- hhh, i-
+E : I think one could do that.
+A : There is a - there is one problem with that and that is when they start  merge  what they've done with the pre-segmented version. So it's not a pure -
+A : it's not a pure condition. Wha- what you'd really  like is that
+A : And, um - @@  - I, uh - the -
+A : it wasn't  possible for about four of the recent ones.
+A : But, it will  be possible in the future because we - we're, um.
+A : @@
+G : Mmm, that's great.
+G : the original automatic one, we can always find out
+G : how well we would do fr- from the recognition side by using those boundaries.
+G : You know, a completely  non-cheating version. Also if you need someone to record this meeting, I mean, I'm happy to - for the transcribers -
+A : Thank you.
+F : O_K.
+D : reorganization of the directory structure for all of the meeting -
+D : For all the Meeting Recorder data. should
+D : And so we've got a plan for what we're gonna do there.  And then, Jane also s- prepared a -
+D : with start time, the date, the old
+D : and then export it as H_T_M_L and put it on the Meeting Recorder web page so we can keep people updated about what's going on.
+D : gaps here that I need to get her to fill in, but
+D : so far, um,
+D : And, um -
+D : Um,
+D : have been completed and so forth.
+D : But, um,
+D : put up on the - the web site and people can
+D : different ones. And it'll also list, uh, like under the status, if it's at I_B_M or if it's at ICSI,
+D : uh, or if it's completed or which ones we're excluding and - and there's a place for comments, so we can,
+F : you know, we've already done some studies and so forth and -
+A : being the channelized  version and it's -
+A : Yeah, it seems like I get into that a certain way and then something else intervenes
+A : it would make sense to wait until   done,
+F : Um, we are
+A : It'll certainly  be done by then. Yeah.
+A : Yeah. That's right. So that -
+F : So,
+F : principle,  yes.  did  get into some legal issue with it then we-
+A : Well, maybe -
+C : version
+C : Bu-
+C : Yeah. But th- I mean, the editing will continue. Presumably if - if s- errors are found, they will be fixed,
+D : Content,
+A : other  subtleties  this  that  @@  could've been transcribed in the other way.
+A : And no- and they wouldn't have been  slanderous if it had been this other word. You know?
+F : I- it - you know, there- there is a point at which I agree it becomes ridiculous because, you know, you could do  this final thing and then a year from now somebody could say, you know, that should be a period and not a question mark. Right?
+F : way  that we're gonna go back and ask everybody "do you approve this, uh, you know - this document now?" So -
+F : the - the - the thing  sign  - I - I haven't looked at it in a while, but it has to be open enough that it sort of says
+F : assuming
+F : um, I think i- we just wanna have enough confidence ourselves
+F : to the final form it's gonna be in,  a year from now that they're -
+A : Mmm. I totally agree.
+F : Uh.
+A : uh, if - if the person is using the transcript  as the way of them judging
+A : what they said and whether it was slanderous, then it seems like it's - it's - i-
+A : a f- uh, a legal document  i- if they've agreed to that.
+F : Well, I forget how we end-
+F : Right. I forget how we ended up on this, but I remember my taking the position
+F : observe everything and Adam was taking the position of - of having it be really straightforward for people to check every aspect of it including  the audio.
+F : uh, the -
+A : Well, if it's only the transcript, though - I mean, th- this - this is my point, that - that
+F : That it was  the transcrip- He wanted to do a web interface that would make it -
+A : Well.
+F : that would give you access to the transcript and  the audio. That's what Adam wanted.
+G : web  interface it's interesting, because you could
+G : allow the person who signs  informed
+G : or something like that.  no ". Like, I don't wanna know, but some people might be really
+F : You decided you were whispering Satanic incantations under your breath when you were -
+G : I don't know what happened to the small heads thing, but I j-
+G : probably won't care about typos  meaning  changes and then
+G : asked for their consent,  guess,  if  those change. Cuz assumi-
+G : assuming we - we don't really distribute things that have any significant changes from what they sign anyway.
+D : Talk.
+G : But no one will listen  to the hours and hours of -
+C : Well, that's O_ K.  chance  don't,  their  problem.
+B : That's - hmm, hmm.
+G : You - you d-
+A : Unfortunately, uh, in - in the sign- thing that they signed, it says " transcripts ". "You'll be - you'll be provided the transcripts when they're available."
+G : that's a lot to ask for people that have been in a lot of meetings.
+F : W- anyway, haven't we - we've gone down this path a number of times. I know this can lead to extended conversations and - and not  get  anywhere, so let - let me just suggest that -
+F : O_K. So - so that in  July we can tell people
+F : "yes, we have this and you can use it".
+G : Well.
+F : Yeah.
+G : eight meetings there because we couldn't use the non-native - all  non-native meetings and
+G : well, probably  below
+G : prosodic features are very noisy and so you - you need a lot of data in order to model them.
+G : Um, so we're starting  some
+G : I don't know, double or triple the data - with twenty  did
+G : features that, I gue- Jane
+G : distance  of,
+G : um,
+G : boundaries  peaks
+G : some local,
+G : range - pitch range effects, like how close people are to their floor, are
+G : which are also being given some word  true  words.
+G : Um, so these are based on forced alignment.
+G : So, we're starting  to see, I think, some
+F : dominant  features, including everything, were those - those quasi-cheating things. Right? Where these are -
+B : Yeah. Sometimes positions in sentences obviously,
+G : spurts is not cheating except that of course you know the real words, but roughly
+B : Right. Would they give you the same number  of words, though?
+C : Have you tried using just time,  as opposed to number of words?
+B : I don't know if that was in the -
+G : You know, uh-
+B : Start.
+C : I mean that wouldn't be cheating because you can detect pause pretty well within the time.
+F : How about time position normalized by speak- Yeah. Yeah.
+B : Yeah.
+G : Yeah. That's actually why I didn't use it at first. But we - one  of the interesting things was
+G : I guess you  reported on some te- punctuation type - finding sentence boundaries, finding
+B : Yeah.
+G : finding from the foreground  whether  interrupt,  so where -
+G : you know, if I'm talking now  place  word-based.
+G : there  the prosodic features
+G : actually  up
+G : a neat  available.
+G : And a neat  too
+G : putting the speaker  - So, I gave everybody
+G : a short version of their name.  couldn't  use.
+G : And those  don't show up. So that means that overall,
+G : um, it wasn't just  just  person,
+F : Mm-hmm.
+G : uh, get a general  idea - the model - the tree classifier was trying to
+G : find general  even  speaker  effects. So.
+G : ten words  twenty  words, we need more -
+G : It'd also be interesting to look at the E_D_U meetings because we did  type
+G : Meeting Recorder meeting or a Robustness  did
+G : to interrupts  interrupts  in the Robustness meetings.
+G : And so the classifier learns more about Morgan than it does about sort of the average person, which is
+F : Mm-hmm.
+G : not bad.  It'd probably do better than -
+G : Well, we have a long list of things he's starting to look at now over the summer,  where we can -
+G : And he'll be able to report on more things in the future. But it was great that we could at least go from the -
+G : you know, Jane's transcripts  and the,
+G : uh, recognizer  output and
+G : get it point.  And I think it's something
+G : Mari can probably use in her preliminary  report - like, "yeah, we're
+G : at the point where we're training these classifiers and we're just
+G : work. "
+G : The other thing that was interesting to me is that the pitch  better
+G : processing that was done  has much cleaner
+G : behavior  Switchboard  telephone  bandwidth.
+C : Better in what sense?
+G : Well, first  of all, the pitch tracks are m- have less,
+G : halvings and doublings than - than Switchboard and there's a lot  so if you
+G : regions where you would normally expect some  occurring
+G : are completely devoid of pitch  information, in other words the pitch tracker just didn't get a high enough probability of voicing for
+G : you know, five word- fewer  than in Switchboard. So the missing -
+G : We had a big missing data problem in Switchboard
+G : and, so the features weren't as reliable cuz they were often just not available. So that's  actually good.
+D : frequency  Switchboard?
+G : Ma- maybe. I mean, the tele- we had telephone  bandwidth for Switchboard
+G : and  we had the
+G : problem that I think may also  affect it.
+G : Which is nice.
+E : Y-
+F : insertion penalty sort of things with the - with the, uh -
+C : Oh, yeah. I tried that. It didn't,
+D : Were they out of balance? I didn't - I didn't notice.
+C : The -
+C : I think there were a higher  deletions,  actually.
+C : preferred to have a positive  -
+C : er, negative  insertion penalty, which means
+F : Uh- huh.
+C : that, um - But, you know, it didn't change
+C : th- the - by adjusting  that -
+C : the, um -
+C : That's not the problem. No.
+C : But, uh, we s- just, um,
+C : you know, Chuck and I talked and the @@  next thing to do is probably to tune the -
+C : um, the size of the Gaussian  system,
+C : um, @@  all.
+C : configuration as we used for the -
+C : for the standard system.
+C : Dan - @@
+C : C_M_U used, um,
+C : something like ten  Gaussians per cluster -
+C : @@
+C : You know, each - each mixture has ten Gaussians
+D : Mm-hmm. Hmm. We're using sixty- four,  right?
+C : and - and we're using sixty-four, so that's
+C : you know, Gaussians  that way,
+C : we have -
+C : The turn-around time on the training  when we train only the -
+C : um, settings. And, uh, with the new machines it'll be even better.  So.
+F : Yeah. We get twelve of those,
+C : As I said before, the - uh  using Dan's, uh, uh, vocal tract normalization option works very well.
+C : @@
+C : did the vocal tract le- normalization only  test  data,
+C : so I didn't bother to retrain
+C : @@  and
+C : uh, with the standard system.
+C : for retraining everything  that  further.
+C : So, it looks  well  now with - after having figured out all these little tricks to - to get it to work.
+G : a system that doesn't have any V_T_ L  in it already?
+G : O_K.
+F : O_K . So then - then we'll have our baseline to -
+F : to compare the currently hideous, uh, uh, new
+C : Right. And - and what that  also  is of course that the current
+C : Switchboard  features.
+F : Right. But all  percent.
+C : them   up  difference  now.
+F : Add one  eight.
+C : Yeah. And now we have another  L.
+C : @@  um,
+C : What's actually qu- interesting  is that with -
+C : um, well, you m- prob- maybe another half  training,
+C : and then interestingly,  if you optimize
+C : you get more of a win out of rescoring
+C : the, um,
+C : uh, the N_ best
+C : uh, and optimizing the weights,
+C : um, uh  than - Yeah.
+D : Than you do with the standard?
+C : So -
+F : Yeah. But the part  adjustment  end  V_T_L_N in   percent.
+F : Right? It was - it was - there was -
+F : let me see if I remember what they were. One
+F : because it did it all at once, to - uh, from bark scale to mel scale,
+F : which I really  quotes,  because
+F : @@  they're essentially the same scale but the - but - but - but
+F : any i- individual particular  implementation  place.
+F : So that's why I wanted to look - I still haven't looked  exactly  where  were
+F : it's probably  something like there's one fewer or one more filter in the sub
+F : one kilohertz band and for whatever reason with this particular experiment it was better  other.
+F : Um, it could
+D : Well, that  triangular.  Right?
+F : them   eight  percent which was something else. Do you remember the - ?
+D : The low-frequency cut-off.
+F : that  that  first  until   fixed  it,
+F : never
+F : We had some problems before with offsets.  This inf- this went back to, uh,
+F : I think Wall Street Journal.
+F : ea- everybody else who was doing Wall Street Journal knew  mention  it to us, and we were getting these,
+F : like, really
+F : And then in casual conversation someone ment- mentioned "uh, well, I guess, you know, of course you're taking care of the offsets.  what  offsets?"
+F : that  looked  screen
+F : there's this big D_C offset.
+G : There was a - like a hum  recorded
+F : No. It's just, it - it's - it's not at all uncommon for - for recorded electronics to have different, um, D_C offsets.
+F : It's - it's, you know, no big deal.  whatever,  in  there.
+F : The thing  most  emphasis  at  frequency,
+F : so that it's irrelevant.
+F : Uh, but with P_L_ P,
+F : we didn't actually have  that. We had - we had
+F : the equivalent  of pre-emphasis in a - a, uh,
+F : Fletcher-Munson style weighting that occurs in the middle of P_L_ P,
+F : but it doesn't actually have a zero  emphasis  does.
+F : We had something more fancy.  have
+F : So at that  filter " just, you know -
+F : just take care  of the problem. So I put in a high-pass filter
+F : uh, for a sixteen kilohertz sampling  rate.
+F : And I never  put anything in
+F : to adjust  different   sampling
+F : And so - well, so, you know, the code doesn't know anything about that and so this is all at eight kilohertz and so it was at forty- five  hertz instead of at -
+F : instead of at ninety. So, um,
+C : Well, he made it a parameter.
+F : He made  parameter.  guess  did  sampling  rate, which is great.
+F : He had a -
+C : It's called, uh,
+F : Yeah. Does   H_P_F on - on his feat- feature.
+C : u- And - but H_P_F, you know, when you put a number  after it, uses that as the
+C : hertz value of the cut-off.  So.
+F : frankly,  never  RASTA  either,  so the RASTA filter is actually doing a different thing
+F : in the modulation spectral domain depending on what sampling rate you're doing, which is another old - old bug of mine.
+F : Um. So that - that  there  intended  to cut off below a hundred hertz and it just
+F : wasn't doing it, so now  is.
+F : that hep- that helped us by, like, eight tenths of a percent. It still wasn't a big deal.
+C : O_K.
+C : Well, uh, again, after completing the current experiments, we'll -
+F : Oh, yeah. But -
+C : uh
+C : differences and - and - an-
+F : hybrid  system thing that we did
+F : primitive in many  ways.
+F : And I think I agree  with you that if we
+F : fixed lots  they would all add  system.
+F : But that's sort of more both,  kind of. Right? But.
+D : One experiment we should -
+D : without all these things in it, for the tandem  system,
+C : Well, that's  meant,  in fact. Yeah.
+D : yeah, yeah,
+D : for the tandem.  tandem
+C : So - so, the thing is - is
+F : Mm-hmm.
+C : eh  At this point I'm as- I mean, you know -
+C : Can we expect, uh, a tandem system to do better  than a properly trained - you know, a Gaussian
+C : system trained directly on the features with, you know, the right ch- choice of parameters?
+F : Well, that's  areas.  Yes.
+D : So, we - But - but we may not. I mean, if it doesn't  well,  why.  Right? Cuz we need to do
+D : the exact experiment.
+F : I mean, the reason  should  is because
+F : Um.
+F : Now the thing is, in some databases I wouldn't expect it to necessarily give you much  part  of what I view as the real power of it is that
+F : it gives you a transformational capability
+F : for taking all sorts  standard  other  streams
+F : and allows you to feed them   to the other system with this - through this funnel.
+F : Um, so I think - I think that's the real  huge  improvements.
+F : it should at least  be
+F : roughly the same  better.  If it's, you know, like way way worse then, you know -
+D : So, Morgan, an- another  @@  first  experiment that he did
+F : Mm-hmm.
+F : Mm-hmm.
+D : But one thing we could  do is -
+F : outputs,   these are the pre-
+F : final nonlinearity outputs and they're - and -
+D : Yeah. Through the regular tandem outputs.
+F : And so - so then you u- Do you use all fifty-six of the K_L_T or - ?
+D : That's what we did. Right?
+D : So one  wondering  is, if we did
+D : principal components and, say, took out just thirteen,  that  - so we treated the th-
+D : first thirteen as though they were
+F : He  did some things like that.
+F : I mean these were all different databases and different - you know, in H_T_K and all that, so i- it - it may  apply.  But
+F : my recollection of it was that it didn't make it better but it didn't make it worse.
+F : But, again, given all these differences, maybe it's more important in your case that you not  take a lot of these low-variance, uh, components.
+D : Cuz in a sense,  net's  got  context  in
+D : those features,  those,
+D : sort of even more.
+C : procedure
+C : tandem features - uh, either generating
+C : S_R_I system, but
+F : There might  be, cuz that's a pretty big difference.
+C : it's -
+F : But
+C : feeding the features into the system and training it up, that - that -
+C : this - that's essentially the same as we use with the ce- with the P_L_ P  fe- features.
+C : And that's obviously working great.  So.
+C : I- um.
+C : the - another  freedom  T  transform?
+F : That's -
+F : well, and another  net.
+F : These nets are trained with particular normalization and  when that gets screwed up it - it can really hurt it.
+D : E- Eric coached me through then - that part of it, so I'm pretty confident in that.  I mean, the only
+D : slight  difference is that I use normalization values that,
+D : from the original  P_L_P, which is right. N- Yeah.
+D : Oh, we actually don't do  do  we?
+D : S_R_ I  system does that. Right.
+F : Right.
+F : Well, you might e- e-
+F : Yeah. I -
+F : I would actually double check with Stephane  at this point,
+F : I mean, he and Dan are the ones who are at this point most  experienced with the tandem
+D : Yeah. It's hard  should  look like. I mean, you can't just, like,
+F : Not unless you had a lot
+G : eh, and also they're not - I mean, as I understand it, you - you don't have a way to optimize the features for the final word  error. Right?
+C : They're optimized for phone  discrimination, not for -
+G : Right. So it - there's always this question of whether you might  train  it
+G : for the word  error metric that you're actually -
+C : Mm- Mmm.
+F : Well, you actually are.
+F : So wha- w- what - an- and you may not  be in this case, come to think of it, because,
+F : uh, you're just taking something that's trained up elsewhere.  So,
+F : what - what you - what you do  full  procedure
+F : of the training data that comes from your full system. And so that's where the feedback comes all around, so that it is  actually
+F : discriminant.
+F : you actually do  improve  that
+F : for a hybrid
+C : Do y-
+G : So that you can optimize it for the word  Yeah.
+F : Yeah. Another  not  recognition  transformation,  probably  bigger  than it needs to be.
+F : other  Stephane  Stephane's,  neat  one,
+F : uh, and might particularly apply here, given all these things we're mentioning.
+F : Even the local ones, given, you know, these potential outer loops which, you know, you can convince  yourself
+F : however,
+F : there's times when it is not good.
+F : Uh, when something about the test set is different enough from the training set that - that, uh, the discrimination that you're learning is - is - is not a good one.
+F : So, uh, his
+C : Oh, we  already talked about that.
+G : Didn't you - did you do
+C : No, but we - we - when - when we - when I first started corresponding with Dan  about  this,
+C : I think that was one of the things that we definitely went there .
+F : Yeah. I mean, I'm sure that Stephane wasn't the first to think  did
+F : and - and it helped a lot.  Yeah.
+C : Oh.  O_K.
+F : uh, in the Aurora  thing. Yeah.
+C : And do you do a K_L_T transform on the con- on the combined  feature vector?
+G : As - you should never do worse.
+C : Do you - d- you do a K_L_T transform on the combined  feature vector?
+F : Well, actually, I, uh - you should check with him, because he tried several different combinations.
+C : feature
+F : what I don't remember is which came out best.
+F : and another  one, since the - the P_L_P things are already orthogonalized,
+F : and - and just did a K_L_T on the - on the - on the net
+D : So he always ended up with a feature vector that was twice as long as either one of the - ?
+F : You have to check with him.
+D : Yeah.
+F : I'm into big
+C : Uh.
+F : @@  mention  snacks.  Yeah.
+G : Right.
+F : Uh-
+G : Did people wanna do the digits or, um, do them   I don't know.
+F : I - I g- I think, given that we're in a hurry  them   together.
+G : I mean, are we trying to do them
+G : in synchrony?
+G : Adam's
+F : it's -
+F : You know, it's not  out  but we could - we could just, uh,
+F : Uh, O_  zeroes,  agree  on that?
+F : @@
+F : Oh, but if we were a singing  decide.  Right?
+G : Be harmony. Yeah. Yeah.
+A : Mine's identical to yours. Is that correct?
+F : We might wa-
+G : Sorry. So I set up and we didn't have one  seven times.
+A : Oh.  I  see.
+F : these
+A : Oh.  I  see.
+F : Why don't we do zer-  i- Anyone have a problem with saying zero?
+F : Is  zero  O_K?
+F : One  two  three.
+A : seven eight seven
+F : seven eight seven
+D : seven eight seven
+B : seven eight seven
+G : seven
+F : one five two
+G : one five two
+D : one five two
+B : one five two
+A : one five two
+G : z-
+B : zero three zero two
+F : zero three zero two
+D : zero three zero two
+A : O_ three zero two
+D : eight one two zero
+F : eight one two zero
+B : eight one two zero
+A : eight one two zero
+A : two two six one
+F : two two six one
+D : two two six one
+B : two two six one
+G : two two six one
+A : four six zero three
+B : four six zero three
+F : four six zero three
+D : four six zero three
+G : four six zero three
+D : zero seven eight
+A : zero seven eight
+G : zero seven eight
+F : zero seven eight
+B : zero seven eight
+A : two six six
+F : two six six
+D : two six six
+B : two six six
+G : two six six
+A : two two three
+F : two two three
+G : two two three
+B : two two three
+D : two two three
+A : four nine eight seven
+G : four nine eight seven
+B : four nine eight seven
+D : four nine eight seven
+F : four nine eight seven
+A : zero seven five two
+F : zero seven five two
+G : zero seven five two
+D : zero seven five two
+B : zero seven five two
+G : nine one zero nine
+A : nine one zero nine
+F : nine one zero nine
+D : nine one zero nine
+B : nine one zero nine
+A : one
+B : one
+G : one
+D : one
+F : one
+A : eight zero six
+G : eight zero six
+D : eight zero six
+F : eight zero six
+B : eight zero six
+F : zero five
+A : zero five
+G : zero five
+B : zero five
+D : zero five
+G : one five six
+F : one five six
+A : one five six
+D : one five six
+B : one five six
+D : two
+A : two
+G : two
+B : two
+F : two
+F : eight
+B : eight
+D : eight
+A : eight
+G : eight
+F : four three six
+A : four three six
+D : four three six
+G : four three six
+B : four three six
+F : five seven
+A : five seven
+D : five seven
+G : five seven
+B : five seven
+F : nine five one
+A : nine five one
+G : nine five one
+D : nine five one
+B : nine five one
+D : eight
+F : eight
+A : eight
+G : eight
+B : eight
+F : eight four nine
+G : eight four nine
+D : eight four nine
+B : eight four nine
+A : eight four nine
+D : five three
+F : five three
+G : five three
+A : five three
+B : five three
+A : two five three eight
+F : two five three eight
+D : two five three eight
+G : two five three eight
+B : two five three eight
+G : one two zero zero
+F : one two zero zero
+B : one two zero zero
+A : one two zero zero
+D : one two zero zero
+F : one seven three three
+B : one seven three three
+A : one seven three three
+G : one seven three three
+D : one seven three three
+D : eight six zero zero
+G : eight six zero zero
+F : eight six zero zero
+B : eight six zero zero
+A : eight six zero zero
+F : Once more with feeling.  kidding.
+F : Oh, yeah.  was.
+G : Light  kind of music.
+B : We should start a cult.
+F : It sounded  Really.  It sounded very lethargic.
+D : I needed protein. protein  them.
+B : It was the lack of prosodic, uh - Now we will eat snacks.
+G : Exactly.  lowers  pitch
+D : Ask everybody con- to contribute to the third worl-

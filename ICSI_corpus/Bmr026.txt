@@ -1,0 +1,388 @@
+A : O_K, we're on.
+A : So, I think this is gonna be a pretty short meeting because I have four  three  of them were
+A : The uh first  Does anyone besides Jane know what the transcription status is?
+D : That's our
+A : Ugh!
+F : the thing  week or week and a half ago and that it's gone out to the transcribers and hopefully next week we'll
+F : have the transcription  back from that.
+F : transcriptions from the ICSI  side. She's assigned, I think
+F : Oh  no no. No. We're not waiting on them.
+D : The - Again,  we - we have a similar uh
+D : logistic set-up where we are  supposed to send the data to Munich and get it transcribed and get it back.
+D : But to get going  started.
+A : Yep, sounds familiar.
+D : transcribers could - could do - I mean since these are very short,  that should really be uh,
+C : So it's only - Yeah. As the synthesis doesn't have to be transcribed  I think. So.
+B : So that should have ma- many fewer - And it's also not uh- a bunch of interruptions with people and all that, right? So. Yeah.
+D : Right. And some  read  speech, so we could give them the -
+A : Make sure it's right.
+B : Yeah, if we're held up on this other stuff a little  bit in order to encompass that, that's O_K because I- I- um, I mean I still have high hopes that the- that the I_B_M pipeline'll work out for us, so it's -
+F : Oh, yeah, and also related to the transcription  stuff, so I've been trying to keep a web page uh up to date f- showing what the current status is of the trans- of all the things we've collected and what stage each meeting is in, in terms of whether it's -
+F : Mm-hmm, yeah I will. I - That's the thing that I sent out just to foo  people saying can you update these pages and so that's where I'm putting it but I'll -
+A : O_K. So Jane also wanted to talk about participant approval, but I don't really think there's much to talk about. I'm just gonna do it.
+A : suggest edits. And then bleep them out.
+F : So, um the audio that they're gonna have access to, will that be the uncompressed  version? Or will you have scripts that like uncompress the various pieces and -
+A : That's a good point. Yeah, it's - it's probably going to have to be the uncompressed  versions because, uh, uh, it takes too long to do random access decompression.
+A : Well, that was the other point. Yep, that's another agenda item.
+A : So that the front-end  filtering  based on that as well.
+A : And uh Dave Gelbart says he's a little too busy. So I think Don and I are gonna work on that and - and you and I can just talk about it off-line more.
+A : But uh back-end  was pretty smooth. So I think, we'll have something. It may not be as -
+A : As pretty as we might  like, but we'll have something.
+B : I wondered whe- when we would reach Dave's saturation point. He's sort of been - been volunteering for everything and and uh -
+A : Yeah.
+B : O_ K.  busy.  reached  it.
+A : Yeah, he - he actually - he volunteered but then he s- then he retracted it. So. Oh well.
+A : For a demo? Yeah, sounds good.
+E : Oh. O_K.
+C : Well -  Yeah.
+A : Well
+A : Well I thought it was packaged with Transcriber?
+C : you have to install - First install Tcl then install Snack and then install the Transcriber thing and then
+A : We have - Yeah b- it's just hasn't made it into the release yet.
+F : put the uh - the N_T version out on the uh Meeting Recorder page? Or -
+C : No, I haven't done that yet. I'm - oh  Nope.
+E : I mean we could do it in Matl- I mean you could do it in a number of different places I'm sure.
+A : It'd be easy enough to add that. Again it's - it's K  programming. So someone who's familiar with Tcl-T_K has to do it, but uh, it wouldn't be hard to do.
+C : Yeah. Yeah, maybe we could l- look into that.
+E : Um What do you mean by real time? Do you mean like -
+A : Yeah, jus- Yeah.  It just seems to me jus-
+C : And to hear  it. Yeah. Yeah.
+E : I just thought if you meant slides I thought you meant like just
+E : like
+E : um view  graphs or something.
+B : the more live, the better, but uh, given the crunch of time, we may have to retreat from it to some extent. So I think -
+B : lot  of reasons, I think it would be very nice to have this Transcriber interface be able to show some other interesting signal along with it so it'd be a good thing to get in there. But,
+B : um - Anyway,  jus- just looking for ways that we could actually show what you're doing, uh,
+B : in - to people.
+B : Cuz a lot of this stuff, particularly  for Communicator, uh certainly a significant chunk of the things that we waved our arms about th- originally had t- had to do with prosodics
+B : It'd  be nice to show that we can actually get them and
+A : we have a little  bit of time before that becomes critical, but we are like ninety five percent, ninety eight percent on the scratch disks for the expanded meetings.
+A : all at once, in a lot of different ways.
+F : Oh there's a lot of transcribers,  too.
+A : because they'll be in the machine room, they'll be on the fast connection to the rest of the machines.
+A : And if we just need un-backed-up space, we could just hang disks off them.
+F : Well, is there - Why not just hang them   off of Abbott, is there a -
+A : Because there's no more room in the disk  racks on Abbott.
+D : But you still  store  disks  somehow.
+B : But if Abbott is going to be our disk server it - it - file  it seems like we would want to get it, uh, a second disk rack or something.
+D : Plus we're talking about buying a second dis- uh, file
+A : Well, I mean there are lots  of long term solutions. What I'm looking for is where do we s- expand the next meeting?
+D : I see  I  see.
+B : Well, for the next meeting you might be out of luck with those ten,  mightn't you? Uh, you know Dave Johnson is gone for, like, ten days,
+C : Yep.
+B : had
+E : Yeah, I had.  Well it's about - I think there's about twelve gig left.
+A : Which one was that, X_ G_? O_K.
+C : Oops.
+D : But I've also been storing - I've been storing the feature  files there and I guess I can s- start deleting some because we now know what the best features are and we won't be using the old ones anymore.
+A : Not - not for long.
+C : But I'm using X_H - H_, too. So.
+D : I think you're right. It's X_H  D_G  I got that confused. O_K.
+E : I think it's about four or five gig cuz I have four   meetings on there, three or four meetings.
+A : O_K, so that will get us through the next couple days.
+B : We need another gigaquad.
+A : Yep.
+D : O_K.
+B : Just press - Press each meeting saying "we need more disk space" "this week". Skip the rest of the conversation.
+A : The "more disk space" button? Yep.
+F : Right, yeah so if you uncompressed everything  more.  compressed  how much are they? Like -
+A : Half a gig. For all of them.
+B : So- so- So maybe there's a hundred gig or something. Or -
+A : I would like  to.
+B : Yeah. Well I mean it's - the- they really are cheap. I mean it's just a question of figuring out where  be  hanging  them, but
+F : Right.
+A : And put it where?
+F : how the whole process works.  get  them and - if it's O_K, and -
+F : So I was assuming  that. But he's probably too busy given that he's leaving.
+B : Yeah, I think you need a direct conversation with him. And just say an-e- just ask him that, you know, wha- what should you do. And in my answer back was "are you sure you just want one?" So I mean I think
+B : that what you want to do is plan ahead a little bit and figure "well, here's what we pi- figure on doing for the next few months".
+A : Wa- a- I know  they  sysadmins  one  machine.
+A : So they don't want to stack up external drives.
+A : machine  room.
+A : So the question is where are you gonna hang  them?
+F : I don't know what the space  machine  room.
+F : I think part of the reason why Dave can't get the - the new  machine  arrange  a bunch of stuff.
+A : But I - I know that generally  their first priority has been for backed up disk. And so I think what he's been concentrating on is uh
+A : back up system, rather than on new disk. So.
+B : one to four disks, I mean you just go out and get four and we've got the money for it, it's no big deal.
+B : Uh, but the question is where they go, and I don't think we can solve that here, you just have to ask him.
+A : Yeah really.
+D : To the machine that collects the data.  temporarily,  there.  The only -
+A : Yeah, it's just - It's not on the net, so it's a little It's not -
+A : Yep.
+A : And also  on the list is to get it into the normal ICSI net, but
+A : Who knows  when that will happen?
+F : That might  be a good
+D : But that  can't be that hard. I mean -
+F : short  term solution, though.
+A : No, the - the problem  wire
+A : running to that back room ICSI
+D : Oh,
+A : somewhere.
+A : @@
+B : Well all of us have long lists of different things we're doing.
+B : But at any rate I think that there's a - there's a longer  immediate  need and I think we need a - a conversation with -
+B : Uh, maybe - maybe after - after tea or something you and I can go down and - and talk to him about it Just say "wha- you know, what should we do right now?"
+A : Oh my!
+B : Yeah basically tomorrow and all of the week after.
+B : had last meeting we had here
+B : but we agreed that we would have a telephone meeting
+B : after the next one of these  meetings, so something that we wanna
+B : I mean just sort of
+B : bulletize I mean o- e- do- do- I can - I can dream up text but this is basically gonna lead to the annual report.
+B : Um - If w-
+A : So just a week from tomorrow? O_K.
+B : No, no but I - I - I don't need other folks for the meeting. I can do it. A- A- All I'm saying is that on  -
+B : Yeah so what I meant was on the me- this  meeting
+B : if I wa- something I - I - I'm making a major thing in the agenda is I wanna help in getting together a list of what it is that we've done so I can tell her.
+B : I think I have a pretty good idea but - but um -
+D : Um - Uh - One thing - I mean - we -
+D : in past meetings we had um
+D : also a- you know  various - variously talked about the um work that
+D : related to meetings  uh specifically. So. Um. And
+D : maybe have um a separate  meeting and between
+D : because I feel that uh there's  plenty of stuff to talk about but it would be sort of
+D : maybe the wrong  this  meeting if uh -
+D : gonna be ver- very boring  for people who are not
+D : really interested  details  of the
+D : recognition  system.
+B : Well, O_K, so how many - how many people here would not  be interested in uh - in a meeting about recognition?
+D : w-
+F : Jane  may not be.
+A : Jane,  I think.
+D : Well I know - Well, Jane an-
+D : Well you mean in a separate  meeting or ha- ha- talking about it in this -
+A : No. If we talked about it in this  meeting.
+F : He's wondering  overlap  there will be.
+D : uh, Liz  Jane  probably.
+B : O_K, so we're gonna have a guy's  meeting.
+D : Uh.
+F : Good thing Liz isn't here.
+B : Real -
+D : Uh, if you wanna put it that
+B : Wh-
+F : Don't  listen to this, Liz.
+D : stuff, sometimes I've  -
+A : The - Nod off?
+D : you know, I - I'm  bored. So it's I c- I can sympathize with them not wanting to -
+B : It's cuz y- you have a -
+B : So you need a better developed feminine  side.
+D : I'm not sure I wanna -
+B : There's probably gonna be a lot of "bleeps" in this meeting.
+A : Yeah, I would as- I would guess.
+D : Yeah and -
+B : must  uh nearing the end of the week.
+B : Um.
+B : I -
+B : You know, I - I've heard some comments about like this. That m- could  be. I mean the - Um.
+D : And we don't have to do it every week. We could do it every other  week or so. You know, whatev- or whenever we feel like we -
+F : Why don't we alternate this meeting every other week?
+B : U-
+F : Tha- That's  what I mean.
+A : Yeah, so on even weeks have on data.
+D : I - I - Personally  not  meetings.
+D : Um.
+D : Because, uh. You know.
+A : I
+A : Oh sor-
+F : But I do- I don't - I mean a lot of times lately it seems like we don't really have enough for a full meeting on Meeting  Recorder. So if we did that -
+A : Well, except that we keep going for our full time.
+F : Well, cuz we get into these other topics.
+F : So if we could alternate  meeting  -
+B : Why don't we just start  with that. And then if we find, you know we're just not getting enough done, there's all these topics not coming up, then we can expand into another meeting. But I - I think that's a great idea.
+D : ummh.
+D : ummh. O_K.
+B : Let's chat about it with Liz and Jane when we get a chance, see what they think and -
+B : the uh - the front-end meeting as well as the others so you have - you have
+B : probably one of the best - are  doing recognition in both of them. So.
+D : So - so we could talk a little  now  if - if there's some time.
+A : No, no that would be for next
+D : Um I jus- So the latest  result was that um
+D : yot
+D : exactly,  exactly  up to the - you know, the first decimal, same as with the
+D : front-end.
+D : i- overall.
+D : They - They were - The males  females  were slightly worse but nothing really. I mean definitely not significant.
+D : And then the really nice thing was that if - if we combine the two systems we get a one and a half percent improvement.
+D : So.
+D : t- With N_best ROVER, which is like our improved  version of ROVER.
+D : Which u- actually uses the whole N_best list from both systems
+B : cepstral truncation. O_K.
+A : Yeah, it's pretty impressive.
+D : Um, and, you know, why not? Uh. So.
+D : Oh I mean - Yeah. Well Right. So, we cou- Yeah. That's - the - the
+D : the - There's one  front-end  - You know, if you - you know you basically multiply your effort by N_, where N_ is a number of different
+D : I - I think so. Yeah. Maybe a little less because at that point the error rates are lower and so if - You know, maybe it's only one  still  be worthwhile doing.
+D : Um Jus- You know, just wanted to let you know that that's working out very nicely.
+D : And then we had some results on digits, uh,
+D : really   - really sort of just to get Dave going with his um
+D : uh. But as a result,  um, you know, we were sort of wondering why is the
+D : Hub-five system doing so well on the digits.  speech  five  training set. And you c-
+B : Yeah, so I mean that's actually not that different from the amount of training that there was. So.
+D : But it definitely helps to have the other  because we're doing -
+B : Oh yeah w-
+D : You know the error rate is half  TIMIT  digits,  which is only what two hours something?
+D : Uh, more read speech data definitely helps.  conversational  data with no performance penalty. That's e- That was e- Right, right.
+B : Yeah that  apparent  if you put in a bunch more data it would be better, but - but uh.
+F : Well is there even more  read  speech  data around?
+D : Oh, yeah. So we only - for the Hub-five training, we're only using uh a fairly small subset of the Macrophone  database.
+D : Um, so, you could beef that up and probably do even better.
+A : I could also put in uh
+A : It's not exactly read  speech but it's pretty darn close.
+D : Well, I mean that's plenty  speech  uh, take one example.
+B : They - they uh - they experimented for a while with a bunch of different databases with French and Spanish and so forth cuz they're multilingual tests and - and uh,
+B : um, - and actually the best  results they got wa- were uh using TIMIT.
+B : If we knew what the structure  was.  I mean there's still a bunch of messing around with different kinds of uh noise robustness algorithms. So we don't know exactly which combination we're gonna be going with.
+B : Once we know,  trainable  parts of it - it'd be great to run
+D : You wanna - stands  @@
+B : Yeah.
+D : And that - that - that  help,  actually, because
+D : Just - You know we want to try things like deltas  tandem  features. And so you h- have to multiply everything by two or three. And so, you know,
+D : fewer dimensions in the phone set would be actually helpful just from a logistics point of view.
+B : Sure. Although we - I mean, it's not that  many fewer and - and - and we take a K_L_T anyway so we could - Yeah.
+D : Exactly. So - so that was the other  thing. And then we wanted to s- just limit it to maybe
+D : front-end.  So
+D : that would mean just  doing the top I don't know ten or twelve or something of the K_L_T
+B : Yeah yeah.
+D : But then - And then something  have  P  trained up,
+D : you know, the dictionary  five  system.
+B : Yeah.
+D : that would basically give us a, um, more - hopefully  a - a
+D : better system
+D : uh tra- retraining it on Switchboard  or s- uh and -
+D : he probably didn't use all  the training data
+D : as ours  is. So.
+B : That's - That's certainly one  thing, yeah. Uh.
+D : And the dictionary  made a huge difference. Uh. We - we made some
+D : error rate reduction on Switchboard, which -
+B : Well the other  thing is, dipping
+B : deep into history and into uh our resource management days,
+B : when we were collaborating with S_R_I before,  uh
+B : it was - I think,  it is was a really key
+B : uh starting  we  were working together we got our initial alignments from Decipher,
+B : uh time.  Uh.
+B : Later  away  systems  going
+B : then it was - it was typically better to use our own  systems cuz they were self- consistent but - but certainly to start off when we were
+B : trying to recover from our initial hundred and forty percent error uh rate. Uh. start.
+B : quite  that bad with our - our Switchboard systems but it was - they certainly aren't as good as S_R_I's, so -
+F : W- What is  the performance on s- the best Switchboard system that we've done?
+B : Well, the hybrid  system we never got better than about fifty percent
+B : did  really
+D : But that w- Even that  - that number -
+B : Uh, we never did an- never did any adaptation uh, we never did any -
+D : And - And that  Switchboard-one  data, right?
+D : Where the error rate now is in the twenties.
+B : Because our - our Broadcast News system is actually pretty good. He knows .
+D : And the other  P  is trained up. Right?
+D : So it's sort  P  before we go ahead and train up the -
+B : Yeah. It'll still  probably be worse. I mean, it's - it'd be context independent and so on. But.
+F : I mean should - should we even use  that? Or should I just go straight to -
+D : Oh that's  a good question. Yeah, we - we weren't sure whether it's worth to just use the alignments um
+D : from the S_R_ I  recognizer or whether to actually go through one or more iterations of embedded training where you realign.
+B : I mean basically you would then - You proceed  did.
+D : O_K.
+B : uh, alignments that were achieved with an extremely  different system.
+A : I mean we've done it with - When we were combining with the Cambridge recurrent  worse.
+A : Which I've never figured out.
+A : Yeah.
+D : Well, that might probably just - Hmm. That was probably  system  your  system was ba- worse than Cambridge's.
+D : That's  weird.
+D : That's - That's weird.
+A : That's  I  said.
+B : Oh!
+D : No I mean it's weird that it did - I'm sorry. It's w- It's weird that it got worse.
+F : That's  ambiguous.
+D : Oh actually it's not that  weird because we have seen -
+B : But I- But I would - I would suspect  that something that - that had um a very different
+F : What about uh hidden  Oh.
+B : Oh, wait a minute, and the other thing uh, sorry, it was - the other thing is that what was in common
+B : to the Cambridge system and our system is they both  were training posteriors.
+B : So I mean, uh, that's  another pretty big difference and
+A : Ah  yeah. That's another big difference.
+D : Or - ?
+B : likelihood-based  system.
+B : So - so that's another  difference. I mean. You know, there's diffe- different front-end
+B : Uh, I would think  uh
+B : embedded uh
+F : Well, I was gonna start off with the small  train set.
+A : I'm not sure what this'll
+D : I - I think  so. I'll -
+A : Hello?
+A : Excuse me?
+A : Alright.
+A : Wrong number.
+B : Yeah.
+F : I mean, I didn't  too  big, just -
+B : after run-
+B : Right. So At least a couple thousand hidden units.
+D : Mm-hmm.
+B : You definitely  wouldn't want the eight thousand. It's m- It's more than -
+F : And a thousand  small?
+B : I mean it doesn't actually get worse, typically, but it - but - but there is diminishing returns and you're doubling the amount of time.
+D : Remember you'll have a smaller output  layer so there's gonna be fewer parameters there. And then -
+A : But not  lot.
+B : Not  much.  Fifty s- Fifty four to forty eight?
+A : Right, because you used the context  and so the input to hidden is much, much larger.
+D : Oh I  I  see, yeah, of course. Yeah. It's negligible, O_K.
+B : Yeah, so it's - it'd be way, way  less than ten percent of the difference.
+B : How bi- how big
+B : Let's see. What am I trying to think of?
+F : The - The net  did  Eric  trained up.
+D : Was that gender- dependent  or independent?
+F : Gender- dependent.
+B : Oh. So that would be like trained on s- sixty  seventy  hours.
+B : So, uh, yeah definitely  not the one thousand uh -
+B : and the two thousand will be almost - will be faster  and almost as good. So.
+F : Maybe I'll start off with two  thousand just
+B : So that's  probably -
+B : That's  probably fine. I mean a four thousand is well within the range that you could benefit from but the two thousand'd be faster so -
+D : Yeah. I figured.
+B : @@
+B : Since we have nothing to talk about we only talked for an hour. So.
+A : Uh transcript L_ one seven seven
+A : three, zero one five, four seven, five four eight, eight
+A : seven, zero seven zero, uh, eight nine, zero eight seven, seven
+A : two eight six, five four seven, six one eight
+A : two seven nine, four six seven, nine eight four four
+A : two six four nine, two O_ eight nine, two six eight two
+A : one seven, seven seven, three zero, one seven, four four
+A : one eight seven, nine two four, eight nine O_
+A : six five six, nine seven one, three three seven six.
+B : Transcript L_ dash one seven eight
+B : zero four nine, nine six four, three three zero seven
+B : five, two eight one, six seven, eight nine seven, one
+B : zero four, seven nine, seven one, nine five, three one
+B : one zero one, eight eight, three six one three
+B : four seven six, nine nine, four two five nine
+B : three three, zero one, four zero, five seven, three eight
+B : four nine eight, six seven, zero nine five four
+B : zero zero nine three seven four nine seven.
+C : Transcript L_ one seven nine.
+C : six nine one, two three three, three six seven
+C : two six, one one, zero one, eight nine, zero nine
+C : six O_ six, seven nine, eight three four six
+C : four O_ three, two two six, four six nine
+C : six five two,
+C : two eight two, nine zero four, zero zero two five
+C : five eight O_ five, five three seven two, five three O_ two
+C : six seven one two, four, two four five.
+E : Transcript L_ ninety eight.
+E : nine zero, six zero, five four, four six, one eight
+E : four eight two nine, four three two four, three five seven eight
+E : seven nine six, four four four, three zero two five
+E : six one five two, three, four three four
+E : one six, three three, nine three, five four, zero seven
+E : seven one one, zero eight four, nine zero one one
+E : four seven four, nine eight, nine six zero eight
+E : one two five, three six eight, six six one one.
+F : L_ dash one three nine.
+F : zero nine five, three four five, five nine seven one
+F : nine, seven nine five, one two, four nine three, eight
+F : five four, two eight, seven four, six one, five three
+F : one three six eight, nine, nine eight eight
+F : eight five nine nine, one, one eight seven
+F : six two five one, six zero six five, zero eight six one
+F : six eight zero, two one nine, seven zero nine
+F : nine eight two, nine four nine, four seven seven.
+B : de-ba-de. de-ba-de  @@
+B : That's all folks!

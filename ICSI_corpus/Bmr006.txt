@@ -1,0 +1,869 @@
+F : That's  strange.
+B : I don't know what  it is.
+B : am up here after  a meeting,
+B : And if I'm up here and I start it and we're all sitting here waiting to have a meeting,  it
+B : gives me that error  message and I have not yet sat down with -
+B : been able to get that error  code.
+B : Yep, we will.
+D : Yeah.
+B : No.
+D : we do the digit recordings at the end.
+D : @@
+F : Uh, well, O_K, I'll back up. this  meeting
+F : I was griping
+F : um, since we'll have a new - this new student di- does wanna work with us, th- the guy that was at the last meeting.
+F : And he's already funded part-time, so we'll only be paying him for sort of for half  of the normal part-time,
+F : higher  level things, like language, and
+F : maybe prosody, so he's just getting his feet wet in that.
+F : that we'd have, you know, enough data to work with.
+F : types that we know about, and hear , then sort of a
+B : One offs?
+F : Then I was um, talking to Morgan about some new proposed work in this area,
+F : sort of a separate  issue from what the student would be working on
+F : utterances and  in the
+F : utterance patterns, like in
+F : for someone who didn't attend to listen  to.
+F : And in that
+F : You know, I would feel very strange being part  of a meeting that you were then analyzing later for things like summarization.
+F : Um, and then there are some others that menti- that Morgan mentioned, like the front-end meeting
+B : Yeah, we're - we're hoping  that they'll let us start recording regularly. So.
+F : a summarization of some kind of meeting - meaning  out of the meeting, um,
+B : Yeah.
+F : different meetings by the same group but hopefully that have different summaries.
+F : And then we need a couple that - of - one  group because that might be specific to that particular group, but
+F : @@
+B : morning  meeting.
+F : See, I've never listened to the data for the front-end meeting.
+B : Yeah, we - we've only had three.  So.
+F : constant or fairly similar, like a meeting about
+D : Uh, for other  kinds of research,
+D : particularly the acoustic  oriented research,
+D : I think I would also  really  random scattered meetings, of somebody coming down from campus, and -
+D : get more  two  from each group,
+D : that still  acoustically  just because we'd have
+E : I've been - I've I - I've gathered data from undergrads at - on campus and if you just post randomly to undergrads I think you'd get such  a mixed bag that it would be hard to know how much conversation you'd have at all.
+E : And - and the English you'd have - The language models would be really hard to build because it would not really be - it would be an interlanguage  than a -
+F : a pre-existing meeting, like a meeting that would otherwise happen anyway. That's I think what we - and I agree with.
+B : @@
+E : Oh, oh. I'm not saying accents.
+E : No, it's more a matter of uh, proficiency,
+E : e- e- just simply fluency.
+E : undergraduates um in computer  science
+D : Oh! You're not talking about foreign language at all.  You're just talking about -
+D : Yeah, then we're completely  gone. It's -
+B : Well, I think that, um -
+B : if it's a pre-existing meeting and it's held in English,
+B : uh, g- particularly  good English skills.
+E : Um, i- so I know
+E : pr- more proficient in -
+E : close to being academic English, then it would seem to me to be a good  thing.
+E : uh, they can't speak in their native  languages and -
+C : Yeah. Yeah.
+E : worst  case scenario.
+D : Well, that's pretty much what you're going to have in the networking  group.
+D : because - because they - most - the network group is almost entirely Germans and Spaniards.
+E : But the thing is, I think that these people are of high enough level in their - in their language proficiency that - accents.  I - I'm - I'm just thinking that we have to think at a - at a higher level view, could we have a language model, a - a grammar -
+E : a grammar,  basically,
+E : a - a possibility.  So y- so if you wanted to bring in a model like Dan Jurafsky's model, an-
+E : things that people generally use  corpora for and which are, you know, used in computational linguistics.
+E : Age-ist.
+B : Well, age-ist. eighteen " is because of the consent form.
+B : We'd hafta get - find their parent to sign for them.
+F : I have a - uh, um, question. Well, Morgan, you were mentioning that Mari may not
+F : there's a -
+F : um, you know, one of us  could you know, go up there and record the meeting or something rather than bring all of them down here. So it's just a
+D : Yeah, I mean the other thing that I was hoping  first  place was to turn it into some kind of portable thing so you could wheel it around. Uh.
+F : But you may not need a separate  meeting  room
+B : type  of meeting.
+C : But I - I - I think you need, uh, another portable thing
+C : a- another portable equipment to - to do, eh, more e- easier the recording process, eh, out  from ICSI.
+C : Eh and  probably.  I don't know. Eh, if you - you want to - to record, eh, a seminar or a class, eh, in the university, you - you need -
+C : It- it would be eh eh very difficult to - to put,
+B : Right? That's very  easy, but that's not the corpus that we're collecting.
+D : But on the other hand, it's not necessarily true that we need all  all  of it.
+D : So, a- a- as per the example that we wanna have a fair amount that's done with a small n- recorded with a small, uh, typ- number of types of meetings
+D : I mean, we really wanna have a substantial amount recorded this way, that's why we did  it.
+D : But what about -
+D : For th- for these issues of summarization, a lot of these higher level things you  really  need  the distant microphone.
+D : You actually  don't.
+B : And you don't really need the close  microphone, you mean.
+F : Yea- yeah yeah, you actually don't really even need any  You can use found data.
+D : You don't ne- it doesn't - you just need some  somewhere.
+D : Yeah.
+D : some
+F : @@  can.  You can use -
+F : but I think that any to collect,
+F : there is enough data for some kinds of projects and not enough for others.
+B : Not enough for others, right.
+F : And so glad  to
+F : walk over and record people and so forth if it's -
+F : or at least discuss it so that we can find some optimal -
+D : But I think that - I'm raising that cuz I think it's relevant exactly  don't.
+D : Maybe if - if - If really all you want is to have a - a - a recording that's good enough to get a -
+F : Well, I agree with Jane, though, on the other hand that -
+F : "Oh yeah, you just do that from transcripts of a radio show." I mean, you don't even need the speech signal. But
+F : be able to determine  this. There's lots of cues you're not gonna have.
+F : I do  think that long term you should always try to
+B : Special?
+D : the uh i-
+D : shouldn't  really u- underestimate the difficulty of getting a setup like this up.
+D : And so, - uh it took quite a while to get that together and to say, "Oh, we'll just do  it up there," -
+D : If you're talking about something simple,  where you throw away a lot of these dimensions, then you can do that right away.
+D : it won't  happen quickly, it won't be easy, and there's all sorts of issues about th- you know
+F : then maybe we should
+F : try to bring people here.
+D : I think the first  to get - try to get people to come here.
+B : Here.
+F : I mean, that's that's -
+F : O_K, so that's
+E : I thought the free lunch idea was a great  idea.
+F : your time and the overhead in bringing people down.
+A : No crunchy  food.
+F : So -
+E : Yeah.
+F : Well, it would be lunch afterwards. Right.
+D : Yeah, they have to do their digits or they don't get their food.
+D : Yeah
+B : So I'm not sure whether they'll still be so willing to volunteer, but I'll send an email and ask. I'll tell them about the free lunch. And they'll say there's no such thing.
+B : So.
+F : I'd love  to get people that are not linguists or engineers,
+F : well, I know, I shouldn't say
+D : The oth- the other h-
+B : That's alright. No, the- they - they're very  weird.
+F : We need a wider sampling.
+A : "Beep."
+D : Uh,
+C : Yeah.
+B : The problem with engineers is "beep."
+D : They make funny sounds.
+D : and give them - So if they want a - basically and audio record of their -
+F : Well, I  thought that was -
+D : Oh.
+F : You know, I personally of my meeting, but
+F : maybe - yeah,
+D : It - it - it also I think builds up towards the goal.  We're saying, "Look, you know, you're gonna get this. Is- is- isn't that neat. Then you're gonna go home with it. It's actually p-
+D : It's probably gonna be pretty useless to you,
+D : and then, we're gonna move this technology, so it'll become useful. "
+F : No, I think that's a great idea, actually. But we might need a little more to incentivize them, that's all.
+E : Alth-
+B : I mean, anyone  transcripts.  So.
+F : Well, that's  interesting.
+E : because of these issues of, you know, this
+F : Otherwise they're not allowed  to
+E : There  like  that.
+F : play  it for anyone.
+F : Otherwise we'd need two  lawyer stages.
+E : Yeah, that's right, say
+F : Sorry to have to -
+F : Sorry I have to leave.
+B : Bye.
+D : where are we in the whole disk resources question for -
+B : Broadcast News.
+B : and it took eleven hours
+B : to do - to uh copy it.
+B : And it'll take another  eleven to do the clone.
+B : Well, it's Abbott.
+B : But it's - it's a lot of data.
+B : ten gigabytes of free space.
+E : Yeah, the archiving m- program does take a long time.
+B : at that point we'll be able to record five more meetings. So.
+E : One thing - The good  news about that - that is that once - once it's archived, it's pretty quick to get back. I mean, it - it - it - The other direction is fast,
+E : Now, what will uh - Is the plan to g- to -
+D : S-
+E : So
+E : stuff will be saved,  it's just that you're relocating it?
+B : No, the - the - these are the P_files from Broadcast News, which are regeneratable   regeneratable
+B : um, if we really need to, but we had a lot  of them.
+B : six
+D : W- w- we are  are  getting, uh, another disk rack and - and four thirty-six gigabyte disks.
+D : Uh but
+E : Wonderful.
+B : The SUN rack
+B : One took four and one took six, or maybe it was eight and twelve. Whatever it was, it was, you know, fifty percent more.
+A : Oh!
+B : By " we  Dave.
+A : directories on there that could be moved.
+B : SPINE.
+A : well, probably not all of that should be moved, just
+A : the
+A : C_D-ROM type data, the -
+A : I asked him to check out and see if it was O_K.
+A : um, but I haven't heard back yet .
+A : I told him he could delete it if he wanted to, I haven't checked
+D : other  disks, some of which you're using for Aurora, but
+B : No, no, well, it's wherever the Meeting Recorder currently is. I think it's D_I.
+B : that has enough for about four more   meetings right now.
+C : O_K
+A : we need -
+A : Is there another backed-up disk that you know of that would - ?
+B : That's probably the best thing to do. And that way we consolidate Meeting Recorder onto one disk rather than spreading them out.
+D : @@  So, uh,
+D : my  agenda was just to hear - hear an update on
+D : what - what Jose has been doing, so that's  -
+C : I have, eh,
+B : Yeah.
+C : Eh, this information is very - very useful.
+C : Because you have the - the - the distribution, now. But
+C : here's i- is the demonstration of the overlap, eh,
+C : a frequently
+C : uh, because you have overlapping zones eh, eh, eh, all the time.
+C : Eh, by a moment I have, eh, nnn, the, eh, did a mark of  all the overlapped zones in the meeting recording,
+C : with eh, a exact  mark.
+C : yet
+B : Can I get a copy?
+C : eh, eh -
+C : "Why."
+C : I - I - I do- I don- I don't @@  -
+A : Wow!
+C : is very interesting to - to work in - in the line of, eh, automatic segmenter.
+C : in my opinion, eh session
+C : No, no, with i- Sorry? With - ?
+B : O_K. Darn!
+C : I plan - I plan, but eh,
+C : eh, the idea is the - is the following.
+C : Now, eh,
+C : I - I will - I will eh, talk about eh, blackboard
+E : Duration.
+C : without any - any eh, noise eh, any - any acoustic event eh that eh, eh, w- eh, is not eh, speech, real  speech.
+C : And, I need t- true  eh, silence
+C : the set of parameters
+C : the overlapping zones in cooperation with the speech eh zones.
+C : to eh - to use -
+C : to use a - a cluster eh algorithm or, nnn,
+C : a person strong  in neural net algorithm
+C : what is the, eh, the property  of the different feat- eh feature, eh, to classify
+C : eh, a control set.
+E : Which means that we'd still - You'd hear the - Yeah. That's interesting. This is like a ground level, with - It's not- it's not total silence.
+C : eh claps eh, tape  clips, eh, the difference eh,
+C : eh, eh, event eh, which, eh, eh, has, eh eh, a hard effect  speech.
+C : only eh, eh, nnn, mmm,
+C : ehm
+C : I don't remind what is the - the - the - the quantity, but eh,
+C : I - I have marked   enough speech on over- and all the overlapping zones.
+C : I have, eh, two hundred and thirty,
+B : Whew!
+C : is similar to - to this information,
+C : the information of uh, of Jane
+C : And is eh, mor- more similar.
+C : @@
+D : @@
+C : Sorry, sorry.
+C : I want -
+B : I should've got the digital camera. Oh well.
+C : eh, zones because I - I want to put, eh, for eh, each frame a label indicating.
+C : It's a sup- supervised  and, eh, hierarchical clustering process.
+B : Nonspeech.
+C : @@
+C : the class
+A : Based on the -
+C : I need, eh, sure
+C : eh, if not,  eh, I will - I will, eh, return to the speech file to analyze eh, what is the problems, eh.
+C : And I - I'd prefer - I would prefer, the- to - to have, eh, this labeled automatically, but, eh,
+A : You need truth.
+C : I need truth .
+B : Yeah, but this  starting  with.
+E : uh, the difference between the top  two,
+E : So this is un-
+E : O_K , and then and then the top includes
+C : One, two, three.
+E : that - that's all those possibilities in the top one. O_K.
+C : eh, information about if the, eh, overlapping zone is, eh, from a speech, clear  speech, from a one to a two eh speaker,
+C : or three speaker, or is - is the zone where the breath of a speaker eh, overlaps eh, onto eh, a speech, another,
+C : No, no, es- especially eh, overlapping speech
+C : from, eh, different eh, eh, speaker.
+D : Which category do you put that  in?
+C : without, eh,
+D : that does  have a nonspeech event at the same time?
+D : Which catege-   which category?
+C : For - for the - by the @@
+D : not - not  marked.
+C : no, @@  limit
+C : the - the - nnn, the - the study.
+B : Yeah, so that's what he was saying before, is that he excluded  those.
+A : So you're not using all  of the data.
+C : "Why? Why? What's the reason?" because
+D : @@
+C : i- it's the first study.
+C : the first
+E : Yeah cuz you've talked about other overlapping events in the past.  So,
+E : this is - this is - a subset.
+C : In the - in the future, the - the idea is to - to extend the class,
+E : Yeah, we just wanted to know what the category was here.
+C : with the study. Yeah.
+C : O_K?
+C : It's pure si- pure silence
+D : I think what you mean is that it's nonspeech segments that don't have impulsive noises.
+D : or clicking, or rustling paper, or hitting something, which are impulsive noises.
+D : Which, are being , included in that. Right?
+C : @@  h- here yet,
+C : don't - don't wanted  to - to be in that, eh,
+D : Yeah.
+D : Right, it's - I mean, it's - "Background" might be - might be a better word than "silence". It's just sort of that - the - the background acoustic -
+B : Fine. Go on.
+C : O_K.
+E : Well, we needed to get the categories, yeah.
+C : And, um, with  this information
+C : a label for - for each, eh, frame  and, eh with a cluster
+C : I am going to prepare
+C : a - a set of feature structure eh, eh, models.
+C : And
+C : @@
+C : so - so - on -
+C : because I have a pitch extractor yet.
+C : I -
+C : I ha- I have prepare .
+C : eh, from, eh, Standar- eh Stanford University - in Stanford?  No.
+C : From, eh, em,
+C : Cambridge  University.
+C : and - of - from Edinburgh
+C : I have to - because,
+B : Bad.
+B : But, you know, as a feature,  O_K .
+C : th- the idea is to - to, eh,
+C : to obtain,   eh,
+C : for example,
+C : diff- eh, eh, different - well, no, a great number of eh F_E_C  for example,
+C : eh, eh, twenty-five, eh, thirty - thirty parameters,
+B : Supervised clustering.
+C : eh to classify
+C : the different, eh, what is the -
+C : to classify eh, the different, eh, frames of each class
+C : data
+C : and the second
+C : is try to - eh, to use
+C : some ideas eh, similar to the linear discriminant analysis.
+C : Eh, similar,  because the- the idea is to - to study
+C : what is the contribution of eh, each parameter
+C : Eh, the - the - the classifier is - nnn by the moment is eh - is eh, similar, nnn, that the classifier used   eh, in
+C : is eh, used to - to eh, some distance to - to put eh, a vector eh, in - in a class different.
+B : @@  Unimodal? So is it just one cluster per -
+C : Is - Yeah?
+C : W- with a model, is - is only to cluster using a eh, @@  or a similarity.
+C : What is my idea? What's the problem  I - I - I - I see in - in - in -
+C : if you - you use the - the neural network? If -
+C : w- when this kind of eh, mmm, cluster, clustering algorithm
+C : eh put up with your hand
+D : Well, actually, you can  do sensitivity analyses
+D : which show you what the importance of the different parce-   pieces of the input are.
+D : It's hard to - w- w- what you - It's hard to tell on a neural net is what's going on internally.
+D : Well, this isn't tru- if - if - if you really  wonder what different if - if -
+B : Decision tree.
+D : Yeah, then a decision tree is really good, but the thing is here he's - he's not - he's not like he has one
+C : I - I - I will include  de-  derivates
+D : Yeah.
+D : See what I'd - I'd - Let me tell you what I
+D : just a few  features. Instead of taking all the M_F_C_C's, or all the P_L_P's or whatever,
+D : I would just take a couple.
+D : O_K? Like - like C_one, C_two, something like that, so that you can visualize  it.
+C : Yeah.
+D : and look at these different examples and look at scatter  plots.
+D : That I think will give you a lot of insight of what is likely  to be a useful feature when you put it into a more complicated classifier.
+D : And the second thing is, once you actually get
+D : @@
+D : what this  temporal
+D : So if you're just looking at a frame and a time, you don't know anything about, you know, the structure of it over time,  and so
+D : you may wanna build @@  - build a Markov model of some sort
+B : Context window
+D : on - on some bigger chunk of time.
+D : But I think this is a good place to start.
+D : even  still  won't know what it's doing, even - You know it's not a neural net.
+D : Uh, I think to know what it's - to have a better feeling for what it's doing, you wanna look  at it.
+D : So you wanna look at - at som- some picture that shows you, "Here's - These things uh, uh are - offer some separation."
+B : Yep.
+D : And, uh, in L_P_C, uh, the thing to particularly look at is, I think - is something
+E : Can I ask? It strikes  another  piece of information
+E : might be useful and that's simply the transition.
+E : So, w- if you go from a transition of silence  overlap  silence  speech,
+E : there's gonna be a b- a big  informative area there, it seems to me.
+C : I - Yeah. But eh I - I - Is my- my - my own vision, of the - of the project.
+B : So, some sort of -
+C : eh, w- has eh several parts, several p- objective eh, because it's a -
+C : a great  project. But eh, at the first, in the acoustic, eh, eh, parts of the project,
+C : eh I think
+C : And for that, if you don't use, eh,
+C : eh, a speech recognizer,
+C : to - to try to - to
+C : I think the Ike criterion
+C : or BIC criterion
+E : O_K.
+C : And - Probably.
+C : Uh, probably.
+C : probably with, eh, this kind of, eh,
+C : eh the - the - the more eh use eh - use eh - used   eh
+C : em regular  M_F_C_C.
+C : I - I understand that you - your objective is classify,
+C : only  a new zone in the - in the file,
+C : that eh you have eh, but you have to - to - to know that this is overlap  zone.
+C : with a non- regular
+C : you - you will pretend
+C : to - to - to process  the overlapping z- eh zone
+C : to - to obtain the transcription
+C : That  I - I - I think is the idea.
+E : Clustering.
+C : eh will have
+C : that is p- uh, will be  possible
+C : the mark, the change
+C : another model will @@
+B : I'm - I'm - I'm sorry, I didn't understand   you - what you said. What - what model?
+E : @@
+E : So p-
+C : with information we obtain from this eh - this eh study
+B : Features. Yeah.
+C : of the parameter with the parameter to try to eh - to put
+C : Eh zone
+C : you - you eh, eh
+C : have obtained
+C : criterion
+C : compare model
+C : You- I don't- u-
+D : O_K, but, I - I think - in any  event we're agreed that the first step is -
+B : Features?
+D : O_K? If you're talking about, say, twelfth - twelfth-order uh M_F_C_C's or something like that it's just way too much. You won't be able to look  at it.
+C : It will be enough.
+D : Well, you'll - you'll get a feeling  for what's happening, you know, so if you look at -
+D : Suppose you look at first- and second-order cepstral coefficients for some one of these kinds of things
+D : and then you look at the third and there's not - and not too much there,
+D : you may just take
+D : Uh, and uh on the other hand, the L_P_C residual, the energy in the L_P_C residual,
+D : the low-order L_P_C
+D : model's fitting it, which should be
+D : pretty poorly for two- two or more
+D : And so
+D : prob- um promising
+C : Yeah. This-
+E : Interesting.
+E : Hmm.
+C : Sorry.
+C : eh eh eh I don't know it
+C : I - I w- I - I will pretend to do with eh eh
+C : The - the equalizes speech, the speech eh, the mixes  of speech.
+C : mixed  speech.
+C : Eh, why? Because eh the spectral distortion is -
+C : Yeah, fff!
+C : And  I don't know -
+C : the result of the - of the study eh with eh - with eh this eh - this speech, the mix speech
+C : eh exactly  eh P_D_A files.
+B : It would be interesting in itself  to see.
+B : Well, I think that would be an interesting result.
+D : in the high  low  think,
+D : @@
+D : look  at them,
+D : look at how these different classes that you've marked, separate themselves,
+D : and then collect ten of them or something, and then proceed
+D : how m- you know, how much -
+B : Yeah. But it- I think it would be interesting to try a couple  both.
+B : Because it - I think it would be interesting  mixed,  and -
+C : Ah, yeah, yeah yeah yeah. @@
+D : It - it's - it's true that it also, it could be useful to do this exploratory analysis where you're looking at scatter plots and so on in both cases. Sure.
+E : That's good.
+C : eh
+C : eh to - to solve, because if you -
+C : some parts is Is  very difficult to apply
+D : things like harmonicity, and residual energy are
+B : Are probably better, yep.
+D : uh, yeah are - are better to use than very complex ones because they'll be more reliable.
+D : Ch- Chuck was gonna ask something I guess .
+C : Yeah. You have a question  Yeah.
+A : Yeah, I maybe this is a dumb question, but
+A : w- I thought it would be - I thought it would be easier if you used a P_D_A because can't you, couldn't you like use
+B : Well, if you used the array,  one.
+D : In fact, if we made use of the fact that there are two microphones, you do  have some location information.
+D : Uh, well, no, I mean, we- we don't have any rules,  r- really. I think -
+A : But I didn't mean - I w- Given - given the goal.
+A : I mean, is - is that violation of the -
+D : I - I think - I think it's - it's - it's a - it's an additional  interesting question.
+D : I mean, I think you wanna know  whether you can do it with one, because
+D : you know  two.
+D : Uh, if, on the other hand, we show that there's a huge  point.
+D : But, we don't n- even know yet what the effect of detecting - having the ability to detect overlaps  matter  too much.
+D : So, this is all pretty early stages. But no, you're absolutely right. That's a good thing to consider.
+A : I  see.
+E : There - there is  a complication though, and that is if a person turns their back to the - to the P_D_A, then some of the positional information goes away?
+D : Well, it - it - it does,  does,  but the -
+E : And then,
+A : No, it's not - it's not that  so much as -
+E : And if they're on the access - axis  of it, that was the other thing I was thinking.
+E : He - You  mentioned this last time, that - that if - if you're straight down the midline,
+C : I - I - I -
+E : then - then - the r- the left-right's gonna be different, and - and - and in his  case,
+C : I - I th-
+C : to - to try to study the binaural
+D : Yeah, it's timing  difference. It- it's not amplitude, right?
+E : Oh yeah! Oh I agree! And we use it ourselves.
+E : I mean, I know - I n- I know that's a very important cue.
+C : No. No.
+A : But th- I don't think that matters,  though.
+D : That's - So - so i- @@
+D : If it's not coming from just one direction, if it - if th- if there's a broader pattern, it means that it's more likely there's multiple   people speaking,
+D : wherever  are.
+A : So it's sort of like how - how confused  is it
+D : Is there a narrow  distributed  beam pattern?
+D : So if there's a distributed
+E : Yeah .
+D : Oh, ideal would be to have the wall filled
+E : Yeah, O_K.
+D : it was - When - when there were two people speaking, and it looked really  really different.
+E : Oh yeah yeah. O_K. Yeah.
+A : What  looked different?
+B : Cross-co- cross-correlation.
+D : So cross-correlation is pretty sensitive.
+B : Subtract them.
+D : then there's a pretty big maximum right around that point in the l- in - in the lag.
+B : They get peaks.
+D : So if - at whatever angle you are,
+A : So - so if there's two  -
+D : at some lag corresponding to the time difference between the two there,
+B : And if there are multiple people talking,  you'll see two peaks.
+E : it would be less effective than if one was there and one was across, catty-corner? No?
+A : If I was - if I was here  there  and we were both talking,
+E : Next - next one over n- over on this side of the P_ - P_D_A.
+E : Versus you - versus - you know, and we're catty-corner across the table, and I'm farther away from this one and you're farther away from that  one.
+D : Yeah. Oh, yeah.
+B : if people were sitting right across  either.
+E : I mean, it's not to say - I mean, I certainly  extremely  depend  you know, these - these binaural cues. But.
+D : I think what you're talking about i- there's two  things. There's a sensitivity issue, and then there's a pathological error uh issue.
+B : Must do.
+D : So th- the one where someone is just right directly in line is sort of a pathological  happens  to be sitting right there then we won't get good information from it.
+D : Uh, if they're - if they're close,  it's just a question of the sensitivity.
+D : I mean, the other thing you can do - uh, if - I mean, i- We're assuming  that it would be a big deal just to get somebody - convince somebody to put two microphones in the P_D_A.
+D : But if you h- put a third
+A : Once you got two
+E : Interesting.
+A : Well what about just doing it from these  mikes?
+D : @@
+D : but - but the thing is, uh, one of the - at least one  of the things I was hoping to get at with this is what
+B : Whatever you're interested in.
+D : can we do with what we think  would be the normal situation if some people get together and one of them has a P_D_A.
+D : instrument  a room,
+D : this is really minor league compared with what some people are doing, right? Some people at - at - uh, yeah, at Brown and - and - and - and - at uh
+B : Big micro @@  arrays.
+A : Didn't they have something at Cape? Uh.
+B : Very  finely.
+D : uh, you know p- tens
+A : Oh! I saw a demo.
+C : Oh, right, oh, yeah.
+A : Yeah.
+B : a hundred  very  -
+C : Very complex, uh -
+A : That  cool.
+D : But,
+D : um, I'm interested in what happens for people, random  people out in some random place where they're p- having an impromptu discussion.
+D : The other  else  P_D_As  communicate  with each other?
+B : But I think  -
+D : And then - You know, they're in random positions, the likelihood that - I mean, basically there wouldn't be any - l- likely to be any  two.
+A : Ooo!
+B : That's on my web pages. Yeah.
+B : All sorts of interesting things you can do  microphone  arrays, but you can do all sorts of um
+D : Yeah.
+B : multi-band
+B : So it's - it would  be neat.
+A : I still like my rug on the wall idea, so if anybody patents that, then -
+E : Well, you could have strips  stick  clothing.
+B : Yeah.
+B : In terms of the research  research,  it's really -
+B : it's whatever  research  wants  do.
+B : So if - if Jose is interested  great.  But if - if
+B : he's not, that's great too.
+D : Yeah.
+D : get to the end of the, uh, birthdays  thing there.
+B : Catch some tea?
+D : So th-
+B : Well, I had a couple things that I did  wanna bring out. One is, do we need to sign new - these again?
+E : Cuz  - it - it's slightly different.
+D : Oh, this morning  sign  signed  have  to.
+B : Yeah, I - I should've checked with Jane first, but the ch- the form  has changed.
+D : Ah-oh.
+E : I had to make one -
+B : Um, I had some things I wanted to talk about with the thresholding  stuff I'm doing.
+B : But, if we're in a hurry,  we can put that off.
+B : and then also anonymity,  anonymize  the data.
+E : is also  something that we might wanna discuss in greater length.
+E : If - if we're about to wind down, I think - what I  would prefer is that we uh, delay the anonymization thing till next week, and I would like to present
+B : No- well, we don't have  to do digits.
+D : why don't we  -
+D : @@
+D : O_K. @@
+D : uh, there were - there were a couple technical things people would like to talk about. Why don't we just take a couple minutes to - to briefly
+E : I'd - Oh, I'd prefer to have more time  for my results. e-
+E : And I think the anonymization, if y- if you want to proceed with that now, I just think that that's - that's a discussion which also
+B : going and dealing with it.
+E : It's just - Yeah. O_K.
+E : transcript,
+E : and whether you're gonna put it in  the text where he says "Hey Roger" or are we gonna put that person's anonymized name in instead?
+B : No, because then   that  mapping,
+B : and you don't wanna  have a mapping.
+B : No.
+B : Because that would give you a mapping  real  tag  we're using,
+E : uh, so in - within the context of an utterance, someone says "So, Roger, what do you  think?"
+B : We don't - we wanna - we ha- we want the transcript to be " Roger ".
+B : Because if we made the - the transcript  tag  that we're using for Roger,
+B : someone who had the transcript  audio  mapping
+B : between the anonymized  real  avoid  that.
+E : there's this issue of if we're gonna use this for a discourse  type of thing,
+E : and, you know, Liz was mentioning stuff in a  addressee  and all,
+E : then to have "Roger" be the thing in the utterance  speaker  was  Frank ",
+E : that's going to be really  confusing  and make it pretty much useless for discourse analysis.
+B : Ugh!   That's a good point.
+E : Now, if you want to, you know, I mean, in some cases, I - I - I know that Susan Ervin-Tripp in some of hers, uh, actually did do uh, um, a filter of the s- signal where the person's name was mentioned, except
+D : Yeah
+E : And - and I - cer- and I - So, I mean, the question then becomes one level back.
+E : Um, how important is  full  name?
+E : and they'll  important  O_K.
+E : However, taking one step further  anyway,  changed  all the names.
+E : So, is it really, um -
+B : Ugh!
+E : which do  name.
+E : Now, there,  the Human Subjects Committee is very precise.
+E : Now, it would be very possible  for me to take those data
+D : Yeah, once you get to the publication you can certainly do that. You can go, you know, uh, "Z_" uh, for instance. Uh.
+E : And someone who looked -
+D : I mean, I'm not knowledgeable about this, but it certainly doesn't bother me  to have someone's first name in - in the - in the transcript.
+B : O_K. @@
+D : Uh, I think - you don't wanna have their full  name to be uh,
+B : Yeah, shoot!
+E : Well, it just seems like to track   - track from one utterance to the next utterance who's speaking and who's speaking
+B : Shoot!
+E : be able to know who " you
+E : and actually you remember - furthermore,  you remember last time we had this discussion of how
+E : transcript,  worse.
+D : Yeah, I was too.  Yeah.
+B : Well, I would sug- I - I - don't  acoustics  discourse,  really  point.
+B : You're right,  thought.
+D : Uh, and so, uh -
+D : but I'd be very
+D : completely make up the agenda. I've no desire to - to make it up, but
+D : I mean, I'm just always asking Jose what he's doing, you know, and - There's uh, there's obviously other things going on.
+E : I just - I just couldn't do it in two minutes.
+B : How will we - how would the person who's doing the transcript
+B : even know  talking  about?
+A : "The person who's doing the transcript -" I_B_M  people?
+B : I mean, so- so - how is that information gonna get labeled anyway?
+B : I mean, so if I'm saying in a meeting, "oh and Bob,  so-and-so ",
+A : They're just gonna write " Bob  @@  -
+B : Yeah, @@  they're just gonna write "Bob".
+E : They won't be able to change it themselves.
+B : If you're - if you're doing discourse  a-
+D : What ar- how are they gonna do any  of this?
+B : Yeah, really.
+E : untranscribable by them.
+B : Well, the current  speaker  identity.
+C : Yeah, I think -
+B : because in NaturallySpeaking, or, excuse  ViaVoice,  person.
+B : and so in their current  are  conventions.
+E : Oh. I think that - My understanding from Yen-
+E : Is it Yen-Ching? Is that how you pronounce her name? Oh, uh Yu-Ching?
+D : Uh Yu-Ching, Yu-Ching. Yeah.
+E : like speaker-one, speaker-two, is what I  bet, but I'm betting there'll be huge variations in the accuracy of - of their labeling the speakers. We'll have to review the transcripts in any case.
+D : And it - and it may very well  be - I mean, since
+D : they may very well  two.  three  one.
+E : You know - Uh-huh.
+C : Yeah. Yeah, I think -
+B : This doesn't answer the - the question.
+B : For - for acoustics  discourse  you do.
+D : Well, you do.
+D : Yeah. If - if - if - if someone says, uh, "what - what is Jose doing?  says  responding.
+C : Yeah.
+C : Yeah.
+D : Uh, so.
+C : @@  Yeah.
+B : Ugh,   that's a problem.
+E : Unless we adopt a different set of norms which is to not id- to make a point of not  identifying people by name, which then leads you to be more contextually ex- explicit.
+A : That  would be hard.
+E : @@
+E : i- sometimes people think of something else at the same time and they miss  a sentence or something, and -
+E : and because he missed  talking  tracking.  most  name.  So, people are really flexible.
+A : But, you know, like, at the beginning of this  meeting -
+A : Or, you  Liz,  Mari  equipment? "
+A : I mean, how  say  that?
+A : I mean, you have  think,
+B : if you wanted to anonymize.
+A : you know, about what you're saying  bef-
+D : "Is you know who up in you know where?" Right? Use the -
+A : I think it would be really hard  names,
+B : Yeah, darn!  say  option  out  names.
+A : plus we'd have to tell  else.
+B : but then, again that kills your discourse  Ugh!
+A : Yeah.
+E : That's - that's  the issue.
+A : to the extent you can,
+B : Well, but that- but that - as I said, that - that - that works great for the acoustics,  discourse.
+E : Mm-hmm.
+B : Because you don't have a map of who's talking  referred  to.
+B : Sure but, h- then you have to know  that Jose is speaker-one and -
+D : And then,  Jose responds.
+D : And part of your learning about the dialogue  responding  to it.
+D : But it doesn't say  five ".
+C : Yeah.
+D : So u-
+B : Someone who's doing discourse  do  that.
+D : and it says "speaker- five  also  guide  Jose,
+D : and if were gonna do that we might as well
+B : And that violates  privacy.
+B : And that violates our privacy  issue.
+E : And within that,
+E : it may  be that it's sufficient to not uh change the - to not incorporate anonymization yet,
+E : but always,  always in the publications we have to.
+E : And I think also, when we take it that next step and distribute it to the world, we have  to.
+E : between now and then of d- of deciding
+B : Making some decisions?
+B : For the public  one.
+C : the ??
+B : You know, what we could do  release.  public
+B : And so the licensed  sticky  limitation.
+E : I think that's risky. I think that the public should be the same.
+E : But I also think a consistent   licensing   policy is important.
+A : they want this work to get out and be useful for discourse.  do  public  discourse,
+B : Well, depending on how much editing  might  useful.
+A : you know -
+B : because for discourse  audio.
+B : Right? So you could bleep  out  audio.
+B : and use the anonymized one through the transcript.
+E : Excuse  do
+A : But if you release both  -
+D : No, but she's saying, from the argument before,  say  need  it.
+B : Right. But in the transcript,  Jose "
+B : replace it with "speaker- seven ".
+E : Yeah. But I - also  wanna say that people -
+D : I  see.
+B : And then it wouldn't meet - match the audio  But it would be still useful for the -
+A : But if both of those are publically available -
+D : And th- and the other  yeah.
+E : @@
+D : O_K.
+B : I didn't think - when I wrote you that email  worms,  is.
+E : do it next time.
+E : Also  transcript.  It's gonna be looking at a t-
+B : Discourse.
+A : Maybe we should just not allow anybody to do research  on discourse,
+A : and then, we wouldn't have to worry about it.
+E : Yeah, we should just market it to non-English speaking countries.
+D : Uh, maybe we should only have meetings between people who don't know one another and who are also amnesiacs who don't know their own name.
+E : We could have little labels. I - I - I wanna introduce my Reservoir Dogs solution again, which is everyone has like "Mister White", "Mister Pink", "Mister Blue".
+A : Mister White.
+B : Did you read the paper a few years ago where they were reversing  syllables?
+B : They were di- they- they had  utterances.  extract  syllables  play  backwards.
+B : Everything was in the same   syllables were played backwards.
+B : And you could listen  same.
+A : What did it sound  like?
+B : People had no  difficulty in- interpreting it.
+B : So what we need  reverse,  understand  it.
+A : What?
+D : Oh, well that's - there's an easy  that.
+D : Jus- jus- just play  backwards.
+D : What, what does the speech
+E : Oh, do we do digits? Or - ? What do we do?
+B : Uh, reading one four seven one one four nine zero
+B : nine
+B : zero one
+B : one five
+B : two four three O_
+B : three nine four two five
+B : four
+B : five
+B : six O_ O_
+B : eight four eight three three
+B : nine three six
+B : O_ three seven O_ two
+B : zero eight three
+B : zero eight six
+B : one eight
+B : two
+B : three zero
+B : five three nine O_ O_
+B : six two eight three
+B : seven five one six
+B : eight seven two nine zero zero three
+B : nine nine eight nine two seven six
+D : Transcript one five three one dash one five five zero
+D : one
+D : two zero five zero eight
+D : three zero
+D : five three six
+D : six seven
+D : seven five
+D : eight
+D : nine eight nine six
+D : O_
+D : zero zero one three one
+D : two one O_
+D : three five
+D : four two nine one four
+D : five seven O_ two
+D : six
+D : seven
+D : eight
+D : O_ three O_ eight O_ O_ one
+D : zero one
+D : one four nine one zero zero three
+A : Transcript one six three one dash one six five zero.
+A : five O_
+A : seven two
+A : eight five
+A : nine eight six eight seven
+A : O_ eight three O_ nine one one
+A : zero eight four
+A : one
+A : two O_
+A : four three
+A : five two
+A : six five eight
+A : seven seven two seven
+A : eight
+A : nine
+A : O_ O_ eight O_ three
+A : one three one
+A : two six
+A : three three
+A : four seven one
+A : five
+E : Transcript one three three one dash one three five O_
+E : three zero
+E : five three nine six eight zero four
+E : six two
+E : seven six
+E : eight eight nine O_ nine seven six
+E : nine nine four six
+E : O_
+E : zero zero three
+E : two one O_ O_ five
+E : three four four two seven five zero
+E : four six seven three five eight nine
+E : five seven two nine eight two three
+E : six
+E : seven
+E : eight zero eight eight
+E : O_ two nine
+E : zero four seven
+E : one eight O_ nine
+E : two six five
+E : three nine O_ three
+C : Transcript one six seven one dash one six nine O_
+C : seven
+C : eight
+C : nine
+C : zero one two
+C : two
+C : one two six one
+C : two three
+C : three seven eight
+C : four
+C : five
+C : six O_
+C : eight one seven
+C : nine seven six three zero
+C : O_ seven O_ O_ four
+C : zero eight six eight seven one three
+C : one
+C : two
+C : three O_ three O_
+C : five three three zero
+C : six six five eight
+C : seven eight two O_ seven O_ O_
+E : Well, you know, in the - in the one I transcribed, I did find a couple instances - I found one instance of contrastive stress, where it was like the string had a -
+E : li- So it was like "nine eight two four, nine nine  two four".
+E : Well, they differed.  that  sentences.
+E : But, um, sometimes people do it as phone numbers.
+E : And I - I  I  do it, I -
+E : I ask myself what I'm doing  and I -
+B : Well, except, yeah. We have the transcript. We have the actual numbers they're reading, so we're not necessarily depending on that. O_K, I'm gonna go off.
+E : I like  question  very  that  one.

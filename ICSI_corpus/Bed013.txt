@@ -1,0 +1,500 @@
+B : Whew!
+E : Oy.
+D : It's great how the br- brain  does  that.
+D : forthcoming travel plans
+D : and, represent I_C_I
+D : for a day, and then I'm going to
+D : meet the very  big boss, Wolfgang Walster,
+D : in Saarbruecken and the  System   system integration people in Kaiserslautern
+D : pick up my son
+D : And I'm sure all the - the people at the airport will be happy  to work on that day.
+E : Yeah.
+B : Oh. Well then the - you know, it's not a big deal.
+B : Once you get  to the United States it'll be a problem, but
+D : that's that  other  bit of news is we had - you know, uh, I was visited by my
+D : German project manager
+D : is planning to come here either three weeks in July or three weeks in August,
+D : to actually work.
+B : On - ? Oh.
+D : And um, maybe it might be ultimately the most interesting thing for Eva
+C : Uh.
+D : make you  happy.
+E : Oh great.
+D : if you will,
+D : to make that system produce
+D : questions.
+E : Mm-hmm.
+D : conditions,
+D : you should also be able to make that same system ask
+D : based  on
+E : Hmm.
+D : observe  phenomenon,
+D : might  be able just to
+B : take in, and then they also do the generation phase, like Nancy's  thing.
+B : you remember , in the - the hand
+B : thing in one-eighty-two, like not only was it able to recognize but it was also to generate based upon situations. You mean that  sort of thing?
+D : And once you've done  that
+D : itself.
+D : Yeah you c- if you want, you can have two parallel machines
+D : um, asking each other.
+D : What  give  A_  be something completely weird and strange,
+D : and B_ , i-
+D : when they say "X_", and there is  good,
+D : we can never  collect enough data.
+D : no end  potential  out  of it,
+D : And he would like to actually work  on that
+B : Well then, he probably  year  from now.
+D : See the - the generation  generate
+D : is - shouldn't be too  hard.
+B : Well, once the system understands
+E : Yeah. No problem.
+B : I think we're probably a year away from getting the system to understand  things.
+D : Well, if we can get it to understand one  thing, like our "where is"
+D : we can also, maybe, e- make it say,  ask
+D : Or not.  @@
+E : learning to understand  it. Right? I mean
+D : @@
+E : just the fact that we'll get - The point is that getting it to understand  use  Right?
+D : Well, I've - I've done generation and language production research for fo- four - four and a half years. And so it's - it's - you're right, it's not the same  as the understanding.
+D : It's in some ways easier and some ways harder. nuh?  But, um,
+D : fun to look at  into  that question.
+D : It's a pretty  strange idea. And so that's - that's - But -
+B : Cuz that's basically what needs to be added to the system  for it.
+B : Well we'd have to seed  that,  I mean.
+D : No. Let's - we have to - we have some - some top-down   processing, given certain setting.
+D : O_K, now we change nothing,  ask  something.
+B : @@
+B : It wouldn't know what
+B : Unless it was in a situation.  We'd have to set up a situation where,
+B : it didn't know where something was and it wanted to go  there.
+B : Which means that we'd need to set up an intention  system.
+B : Which is basically, "I don't know where something is and I need to go  there".
+D : Eh, n-
+D : Ooh, do we really  do  that?
+B : Well, no  not.
+D : It's - i- I know  strange,  but
+D : look at our Bayes-net. If we don't  have  -
+D : Let's assume we don't  input
+D : So there's also nothing  we could query the ontology, but we have a certain user setting.
+D : If you just ask, what is the likelihood of that person wanting to enter  give  answer.
+D : Right? That's just how they are.
+B : Sure.
+D : And so, @@  whatever  is,  it's the generic default intention.
+D : That it would find out.  Which is,
+D : I don't know what  something  that
+E : Well you're not gonna - are you gonna get a variety  this  user,
+D : Well you can observe some user and context  stuff and ask, what's the
+D : posterior probabilities of all of our decision  nodes.
+E : O_K.
+D : You could even say, "let's take all  nothing ", and query all the posterior probabilities.
+D : It- it's gonna tell us something.
+B : assign values
+D : posterior probabilities for all the values of the decision
+D : intention  ex nihilo.
+D : And that is exactly what would happen  produce   ex nihilo,   is,  there.
+D : So we wouldn't even have to - t- to kick  giving  it a certain intention or
+D : observing  decision  node.
+D : maybe that would lead to "what is the castle?", or "what is that  whatever".
+B : I guess  afraid  of is if we don't,
+B : you know, set up a
+D : Yeah. So what we actually then need to do  is - is write a little script that changes all the settings, you know,
+B : Well that was - that was absurdly low, in the last meeting, cuz I went and looked at it cuz I was thinking, that could not be right, and it would - it was on the order of
+B : twenty output nodes and something like twenty -
+B : thirty input nodes.
+B : So to test  output  node,
+B : uh, would at least  -
+B : Let's see, so it would be two to the thirty for every output node?
+E : Oh.
+D : that's - that's nothing  neural  guys. I mean, they train for millions and millions of epochs. So.
+B : Well, I'm talking about
+B : Oh, I was gonna take a drink of my water.
+B : I'm talking about billions and billions and billions and
+B : Bhaskara said, we had calculated out and Bhaskara believes that it's larger than the number of particles in the universe.
+E : not.
+E : Th- that's big.
+E : That's just - That's uh - It's a billion,  right?
+E : Argh .
+B : Or not two to th- excuse me, twenty
+B : As far as - That's @@  big.  different  do  that?
+E : I remember there being some other one floating around. But anyway,  uh.
+E : Yeah, it's g- Anyway,  still  impossible  to run through all of the possible
+C : Ooo, it's just big.
+E : situations  closer  at least, right? I mean.
+B : If it takes us a second  one,
+C : Can't .
+C : @@
+B : But we can do randomized  testing.
+E : Tah-dah!
+D : what's
+D : Tsk.
+D : J- J- Jer- Jerj-
+E : Jerry Feldman.
+D : Oh, yeah. That's  the guy. We - we - we - we g-
+B : Wait, who?
+B : Oh!  advisor!
+D : what other news do I  have?
+D : Well we fixed some more things from the SmartKom  system, but that's not really of general interest,
+D : Oh! Questions,  yeah. I'll ask Eva about the E_Bayes and she's working on that.
+D : O_K. No need to do it today or tomorrow  next
+E : I'm not going back.
+B : Yeah.
+B : Either that or I think to myself, I can work at home.  try  to work at home, but I fail miserably.
+B : I almost got into a brawl.
+B : But I've been looking into  it.
+B : I th- @@  It's not like it's a blank slate.
+B : I think - we think we'll see him definitely on Tuesday  Thursday.
+D : Maybe.
+E : Hmm.
+D : Hmm.
+B : I was thinking  about that. I think
+B : I will try to work on the SmartKom stuff
+B : and I'll - if I can finish it today, I'll help you with that tomorrow,
+B : I mean we just  write up until you write it up. So.
+E : Well, um,
+E : I - I didn't really know what to do  with it, like, this is the sort of the basic outline of the system or whatever, or - or
+E : what you have in mind for expanding. Like I'd - I - what I didn't  do is go to the web site of the conference and look at what they're looking for or whatever.
+B : Wait, is this a computer science conference or is it a -
+D : It's both,  right? It's - it's sort of
+D : t- cognitive, neural, psycho, linguistic, but all for the sake of doing computer  science.
+D : So it's sort of cognitive, psycho, neural, plausibly motivated, architectures of natural language  processing.
+B : Well, I really can't keep a straight face doing anything.
+D : My idea   is,
+E : Setting that aside.
+D : well, you can say we have done a little bit and that's that ". Which is not
+D : Might  be more interesting to do something like
+D : let's assume
+E : Mmm.
+A : I'm sorry. I'm sorry. I'm sorry.
+D : It's on, just - just put it on.
+A : O_K.
+A : Hi.
+A : Yes.
+A : Was he supposed to harass me?
+A : Well, he just told  looking
+D : You don-
+D : @@
+A : @@
+A : I know,  either!
+D : This  is it.
+B : No wait. You have to put it on exactly like that, so put that - those things over your ears like that.
+B : See the p- how the plastic things ar- arch out like that? There  we go.
+A : O_K.
+A : It does!
+E : But that's what you get for coming late to the meeting.
+A : O_K! th- this is not very on target.
+A : Shoot.
+A : @@
+E : About how all of these things -
+D : pretend
+E : The submitting to a major international conference. Yeah.
+A : Which conference is it for?
+D : the  MacWhinney?
+A : Whinney. MacWhinney. Uh-huh.
+A : So, interesting, both, like, child  language people.
+D : So maybe you wanna write something too.
+A : Yeah, maybe I wanna go.
+E : Mmm. Mmm.
+A : Um, why are they speaking  at it if it - is - is it normally like - like, dialogue systems, or, you know, other N_L_P-ish things?
+A : Oh, it's cognitive.  O_K.
+D : Even neuro.
+D : Psycho.
+D : @@
+E : Mmm.
+D : Hey. Plenty  of time.
+E : Why, we've got over a week!
+D : It would  two  your  our  peve- per- per-
+A : previous simulation based pers- general  paper about
+D : write about what we have done in the past six months,
+D : sort of craft a nice little paper that if it gets rejected, which could happen,
+A : Having it is still a good thing.
+D : having it is a good - good thing. It's a nice exercise, it's -
+D : I usually enjoy writing papers. It's not - I don't re- regard it as a painful thing.
+D : Keith and-or Johno will go, probably.
+D : It's on the twenty second of September, in Saarbruecken Germany.
+E : What would one possibly put in such a paper?
+D : What to write about.  What is our - what's our take home message. What - what do we actually -
+D : Because I mean, it - I don't like papers where you just talk about what you plan  to do.
+D : It's far too early  for that.
+D : maybe even - That's maybe the time to introduce the - the new formalism that you guys have cooked up.
+E : Are in the process of -
+B : don't they need to finish the formalism?
+E : Yeah.
+A : O_K. Four pages is, like, really  not very much
+D : Yeah, it  depends on the format.
+D : No that's - I mean that's actually a problem.  difficult  to write on four pages than on eight.
+A : And it's also difficult to - even if you had  a lot of substance, it's hard to demonstrate that in four pages, basically. Um.
+D : They don't have a TeX f- style @@  guide. They just want ASCII. Pure ASCII
+A : O_K.
+B : I would say that's closer to six  pages actually. Four thousand lines of ASCII?
+E : Four thousand lines.  I mean.
+D : I d- don't  quote  me on this. This is numbers I - I have from looking o-
+B : How many characters are on a line?
+E : He - he decided chilling   in the five-one-O_.
+E : Yeah.
+A : Excellent.
+A : That's  very  cool T_shirt.
+E : I got this from the two one two.
+D : in a w- two weeks from now,
+D : w- and a week of business in Germany. I should mention that  for you.
+D : And otherwise you haven't missed much,  really  weird idea,
+A : Not that - O_K.
+D : Yeah, that is  rest  of the gang to - to g-
+D : the watchband. It's time to walk the sheep.
+C : like
+A : O_K.
+E : No.
+E : Oh.
+E : Oh, shoot.
+D : That's the other thing . We're gonna do an int- E_D_U internal workshop in Sicily.
+A : That's what - That's what he says.
+D : I've already got the funding.  So, I mean.
+D : Yeah, that's what it means.
+B : And he'll put us up,  too.
+A : I know  know  almond  trees and stuff.
+A : Name a vegetable, O_K. Oh, um, kiwi?
+E : Yeah.
+A : Really?
+D : But coconut  anana-   pineapple, that's - that's tricky, yeah.
+A : Sorry.
+A : Cantaloupe.
+B : So. Sorry!
+E : @@
+E : I mean, we're gonna have an example case um, right? I m- the - the point is to - like this "where is" case, or something.
+D : well here is th- the - th- here is parsing if you wanna do it c- right, here is understanding if you wanna do it right, and you know - without going into technical  -
+A : It would be like, this  is the idea.
+A : Oh, I didn't get that, did I? Oops.
+A : Did I? Oops. Sorry.
+D : and
+A : So parsing done right
+D : Nuh? And then we can say, uh well what we  this.
+D : Yeah.
+A : Well, you don't have t- I mean the conference  may be cognitive neural, doesn't mean that every paper has to be both.
+D : Yeah, and you can - you can just point to the - to the literature, you can say that construction-based @@
+A : So i- so this paper wouldn't particularly deal with that  side although it could reference the N_T_L-ish sort of, like, um, approach. Yeah.
+A : or designed  to be compatible with whatever, neurological - neuro-
+A : @@  I mean you could definitely -
+A : possible in detail,  use  an example of it.
+E : Well, l- looking at - yeah, looking at that paper that - that you  had, I mean you know, like, you didn't really
+E : Give them   the one paragraph whirlwind tour of w- w- what this is for, and - Yeah.
+A : or ask  about the bits that are
+D : wouldn't be part of it. Maybe you want?
+D : You may - may ruin your career forever, if you appear.
+B : Yeah, you might get blacklisted.
+D : I'm sure you read the transcript of last week's meeting in red
+B : remember  talking  not  said.
+A : do  remember you talking to me.
+B : You know, it was whether - it was whether we would have a Bayes-net on   and  in  the Bayes-net,
+A : Oh.
+B : a- and outside  of it, and -
+A : So that was - was that the question? Was that what -
+D : The SUDO-square
+E : Oh I saw the diagram in the office, yeah.
+D : "Situation",
+E : Way!
+D : Is it?
+E : Oh, god, I hope not.
+A : Sorry.
+B : What?
+A : Sussudio.
+A : I'm sorry, I haven't.
+A : Not on purpose.
+E : @@
+D : Oh - that's  not a notion I wanna have evoked.
+D : He is.
+A : Oops. Anyway .
+D : The -
+E : It sounds too that.
+A : Yeah.
+E : Was wollte der Kuenstler uns damit sagen?
+A : Stop excluding  me.
+A : I can't believe that that's never been thought
+B : Wait, what are the dots?  dots  were.
+A : Cool Keith.
+A : @@
+A : Wait, wait, what's the middle  thing?
+E : That's a c-
+D : You. We. Us.
+A : is  it?
+D : O_K. Eh I have taken care that we actually can build little
+B : I'd - I'd  never seen it before either.
+A : Yeah.
+D : No, this is a R_M_E core by  agent
+A : That's so great.
+E : So wait, what a- what are these letters again, Situr- Situation, User, Discourse and
+D : That's here.
+A : So that's not like context,  O_K.
+D : And for example w- i- s- I- Irena Gurevich   is going to be here eh, end of July. She's a new linguist working for E_M_L.
+A : User.
+D : And what she  great  for us. She would like to
+A : O_K, sorry. Anyway.
+D : and Johno coming up with the idea that if the person discussed   the - discussed the admission fee, in - eh previously, that might be a good indication that,
+D : "how do I get to the castle?", actually he wants to enter.
+A : @@
+D : we don't  hard  code,
+D : a set of lexemes,  or things, that person's
+D : So what would be kind of cool  is
+D : that if we encounter  concepts that are castle, tower, bank, hotel,
+D : for occurrences of these things in a given
+D : And that  might, you know, give us additional input to belief A_ versus B_.
+E : when someone's talking about a castle, you know that it's the sort of thing that people are likely to wanna go into?  Or, is it the fact that
+E : if there's an admission fee, then one of the things we know about admission fees is that you pay them in order to go in?  And then the idea of entering is active in the discourse or something? And then
+D : parts, whatever  it has.
+D : Functions.
+D : in the discourse,  whether any of that, or any
+D : surface structure corresponding to these
+D : roles, functions aaa occurred.
+D : And then, the discourse history  can t- tell us, "yeah", or "no".
+D : And then it's up for us
+D : to decide what to do  with it.
+D : um,
+D : "where is the theater",
+D : um, whether or not he has talked about tickets  before,
+D : see  something.
+D : Or "where is the opera in Par- Paris?, yeah? Lots of people go to the opera to take pictures of it and to look  performance.
+D : And, the discourse  likely
+D : And so we can hard code "for opera, look for tickets, look   for this, look for that,
+D : or look for Mozart, look for thi-"
+E : other things and then decide, rather than the other possibility which is that all through discourse as they talk about different things - You know like w-
+E : prior  to the "where is it" question they say, you know, "how much does it cost to get in, you know, to - to see a movie around here", um,
+E : admission  fees, that just sort of stays active now.
+E : over in your Bayes-net or whatever, when - when the person says "where is it", you've already got, you know since they were talking about admission,  that  entering,  thinking
+D : Yeah, e- ultimately that's also  what we wanna get at. I think that's - that's the correct way. So, of course we have to keep
+D : I mean we can idealize  that, you know, people don't change topics,
+D : but they do.  But,
+D : maybe,  your  better,  as to say how - how do these pieces -
+E : And much harder to p- to program.
+D : And um. But, O_K, nevertheless. So these are issues but we - what we actually decided last week,  is to,
+D : and this is, again, for your  benefit -
+D : observed and parsed an utterance such as "where is the Powder-Tower ",
+D : So that - And I will - I will then
+D : come up with the ontology  side
+D : uh, bits and pieces, so that we can say, O_K we - we always  just look at this utterance.
+D : That's the only  utterance we can do,
+D : fiddle  these  produces,  output.
+E : Uh
+D : Simspec
+D : No!
+E : Well we were
+D : you know, we don't really know, does he wanna go  there, or just wanna know where it is.
+E : I mean we're talking about sort of anything that has the semantics of request  location,  right? actually?
+E : to activate that node  or not, you know, that's - that's sort of the issue that sort of the linguistic-y side has to deal with, right?
+D : Yea- Nnn-
+D : this is prototypically @@  found in the "where is something" question, surface structure,
+D : something that activates both.  I mean
+B : Hhh.
+B : I guess.  I don't -
+B : I mean, uh bef- or, before we don't - before we cranked it through the Bayes-net.  I mean.
+D : Yeah, we - we wouldn't.
+D : That's exactly what we want.
+B : We would?
+D : No. We wouldn't.
+E : Oy.
+D : What - what is this gonna - Exactly.  What is the uh -
+B : And then given that we know that things,  we can set up probabilities -
+B : we can s- basically define all the tables  for ev- for those -
+D : i- let's assume we - we call something like a loc-X_ node and a path-X_
+D : And what we actually get  just  discourse,
+D : Hmm. Should be both,
+D : whereas maybe "where is X_ located ",
+D : we find from the data,  always  know  where it is,
+D : just  get  there.
+D : what  gets
+D : uh, input,  how  inter- in case of a "where is" question.
+D : squeeze  utterance?
+D : So define the - the input  Bayes-net
+D : have an Entity  node here
+D : "where is X_" produces something that is s- stands for X_ , whether it's castle, bank, restroom, toilet, whatever. And then the ontology will tell us -
+A : That it has a location  or something like that? - or th- the ontology will tell us where actually it is located?
+A : one  interpretation of "where is X_".
+A : And another  one is, um,
+A : path from current - user current location to
+A : Is the question, for this particular  that's  the information it provides?
+D : @@
+A : Observed when you heard the speaker say "where is X_", or when - when that's been parsed?
+B : or li- characterizing  them   like that. Cuz you don't -
+B : It seems like in the general  case you wouldn't know
+D : You wouldn't.
+B : how - how to characterize them. I mean - or, for when.  node
+B : I mean it just seems like @@  has to have uh - a node for the construction
+B : and then let the chips fall where they may.
+D : It will  be the same. So I think
+D : sort of make this  Go-there  happy.
+D : What you're  Where-X_  Where-X_  node,
+D : that makes both  happy.
+D : Right? That's what you're proposing, which is, in my mind just  as fine.
+D : So w- if we have a construction node, "where is X_",
+D : po- posterior probability that - it's Info-on up,
+D : Info-on is True-up,  well.
+D : makes something here  also  this  True-up, and this makes this True-up as well.
+E : I kinda like it better without that  I don't know, it -
+D : Yeah, because we get - we get tons  of constructions I think. Because,
+D : you know, mmm people have many ways of asking for the same thing,  and -
+A : might  be related,
+A : which is, O_K so implicitly everything in E_D_U, we're always  inferring the speaker
+A : Like, what  want
+D : The system doesn't massage  you, no. No.
+A : I - I - I don't -
+A : it is  a question. It's a question that,
+A : So that  seems different from just having the node "location-X_" and that goes into EDU, right?
+D : Precisely.  That's - that's -
+D : Exactly. We have su- we have specified two.
+D : I
+D : uh the length of - of the words used, and, or the prosody
+D : and g- a- and t- make conclusions about the user's intelligence.  I  don't know, yeah.
+A : um, so in some ways in the other sort of parallel set of mo- more linguistic  meetings we've been talking about possible semantics of some construction.
+D : U- that's exactly r- um, why I'm proposing - It's too early to have - to think  all  of these
+A : the - the choices of "where is X_" or "how do I get to X_". Just " where  is X_". O_K.
+D : do it in such a way that we know  bank ",
+D : should be there,  that, you know, this - the - whatever we get from the -
+A : Wait, so do,  not  take other kinds of
+D : Well, if you - if you can,  do,
+D : If i- if - if it's not at all triggered  hurt  to leave it out for the moment.
+A : So, you could  say that the s- construction is a question asking about this location,
+A : and then you can additionally  go  to that place,
+A : in which case, the - you're jumping  step   - step and saying, "oh, I know where it is but I also know how to get - they wanna seem - they seem to wanna get there so I'm gonna tell them". So there's like structure
+E : Right, th- this - it's not  not  really  about this but why would you care about this? Well,
+E : it's because you also  this,  like that  right?
+A : So it's like you infer the speaker intent, and then infer a plan, a larger plan from that, for which you have the additional information, you're just being extra helpful. Um.
+D : Think - Uh, well this is just a mental  exercise. If you think about,
+D : focus on this question, how would you design
+D : do you feel confident about saying this is part  language  already  detect  those plans, and why would anyone care about location, if not, you know
+D : I mean this is perfectly  legitimate,  not  have any problems with erasing this and say,
+D : What?
+D : And then the - the - the miracle  Go-there,
+D : happens, based on what we know about that entity, about the user, about his various  beliefs, goals, desires, blah-blah-blah.
+D : But this is the sort of thing, I - I propose  think  about,
+D : so that we can put them   into our Bayes-net,
+D : never  them,
+D : and, Eva can play around with the observed things, and we can run our better JavaBayes, and have it produce some output.  And for the first time in th- in -
+D : in the world,  output,  and um - and see uh whether it -
+D : it's any good.
+D : You know? I mean,
+E : Here's hoping.
+E : Here's hoping. Right? Now  cross your fingers.
+D : Yeah, I - I mean, for me  matter   of curiosity, I wanna -
+E : Yeah. Yeah.
+D : fit in really  nicely with the paper.
+D : Because if - if - if we want an example for the paper,
+D : I suggest there it is.
+D : So th- this might be a nice opening paragraph  for the paper as saying,
+D : "you know people look at kinds of - at ambiguities", and
+D : A_, uh these things are never  really  ambiguous in discourse,
+D : B_, don't ever occur  really in discourse, but
+D : normal  statements that seem completely unambiguous, such as "where is the blah-blah",
+D : and the only -
+D : Yeah.
+B : I am great.
+D : Yeah.
+D : complex, if you look at it in - in - in the vacuum
+B : When do you need to start wizarding?
+D : Uh a person from Oakland who is interested in maybe continuing  leaves  in August.
+D : Which is good news in the sense that if we want  to continue,
+D : if you wanna get some more stuff into  the data collection.
+E : O_K.
+D : Look at the results we've gotten so  far for the first,
+D : some of  the higher numbers.
+D : do more funky  stuff.
+D : First dozen subjects
+E : But, um.
+E : Yeah, a- probably  not the right way to do it actually.
+D : a- y- y- y- You can listen to all  of them from your Solaris box.

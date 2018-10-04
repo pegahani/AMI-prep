@@ -1,0 +1,415 @@
+A : somewhere in between. O_K, so we have some sheets for uh some
+C : You're going to sit there?
+C : Yeah, O_K, maybe I'll put this thing here  then.
+B : O_K.
+A : meeting number one with Adam and Dan and Morgan, about five o'clock
+A : What's this one here? This - this one is - has a couple of cheezy electrettes  and -
+C : Yeah, that's - that's the dummy - dummy P_D_A.
+A : That's connected too, or - ?
+C : Yeah, it is.
+C : Yeah, it is at the moment.
+B : Although the gain is pretty low.
+B : So for the um read numbers task,
+C : So I'm speaking on the uh wired headset thing.
+B : uh, the wireless  microphone number two.
+A : O_K, lapel.
+C : eh the machine  room end of the table.
+C : Then know,  we'll be able to figure it out. This is at the middle of the table
+C : This is the left  side of the dummy P_D_A and
+A : I think listening to this is gonna be like watching somebody's home movies. @@
+B : So, what I have on these forms here is for the read numbers - read digits tasks and it's extracted directly from Aurora and uh -
+C : No. Just write it down.
+B : So that transcribe the data we can figure out who said it and their gender and the date and the time and what mike they were on and all that sort of thing.
+C : Well, how about Morgan  that.
+B : And so you have to be sure to pause doing it that way.
+A : Oh.
+A : one
+A : two
+A : three zero eight two
+A : five two one zero nine
+A : six three
+A : seven five
+A : eight six zero one one six two
+A : nine
+A : O_ O_ two O_ six -
+A : Whoops
+A : O_ O_ two one six four one
+A : zero zero seven zero four
+A : That's my  group.
+B : O_K. So, Adam Janin next,
+B : two seven O_
+B : three six seven
+B : four
+B : five
+B : seven one nine zero
+B : eight five
+B : nine eight zero seven four three seven
+B : O_
+B : zero nine nine five
+B : one
+C : O_K. This is Dan on the uh wired headset, transcript number one.
+C : two one four eight
+C : three eight eight
+C : four three O_ six five seven one
+C : five five two seven
+C : six
+C : seven
+C : eight
+C : O_ three O_
+C : zero two
+C : one five one eight
+B : So I definitely wasn't pausing enough between them.
+A : Yeah. was.
+C : Oh! It didn't - doesn't take - Well, I mean as you see  well,  but it doesn't - it doesn't take long to set up. I mean,
+C : We just came up here recording  so it took like twenty minutes something like that.
+C : Yeah, equipment  -
+C : The equip- Me and Adam went through it yesterday, just looked at everything. But it's all kind of here  on.
+C : Um, it's - it's gonna b- it's - for reasons - because of the microphones runs we want that chunk there.  there.
+C : But there's - table,  cables  mat,
+C : and then that's - with  digital there.
+C : And the idea is that this gets replaced by a cabinet with doors, so that - open to fiddling.
+B : Do we have like a cabinet on order or do we just need to do that?
+C : We need to do  they're gonna get done but they don't.
+B : Well, I - I can help them get done um one question is budget. Do we have any money at all that we can go out and spend on things like cabinets or a hard drive or things like that.
+A : Uh, how much are we talking about here?
+C : I don't know. A cabinet is probably going to cost a hundred dollars, two hundred dollars something like that.
+A : I mean, I think - um more  worried about things being kept in a funky state long enough that - that uh stuff gets broken or - or
+B : Well, I think our intention at this point is when we're not using it to record a meeting we'll coil them all up and put them under so that people will not be tripping over them and so on.
+C : But, as quickly as possible.
+A : Yeah, and there's also the minor matter, it'd be kind  bring people in and say "yes, this is where we do such-and-such",
+A : some kind of - I mean it's
+C : I mean there's one big issue with the equipment still,
+C : I built this thing, it's - that's - it's very noisy. We're actually recording - I'm - I'm  this.
+C : it's - it's designed to be used for the - for the desktop meeting  as well.
+C : But I'm using - running that through my uh damp  machine as a pre-amp as an alternative.
+A : Well, we should  preamps,  I would think.
+C : And I'm only get two channels and there're a bunch of -
+C : it's not s- it's not that the thing doesn't exist  swoop.
+C : So it seemed like it was a good idea to make  one.
+C : um
+C : And I'm still  sure.  I probably know how to fix this. I can probably
+C : it's kind of a buy .
+C : Well, we could  just -
+B : bias and a pre-amp.
+A : I guess I'd sort of figured that - that Jim would do that at some point.  Right?
+C : Jim is busy at the moment. That's the problem.  I was kind of hoping that Jim was going to build this box.
+C : Well  is  quite interested in doing it. But.
+A : If it's too  moderate  couple  boxes or something, maybe we should just do it.
+A : And then - and then later  uh replace it with -
+A : Because there may be other considerations that will go into the design. I mean, uh
+A : our getting some experience with this may help to determine some of things that are - I don't know - might change this design,
+A : which I don't think is right,
+A : microphone - multiple microphones totally  completely  irrelevant.
+B : You - you mean for noise cancelling, or - ?
+A : uh, which
+C : Oh.
+C : This  happened .
+B : Do they mean omnidirectional, is that their point? I mean all the noise cancelling mikes, they're - you know, they're a few m- millimeters away from each other pointing in different directions.
+C : I think - guess  near  beam steering is different.
+C : If the f- if the wavefronts are not  planar  then you can't just do delay and sum and expect it to work.
+B : It's  mikes  speaker.
+C : I guess.  Yeah.
+A : a uh s- a volume  sensors
+A : and you do something cleverer,
+A : there clearly are ways to get more out of it.
+A : Yeah.
+C : The - the weird thing is that actually The -
+C : the - the underwater guys do this stuff which is different.
+C : Rather than trying to get them far apart so you can get you want them very close. And -
+C : And the math is too difficult for me to understand but it's - but it's there.
+A : Well, there are various points in meeting where people were making uh uh very  fact,
+A : this was one of them that funny.
+A : I think it will be interesting  to do other things that aren't dumb.
+A : So I - I still think it's potentially interesting to do that. Although we- we'll have to be uh a- aware of this if we're writing proposals about it,
+A : wherever, that there may well be reviewers who will say, "well everyone knows  if it's close".
+C : I mean. By the time - you know, demonstrate that.
+B : O_K. Depends on who's working on it.
+A : Well,  we're getting some -
+A : we- we're getting some right now.
+B : but someone has to write some software to - to actually do it. Someone might.
+B : Oh that's uh - I was just thinking one thing we may wanna do is put the fake P_D_A right in front of someone
+B : on the thought that - my vision of it is you know each of us will have our little P_D_A in front of us and so the acoustics - uh you might want to try to match the acoustics.
+A : Maybe.
+A : But on the other hand,
+A : suppose that uh, you're the only one uh who is advanced  thinking  bring  meeting
+B : No, and I don't need to meet with those
+A : and - and -
+A : and therefore you  in,  near  possible  shove  table.
+A : Well.
+C : Yep, yep.
+C : and then we can have actual P_D_As.
+A : Well, I think  should.
+A : I mean, I think at least  two.  Right?
+A : Because uh one of the th- one of the fantasies that was at least fun to talk  about was that uh
+A : uh O_K maybe you th-
+A : you're -
+A : but  two  of these things?
+A : And you know we have this - this idea of the handshake "We're now an array."
+C : Yeah. easy to believe scenario, I mean, given the number of palm pilots we've got on the table right now, so.
+B : Three, right? So I guess this a pretty dense group but it- it's getting a lot higher.
+A : Yeah
+C : Yeah, but - But that - it's
+C : We're not, even, you know - It's - we're just - It's not like we -
+C : We - we may be technical,  but we're not particularly P_D_A people.
+B : Well, I'm trying  to be. So.
+B : Except I s- got a P_D_A way before - Well I was doing hand- I was doing wearable computers at Boeing, so I guess I sort of count. But.
+A : So uh - so where are we uh now? I mean so we've just -
+A : uh We're doing this recording so we show we can - we're capable of doing recording
+A : uh there's I guess a little more wiring to do or something to have - to have more - if we had more people participating in the meeting we'd wouldn't quite be ready for that.
+C : Well we've got - we've got - Right now we could have two more people on wireless, now  this,  think  it's going to be O_K.
+C : So we could  with, I mean, basically no extra effort.
+B : Five with wireless. So we could have eight.
+B : Nine.  Excuse me, nine. Five with wireless and four without,
+B : and four with wired.
+B : Um, we don't have headsets though.
+B : Oh, O_K so we just have to c- wander around and collect them up.
+C : So, and the h-
+C : Right, right. They don't all work, but the nice ones, the um Plan- Plantronic ones work.
+A : So we can do some more recordings but there's - there's a little - little bit of ramp up say.
+B : Right and also I would like to work out some of the completely. So,
+B : and uh organize the - how we're gonna store it all.
+A : uh if you downsample  it sounded like it came - it sounded like it was something like a gig- gigabyte an hour if you didn't downsample and once you downsampled then it was something like four hundred megabytes an hour,
+A : if you used all - if you used all - no, if you used all the channels. Something like that?
+C : Per channel, or - ?
+C : twelve  Was that with or without the -
+A : I thought it was one  gigabyte.
+A : It couldn't be twelve.
+B : We said, four gigabytes before we did anything else.
+B : And then we cut in half, by -
+C : By s- on  instead of thirty - instead of thirty-two.
+B : That's forty minutes
+C : Forty-eight kilohertz, yeah.
+C : So we can actually triple  that.
+B : I came out at the gig an hour, at one point. That - that's one computation I did for sixteen channels, sixteen bit.
+B : Is it two gig an hour? I'm off by an order of magni- That's alright. Order of two. Factor  of two.
+C : Cuz like, we don't - Maybe we don't - We don't need to save all channels, right? So, on average.
+B : to get some of the more space cuz it - I mean it's a nine gig drive and
+B : there's four gig on sc- on scratch and there's looked  home  directory.
+C : I'm sure. Yeah.
+B : I just don't know enough about LINUX. How hard is it to repartition?
+C : back it all up and copy it back on again.
+A : on feature extraction, it means that we need to have waveforms available somehow.
+B : or had Jane do it and uh
+B : um -
+B : So it - it - it has currently about four gig
+B : And so we need - we definitely need to go you know forty gig - fifty gig of drive - drive space.
+C : We don't need all - we don't necessarily need it all on-line. I mean it will be different subsets. sixteen channels in a single -
+C : You typically train - I mean you'd have fi- you'd have fifty hours we'd only use at once.
+C : But it's kind of painful  for -
+C : if we put them on C_Ds then each C_D will have recording,
+C : and then when you want to build the P_files, you just want to get one of those files off each of the sessions and -
+A : So what would we do  one  of them?
+C : Yeah. Well, maybe two  of them, but I mean we wouldn't use - we'd only use the distant mikes, right?
+B : Yeah so it might be four.
+B : Right? But it wouldn't be sixteen.
+A : Well, although we wanted to get alignments  close  stuff.
+A : Right. But you don't want to be constantly take - putting that on disk and off disk and on disk.
+B : No wait. More disk is better. Absolutely. I mean And just not bother.
+A : The thing is it's really  expensive  right now.
+B : Yeah, we were talking about that. I'm not sure if anyone's still using it.
+A : but at this point I think it's - he's only  been using it for features that he calculated quite a while ago,
+A : so if nobody else is doing feature calculation -
+B : I'll send mail to speech local and see if anyone's still using it.
+C : Probably,  we could - we could probably just run Shorten on them or something and it will get a big win.
+B : Run what  on those?
+C : Tony Robinson's uh lossless compression thing.
+A : What's it  do?
+C : it -
+C : it does modeling
+C : and so it looks at a section,
+C : whiten  it
+C : with a nice - with the three bits it can get away with. Something like that.
+C : So I think it - On - on each block it'll - load on in any range  think  it does that.
+C : @@
+B : Maybe we shouldn't've for our first try.
+C : Well, it's O_K, it's only the first try. I - what I'm thinking is um twenty-  you know per channel.
+B : Yeah, so we might wanna see if maybe the low sixteen bits on the P_Z_Ms are better than the middle sixteen bits.
+C : I think - probably  the bottom four bits are not any good,
+C : Right? Although you know it claims  they are. But probably
+B : W- I was just noticing on the - on the - there's a view meter, software view meter and the P_Z_M gain is real low. So.
+A : Yeah, so I think initially  we should take up more space until we've analyzed this and get a better sense of it because
+A : a half hour of - of speech and so
+A : but -
+A : Yeah, I was eight  bits of noise. Yeah. So.
+B : Yeah, that's right. lots  of bits of noise.
+C : These theories things  are pretty amazing.
+C : And
+C : And there's  help - help they seem - they seem good though they seem to be
+A : you can't have sixteen million - one in sixteen million parts, so.
+B : Right the other - other thing another issue is just getting a sound card up here.
+C : sound infrastructure would deal with both at once
+C : but I think yeah, that's, uh -
+C : probably it will be fine.
+B : Yeah, that way we don't - we can't listen to it on this machine.
+C : Well, but the @@
+C : There are two  could  this  operating system would like having two sound cards.
+A : But we can F_T_P stuff over, right? So it's connected.
+B : And we've looked  You just can't listen.
+A : I think this - maybe we should just read some more - you made more of these, right? I think we should read some more
+B : O_K.
+A : that  many meetings
+A : and this is a pretty tiny  amount of data.
+A : So maybe we should do another number list and  -
+B : of how much uh annoyance I wanted to put uh people going to meetings through.
+A : Well this is us. We'll have a fair amount of annoyance yeah I think uh.
+C : basically we're in a situation where we can - multi- channel recording.
+C : I mean like "us" being the Meeting Recorder people or "us" being anything that speech local does.
+B : Well, I think -
+B : I think, um, certainly us, Meeting Recorder.
+B : Um, us other  many  meetings we're - we're having. Um.
+B : Jerry  he  his  group, some of the A_I meetings do it as well.
+B : Exactly exactly. I think there are enough we can get it set up so it is convenient enough,
+B : um, then you can just do spontaneous  meetings as well.
+B : Which I'm  interested in. I mean, that's one of the things, the whole reason I want a P_D_A as opposed to a wired room
+C : Well, we've got to make it really really easy to start it going then in that case. Cuz that - that's the real goal.
+B : That's why I put ten  on here instead of thirty or forty or fifty.
+C : Right. But I mean if we - if we want @@  won't ask them to read any numbers, right? Cuz.
+C : Yeah.
+A : And also he's - he's - he's got least  woman.
+B : Oh, that's a good point!
+A : And we're - we have a little problem of no women,
+A : Yeah. No, well, actually we could have Jane uh - Jane's interested and curious about this stuff so she could attend one of - probably not the decoder meeting but some of the other stuff she would be interested enough and have her read -
+B : Yeah, I mean it's a different style.  But I think that's alright.
+C : I mean.
+B : Um,
+B : Um, briefly  transcription.  are  we  generate the transcripts?
+A : I think that one of the neat things about having this little pilot  thing from today
+A : so we should supervise a linguistics student or somebody
+A : and uh see how long it takes, and you know, multiply out the cost, and then send -
+A : and uh see what that  costs and how much hassle that is.
+B : Yeah, the - the problem  nine  potentially.
+C : speaker changes.
+B : So what  listening  to?
+C : So - so they - they're gonna - they're gonna have to make speaker assignments or something like this.
+B : They're going to have to make speaker assignments, and wh- and which  listen  to?
+C : For one of - one of @@ .
+C : and we could do all kinds of weird things like having you know squelch so that you only, you know - you only - you
+C : cut it out when there's no energy. So you don't @@  noise.
+C : then we can leverage that a lot
+C : by some clever cross thing  to figure out which channel they really belong to and stuff like this,
+B : So that - I mean, that's one  segmenting  this  another
+A : But uh I don't know. This meeting, so,  say it's maybe going to be a half hour or something, and -
+A : times uh real time to do this kind of transcription
+A : um so you know in - in principle then it'll take somebody a day for somebody to deal with this.
+C : Mm-hmm. Wow.
+A : And uh we'll see which one of those seems closest to right and if they -
+A : ramped up, if towards the end it was faster you know, get some sort of sense from them
+A : like I say, check it out with an external service and see if it's faster, cheaper, better, worse, whatever. Then we'll go from there.
+B : Yeah, one of the things I was thinking with transcript is that if we take  the near field
+B : and correct  a transcript,
+B : if the near field mike does a reasonably good job?
+B : I bet it isn't,
+C : Yeah.
+B : unless it's really close to right.
+C : The transcribing  is sort of something I can imagine doing,
+C : of having sort of something that looks
+A : And at least supposedly  the way they work is by feeding them
+C : Yeah, by fixing up transcripts.
+A : what is  the output of the recognizer.
+A : There's supposed to be some out - out - out-of-work shepherders or something in Scotland but -
+C : They should  India  right now. That's where the good, but the cheap English speakers are.
+B : Not in Scotland.
+C : Well they don't speak
+B : They - they sheep - they s- they - they speak cheap  English, right?
+A : O_K so we're degenerating, right. Are - are - are we done with uh M_R business, or - ?
+A : cleaning up the stuff and making it easier to do that.
+A : sound file of some sort to a transcriber
+A : to deal with it rather than this massive thing. That's a little bit of stuff to do. Right?
+B : And then do some segmenting and recognition - initial recognition
+A : Yeah, although it - it - it - it may be separating out these numbers from the rest. Yeah.
+A : Yeah and uh
+A : So this is transcript three, this is Morgan with the wireless lapel.
+A : two
+A : four one three
+A : five five six eight
+A : six eight eight
+A : seven eight eight six
+A : eight
+A : nine zero eight
+A : O_
+A : one three five
+A : two two nine
+B : This is Adam on uh wireless headset number two with transcript number five.
+B : three
+B : four O_
+B : six five two six
+B : seven four
+B : eight five four
+B : nine
+B : O_
+B : zero
+B : one zero eight eight five
+B : three three seven one
+C : This is Dan and this is transcript number four.
+C : three nine
+C : four seven one eight
+C : five
+C : six
+C : seven zero four six nine eight nine
+C : nine two three
+C : O_ six five
+C : zero four four three six five nine
+C : one nine five
+C : two
+B : Oh I on- I did ten but I can - I have a script to generate them automatically.
+B : O_K.
+C : What fun it is.
+C : It's interesting that um it m- it's not clear whether it's better to have them written as - as words or - or figures.
+C : But it's kind of weird to read.
+A : O_K, this is uh Morgan again with the wireless lapel, transcript six.
+A : four five
+A : five five five zero nine seven one
+A : six nine one four O_
+A : seven
+A : eight
+A : nine O_ four five three five eight
+A : zero two one five nine
+A : one three
+A : two eight zero five
+A : three five five three six
+B : This is Adam on the wireless headset, transcript eight.
+B : five five two zero
+B : six seven O_ O_
+B : seven six
+B : eight nine eight
+B : nine
+B : O_
+B : zero
+B : two two eight two O_
+B : three four eight
+B : four seven zero
+C : And this is Dan with transcript number seven.
+C : four five six four four
+C : five
+C : six O_ six O_ two
+C : eight one two O_ eight five nine
+C : nine three five O_ three two four
+C : O_
+C : zero
+C : one
+C : two O_ six two
+C : three
+A : uh
+B : O_K, go ahead and read it and then fill it out.
+A : So, uh this is Morgan again
+A : five seven three five three seven nine
+A : six nine
+A : seven
+A : eight zero
+A : O_ two seven four O_
+A : zero two three one nine zero nine
+A : one three O_ two eight nine O_
+A : two eight
+A : three five
+A : four
+C : And this is Dan with transcript ten.
+C : five
+C : seven one one
+C : eight five O_ one six four six
+C : nine eight seven zero
+C : O_
+C : zero
+C : one
+C : two
+C : four one O_ four O_
+C : five three four nine nine six O_

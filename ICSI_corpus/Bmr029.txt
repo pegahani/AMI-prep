@@ -1,0 +1,290 @@
+A : O_K.
+C : O_K.
+C : one thing I knew I wanted to talk about was about, uh,
+F : Recognition results for -
+C : Yeah.
+F : on Thilo's segments,
+F : the close-talking  microphone.
+F : And you wanted - I know you wanted the far-field data.
+C : Right. So - so, we have some  stuff with no overlap, uh, for which there would be
+C : to, uh, potentially training and  test data
+F : Mm-hmm.
+C : in talking this morning with, uh, Chuck and with Dave
+C : different the numbers were, but if you just worked with males only and used the short training
+F : Uh
+A : That's true.
+C : the close case?
+F : small models on meeting data.
+C : w-
+F : The recognition also takes non-negligible amount of time. So -
+C : Um -
+C : it has to be enough to be sort  of comparable to what
+C : We have a whole parallel set of things over here
+C : good.
+C : Um, it'd be nice to have something more  than that. And w- we had talked about was having distant -
+C : Whatever comparison we - w- w- one would presume. But we don't know how much  worse,
+F : um,
+F : I think it took only two days.
+C : But- m-
+C : How big is the small set?
+F : Hmm.
+F : Uh.
+F : Hhh.
+F : something between
+F : Uh. Actually, I don't know.
+F : Well, the males account for most of this meeting data anyhow. So -
+C : And, uh, it's not an impossible  amount of time. We - we were
+C : if  prohibitive.
+C : It, you know, appears  to be, you know, debugged.
+A : Yeah. That's what I was gonna say next. We hafta cut the, uh -
+E : Yeah.
+F : Don  just, uh, created
+F : It would be nice  -
+F : I mean, if the results are comparable   to what we had before -
+A : Do you know when he'll have the - the comparison?
+F : Well, I'm - as I said, I just started the recognizer,
+F : uh, a couple hours before -
+F : before I have some results. So -
+C : For the test.
+F : need to be -
+F : of course, you would wanna process the training data, because we wanna get that started. Yeah.
+C : I mean, it - it'd be really great  if it was all automatic, but I think that, you know, given the pressure of time, if -
+C : Bien sur
+C : O_K, so.
+C : Uh -
+A : um,
+C : Mm-hmm.
+A : Um, because we're gonna be using the - just the male,
+F : you have to d- you have to, uh, um,
+F : So,
+F : um, you parallelize across different speakers,
+F : but
+F : who - who speaks a lot, then
+C : Bu-
+F : Oh.
+F : I don't have - I don't have a good gue-
+A : I mean, is - is it like a day  hours  or - roughly?
+A : For - yeah, let's say we just  did the Meeting Recorder meetings for our test set.
+F : Uh.
+F : Um.
+F : Because it's -
+F : So each meeting - each meetings takes,
+A : Wow.
+C : well
+E : Is it the same set as five  Meeting Recorder meetings.
+F : @@
+C : So maybe just with the - the - the Meeting Recorder set of the -
+F : And we can exclude - we don't need to recognize the non-natives, because we know that -
+A : experiments   going right away, using the short male models.
+C : Once we know which segmentations we're using. Yeah.
+C : I'm - I'm kind of questioning that. But -
+A : that third  two  differences between the other experiments, not one.
+C : to is if there was some problem
+C : it didn't help as much  if you didn't retrain, but it does help some,
+F : Wait, did - ?
+C : So -
+F : O_K. Well, I'll - I can get started on the -
+F : Uh, uh - that's -
+F : So we would be using the same  channel
+C : I mean, do you ha- do you have to rely on his segmentations at all to do the top one?
+F : turns out to be comparable   with -
+C : for the purposes of just  determining whether a far-field microphone -
+C : I mean -
+C : We want to i- incorporate
+C : certain data that would not be available during final tests,
+C : uh, under a - a full fair test of it, much as we are in the - all the numbers that we have so far.
+E : Oops.
+F : as, um -
+F : the segments that by magic you know belong
+F : Right.
+F : So -
+F : it's a completely fair test.
+F : and where Thilo's speech detector has -
+F : And that speech is - is deemed to come  from that speaker, whether that's true or not.
+F : gene- I mean you can pretend  it's all from one speaker and do all this processing the same,
+C : Mm-hmm.
+F : So, you could certainly do better  than that by doing, for instance - uh, cluster the segments,
+F : which is what we do, say, in a Broadcast News system, where you don't have  speaker labels.
+F : I'm - I would have to avoid  that.
+A : Hmm.
+C : Yeah. An- and e- so that will tell us what the difference it between the mikes, and then, uh, in order to -
+C : difference that we'd have to take care of is that, uh - yeah, we - we don't have a  mike that, uh,
+C : is particular to a person.  And so we'll have to do some clustering, and that'll be another -
+F : norm- feature normalization process. I- it's spea- uh, all that is speaker-based.
+F : So, in that  I'm,
+F : Y- you know, d- d- b- the most important, of course, is the cepstral mean subtraction.
+F : because it's so far -
+C : So, I mean, I - I think that that  difference would definitely be marginal.
+C : I think the main  something  - to do some cepstral mean subtraction on some level.
+C : at a much longer time scale. Right?
+F : A- and by the way,
+F : we're already - If we use the same segmentations that we use for the close-talking microphone, then
+F : the segmentations assume  that we have access to all channels and
+F : correlate them, so
+F : there's no point  in not using that knowledge for speaker identification.
+C : Um. Yeah, I guess.
+C : that it appears  that things are coming from a particular direction.
+B : Hmm.
+C : So we ought to be able to use that  information,
+C : So, I mean - But that's another research thing to do and probably won't get done the next week.
+F : Right. So what - what is the schedule here?
+C : Well, I mean, I'm - I'm leaving for for the, uh,
+C : the New Orleans meeting, uh, next Saturday,  and -
+C : and, um, it'd be kinda nice to have
+C : Yeah.
+F : Mmm.
+C : what we were hoping  was that over the weekend we could do, uh, the, um, calculation on the training set
+C : If we had enough machines, maybe do them   in parallel.
+C : I mean, it's - it's one of these Hail Mary kinds of things. I mean, it -
+F : Mmm.
+C : might - might not work out.
+F : If - if it turns out that for some reason it's easier for him to
+F : the - the - the old, uh, segmentations,
+A : Y- y- you said it would be easy for you to do that I guess Don can do the segmentations of the,
+A : I mean, I can certainly help with, uh, retraining the short male models,
+F : you could -
+A : I can re-do the next one. Yeah.
+A : I mean, th- not the bottom  middle
+F : he should call the waveforms
+F : and the microphone,
+F : So -
+A : O_K.
+A : And then the bottom one in terms of the test will be - ?
+A : That will just be a copy of the one above it, except for different models
+A : um, files,  and I can give you those to - to process.
+B : s- long silence periods are removed, which is a good  thing.
+B : But that does  mean that I need as much -
+B : I need twice  as much disk space as the original set
+B : cuz I need - while I'm running it - cuz I need to create this intermediate set,
+B : um, of these big  files,
+F : Hmm.
+B : and then create the - finally, the mean subtracted, um, little files.
+B : And then I can get rid of the big  files.
+C : I think vacation.
+E : I was wondering in.
+A : Well, he went to put them   on -
+F : Just, you shake  them and they fall down.
+A : Yeah.
+A : He went to put them   on and then something happened.
+A : So -
+A : O_K.
+C : Yeah.
+C : training.
+F : That's everything. Yeah, so -
+F : So, I can give you a list of the short version.
+B : O_K. And so, say the Macrophone  files that are included in this short training, are just
+B : a subset  of the Macrophone files. Right?
+B : But that's not necessarily any less  than the S_R_I Hub-five
+B : set. It's not a - it's not a subset  short  S_R_I Hu- Hub-five set. Right?
+F : Can you repeat the question? There wa- it is a subse- Yeah.
+B : Uh, whe- when you trained on Macrophone, um, to do those digits experiments, did you use the entire  Macrophone corpus?
+C : That was in the Hub-five small  training set?
+B : I-
+B : the whole Macrophone set.
+B : Well, if - if - if I just need to use that subset, I - I can get it processed. I actually got -
+F : Right.
+B : Oh, O_K.
+A : Figure out whether we're using the new or the old from Don.
+A : And then
+A : you'll need disk space. And once you've got those  your  processing. Right?
+F : because you don't use all the data you have for one speaker.
+F : uh, crummier than they would in the large training set.
+F : So,
+F : um, I have to - So, to make it really a matching  experiment, I have to find -
+F : use short models that were trained on normalizations  short
+A : Do you have this, uh - ?
+F : think  so. I've - I -
+F : I have to check. In any case, I could retrain short models within
+C : all  we're doing - The only reason we're using the short training set is - is for speed.
+C : And there - we're not really making any claims  about using a smaller training set.
+F : then David would have to process much more data,
+C : Oh, you mean for - for his  normalizations.
+F : So, you wanna do the exact same thing, or else
+F : It doesn't make - I don't think it makes that  much of a difference. It's just this
+C : Mm-hmm.
+F : I - I think I have - I have the models, I have -
+F : let's see, um -
+F : Yeah. And if not I can retrain those models very
+C : Sorry I missed it.
+A : um,
+A : m- um,
+A : create the new s- training data with his processing, he throws out some speakers.
+F : then leaving out Macrophone
+F : actually sometimes helps  you, because it's -
+F : to the meeting and - or to conversational  speech anyway.
+F : O_K.
+F : Yeah. Leave it out, and -
+F : And then we have complete -
+F : completely identical training conditions.
+F : they only affect the test  set.
+F : We're talking about the training  speakers.
+F : Right.
+B : Um -
+F : He already has the in- you already have the information. Right?
+B : already, I think,  and, um, I think by tomorrow I'll have it
+F : O_K.
+C : At that one? Maybe.
+E : Yeah, yeah. I was doing something for the SmartKom data collectioners.
+E : which does the synthesis and the Festival speech s- s- system is running on
+E : and so we couldn't do any data collection. Uh -
+E : have to think about the - the energy   thing - uh, what we wanna do.
+C : So -
+F : O_K.
+C : So. Rrrrr-rrrrm-rr.
+C : Something like that.
+E : Uh, you can just use it from the - Yeah.
+C : O_K?
+A : Transcript L_ dash two eight eight.
+A : Five two three, eight one seven, seven one nine.
+A : Four two three, one five, eight eight two three.
+A : Seven six eight, six O_ eight, two two one two.
+A : Six nine two six, nine, two four nine.
+A : Five seven, three six, zero one, zero six, four five.
+A : One three one, three three four, three nine eight.
+A : One, six one two, six six, nine one one, eight.
+A : Zero two two, six seven, six six five one.
+B : Transcript L_ dash two nine zero.
+B : Four two eight zero, two three one three, one three eight two.
+B : Three, five two six, zero five, nine eight eight, one.
+B : One five, eight five, nine nine, four one, five six.
+B : Eight eight three, seven nine two, two seven two.
+B : Three nine seven, three three three, two two six.
+B : Zero zero six, three eight, zero three three one.
+B : Eight three six three, four six four six, seven four seven three.
+B : Five nine, two two, zero zero, eight two, seven nine.
+D : Transcript L_ dash two eight zero.
+D : Five three zero, four six, four four three eight.
+D : Six three, eight four, nine eight, five zero, nine nine.
+D : Three nine seven zero, nine zero nine three, five nine seven five.
+D : Zero two one five, three one three three, eight one six six.
+D : Nine seven four, eight four seven, nine seven three.
+D : Two seven, four one, five nine, one two, six nine.
+D : Two four, two five, five seven, one nine, zero zero.
+D : Five one seven, three nine seven, zero six one eight.
+F : Transcript L_ two eight one.
+F : Zero four three one, eight zero seven eight, one four five nine.
+F : Two nine seven, one four six, six two O_ four.
+F : Zero three, six five, nine seven, six two, four seven.
+F : Five two, one five, eight four, one one, six six.
+F : Four six two one, four, six six four.
+F : Nine four zero two, one two three three, two O_ seven three.
+F : Nine, seven seven eight, zero four, seven two nine, five.
+F : Three seven, eight seven, nine seven, three four, six six.
+E : Transcript L_ dash two O_ eight.
+E : Two nine two, two six, nine six three four.
+E : Six, nine one seven, two nine, seven seven eight, two.
+E : Two eight three, four nine one, two seven seven.
+E : Four nine zero, eight six nine, six four three two.
+E : Nine six six, seven zero, four nine four O_.
+E : Six three eight seven, two eight two six, nine zero five nine.
+E : One seven seven, five eight six, eight one four.
+E : Five six six, six five, six eight O_ nine.
+C : Transcript L_ dash two eight seven.
+C : One eight three, eight eight eight, eight one five five.
+C : Two three, zero nine, three three, six one, zero nine.
+C : Three six, eight five, one zero, three four, five two.
+C : One one, four three, nine three, six seven, zero two.
+C : One five seven one, zero zero seven two, eight eight nine six.
+C : Two two four six, five, nine one three.
+C : Zero seven two one, four, five nine eight.
+C : Six, four five four, one one, six three three, six.

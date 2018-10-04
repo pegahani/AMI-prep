@@ -1,0 +1,556 @@
+E : Is it on?
+B : Uh, so - uh, so I c- I definitely have to leave at three-thirty today for whatever. That's -
+A : Definitely have to go to tea. So -
+D : Oops.
+C : Barbara  told me. Barbara Peskin.
+B : Yeah.
+A : uh, mention  several  of you about this, but just to
+A : So we got back the I_B_M transcript, and the accuracy  looks O_K. There are - I mean, there are areas which are
+A : clearly wrong and there are a lot of areas where they put question  marks,
+A : where the acoustics weren't very good. And I think that's fine.  Putting it in question marks is better than doing it wrong.
+A : The big  wrong
+D : Oops.
+A : And that's exactly  afraid  of.
+A : And I went in, and more or less by hand,  corrected  it, by loading it - I wrote a script that will convert it to the multi- the Channeltrans format,
+D : Inserted ones.
+A : And in this  always  the error,
+A : is that they put in it extraneous  not  do,
+A : to do.  So it took me several hours
+A : maybe forty-five minutes, just  through  faster  on,  because now I sort of understand how it works.
+A : But, I think if we had some way - uh some tool  that made it easier to insert and delete beeps
+A : it would make it a lot easier. Cuz one  time  channel  transcriber.
+E : One  Adam  idea  would be, um,
+A : And so there may  be -
+E : if we g- used different beeps.  alternated  between two beeps, a high and a low.
+B : He  said that?
+A : I didn't just
+E : Yeah. Um - Because then  -
+A : So th- so this is the o- the other approach  future,  still  gonna happen.
+F : Well, and then the other  in  it or something. Wasn't that what you said?
+E : Well, l- I- I thought it was a lot more  than that.
+E : They were three  off, basically.
+F : Oh!
+B : uh, uh, excuse me. If you get one off, it - t- everything is off cuz of the alignment  right?
+E : Well the only - the only question about that  tape.
+F : Oh!
+E : tapes
+B : maybe there's other things to do that are more clever,  one  mistake,
+B : then everything after that mistake is off.
+A : We can definitely do that. So t- so one question is, are there good places in the files where we can really do that?
+C : The other  can  or are these the individual -
+C : the mixed  one?
+E : Individual channels.
+D : Individual channels.
+C : probably  alignment,
+C : and pretty much figure out where the errors  are.
+C : I don't think we could do it on the mixed  signal, cuz it -
+C : But on the individual channels that would probably work, if  they have enough
+C : I mean, we could try  it.
+C : unique word, "beep" -
+E : We have  wavefile  with all the beeps.
+C : the beep model - Actually, you could train  a beep model. That - that's a good idea.
+E : It would be very good.
+A : Yes, it would be, cuz it's very, very regular.
+B : Oh. Kind of low variance, wouldn't that be? might end up with
+D : Yeah.
+E : Yeah, very
+A : Yeah.
+B : some infinities there, but -
+B : Can I see that?
+C : I guess the trick is figuring out, you know, where it doesn't align?
+C : But if it's a problem of extra  beeps,
+C : rather than missing  beeps, then -
+A : It's just in this  case they were not.
+B : seven  or something? Or - What is it?
+F : M_one-hundred.
+A : So I think - uh, Chuck had a good explanation for it which I liked, which is these - they're listening to it and so they write something down, and let's say they miss it, they rewind.
+A : Well, they hear the beep again. Was that that  different  My  original thought
+A : was, you could have a different tone for each speaker.
+A : You know, there's plenty of tone  space.
+A : And that might help cue
+A : the transcriptionist.
+A : You know, give them a little cue  are.
+B : Or -
+C : Yeah.
+C : You could have, um, each speaker in the meeting say "beep" and record it and that will be their pro-
+B : each one, and then -
+C : Sorry.
+A : That's  saying.  each  tone.
+B : See, I should listen.  Yeah?
+B : That  temporally  just, uh, uh, uh, an increasing tones so that
+A : Bo-eep
+F : Well you th-
+F : So just r- r- truly chron- chromatically up all the way through the entire meeting.
+C : But yo- I guess you'd still get the mistake that you  mentioned, because
+A : I mean, Chuck's  two  transcribe  "H_beep" or "L_beep", "high beep" or "low beep".
+E : And then when we get them   back, if we see two L_beeps in a row -
+E : And it would - it seems like it would help them,  you know, if they
+E : one  beep and then they
+E : hear it again, they know it's the same beep.
+E : Versus if they heard a slightly different one.
+A : one for each ca- one for each person in the meeting, you can only hire people who have perfect pitch, and they can say "A_flat"
+F : Well. Well, "high", "low" is pretty straightforward, yeah.
+F : You'd have to - they'd have to have the acoustics of dogs t- hear into the high high ranges.
+F : Yeah.
+A : So I think, certainly,  if  they can -
+A : do  handle,  we could give them a text file that was a template with speaker I_D and beeps already in it.
+E : Maybe I should write to Brian and tell him what the problem was  and what our proposed solutions are.
+E : See what he thinks would work best with them.
+B : I mean, what's going wrong  doing?  What, uh -
+A : Well, as I said,  actually  hypothesis  good  listen  to something,
+A : And then you hear the beep that  beep,
+A : or is that a new beep? I  couple  wrong.
+E : And there are some  cases where there's, um,
+E : very little speech  before you hear a beep. So you hear a little bit of speech, beep, a little bit of speech, beep.
+E : Maybe three of those in a row,  three  two
+E : Um - See, they have th- Brian said the setup that they have  is, um -
+E : They've got headphones and then  I guess they have a computer, and they have a foot pedal which lets them quickly
+E : And so they can hear  something, then step on the pedal and quickly rewind
+E : and go back and hear it again.  And so they're -
+E : I think  over  confused  about whether
+E : they've already three  two,
+F : It's a shame  really  number.  number  and  beep.
+A : Well, we could.
+E : Oh,  that's  an interesting idea.
+A : We could,  but then that starts getting
+A : pretty long.
+E : No, no, no. But wait,  maybe -
+E : maybe what we have  beep  number.
+E : And they put the number  in when they hear it.
+F : That'll
+E : So, inst- replacing   three ",
+E : "twenty- four ",
+E : "twenty-five" - number  is each time.
+F : Wow, that'd also  type.
+F : Interesting.
+B : that's your indicator  say  meeting.
+D : Yeah.
+F : Or maybe could it be a click  number.
+E : Or a beep  and the number.
+D : Yeah.
+E : fact,  beginning  of each utterance. We could say "beep
+E : one ".
+A : So beep number. Yeah the- It's just getting pretty long.  short.
+A : And so you're gonna be talking beep, number, "yes!" beep, number, "no".
+E : Yeah,  Actually,  like  that. I think it would -
+A : And when they transcribe this  really  impossible.
+D : Yeah,
+B : W- we're saying  for instance.
+E : But see that would - that would definitely  keep -
+E : things from getting out of sequence.  heard  over  know.  obvious  transcript  did  that one or not.
+F : It might actually help  them   place  holding. Yeah.
+A : That would  help get them synchronized.
+F : And it might be helpful to them  in terms of d- act-
+A : I think it would  place.  Yeah.
+E : And we have plenty of digits  data, so.
+A : They would know their place, darn it!
+E : We-
+F : Know -
+D : Oh.
+F : Well, no
+A : Yeah, the numbers  are a good idea.
+A : Othe- other than lengthening  transcript,
+D : perhaps just the speaker I_D
+D : Pppt!
+F : I - i-
+A : you could  them   short by not s- or just go one through ten, one through ten, one through ten, or one through twenty.
+F : And then also,  setup  template  idea might be a way of - of
+F : of - We could actually build  into  a template.
+F : Well.
+A : Yeah, single  digit numbers -
+A : "One hundred twenty-four"
+D : Yeah.
+F : Forty-five minutes for that
+A : More
+E : I  was thinking there was on the order of
+E : fifteen hundred  segments, but maybe I'm -
+C : There must  otherwise,  you're going a whole -
+F : It's  possible.
+C : That's the shortest meeting we have.  double  that, or
+C : so
+B : thing  was.
+C : So if there are  in the -
+C : in the hundreds  thousands  of these -
+C : It must  hundreds  least.
+F : Well,  just  digit  though,
+C : five hundred?
+B : Right, but my point  big  thousand  hundred.  If
+B : there's a thousand,  then that means
+B : that this is only happening three  thousand.
+B : Which means, you know, even just splitting it up into a few files  time,
+B : W- if it's a hundred,  not  but if it's a hundred,
+B : then, the average length  long  deal.
+B : So, that's  curious.
+A : Yeah, you're  had  to have been more than that. I mean, it was a forty-five minute meeting, so -
+A : And it certainly was not a minute a chunk, it was a few seconds  a chunk.
+F : Well, and the other  thing is, maybe the numbers would help them keep their place in the transcript and speed the process -
+C : Yeah.
+C : Actually, if it is  -
+C : idea to try  the alignment.
+C : Um, if there's only like three  them,
+C : if you align,  the first point at which things get messed up is sort of the location of the first problem.
+C : you could do  it that way, or you could -
+C : able to handle any errors. So if they make, on the average, that many,
+C : and it costs them more time to do something different than what they're doing, which I don't know, does,
+C : then we could try  doing that as a post-process, and,
+E : You know actually,  what - all that we would -
+C : figure out where the problems are.
+C : It would take a little  work, but not any real human - not a lot of human work.
+A : Right. I mean, that's  what we want to avoid.
+E : I mean if - in terms of the alignment, actually, all we would need is - we wouldn't even need words.  general  beep  model.
+E : Cuz all we're really concerned  many  beeps.
+C : Well, the for- the forced  alignment will run fa- otherwise it'll take forever. I mean,
+C : to really run recognition?
+E : Well - l- I guess what I'm thinking  of is that w-
+C : Or - ?
+C : Yeah, then we just map it to a reject  model.
+C : In - and in fact, that's what we do now.  Jane  listens, where, you know, we have -
+C : an expert  can't even tell what they're talking about.
+E : Well, what I was thinking  all  reject  beep  model.
+A : But that won't work  because it's -
+C : The forced alignment might not work then, try  it.
+E : The beep model is - is gonna match, like, really  well.
+C : Um - I mean, I was thinking  of - then I - and then I realized "Well,
+C : and then there'll be all the extra beeps at the end if there were more beeps then you
+A : Right, you - you need  need  text
+A : to tell it where it got it wrong.  Yeah.
+E : No, I'm not sug- I'm not suggesting that we don't have anything between  the beeps.
+E : But I - what I'm saying is, what's between  care  about.
+C : I think you do  care about it.
+C : Unless  you wanna know if they're -
+A : And we can do that with wordcount.
+A : Right? We already  short.  And so if we just did
+A : spee- uh beep and non-beep all you would get  mistakes,  wrong.
+A : You need some of the words  this  this  this  this  this  all,
+A : unless we insert a beep ".
+C : I mean  only  thing I'm worried about with that approach is that if
+C : before the transcribers do the corrections here, then we're in trouble. In other words, if the transcripts aren't sort of
+C : it wouldn't work. But it might  work. It might work to do this if their transcripts are pretty close
+C : you know, function words, the common  words.
+A : and if the score is good,  then you say it matches -
+C : Right. The individual segments between  the beeps -
+C : um, the transcription tool already,  that's  done,  very  well. You can see these
+C : Because the bi- the beeps were missing, by definition.
+C : Definitely when they don't align at all, it - it - it fails.
+C : problems before,  with, um, words being on the wrong place or something.
+C : So a failed  alignment is a very good indicator that -
+C : I mean, I also  like this idea of high and low beeps, or -
+C : Suppose we get one  two  still,  per -
+A : Well, the numbered  ones would make it a lot easier, cuz you could then really localize where the error is.
+C : Where it is.
+C : If - so, if that doesn't add time for them,  that'd be great. You know, like -
+F : I think it would save  track  of it.
+B : Yeah.  Cuz it, you know, it's r- r-
+C : I guess also  transcribers,
+C : it's quicker to load a smaller file -
+C : into the - You know, t- for the checking problem.
+A : We could certainly
+B : I mean, you've already broken them into chunks,  so if you have - if you have a th- if you have a thousand chunks then
+E : Just accumulate it till you get twenty minutes worth?
+B : make ten things of a hundred, or - or you know.
+A : That's  true, yeah.
+A : I think that was Chuck.
+A : Yeah, it does  look good. I mean, I found several errors, but they were not
+F : Oh. Yes. But this is not important. It's systematic, yeah.
+C : So - but those are all easy  things, right?
+F : a set of conventions   used  to. Which is - which is really a good - a good way to do it.
+A : We still haven't really sat down and talked about file reorganization, and directory reorganization. So we still have to do that.
+A : It is  also  coordinate it with Dave so that we do a level zero backup right after.
+A : So - let's - let's try to do  ch- O_K?
+A : We also still mike  do  with that.
+A : And just swap them   in and out?
+A : uh, since you weren't at the meeting last  week, uh, apparently a bunch of the E_D_U fe- folks really hate this style mike.
+C : they c- they come on time to their meetings in order to not be left  the last person who has to sit by those
+A : I mean, that's - that's - that's  a fairly strong indication of dislike.
+F : I  them
+C : There were a few people - you, and like, three or four people who really  like them.
+F : Yeah, I  do.
+A : So what I was thinking  get  Sony  them   them   in. And the only thing is that
+A : when you fill out the digit  forms, you have to be sure to indicate which mike was actually used.
+A : moves us away  same,  which some people had said was a benefit.
+F : The other  too,  you  wearing,  fancy  better  than
+A : It is.
+F : So I- I don't know if it's a noticeable difference,  but it is -
+F : I mean, I p- I personally really prefer  that model, so I think you know we've got this problem of people having different -
+B : You know, there are so  many things about this that are non-uniform that I think having -
+B : having some  modicum of uniformity is a good thing, but you're just not going to - I mean we've -
+B : I - I just don't - I mean, I think we - we're - we're getting rid of major  differences like we're not using the lapel anymore, an- and so forth. But
+F : It's - I - I understand, that's fine with me. I - I g- would  adjust,  these,  cuz I keep m-
+C : What about just a different headband  thing?
+C : Or even if we could attach two headband - Like, I don't mind  those, but it -
+A : th-
+C : I mean, can we keep the microphones,  and just
+C : somehow attach a more comfortable
+A : Mmm.
+C : That's  problem  with this one. The -
+C : the ear  here.  fit  ear.
+F : @@  Huh.
+A : I mean, so we can go microphone shopping, and get - get more microphones. It's just - w-
+B : You know. I mean, here's another argument against worrying too much about uniformity. We have something like forty-five hours of data collected.
+F : Specially.
+A : Well, I -
+A : I  my  feeling is,
+A : And so I- my  mikes  fine.
+D : Yeah, that's right.
+A : So should I just go do  that?
+A : And then also, should we go ahead and get another wireless  system?
+B : Uh, another wireless system.
+B : You mean, another transmitter?  Or - or -
+B : Uh, because - cuz we've had - With the exception of forgetting to change the batteries from time to time, uh, we've really had no tr- no  trouble with this at all, right? And -
+C : Another one just bit the dust.
+C : I think  there's a problem with this one.
+A : uh, what's-her-name.
+A : Whoever will pay. You.
+B : Yeah, yeah.
+C : we can get a couple of tho- I don't know how good quality  enough.
+C : The k- kind that guys that like to look like they're really cool at airports  wear.
+A : Yeah.
+B : Yeah, but I don't know that
+C : You can't  miss
+C : E- Well, there  that.
+B : Oh you've - you've got  one.
+B : So where - where does - how do you wear  that? What does that -
+F : You - you put it over the corner of your ear.
+F : I can't - I'm having competing microphone - headphone
+E : There's another  in  bulb
+B : Yeah, that  I've seen. Yeah.
+C : people like  that.
+F : The acoustics  -
+F : the acoustics on this are really s- m- better  than when I talk into it directly.
+F : Works with this.  I don't know.
+C : you know, the future, of the fact that maybe people will  some
+E : It is  adaptor  mine  too.  this  that,
+E : then we'd just have adaptors and people would plug them   in.
+E : You could use - they could use their own.
+A : I wonder if you could  do an adaptor. I don't know if you can or not.
+C : Mmm.
+B : An- another side to that is that, um, in principle,  uh, if it
+A : Right.
+E : You're saying there's a mike that plugs in to the I_RAM  board? or -
+B : No, no, what I'm saying is that we're gonna have to put together some  kind of a
+B : little superstructure, d- some  sort of demo box that it - that doesn't
+B : do a whole lot, but it somehow connects to  -
+B : uh, remotely to  this I_RAM board which will be doing the real computation.
+B : hold like this,  display,
+B : do we have  one of these - You know. I don't know.
+A : I mean, what I  was envisioning was a P_D_A with a cellular link in it.
+B : Yeah. So, is- is Bluetooth  the sort of thing that'd be, uh -
+A : O_K,   then uh,
+A : So, specifically, the U_ W  folks have been
+A : wanting to get access  to it. So I think the right thing to do for that, is figure out how to do C_V_S without
+E : I was reading through some of the C_V_S documentation and you can  substitute  H  command.
+A : Yes, except that the command has to not  password.
+A : Because it- it's non-interactive. And so the only way to do  that is with, uh -
+A : S_hosts , which is insecure.
+A : So we still  look  sure  solved,  and I just haven't found the solution yet.
+A : not really,  because then we have the coordination issue.
+A : I mean, so one  They could simply log in to ICSI
+A : So the intention was to put everything except the audio files themselves under revision control.
+A : And then the other issue Jane and I spoke of briefly  is just general permission issues.
+A : But that means anyone in the Meeting Recorder group  can overwrite the files.
+A : And so that's a pretty coarse level of might  owner
+A : make it owned by a not real user, and then root  will be able to do it.
+A : But root  is pretty tightly controlled here.
+F : I had another thought.
+F : Have them   -
+A : Yes,  but if you do that, then someone who isn't the owner can't
+A : unchange  it.
+C : But it doesn't have to be root. It could be some other user that we all can S_U_X to.
+E : But there is a user  doctor-speech.
+A : Oh, do  you?
+A : I mean, I'm not too  worried, because the group's pretty small.
+A : and correcting  you?
+A : O_K,   available  all  the time, who say "there's an error here",
+F : Well I p- At this
+E : Well, with C_V_S, though, you don't actually have to do  it that way.
+C : Yeah.
+A : You have a choice.  let
+E : What I'm saying is that it can be  and  it can be reviewed.
+F : Well-
+F : I - I wanna also  say that, you know, this is a -
+A : revision.
+F : uh, uh, My - my view  version  toward  versions,
+F : then
+F : changes  making  file.  You know, it's - it's, um.
+A : Well, so, you don't have to release  it
+A : to the world  ready  to.
+F : That's  right.
+F : And then after that,  then this would probably work.
+C : I mean -
+C : Is C_V_S, like - Yeah, just keep the lock  on.
+E : No, it does not - the C_V_S
+E : In other words, everybody  anything.
+E : The C_ stands for "concurrent".
+C : we only want,  anyway,  and she - I mean, it's just an i-
+A : wants to have access to these files.  point.
+C : But not to modify  read  them.
+A : they shouldn't have to tell us  about that
+A : correct an error in one of their  files.
+F : Well, the " key " file is -
+C : I don't know,  uh - I mean -
+F : ke- " key " file's different.
+A : Different than what?
+F : And also if you notice that there was an extra speaker, and didn't get mentioned in the "key" file, but they were only there for a second, but it's t- useful to mention that they were there.
+A : But, I mean, the meetings are gonna be the same way.  So U_W records a meeting, we transcribe it.
+F : but it's different  transcript.
+A : A few months later they listen to it and they say "Ope! They got that acronym wrong."
+C : It's sort of not really a question about permissions,  procedure.  Either  all  Jane,  someone,
+C : or they all  don't.  But it's sort of -
+C : And if they all do,  problem,  right? Cuz once they give us the data, it's
+C : ours,  and if they wanna make changes - I mean, ours to sort of
+C : And if they wanna make changes,  do  that.
+A : The - the p- the point  nice  one  repository.
+B : Yeah
+A : And if we  let  data,
+A : they're not gonna store  repository.
+A : Or if we make it inconvenient  for them to change their data.
+A : I - I'm just looking at it the other way around.
+C : What if they have accounts  here,
+C : I mean, I'm worried. If you can't lock a file,  scary.
+C : And if they have accounts here and they're modifying  it - If they're ac-
+C : modifying  transcripts and "key" files,
+C : then they could  do it
+A : Ye- well, I don't see a real difference between R_C_S and any other  system.
+A : you can have multiple people modifying and if the changes don't overlap  each other,
+A : they can just do  it.
+A : So the problem with R_C_S  is that if two people
+A : want to modify a file at the same time  can't,
+B : What- what does C_V_S do if they - if they do  overlap?
+C : So, maybe there is  effectively
+C : lock  don't  want people to make any changes?
+A : At the repository  certainly  is. You can mark a file as - as "you can't check this out".
+B : O_K.
+C : is, sort of, responsible  transcription  to decide
+C : how  when  to put these locks, or -
+A : So that, when you're developing it and it's really rough,  repository.
+A : You wait to the point when you're ready to release  repository  and if other people wanna -
+E : The - Maybe the model - It's a little bit different in C_V_S. When you check something out, you actually create your own directory with copies of everything in it, and that's what you work  on.
+A : Copy.
+C : I guess it depends on Jane's - Uh, you know, if that's - if that model works  transcripts,  then
+C : that's fine.  But if that pr-
+C : @@
+C : someone to come in and modify while you're  modifying, and they turn out to be changes that,
+C : you know, would have been better to wait  version  came out, then
+C : that's really up to you,  software,  so.
+F : the - uh, what if one  one  person was making was
+F : with reference to some typographical  convention.
+F : And the other  person n- unkn- n-
+F : quite unknowingly, was changing it the other way around.
+F : Then you could end up with a real  mess,  is  an argument to be made for having a single editor editing at that level.
+F : phraseology of "at this level of" - I don't remember how you put it, types  of conventions,
+F : and if it were an acronym,  then I would - I think that it would make sense f- for them to
+F : have input  into  that  level of things, but I wouldn't want them to be changing -
+A : Imagine that we reverse this and they  we  sending  them to them.
+A : and I sent them email and said "here's this error", and I didn't get a response  for a couple weeks,
+A : And I don't  happen.  convenient  make.
+F : Well -
+F : the transcripts before they become public.
+F : I - I have received some suggestions for change, which I've made.
+F : And um, I think with an acronym,  easy  change to incorporate.
+F : But it would  worry  me to have people, um,
+F : having free reign to change these things, because of the need to have consistent conventions. And people who
+F : are only just visiting  the data might not have a sense of the larger system.
+C : Yeah, that's what I  too.
+E : You know, f- casual  browsing  can just r- get it read-only, can't check in to the archive.
+E : I - I think one  agree  on is that
+E : you know, we can say that for sure  there's no problems with any of the transcripts. I mean there's,
+E : uh - f- You know, something's  somehow.  So we need to
+E : have some  mechanism for,
+E : um, handling changes in the future.
+F : I agr- I agree but I have to also add one  other  which is
+F : Adam's  point about when you were reviewing the I_B_M transcripts.
+F : u- This was mentioned at the beginning of the meeting.
+F : You said that there were some  wasn't  already,  see  said.
+F : So there - it's not  wrong  Sometimes  absolutely  is  ask  the person,
+F : maybe,  told  later  they might not have been able to tell you,
+F : even if they were listening  to it.
+F : Now - But of course, this does  possibility  allowing,
+F : um, uh, um, nice to have a notation  for that, but. Yeah.
+B : Gotta go.
+C : I mean, I like that idea because even a casual user can always send email
+C : you know, hopefully we'll give them a response. And if they really do it a lot,  and they say
+C : "we're a casual user but we want a chance to change the transcripts " then we can
+C : face that if it happens,  but
+A : Can you write "unread" on that?
+C : I don't really see the people at U_W that I know  now  making huge amoun- investing huge amounts of time in changing transcripts. But I could be wrong.
+A : Probably not transcripts,  one  all  the files.
+A : And they're certainly  tools.
+A : And, either you  share
+E : You know, p- anybody  can check out the code,
+E : but not  Yeah.
+C : Right. And  is  yet
+C : what if  it's O_K to just handle it
+C : sort of a person  charge  philosophy  behind the changes,
+C : maybe by request,  I've  overwritten a -
+C : a file by mistake,  wanting  did.
+C : letting everybody go in and make changes,  cuz it's real easy when you're
+C : trying to, I don't know, run alignments and there's a word you wanna fix, to go in and do that and then mess up other  things,
+F : Mm-hmm.
+A : You can back everything out.
+E : there's sort of two types that can be made. local,
+E : or to the global.
+E : And so people can make changes  local  and if they screw those up,
+E : that's, you know, in their - that's only on them. It's w- it's the checking in  part that r- we really care about, and
+E : that  do  this.
+A : Right, but what I want to avoid  is ending up with two corpora.
+E : Definitely.
+A : they'll make all the changes, they'll never tell us  about the changes,
+C : I think we're already  gonna - I mean there's already
+C : some  chance that different annotations, different
+C : control  knowing  knowing  that you're adding
+C : um, annotations on one version and you don't have the latest corrections maybe at that point.  And then you finish the project and you realize that there were
+C : corrections  originals  and then
+C : you have to merge  them.
+C : the thing  do  that, is
+C : Cuz you can automatically pretty much merge  meeting
+C : and the synch  times ch-
+A : Uh, Transcript L_ one one six.
+C : Now, wait, are - are we doing them simultaneously or one at a time? Alright.
+A : I wasn't planning
+E : Lee
+A : Transcript L_ one one six.
+A : eight two six, four four five, one nine nine
+A : one three one one, eight seven three six, seven one one seven
+A : eight, two eight three, eight zero, three eight two, nine
+A : two, seven five eight, four three, zero nine nine, seven
+A : zero nine four, four eight four, four seven four
+A : seven six, four one, eight eight, nine nine, eight seven
+A : three two, four six, four three, one nine, two eight
+A : four seven six two,  five,
+C : Transcript L_ one one seven.
+C : seven five eight, five one three, O_ seven one four
+C : two six nine four, five six two three, seven O_ four four
+C : seven, five one three, seven four, eight O_ one, five
+C : six six two seven, five, three seven six
+C : eight O_ six, nine seven six, one four two
+C : one three nine, eight five, two three one O_
+C : eight eight four four, four, two nine five
+C : four six one, one O_ three, two two four.
+E : Transcript L_ dash one two seven.
+E : two eight two, two seven six, eight six four
+E : eight eight three, two zero six, two six two
+E : eight seven, five six, seven six, one seven, zero zero
+E : seven eight three zero, seven five two seven, five three eight three
+E : five five, seven three, zero eight, five nine, five seven
+E : one, four eight two, eight nine, six six seven, zero
+E : two nine three six, nine two one five, zero five eight zero
+E : nine seven six, six O_ three, nine seven six.
+F : Transcript L_ one two nine.
+F : zero nine, zero zero, five three, nine two, five five
+F : six, zero three seven, seven zero, nine eight eight, nine
+F : zero seven five, nine six nine, one one eight two
+F : six eight seven, two five, one one four four
+F : O_ four four, five five two,
+F : five, seven five three, O_ O_, six seven nine
+F : one seven eight four, three, two seven eight
+F : six three seven five, one, two eight four.
+D : Transcript L_ one two eight.
+D : eight, four three two, three six, one O_ seven, six
+D : zero four six, six nine, six five O_ nine
+D : six two, eight seven, eight one, seven seven, O_ two
+D : nine, seven nine two, one zero, zero five five, one
+D : three zero, four seven, nine, six one five
+D : two zero seven
+D : three, five two four, zero six, six O_ two, eight
+D : three eight two, two seven, one nine nine six.
+F : Ooo!
